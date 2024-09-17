@@ -1,0 +1,472 @@
+{
+  "chapter": {
+    "id": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1",
+    "number": 1,
+    "ref": "https://www.bible.com/bible/19/MAT.1.BD2011",
+    "createdAt": "2024-09-07T11:51:13.229Z",
+    "updatedAt": "2024-09-07T11:51:13.229Z",
+    "bookId": "19a2a897-aeb0-4769-9425-29b039e7e344"
+  },
+  "verses": [
+    {
+      "id": "817cf08e-9c11-4a0b-86ce-b79cc76abc70",
+      "number": 1,
+      "content": "Đây là gia phả của Đức Chúa Jesus Christ, con cháu Đa-vít, con cháu Áp-ra-ham.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.844Z",
+      "updatedAt": "2024-09-07T15:31:43.844Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "621740bb-32ef-4a6e-9c12-993dfa8b2295",
+      "number": 2,
+      "content": "Áp-ra-ham sinh I-sác; I-sác sinh Gia-cốp; Gia-cốp sinh Giu-đa và các anh em ông ấy.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.855Z",
+      "updatedAt": "2024-09-07T15:31:43.855Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "4841b211-7304-4f0b-9630-bcc6ce2f95ab",
+      "number": 3,
+      "content": "Giu-đa bởi Ta-ma sinh Pa-rê và Xê-ra. Pa-rê sinh Hê-rôn; Hê-rôn sinh A-ram;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.859Z",
+      "updatedAt": "2024-09-07T15:31:43.859Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "6200eca8-aa6b-472a-96b1-c5f913904f18",
+      "number": 4,
+      "content": "A-ram sinh A-mi-na-đáp; A-mi-na-đáp sinh Nát-sôn; Nát-sôn sinh Sanh-môn.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.862Z",
+      "updatedAt": "2024-09-07T15:31:43.862Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "5ee7bdce-672f-4920-b2ab-1c52e12f6a09",
+      "number": 5,
+      "content": "Sanh-môn bởi Ra-háp sinh Bô-a. Bô-a bởi Ru-tơ sinh Ô-bết. Ô-bết sinh Giê-se;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.864Z",
+      "updatedAt": "2024-09-07T15:31:43.864Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "05eb520b-12ad-4197-a8f7-9e403359c85a",
+      "number": 6,
+      "content": "Giê-se sinh Vua Đa-vít.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.866Z",
+      "updatedAt": "2024-09-07T15:31:43.866Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "e053ef80-2e0d-4380-b054-a85932d2bf8e",
+      "number": 6,
+      "content": "Đa-vít bởi vợ của U-ri-a sinh Sa-lô-môn.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.866Z",
+      "updatedAt": "2024-09-07T15:31:43.866Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "44c8a826-736e-4fd6-b80a-8f34fc201898",
+      "number": 7,
+      "content": "Sa-lô-môn sinh Rê-hô-bô-am; Rê-hô-bô-am sinh A-bi-gia; A-bi-gia sinh A-sa.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.868Z",
+      "updatedAt": "2024-09-07T15:31:43.868Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "758b3614-4849-4f97-a144-8e7d27d2af3b",
+      "number": 8,
+      "content": "A-sa sinh Giê-hô-sa-phát; Giê-hô-sa-phát sinh Giô-ram; Giô-ram sinh U-xi-a.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.871Z",
+      "updatedAt": "2024-09-07T15:31:43.871Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "a1a787fb-6249-4620-b831-c6bef2db5255",
+      "number": 9,
+      "content": "U-xi-a sinh Giô-tham; Giô-tham sinh A-kha; A-kha sinh Ê-xê-chia.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.874Z",
+      "updatedAt": "2024-09-07T15:31:43.874Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "87be00cc-4ad7-470c-a0f7-da58137bdb21",
+      "number": 10,
+      "content": "Ê-xê-chia sinh Ma-na-se; Ma-na-se sinh A-môn; A-môn sinh Giô-si-a.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.876Z",
+      "updatedAt": "2024-09-07T15:31:43.876Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "61517040-ca4d-4bec-b51c-3eeb323c3944",
+      "number": 11,
+      "content": "Giô-si-a sinh Giê-khô-ni-a và các anh em ông ấy vào thời bị lưu đày qua Ba-by-lôn.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.879Z",
+      "updatedAt": "2024-09-07T15:31:43.879Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "7b49bcd8-c7b3-4600-9d5f-702e834c6b16",
+      "number": 12,
+      "content": "Sau khi bị đày qua Ba-by-lôn, Giê-khô-ni-a sinh Sa-la-thi-ên; Sa-la-thi-ên sinh Xê-ru-ba-bên;",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.880Z",
+      "updatedAt": "2024-09-07T15:31:43.880Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "e45012a5-a57e-4dfd-afa3-64229791c0ff",
+      "number": 13,
+      "content": "Xê-ru-ba-bên sinh A-bi-út; A-bi-út sinh Ê-li-a-kim; Ê-li-a-kim sinh A-xô.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.882Z",
+      "updatedAt": "2024-09-07T15:31:43.882Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "60e409ff-3594-4ef6-996e-66615c967d08",
+      "number": 14,
+      "content": "A-xô sinh Xa-đốc; Xa-đốc sinh A-khim; A-khim sinh Ê-li-út;",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.885Z",
+      "updatedAt": "2024-09-07T15:31:43.885Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "44277062-c1cc-4e23-b97d-10aa663d1af4",
+      "number": 15,
+      "content": "Ê-li-út sinh Ê-lê-a-xa; Ê-lê-a-xa sinh Ma-than; Ma-than sinh Gia-cốp;",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.886Z",
+      "updatedAt": "2024-09-07T15:31:43.886Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "8f20eeba-719f-499b-b143-643995ebf6ff",
+      "number": 16,
+      "content": "Gia-cốp sinh Giô-sép chồng của Ma-ry; Ma-ry là người đã sinh Đức Chúa Jesus cũng gọi là Đấng Christ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.889Z",
+      "updatedAt": "2024-09-07T15:31:43.889Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "ddcbb794-dfea-4272-ae19-d089386e88e7",
+      "number": 17,
+      "content": "Như vậy, từ Áp-ra-ham đến Đa-vít tất cả là mười bốn đời, từ Đa-vít đến khi bị lưu đày qua Ba-by-lôn mười bốn đời, và từ khi bị lưu đày qua Ba-by-lôn đến Đấng Christ mười bốn đời.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.891Z",
+      "updatedAt": "2024-09-07T15:31:43.891Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "b1167d49-1d44-47fb-af4c-b3b7abfeb69f",
+      "number": 18,
+      "content": "Sự giáng sinh của Đức Chúa Jesus Christ đã xảy ra như thế này: Ma-ry mẹ Ngài đã đính hôn với Giô-sép, nhưng trước khi hai người đến với nhau, nàng đã thụ thai bởi Đức Thánh Linh.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.893Z",
+      "updatedAt": "2024-09-07T15:31:43.893Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "459e015b-ae32-4be0-b465-057b7954d569",
+      "number": 19,
+      "content": "Giô-sép chồng nàng, một người có tình nghĩa và không muốn cho nàng mang tiếng xấu, nên định kín đáo từ hôn với nàng.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.895Z",
+      "updatedAt": "2024-09-07T15:31:43.895Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "1256d1e9-127d-4ae3-b39e-c996043e6a81",
+      "number": 20,
+      "content": "Tuy nhiên, đang khi Giô-sép suy nghĩ về việc ấy, này, một thiên sứ của Chúa hiện đến với chàng trong chiêm bao, bảo rằng, “Hỡi Giô-sép, con cháu Đa-vít, chớ ngại lấy Ma-ry làm vợ, vì thai nhi trong dạ nàng đã được thụ thai bởi Đức Thánh Linh.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.898Z",
+      "updatedAt": "2024-09-07T15:31:43.898Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "42adb79e-6743-47dc-ac98-9c41d8c2c250",
+      "number": 21,
+      "content": "Nàng sẽ sinh một con trai; ngươi phải đặt tên con trai ấy là Jesus, vì chính con trai ấy sẽ cứu dân Ngài ra khỏi tội.”",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.903Z",
+      "updatedAt": "2024-09-07T15:31:43.903Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "8d56fb5d-0e0b-4f79-a97a-b8643a0ad3a0",
+      "number": 22,
+      "content": "Mọi việc ấy đã xảy ra để làm ứng nghiệm lời Chúa đã phán qua đấng tiên tri rằng,",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.908Z",
+      "updatedAt": "2024-09-07T15:31:43.908Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "5258698e-d387-446e-820b-326a62e51f48",
+      "number": 23,
+      "content": "“Này, một trinh nữ sẽ thụ thai và sinh một con trai;",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T15:31:43.913Z",
+      "updatedAt": "2024-09-07T15:31:43.913Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "06eb9d98-23e8-4635-9259-f0c8263d5e01",
+      "number": 23,
+      "content": "Và người ta sẽ gọi con trai ấy là Em-ma-nu-ên,”",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T15:31:43.913Z",
+      "updatedAt": "2024-09-07T15:31:43.913Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "5169d491-bbfa-4ae4-a017-186634c9969b",
+      "number": 23,
+      "content": "Nghĩa là, “Đức Chúa Trời ở cùng chúng ta.”",
+      "order": 2,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.913Z",
+      "updatedAt": "2024-09-07T15:31:43.913Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "5fc476a1-4bd2-4454-8026-c97830a66b1e",
+      "number": 24,
+      "content": "Sau khi thức dậy Giô-sép làm y như lời thiên sứ của Chúa đã dạy. Chàng đem vợ về",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.919Z",
+      "updatedAt": "2024-09-07T15:31:43.919Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "938ec564-7f29-4eda-a0e2-df28b719b1e5",
+      "number": 25,
+      "content": "nhưng không ăn ở với nàng cho đến khi nàng sinh con trai đầu lòng, và chàng đặt tên con trai đó là Jesus.",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:31:43.926Z",
+      "updatedAt": "2024-09-07T15:31:43.926Z",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "85f102a4-6e62-434f-8c5d-bef5807e3338",
+      "content": "nt: con",
+      "position": 50,
+      "order": 0,
+      "createdAt": "2024-09-07T15:31:49.073Z",
+      "updatedAt": "2024-09-07T15:31:49.073Z",
+      "verseId": "817cf08e-9c11-4a0b-86ce-b79cc76abc70",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "0321e62e-9ef6-4f85-be58-18a42796f8de",
+      "content": "Ê-sai 8:8,10",
+      "position": 47,
+      "order": 1,
+      "createdAt": "2024-09-07T15:31:49.085Z",
+      "updatedAt": "2024-09-07T15:31:49.085Z",
+      "verseId": "06eb9d98-23e8-4635-9259-f0c8263d5e01",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "43abc39d-5337-42ae-808d-52d84be37ad0",
+      "content": "Ê-sai 7:14",
+      "position": 30,
+      "order": 2,
+      "createdAt": "2024-09-07T15:31:49.103Z",
+      "updatedAt": "2024-09-07T15:31:49.103Z",
+      "verseId": "5258698e-d387-446e-820b-326a62e51f48",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "b163fb38-4661-4837-b8f5-72d9e0597948",
+      "content": "nt: người công chính, người ngay lành",
+      "position": 43,
+      "order": 3,
+      "createdAt": "2024-09-07T15:31:49.117Z",
+      "updatedAt": "2024-09-07T15:31:49.117Z",
+      "verseId": "459e015b-ae32-4be0-b465-057b7954d569",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "3ae26314-0403-4b74-8673-909e4edb01dc",
+      "content": "nt: biết; ctd: chung đụng xác thịt",
+      "position": 16,
+      "order": 3,
+      "createdAt": "2024-09-07T15:31:49.119Z",
+      "updatedAt": "2024-09-07T15:31:49.119Z",
+      "verseId": "938ec564-7f29-4eda-a0e2-df28b719b1e5",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "57c48e56-80ab-4e2a-a35b-f03443760eb9",
+      "content": "nt: con",
+      "position": 144,
+      "order": 5,
+      "createdAt": "2024-09-07T15:31:49.142Z",
+      "updatedAt": "2024-09-07T15:31:49.142Z",
+      "verseId": "1256d1e9-127d-4ae3-b39e-c996043e6a81",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "02fa811f-9eb8-4a7b-b5ce-7f685ffb039b",
+      "content": "nt: Christ",
+      "position": 100,
+      "order": 6,
+      "createdAt": "2024-09-07T15:31:49.146Z",
+      "updatedAt": "2024-09-07T15:31:49.146Z",
+      "verseId": "8f20eeba-719f-499b-b143-643995ebf6ff",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "b5111586-53e7-4898-b3f2-8e9cf4e89d2d",
+      "content": "Jesus, tiếng Hy-lạp, là dạng của chữ Giô-sua, tiếng Hê-bơ-rơ, có nghĩa là Đấng Christ, Đấng Được Xức Dầu làm Chúa Cứu Thế",
+      "position": 67,
+      "order": 7,
+      "createdAt": "2024-09-07T15:31:49.158Z",
+      "updatedAt": "2024-09-07T15:31:49.158Z",
+      "verseId": "42adb79e-6743-47dc-ac98-9c41d8c2c250",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    }
+  ],
+  "headings": [
+    {
+      "id": "0e951410-68c3-44be-bb47-80d0cc13b229",
+      "content": "Gia Phả của Đức Chúa Jesus",
+      "order": 0,
+      "createdAt": "2024-09-07T15:31:55.379Z",
+      "updatedAt": "2024-09-07T15:31:55.379Z",
+      "verseId": "817cf08e-9c11-4a0b-86ce-b79cc76abc70",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "e48aeca9-9f63-457e-903a-ddf2312fd7ac",
+      "content": "Sự Tích Chúa Giáng Sinh",
+      "order": 0,
+      "createdAt": "2024-09-07T15:31:55.379Z",
+      "updatedAt": "2024-09-07T15:31:55.379Z",
+      "verseId": "b1167d49-1d44-47fb-af4c-b3b7abfeb69f",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    }
+  ],
+  "references": [
+    {
+      "id": "598e2ecc-3f76-4047-9d47-dd8f4d445936",
+      "content": "(Lu 3:23-38; Ru 4:18-22; 1 Sử 3:10-17)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:31:59.762Z",
+      "updatedAt": "2024-09-07T15:31:59.762Z",
+      "verseId": "817cf08e-9c11-4a0b-86ce-b79cc76abc70",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    },
+    {
+      "id": "f04c8b49-e14f-42e2-9a09-342f2e252486",
+      "content": "(Lu 2:1-7)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:31:59.762Z",
+      "updatedAt": "2024-09-07T15:31:59.762Z",
+      "verseId": "b1167d49-1d44-47fb-af4c-b3b7abfeb69f",
+      "chapterId": "56ae5dc2-ea48-4b20-a7ff-9b909b93e1b1"
+    }
+  ]
+}

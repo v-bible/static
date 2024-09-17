@@ -1,0 +1,104 @@
+{
+  "chapter": {
+    "id": "6ccde746-39a6-4b44-949a-b917fdcc5eee",
+    "number": 134,
+    "ref": "https://www.bible.com/bible/19/PSA.134.BD2011",
+    "createdAt": "2024-09-07T11:51:11.556Z",
+    "updatedAt": "2024-09-07T11:51:11.556Z",
+    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+  },
+  "verses": [
+    {
+      "id": "3a72d5e0-a5aa-4628-ad3a-fd5fdfc60e58",
+      "number": 1,
+      "content": "Hỡi tất cả tôi tớ CHÚA,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.696Z",
+      "updatedAt": "2024-09-07T14:23:56.696Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    },
+    {
+      "id": "aa352737-7942-4957-931e-168858f74fdc",
+      "number": 1,
+      "content": "Những người phục vụ trong nhà CHÚA ban đêm, xin hãy chúc tụng CHÚA.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.696Z",
+      "updatedAt": "2024-09-07T14:23:56.696Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    },
+    {
+      "id": "8a1abbb4-5dcd-4539-a7fd-e2c490e04498",
+      "number": 2,
+      "content": "Xin đưa cao đôi tay quý vị lên trong nơi thánh",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.706Z",
+      "updatedAt": "2024-09-07T14:23:56.706Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    },
+    {
+      "id": "7de82932-7ce5-48fc-94b3-3193100e2162",
+      "number": 2,
+      "content": "Và chúc tụng CHÚA.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.706Z",
+      "updatedAt": "2024-09-07T14:23:56.706Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    },
+    {
+      "id": "f73ba068-ec45-4934-aab1-2e7251414091",
+      "number": 3,
+      "content": "Nguyện CHÚA, Đấng dựng nên trời và đất,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.708Z",
+      "updatedAt": "2024-09-07T14:23:56.708Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    },
+    {
+      "id": "389eb07e-96cb-448f-895f-6e2e9922e01b",
+      "number": 3,
+      "content": "Ban phước cho quý vị từ Si-ôn.",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:23:56.708Z",
+      "updatedAt": "2024-09-07T14:23:56.708Z",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    }
+  ],
+  "footnotes": [],
+  "headings": [
+    {
+      "id": "69158d35-4cd9-4452-aeab-8da75855b0f1",
+      "content": "Kêu Gọi Những Người Phục Vụ Đền Thờ Ban Đêm Ca Ngợi CHÚA",
+      "order": 0,
+      "createdAt": "2024-09-07T14:23:58.999Z",
+      "updatedAt": "2024-09-07T14:23:58.999Z",
+      "verseId": "3a72d5e0-a5aa-4628-ad3a-fd5fdfc60e58",
+      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    }
+  ],
+  "references": [],
+  "psalmMetadata": {
+    "id": "11104296-b5d0-41a2-bc73-0b6a86d316b8",
+    "title": "Bài ca đi lên đền thánh",
+    "createdAt": "2024-09-07T14:24:01.171Z",
+    "updatedAt": "2024-09-07T14:24:01.171Z",
+    "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+  }
+}
