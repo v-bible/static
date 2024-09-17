@@ -1,0 +1,403 @@
+{
+  "chapter": {
+    "id": "61a15762-fab0-434f-84d9-df37aff5e4d3",
+    "number": 141,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.894Z",
+    "updatedAt": "2024-09-10T00:39:05.894Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "e4b99a86-21c2-44fa-b9a0-4262f2a6432d",
+      "number": 1,
+      "content": "Thánh vịnh. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:34:08.547Z",
+      "updatedAt": "2024-09-10T04:34:08.547Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "b8741f8f-2d39-4c4a-904d-5de1996411ac",
+      "number": 1,
+      "content": "Lạy CHÚA, con kêu lên cùng Chúa,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.555Z",
+      "updatedAt": "2024-09-10T04:34:08.555Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "b6579718-9e98-4e1f-ac7e-3b348092b290",
+      "number": 1,
+      "content": "xin Ngài mau đến phù trợ con.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.557Z",
+      "updatedAt": "2024-09-10T04:34:08.557Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "c52a34b5-3261-465f-b0d7-97d37809d4b6",
+      "number": 1,
+      "content": "Xin lắng nghe lời con, khi con kêu lên Ngài.",
+      "order": 3,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.559Z",
+      "updatedAt": "2024-09-10T04:34:08.559Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "3958dcf2-3ff2-46d1-b364-64dc1a2d5c7d",
+      "number": 2,
+      "content": "Ước chi lời con nguyện",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.561Z",
+      "updatedAt": "2024-09-10T04:34:08.561Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "932998f5-9fb4-491e-91b0-99edc50bad80",
+      "number": 2,
+      "content": "như hương trầm bay toả trước Thánh Nhan,",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.564Z",
+      "updatedAt": "2024-09-10T04:34:08.564Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "1edb7f12-6519-4450-8f05-787065b45287",
+      "number": 2,
+      "content": "và tay con giơ lên",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.566Z",
+      "updatedAt": "2024-09-10T04:34:08.566Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "42da6d3f-1113-4330-853d-0b649276d5de",
+      "number": 2,
+      "content": "được chấp nhận như của lễ ban chiều.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.573Z",
+      "updatedAt": "2024-09-10T04:34:08.573Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "b8d0ac86-413f-4703-98d2-2f376488f42d",
+      "number": 3,
+      "content": "Xin canh giữ miệng con, lạy CHÚA,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.575Z",
+      "updatedAt": "2024-09-10T04:34:08.575Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "43896833-225b-4855-9a95-5c8cdf1b0918",
+      "number": 3,
+      "content": "và trông chừng lưỡi con.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.577Z",
+      "updatedAt": "2024-09-10T04:34:08.577Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "ffdd56ef-26aa-446a-9b03-c660ee686891",
+      "number": 4,
+      "content": "Xin đừng để lòng con nghiêng về sự dữ,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.583Z",
+      "updatedAt": "2024-09-10T04:34:08.583Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "1d184285-2264-44b2-b0d7-ecee4c902e07",
+      "number": 4,
+      "content": "đừng để con làm điều ác với bọn gian tà.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.586Z",
+      "updatedAt": "2024-09-10T04:34:08.586Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "ca5b30f8-6866-46ca-ba4a-c3eb9c74e946",
+      "number": 4,
+      "content": "Yến tiệc của chúng, con chẳng thèm ăn.",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.588Z",
+      "updatedAt": "2024-09-10T04:34:08.588Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "85771128-d017-4780-b90c-e577d3ccd2b1",
+      "number": 5,
+      "content": "Người công chính cứ việc đánh con",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.591Z",
+      "updatedAt": "2024-09-10T04:34:08.591Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "aa9e429d-351b-497f-9bf0-aadc84bc63eb",
+      "number": 5,
+      "content": "và lấy tình thương mà sửa dạy,",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.593Z",
+      "updatedAt": "2024-09-10T04:34:08.593Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "7b35281c-a0b7-4ef1-b77d-6026286bfcfb",
+      "number": 5,
+      "content": "nhưng dầu thơm kẻ dữ",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.595Z",
+      "updatedAt": "2024-09-10T04:34:08.595Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "7478e32b-641b-4c10-85a2-49bfa8568fb9",
+      "number": 5,
+      "content": "con quyết chẳng cho xức trên đầu ;",
+      "order": 3,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.597Z",
+      "updatedAt": "2024-09-10T04:34:08.597Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "4e4c8ef2-062c-453b-bac8-1fb749b577d8",
+      "number": 5,
+      "content": "khi chúng làm điều ác, con vẫn luôn cầu nguyện.",
+      "order": 4,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.599Z",
+      "updatedAt": "2024-09-10T04:34:08.599Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "c19c2e81-d726-460a-897e-4ed31da8b2aa",
+      "number": 6,
+      "content": "Thủ lãnh chúng giờ đây bị xô vào tảng đá,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.602Z",
+      "updatedAt": "2024-09-10T04:34:08.602Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "23540747-abdf-4ec6-9f07-0183e1ce0f6d",
+      "number": 6,
+      "content": "họ đã từng hả dạ nghe tiếng con than rằng :",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.604Z",
+      "updatedAt": "2024-09-10T04:34:08.604Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "9a87bbd9-2fad-4a1f-919e-3a1dcb9f7c56",
+      "number": 7,
+      "content": "“Xương chúng tôi nằm vung vãi trước miệng âm ty,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.606Z",
+      "updatedAt": "2024-09-10T04:34:08.606Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "f1384dc4-35bd-4aab-ad54-ef4da40b72ba",
+      "number": 7,
+      "content": "như thửa đất ngổn ngang vì kẻ đào người bới.”",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.608Z",
+      "updatedAt": "2024-09-10T04:34:08.608Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "eacd6f9a-3178-4635-ab05-d91b4a51fa56",
+      "number": 8,
+      "content": "Lạy CHÚA là Chúa Tể, con ngước mắt nhìn Ngài,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.611Z",
+      "updatedAt": "2024-09-10T04:34:08.611Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "e4289470-6fd5-4f60-888e-ec9634cd89a9",
+      "number": 8,
+      "content": "bên Ngài con ẩn náu, đừng để con thiệt mạng.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.613Z",
+      "updatedAt": "2024-09-10T04:34:08.613Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "f11f3bd2-44d3-4ef8-a7ce-2be8bb47ad7a",
+      "number": 9,
+      "content": "Xin giữ con khỏi sa lưới chúng giăng,",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.615Z",
+      "updatedAt": "2024-09-10T04:34:08.615Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "d455fe0b-c172-4c03-ba32-e37573730bc5",
+      "number": 9,
+      "content": "khỏi rơi vào cạm bẫy quân làm điều ác,",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.617Z",
+      "updatedAt": "2024-09-10T04:34:08.617Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "ded6691d-10d7-40f2-840f-c38a3472ae32",
+      "number": 10,
+      "content": "cho bọn ác nhân mắc bẫy chính chúng gài,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.620Z",
+      "updatedAt": "2024-09-10T04:34:08.620Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "0352be06-1c97-463c-a59c-bd6e264246ac",
+      "number": 10,
+      "content": "còn con đây thì được thoát khỏi.",
+      "order": 1,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:34:08.623Z",
+      "updatedAt": "2024-09-10T04:34:08.623Z",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1b4317bf-ab37-493f-a25b-ebd736261d69",
+      "content": "Trong <i>ai ca này của cá nhân</i>, tác giả cầu xin Đức Chúa không để cho mình bị lôi kéo vào con đường tội lỗi và rơi vào cạm bẫy của ác nhân. Cấu trúc : <b>1</b>) Xin Đức Chúa đến phù trợ (cc. 1-2) ; <b>2</b>) Xin Đức Chúa đừng để bị lôi cuốn làm sự dữ (cc. 3-7) ; <b>3</b>) Xin khỏi sa cạm bẫy của ác nhân (cc. 8-10).",
+      "position": 52,
+      "order": 0,
+      "createdAt": "2024-09-10T04:34:08.553Z",
+      "updatedAt": "2024-09-10T04:34:08.553Z",
+      "headingId": "be7a1f91-8628-4054-9203-67afc198b883",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "528fa318-9bb1-4653-8bb0-f72e79c7e9d8",
+      "content": "<i>Tay giơ lên</i> là cử chỉ của người cầu nguyện.",
+      "position": 18,
+      "order": 1,
+      "createdAt": "2024-09-10T04:34:08.568Z",
+      "updatedAt": "2024-09-10T04:34:08.568Z",
+      "verseId": "1edb7f12-6519-4450-8f05-787065b45287",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    },
+    {
+      "id": "f7ca780c-c124-4372-a951-fe7baa265ff2",
+      "content": "<i>Mắc bẫy chính chúng gài</i> = gậy ông lại đập lưng ông.",
+      "position": 39,
+      "order": 2,
+      "createdAt": "2024-09-10T04:34:08.621Z",
+      "updatedAt": "2024-09-10T04:34:08.621Z",
+      "verseId": "ded6691d-10d7-40f2-840f-c38a3472ae32",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    }
+  ],
+  "headings": [
+    {
+      "id": "be7a1f91-8628-4054-9203-67afc198b883",
+      "content": "Tv 141 (140) Lời cầu cho khỏi bị lôi kéo làm điều ác",
+      "order": 0,
+      "createdAt": "2024-09-10T04:34:08.551Z",
+      "updatedAt": "2024-09-10T04:34:08.551Z",
+      "verseId": "e4b99a86-21c2-44fa-b9a0-4262f2a6432d",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    }
+  ],
+  "references": [
+    {
+      "id": "49d64f00-1cb2-45e5-b71c-e996e364a5ac",
+      "content": "Tv 28,2; 134,2",
+      "position": 3,
+      "order": 0,
+      "createdAt": "2024-09-10T04:34:08.570Z",
+      "updatedAt": "2024-09-10T04:34:08.570Z",
+      "verseId": "1edb7f12-6519-4450-8f05-787065b45287",
+      "chapterId": "61a15762-fab0-434f-84d9-df37aff5e4d3"
+    }
+  ]
+}

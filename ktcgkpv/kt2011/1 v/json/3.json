@@ -1,0 +1,679 @@
+{
+  "chapter": {
+    "id": "002008f0-c0e0-43e7-903c-84067dd4ee72",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.842Z",
+    "updatedAt": "2024-09-10T00:39:05.842Z",
+    "bookId": "de940084-d39d-48b1-9a44-768617fe5cdd"
+  },
+  "verses": [
+    {
+      "id": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "number": 1,
+      "content": "Sa-lô-môn thành con rể của Pha-ra-ô vua Ai-cập, vì đã cưới công chúa vua Ai-cập, và đưa nàng về Thành của Đa-vít, cho đến khi hoàn thành việc xây cất cung điện của ông, cũng như Đền Thờ ĐỨC CHÚA và tường thành quanh Giê-ru-sa-lem.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:04.919Z",
+      "updatedAt": "2024-09-10T03:12:04.919Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "14d1e2aa-18fd-4d09-9d19-22c2c5c92552",
+      "number": 2,
+      "content": "Chỉ có điều là dân chúng vẫn tế lễ trên các nơi cao, vì cho đến nay ông vẫn chưa xây được ngôi đền nào kính Danh ĐỨC CHÚA.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:04.963Z",
+      "updatedAt": "2024-09-10T03:12:04.963Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "fbe41bca-dc3d-4508-ae84-b6b844bc83d0",
+      "number": 3,
+      "content": "Tuy Sa-lô-môn yêu mến ĐỨC CHÚA, bước theo các lời chỉ dạy của Đa-vít, thân phụ ông, nhưng ông vẫn tế lễ và đốt hương trên các nơi cao.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:04.983Z",
+      "updatedAt": "2024-09-10T03:12:04.983Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b11b7955-f0b6-4f07-ba0d-e30d9572ee74",
+      "number": 4,
+      "content": "Vua đi Ghíp-ôn để tế lễ vì chỗ ấy là nơi cao quan trọng nhất ; Sa-lô-môn dâng một ngàn lễ vật toàn thiêu trên bàn thờ ấy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:04.993Z",
+      "updatedAt": "2024-09-10T03:12:04.993Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "25b7ffc2-ea7b-4ca1-a62c-d9fa5afecf5b",
+      "number": 5,
+      "content": "Tại Ghíp-ôn, đang đêm, ĐỨC CHÚA hiện ra báo mộng cho vua Sa-lô-môn ; Thiên Chúa phán : “Ngươi cứ xin đi, Ta sẽ ban cho.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.017Z",
+      "updatedAt": "2024-09-10T03:12:05.017Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "c1de8fc5-e92e-4c35-8c76-407786e98f8c",
+      "number": 6,
+      "content": "Vua Sa-lô-môn thưa : “Chính Ngài đã lấy lòng nhân hậu lớn lao mà xử với tôi tớ Chúa là Đa-vít thân phụ con, như người đã bước đi trước nhan Chúa cách trung thực, công chính, với tâm hồn ngay thẳng. Chúa đã duy trì lòng nhân hậu lớn lao ấy đối với người, khi ban cho người có một đứa con ngồi trên ngai của người hôm nay.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.026Z",
+      "updatedAt": "2024-09-10T03:12:05.026Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "fb460d57-769f-4cbd-81a4-00d81e5a674e",
+      "number": 7,
+      "content": "Và bây giờ, lạy ĐỨC CHÚA là Thiên Chúa của con, chính Chúa đã đặt tôi tớ Chúa đây lên ngôi kế vị Đa-vít, thân phụ con, mặc dầu con chỉ là một thanh niên bé nhỏ, không biết cầm quyền trị nước.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.036Z",
+      "updatedAt": "2024-09-10T03:12:05.036Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "468c8648-3c10-462c-8b9a-f4d189ad5902",
+      "number": 8,
+      "content": "Con lại ở giữa dân mà Chúa đã chọn, một dân đông đúc, đông không kể xiết, cũng không đếm nổi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.045Z",
+      "updatedAt": "2024-09-10T03:12:05.045Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "e077093b-f977-4b07-acec-1032a760112a",
+      "number": 9,
+      "content": "Xin ban cho tôi tớ Chúa đây một tâm hồn biết lắng nghe, để cai trị dân Chúa và phân biệt phải trái ; chẳng vậy, nào ai có đủ sức cai trị dân Chúa, một dân quan trọng như thế ?”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.055Z",
+      "updatedAt": "2024-09-10T03:12:05.055Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "946755a9-e2e2-4c6d-a6d4-1d03e2d93fce",
+      "number": 10,
+      "content": "Chúa hài lòng vì vua Sa-lô-môn đã xin điều đó.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.076Z",
+      "updatedAt": "2024-09-10T03:12:05.076Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "49e7004b-7ba8-4b15-8a1b-1cfd42246127",
+      "number": 11,
+      "content": "Thiên Chúa phán với vua : “Bởi vì ngươi đã xin điều đó, ngươi đã không xin cho được sống lâu, hay được của cải, cũng không xin cho kẻ thù ngươi phải chết, nhưng đã xin cho được tài phân biệt để xét xử,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.082Z",
+      "updatedAt": "2024-09-10T03:12:05.082Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "a86f80c6-f316-48c9-9e07-827444963b57",
+      "number": 12,
+      "content": "thì này, Ta làm theo như lời ngươi : Ta ban cho ngươi một tâm hồn khôn ngoan minh mẫn, đến nỗi trước ngươi, chẳng một ai sánh bằng, và sau ngươi, cũng chẳng có ai bì kịp.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.087Z",
+      "updatedAt": "2024-09-10T03:12:05.087Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "63adcc65-219f-4de8-bd03-89d2a65f113c",
+      "number": 13,
+      "content": "Cả điều ngươi không xin, Ta cũng sẽ ban cho ngươi : giàu có, vinh quang, đến nỗi suốt đời ngươi, không có ai trong các vua được như ngươi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.102Z",
+      "updatedAt": "2024-09-10T03:12:05.102Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "5b1e607e-962d-401c-9eb4-6d94f25b5318",
+      "number": 14,
+      "content": "Và nếu ngươi bước theo các đường lối của Ta, là tuân giữ các giới răn và mệnh lệnh của Ta, như Đa-vít thân phụ ngươi, thì Ta sẽ kéo dài ngày đời của ngươi.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.116Z",
+      "updatedAt": "2024-09-10T03:12:05.116Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b98ad9f1-8335-4361-9bbe-ae41743fbb83",
+      "number": 15,
+      "content": "Sa-lô-môn tỉnh dậy, thì ra đó là một giấc mộng. Ông trở về Giê-ru-sa-lem và đứng trước Hòm Bia Giao Ước của Chúa ; ông thượng tiến lễ toàn thiêu, dâng lễ kỳ an và thết tất cả các bề tôi của mình một bữa tiệc.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 11,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.136Z",
+      "updatedAt": "2024-09-10T03:12:05.136Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "5286cf1d-034c-4d64-92fe-d83eb4952876",
+      "number": 16,
+      "content": "Bấy giờ có hai người gái điếm vào chầu vua. Khi đứng trước mặt vua,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.146Z",
+      "updatedAt": "2024-09-10T03:12:05.146Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "3164e7f3-90bd-43df-b65d-332b5130e4c9",
+      "number": 17,
+      "content": "thì một người nói : “Ôi, thưa chúa thượng tôi, tôi và người đàn bà này cùng ở một nhà ; và tôi sinh một đứa con, trong lúc chị này cùng ở đó với tôi.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.159Z",
+      "updatedAt": "2024-09-10T03:12:05.159Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "0941f2b7-c0ee-4179-b1ff-473478a4042a",
+      "number": 18,
+      "content": "Tôi sinh được ba ngày, thì người đàn bà này cũng sinh. Chúng tôi ở chung với nhau ; ngoài hai chúng tôi ra, không có ai khác trong nhà.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.163Z",
+      "updatedAt": "2024-09-10T03:12:05.163Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "cf5d060b-1b06-4807-991b-c9bee441c75e",
+      "number": 19,
+      "content": "Đêm nọ, đứa con của chị này chết, vì chị đè lên nó ;",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.166Z",
+      "updatedAt": "2024-09-10T03:12:05.166Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "88eb2097-14e0-4f81-be54-5ca03dff1846",
+      "number": 20,
+      "content": "giữa đêm chị thức dậy, và trong khi nữ tỳ của ngài vẫn ngủ, thì chị bế đứa con của tôi đang nằm cạnh tôi, và đặt trong lòng mình, còn đứa con đã chết của chị, chị đặt vào lòng tôi.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.169Z",
+      "updatedAt": "2024-09-10T03:12:05.169Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "08538884-95d2-4d0e-8d84-85bce4838815",
+      "number": 21,
+      "content": "Đến sáng khi tôi thức dậy cho con bú, thì này đứa bé đã chết. Nhưng khi tôi nhìn kỹ nhờ ánh sáng ban ngày, thì ra nó không phải là đứa con tôi đã sinh ra.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.172Z",
+      "updatedAt": "2024-09-10T03:12:05.172Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "7e93bd83-1567-4116-8f0d-d79612d33a76",
+      "number": 22,
+      "content": "Người đàn bà kia trả lời : “Không phải thế, vì con tôi còn sống, con chị mới là đứa chết.” Nhưng người này lại nói : “Không phải, con chị mới là đứa chết, đứa sống là con tôi.” Và họ cãi nhau trước mặt vua.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.175Z",
+      "updatedAt": "2024-09-10T03:12:05.175Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b3d9a148-ae62-46eb-a54b-280c28bcc0d6",
+      "number": 23,
+      "content": "Bấy giờ vua nói : “Chị này bảo : ‘Đứa sống này là con tôi, con chị mới là đứa chết.’ Chị kia đáp lại : ‘Không phải thế, con chị mới là đứa chết, nhưng con tôi còn sống.’”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.179Z",
+      "updatedAt": "2024-09-10T03:12:05.179Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "a8a28978-0f83-4967-81ed-4f5a693daee9",
+      "number": 24,
+      "content": "Rồi vua ra lệnh : “Đưa cho ta chiếc gươm.” Người ta đưa tới trước mặt vua một chiếc gươm.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.182Z",
+      "updatedAt": "2024-09-10T03:12:05.182Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "53669a24-2d23-4f37-9b37-e2dcdce84dc5",
+      "number": 25,
+      "content": "Và vua quyết định : “Phân đứa trẻ còn sống ra làm hai, và cho mỗi người một nửa !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.185Z",
+      "updatedAt": "2024-09-10T03:12:05.185Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "0e2b5913-3a3b-4395-9f15-223f5589c062",
+      "number": 26,
+      "content": "Bấy giờ người mẹ của đứa trẻ còn sống, động lòng thương con mình, liền thưa với vua : “Ôi ! thưa chúa thượng tôi, xin ngài cho chị ấy đứa trẻ còn sống ; còn giết chết nó, thì xin đừng !” Người kia nói : “Chẳng phải con tôi, cũng chẳng phải con chị, cứ chia ra !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.189Z",
+      "updatedAt": "2024-09-10T03:12:05.189Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "217fd15f-d432-472a-9cfa-6245af238b4e",
+      "number": 27,
+      "content": "Bấy giờ vua lên tiếng nói : “Trao đứa trẻ còn sống cho người nói trước, và đừng giết nó, chính nàng mới là mẹ nó.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 11,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.192Z",
+      "updatedAt": "2024-09-10T03:12:05.192Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "ab0c20ae-53e4-4dba-9e3d-9c523468fb17",
+      "number": 28,
+      "content": "Toàn thể Ít-ra-en nghe biết vụ án vua đã xử, đều kính sợ vua, vì thấy rằng Thiên Chúa đã phú bẩm cho vua một sự khôn ngoan lạ lùng để người xét xử.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 12,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:12:05.195Z",
+      "updatedAt": "2024-09-10T03:12:05.195Z",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1a6a8677-bbbc-4fcf-8fee-911d8083b667",
+      "content": "Sau vua Đa-vít, Sa-lô-môn là một vị vua mà người Do-thái luôn lấy làm hãnh diện và ngưỡng mộ. Có thể nói đây là thời kỳ hoàng kim thứ hai của lịch sử Ít-ra-en.",
+      "position": 28,
+      "order": 0,
+      "createdAt": "2024-09-10T03:12:04.934Z",
+      "updatedAt": "2024-09-10T03:12:04.934Z",
+      "headingId": "87f4973a-17b0-4adc-8cfe-2fc0a8b3b344",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "f247b16d-3f7b-4978-9cf0-0597f644fa3a",
+      "content": "Cha vợ của vua Sa-lô-môn có lẽ là Xu-xen-nét II (955-950) (x. 1 V 7,8 ; 9,16.24 ; 11,1.17-22). Hôn nhân kiểu này thường có nhiều hậu ý chính trị.",
+      "position": 46,
+      "order": 1,
+      "createdAt": "2024-09-10T03:12:04.949Z",
+      "updatedAt": "2024-09-10T03:12:04.949Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "0a8a597e-e51c-41a0-82d8-8b2a1c673d3e",
+      "content": "X. 9,15 ; 11,27.",
+      "position": 229,
+      "order": 2,
+      "createdAt": "2024-09-10T03:12:04.953Z",
+      "updatedAt": "2024-09-10T03:12:04.953Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "ad517287-d239-42fc-aa58-26a6bb91a46e",
+      "content": "Ảnh hưởng dân Ca-na-an : dân Thiên Chúa cũng đến dâng lễ ở các nơi cao (tự nhiên hoặc nhân tạo). Từ ảnh hưởng về mặt hình thức, dân Thiên Chúa dần dần đã bị ảnh hưởng cả về mặt tinh thần, và việc ấy đã làm biến chất niềm tin vào một Thiên Chúa duy nhất ! Vì thế, tuy lúc đầu việc này không hề bị cấm, nhất là lúc chưa xây dựng được Đền Thờ (x. 1 V 5,15-19), nhưng về sau các ngôn sứ đã phản ứng mạnh mẽ (x. Hs 10,8 ; Am 7,9 ; Ed 20,28-29 ; v.v.), và vua Giô-si-gia đã chính thức huỷ bỏ những nơi cao và những ảnh hưởng ngoại giáo khác đã tiêm nhiễm vào lòng tin của dân Thiên Chúa (x. 2 V 22-23).",
+      "position": 51,
+      "order": 3,
+      "createdAt": "2024-09-10T03:12:04.969Z",
+      "updatedAt": "2024-09-10T03:12:04.969Z",
+      "verseId": "14d1e2aa-18fd-4d09-9d19-22c2c5c92552",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "2d5cd946-f9a1-45c5-8a3e-7476eed022eb",
+      "content": "X. 1 V 5-6.",
+      "position": 121,
+      "order": 4,
+      "createdAt": "2024-09-10T03:12:04.973Z",
+      "updatedAt": "2024-09-10T03:12:04.973Z",
+      "verseId": "14d1e2aa-18fd-4d09-9d19-22c2c5c92552",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "184a524b-6962-44bc-b867-353ee919da06",
+      "content": "Có lẽ đây là một lời trách cứ của tác giả đệ nhị luật (x. 22,44 ; 2 V 12,4 ; 14,4 ; 15,4).",
+      "position": 133,
+      "order": 5,
+      "createdAt": "2024-09-10T03:12:04.988Z",
+      "updatedAt": "2024-09-10T03:12:04.988Z",
+      "verseId": "fbe41bca-dc3d-4508-ae84-b6b844bc83d0",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "e4418e6a-c1a7-4d99-9fa6-283dc416c83d",
+      "content": "<i>Ghíp-ôn</i> : cách Giê-ru-sa-lem khoảng 10 km về phía tây bắc.",
+      "position": 19,
+      "order": 6,
+      "createdAt": "2024-09-10T03:12:05.002Z",
+      "updatedAt": "2024-09-10T03:12:05.002Z",
+      "headingId": "b6be3bf7-d29d-4415-bcb4-050c4ebaa55d",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "748d1ddc-e2b9-4576-8c01-21cf130d5bbb",
+      "content": "Đến một <i>nơi cao quan trọng nhất</i> để dâng một số lượng lớn lễ vật, báo hiệu đây là một biến cố quan trọng có một tầm ý nghĩa lớn : sứ mạng của vua Sa-lô-môn trước mặt Thiên Chúa, đối với dân Người.",
+      "position": 60,
+      "order": 7,
+      "createdAt": "2024-09-10T03:12:05.012Z",
+      "updatedAt": "2024-09-10T03:12:05.012Z",
+      "verseId": "b11b7955-f0b6-4f07-ba0d-e30d9572ee74",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "7fe133ff-a365-4868-8c23-6a9db8815331",
+      "content": "X. St 28,10-17 ; 31,10-13 ; 37,5-11 ; Ds 12,6 ; Gr 23,28 ; Ge 3,1.",
+      "position": 48,
+      "order": 8,
+      "createdAt": "2024-09-10T03:12:05.021Z",
+      "updatedAt": "2024-09-10T03:12:05.021Z",
+      "verseId": "25b7ffc2-ea7b-4ca1-a62c-d9fa5afecf5b",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "dfb55229-223b-40d9-bd27-81b98f4b307d",
+      "content": "X. 2 Sm 7,12-16.",
+      "position": 319,
+      "order": 9,
+      "createdAt": "2024-09-10T03:12:05.031Z",
+      "updatedAt": "2024-09-10T03:12:05.031Z",
+      "verseId": "c1de8fc5-e92e-4c35-8c76-407786e98f8c",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "c4f62f3f-09d6-4991-b72e-7418229bc3e7",
+      "content": "ds : <i>Không biết đi ra hay đi vào</i>.",
+      "position": 190,
+      "order": 10,
+      "createdAt": "2024-09-10T03:12:05.041Z",
+      "updatedAt": "2024-09-10T03:12:05.041Z",
+      "verseId": "fb460d57-769f-4cbd-81a4-00d81e5a674e",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "300d48f9-8bed-4085-89ab-c059e1dab07a",
+      "content": "<i>Lắng nghe</i> hoặc <i>hiểu biết</i>. Tâm hồn “biết lắng nghe” hoặc “hiểu biết” ở đây chính là tâm hồn khôn ngoan và minh mẫn được nói ở c.12.",
+      "position": 54,
+      "order": 11,
+      "createdAt": "2024-09-10T03:12:05.060Z",
+      "updatedAt": "2024-09-10T03:12:05.060Z",
+      "verseId": "e077093b-f977-4b07-acec-1032a760112a",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "2571fdcc-4918-4588-85c0-edd2ad626e68",
+      "content": "LXX thêm : <i>Trong sự công chính</i>.",
+      "position": 75,
+      "order": 12,
+      "createdAt": "2024-09-10T03:12:05.066Z",
+      "updatedAt": "2024-09-10T03:12:05.066Z",
+      "verseId": "e077093b-f977-4b07-acec-1032a760112a",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "eff3aba7-523d-4b05-991e-3268b6f2ea3c",
+      "content": "Vua Sa-lô-môn không xin cho mình được sống lâu, có nhiều của cải, và kẻ thù phải chết, nhưng Thiên Chúa vẫn ban cho ông giàu có, vinh quang (c.13) và được sống lâu (c.14).",
+      "position": 156,
+      "order": 13,
+      "createdAt": "2024-09-10T03:12:05.121Z",
+      "updatedAt": "2024-09-10T03:12:05.121Z",
+      "verseId": "5b1e607e-962d-401c-9eb4-6d94f25b5318",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "9b6cc121-8b31-460f-a4f5-2c6644e88d35",
+      "content": "Ơn khôn ngoan và minh mẫn của vua Sa-lô-môn để biết phân biệt phải trái (x. cc. 9-12) được tỏ rõ qua câu chuyện vua Sa-lô-môn xử kiện.",
+      "position": 21,
+      "order": 14,
+      "createdAt": "2024-09-10T03:12:05.155Z",
+      "updatedAt": "2024-09-10T03:12:05.155Z",
+      "headingId": "c633225c-287a-47a4-b4ff-996283e15676",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    }
+  ],
+  "headings": [
+    {
+      "id": "87f4973a-17b0-4adc-8cfe-2fc0a8b3b344",
+      "content": "II. TIỂU SỬ SA-LÔ-MÔN ĐẠI ĐẾ",
+      "order": 0,
+      "createdAt": "2024-09-10T03:12:04.929Z",
+      "updatedAt": "2024-09-10T03:12:04.929Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b6be3bf7-d29d-4415-bcb4-050c4ebaa55d",
+      "content": "Giấc mộng ở Ghíp-ôn",
+      "order": 0,
+      "createdAt": "2024-09-10T03:12:04.998Z",
+      "updatedAt": "2024-09-10T03:12:04.998Z",
+      "verseId": "b11b7955-f0b6-4f07-ba0d-e30d9572ee74",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "c633225c-287a-47a4-b4ff-996283e15676",
+      "content": "Vua Sa-lô-môn xử kiện",
+      "order": 0,
+      "createdAt": "2024-09-10T03:12:05.150Z",
+      "updatedAt": "2024-09-10T03:12:05.150Z",
+      "verseId": "5286cf1d-034c-4d64-92fe-d83eb4952876",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b24c38ef-49e3-4e1a-b700-5c9b025e1423",
+      "content": "1. SA-LÔ-MÔN, CON NGƯỜI KHÔN NGOAN",
+      "order": 1,
+      "createdAt": "2024-09-10T03:12:04.939Z",
+      "updatedAt": "2024-09-10T03:12:04.939Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "0570d5b5-c466-493f-bd7f-e20fbfff51a4",
+      "content": "Tiểu dẫn",
+      "order": 2,
+      "createdAt": "2024-09-10T03:12:04.944Z",
+      "updatedAt": "2024-09-10T03:12:04.944Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    }
+  ],
+  "references": [
+    {
+      "id": "459b8d6c-4d9c-4935-bc7d-6d92fde51f12",
+      "content": "1 V 7,8; 9,16-24",
+      "position": 16,
+      "order": 0,
+      "createdAt": "2024-09-10T03:12:04.958Z",
+      "updatedAt": "2024-09-10T03:12:04.958Z",
+      "verseId": "0c94afc1-835d-4597-a12a-8524b551a6b4",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "a7a5481f-ffeb-40ae-b132-41141a9947d2",
+      "content": "1 Sm 9,12+",
+      "position": 29,
+      "order": 1,
+      "createdAt": "2024-09-10T03:12:04.978Z",
+      "updatedAt": "2024-09-10T03:12:04.978Z",
+      "verseId": "14d1e2aa-18fd-4d09-9d19-22c2c5c92552",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "2bcba9e8-d2c8-4d29-8513-4c13998ab289",
+      "content": "2 Sb 1,3-12; Kn 8,19–9,12",
+      "position": 12,
+      "order": 2,
+      "createdAt": "2024-09-10T03:12:05.007Z",
+      "updatedAt": "2024-09-10T03:12:05.007Z",
+      "headingId": "b6be3bf7-d29d-4415-bcb4-050c4ebaa55d",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "b75e8632-e2cc-411d-a3ff-fa3e51215573",
+      "content": "1 V 4,20",
+      "position": 40,
+      "order": 3,
+      "createdAt": "2024-09-10T03:12:05.050Z",
+      "updatedAt": "2024-09-10T03:12:05.050Z",
+      "verseId": "468c8648-3c10-462c-8b9a-f4d189ad5902",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "d713a669-596d-43c3-9ca0-f816f2e76533",
+      "content": "Cn 2,6-9",
+      "position": 40,
+      "order": 4,
+      "createdAt": "2024-09-10T03:12:05.071Z",
+      "updatedAt": "2024-09-10T03:12:05.071Z",
+      "verseId": "e077093b-f977-4b07-acec-1032a760112a",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "85496517-f1b4-4c47-9287-b2fd3f5ee154",
+      "content": "Hc 47,14",
+      "position": 66,
+      "order": 5,
+      "createdAt": "2024-09-10T03:12:05.092Z",
+      "updatedAt": "2024-09-10T03:12:05.092Z",
+      "verseId": "a86f80c6-f316-48c9-9e07-827444963b57",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "8b7643c9-b938-4bd4-bb83-7a0e151e25e0",
+      "content": "Gv 1,16",
+      "position": 95,
+      "order": 6,
+      "createdAt": "2024-09-10T03:12:05.096Z",
+      "updatedAt": "2024-09-10T03:12:05.096Z",
+      "verseId": "a86f80c6-f316-48c9-9e07-827444963b57",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "ff7932ab-6586-4439-b219-abaceddbdc09",
+      "content": "Mt 6,33",
+      "position": 8,
+      "order": 7,
+      "createdAt": "2024-09-10T03:12:05.106Z",
+      "updatedAt": "2024-09-10T03:12:05.106Z",
+      "verseId": "63adcc65-219f-4de8-bd03-89d2a65f113c",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "c3aa465a-67c4-47dc-b052-e48c9c501ad3",
+      "content": "Gv 2,4-10",
+      "position": 97,
+      "order": 8,
+      "createdAt": "2024-09-10T03:12:05.111Z",
+      "updatedAt": "2024-09-10T03:12:05.111Z",
+      "verseId": "63adcc65-219f-4de8-bd03-89d2a65f113c",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "606b1375-f12c-4853-938f-9e6286b81b20",
+      "content": "Cn 3,12",
+      "position": 102,
+      "order": 9,
+      "createdAt": "2024-09-10T03:12:05.126Z",
+      "updatedAt": "2024-09-10T03:12:05.126Z",
+      "verseId": "5b1e607e-962d-401c-9eb4-6d94f25b5318",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "802ebfa1-0d3b-4dbf-b3e2-2a90e0d25a04",
+      "content": "Đnl 5,33",
+      "position": 128,
+      "order": 10,
+      "createdAt": "2024-09-10T03:12:05.131Z",
+      "updatedAt": "2024-09-10T03:12:05.131Z",
+      "verseId": "5b1e607e-962d-401c-9eb4-6d94f25b5318",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "22d0be6d-70c4-460e-8233-d06a1540fe58",
+      "content": "Lv 1,1; 3,1tđ",
+      "position": 119,
+      "order": 11,
+      "createdAt": "2024-09-10T03:12:05.141Z",
+      "updatedAt": "2024-09-10T03:12:05.141Z",
+      "verseId": "b98ad9f1-8335-4361-9bbe-ae41743fbb83",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    },
+    {
+      "id": "8ce4dde1-5000-4a6f-ae6f-c77c6971513f",
+      "content": "Tv 72,1-2",
+      "position": 140,
+      "order": 12,
+      "createdAt": "2024-09-10T03:12:05.199Z",
+      "updatedAt": "2024-09-10T03:12:05.199Z",
+      "verseId": "ab0c20ae-53e4-4dba-9e3d-9c523468fb17",
+      "chapterId": "002008f0-c0e0-43e7-903c-84067dd4ee72"
+    }
+  ]
+}

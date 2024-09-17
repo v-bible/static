@@ -1,0 +1,581 @@
+{
+  "chapter": {
+    "id": "9248f792-658c-449f-a335-a6d24e33e3d7",
+    "number": 4,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.370Z",
+    "updatedAt": "2024-09-10T00:39:05.370Z",
+    "bookId": "4f79fdd9-0567-4448-aac6-7cd7111f3a25"
+  },
+  "verses": [
+    {
+      "id": "ab07b493-af87-4819-bfdb-2845e4adb682",
+      "number": 1,
+      "content": "Người làm chủ hãy đối xử công bằng và đồng đều với các nô lệ, vì biết rằng cả anh em nữa cũng có một Chủ ở trên trời.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.961Z",
+      "updatedAt": "2024-09-10T01:33:49.961Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "a6892e79-950d-4cb8-86f7-d1f69a76132f",
+      "number": 2,
+      "content": "Anh em hãy siêng năng cầu nguyện ; hãy tỉnh thức mà cầu nguyện và tạ ơn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.971Z",
+      "updatedAt": "2024-09-10T01:33:49.971Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "480fd40c-22d6-49ad-8d6c-540abe32b22c",
+      "number": 3,
+      "content": "Đồng thời, cũng hãy cầu nguyện cho chúng tôi nữa, xin Thiên Chúa mở cửa cho chúng tôi rao giảng lời Người, để chúng tôi loan báo mầu nhiệm Đức Ki-tô ; chính vì mầu nhiệm này mà tôi bị giam giữ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.980Z",
+      "updatedAt": "2024-09-10T01:33:49.980Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "2bd00b7c-944b-470a-91ce-716e76c08395",
+      "number": 4,
+      "content": "Xin cho tôi biết công bố rõ ràng mầu nhiệm ấy, như bổn phận tôi phải loan báo.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.987Z",
+      "updatedAt": "2024-09-10T01:33:49.987Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "a0c1b108-4d4b-4b64-89b9-f600e7c0a3f6",
+      "number": 5,
+      "content": "Anh em hãy ăn ở khôn ngoan với người ngoài ; hãy tận dụng thời buổi hiện tại.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.989Z",
+      "updatedAt": "2024-09-10T01:33:49.989Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "aff6767f-974a-4a6f-ae63-2f9caa763259",
+      "number": 6,
+      "content": "Lời nói của anh em phải luôn luôn mặn mà dễ thương, để anh em biết đối đáp sao cho phải với mỗi người.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.995Z",
+      "updatedAt": "2024-09-10T01:33:49.995Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "42760bf9-3953-47a8-b065-aed9f437b9c3",
+      "number": 7,
+      "content": "Mọi tin tức về tôi, anh Ty-khi-cô sẽ cho anh em biết ; anh là người anh em yêu quý của tôi, người trung thành phục vụ, và người đồng sự với tôi trong công việc Chúa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:49.999Z",
+      "updatedAt": "2024-09-10T01:33:49.999Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "0b6b9c08-98ee-4b15-8b36-b99b5f358419",
+      "number": 8,
+      "content": "Tôi phái anh đến với anh em vì mục đích ấy, để anh em được biết hiện tình của chúng tôi, và để anh khích lệ tâm hồn anh em.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.010Z",
+      "updatedAt": "2024-09-10T01:33:50.010Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "42f247b7-ac11-457b-9b3b-915c8088beef",
+      "number": 9,
+      "content": "Cùng đi có anh Ô-nê-xi-mô, người anh em trung thành và yêu quý của tôi, người đồng hương với anh em. Cả hai sẽ cho anh em biết tất cả những gì xảy ra ở đây.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.013Z",
+      "updatedAt": "2024-09-10T01:33:50.013Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "number": 10,
+      "content": "Anh A-rít-ta-khô, bạn tù với tôi, gửi lời chào anh em. Anh Mác-cô, em họ ông Ba-na-ba, cũng gửi lời chào anh em ; anh em đã nhận được những chỉ thị về anh ấy ; nếu anh ấy đến với anh em, thì hãy tiếp đón anh ấy.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.021Z",
+      "updatedAt": "2024-09-10T01:33:50.021Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "fa9605d9-21d7-4857-b536-1a240926f435",
+      "number": 11,
+      "content": "Anh Giê-su, gọi là Giút-tô, cũng gửi lời chào anh em. Trong số những người cắt bì, chỉ có ba anh ấy cùng làm việc với tôi cho Nước Thiên Chúa ; các anh đã là niềm an ủi của tôi.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.038Z",
+      "updatedAt": "2024-09-10T01:33:50.038Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "d5f2b2b3-0845-4f47-92db-6e974d8050b5",
+      "number": 12,
+      "content": "Anh Ê-páp-ra, người đồng hương với anh em và là tôi tớ của Đức Ki-tô Giê-su, gửi lời chào anh em ; anh không ngừng chiến đấu cho anh em bằng lời cầu nguyện, để một khi đã trưởng thành và hoàn toàn vâng theo thánh ý Thiên Chúa trong mọi sự, anh em được đứng vững.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.045Z",
+      "updatedAt": "2024-09-10T01:33:50.045Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "8f048d35-feaf-4ec6-9429-241af0c4be19",
+      "number": 13,
+      "content": "Tôi làm chứng cho anh rằng anh vất vả nhiều vì anh em, những người ở Lao-đi-ki-a và Hi-ê-ra-pô-li.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.054Z",
+      "updatedAt": "2024-09-10T01:33:50.054Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "d7fe9ca1-d685-48d1-94f7-d6ba0f567166",
+      "number": 14,
+      "content": "Anh Lu-ca, thầy thuốc yêu quý, và anh Đê-ma gửi lời chào anh em.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.056Z",
+      "updatedAt": "2024-09-10T01:33:50.056Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "808c6cff-7370-44f2-9a2c-238f627f110f",
+      "number": 15,
+      "content": "Xin cho tôi gửi lời chào các anh em ở Lao-đi-ki-a, chị Nym-pha và Hội Thánh vẫn họp tại nhà chị ấy.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.075Z",
+      "updatedAt": "2024-09-10T01:33:50.075Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "91813e5c-f889-4e10-939e-793c0e7c2ab9",
+      "number": 16,
+      "content": "Sau khi anh em đọc thư này, xin liệu sao cho Hội Thánh Lao-đi-ki-a cũng được đọc nữa. Xin anh em cũng đọc thư của tôi gửi cho Hội Thánh Lao-đi-ki-a.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.085Z",
+      "updatedAt": "2024-09-10T01:33:50.085Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "08e7dd9b-fe13-44cf-b24b-84cc411bbeba",
+      "number": 17,
+      "content": "Sau cùng, xin nhắn với anh Ác-khíp-pô : “Hãy lưu tâm đến chức vụ Chúa đã giao cho anh, và lo chu toàn.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.095Z",
+      "updatedAt": "2024-09-10T01:33:50.095Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "b0e7d6d6-5314-489d-af6e-0807a7443b28",
+      "number": 18,
+      "content": "Lời chào này do chính tay tôi, Phao-lô, viết. Anh em đừng quên rằng tôi đang phải mang xiềng xích ! Chúc anh em được ân sủng.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:33:50.109Z",
+      "updatedAt": "2024-09-10T01:33:50.109Z",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "28e2b0ed-2b56-46dc-ba72-bc0b96ed1f9b",
+      "content": "Trước khi kết thư, thánh Phao-lô khuyên nhủ cách chung, trong đó nổi bật là lời khuyên tỉnh thức bằng cách cầu nguyện không ngừng (4,2). Đó là một trong những thái độ căn bản của người tín hữu Chúa Ki-tô : chờ mong Chúa đến (x. Mt 24,42 ; 25,13 ; Mc 13,33 ; Lc 21,36). Cầu nguyện là dấu hiệu và là phương thế tuyệt hảo để tỉnh thức (x. Ep 6,18).",
+      "position": 17,
+      "order": 0,
+      "createdAt": "2024-09-10T01:33:49.975Z",
+      "updatedAt": "2024-09-10T01:33:49.975Z",
+      "headingId": "eea9cd1b-7066-4d7e-9e13-bd93e13bf54d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "ebccd54c-c458-406c-88f3-2e59cc31e282",
+      "content": "ds : <i>... xin Thiên Chúa mở cửa của Lời cho chúng tôi</i>. Không phải là xin Thiên Chúa cho khỏi bị cầm tù, vì thực tế cho thấy ngay khi ở trong tù thánh Phao-lô cũng giảng về Đức Ki-tô được (x. Pl 1,12-14) ; ở đây người xin các tín hữu cầu xin Chúa mở ra một cánh đồng truyền giáo và dùng các Tông Đồ làm dụng cụ để công bố <i>mầu nhiệm Đức Ki-tô</i>.",
+      "position": 105,
+      "order": 1,
+      "createdAt": "2024-09-10T01:33:49.982Z",
+      "updatedAt": "2024-09-10T01:33:49.982Z",
+      "verseId": "480fd40c-22d6-49ad-8d6c-540abe32b22c",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "d954fa5b-2cef-46a3-b55e-3cf03170e05c",
+      "content": "Db : <i>mầu nhiệm của Thiên Chúa</i>.",
+      "position": 148,
+      "order": 2,
+      "createdAt": "2024-09-10T01:33:49.984Z",
+      "updatedAt": "2024-09-10T01:33:49.984Z",
+      "verseId": "480fd40c-22d6-49ad-8d6c-540abe32b22c",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "ef2fde10-381a-45cd-bddc-388d1db017b2",
+      "content": "<i>Người ngoài</i> : người chưa tin Đức Ki-tô, ngoài Đức Ki-tô và Hội Thánh (x. Mc 4,11 ; 1 Cr 5,12 ; 1 Tx 4,12 ; 1 Tm 3,7). Các tín hữu được khuyến khích giữ mối giao hảo với họ để làm tông đồ cho họ và để đừng vì đời sống không tốt của mình mà họ khinh dể Đức Ki-tô và Hội Thánh.",
+      "position": 42,
+      "order": 3,
+      "createdAt": "2024-09-10T01:33:49.991Z",
+      "updatedAt": "2024-09-10T01:33:49.991Z",
+      "verseId": "a0c1b108-4d4b-4b64-89b9-f600e7c0a3f6",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "68659e3e-ac55-4ab6-8ba5-8d1d71a95497",
+      "content": "<i>Tận dụng thời buổi hiện tại</i>, ds : <i>mua (chuộc) thời buổi</i>. Có thể hiểu như trên, nghĩa là các Ki-tô hữu phải tận dụng thời gian, cơ hội, hoàn cảnh hiện tại của mình để cứu mình và cứu người khác nữa (x. Gl 6,10). Hoặc cũng có thể hiểu là phải tận dụng khoảng thời gian cứu độ hiện tại trước Ngày Chúa đến (Rm 8,18 ; 13,11), thời gian này vắn vỏi (x. 1 Cr 7,29) và đầy bất trắc (Ep 5,16).",
+      "position": 76,
+      "order": 4,
+      "createdAt": "2024-09-10T01:33:49.993Z",
+      "updatedAt": "2024-09-10T01:33:49.993Z",
+      "verseId": "a0c1b108-4d4b-4b64-89b9-f600e7c0a3f6",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "6cf5ab2e-c1f3-43db-ac82-7bec7e621fb3",
+      "content": "<i>Anh Ty-khi-cô</i> : một Ki-tô hữu quê ở Tiểu Á (x. Cv 20,4), đã theo và cộng tác với thánh Phao-lô, được người trao trách nhiệm chuyển hai thư Cô-lô-xê và Ê-phê-xô (x. Ep 6,21).",
+      "position": 33,
+      "order": 5,
+      "createdAt": "2024-09-10T01:33:50.003Z",
+      "updatedAt": "2024-09-10T01:33:50.003Z",
+      "verseId": "42760bf9-3953-47a8-b065-aed9f437b9c3",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "f3160903-51ed-4029-8ada-8fd4a4d7409d",
+      "content": "ds : <i>người đồng sự với tôi trong Chúa</i>.",
+      "position": 164,
+      "order": 6,
+      "createdAt": "2024-09-10T01:33:50.006Z",
+      "updatedAt": "2024-09-10T01:33:50.006Z",
+      "verseId": "42760bf9-3953-47a8-b065-aed9f437b9c3",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "8ed085bc-afe1-46bc-ad6d-d42a0c674bdd",
+      "content": "<i>Anh Ô-nê-xi-mô</i> : người nô lệ trong gia đình ông Phi-lê-môn ; anh đã bỏ trốn. Có lẽ anh được thánh Phao-lô rửa tội và xin chủ anh cho anh trở về (x. Plm 10-15).",
+      "position": 25,
+      "order": 7,
+      "createdAt": "2024-09-10T01:33:50.015Z",
+      "updatedAt": "2024-09-10T01:33:50.015Z",
+      "verseId": "42f247b7-ac11-457b-9b3b-915c8088beef",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "744dc18f-ad5a-4622-b04d-094571831b74",
+      "content": "<i>Anh A-rít-ta-khô</i> : một Ki-tô hữu quê ở Thê-xa-lô-ni-ca, tỉnh Ma-kê-đô-ni-a. Anh đã sống ở Ê-phê-xô với thánh Phao-lô (Cv 19,29), rồi cùng đi với thánh Phao-lô suốt hành trình lên Giê-ru-sa-lem lần thứ ba (Cv 20,4), sau đó từ Giê-ru-sa-lem đi Rô-ma (Cv 27,2) và có lẽ cùng bị tù với thánh Phao-lô tại đây.",
+      "position": 16,
+      "order": 8,
+      "createdAt": "2024-09-10T01:33:50.026Z",
+      "updatedAt": "2024-09-10T01:33:50.026Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "8650aafc-201d-4622-b198-be4ef98785ec",
+      "content": "<i>Anh Mác-cô</i> : thánh Mác-cô, tác giả sách Tin Mừng. Theo sách Công Vụ (12,12.25 ; 13,5 ; 15,37-39), ông còn có tên là Gio-an Mác-cô.",
+      "position": 65,
+      "order": 9,
+      "createdAt": "2024-09-10T01:33:50.029Z",
+      "updatedAt": "2024-09-10T01:33:50.029Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "eb46e45c-86d3-4dcd-bfd8-5db77e78cb44",
+      "content": "<i>Anh Giê-su, gọi là Giút-tô</i> : không rõ về ông này, vì không gặp thấy ở chỗ nào khác. Nhiều người Do-thái hoặc người tân tòng thời Hy-la cũng có thể có tên giống như ông.",
+      "position": 26,
+      "order": 10,
+      "createdAt": "2024-09-10T01:33:50.040Z",
+      "updatedAt": "2024-09-10T01:33:50.040Z",
+      "verseId": "fa9605d9-21d7-4857-b536-1a240926f435",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "31c943e3-b00f-4bc6-b010-e247936680ac",
+      "content": "<i>Anh Ê-páp-ra</i> : Ki-tô hữu quê ở Cô-lô-xê (khác với ông Ê-páp-rô-đi-tô quê ở Phi-líp-phê ; Pl 2,25 ; 4,18). Ông là môn đệ của thánh Phao-lô và là người được thánh Phao-lô trao nhiệm vụ giảng Tin Mừng ở Cô-lô-xê (x. Cl 1,7 ; Cv 19,10).",
+      "position": 12,
+      "order": 11,
+      "createdAt": "2024-09-10T01:33:50.048Z",
+      "updatedAt": "2024-09-10T01:33:50.048Z",
+      "verseId": "d5f2b2b3-0845-4f47-92db-6e974d8050b5",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "76fc34a8-2c00-4167-a585-4393a0203a94",
+      "content": "<i>Anh Lu-ca, người thầy thuốc</i> : tác giả sách Tin Mừng và sách Công Vụ. Ông đã đi theo thánh Phao-lô suốt giai đoạn cuối hành trình truyền giáo thứ ba (Cv 20,5) và đến tận Rô-ma (Cv 27,2 tt). Ông ở bên cạnh thánh Phao-lô khi người bị tù (x. Plm 24) và cả khi người bị tù lần thứ hai (x. 2 Tm 4,11).",
+      "position": 21,
+      "order": 12,
+      "createdAt": "2024-09-10T01:33:50.060Z",
+      "updatedAt": "2024-09-10T01:33:50.060Z",
+      "verseId": "d7fe9ca1-d685-48d1-94f7-d6ba0f567166",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "541f31a2-2269-490e-abb5-0b211a9d7ed0",
+      "content": "<i>Anh Đê-ma</i> : được kể tên chung với thánh Lu-ca ở đây (4,14) và trong thư Phi-lê-môn (24) ; ngoài ra còn gặp tên này ở 2 Tm 4,10, nhưng với nghĩa xấu. Có lẽ cùng một nhân vật được nhắc tới trong tất cả các chỗ trên, vì ở đây, thánh Phao-lô chỉ nhắc tới tên mà không thêm một kiểu nói bày tỏ thiện cảm.",
+      "position": 43,
+      "order": 13,
+      "createdAt": "2024-09-10T01:33:50.065Z",
+      "updatedAt": "2024-09-10T01:33:50.065Z",
+      "verseId": "d7fe9ca1-d685-48d1-94f7-d6ba0f567166",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "b51dc63b-7a7d-4b80-8493-9dc0d7ac6bd0",
+      "content": "<i>Chị Nym-pha</i> : theo bản văn thì không thể xác định đây là ông hay là bà ; vì thế có dị bản chọn là ông, có dị bản chọn là bà.",
+      "position": 62,
+      "order": 14,
+      "createdAt": "2024-09-10T01:33:50.080Z",
+      "updatedAt": "2024-09-10T01:33:50.080Z",
+      "verseId": "808c6cff-7370-44f2-9a2c-238f627f110f",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "e89f03fd-c917-414e-8d68-3826f6712e70",
+      "content": "Thói quen đọc các thư, các lời dạy dỗ, khuyên bảo của các Tông Đồ trong các buổi họp của cộng đoàn đã thành hình rất sớm ; không những chỉ đọc trong cộng đoàn trực tiếp nhận thư nhưng còn chuyển tới các giáo đoàn khác và nhận lại các thư từ các giáo đoàn ấy (x. 2 Cr 1,1). – Thư của giáo đoàn Lao-đi-ki-a không còn ; có giả thuyết cho đó là Ê-phê-xô trong quy điển Tân Ước hiện nay.",
+      "position": 147,
+      "order": 15,
+      "createdAt": "2024-09-10T01:33:50.090Z",
+      "updatedAt": "2024-09-10T01:33:50.090Z",
+      "verseId": "91813e5c-f889-4e10-939e-793c0e7c2ab9",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "0d9c3bc8-d8ab-40cc-8a8b-254afb9efb3e",
+      "content": "<i>Anh A-khíp-pô</i> : có lẽ anh là con của ông Phi-lê-môn và bà A-phi-ca (Plm 2). Không biết rõ ông có nhiệm vụ gì trong cộng đoàn.",
+      "position": 37,
+      "order": 16,
+      "createdAt": "2024-09-10T01:33:50.100Z",
+      "updatedAt": "2024-09-10T01:33:50.100Z",
+      "verseId": "08e7dd9b-fe13-44cf-b24b-84cc411bbeba",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "c123c60a-f23c-4ed5-9e8f-7ba5825836a9",
+      "content": "Theo thói quen thời thánh Phao-lô, tác giả nhờ một thư ký viết những tư tưởng của mình, cuối thư, chính tay tác giả ghi vài dòng để chứng thực cho bản văn (x. 1 Cr 16,21 ; Gl 6,11 ; 2 Tx 3,17), tương tự như chữ ký của chúng ta ngày nay.",
+      "position": 44,
+      "order": 17,
+      "createdAt": "2024-09-10T01:33:50.114Z",
+      "updatedAt": "2024-09-10T01:33:50.114Z",
+      "verseId": "b0e7d6d6-5314-489d-af6e-0807a7443b28",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    }
+  ],
+  "headings": [
+    {
+      "id": "eea9cd1b-7066-4d7e-9e13-bd93e13bf54d",
+      "content": "Tinh thần tông đồ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:33:49.973Z",
+      "updatedAt": "2024-09-10T01:33:49.973Z",
+      "verseId": "a6892e79-950d-4cb8-86f7-d1f69a76132f",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "3b787d61-1a91-4a72-8782-ea2be9cc9bc4",
+      "content": "Tin tức",
+      "order": 0,
+      "createdAt": "2024-09-10T01:33:50.001Z",
+      "updatedAt": "2024-09-10T01:33:50.001Z",
+      "verseId": "42760bf9-3953-47a8-b065-aed9f437b9c3",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "aa4b1d2e-8727-4eb1-9a58-647e5d7a76ea",
+      "content": "Lời chào và lời chúc cuối thư",
+      "order": 0,
+      "createdAt": "2024-09-10T01:33:50.024Z",
+      "updatedAt": "2024-09-10T01:33:50.024Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    }
+  ],
+  "references": [
+    {
+      "id": "1e5eb7e1-a147-4e08-9a44-2a4725a92cc7",
+      "content": "Lc 18,1; Rm 12,12; Ep 6,18-20; 1 Tx 5,17",
+      "position": 11,
+      "order": 0,
+      "createdAt": "2024-09-10T01:33:49.978Z",
+      "updatedAt": "2024-09-10T01:33:49.978Z",
+      "verseId": "a6892e79-950d-4cb8-86f7-d1f69a76132f",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "c428d442-6437-40fc-be8a-59da1bbcb075",
+      "content": "Ep 5,15-16",
+      "position": 67,
+      "order": 1,
+      "createdAt": "2024-09-10T01:33:49.997Z",
+      "updatedAt": "2024-09-10T01:33:49.997Z",
+      "verseId": "aff6767f-974a-4a6f-ae63-2f9caa763259",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "58e4ff75-3fa7-4e43-a06d-6638cf3c19e3",
+      "content": "Cv 20,4; Ep 6,21-22; 2 Tm 4,12",
+      "position": 24,
+      "order": 2,
+      "createdAt": "2024-09-10T01:33:50.008Z",
+      "updatedAt": "2024-09-10T01:33:50.008Z",
+      "verseId": "42760bf9-3953-47a8-b065-aed9f437b9c3",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "69791405-c0b8-4c72-823d-f111e35bb975",
+      "content": "Plm 10-11",
+      "position": 15,
+      "order": 3,
+      "createdAt": "2024-09-10T01:33:50.018Z",
+      "updatedAt": "2024-09-10T01:33:50.018Z",
+      "verseId": "42f247b7-ac11-457b-9b3b-915c8088beef",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "5d4c663c-3ef7-4c8e-921c-d91980a54650",
+      "content": "Cv 19,29; 20,4; 27,2",
+      "position": 4,
+      "order": 4,
+      "createdAt": "2024-09-10T01:33:50.031Z",
+      "updatedAt": "2024-09-10T01:33:50.031Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "05810037-3c02-4e9b-99a4-34543df0b79e",
+      "content": "Plm 24; 1 Pr 5,13",
+      "position": 59,
+      "order": 5,
+      "createdAt": "2024-09-10T01:33:50.033Z",
+      "updatedAt": "2024-09-10T01:33:50.033Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "6e3165b1-4691-4782-b1de-5fdc81f3f4a4",
+      "content": "Cv 4,36; 2 Tm 4,11",
+      "position": 77,
+      "order": 6,
+      "createdAt": "2024-09-10T01:33:50.036Z",
+      "updatedAt": "2024-09-10T01:33:50.036Z",
+      "verseId": "965a48ba-358f-46bd-97c9-49c7a7c7214d",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "0283793d-e005-49d1-8210-e00ffcda732b",
+      "content": "Plm 24",
+      "position": 90,
+      "order": 7,
+      "createdAt": "2024-09-10T01:33:50.043Z",
+      "updatedAt": "2024-09-10T01:33:50.043Z",
+      "verseId": "fa9605d9-21d7-4857-b536-1a240926f435",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "87f7be16-6a28-4449-8f00-b11b69ce6aa8",
+      "content": "Plm 23",
+      "position": 4,
+      "order": 8,
+      "createdAt": "2024-09-10T01:33:50.050Z",
+      "updatedAt": "2024-09-10T01:33:50.050Z",
+      "verseId": "d5f2b2b3-0845-4f47-92db-6e974d8050b5",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "1d5d6222-8106-45f8-8cd0-c99d29264afa",
+      "content": "Rm 15,30",
+      "position": 115,
+      "order": 9,
+      "createdAt": "2024-09-10T01:33:50.052Z",
+      "updatedAt": "2024-09-10T01:33:50.052Z",
+      "verseId": "d5f2b2b3-0845-4f47-92db-6e974d8050b5",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "cd914ea1-5c02-4b51-8b10-eb63de38242a",
+      "content": "2 Tm 4,10-11",
+      "position": 38,
+      "order": 10,
+      "createdAt": "2024-09-10T01:33:50.070Z",
+      "updatedAt": "2024-09-10T01:33:50.070Z",
+      "verseId": "d7fe9ca1-d685-48d1-94f7-d6ba0f567166",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "bd13db18-270d-4f9f-9fe5-37753ace5957",
+      "content": "Plm 2",
+      "position": 27,
+      "order": 11,
+      "createdAt": "2024-09-10T01:33:50.105Z",
+      "updatedAt": "2024-09-10T01:33:50.105Z",
+      "verseId": "08e7dd9b-fe13-44cf-b24b-84cc411bbeba",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "83148f3f-06c0-47ba-8bd3-7aab6138b6b3",
+      "content": "1 Cr 16,21; Gl 6,11; 2 Tx 3,17",
+      "position": 16,
+      "order": 12,
+      "createdAt": "2024-09-10T01:33:50.119Z",
+      "updatedAt": "2024-09-10T01:33:50.119Z",
+      "verseId": "b0e7d6d6-5314-489d-af6e-0807a7443b28",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    },
+    {
+      "id": "f5179b7a-71f8-4e84-8f73-d0c18ea901a7",
+      "content": "Ep 3,1",
+      "position": 87,
+      "order": 13,
+      "createdAt": "2024-09-10T01:33:50.124Z",
+      "updatedAt": "2024-09-10T01:33:50.124Z",
+      "verseId": "b0e7d6d6-5314-489d-af6e-0807a7443b28",
+      "chapterId": "9248f792-658c-449f-a335-a6d24e33e3d7"
+    }
+  ]
+}

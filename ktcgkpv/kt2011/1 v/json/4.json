@@ -1,0 +1,454 @@
+{
+  "chapter": {
+    "id": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be",
+    "number": 4,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.842Z",
+    "updatedAt": "2024-09-10T00:39:05.842Z",
+    "bookId": "de940084-d39d-48b1-9a44-768617fe5cdd"
+  },
+  "verses": [
+    {
+      "id": "375938a3-e124-4e69-b144-2cdba7ce7ded",
+      "number": 1,
+      "content": "Vua Sa-lô-môn cai trị toàn cõi Ít-ra-en.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.409Z",
+      "updatedAt": "2024-09-10T03:10:29.409Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "7e3a4c4c-a3a0-43e3-8e12-f2d794045a2c",
+      "number": 2,
+      "content": "Và đây là các viên chức của vua : A-dác-gia-hu, con của Xa-đốc, làm tư tế.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.416Z",
+      "updatedAt": "2024-09-10T03:10:29.416Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "f927ef53-e918-4e06-98fb-23f1132b4119",
+      "number": 3,
+      "content": "Ê-li-khô-rép và A-khi-gia, hai người con của Si-sa, làm ký lục.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.418Z",
+      "updatedAt": "2024-09-10T03:10:29.418Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "8336e9a2-9de4-46f4-9a0b-9014232aad16",
+      "number": 4,
+      "content": "Giơ-hô-sa-phát, con của A-khi-lút, làm ngự sử.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.420Z",
+      "updatedAt": "2024-09-10T03:10:29.420Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "da496c4f-aaf4-472b-841e-e2aa77aca8c6",
+      "number": 4,
+      "content": "Bơ-na-gia-hu, con của Giơ-hô-gia-đa, chỉ huy quân đội.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.422Z",
+      "updatedAt": "2024-09-10T03:10:29.422Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "ec26d138-3560-438e-82d7-a3fd4ed29c4b",
+      "number": 5,
+      "content": "Xa-đốc và Ép-gia-tha làm tư tế.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.424Z",
+      "updatedAt": "2024-09-10T03:10:29.424Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "f647a581-4348-45e6-be05-a860fbf76c30",
+      "number": 5,
+      "content": "A-dác-gia-hu, con của Na-than, chỉ huy các trưởng vùng.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.428Z",
+      "updatedAt": "2024-09-10T03:10:29.428Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "aa3b4082-4deb-45e6-9c27-12682ff68a68",
+      "number": 6,
+      "content": "Da-vút, con tư tế Na-than, làm cố vấn của vua.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.432Z",
+      "updatedAt": "2024-09-10T03:10:29.432Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "db32bc07-44e7-46f3-818a-385c47b88a4e",
+      "number": 6,
+      "content": "A-khi-sa đặc trách cung điện.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.436Z",
+      "updatedAt": "2024-09-10T03:10:29.436Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "37a280b1-43cd-4eee-ac10-f4c2d04ca010",
+      "number": 7,
+      "content": "A-đô-ni-ram, con của Áp-đa, đặc trách dân công.\nVua Sa-lô-môn có mười hai trưởng vùng trên toàn cõi Ít-ra-en. Họ cống hiến lương thực cho vua và triều đình, hằng năm mỗi người cống hiến một tháng.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.440Z",
+      "updatedAt": "2024-09-10T03:10:29.440Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "39e8662c-8dad-451b-9d6c-c1fd6f72eda7",
+      "number": 8,
+      "content": "Đây là danh sách họ :",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.461Z",
+      "updatedAt": "2024-09-10T03:10:29.461Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "f0dcf80c-66d5-48de-9d6a-d9f0991c305a",
+      "number": 9,
+      "content": "Con ông Khua trong vùng núi Ép-ra-im.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.466Z",
+      "updatedAt": "2024-09-10T03:10:29.466Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "ffff2f27-5ab3-43bb-b736-3192c58475b8",
+      "number": 9,
+      "content": "Con ông Đe-ke, ở Ma-cát, Sa-an-vim, Bết Se-mét và Ê-lôn cho đến Bết Kha-nan.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.476Z",
+      "updatedAt": "2024-09-10T03:10:29.476Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "a88f90cc-2df7-43bc-ab00-1d3ac2a13150",
+      "number": 10,
+      "content": "Con ông Khe-xét tại A-rúp-bốt ; Xô-khô và tất cả miền Khê-phe cũng thuộc quyền ông.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.480Z",
+      "updatedAt": "2024-09-10T03:10:29.480Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "f34e7601-110d-43a9-b614-ce324768bc71",
+      "number": 11,
+      "content": "Con ông A-vi-na-đáp coi tất cả cao nguyên vùng Đo. Vợ ông là công chúa Ta-phát, ái nữ của vua Sa-lô-môn.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.485Z",
+      "updatedAt": "2024-09-10T03:10:29.485Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "650e7fb3-0677-4323-b506-fee4112c3f38",
+      "number": 12,
+      "content": "Ông Ba-a-na, con ông A-khi-lút, coi Ta-nác, Mơ-ghít-đô đến tận bên kia Gióc-mơ-am và tất cả Bết San gần Xác-than, bên dưới Gít-rơ-en, từ Bết San cho đến A-vên Mơ-khô-la.",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.490Z",
+      "updatedAt": "2024-09-10T03:10:29.490Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "dbdc756c-7fd5-42b6-91b2-f32212815e4b",
+      "number": 13,
+      "content": "Con ông Ghe-ve tại Ra-mốt Ga-la-át ; ông coi các thôn làng của ông Gia-ia con ông Mơ-na-se nằm trong miền Ga-la-át, và vùng đất Ác-gốp tại Ba-san, tất cả là sáu mươi thành lớn có tường vây và then cài bằng đồng.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.495Z",
+      "updatedAt": "2024-09-10T03:10:29.495Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "88a88fa9-98d9-4a78-9ddd-bf14fc4cda17",
+      "number": 14,
+      "content": "Ông A-khi-na-đáp, con ông Ít-đô, ở Ma-kha-na-gim.",
+      "order": 0,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.501Z",
+      "updatedAt": "2024-09-10T03:10:29.501Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "a78456e7-2fbf-43b7-80ed-3e5b00005875",
+      "number": 15,
+      "content": "Ông A-khi-ma-át tại Náp-ta-li ; ông cũng cưới công chúa Ba-xơ-mát, ái nữ của vua Sa-lô-môn làm vợ.",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.505Z",
+      "updatedAt": "2024-09-10T03:10:29.505Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "fe95c82b-b21f-40cb-b3a6-94941895988d",
+      "number": 16,
+      "content": "Ông Ba-a-na, con ông Khu-sai, ở A-se và Bơ-a-lốt.",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.515Z",
+      "updatedAt": "2024-09-10T03:10:29.515Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "94e53eaf-ccef-4c03-aa13-424bd81ddd69",
+      "number": 17,
+      "content": "Ông Giơ-hô-sa-phát, con ông Pa-ru-ác, ở Ít-xa-kha.",
+      "order": 0,
+      "parNumber": 15,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.524Z",
+      "updatedAt": "2024-09-10T03:10:29.524Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "abfbdd50-150f-4310-8843-e90f5139dfad",
+      "number": 18,
+      "content": "Ông Sim-y, con ông Ê-la, ở Ben-gia-min.",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.529Z",
+      "updatedAt": "2024-09-10T03:10:29.529Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "5f068552-03d1-4b71-9328-315995e272de",
+      "number": 19,
+      "content": "Ông Ghe-ve, con ông U-ri, trong đất Ga-la-át, đất của Xi-khôn vua dân E-mô-ri, và Ốc vua Ba-san.",
+      "order": 0,
+      "parNumber": 17,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.534Z",
+      "updatedAt": "2024-09-10T03:10:29.534Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "987b8ace-44cd-4444-a733-fb33682f8e00",
+      "number": 19,
+      "content": "Và trong xứ chỉ có một trưởng vùng.",
+      "order": 1,
+      "parNumber": 17,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:10:29.539Z",
+      "updatedAt": "2024-09-10T03:10:29.539Z",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1df8530f-33d2-49f1-aa81-ab954152277b",
+      "content": "Vua Sa-lô-môn áp dụng lại tổ chức hành chính, quân sự, tôn giáo của vua Đa-vít trước đây, và có một vài cải tổ. Vua cũng dùng lại nhiều nhân sĩ của vua cha. Đây là một đoạn khó, nhiều nhân vật và chức vụ khó xác định và giải thích. Bản M và LXX có nhiều điểm không trùng hợp (x. 2 Sm 8,16-18 ; 20,23-26).",
+      "position": 39,
+      "order": 0,
+      "createdAt": "2024-09-10T03:10:29.414Z",
+      "updatedAt": "2024-09-10T03:10:29.414Z",
+      "headingId": "c7f68ca5-8be9-449e-bdb0-fedbea920122",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "59dceabb-2817-4b78-b224-b2342e4739a9",
+      "content": "So sánh với 2,26-27 và 4,2, người ta cho rằng c.4b được thêm vào sau.",
+      "position": 31,
+      "order": 1,
+      "createdAt": "2024-09-10T03:10:29.426Z",
+      "updatedAt": "2024-09-10T03:10:29.426Z",
+      "verseId": "ec26d138-3560-438e-82d7-a3fd4ed29c4b",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "ad8bbd93-3df2-4128-9c3c-394ad403bee3",
+      "content": "<i>Cố vấn</i>, ds : <i>bạn</i> ; người ta không rõ <i>bạn của vua</i> có phải là một chức vụ hay không và để làm gì. Hình như đó là một chức vụ chính thức (x. 2 Sm 15,37 ; 16,16 ; 1 Sb 27,33).",
+      "position": 37,
+      "order": 2,
+      "createdAt": "2024-09-10T03:10:29.434Z",
+      "updatedAt": "2024-09-10T03:10:29.434Z",
+      "verseId": "aa3b4082-4deb-45e6-9c27-12682ff68a68",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "a80dd9e7-502f-42ec-8951-9c3c9eee5ee6",
+      "content": "<i>Đặc trách cung điện</i> và <i>chỉ huy các trưởng vùng</i> là hai chức vụ vua Sa-lô-môn mới đặt ra, không có trong tổ chức hành chính của vua Đa-vít. Ngoài ra, vua Sa-lô-môn cũng bỏ đi chức vụ chỉ huy quân Cơ-rê-thi và Pơ-lê-thi (x. 2 Sm 8,18).",
+      "position": 28,
+      "order": 3,
+      "createdAt": "2024-09-10T03:10:29.438Z",
+      "updatedAt": "2024-09-10T03:10:29.438Z",
+      "verseId": "db32bc07-44e7-46f3-818a-385c47b88a4e",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "52db37ac-2e09-46dd-a79c-9f3eac9e6d2a",
+      "content": "Đây là tổ chức được lập ra nhằm cung cấp lương thực cho vua và triều đình (x. 4,5.7 ; 5,2-3.7-8).",
+      "position": 33,
+      "order": 4,
+      "createdAt": "2024-09-10T03:10:29.444Z",
+      "updatedAt": "2024-09-10T03:10:29.444Z",
+      "headingId": "df0b3518-d1d4-4691-bf36-19cd237d4a5f",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "1e2cdc66-b66e-4ce3-83d9-e580acb3249b",
+      "content": "X. 12,18 ; 2 Sm 20,24 ; 2 Sb 10,18.",
+      "position": 46,
+      "order": 5,
+      "createdAt": "2024-09-10T03:10:29.447Z",
+      "updatedAt": "2024-09-10T03:10:29.447Z",
+      "verseId": "37a280b1-43cd-4eee-ac10-f4c2d04ca010",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "8adab489-9d55-41e3-9df8-13a2319b0ffb",
+      "content": "Ít-ra-en có một quy chế khác với Giu-đa (= <i>xứ</i>, x. c.19b).",
+      "position": 108,
+      "order": 6,
+      "createdAt": "2024-09-10T03:10:29.452Z",
+      "updatedAt": "2024-09-10T03:10:29.452Z",
+      "verseId": "37a280b1-43cd-4eee-ac10-f4c2d04ca010",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "3c95ef33-071a-4d5c-8fb9-52ba12717063",
+      "content": "Có năm trường hợp không nói đến tên của vị trưởng vùng mà chỉ nhắc đến tên của người cha (x. cc. 8-9.10.11.13), rất có thể là trong quá trình lưu giữ, phần đầu của các câu ấy (tên của các trưởng vùng) đã bị “mất” đi.",
+      "position": 12,
+      "order": 7,
+      "createdAt": "2024-09-10T03:10:29.471Z",
+      "updatedAt": "2024-09-10T03:10:29.471Z",
+      "verseId": "f0dcf80c-66d5-48de-9d6a-d9f0991c305a",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "25513a8e-21a7-4e16-b550-6d1c7fdb9faa",
+      "content": "Ông này có thể là con của tư tế Xa-đốc (x. 2 Sm 15,27.36 ; 17,17-20 ; 18,19-29).",
+      "position": 15,
+      "order": 8,
+      "createdAt": "2024-09-10T03:10:29.510Z",
+      "updatedAt": "2024-09-10T03:10:29.510Z",
+      "verseId": "a78456e7-2fbf-43b7-80ed-3e5b00005875",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "8e0d9ecb-94e5-41a5-be0f-a14de6553555",
+      "content": "Ông này có thể là chính Khu-sai người Ác-ki, bạn vua Đa-vít (x. 2 Sm 15,32-37 ; 16,16-19 ; 17,5-16).",
+      "position": 28,
+      "order": 9,
+      "createdAt": "2024-09-10T03:10:29.520Z",
+      "updatedAt": "2024-09-10T03:10:29.520Z",
+      "verseId": "fe95c82b-b21f-40cb-b3a6-94941895988d",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "8ef6ac08-9074-4408-a7d6-921efc9e08d4",
+      "content": "<i>Xứ</i> : Ám chỉ đất Giu-đa (LXX thêm : Giu-đa). Giu-đa có lẽ được hưởng một quy chế khác Ít-ra-en (x. c.7+).",
+      "position": 11,
+      "order": 10,
+      "createdAt": "2024-09-10T03:10:29.544Z",
+      "updatedAt": "2024-09-10T03:10:29.544Z",
+      "verseId": "987b8ace-44cd-4444-a733-fb33682f8e00",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    }
+  ],
+  "headings": [
+    {
+      "id": "c7f68ca5-8be9-449e-bdb0-fedbea920122",
+      "content": "Các viên chức cao cấp của vua Sa-lô-môn",
+      "order": 0,
+      "createdAt": "2024-09-10T03:10:29.412Z",
+      "updatedAt": "2024-09-10T03:10:29.412Z",
+      "verseId": "375938a3-e124-4e69-b144-2cdba7ce7ded",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "df0b3518-d1d4-4691-bf36-19cd237d4a5f",
+      "content": "Các trưởng vùng của vua Sa-lô-môn",
+      "order": 0,
+      "createdAt": "2024-09-10T03:10:29.442Z",
+      "updatedAt": "2024-09-10T03:10:29.442Z",
+      "verseId": "37a280b1-43cd-4eee-ac10-f4c2d04ca010",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    }
+  ],
+  "references": [
+    {
+      "id": "7ffffc53-782e-4de2-9cc5-b477a65a8a99",
+      "content": "1 V 4,7tt",
+      "position": 43,
+      "order": 0,
+      "createdAt": "2024-09-10T03:10:29.430Z",
+      "updatedAt": "2024-09-10T03:10:29.430Z",
+      "verseId": "f647a581-4348-45e6-be05-a860fbf76c30",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    },
+    {
+      "id": "9cebde63-4bb9-47ca-9dc5-d0e7bd076b52",
+      "content": "1 V 5,27",
+      "position": 38,
+      "order": 1,
+      "createdAt": "2024-09-10T03:10:29.457Z",
+      "updatedAt": "2024-09-10T03:10:29.457Z",
+      "verseId": "37a280b1-43cd-4eee-ac10-f4c2d04ca010",
+      "chapterId": "11bb6c8d-0282-4f8d-9211-4fa7d954c6be"
+    }
+  ]
+}

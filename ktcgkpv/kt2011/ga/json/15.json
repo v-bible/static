@@ -1,0 +1,580 @@
+{
+  "chapter": {
+    "id": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181",
+    "number": 15,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.351Z",
+    "updatedAt": "2024-09-10T00:39:05.351Z",
+    "bookId": "1c87efec-37c9-47ee-a66d-6e1c0cc676db"
+  },
+  "verses": [
+    {
+      "id": "2fb4ef7c-aecc-4f75-bef8-6678d749b502",
+      "number": 1,
+      "content": "“Thầy là cây nho thật, và Cha Thầy là người trồng nho.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.539Z",
+      "updatedAt": "2024-09-10T00:49:54.539Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "57f9328e-453e-4686-9af8-b1e004a693d0",
+      "number": 2,
+      "content": "Cành nào gắn liền với Thầy mà không sinh hoa trái, thì Người chặt đi ; còn cành nào sinh hoa trái, thì Người cắt tỉa cho nó sinh nhiều hoa trái hơn.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.564Z",
+      "updatedAt": "2024-09-10T00:49:54.564Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "ea11f93f-03a3-4869-9e77-8a7dc9f1783f",
+      "number": 3,
+      "content": "Anh em được thanh sạch rồi nhờ lời Thầy đã nói với anh em.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.578Z",
+      "updatedAt": "2024-09-10T00:49:54.578Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "f913c740-913e-47c9-93c9-399beb98eb26",
+      "number": 4,
+      "content": "Hãy ở lại trong Thầy như Thầy ở lại trong anh em. Cũng như cành nho không thể tự mình sinh hoa trái, nếu không gắn liền với cây nho, anh em cũng thế, nếu không ở lại trong Thầy.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.588Z",
+      "updatedAt": "2024-09-10T00:49:54.588Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "d10b3542-ad84-45a2-ae37-6446a4c08ac2",
+      "number": 5,
+      "content": "“Thầy là cây nho, anh em là cành. Ai ở lại trong Thầy và Thầy ở lại trong người ấy, thì người ấy sinh nhiều hoa trái, vì không có Thầy, anh em chẳng làm gì được.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.599Z",
+      "updatedAt": "2024-09-10T00:49:54.599Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "15cb08f8-d784-4734-8c20-7853af96b615",
+      "number": 6,
+      "content": "Ai không ở lại trong Thầy, thì bị quăng ra ngoài như cành nho và sẽ khô héo. Người ta nhặt lấy, quăng vào lửa cho nó cháy đi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.604Z",
+      "updatedAt": "2024-09-10T00:49:54.604Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "7225a031-41a1-4806-ae4e-c05576fa9a38",
+      "number": 7,
+      "content": "Nếu anh em ở lại trong Thầy và lời Thầy ở lại trong anh em, thì muốn gì, anh em cứ xin, anh em sẽ được như ý.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.608Z",
+      "updatedAt": "2024-09-10T00:49:54.608Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "e8fe5357-1af5-4ad3-8f5c-0ec6b11e7b85",
+      "number": 8,
+      "content": "Điều làm Chúa Cha được tôn vinh là : Anh em sinh nhiều hoa trái và trở thành môn đệ của Thầy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.618Z",
+      "updatedAt": "2024-09-10T00:49:54.618Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "f83bc376-0475-4953-a47a-afcd6678eb70",
+      "number": 9,
+      "content": "“Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.624Z",
+      "updatedAt": "2024-09-10T00:49:54.624Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "69ea60f8-6a43-470b-b9a7-31fc0bf109e6",
+      "number": 10,
+      "content": "Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.629Z",
+      "updatedAt": "2024-09-10T00:49:54.629Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "18e19a8c-9cf9-42ec-a599-daf829e31c48",
+      "number": 11,
+      "content": "Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy, và niềm vui của anh em được nên trọn vẹn.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.638Z",
+      "updatedAt": "2024-09-10T00:49:54.638Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "228c986c-5c30-4084-9db1-696414fe3aca",
+      "number": 12,
+      "content": "“Đây là điều răn của Thầy : anh em hãy yêu thương nhau như Thầy đã yêu thương anh em.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.643Z",
+      "updatedAt": "2024-09-10T00:49:54.643Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "d04b0175-58bf-423d-bcce-e4f9bba2a4b0",
+      "number": 13,
+      "content": "Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.652Z",
+      "updatedAt": "2024-09-10T00:49:54.652Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "44b223b1-dd80-4223-b10b-6dbb975f4127",
+      "number": 14,
+      "content": "Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.666Z",
+      "updatedAt": "2024-09-10T00:49:54.666Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "2bee8959-9437-4a2b-851d-eda67c4dbb6f",
+      "number": 15,
+      "content": "Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.671Z",
+      "updatedAt": "2024-09-10T00:49:54.671Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "01121ad7-b293-414a-9653-b0dceacf7962",
+      "number": 16,
+      "content": "“Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.683Z",
+      "updatedAt": "2024-09-10T00:49:54.683Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "59060f8d-8719-4a25-8cb7-1a5ac2e5b22f",
+      "number": 17,
+      "content": "Điều Thầy truyền dạy anh em là hãy yêu thương nhau.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.693Z",
+      "updatedAt": "2024-09-10T00:49:54.693Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "0d347c4e-fc4b-4c47-a93d-39fa41a293e6",
+      "number": 18,
+      "content": "“Nếu thế gian ghét anh em, anh em hãy biết rằng nó đã ghét Thầy trước.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.702Z",
+      "updatedAt": "2024-09-10T00:49:54.702Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "8a35719a-6d66-47c2-a3b0-ca36d3e7c3db",
+      "number": 19,
+      "content": "Giả như anh em thuộc về thế gian, thì thế gian đã yêu thích cái gì là của nó. Nhưng vì anh em không thuộc về thế gian và Thầy đã chọn, đã tách anh em khỏi thế gian, nên thế gian ghét anh em.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.727Z",
+      "updatedAt": "2024-09-10T00:49:54.727Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "2bf84553-952d-40f7-8c1f-56a8accd0584",
+      "number": 20,
+      "content": "Hãy nhớ lời Thầy đã nói với anh em : tôi tớ không lớn hơn chủ nhà. Nếu họ đã bắt bớ Thầy, họ cũng sẽ bắt bớ anh em. Nếu họ đã tuân giữ lời Thầy, họ cũng sẽ tuân giữ lời anh em.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.736Z",
+      "updatedAt": "2024-09-10T00:49:54.736Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "08e86c0c-c668-460c-ad46-866d2aa71ef8",
+      "number": 21,
+      "content": "Nhưng họ sẽ làm tất cả những điều ấy chống lại anh em, vì anh em mang danh Thầy, bởi họ không biết Đấng đã sai Thầy.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.746Z",
+      "updatedAt": "2024-09-10T00:49:54.746Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "eaa5e7d9-aa54-4ddc-ab3b-b1efc4fb8798",
+      "number": 22,
+      "content": "“Giả như Thầy không đến và không nói với họ, họ đã chẳng có tội. Nhưng bây giờ, họ không thể chữa tội được.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.755Z",
+      "updatedAt": "2024-09-10T00:49:54.755Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "c4eea38e-d44c-4b36-84f4-5dff91e22ba7",
+      "number": 23,
+      "content": "Ai ghét Thầy, thì cũng ghét Cha Thầy.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.760Z",
+      "updatedAt": "2024-09-10T00:49:54.760Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "68e4878f-591d-4d25-94b8-64354fb4a2f1",
+      "number": 24,
+      "content": "Giả như Thầy không làm giữa họ những việc không một ai khác đã làm, họ đã không có tội. Nhưng nay họ thấy rồi mà vẫn ghét cả Thầy lẫn Cha Thầy.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.765Z",
+      "updatedAt": "2024-09-10T00:49:54.765Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "ea188688-53d5-41f1-a9d1-e11bef5f13bd",
+      "number": 25,
+      "content": "Như thế là ứng nghiệm lời đã viết trong Sách Luật của họ : Chúng ghét con vô cớ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.770Z",
+      "updatedAt": "2024-09-10T00:49:54.770Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "77968f91-774d-4a63-a96c-648ba295a0f1",
+      "number": 26,
+      "content": "“Khi Đấng Bảo Trợ đến, Đấng mà Thầy sẽ sai đến với anh em từ nơi Chúa Cha, Người là Thần Khí sự thật phát xuất từ Chúa Cha, Người sẽ làm chứng về Thầy.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.780Z",
+      "updatedAt": "2024-09-10T00:49:54.780Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "3ddc8520-4f74-41e5-9994-85df216b41f3",
+      "number": 27,
+      "content": "Cả anh em nữa, anh em cũng làm chứng, vì anh em ở với Thầy ngay từ đầu.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:54.791Z",
+      "updatedAt": "2024-09-10T00:49:54.791Z",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "9f1c3f9b-a169-4ca7-bde1-ac3e17c23b55",
+      "content": "Phần 2 (15,1 – 16,33) gồm ba đoạn : a/ 15,1-17, b/ 15,18 – 16,4a, c/ 16,4b-33 – Đoạn a/ (15,1-17) gồm có : 1. dụ ngôn cây nho và cành nho (15,1-2) ; 2. áp dụng, quảng diễn dụ ngôn, trong mạch văn của <i>những lời từ biệt</i> (15,3-17) .",
+      "position": 21,
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:54.558Z",
+      "updatedAt": "2024-09-10T00:49:54.558Z",
+      "verseId": "2fb4ef7c-aecc-4f75-bef8-6678d749b502",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "50776f2e-961b-47fe-8667-abffcaef164e",
+      "content": "Trong Cựu Ước, hình ảnh cây nho được áp dụng cho Ít-ra-en (Is 5,1-7 ; 27,2-4 ; Gr 2,21 ; 12,10 ; Ed 15,1-8 ; 17,6-10 ; 19,10-14 ; Hs 10,1 ; Tv 80,9-17). Như cây nho được chủ vườn chăm sóc, Ít-ra-en được Thiên Chúa vun trồng cẩn thận và che chở bao bọc. Nhưng Ít-ra-en đã làm cho Thiên Chúa phải thất vọng, vì đã không trổ sinh cành lá tươi tốt, hoa trái ngon ngọt (Is 5,4 ; Gr 2,21). Trong Ga, <i>cây nho thật</i> là chính Đức Giê-su. Phải chăng hình ảnh <i>cây nho</i> được áp dụng cho Đức Giê-su để đối chiếu Người với Ít-ra-en cũ ? Các môn đệ phải kết hợp với Người nhờ đức tin như <i>cành</i> (15,5a) với cây nho, thì mới có thể <i>sinh nhiều hoa trái</i> (15,5b). – Động từ Hy-lạp <i>kathairô</i> có hai nghĩa : cắt tỉa và làm cho nên thanh sạch. Các môn đệ được cắt tỉa, được nên thanh sạch (15,3) nhờ giáo huấn của Đức Giê-su (12,48).",
+      "position": 147,
+      "order": 1,
+      "createdAt": "2024-09-10T00:49:54.569Z",
+      "updatedAt": "2024-09-10T00:49:54.569Z",
+      "verseId": "57f9328e-453e-4686-9af8-b1e004a693d0",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "50ac6f4b-b224-4461-8295-ceb5e1d0b603",
+      "content": "Động từ Hy-lạp <i>menô + en</i> được sử dụng 10 lần trong đoạn 15,4-10 và có hai cách dịch trong cuốn Tân Ước này : 1. <i>ở lại trong</i> : Đức Giê-su <i>ở lại trong</i> các môn đệ : c.4 ; các môn đệ <i>ở lại trong</i> Đức Giê-su : cc. 4.5.6.7 ; lời của Đức Giê-su <i>ở lại trong</i> các môn đệ : c.7 ; các môn đệ <i>ở lại trong</i> tình thương của Đức Giê-su : cc. 9.10 (2 lần), 2. <i>gắn liền với</i> (cành nho <i>gắn liền với</i> cây nho : c.4).",
+      "position": 20,
+      "order": 2,
+      "createdAt": "2024-09-10T00:49:54.594Z",
+      "updatedAt": "2024-09-10T00:49:54.594Z",
+      "verseId": "f913c740-913e-47c9-93c9-399beb98eb26",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "2cd4412b-2faf-4bce-bc2a-181223de17fe",
+      "content": "Db : <i>anh em sẽ xin</i>.",
+      "position": 86,
+      "order": 3,
+      "createdAt": "2024-09-10T00:49:54.614Z",
+      "updatedAt": "2024-09-10T00:49:54.614Z",
+      "verseId": "7225a031-41a1-4806-ae4e-c05576fa9a38",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "b1e037ac-e00c-4e8f-8ba0-56d0bf36cbf2",
+      "content": "Db : <i>của Chúa Cha</i>.",
+      "position": 123,
+      "order": 4,
+      "createdAt": "2024-09-10T00:49:54.633Z",
+      "updatedAt": "2024-09-10T00:49:54.633Z",
+      "verseId": "69ea60f8-6a43-470b-b9a7-31fc0bf109e6",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "9129aec2-7da8-472c-b968-f5cdd2520b21",
+      "content": "Câu này nói đến cái chết của Đức Giê-su trên thập giá. Cái chết này diễn tả cách hùng hồn và sâu xa nhất tình thương của Người đối với các môn đệ được gọi là <i>bạn hữu</i> của Người.",
+      "position": 89,
+      "order": 5,
+      "createdAt": "2024-09-10T00:49:54.657Z",
+      "updatedAt": "2024-09-10T00:49:54.657Z",
+      "verseId": "d04b0175-58bf-423d-bcce-e4f9bba2a4b0",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "058e88c0-a8e0-4781-a3aa-d1a0a74f6b3b",
+      "content": "Db : <i>Thầy đã gọi anh em</i>. – Nhìn chung cả đoạn 15,3-17, độc giả thấy nổi bật chủ đề : sự kết hợp, sự hợp nhất. Có thể nhìn chủ đề này theo ba khía cạnh : 1. Nếu <i>ở lại trong</i> Đức Giê-su, các môn đệ sẽ sống và sinh hoa kết quả dồi dào (15,3-8). 2. Nếu <i>ở lại trong</i> Đức Giê-su, các môn đệ sẽ <i>ở lại trong</i> tình thương của Người (15,9-11). Chúa Cha đã yêu mến Đức Giê-su, và như Chúa Cha, Đức Giê-su cũng yêu mến các môn đệ. Đức Giê-su xin các môn đệ kiên trì giữ cái thế đón nhận tình thương của Người (<i>ở lại trong tình thương</i>) bằng cách đáp lại cụ thể tình thương đó là <i>tuân giữ các điều răn</i> của Người. 3. Nếu <i>ở lại trong</i> Đức Giê-su, các môn đệ sẽ kết hợp với nhau, như <i>cành gắn liền với cây nho</i> (15,4), thì cũng <i>gắn liền với các cành khác</i>. Vì thế, các môn đệ được kêu gọi yêu mến nhau. Lòng yêu mến đó diễn tả cụ thể sự hợp nhất của các môn đệ với nhau trong Đức Giê-su ; đồng thời, lòng yêu mến đó phải noi gương lòng yêu mến của Đức Giê-su đối với các môn đệ : hy sinh mạng sống của Người vì các môn đệ, chọn và sai các ông đi. X. 15,12-17.",
+      "position": 97,
+      "order": 6,
+      "createdAt": "2024-09-10T00:49:54.677Z",
+      "updatedAt": "2024-09-10T00:49:54.677Z",
+      "verseId": "2bee8959-9437-4a2b-851d-eda67c4dbb6f",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "77a9c32f-6230-4d82-82ee-c2772610bb2f",
+      "content": "Trong phần 2 (15,1 – 16,33), sau đoạn a/, đoạn b/ (15,18 – 16,4a) gồm có : 1. thế gian ghét và ngược đãi các môn đệ (15,18-25) ; 2. Thần Khí sự thật và các môn đệ làm chứng (15,26-27) ; 3. các môn đệ sẽ bị ngược đãi (16,1-4a).",
+      "position": 22,
+      "order": 7,
+      "createdAt": "2024-09-10T00:49:54.711Z",
+      "updatedAt": "2024-09-10T00:49:54.711Z",
+      "headingId": "ece6e524-f904-486c-9051-ff9abcfd5b2a",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "7a251949-02ee-49fa-9b68-c7fd5b5b6e99",
+      "content": "Có thể rút bốn chủ đề chính từ đoạn 15,18-25 : a/ Thế gian ghét các môn đệ, vì thế gian ghét Đức Giê-su (15,18.19.23.24.25) ; như thế, thế gian cũng ghét cả Chúa Cha nữa (15,23.24) ; b/ Thế gian ngược đãi các môn đệ (15,20.21 : <i>bắt bớ, chống lại</i>), vì Đức Giê-su (15,20b-21) ; c/ Lý do khiến thế gian ghét và ngược đãi các môn đệ : các môn đệ không thuộc về thế gian (15,19), mà lại thuộc về Đức Giê-su (15,21) ; d/ Tội của thế gian (15,22.24) : tội đó là tội không tin vào các điều Đức Giê-su đã nói (15,22) và đã làm (15,24), mặc dầu họ đã thấy (15,24b).",
+      "position": 25,
+      "order": 8,
+      "createdAt": "2024-09-10T00:49:54.717Z",
+      "updatedAt": "2024-09-10T00:49:54.717Z",
+      "verseId": "0d347c4e-fc4b-4c47-a93d-39fa41a293e6",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "02644516-ccea-42df-8abf-0c102af9c188",
+      "content": "Db : 1. <i>Nếu thế gian đã ghét anh em</i> ; 2. <i>Trước anh em</i>.",
+      "position": 69,
+      "order": 9,
+      "createdAt": "2024-09-10T00:49:54.722Z",
+      "updatedAt": "2024-09-10T00:49:54.722Z",
+      "verseId": "0d347c4e-fc4b-4c47-a93d-39fa41a293e6",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "da2755dd-f2a3-49ad-a3fe-5d9cd652644d",
+      "content": "Db : 1. <i>họ làm</i> ; 2. <i>làm những điều ấy</i>.",
+      "position": 115,
+      "order": 10,
+      "createdAt": "2024-09-10T00:49:54.750Z",
+      "updatedAt": "2024-09-10T00:49:54.750Z",
+      "verseId": "08e86c0c-c668-460c-ad46-866d2aa71ef8",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "ab52ae97-7acc-4d29-950a-ed0459aee2a4",
+      "content": "<i>Sách Luật</i> ở đây chỉ Kinh Thánh (như 10,34 ; 12,34). – Ga 15,25b trích dẫn Tv 35,19 hoặc Tv 69,5.",
+      "position": 79,
+      "order": 11,
+      "createdAt": "2024-09-10T00:49:54.775Z",
+      "updatedAt": "2024-09-10T00:49:54.775Z",
+      "verseId": "ea188688-53d5-41f1-a9d1-e11bef5f13bd",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "857b1a60-7f3e-4a40-9117-30e477070032",
+      "content": "Db : <i>Thầy gửi đến anh em</i>. – <i>Người sẽ làm chứng về Thầy</i> : x. 16,13-14 ; 1 Ga 5,6.",
+      "position": 150,
+      "order": 12,
+      "createdAt": "2024-09-10T00:49:54.786Z",
+      "updatedAt": "2024-09-10T00:49:54.786Z",
+      "verseId": "77968f91-774d-4a63-a96c-648ba295a0f1",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "f9f99617-04ee-4512-8c15-9ca0dc210aab",
+      "content": "<i>Ngay từ đầu</i> là từ lúc sứ vụ của Đức Giê-su bắt đầu.",
+      "position": 70,
+      "order": 13,
+      "createdAt": "2024-09-10T00:49:54.796Z",
+      "updatedAt": "2024-09-10T00:49:54.796Z",
+      "verseId": "3ddc8520-4f74-41e5-9994-85df216b41f3",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    }
+  ],
+  "headings": [
+    {
+      "id": "a2b62667-b5d2-45ca-88e5-b63725f555a4",
+      "content": "Cây nho thật",
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:54.552Z",
+      "updatedAt": "2024-09-10T00:49:54.552Z",
+      "verseId": "2fb4ef7c-aecc-4f75-bef8-6678d749b502",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "ece6e524-f904-486c-9051-ff9abcfd5b2a",
+      "content": "Các môn đệ và thế gian",
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:54.706Z",
+      "updatedAt": "2024-09-10T00:49:54.706Z",
+      "verseId": "0d347c4e-fc4b-4c47-a93d-39fa41a293e6",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    }
+  ],
+  "references": [
+    {
+      "id": "97235bc5-2bc1-477a-8b6d-9f73a106c987",
+      "content": "Is 18,5",
+      "position": 109,
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:54.574Z",
+      "updatedAt": "2024-09-10T00:49:54.574Z",
+      "verseId": "57f9328e-453e-4686-9af8-b1e004a693d0",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "35661cd6-dd3d-482c-9674-b6936728e0d2",
+      "content": "Ga 13,10",
+      "position": 12,
+      "order": 1,
+      "createdAt": "2024-09-10T00:49:54.583Z",
+      "updatedAt": "2024-09-10T00:49:54.583Z",
+      "verseId": "ea11f93f-03a3-4869-9e77-8a7dc9f1783f",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "d621ac32-57b9-469b-83b6-92026f00c5c1",
+      "content": "Ga 13,34; 15,17; 1 Ga 2,8",
+      "position": 8,
+      "order": 2,
+      "createdAt": "2024-09-10T00:49:54.648Z",
+      "updatedAt": "2024-09-10T00:49:54.648Z",
+      "verseId": "228c986c-5c30-4084-9db1-696414fe3aca",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "9b514044-1284-4d27-a973-bef1d2f5b062",
+      "content": "1 Ga 3,16",
+      "position": 61,
+      "order": 3,
+      "createdAt": "2024-09-10T00:49:54.662Z",
+      "updatedAt": "2024-09-10T00:49:54.662Z",
+      "verseId": "d04b0175-58bf-423d-bcce-e4f9bba2a4b0",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "3ededd1f-de33-4580-946a-7b17d911a3e2",
+      "content": "Ga 14,13; 16,24.26",
+      "position": 179,
+      "order": 4,
+      "createdAt": "2024-09-10T00:49:54.688Z",
+      "updatedAt": "2024-09-10T00:49:54.688Z",
+      "verseId": "01121ad7-b293-414a-9653-b0dceacf7962",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "875fb176-db9f-4f67-838e-a833b15f7c8c",
+      "content": "Ga 13,34; 15,12; 1 Ga 2,8",
+      "position": 0,
+      "order": 5,
+      "createdAt": "2024-09-10T00:49:54.697Z",
+      "updatedAt": "2024-09-10T00:49:54.697Z",
+      "verseId": "59060f8d-8719-4a25-8cb7-1a5ac2e5b22f",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "a7d4b64e-374f-4fc2-b0dd-8a23c95c73a6",
+      "content": "Ga 17,14.16",
+      "position": 100,
+      "order": 6,
+      "createdAt": "2024-09-10T00:49:54.731Z",
+      "updatedAt": "2024-09-10T00:49:54.731Z",
+      "verseId": "8a35719a-6d66-47c2-a3b0-ca36d3e7c3db",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    },
+    {
+      "id": "c7aeb55c-6ecd-46e7-821f-eb0979f7f6df",
+      "content": "Ga 13,18; Mt 10,24; Lc 6,40",
+      "position": 50,
+      "order": 7,
+      "createdAt": "2024-09-10T00:49:54.741Z",
+      "updatedAt": "2024-09-10T00:49:54.741Z",
+      "verseId": "2bf84553-952d-40f7-8c1f-56a8accd0584",
+      "chapterId": "01c3e1ea-f206-4e7b-a8a2-5f2880a30181"
+    }
+  ]
+}

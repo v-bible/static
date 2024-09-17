@@ -1,0 +1,223 @@
+{
+  "chapter": {
+    "id": "a17eab11-03c6-49c3-8318-3db224f3192b",
+    "number": 150,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.897Z",
+    "updatedAt": "2024-09-10T00:39:05.897Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "01670e8e-8ac3-49f7-827c-5aa039eba84b",
+      "number": 1,
+      "content": "Ha-lê-lui-a !",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.220Z",
+      "updatedAt": "2024-09-10T04:37:51.220Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "1bdce103-64f3-424b-91e4-f1a4207b245b",
+      "number": 1,
+      "content": "Ca tụng Chúa đi, trong đền thánh Chúa,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.236Z",
+      "updatedAt": "2024-09-10T04:37:51.236Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "0893dead-f5f1-4c36-a706-d6d5de9677de",
+      "number": 1,
+      "content": "ca tụng Người chốn cao thẳm uy linh.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.240Z",
+      "updatedAt": "2024-09-10T04:37:51.240Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "3110ff4f-7068-47ae-a034-f5ebfd9277dd",
+      "number": 2,
+      "content": "Ca tụng Chúa vì công trình hùng vĩ,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.242Z",
+      "updatedAt": "2024-09-10T04:37:51.242Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "62b897cc-5430-4d6b-acfc-4f941977cea8",
+      "number": 2,
+      "content": "ca tụng Người lẫm liệt uy phong.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.244Z",
+      "updatedAt": "2024-09-10T04:37:51.244Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "087a9fda-f5cb-4d42-9ef8-aa3c4f6e60aa",
+      "number": 3,
+      "content": "Ca tụng Chúa đi, rập theo tiếng tù và,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.246Z",
+      "updatedAt": "2024-09-10T04:37:51.246Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "b1406393-be7a-40e6-a72b-34b44bf03f8c",
+      "number": 3,
+      "content": "ca tụng Người, hoạ tiếng cầm tiếng sắt.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.248Z",
+      "updatedAt": "2024-09-10T04:37:51.248Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "7d86c2c6-39ad-41e2-88de-74f7eed25fbe",
+      "number": 4,
+      "content": "Ca tụng Chúa, bằng vũ điệu trống đưa,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.250Z",
+      "updatedAt": "2024-09-10T04:37:51.250Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "eebe9209-1514-4e84-9f38-fe47e0569b65",
+      "number": 4,
+      "content": "ca tụng Người, theo cung đàn nhịp sáo.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.255Z",
+      "updatedAt": "2024-09-10T04:37:51.255Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "12b00508-1726-4aac-8a4b-b29cd147a657",
+      "number": 5,
+      "content": "Ca tụng Chúa đi, với chũm choẹ vang rền,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.257Z",
+      "updatedAt": "2024-09-10T04:37:51.257Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "78b3eb95-ffb2-487a-89d3-455a698db1d4",
+      "number": 5,
+      "content": "ca tụng Người cùng thanh la inh ỏi.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.258Z",
+      "updatedAt": "2024-09-10T04:37:51.258Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "5312d4ba-45aa-4cde-9177-0c885bd84d90",
+      "number": 6,
+      "content": "Hỡi toàn thể chúng sinh, ca tụng CHÚA đi nào !",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.262Z",
+      "updatedAt": "2024-09-10T04:37:51.262Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "6122f9a2-de73-4dc3-aeb7-ae1476a8a9bc",
+      "number": 6,
+      "content": "Ha-lê-lui-a !",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:37:51.266Z",
+      "updatedAt": "2024-09-10T04:37:51.266Z",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "fa13eebd-d001-466f-8cf6-6e6ccaa7c75b",
+      "content": "Trong <i>Thánh thi</i> này, <i>toàn thể chúng sinh</i> (c.6) được kêu mời góp phần vào buổi hoà nhạc vĩ đại để ngợi khen Thiên Chúa, Đấng “lẫm liệt uy phong” (c.2), vì những chiến công lừng lẫy của Người. Vinh tụng ca này kết thúc tập V gồm các Tv 107 – 150. Cấu trúc : <b>1</b>) Mời gọi ngợi khen Thiên Chúa (cc. 1-2) ; <b>2</b>) Ngợi khen Thiên Chúa với đủ thứ nhạc cụ (cc. 3-5) ; <b>3</b>) Kết : lặp lại lời mời gọi (c.6).",
+      "position": 22,
+      "order": 0,
+      "createdAt": "2024-09-10T04:37:51.232Z",
+      "updatedAt": "2024-09-10T04:37:51.232Z",
+      "headingId": "24f81fc0-367d-4f80-83c8-552a56c72fae",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "7d27301f-2d47-48e9-bdc3-3543e79121ab",
+      "content": "Trong cả đoạn gồm cc. 1-5, lời mời gọi này được lặp lại 10 lần.",
+      "position": 15,
+      "order": 1,
+      "createdAt": "2024-09-10T04:37:51.238Z",
+      "updatedAt": "2024-09-10T04:37:51.238Z",
+      "verseId": "1bdce103-64f3-424b-91e4-f1a4207b245b",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    }
+  ],
+  "headings": [
+    {
+      "id": "24f81fc0-367d-4f80-83c8-552a56c72fae",
+      "content": "Tv 150 Ca tụng Chúa đi",
+      "order": 0,
+      "createdAt": "2024-09-10T04:37:51.229Z",
+      "updatedAt": "2024-09-10T04:37:51.229Z",
+      "verseId": "01670e8e-8ac3-49f7-827c-5aa039eba84b",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    }
+  ],
+  "references": [
+    {
+      "id": "a399643f-7756-4b84-b3f1-5e27b0c3a245",
+      "content": "Tv 104,35; 148,1",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:37:51.234Z",
+      "updatedAt": "2024-09-10T04:37:51.234Z",
+      "verseId": "01670e8e-8ac3-49f7-827c-5aa039eba84b",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    },
+    {
+      "id": "4d135a2f-7596-44a3-9119-1ba6e1ba39fd",
+      "content": "Tv 81,3; 149,3",
+      "position": 27,
+      "order": 1,
+      "createdAt": "2024-09-10T04:37:51.252Z",
+      "updatedAt": "2024-09-10T04:37:51.252Z",
+      "verseId": "7d86c2c6-39ad-41e2-88de-74f7eed25fbe",
+      "chapterId": "a17eab11-03c6-49c3-8318-3db224f3192b"
+    }
+  ]
+}

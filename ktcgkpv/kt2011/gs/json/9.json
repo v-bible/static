@@ -1,0 +1,448 @@
+{
+  "chapter": {
+    "id": "9badb123-3e18-4190-b855-f043cab98509",
+    "number": 9,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.729Z",
+    "updatedAt": "2024-09-10T00:39:05.729Z",
+    "bookId": "12c482aa-d812-43aa-855a-dc9fcbb90c1b"
+  },
+  "verses": [
+    {
+      "id": "4611025c-e20a-4708-a337-7552374c15d1",
+      "number": 1,
+      "content": "Nghe tin ấy, tất cả các vua ở bên kia sông Gio-đan, trên miền núi, trong miền Sơ-phê-la và ở vùng ven Biển Lớn cho đến tận Li-băng : các vua Khết, E-mô-ri, Ca-na-an, Pơ-rít-di, Khi-vi và Giơ-vút,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.121Z",
+      "updatedAt": "2024-09-10T02:47:39.121Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "26339b82-e2f1-45fc-b78e-9f93169a6ccf",
+      "number": 2,
+      "content": "hợp nhau để cùng chiến đấu chống lại ông Giô-suê và Ít-ra-en.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.158Z",
+      "updatedAt": "2024-09-10T02:47:39.158Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "6fa2b200-ce9b-44c3-8a0d-85a492985da3",
+      "number": 3,
+      "content": "Người Ghíp-ôn nghe biết những gì ông Giô-suê đã làm cho Giê-ri-khô và Ai,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.163Z",
+      "updatedAt": "2024-09-10T02:47:39.163Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "575d8f93-8c4a-4a11-932c-6cf13b386cc2",
+      "number": 4,
+      "content": "thì cũng dùng mưu. Chúng lên đường, mang theo lương thực, và cho lừa chở những chiếc bị cũ, những bầu rượu bằng da cũ, thủng và được vá lại,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.172Z",
+      "updatedAt": "2024-09-10T02:47:39.172Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "6da1d01e-8366-46ce-846a-5e8e0efd3e46",
+      "number": 5,
+      "content": "chân mang dép cũ được khâu lại, mình mặc quần áo cũ ; tất cả bánh dự trữ đều khô cứng, nát vụn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.182Z",
+      "updatedAt": "2024-09-10T02:47:39.182Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "d0808d51-c675-4b5e-b1a3-4402746e50bf",
+      "number": 6,
+      "content": "Chúng đi gặp ông Giô-suê ở trại Ghin-gan ; chúng nói với ông và người Ít-ra-en : “Chúng tôi từ nơi xa đến, vậy bây giờ xin các ông ký hiệp ước với chúng tôi.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.187Z",
+      "updatedAt": "2024-09-10T02:47:39.187Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "cefe7b1f-1388-47f2-a263-12bcb749a6f8",
+      "number": 7,
+      "content": "Người Ít-ra-en mới nói với người Khi-vi : “Biết đâu (các) ông lại chẳng sống ngay giữa chúng tôi, thì (chúng) tôi ký hiệp ước với các ông làm gì ?”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.192Z",
+      "updatedAt": "2024-09-10T02:47:39.192Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "534fb120-8966-45fe-803a-68ba855008d6",
+      "number": 8,
+      "content": "Chúng nói với ông Giô-suê : “Chúng tôi là tôi tớ của ông.” Ông Giô-suê nói : “Các ông là ai, và từ đâu đến ?”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.197Z",
+      "updatedAt": "2024-09-10T02:47:39.197Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "60d0116a-193e-4b1b-8282-b99c46b66b3b",
+      "number": 9,
+      "content": "Chúng đáp : “Nghe biết danh tiếng ĐỨC CHÚA, Thiên Chúa của ông, các tôi tớ của ông đã từ một nước rất xa đến đây. Vì chúng tôi đã nghe nói về Người, về tất cả những gì Người đã làm bên Ai-cập,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.202Z",
+      "updatedAt": "2024-09-10T02:47:39.202Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "d47929b4-6e5b-445e-86a4-bbfbfb4b8f69",
+      "number": 10,
+      "content": "và về tất cả những gì Người đã giáng cho hai vua người E-mô-ri ở bên kia sông Gio-đan, nghĩa là cho Xi-khôn, vua Khét-bôn, và Ốc, vua Ba-san, ở Át-ta-rốt.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.207Z",
+      "updatedAt": "2024-09-10T02:47:39.207Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "1f43be41-14d4-4211-bc09-21ac60d1de65",
+      "number": 11,
+      "content": "Các bậc kỳ mục của chúng tôi và mọi người dân trong nước đã nói với chúng tôi : ‘Các anh hãy mang theo lương thực đi đường mà đi đón họ ; hãy nói với họ : Chúng tôi là tôi tớ của các ông ; vậy bây giờ xin các ông ký hiệp ước với chúng tôi.’",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.212Z",
+      "updatedAt": "2024-09-10T02:47:39.212Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "1dce04bd-4af6-4157-b97f-a6f2cbcc4e72",
+      "number": 12,
+      "content": "Bánh của chúng tôi đây này : khi chúng tôi đem ra khỏi nhà làm lương thực, ngày chúng tôi ra đi để đến với các ông, nó còn nóng hổi, mà bây giờ nó đã khô cứng, nát vụn !",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.217Z",
+      "updatedAt": "2024-09-10T02:47:39.217Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "8f2287bc-b42e-4bff-8b6a-a1d16a30c92e",
+      "number": 13,
+      "content": "Những bầu rượu kia, khi chúng tôi đổ đầy rượu vào, thì hãy còn mới, mà nay đã thủng ; quần áo và giày dép của chúng tôi đây đã cũ vì đường sá xa xôi.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.222Z",
+      "updatedAt": "2024-09-10T02:47:39.222Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "26f1a6bd-e8fa-4192-a0aa-6ea22145f3f9",
+      "number": 14,
+      "content": "Người Ít-ra-en nhận một phần lương thực dự trữ ấy mà không thỉnh ý ĐỨC CHÚA qua lời sấm.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.228Z",
+      "updatedAt": "2024-09-10T02:47:39.228Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "3a7438e2-eed1-43f2-9d1b-f12e74e7e013",
+      "number": 15,
+      "content": "Ông Giô-suê để chúng được bình an, và ký hiệp ước bảo đảm tính mạng của chúng. Và những người lãnh đạo cộng đồng thề ước với chúng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.238Z",
+      "updatedAt": "2024-09-10T02:47:39.238Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "f776e0f7-bb1d-4732-bf80-8b4677eb8b3c",
+      "number": 16,
+      "content": "Ba ngày sau khi ký hiệp ước với chúng, người Ít-ra-en nghe biết chúng là người láng giềng và sống giữa họ.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.243Z",
+      "updatedAt": "2024-09-10T02:47:39.243Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "b60e6efd-ed6a-42d8-9479-e05961063ed3",
+      "number": 17,
+      "content": "Con cái Ít-ra-en rời nơi đó mà vào thành của chúng ngày thứ ba ; thành của chúng là Ghíp-ôn, Cơ-phi-ra, Bơ-ê-rốt, Kia-giát Giơ-a-rim.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.248Z",
+      "updatedAt": "2024-09-10T02:47:39.248Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "23f5ac33-9b23-47fb-8358-3a9eba10c7d3",
+      "number": 18,
+      "content": "Con cái Ít-ra-en không giết chúng, vì các người lãnh đạo cộng đồng đã thề ước với chúng nhân danh ĐỨC CHÚA, Thiên Chúa của Ít-ra-en ; nhưng toàn thể cộng đồng đã kêu trách những người lãnh đạo.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.252Z",
+      "updatedAt": "2024-09-10T02:47:39.252Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "45aa1b2a-1a37-4552-8bd0-394764e1d69c",
+      "number": 19,
+      "content": "Mọi người lãnh đạo nói với toàn thể cộng đồng : “Chúng tôi đã nhân danh ĐỨC CHÚA, Thiên Chúa của Ít-ra-en, mà thề ; nên bây giờ chúng ta không được đụng tới chúng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.257Z",
+      "updatedAt": "2024-09-10T02:47:39.257Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "c4880f24-5615-42fe-9e62-2b0311e08744",
+      "number": 20,
+      "content": "Chúng ta sẽ đối xử với chúng như thế này : Chúng ta sẽ để cho chúng sống, và cơn thịnh nộ sẽ không giáng xuống chúng ta, vì chúng ta đã thề ước với chúng như vậy.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.267Z",
+      "updatedAt": "2024-09-10T02:47:39.267Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "6d7da2ee-3928-41e1-800a-9c7b9539bab8",
+      "number": 21,
+      "content": "Những người lãnh đạo nói tiếp : “Cứ để chúng sống, nhưng chúng phải chặt củi, múc nước cho toàn thể cộng đồng.” Những người lãnh đạo đã nói với chúng như thế.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.277Z",
+      "updatedAt": "2024-09-10T02:47:39.277Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "6484c877-2601-47fe-8101-f12f635f7566",
+      "number": 22,
+      "content": "Ông Giô-suê triệu tập chúng lại và nói : “Tại sao các người đã lừa dối chúng tôi mà nói : ‘Chúng tôi ở rất xa các ông’, trong khi các người sống giữa chúng tôi ?",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.285Z",
+      "updatedAt": "2024-09-10T02:47:39.285Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "b1087e15-b613-4077-924a-442b12ebc0d1",
+      "number": 23,
+      "content": "Bây giờ, các người là những kẻ bị nguyền rủa, tất cả các người sẽ mãi mãi làm nô lệ, làm người chặt củi, múc nước cho Nhà của Thiên Chúa tôi.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.288Z",
+      "updatedAt": "2024-09-10T02:47:39.288Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "5f91be7e-a36a-4559-8935-54755004f1d6",
+      "number": 24,
+      "content": "Chúng trả lời ông Giô-suê : “Người ta đã kể đi kể lại cho các tôi tớ ngài đây lệnh mà ĐỨC CHÚA, Thiên Chúa của ông, đã truyền cho ông Mô-sê, tôi trung của Người, là trao cho các ông tất cả xứ sở, và tiêu diệt trước mặt các ông toàn thể dân cư trong xứ. Chúng tôi đã sợ cho tính mạng của chúng tôi, chúng tôi rất sợ các ông, nên chúng tôi đã làm điều ấy.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.291Z",
+      "updatedAt": "2024-09-10T02:47:39.291Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "38e00927-e6ec-49dc-a400-1886278e4bb4",
+      "number": 25,
+      "content": "Vậy bây giờ chúng tôi đang ở trong tay ông, ông cứ đối xử với chúng tôi như ông nghĩ thế nào là hay là phải !”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.295Z",
+      "updatedAt": "2024-09-10T02:47:39.295Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "4dba4b19-e099-4128-bf01-c716656cd056",
+      "number": 26,
+      "content": "Ông đã đối xử với chúng như thế này : ông đã cứu chúng khỏi tay con cái Ít-ra-en, và họ đã không giết chúng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.301Z",
+      "updatedAt": "2024-09-10T02:47:39.301Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "93baa557-2afa-4201-a4b9-5bdbeaa7efed",
+      "number": 27,
+      "content": "Nhưng ngày ấy ông Giô-suê bắt chúng chặt củi, múc nước để phục vụ cộng đồng và bàn thờ của ĐỨC CHÚA cho đến ngày nay, ở nơi Người sẽ chọn.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:47:39.305Z",
+      "updatedAt": "2024-09-10T02:47:39.305Z",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "48648ea0-a235-4a7d-9cc0-f71a7583426b",
+      "content": "Hai câu đầu của ch. 9 là phần dẫn nhập vào trình thuật về mưu của người Ghíp-ôn (9,3-27). Phần chính này gồm hai phần : <b>1</b>) mưu của người Ghíp-ôn (cc. 3-15) ; <b>2</b>) mưu bị lộ tẩy và quy chế của người Ghíp-ôn (cc. 16-27).",
+      "position": 24,
+      "order": 0,
+      "createdAt": "2024-09-10T02:47:39.143Z",
+      "updatedAt": "2024-09-10T02:47:39.143Z",
+      "headingId": "7ebbfd69-4ed9-48e9-92d5-a2fcb794892a",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "6cea94c4-695d-4fed-b41f-59022020d301",
+      "content": "C. 9,1 nói về các vua trong xứ Ca-na-an – <i>Miền núi</i> chỉ miền trung đầy núi non của Pa-lét-tin là phần đất sẽ dành cho các chi tộc Ép-ra-im, Giu-đa và Ben-gia-min – <i>Miền Sơ-phê-la</i> là vùng có nhiều đồi nằm giữa miền trung và vùng duyên hải của Địa Trung Hải tức là <i>Biển Lớn</i>.",
+      "position": 130,
+      "order": 1,
+      "createdAt": "2024-09-10T02:47:39.148Z",
+      "updatedAt": "2024-09-10T02:47:39.148Z",
+      "verseId": "4611025c-e20a-4708-a337-7552374c15d1",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "06ef4345-fe1e-4a74-94fe-28994a52778d",
+      "content": "Mục tiêu mà người Ghíp-ôn nhắm khi dùng mưu sắp nói đến là muốn thoát khỏi một cuộc tàn sát chiếu theo Xh 23,32 ; 34,12 ; Đnl 7,2. Những người này là người Khi-vi (9,7 ; 11,19) ở tại Ghíp-ôn cách Giê-ru-sa-lem 10 km về phía tây bắc và cách Ai 11 km về phía tây nam.",
+      "position": 17,
+      "order": 2,
+      "createdAt": "2024-09-10T02:47:39.177Z",
+      "updatedAt": "2024-09-10T02:47:39.177Z",
+      "verseId": "575d8f93-8c4a-4a11-932c-6cf13b386cc2",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "7cfb3ce5-6319-41c4-ab25-1e397b015165",
+      "content": "Nhận lương thực của người Ghíp-ôn là công nhận giao ước đã lập, vì sau giao ước, người ta thường chia sẻ bánh hay dự bữa ăn (x. St 26,28-30 ; 31,54).",
+      "position": 49,
+      "order": 3,
+      "createdAt": "2024-09-10T02:47:39.233Z",
+      "updatedAt": "2024-09-10T02:47:39.233Z",
+      "verseId": "26f1a6bd-e8fa-4192-a0aa-6ea22145f3f9",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "67e6b024-d35f-491d-b2e8-a7fab5be6ad5",
+      "content": "Một lỗi rất nặng có thể kéo <i>cơn thịnh nộ</i> (= cơn thịnh nộ của Thiên Chúa) xuống phạm nhân. Mà lỗi lời thề, vi phạm giao ước là một lỗi rất nặng.",
+      "position": 161,
+      "order": 4,
+      "createdAt": "2024-09-10T02:47:39.272Z",
+      "updatedAt": "2024-09-10T02:47:39.272Z",
+      "verseId": "c4880f24-5615-42fe-9e62-2b0311e08744",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    }
+  ],
+  "headings": [
+    {
+      "id": "e13cf61f-a4ab-42fa-ba57-7bcee092d639",
+      "content": "6. HIỆP ƯỚC GIỮA ÍT-RA-EN VÀ NGƯỜI GHÍP-ÔN",
+      "order": 0,
+      "createdAt": "2024-09-10T02:47:39.132Z",
+      "updatedAt": "2024-09-10T02:47:39.132Z",
+      "verseId": "4611025c-e20a-4708-a337-7552374c15d1",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "471d3725-a776-4ae4-8f1f-fad055806bbd",
+      "content": "Mưu của người Ghíp-ôn",
+      "order": 0,
+      "createdAt": "2024-09-10T02:47:39.167Z",
+      "updatedAt": "2024-09-10T02:47:39.167Z",
+      "verseId": "6fa2b200-ce9b-44c3-8a0d-85a492985da3",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "f66efb3e-3e0d-4edd-8bc1-f54b17285005",
+      "content": "Quy chế cho người Ghíp-ôn",
+      "order": 0,
+      "createdAt": "2024-09-10T02:47:39.262Z",
+      "updatedAt": "2024-09-10T02:47:39.262Z",
+      "verseId": "45aa1b2a-1a37-4552-8bd0-394764e1d69c",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "7ebbfd69-4ed9-48e9-92d5-a2fcb794892a",
+      "content": "Liên minh chống Ít-ra-en",
+      "order": 1,
+      "createdAt": "2024-09-10T02:47:39.137Z",
+      "updatedAt": "2024-09-10T02:47:39.137Z",
+      "verseId": "4611025c-e20a-4708-a337-7552374c15d1",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    }
+  ],
+  "references": [
+    {
+      "id": "f337324a-de90-4182-97ac-befbb6df3c59",
+      "content": "Gs 11,3; 12,8",
+      "position": 141,
+      "order": 0,
+      "createdAt": "2024-09-10T02:47:39.153Z",
+      "updatedAt": "2024-09-10T02:47:39.153Z",
+      "verseId": "4611025c-e20a-4708-a337-7552374c15d1",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    },
+    {
+      "id": "f4b4bec9-3984-44ab-8cd2-cd5b2e04a091",
+      "content": "Đnl 29,10",
+      "position": 68,
+      "order": 1,
+      "createdAt": "2024-09-10T02:47:39.281Z",
+      "updatedAt": "2024-09-10T02:47:39.281Z",
+      "verseId": "6d7da2ee-3928-41e1-800a-9c7b9539bab8",
+      "chapterId": "9badb123-3e18-4190-b855-f043cab98509"
+    }
+  ]
+}

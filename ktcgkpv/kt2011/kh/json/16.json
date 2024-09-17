@@ -1,0 +1,639 @@
+{
+  "chapter": {
+    "id": "d82b8d45-8e35-40ac-b463-340771b50ec8",
+    "number": 16,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.369Z",
+    "updatedAt": "2024-09-10T00:39:05.369Z",
+    "bookId": "8218435d-2346-42f1-8b6d-c91e29cf1c38"
+  },
+  "verses": [
+    {
+      "id": "e733a33e-b6a1-432e-b889-73d2881eb9ab",
+      "number": 1,
+      "content": "Bấy giờ tôi nghe một tiếng lớn từ Đền Thờ bảo bảy thiên thần : “Hãy đi trút bảy chén lôi đình của Thiên Chúa xuống mặt đất.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:02.927Z",
+      "updatedAt": "2024-09-10T01:38:02.927Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "9d020964-a309-442b-89a7-ec9ac0a8b69a",
+      "number": 2,
+      "content": "Vị thứ nhất đi trút chén của mình xuống mặt đất. Những người mang dấu thích của Con Thú và thờ lạy tượng nó liền bị một ung nhọt ác tính và đau đớn.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:02.947Z",
+      "updatedAt": "2024-09-10T01:38:02.947Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "de65ad6b-c0d0-4600-8e92-97b6d11a71ce",
+      "number": 3,
+      "content": "Vị thứ hai trút chén của mình xuống biển. Biển liền hoá ra máu như máu người chết, và mọi sinh vật dưới biển đều chết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:02.966Z",
+      "updatedAt": "2024-09-10T01:38:02.966Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "6b9f72e3-1d8a-4cdf-ad22-91315877aa13",
+      "number": 4,
+      "content": "Vị thứ ba trút chén của mình xuống sông ngòi và các nguồn nước. Nước liền hoá ra máu.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:02.980Z",
+      "updatedAt": "2024-09-10T01:38:02.980Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "426c53ce-5cae-42e3-ae34-dcc64a1a202a",
+      "number": 5,
+      "content": "Tôi nghe thiên thần có quyền trên nước nói : “Lạy Đức Thánh, Đấng hiện có và đã có, Ngài thật công minh vì đã xét xử như vậy.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:02.989Z",
+      "updatedAt": "2024-09-10T01:38:02.989Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "19ad1fb4-5a42-4206-afd5-5e46275fd180",
+      "number": 6,
+      "content": "Chúng đã đổ máu dân thánh và các ngôn sứ, nên Ngài đã cho chúng uống máu : thật là đích đáng !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.003Z",
+      "updatedAt": "2024-09-10T01:38:03.003Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "5da18309-2f69-4a9f-abca-29a0252c3e43",
+      "number": 7,
+      "content": "Tôi lại nghe bàn thờ nói : “Vâng, lạy Chúa là Thiên Chúa Toàn Năng, những lời Ngài phán quyết đều chân thật công minh !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.013Z",
+      "updatedAt": "2024-09-10T01:38:03.013Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "e8cd38ea-55c6-4a25-bcdb-e062cbf5295f",
+      "number": 8,
+      "content": "Vị thứ tư trút chén của mình xuống mặt trời. Mặt trời liền được phép dùng lửa mà thiêu đốt người ta.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.031Z",
+      "updatedAt": "2024-09-10T01:38:03.031Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "cd6152f7-7948-4cb3-b820-3ec87dd1a9a8",
+      "number": 9,
+      "content": "Người ta bị khí nóng dữ dội thiêu đốt, họ nói phạm đến danh Thiên Chúa, Đấng có quyền trên các tai ương đó, nhưng họ không chịu hối cải mà tôn vinh Người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.041Z",
+      "updatedAt": "2024-09-10T01:38:03.041Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "49816211-5ef7-438a-8432-dd05bf991b57",
+      "number": 10,
+      "content": "Vị thứ năm trút chén của mình xuống ngai Con Thú. Vương quốc của nó liền ra tối tăm ; người ta cắn lưỡi vì đau đớn ;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.050Z",
+      "updatedAt": "2024-09-10T01:38:03.050Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "907c594b-9d6b-436d-8f30-ffe2795c2c64",
+      "number": 11,
+      "content": "họ nói phạm đến Thiên Chúa trên trời, vì quá đau đớn và bị ung nhọt, nhưng họ không chịu hối cải mà từ bỏ các việc mình làm.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.069Z",
+      "updatedAt": "2024-09-10T01:38:03.069Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "f05401dc-e8cd-4539-a20a-09efc440c9d0",
+      "number": 12,
+      "content": "Vị thứ sáu trút chén của mình xuống sông cả Êu-phơ-rát. Nước sông ấy liền khô cạn, để dọn đường cho các vua từ phương đông tới.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.074Z",
+      "updatedAt": "2024-09-10T01:38:03.074Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "97636723-af35-4367-b619-1df4447cb012",
+      "number": 13,
+      "content": "Bấy giờ từ miệng Con Mãng Xà, từ miệng Con Thú và từ miệng ngôn sứ giả, tôi thấy ba thần ô uế nhảy ra như những con ếch.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.088Z",
+      "updatedAt": "2024-09-10T01:38:03.088Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "8e56dd14-ad4c-4050-9cfa-72ea6b88f1ea",
+      "number": 14,
+      "content": "Chúng quả là những thần khí của ma quỷ, chúng làm những dấu lạ và đi đến với vua chúa trên khắp cả thiên hạ, nhằm tập hợp họ lại để giao chiến trong ngày lớn lao của Thiên Chúa Toàn Năng. –",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.102Z",
+      "updatedAt": "2024-09-10T01:38:03.102Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "9e69cf9a-1a79-45a2-b5cb-134e98b8b280",
+      "number": 15,
+      "content": "“Đây, Ta đến như kẻ trộm. Phúc thay kẻ canh thức và giữ áo mình, kẻo phải đi đứng trần truồng và bị người ta nhìn thấy sự loã lồ của mình !”–",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.117Z",
+      "updatedAt": "2024-09-10T01:38:03.117Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "3a231839-1074-416c-b676-15841b977ee8",
+      "number": 16,
+      "content": "Chúng quy tụ họ tại một nơi, tiếng Híp-ri gọi là Hác-mơ-ghít-đô.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.131Z",
+      "updatedAt": "2024-09-10T01:38:03.131Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "b223e38d-2c3e-4b15-9b05-dfc04d0711ad",
+      "number": 17,
+      "content": "Vị thứ bảy trút chén của mình xuống không khí. Từ Đền Thờ, từ ngai liền có tiếng lớn phát ra : “Xong cả rồi !”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.140Z",
+      "updatedAt": "2024-09-10T01:38:03.140Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "867e0670-8e88-4514-9356-b609f646aea0",
+      "number": 18,
+      "content": "Lúc ấy có ánh chớp, tiếng sấm tiếng sét và động đất lớn như chưa hề có động đất lớn như vậy bao giờ, từ khi con người xuất hiện trên mặt đất.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.154Z",
+      "updatedAt": "2024-09-10T01:38:03.154Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "c50577f1-56ea-4e2f-b3da-5ef337233086",
+      "number": 19,
+      "content": "Thành vĩ đại vỡ ra làm ba phần và các thành thị của các nước bị sụp đổ. Thiên Chúa đã nhớ đến thành Ba-by-lon vĩ đại mà cho nó uống chén rượu là cơn lôi đình thịnh nộ của Người.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.168Z",
+      "updatedAt": "2024-09-10T01:38:03.168Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "1cd6dea9-cc2d-49ee-a2bf-7c7e5f5f52de",
+      "number": 20,
+      "content": "Mọi hải đảo biến đi, núi non không còn nữa.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.182Z",
+      "updatedAt": "2024-09-10T01:38:03.182Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "dc95b175-e29a-447a-8278-88c951a2fd84",
+      "number": 21,
+      "content": "Những hạt mưa đá lớn, nặng chừng nửa tạ, từ trời giáng xuống người ta, và người ta nói phạm đến Thiên Chúa vì bị tai ương mưa đá, bởi lẽ tai ương đó lớn quá chừng.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:38:03.199Z",
+      "updatedAt": "2024-09-10T01:38:03.199Z",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "649126b2-5db5-4348-8544-bc13d56ca669",
+      "content": "Bảy tai ương này gần giống bảy tai hoạ theo bảy tiếng kèn (8,7 – 9,21 ; 11,15-19) ; đồng thời giống một số tai hoạ ở Ai-cập (x. Xh 7,14 – 11,10).",
+      "position": 93,
+      "order": 0,
+      "createdAt": "2024-09-10T01:38:02.938Z",
+      "updatedAt": "2024-09-10T01:38:02.938Z",
+      "verseId": "e733a33e-b6a1-432e-b889-73d2881eb9ab",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "aa0352ac-2784-4657-ab27-1b0df3144133",
+      "content": "Tương đương tai hoạ thứ sáu ở Ai-cập (x. Xh 9,9-10).",
+      "position": 128,
+      "order": 1,
+      "createdAt": "2024-09-10T01:38:02.952Z",
+      "updatedAt": "2024-09-10T01:38:02.952Z",
+      "verseId": "9d020964-a309-442b-89a7-ec9ac0a8b69a",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "b236cf07-e1e3-4ec4-9f33-f25f62f99a4c",
+      "content": "Giống tai hoạ thứ nhất ở Ai-cập (x. Xh 7,21).",
+      "position": 62,
+      "order": 2,
+      "createdAt": "2024-09-10T01:38:02.970Z",
+      "updatedAt": "2024-09-10T01:38:02.970Z",
+      "verseId": "de65ad6b-c0d0-4600-8e92-97b6d11a71ce",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "9d2eece0-43d4-40a4-a211-c347e6544973",
+      "content": "X. Xh 7,19-24 ; Tv 78,44 ; Mt 23,34-35.",
+      "position": 62,
+      "order": 3,
+      "createdAt": "2024-09-10T01:38:02.984Z",
+      "updatedAt": "2024-09-10T01:38:02.984Z",
+      "verseId": "6b9f72e3-1d8a-4cdf-ad22-91315877aa13",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "5aaebdae-4be5-49f3-a3aa-1a81bf259c50",
+      "content": "X. 6,9. Ám chỉ tiếng các thánh cầu nguyện ; các vị tử đạo trước đây xin Thiên Chúa minh oan và xét xử, nay được toại nguyện, nên ngợi khen Người.",
+      "position": 24,
+      "order": 4,
+      "createdAt": "2024-09-10T01:38:03.017Z",
+      "updatedAt": "2024-09-10T01:38:03.017Z",
+      "verseId": "5da18309-2f69-4a9f-abca-29a0252c3e43",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "39163904-d048-4ad2-97d3-2a5d2abf2d36",
+      "content": "X. Mc 4,6 ; Mt 13,6.",
+      "position": 90,
+      "order": 5,
+      "createdAt": "2024-09-10T01:38:03.036Z",
+      "updatedAt": "2024-09-10T01:38:03.036Z",
+      "verseId": "e8cd38ea-55c6-4a25-bcdb-e062cbf5295f",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "bda8d665-aca9-4f76-ac89-de8e15e2f30d",
+      "content": "Ám chỉ Rô-ma.",
+      "position": 48,
+      "order": 6,
+      "createdAt": "2024-09-10T01:38:03.055Z",
+      "updatedAt": "2024-09-10T01:38:03.055Z",
+      "verseId": "49816211-5ef7-438a-8432-dd05bf991b57",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "07c02d27-a5d7-4ae3-9139-cd0a55f9b67d",
+      "content": "X. Xh 10,21-23 : tai hoạ thứ chín ở Ai-cập.",
+      "position": 83,
+      "order": 7,
+      "createdAt": "2024-09-10T01:38:03.059Z",
+      "updatedAt": "2024-09-10T01:38:03.059Z",
+      "verseId": "49816211-5ef7-438a-8432-dd05bf991b57",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "86fb4bfd-08d4-4203-80d8-23845142d9ce",
+      "content": "Xoá bỏ biên giới của đế quốc Rô-ma. Rô-ma sẽ bị tàn phá. Các nước phương Đông nổi lên chống lại người Rô-ma, chẳng hạn người Pác-thy.",
+      "position": 54,
+      "order": 8,
+      "createdAt": "2024-09-10T01:38:03.079Z",
+      "updatedAt": "2024-09-10T01:38:03.079Z",
+      "verseId": "f05401dc-e8cd-4539-a20a-09efc440c9d0",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "ee85085b-96a1-40da-bdbb-d743d451bd19",
+      "content": "X. Xh 7,26 – 8,10 : tai hoạ thứ hai ở Ai-cập. Ở đây, nói đến Ki-tô giả xuất hiện vào thời cánh chung.",
+      "position": 119,
+      "order": 9,
+      "createdAt": "2024-09-10T01:38:03.093Z",
+      "updatedAt": "2024-09-10T01:38:03.093Z",
+      "verseId": "97636723-af35-4367-b619-1df4447cb012",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "393659c3-dcf9-4ce9-8bb1-07798adfeeda",
+      "content": "Đây là lời của Đức Giê-su. Câu này đặt không hợp lý, có thể để sau 3,3.",
+      "position": 4,
+      "order": 10,
+      "createdAt": "2024-09-10T01:38:03.121Z",
+      "updatedAt": "2024-09-10T01:38:03.121Z",
+      "verseId": "9e69cf9a-1a79-45a2-b5cb-134e98b8b280",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "5808f362-494f-4393-8c6e-95decdf8ae58",
+      "content": "Có lẽ là Mơ-ghít-đô. Nơi đây, xưa kia bao vua chúa tập hợp quân đội để đánh chiếm Ít-ra-en đều đã bị tiêu diệt (x. Tl 5,9 ; 2 V 9,27 ; 23,29-30 ; Dcr 12,11).",
+      "position": 63,
+      "order": 11,
+      "createdAt": "2024-09-10T01:38:03.135Z",
+      "updatedAt": "2024-09-10T01:38:03.135Z",
+      "verseId": "3a231839-1074-416c-b676-15841b977ee8",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "3f07ca3b-8e17-41c6-be35-e35d4e1c642d",
+      "content": "Tai ương cuối cùng, chấm dứt vũ trụ này (x. 10,7 ; 11,18 ; 15,1).",
+      "position": 10,
+      "order": 12,
+      "createdAt": "2024-09-10T01:38:03.145Z",
+      "updatedAt": "2024-09-10T01:38:03.145Z",
+      "verseId": "b223e38d-2c3e-4b15-9b05-dfc04d0711ad",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "eb6f6e0c-26d6-4508-a3e4-7e91be6c6f5c",
+      "content": "Thiên Chúa xoá sạch mọi quyền lực trần gian.",
+      "position": 140,
+      "order": 13,
+      "createdAt": "2024-09-10T01:38:03.159Z",
+      "updatedAt": "2024-09-10T01:38:03.159Z",
+      "verseId": "867e0670-8e88-4514-9356-b609f646aea0",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "008d1e1e-b68a-4da8-b812-c82e6caa8baa",
+      "content": "Rô-ma bị trừng phạt đích đáng.",
+      "position": 116,
+      "order": 14,
+      "createdAt": "2024-09-10T01:38:03.173Z",
+      "updatedAt": "2024-09-10T01:38:03.173Z",
+      "verseId": "c50577f1-56ea-4e2f-b3da-5ef337233086",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "12431081-9de2-4c44-8cf1-16eaa87bf972",
+      "content": "ds : <i>nén</i>.",
+      "position": 39,
+      "order": 15,
+      "createdAt": "2024-09-10T01:38:03.204Z",
+      "updatedAt": "2024-09-10T01:38:03.204Z",
+      "verseId": "dc95b175-e29a-447a-8278-88c951a2fd84",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    }
+  ],
+  "headings": [],
+  "references": [
+    {
+      "id": "638e2e08-8807-48cd-816d-1001799797eb",
+      "content": "Kh 8,6-12",
+      "position": 21,
+      "order": 0,
+      "createdAt": "2024-09-10T01:38:02.942Z",
+      "updatedAt": "2024-09-10T01:38:02.942Z",
+      "verseId": "e733a33e-b6a1-432e-b889-73d2881eb9ab",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "46d59997-2585-4162-a56c-36e01262ec61",
+      "content": "Kh 13,15-17",
+      "position": 61,
+      "order": 1,
+      "createdAt": "2024-09-10T01:38:02.956Z",
+      "updatedAt": "2024-09-10T01:38:02.956Z",
+      "verseId": "9d020964-a309-442b-89a7-ec9ac0a8b69a",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "e5db8d60-897a-4c78-a78a-7d0beb4a9356",
+      "content": "Xh 9,8-11",
+      "position": 120,
+      "order": 2,
+      "createdAt": "2024-09-10T01:38:02.961Z",
+      "updatedAt": "2024-09-10T01:38:02.961Z",
+      "verseId": "9d020964-a309-442b-89a7-ec9ac0a8b69a",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "e9e71881-64c2-4393-b243-65ea5f6d9223",
+      "content": "Xh 7,17.21",
+      "position": 42,
+      "order": 3,
+      "createdAt": "2024-09-10T01:38:02.975Z",
+      "updatedAt": "2024-09-10T01:38:02.975Z",
+      "verseId": "de65ad6b-c0d0-4600-8e92-97b6d11a71ce",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "c9264a73-652a-47bc-8fe3-d06d9ef12e0f",
+      "content": "Kh 1,20",
+      "position": 9,
+      "order": 4,
+      "createdAt": "2024-09-10T01:38:02.994Z",
+      "updatedAt": "2024-09-10T01:38:02.994Z",
+      "verseId": "426c53ce-5cae-42e3-ae34-dcc64a1a202a",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "c60faf85-61b6-41e1-a831-2c2efd1d3e82",
+      "content": "Kh 1,4; 11,17",
+      "position": 61,
+      "order": 5,
+      "createdAt": "2024-09-10T01:38:02.999Z",
+      "updatedAt": "2024-09-10T01:38:02.999Z",
+      "verseId": "426c53ce-5cae-42e3-ae34-dcc64a1a202a",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "8dbb8593-5eb1-40f8-b41d-82eacdd6f97c",
+      "content": "Kh 18,24",
+      "position": 12,
+      "order": 6,
+      "createdAt": "2024-09-10T01:38:03.008Z",
+      "updatedAt": "2024-09-10T01:38:03.008Z",
+      "verseId": "19ad1fb4-5a42-4206-afd5-5e46275fd180",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "df0693c3-3042-47be-b7aa-a17f117b8f2b",
+      "content": "Kh 6,9; 8,3-4",
+      "position": 13,
+      "order": 7,
+      "createdAt": "2024-09-10T01:38:03.022Z",
+      "updatedAt": "2024-09-10T01:38:03.022Z",
+      "verseId": "5da18309-2f69-4a9f-abca-29a0252c3e43",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "6187a6f7-6b62-424b-83ac-0694bce68c95",
+      "content": "Kh 19,2",
+      "position": 74,
+      "order": 8,
+      "createdAt": "2024-09-10T01:38:03.027Z",
+      "updatedAt": "2024-09-10T01:38:03.027Z",
+      "verseId": "5da18309-2f69-4a9f-abca-29a0252c3e43",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "4a196f72-5861-47ed-a550-b68628a93bf3",
+      "content": "Kh 9,20; Am 4,6",
+      "position": 117,
+      "order": 9,
+      "createdAt": "2024-09-10T01:38:03.045Z",
+      "updatedAt": "2024-09-10T01:38:03.045Z",
+      "verseId": "cd6152f7-7948-4cb3-b820-3ec87dd1a9a8",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "d0310961-f37d-45bb-905c-03eedcd2ae54",
+      "content": "Xh 10,21-23; Is 8,22",
+      "position": 76,
+      "order": 10,
+      "createdAt": "2024-09-10T01:38:03.064Z",
+      "updatedAt": "2024-09-10T01:38:03.064Z",
+      "verseId": "49816211-5ef7-438a-8432-dd05bf991b57",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "c3b2dea0-ace8-49e9-a70b-28ee0c19231b",
+      "content": "Kh 9,14",
+      "position": 36,
+      "order": 11,
+      "createdAt": "2024-09-10T01:38:03.083Z",
+      "updatedAt": "2024-09-10T01:38:03.083Z",
+      "verseId": "f05401dc-e8cd-4539-a20a-09efc440c9d0",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "f939b429-0371-47e1-a72c-d2d4a8e2d9fe",
+      "content": "Xh 8,2-3",
+      "position": 116,
+      "order": 12,
+      "createdAt": "2024-09-10T01:38:03.098Z",
+      "updatedAt": "2024-09-10T01:38:03.098Z",
+      "verseId": "97636723-af35-4367-b619-1df4447cb012",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "f2ea7a6f-8000-4e5d-bf97-29296cb21139",
+      "content": "Kh 17,13-14; 19,19",
+      "position": 132,
+      "order": 13,
+      "createdAt": "2024-09-10T01:38:03.107Z",
+      "updatedAt": "2024-09-10T01:38:03.107Z",
+      "verseId": "8e56dd14-ad4c-4050-9cfa-72ea6b88f1ea",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "58a088b1-8bf9-42dd-b94a-9f84e3db3bf7",
+      "content": "1 Cr 1,8",
+      "position": 149,
+      "order": 14,
+      "createdAt": "2024-09-10T01:38:03.112Z",
+      "updatedAt": "2024-09-10T01:38:03.112Z",
+      "verseId": "8e56dd14-ad4c-4050-9cfa-72ea6b88f1ea",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "ad758c09-9467-4116-8906-daddba919aeb",
+      "content": "Kh 1,3; 3,3-4.18",
+      "position": 26,
+      "order": 15,
+      "createdAt": "2024-09-10T01:38:03.126Z",
+      "updatedAt": "2024-09-10T01:38:03.126Z",
+      "verseId": "9e69cf9a-1a79-45a2-b5cb-134e98b8b280",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "41fe7a30-a7b6-405f-9c8b-9a125aef27bb",
+      "content": "Kh 4,5; 21,6; Is 66,6",
+      "position": 75,
+      "order": 16,
+      "createdAt": "2024-09-10T01:38:03.149Z",
+      "updatedAt": "2024-09-10T01:38:03.149Z",
+      "verseId": "b223e38d-2c3e-4b15-9b05-dfc04d0711ad",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "7e70968c-4dc2-4cdc-8c41-fc296af6d0eb",
+      "content": "Đn 12,1; Mc 13,19",
+      "position": 101,
+      "order": 17,
+      "createdAt": "2024-09-10T01:38:03.163Z",
+      "updatedAt": "2024-09-10T01:38:03.163Z",
+      "verseId": "867e0670-8e88-4514-9356-b609f646aea0",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "91e76e50-6422-443d-a573-ddfae2f3f8d1",
+      "content": "Kh 14,8.10",
+      "position": 127,
+      "order": 18,
+      "createdAt": "2024-09-10T01:38:03.178Z",
+      "updatedAt": "2024-09-10T01:38:03.178Z",
+      "verseId": "c50577f1-56ea-4e2f-b3da-5ef337233086",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "02c2edbd-d59d-4c27-87a5-f9479a7470f5",
+      "content": "Kh 6,14",
+      "position": 12,
+      "order": 19,
+      "createdAt": "2024-09-10T01:38:03.190Z",
+      "updatedAt": "2024-09-10T01:38:03.190Z",
+      "verseId": "1cd6dea9-cc2d-49ee-a2bf-7c7e5f5f52de",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    },
+    {
+      "id": "5c7dcc89-cac7-41b9-a7ec-7e0ed967f027",
+      "content": "Xh 9,22-26",
+      "position": 10,
+      "order": 20,
+      "createdAt": "2024-09-10T01:38:03.208Z",
+      "updatedAt": "2024-09-10T01:38:03.208Z",
+      "verseId": "dc95b175-e29a-447a-8278-88c951a2fd84",
+      "chapterId": "d82b8d45-8e35-40ac-b463-340771b50ec8"
+    }
+  ]
+}

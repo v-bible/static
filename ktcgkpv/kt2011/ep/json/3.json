@@ -1,0 +1,648 @@
+{
+  "chapter": {
+    "id": "acfaa8c6-8116-4d38-8b5f-e1425c02d431",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.360Z",
+    "updatedAt": "2024-09-10T00:39:05.360Z",
+    "bookId": "9982eb8a-77b1-44d9-81b3-4e4641d75c02"
+  },
+  "verses": [
+    {
+      "id": "101f0641-0730-47a0-b281-cbdf885d8606",
+      "number": 1,
+      "content": "Vì lý do đó, tôi, Phao-lô, người tù của Đức Ki-tô Giê-su vì anh em, những người dân ngoại...",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.384Z",
+      "updatedAt": "2024-09-10T01:23:01.384Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "82745ad8-7dfe-404c-a081-06cf4c26e95b",
+      "number": 2,
+      "content": "Hẳn anh em đã được nghe biết về kế hoạch ân sủng mà Thiên Chúa đã uỷ thác cho tôi, liên quan đến anh em.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.399Z",
+      "updatedAt": "2024-09-10T01:23:01.399Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "37cd7432-123d-4690-9a37-4a69b61b8f85",
+      "number": 3,
+      "content": "Người đã mặc khải để tôi được biết mầu nhiệm Đức Ki-tô như tôi vừa trình bày vắn tắt trên đây.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.405Z",
+      "updatedAt": "2024-09-10T01:23:01.405Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "00fe0fb9-0b1a-486b-9bb6-f063ab97554e",
+      "number": 4,
+      "content": "Anh em đọc thì có thể thấy rõ tôi am hiểu mầu nhiệm Đức Ki-tô thế nào.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.412Z",
+      "updatedAt": "2024-09-10T01:23:01.412Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "44d6e780-2bbb-4bd1-b0e7-3046bf84a0a7",
+      "number": 5,
+      "content": "Mầu nhiệm này, Thiên Chúa đã không cho những người thuộc các thế hệ trước được biết, nhưng nay Người đã dùng Thần Khí mà mặc khải cho các thánh Tông Đồ và ngôn sứ của Người.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.415Z",
+      "updatedAt": "2024-09-10T01:23:01.415Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "fa506fff-e259-4ea7-99f8-a2699381453e",
+      "number": 6,
+      "content": "Mầu nhiệm đó là : trong Đức Ki-tô Giê-su và nhờ Tin Mừng, các dân ngoại được cùng thừa kế gia nghiệp với người Do-thái, cùng làm thành một thân thể và cùng chia sẻ điều Thiên Chúa hứa.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.425Z",
+      "updatedAt": "2024-09-10T01:23:01.425Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "48de62f5-6a8c-4f9f-96fc-1b244fb96923",
+      "number": 7,
+      "content": "Tôi đã trở nên người phục vụ Tin Mừng đó, nhờ ân sủng đặc biệt Thiên Chúa ban cho tôi, khi Người thi thố quyền năng của Người.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.446Z",
+      "updatedAt": "2024-09-10T01:23:01.446Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "8d965a68-e3bd-4036-8a5e-7f4b689b7053",
+      "number": 8,
+      "content": "Tôi là kẻ rốt hết trong toàn thể dân thánh, thế mà Thiên Chúa đã ban cho tôi ân sủng này là loan báo cho các dân ngoại Tin Mừng về sự phong phú khôn lường của Đức Ki-tô,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.462Z",
+      "updatedAt": "2024-09-10T01:23:01.462Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "5b109241-f1ab-4118-b1cd-5f65081105b3",
+      "number": 9,
+      "content": "và soi sáng cho mọi người được thấy đâu là mầu nhiệm Thiên Chúa đã an bài. Mầu nhiệm này đã được giữ kín từ muôn thuở nơi Thiên Chúa là Đấng tạo thành vạn vật,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.480Z",
+      "updatedAt": "2024-09-10T01:23:01.480Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "128c9db6-d02d-404f-a7d0-a976f790e7ce",
+      "number": 10,
+      "content": "để giờ đây, nhờ Hội Thánh, mọi quyền năng thượng giới được biết sự khôn ngoan thiên hình vạn trạng của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.490Z",
+      "updatedAt": "2024-09-10T01:23:01.490Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "f15c1215-50ca-4ff7-8533-d32239598c3b",
+      "number": 11,
+      "content": "Thiên Chúa đã hành động như thế theo quyết định Người đã có từ muôn thuở và đã thực hiện nơi Đức Ki-tô Giê-su, Chúa chúng ta.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.496Z",
+      "updatedAt": "2024-09-10T01:23:01.496Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "402f6c28-70c9-4795-a164-f1620b6698b1",
+      "number": 12,
+      "content": "Trong Đức Ki-tô và nhờ tin vào Người, chúng ta được mạnh dạn và tin tưởng đến gần Thiên Chúa.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 11,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.502Z",
+      "updatedAt": "2024-09-10T01:23:01.502Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "247d59a8-34d1-4a4a-99e9-28c8dbbb41e6",
+      "number": 13,
+      "content": "Bởi vậy, tôi xin anh em đừng nản chí khi thấy tôi phải gian truân vì anh em : những gian truân ấy là vinh quang của anh em.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 12,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.512Z",
+      "updatedAt": "2024-09-10T01:23:01.512Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "1821f85a-3c50-4e3c-a579-153b3a632fe5",
+      "number": 14,
+      "content": "Vì lý do đó, tôi quỳ gối trước mặt Chúa Cha,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.519Z",
+      "updatedAt": "2024-09-10T01:23:01.519Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "fde8072f-c456-4874-98b9-e39aa2a8ef4e",
+      "number": 15,
+      "content": "là nguồn gốc mọi gia tộc trên trời dưới đất.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.529Z",
+      "updatedAt": "2024-09-10T01:23:01.529Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "b1c6ba3b-0f30-4e29-8701-36d5fcd4d339",
+      "number": 16,
+      "content": "Tôi nguyện xin Chúa Cha, thể theo sự phong phú của Người là Đấng vinh hiển, ban cho anh em được củng cố mạnh mẽ nhờ Thần Khí của Người, để con người nội tâm nơi anh em được vững vàng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.533Z",
+      "updatedAt": "2024-09-10T01:23:01.533Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "ce1ffb18-278a-4185-8b9a-42e44886c348",
+      "number": 17,
+      "content": "Xin cho anh em, nhờ lòng tin, được Đức Ki-tô ngự trong tâm hồn ; xin cho anh em được bén rễ sâu và xây dựng vững chắc trên đức ái,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.545Z",
+      "updatedAt": "2024-09-10T01:23:01.545Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "3f395ce9-619e-49a9-8df6-831d95c503e6",
+      "number": 18,
+      "content": "để cùng toàn thể dân thánh, anh em đủ sức thấu hiểu mọi kích thước dài rộng cao sâu,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.553Z",
+      "updatedAt": "2024-09-10T01:23:01.553Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "0836fa7a-0158-494c-be5d-645987cf862e",
+      "number": 19,
+      "content": "và nhận biết tình thương của Đức Ki-tô, là tình thương vượt quá sự hiểu biết. Như vậy anh em sẽ được đầy tràn tất cả sự viên mãn của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.557Z",
+      "updatedAt": "2024-09-10T01:23:01.557Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "ea97797b-6738-4386-a7a0-2015fdcb345c",
+      "number": 20,
+      "content": "Xin tôn vinh Đấng có thể dùng quyền năng đang hoạt động nơi chúng ta, mà làm gấp ngàn lần điều chúng ta dám cầu xin hay nghĩ tới,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.568Z",
+      "updatedAt": "2024-09-10T01:23:01.568Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "80a1273c-eeb1-484d-a7a2-13f1f048dca5",
+      "number": 21,
+      "content": "xin tôn vinh Người trong Hội Thánh và nơi Đức Ki-tô Giê-su đến muôn thuở muôn đời. A-men.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:23:01.572Z",
+      "updatedAt": "2024-09-10T01:23:01.572Z",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "94f4d548-3681-4f6c-8c48-cb66b4358752",
+      "content": "Dân ngoại và dân Do-thái đang sống chung huynh đệ trong một cộng đoàn, làm thành một thân thể, cùng nhau loan báo Tin Mừng. Điều đó ngày nay là sự kiện, nhưng trước đây không một ai, kể cả các thiên thần biết được ý định kêu gọi và hoà giải của Thiên Chúa. Đó là mầu nhiệm Thiên Chúa mặc khải nơi Đức Giê-su Ki-tô : tất cả mọi người có thể lại gần và thờ phượng Thiên Chúa. Thánh Phao-lô được Thiên Chúa gọi để công bố mầu nhiệm đó.",
+      "position": 50,
+      "order": 0,
+      "createdAt": "2024-09-10T01:23:01.393Z",
+      "updatedAt": "2024-09-10T01:23:01.393Z",
+      "headingId": "8b77ba3b-1770-4f34-885a-1ef25eb6dd40",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "29185b65-0e0f-4658-98ab-e125b1bcd040",
+      "content": "Cũng có thể coi cc. 2-13 là ở trong ngoặc ; như vậy ý tưởng bắt đầu ở c. 1 được tiếp nối ở c. 14 : <i>Vì lý do đó...</i> (cc. 1.14). – <i>Kế hoạch ân sủng</i> : sứ mạng làm Tông Đồ cho dân ngoại (Cv 9,5 ; Rm 1,5 ; Cl 1,27).",
+      "position": 103,
+      "order": 1,
+      "createdAt": "2024-09-10T01:23:01.401Z",
+      "updatedAt": "2024-09-10T01:23:01.401Z",
+      "verseId": "82745ad8-7dfe-404c-a081-06cf4c26e95b",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "c445545a-4980-4a93-bc81-2da095f75557",
+      "content": "ds : <i>theo một mặc khải, Người đã tỏ cho tôi biết mầu nhiệm</i>. Mầu nhiệm : đề tài căn bản của thư Ê-phê-xô và thư Cô-lô-xê. Đó là kế hoạch của Thiên Chúa, đã có từ trước muôn đời, loài người trước đây không được biết, nhưng nay Thiên Chúa đã mặc khải ra (Ep 1,9-10 ; 3,3-10 ; Cl 1,26-27). Mầu nhiệm này được thực hiện nơi Đức Giê-su Ki-tô và được công bố trong Hội Thánh nhờ các Tông Đồ, nhất là thánh Phao-lô ; đó là dân ngoại được đón nhận ơn cứu độ ; dân Do-thái và dân ngoại được giải hoà với nhau, làm thành một thân thể.",
+      "position": 54,
+      "order": 2,
+      "createdAt": "2024-09-10T01:23:01.407Z",
+      "updatedAt": "2024-09-10T01:23:01.407Z",
+      "verseId": "37cd7432-123d-4690-9a37-4a69b61b8f85",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "1ad2f5c0-f75f-49f0-9753-ae2333074797",
+      "content": "X. Ep 2,20+.",
+      "position": 162,
+      "order": 3,
+      "createdAt": "2024-09-10T01:23:01.420Z",
+      "updatedAt": "2024-09-10T01:23:01.420Z",
+      "verseId": "44d6e780-2bbb-4bd1-b0e7-3046bf84a0a7",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "8d442cea-2c74-4ee5-8d3e-bd6e1ed0a161",
+      "content": "ds : <i>Đó là các dân ngoại được đồng thừa kế, đồng một thân thể và đồng chia sẻ lời hứa, trong Đức Ki-tô Giê-su nhờ Tin Mừng</i>.",
+      "position": 118,
+      "order": 4,
+      "createdAt": "2024-09-10T01:23:01.431Z",
+      "updatedAt": "2024-09-10T01:23:01.431Z",
+      "verseId": "fa506fff-e259-4ea7-99f8-a2699381453e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "14d31958-8757-4e5c-8df5-938640906a9b",
+      "content": "ds : <i>sự ban tặng ân sủng</i>.",
+      "position": 62,
+      "order": 5,
+      "createdAt": "2024-09-10T01:23:01.452Z",
+      "updatedAt": "2024-09-10T01:23:01.452Z",
+      "verseId": "48de62f5-6a8c-4f9f-96fc-1b244fb96923",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "0fd02f97-6236-4388-ba1f-37b4be79d79c",
+      "content": "Tức là rốt hết trong số các tín hữu (x. 1,1.15.18 ; 2,19 ; 3,18 ; 4,12 ; 5,3 ; 6,18). Ở 1 Cr 15,9 thánh Phao-lô xưng mình là kẻ rốt hết trong các Tông Đồ.",
+      "position": 42,
+      "order": 6,
+      "createdAt": "2024-09-10T01:23:01.467Z",
+      "updatedAt": "2024-09-10T01:23:01.467Z",
+      "verseId": "8d965a68-e3bd-4036-8a5e-7f4b689b7053",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "512a80f7-2a45-4cda-acff-709774143149",
+      "content": "ds : <i>đâu là sự an bài của mầu nhiệm đã được giữ kín ...</i>, tức là chương trình cứu độ của Thiên Chúa. <i>Đấng tạo thành vạn vật</i> : móc nối kế hoạch cứu độ với chương trình sáng tạo. Thiên Chúa đã sáng tạo vạn vật, yêu thương vạn vật và muốn cứu thoát vạn vật.",
+      "position": 158,
+      "order": 7,
+      "createdAt": "2024-09-10T01:23:01.483Z",
+      "updatedAt": "2024-09-10T01:23:01.483Z",
+      "verseId": "5b109241-f1ab-4118-b1cd-5f65081105b3",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "3368bef6-cf2e-4af5-9400-577330fd53fa",
+      "content": "ds : <i>các quản thần và các quyền thần</i> : có lẽ là những vị mà các tín hữu ở Ê-phê-xô và Cô-lô-xê (1,16) cho rằng đã góp phần sáng tạo và nay đang gìn giữ thế giới. Các vị đó cũng không biết được mầu nhiệm của Thiên Chúa, nhưng phải nhờ Hội Thánh là nơi quy tụ tất cả những người được cứu độ, họ mới có thể biết được.",
+      "position": 113,
+      "order": 8,
+      "createdAt": "2024-09-10T01:23:01.493Z",
+      "updatedAt": "2024-09-10T01:23:01.493Z",
+      "verseId": "128c9db6-d02d-404f-a7d0-a976f790e7ce",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "2dac55be-3a1c-4e32-842f-42631041d4fc",
+      "content": "<i>Thiên Chúa đã hành động như thế</i> : không có trong nguyên bản. Thêm vào để dễ đọc, dễ hiểu.",
+      "position": 31,
+      "order": 9,
+      "createdAt": "2024-09-10T01:23:01.499Z",
+      "updatedAt": "2024-09-10T01:23:01.499Z",
+      "verseId": "f15c1215-50ca-4ff7-8533-d32239598c3b",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "62347133-7ff7-48ef-a2c6-4410a2f7aeae",
+      "content": "ds : <i>Trong Người (Đức Ki-tô), chúng ta được mạnh dạn và tin tưởng đến gần nhờ tin vào Người</i>.",
+      "position": 92,
+      "order": 10,
+      "createdAt": "2024-09-10T01:23:01.505Z",
+      "updatedAt": "2024-09-10T01:23:01.505Z",
+      "verseId": "402f6c28-70c9-4795-a164-f1620b6698b1",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "ef6f501a-48dd-4c90-90d1-883d77283e45",
+      "content": "Thánh Phao-lô cầu xin cho con người nội tâm của các tín hữu được tăng trưởng, cho anh em được Đức Ki-tô ngự trong tâm hồn và được hiểu biết sâu xa mầu nhiệm cứu độ, mầu nhiệm tình thương của Thiên Chúa biểu lộ trong Đức Ki-tô.",
+      "position": 29,
+      "order": 11,
+      "createdAt": "2024-09-10T01:23:01.526Z",
+      "updatedAt": "2024-09-10T01:23:01.526Z",
+      "headingId": "52f331f0-4983-49c4-a8f2-42383a675ad2",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "60d9c413-37cf-4eb8-8732-ac8302eec827",
+      "content": "ds : <i>... thể theo sự phong phú của vinh quang Người</i>.",
+      "position": 74,
+      "order": 12,
+      "createdAt": "2024-09-10T01:23:01.536Z",
+      "updatedAt": "2024-09-10T01:23:01.536Z",
+      "verseId": "b1c6ba3b-0f30-4e29-8701-36d5fcd4d339",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "ea50c839-f3cf-4321-8ca6-2695dcaa9955",
+      "content": "<i>Con người nội tâm</i> (Rm 7,22 ; 2 Cr 4,16) : <i>con người mới</i> đã được tái tạo nhờ bí tích thánh tẩy và không ngừng tăng triển một cách thiêng liêng và ẩn giấu (Cl 3,3) nhờ ân sủng và nhờ có Thần Khí ngự trị. Trái lại, <i>con người bên ngoài, con người cũ</i> (x. Rm 7,22 ; 2 Cr 4,16) là con người xác thịt, con người đã bị tội lỗi làm hư hỏng.",
+      "position": 182,
+      "order": 13,
+      "createdAt": "2024-09-10T01:23:01.539Z",
+      "updatedAt": "2024-09-10T01:23:01.539Z",
+      "verseId": "b1c6ba3b-0f30-4e29-8701-36d5fcd4d339",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "d53ceb71-342a-401b-a815-f91ab98a2258",
+      "content": "Cũng có thể coi đời sống đặt căn bản trên đức ái là cách cụ thể hoá việc con người nội tâm được vững vàng và được Đức Ki-tô ngự trị.",
+      "position": 129,
+      "order": 14,
+      "createdAt": "2024-09-10T01:23:01.548Z",
+      "updatedAt": "2024-09-10T01:23:01.548Z",
+      "verseId": "ce1ffb18-278a-4185-8b9a-42e44886c348",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "8910a1a1-21d9-4567-9315-b8aa03f9c5c4",
+      "content": "ds : <i>rộng, dài, cao, sâu</i> (x. G 11,5-8) : kiểu liệt kê bốn chiều theo triết học thời đó, để chỉ mức độ phổ quát của lòng mến của Đức Ki-tô. Mầu nhiệm cứu độ, kích thước tình thương của Đức Ki-tô không có giới hạn.",
+      "position": 83,
+      "order": 15,
+      "createdAt": "2024-09-10T01:23:01.555Z",
+      "updatedAt": "2024-09-10T01:23:01.555Z",
+      "verseId": "3f395ce9-619e-49a9-8df6-831d95c503e6",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "a76cd705-c792-4363-a5d0-0762ab06358c",
+      "content": "<i>Tình thương của Đức Ki-tô</i> là tình thương Người đã tỏ ra qua việc Người nộp mình chịu chết (x. Gl 2,20), và cũng là tình thương của Chúa Cha (x. 2,4-7 ; 2 Cr 5,14.18-19 ; Rm 8,35.37-39).",
+      "position": 76,
+      "order": 16,
+      "createdAt": "2024-09-10T01:23:01.560Z",
+      "updatedAt": "2024-09-10T01:23:01.560Z",
+      "verseId": "0836fa7a-0158-494c-be5d-645987cf862e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "84687f30-6dd7-426c-8090-2bb18e702f28",
+      "content": "Đức Ki-tô là sự viên mãn của Thiên Chúa (x. Cl 1,19 ; 2,9) ; Hội Thánh là sự viên mãn của Đức Ki-tô (Ep 1,23). Nơi Hội Thánh, ta có thể biết được sự khôn ngoan vô biên và thiên hình vạn trạng của Thiên Chúa (x. 2,10). Thánh Phao-lô cầu xin cho các tín hữu ngày càng được tràn đầy vinh quang của Đức Ki-tô cho tới khi đạt được vinh quang vĩ đại của Thiên Chúa (x. Ep 4,12-13).",
+      "position": 143,
+      "order": 17,
+      "createdAt": "2024-09-10T01:23:01.562Z",
+      "updatedAt": "2024-09-10T01:23:01.562Z",
+      "verseId": "0836fa7a-0158-494c-be5d-645987cf862e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "3c440b2e-9a26-402f-9cf2-4ccc300bee5c",
+      "content": "Lời tán tụng long trọng dâng lên Thiên Chúa, ca ngợi công trình vĩ đại Người đã thực hiện nơi Đức Ki-tô và Hội Thánh. Đầu và thân thể từ nay trở thành đền thờ, nơi vinh quang Thiên Chúa ngự trị.",
+      "position": 88,
+      "order": 18,
+      "createdAt": "2024-09-10T01:23:01.575Z",
+      "updatedAt": "2024-09-10T01:23:01.575Z",
+      "verseId": "80a1273c-eeb1-484d-a7a2-13f1f048dca5",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8b77ba3b-1770-4f34-885a-1ef25eb6dd40",
+      "content": "Thánh Phao-lô là người phục vụ mầu nhiệm Đức Ki-tô",
+      "order": 0,
+      "createdAt": "2024-09-10T01:23:01.390Z",
+      "updatedAt": "2024-09-10T01:23:01.390Z",
+      "verseId": "101f0641-0730-47a0-b281-cbdf885d8606",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "52f331f0-4983-49c4-a8f2-42383a675ad2",
+      "content": "Lời cầu xin của thánh Phao-lô",
+      "order": 0,
+      "createdAt": "2024-09-10T01:23:01.522Z",
+      "updatedAt": "2024-09-10T01:23:01.522Z",
+      "verseId": "1821f85a-3c50-4e3c-a579-153b3a632fe5",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    }
+  ],
+  "references": [
+    {
+      "id": "36ac8d58-ba62-407c-9a87-f524974ca1e7",
+      "content": "Cl 1,24-29; 4,18",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T01:23:01.395Z",
+      "updatedAt": "2024-09-10T01:23:01.395Z",
+      "headingId": "8b77ba3b-1770-4f34-885a-1ef25eb6dd40",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "7fa512d1-9e8e-49ef-978e-12664382f8a9",
+      "content": "2 Tm 2,9; Plm 1.9",
+      "position": 27,
+      "order": 1,
+      "createdAt": "2024-09-10T01:23:01.397Z",
+      "updatedAt": "2024-09-10T01:23:01.397Z",
+      "verseId": "101f0641-0730-47a0-b281-cbdf885d8606",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "ffb10209-102e-4e73-84b4-c61051ebc1b9",
+      "content": "Cl 1,25",
+      "position": 32,
+      "order": 2,
+      "createdAt": "2024-09-10T01:23:01.403Z",
+      "updatedAt": "2024-09-10T01:23:01.403Z",
+      "verseId": "82745ad8-7dfe-404c-a081-06cf4c26e95b",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "4c4feec8-fab4-4dd0-888d-619a97352aae",
+      "content": "Ep 1,9-10; Cl 1,26",
+      "position": 30,
+      "order": 3,
+      "createdAt": "2024-09-10T01:23:01.409Z",
+      "updatedAt": "2024-09-10T01:23:01.409Z",
+      "verseId": "37cd7432-123d-4690-9a37-4a69b61b8f85",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "9bc05708-e6c4-4534-80dc-6e34eb7e5367",
+      "content": "Cl 1,26",
+      "position": 0,
+      "order": 4,
+      "createdAt": "2024-09-10T01:23:01.436Z",
+      "updatedAt": "2024-09-10T01:23:01.436Z",
+      "verseId": "fa506fff-e259-4ea7-99f8-a2699381453e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "838f5436-7e48-4ab3-8504-61c8ba253041",
+      "content": "Ep 2,13.18-19",
+      "position": 18,
+      "order": 5,
+      "createdAt": "2024-09-10T01:23:01.441Z",
+      "updatedAt": "2024-09-10T01:23:01.441Z",
+      "verseId": "fa506fff-e259-4ea7-99f8-a2699381453e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "2131f12c-7284-461a-856c-16430ffa8081",
+      "content": "Cl 1,23-25",
+      "position": 0,
+      "order": 6,
+      "createdAt": "2024-09-10T01:23:01.457Z",
+      "updatedAt": "2024-09-10T01:23:01.457Z",
+      "verseId": "48de62f5-6a8c-4f9f-96fc-1b244fb96923",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "d694ba24-025b-42cc-8de4-d6401c2e8168",
+      "content": "1 Cr 15,8.10",
+      "position": 7,
+      "order": 7,
+      "createdAt": "2024-09-10T01:23:01.472Z",
+      "updatedAt": "2024-09-10T01:23:01.472Z",
+      "verseId": "8d965a68-e3bd-4036-8a5e-7f4b689b7053",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "071dbe6f-9811-448e-bb1d-57f9334cc564",
+      "content": "Gl 1,16; 2,7-9",
+      "position": 92,
+      "order": 8,
+      "createdAt": "2024-09-10T01:23:01.476Z",
+      "updatedAt": "2024-09-10T01:23:01.476Z",
+      "verseId": "8d965a68-e3bd-4036-8a5e-7f4b689b7053",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "93df05b1-8282-42fc-99b2-aebe6b1b4dd2",
+      "content": "Rm 16,25; Cl 1,26-27",
+      "position": 43,
+      "order": 9,
+      "createdAt": "2024-09-10T01:23:01.486Z",
+      "updatedAt": "2024-09-10T01:23:01.486Z",
+      "verseId": "5b109241-f1ab-4118-b1cd-5f65081105b3",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "9e29b38a-807f-4823-b349-4976bb687c66",
+      "content": "Rm 5,1-2",
+      "position": 19,
+      "order": 10,
+      "createdAt": "2024-09-10T01:23:01.509Z",
+      "updatedAt": "2024-09-10T01:23:01.509Z",
+      "verseId": "402f6c28-70c9-4795-a164-f1620b6698b1",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "f0cb7a06-7e5f-4f41-b867-acd431e05886",
+      "content": "Cl 1,22.24; 2 Tm 2,10",
+      "position": 55,
+      "order": 11,
+      "createdAt": "2024-09-10T01:23:01.515Z",
+      "updatedAt": "2024-09-10T01:23:01.515Z",
+      "verseId": "247d59a8-34d1-4a4a-99e9-28c8dbbb41e6",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "47d710f7-f0d3-4878-9712-9260aa17b815",
+      "content": "Ep 6,10; Rm 7,22; 2 Cr 4,16; Cl 1,11",
+      "position": 96,
+      "order": 12,
+      "createdAt": "2024-09-10T01:23:01.542Z",
+      "updatedAt": "2024-09-10T01:23:01.542Z",
+      "verseId": "b1c6ba3b-0f30-4e29-8701-36d5fcd4d339",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "699c067b-c43a-43e9-aa28-2857c3546f62",
+      "content": "Cl 1,23; 2,7",
+      "position": 35,
+      "order": 13,
+      "createdAt": "2024-09-10T01:23:01.551Z",
+      "updatedAt": "2024-09-10T01:23:01.551Z",
+      "verseId": "ce1ffb18-278a-4185-8b9a-42e44886c348",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "91a15e40-a4c0-44ab-a0bf-d4b3b0a530c9",
+      "content": "Cl 2,2",
+      "position": 3,
+      "order": 14,
+      "createdAt": "2024-09-10T01:23:01.564Z",
+      "updatedAt": "2024-09-10T01:23:01.564Z",
+      "verseId": "0836fa7a-0158-494c-be5d-645987cf862e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "9a451b4c-bd5c-41db-93a5-1f3a9f12f7bf",
+      "content": "Cl 2,3.9",
+      "position": 120,
+      "order": 15,
+      "createdAt": "2024-09-10T01:23:01.566Z",
+      "updatedAt": "2024-09-10T01:23:01.566Z",
+      "verseId": "0836fa7a-0158-494c-be5d-645987cf862e",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    },
+    {
+      "id": "c34909bc-d21e-4c3b-8421-dace17671fe7",
+      "content": "Rm 16,25-27; Cl 1,29",
+      "position": 4,
+      "order": 16,
+      "createdAt": "2024-09-10T01:23:01.570Z",
+      "updatedAt": "2024-09-10T01:23:01.570Z",
+      "verseId": "ea97797b-6738-4386-a7a0-2015fdcb345c",
+      "chapterId": "acfaa8c6-8116-4d38-8b5f-e1425c02d431"
+    }
+  ]
+}

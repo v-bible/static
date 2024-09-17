@@ -1,0 +1,781 @@
+{
+  "chapter": {
+    "id": "4b943a6c-13e4-4776-b75b-9eec7beaa05e",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.376Z",
+    "updatedAt": "2024-09-10T00:39:05.376Z",
+    "bookId": "bc22836f-9444-4a21-a708-9e75175b7263"
+  },
+  "verses": [
+    {
+      "id": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "number": 1,
+      "content": "Tôi là Phao-lô, Tông Đồ không phải do loài người, cũng không phải nhờ một người nào, nhưng bởi Đức Giê-su Ki-tô và Thiên Chúa là Cha, Đấng đã cho Người từ cõi chết trỗi dậy,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.216Z",
+      "updatedAt": "2024-09-10T01:50:53.216Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "e9b749f9-6206-446c-98f8-ad2a21210a48",
+      "number": 2,
+      "content": "tôi và mọi anh em đang ở với tôi, kính gửi các Hội Thánh miền Ga-lát.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.256Z",
+      "updatedAt": "2024-09-10T01:50:53.256Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "9b8e35c4-da81-4c44-9349-981287c9dd9b",
+      "number": 3,
+      "content": "Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giê-su Ki-tô ban cho anh em ân sủng và bình an.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.266Z",
+      "updatedAt": "2024-09-10T01:50:53.266Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "aa204a4d-41d8-4ad9-9196-c7bf8f1188ef",
+      "number": 4,
+      "content": "Để cứu chúng ta thoát khỏi cõi đời xấu xa hiện tại, Đức Giê-su Ki-tô đã tự hiến vì tội lỗi chúng ta, theo ý muốn của Thiên Chúa là Cha chúng ta.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.276Z",
+      "updatedAt": "2024-09-10T01:50:53.276Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "c6c99bb2-adf6-4227-a0cb-497150847914",
+      "number": 5,
+      "content": "Xin tôn vinh Thiên Chúa đến muôn thuở muôn đời. A-men.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.302Z",
+      "updatedAt": "2024-09-10T01:50:53.302Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "9e94957e-a1eb-49b4-bca5-bd4bfb28af0a",
+      "number": 6,
+      "content": "Tôi lấy làm ngạc nhiên, khi thấy anh em trở mặt mau lẹ như thế với Đấng đã kêu gọi anh em nhờ ân sủng của Đức Ki-tô, để theo một Tin Mừng khác.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.318Z",
+      "updatedAt": "2024-09-10T01:50:53.318Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "ac0de9c6-0146-4dd8-acf2-72bbfbe78a3c",
+      "number": 7,
+      "content": "Không có Tin Mừng nào khác đâu, mà chỉ có một vài kẻ phá rối anh em, và muốn làm xáo trộn Tin Mừng của Đức Ki-tô đó thôi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.348Z",
+      "updatedAt": "2024-09-10T01:50:53.348Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "c486640c-c652-469f-9482-7e97494a1a7c",
+      "number": 8,
+      "content": "Nhưng nếu có ai, kể cả chúng tôi, hoặc một thiên thần nào từ trời xuống, loan báo cho anh em Tin Mừng khác với Tin Mừng chúng tôi đã loan báo cho anh em, thì xin Thiên Chúa loại trừ kẻ ấy đi !",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.353Z",
+      "updatedAt": "2024-09-10T01:50:53.353Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "a6f876f9-a876-412b-bc6c-288bbec52410",
+      "number": 9,
+      "content": "Như tôi đã nói, và nay tôi xin nói lại : nếu có ai loan báo cho anh em một Tin Mừng khác với Tin Mừng anh em đã lãnh nhận, thì xin Thiên Chúa loại trừ kẻ ấy đi !",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.373Z",
+      "updatedAt": "2024-09-10T01:50:53.373Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "338bbea7-4179-4bcc-a56d-8221f07dbc46",
+      "number": 10,
+      "content": "Vậy, giờ đây tôi tìm cách lấy lòng người đời, hay lấy lòng Thiên Chúa ? Phải chăng tôi tìm cách làm đẹp lòng người đời ? Nếu tôi còn muốn làm đẹp lòng người đời, thì tôi không phải là tôi tớ của Đức Ki-tô.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.383Z",
+      "updatedAt": "2024-09-10T01:50:53.383Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "de6fbc5f-ba3d-4152-882b-56f097d15c9c",
+      "number": 11,
+      "content": "Thật vậy, thưa anh em, tôi xin nói cho anh em biết : Tin Mừng tôi loan báo không phải là do loài người.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.398Z",
+      "updatedAt": "2024-09-10T01:50:53.398Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "9410992f-17e3-4996-b966-fe1bae9e15d0",
+      "number": 12,
+      "content": "Vì không có ai trong loài người đã truyền lại hay dạy cho tôi Tin Mừng ấy, nhưng là chính Đức Giê-su Ki-tô đã mặc khải.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.425Z",
+      "updatedAt": "2024-09-10T01:50:53.425Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "3ef68d01-2e02-4b8d-9458-6b4cedb5d110",
+      "number": 13,
+      "content": "Anh em hẳn đã nghe nói tôi đã ăn ở thế nào trước kia trong đạo Do-thái : tôi đã quá hăng say bắt bớ, và những muốn tiêu diệt Hội Thánh của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.440Z",
+      "updatedAt": "2024-09-10T01:50:53.440Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "b3874715-1fef-4fbc-8833-cc83fa6f644a",
+      "number": 14,
+      "content": "Trong việc giữ đạo Do-thái, tôi đã vượt xa nhiều đồng bào cùng lứa tuổi với tôi : hơn ai hết, tôi đã tỏ ra nhiệt thành với các truyền thống của cha ông.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.461Z",
+      "updatedAt": "2024-09-10T01:50:53.461Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "347d187e-1b72-4e27-b76f-9343141ca033",
+      "number": 15,
+      "content": "Nhưng Thiên Chúa đã dành riêng tôi ngay từ khi tôi còn trong lòng mẹ, và đã gọi tôi nhờ ân sủng của Người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.472Z",
+      "updatedAt": "2024-09-10T01:50:53.472Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "2aee7301-cbe3-4758-a2fe-5d3691758658",
+      "number": 16,
+      "content": "Người đã đoái thương mặc khải Con của Người cho tôi, để tôi loan báo Tin Mừng về Con của Người cho các dân ngoại. Tôi đã chẳng thuận theo các lý do tự nhiên,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.482Z",
+      "updatedAt": "2024-09-10T01:50:53.482Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "8bcae82a-bcc2-4dec-a85b-30b8542f4d3c",
+      "number": 17,
+      "content": "cũng chẳng lên Giê-ru-sa-lem để gặp các vị đã là Tông Đồ trước tôi, nhưng tức khắc tôi đã sang xứ Ả-rập, rồi lại trở về Đa-mát.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.495Z",
+      "updatedAt": "2024-09-10T01:50:53.495Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "a8d188f5-c7be-4e6b-84d2-79f2aa295891",
+      "number": 18,
+      "content": "Ba năm sau tôi mới lên Giê-ru-sa-lem diện kiến ông Kê-pha, và ở lại với ông mười lăm ngày.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.499Z",
+      "updatedAt": "2024-09-10T01:50:53.499Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "cbf4cd6f-b900-476a-b337-c96e13723a74",
+      "number": 19,
+      "content": "Tôi đã không gặp một vị Tông Đồ nào khác ngoài ông Gia-cô-bê, người anh em của Chúa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.503Z",
+      "updatedAt": "2024-09-10T01:50:53.503Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "9fabed37-a324-42ce-aa2e-15cf59e7429c",
+      "number": 20,
+      "content": "Viết cho anh em những điều này, tôi cam đoan trước mặt Thiên Chúa là tôi không nói dối.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.507Z",
+      "updatedAt": "2024-09-10T01:50:53.507Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "35db89f3-c69a-4452-9f95-a29a3d3d74ba",
+      "number": 21,
+      "content": "Sau đó tôi đến miền Xy-ri và miền Ki-li-ki-a.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.509Z",
+      "updatedAt": "2024-09-10T01:50:53.509Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "0317430e-eba3-43d2-bcfe-fecbbc5f971c",
+      "number": 22,
+      "content": "Nhưng lúc ấy các Hội Thánh Đức Ki-tô tại miền Giu-đê không biết mặt tôi.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.513Z",
+      "updatedAt": "2024-09-10T01:50:53.513Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "7cb04a08-11af-4464-a002-65c90e8bde50",
+      "number": 23,
+      "content": "Họ chỉ nghe nói rằng : “Người trước đây bắt bớ chúng ta, bây giờ lại loan báo đức tin mà xưa kia ông những muốn tiêu diệt”,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.516Z",
+      "updatedAt": "2024-09-10T01:50:53.516Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "48f36a93-8481-41f9-8d74-3273538c4d30",
+      "number": 24,
+      "content": "và vì tôi, họ tôn vinh Thiên Chúa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:50:53.522Z",
+      "updatedAt": "2024-09-10T01:50:53.522Z",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "d5b15d67-bda3-4e00-bc78-0370af955657",
+      "content": "ds : <i>Thịt và máu</i> tức là con người, đối lập với Thiên Chúa. Thánh Phao-lô ý thức ơn gọi làm tông đồ của mình, đó là một ân huệ lớn lao Thiên Chúa dành cho người. Nên người lo chu toàn bổn phận làm tông đồ (1 Cr 4,1-4) ; loan báo Tin Mừng (1 Cr 9,16).",
+      "position": 10,
+      "order": 0,
+      "createdAt": "2024-09-10T01:50:53.230Z",
+      "updatedAt": "2024-09-10T01:50:53.230Z",
+      "headingId": "75e03a79-abf9-4a23-a19e-182c4c66a431",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "59f28b37-b47a-42fa-9171-8b48b00b20f7",
+      "content": "Theo 4,25 đó là núi Xi-nai, vào sa mạc để giảng Tin Mừng, hay là gặp gỡ Thiên Chúa và Đức Giê-su để lãnh nhận Tin Mừng ?",
+      "position": 23,
+      "order": 1,
+      "createdAt": "2024-09-10T01:50:53.232Z",
+      "updatedAt": "2024-09-10T01:50:53.232Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "c89345c9-cf02-47bb-9fbf-d9e770c0d484",
+      "content": "Thánh Phê-rô, gọi theo tên Hy-lạp. Cuộc hội ngộ này ngắn ngủi, nhưng đầy ý nghĩa : đề cao vai trò lãnh đạo của thánh Phê-rô trong Hội Thánh, trao đổi phương pháp truyền giáo cho dân ngoại.",
+      "position": 172,
+      "order": 2,
+      "createdAt": "2024-09-10T01:50:53.235Z",
+      "updatedAt": "2024-09-10T01:50:53.235Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "df1df95a-e5ce-4fdc-9587-3ef3c362b684",
+      "content": "Thánh Gia-cô-bê có ảnh hưởng sâu rộng nơi các tín hữu gốc Do-thái giáo, đứng đầu Hội Thánh tại Giê-ru-sa-lem (x. Mt 13,55 ; Mc 6,3 ; 1 Cr 15,7 ; Cv 12,17 ; 15,13 ; 21,18). Có lẽ ông kế vị tông đồ Gia-cô-bê bị vua Hê-rô-đê Ác-ríp-pa I giết bằng gươm khoảng năm 44.",
+      "position": 32,
+      "order": 3,
+      "createdAt": "2024-09-10T01:50:53.261Z",
+      "updatedAt": "2024-09-10T01:50:53.261Z",
+      "verseId": "e9b749f9-6206-446c-98f8-ad2a21210a48",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "0051ebcb-9b82-4832-a52b-3807b5e85f8f",
+      "content": "Miền quê hương của thánh Phao-lô, trong đó có Tác-xô. Tóm tắt hành trình truyền giáo lần thứ nhất của thánh Phao-lô. Đây là miền Ga-lát hạ (x. Cv 13 – 14).",
+      "position": 90,
+      "order": 4,
+      "createdAt": "2024-09-10T01:50:53.271Z",
+      "updatedAt": "2024-09-10T01:50:53.271Z",
+      "verseId": "9b8e35c4-da81-4c44-9349-981287c9dd9b",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "521c7e18-cfd5-4eb1-ba6e-a869af41132b",
+      "content": "Quan niệm Do-thái coi thế giới này xấu xa, đối lập với thế giới tương lai. Thế giới hiện tại lệ thuộc Xa-tan (Cv 26,18), <i>ác thần của đời này</i> (2 Cr 4,4 ; x. Ep 2,2 ; 6,12 ; Ga 8,12 ; 12,31). Thế giới này liên kết với sự thống trị của tội lỗi và Lề Luật 3,19. Nhưng Đức Ki-tô chết và sống lại để giải thoát chúng ta khỏi mọi sự ác ấy ngay từ đời này, và dẫn chúng ta vào vương quốc của Người (Cl 1,13) và của Thiên Chúa (Rm 14,17 ; Ep 5,5), trong khi chờ đợi ngày giải thoát hoàn toàn, đó là thân xác được phục sinh trong ngày Quang Lâm (x. Rm 5 – 8).",
+      "position": 50,
+      "order": 5,
+      "createdAt": "2024-09-10T01:50:53.282Z",
+      "updatedAt": "2024-09-10T01:50:53.282Z",
+      "verseId": "aa204a4d-41d8-4ad9-9196-c7bf8f1188ef",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "4c95ab02-9214-4595-8e0c-b7606887bcca",
+      "content": "ds : <i>Người</i>. Để tránh hiểu lầm, chúng tôi nói rõ <i>Đức Giê-su Ki-tô</i> và đặt ở giữa câu để làm nổi bật vai trò cứu thế của Đức Giê-su Ki-tô.",
+      "position": 68,
+      "order": 6,
+      "createdAt": "2024-09-10T01:50:53.287Z",
+      "updatedAt": "2024-09-10T01:50:53.287Z",
+      "verseId": "aa204a4d-41d8-4ad9-9196-c7bf8f1188ef",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "08fb6c14-a5c1-4c71-bb0f-b575785eb97e",
+      "content": "Thiên Chúa có sáng kiến cứu độ loài người. Tình thương của Thiên Chúa lôi kéo loài người ra khỏi vực thẳm tội lỗi (x. Cl 1,12-13 ; Xh 3,8.10).",
+      "position": 127,
+      "order": 7,
+      "createdAt": "2024-09-10T01:50:53.292Z",
+      "updatedAt": "2024-09-10T01:50:53.292Z",
+      "verseId": "aa204a4d-41d8-4ad9-9196-c7bf8f1188ef",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "3190ce85-eec6-4c5e-b85b-e3b80b11ebea",
+      "content": "HL dùng đại từ <i>Người</i>. Chúng tôi nói rõ <i>Thiên Chúa</i> cho câu vinh tụng ca được long trọng.",
+      "position": 23,
+      "order": 8,
+      "createdAt": "2024-09-10T01:50:53.308Z",
+      "updatedAt": "2024-09-10T01:50:53.308Z",
+      "verseId": "c6c99bb2-adf6-4227-a0cb-497150847914",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "d804f3f3-ba5a-400e-86f7-f4eebc9cf8ea",
+      "content": "Khiển trách tín hữu Ga-lát không nghiêm túc sống theo Tin Mừng của Đức Giê-su, còn pha trộn những nghi thức bên ngoài của Do-thái giáo với lòng tin vào Đức Ki-tô. Thánh Phao-lô gọi đó là <i>Tin Mừng khác</i>. Người quy trách nhiệm cho một số tín hữu gốc Do-thái giáo đã du nhập <i>Tin Mừng khác</i> vào các Hội Thánh miền Ga-lát. Người thẳng thắn và nghiêm khắc kết án họ.",
+      "position": 12,
+      "order": 9,
+      "createdAt": "2024-09-10T01:50:53.328Z",
+      "updatedAt": "2024-09-10T01:50:53.328Z",
+      "headingId": "0221ff4f-43a3-4441-95f0-222b0f5d7bc2",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "49ab10b1-e068-4874-945e-6e8fe1258d40",
+      "content": "X. Mc 1,1. Chỉ có một Tin Mừng duy nhất là Đức Giê-su (x. 2 Cr 11,4) đã được các Tông Đồ loan báo. Thiên Chúa dành riêng thánh Phao-lô để phục vụ Tin Mừng (Rm 1,1 ; 1 Cr 1,17 ; x. Gl 1,15-16). Nội dung Tin Mừng là mặc khải về Chúa Con, Đức Giê-su Ki-tô (Rm 1,1-4), trỗi dậy từ cõi chết (1 Cr 15,1-5 ; 2 Tm 1,10), sau khi Người chịu đóng đinh vào thập giá (1 Cr 2,2). Người ban ơn được nên công chính (Rm 1,17), ơn cứu độ (Ep 1,13) cho mọi người, Do-thái cũng như dân ngoại (Rm 3,22-24), như các ngôn sứ đã loan báo (Rm 16,25-26). – Từ <i>Tin Mừng</i> vừa ám chỉ hoạt động của các Tông Đồ, vừa nói đến sứ điệp các ông loan báo (2 Cr 2,12 ; 8,18 ; Pl 1,5.12 ; 4,3.15 ; Plm 13 ; 1 Tx 3,2). – Ở đây, <i>Tin Mừng khác</i> ám chỉ Do-thái giáo với luật cắt bì (x. 6,12).",
+      "position": 142,
+      "order": 10,
+      "createdAt": "2024-09-10T01:50:53.333Z",
+      "updatedAt": "2024-09-10T01:50:53.333Z",
+      "verseId": "9e94957e-a1eb-49b4-bca5-bd4bfb28af0a",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "2e2ac101-6023-414f-b9dd-839c3b859fcb",
+      "content": "Có học giả dịch là <i>giảng Tin Mừng</i>. Nhưng, động từ Hy-lạp ở đây là <i>eủagge-lizomai</i> (PTM : <i>evangelizare</i> = loan báo Tin Mừng), chứ không phải là <i>kêrussein</i> (PTM : <i>pracdicare</i> = giảng) như 1 Cr 1,23.",
+      "position": 152,
+      "order": 11,
+      "createdAt": "2024-09-10T01:50:53.358Z",
+      "updatedAt": "2024-09-10T01:50:53.358Z",
+      "verseId": "c486640c-c652-469f-9482-7e97494a1a7c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "5c7f34dd-8433-4aba-b142-a8ebed3e433e",
+      "content": "Từ <i>anathema</i> dịch từ Híp-ri <span class=\"hebrew-translit\">Hërem</span>. Cựu Ước dùng để chỉ những gì dâng hiến cho Thiên Chúa,lễ phẩm dâng trong Đền Thờ (gọi là biệt hiến), hoặc các chiến lợi phẩm phải tiêu huỷ (gọi là tru hiến). Tân Ước dùng từ này để khiển trách những người không trung tín với ơn Thiên Chúa gọi. Từ này không áp dụng cho người ngoại, mà chỉ dành cho những kẻ bội giáo. Vì thế, ở đây thánh Phao-lô xin Thiên Chúa tiêu diệt những ai không trung tín rao giảng Tin Mừng chính danh.",
+      "position": 181,
+      "order": 12,
+      "createdAt": "2024-09-10T01:50:53.363Z",
+      "updatedAt": "2024-09-10T01:50:53.363Z",
+      "verseId": "c486640c-c652-469f-9482-7e97494a1a7c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "2b69e051-063a-41ce-97d1-83ef7081745e",
+      "content": "Db : <i>chúng tôi</i>. Hiểu là thánh Phao-lô và các cộng sự viên, hoặc các Tông Đồ khác.",
+      "position": 7,
+      "order": 13,
+      "createdAt": "2024-09-10T01:50:53.378Z",
+      "updatedAt": "2024-09-10T01:50:53.378Z",
+      "verseId": "a6f876f9-a876-412b-bc6c-288bbec52410",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "26032ce0-ea01-426f-8eef-469e37433d56",
+      "content": "Rao giảng phép cắt bì cho người ngoại làm đẹp lòng người Do-thái.",
+      "position": 44,
+      "order": 14,
+      "createdAt": "2024-09-10T01:50:53.388Z",
+      "updatedAt": "2024-09-10T01:50:53.388Z",
+      "verseId": "338bbea7-4179-4bcc-a56d-8221f07dbc46",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "e28b02c0-d5bb-4a7a-b1bb-fa61deef57ce",
+      "content": "Những tín hữu gốc Do-thái giáo gieo hoang mang cho các tín hữu gốc dân ngoại về sứ mạng tông đồ của thánh Phao-lô cũng như đòi các tín hữu giữ Luật Mô-sê. Vì thế, người phải tự biện hộ. Người nói lên kinh nghiệm bản thân về cuộc trở lại mà chẳng giấu giếm quá khứ (1,13). Người đồng ý với các vị lãnh đạo Hội Thánh ở Giê-ru-sa-lem về các người ngoại trở lại theo Đức Ki-tô không phải giữ Luật Mô-sê. Người bảo vệ quyền Tông Đồ của mình, nhấn mạnh đến trách nhiệm Thiên Chúa uỷ thác cho người giảng Tin Mừng. Người khẳng định rằng đức tin giúp đạt được ơn cứu độ, chứ không phải Lề Luật.",
+      "position": 17,
+      "order": 15,
+      "createdAt": "2024-09-10T01:50:53.408Z",
+      "updatedAt": "2024-09-10T01:50:53.408Z",
+      "headingId": "da7ff98d-8def-48f1-ad0b-f3a546b14415",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "10408de9-0420-4e79-8939-0fa42a516df3",
+      "content": "Thánh Phao-lô tự thuật nguyên do ơn gọi làm tông đồ của mình. Ơn gọi này hoàn toàn siêu nhiên. Người được Đức Giê-su mặc khải Tin Mừng. Tin Mừng ấy là Đức Giê-su đã chết để cứu độ loài người. Người gặp thánh Phê-rô và các Tông Đồ <i>cột trụ</i> (Gl 2,9) để tuân phục quyền các vị này. Ở đại hội Giê-ru-sa-lem, người biện minh cho hoạt động tông đồ của mình. Người làm sáng tỏ chân lý của thập giá : đức tin là con đường duy nhất dẫn tới ơn cứu độ.",
+      "position": 24,
+      "order": 16,
+      "createdAt": "2024-09-10T01:50:53.420Z",
+      "updatedAt": "2024-09-10T01:50:53.420Z",
+      "headingId": "17309fff-76a7-4540-be87-bce29ffa7563",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "b2e9da97-d947-4631-945c-dbf5da93a880",
+      "content": "Tin Mừng do thánh Phao-lô loan báo được Đức Giê-su truyền lại, thông ban. Đức Giê-su là tác giả của Tin Mừng (x. Cv 26,16).",
+      "position": 118,
+      "order": 17,
+      "createdAt": "2024-09-10T01:50:53.430Z",
+      "updatedAt": "2024-09-10T01:50:53.430Z",
+      "verseId": "9410992f-17e3-4996-b966-fe1bae9e15d0",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "5e448375-6024-4c6f-a6a0-ac7e739de8f8",
+      "content": "X. Cv 8,3 ; Rm 9,1 ; 1 Cr 15,9 ; Pl 3,6 ; 1 Tm 1,13. Điều này chứng tỏ thánh Phao-lô là một người rất trung thực.",
+      "position": 149,
+      "order": 18,
+      "createdAt": "2024-09-10T01:50:53.444Z",
+      "updatedAt": "2024-09-10T01:50:53.444Z",
+      "verseId": "3ef68d01-2e02-4b8d-9458-6b4cedb5d110",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "1737e3fe-054f-499d-912e-ef25daa5d65b",
+      "content": "X. Pl 3,6 ; Rm 10,2. Trước đây là người thuộc phái Pha-ri-sêu, thánh Phao-lô nhiệt thành bảo vệ Do-thái giáo.",
+      "position": 151,
+      "order": 19,
+      "createdAt": "2024-09-10T01:50:53.466Z",
+      "updatedAt": "2024-09-10T01:50:53.466Z",
+      "verseId": "b3874715-1fef-4fbc-8833-cc83fa6f644a",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "a3a22188-3696-46a2-a882-15a580ad635f",
+      "content": "X. Gr 1,5 ; Is 49,1. Ơn gọi làm tông đồ do Thiên Chúa tiền định. – <i>dành riêng</i>, ds : <i>tách rời</i>.",
+      "position": 79,
+      "order": 20,
+      "createdAt": "2024-09-10T01:50:53.476Z",
+      "updatedAt": "2024-09-10T01:50:53.476Z",
+      "verseId": "347d187e-1b72-4e27-b76f-9343141ca033",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "1232318a-256b-46f5-9d5c-c73d63e44225",
+      "content": "Đức Giê-su trở thành đối tượng của mặc khải, của việc giảng Tin Mừng. Thiên Chúa tỏ bày trực tiếp cho thánh Phao-lô biết ý định cứu thế và sai Con của Người thực hiện ý định ấy.",
+      "position": 43,
+      "order": 21,
+      "createdAt": "2024-09-10T01:50:53.485Z",
+      "updatedAt": "2024-09-10T01:50:53.485Z",
+      "verseId": "2aee7301-cbe3-4758-a2fe-5d3691758658",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "10e491e4-a816-487b-b4e1-07933069549c",
+      "content": "Nhờ đó, thánh Phao-lô nhận được danh hiệu <i>Tông Đồ dân ngoại</i>.",
+      "position": 112,
+      "order": 22,
+      "createdAt": "2024-09-10T01:50:53.488Z",
+      "updatedAt": "2024-09-10T01:50:53.488Z",
+      "verseId": "2aee7301-cbe3-4758-a2fe-5d3691758658",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "4fd41030-afc2-431e-a4c3-bb344f80bf27",
+      "content": "ds : <i>Thịt và máu</i> tức là con người, đối lập với Thiên Chúa. Thánh Phao-lô ý thức ơn gọi làm tông đồ của mình, đó là một ân huệ lớn lao Thiên Chúa dành cho người. Nên người lo chu toàn bổn phận làm tông đồ (1 Cr 4,1-4) ; loan báo Tin Mừng (1 Cr 9,16).",
+      "position": 156,
+      "order": 23,
+      "createdAt": "2024-09-10T01:50:53.490Z",
+      "updatedAt": "2024-09-10T01:50:53.490Z",
+      "verseId": "2aee7301-cbe3-4758-a2fe-5d3691758658",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "c2dd1183-0281-43e2-b2d9-675ac5b21a50",
+      "content": "Theo 4,25 đó là núi Xi-nai, vào sa mạc để giảng Tin Mừng, hay là gặp gỡ Thiên Chúa và Đức Giê-su để lãnh nhận Tin Mừng ?",
+      "position": 103,
+      "order": 24,
+      "createdAt": "2024-09-10T01:50:53.497Z",
+      "updatedAt": "2024-09-10T01:50:53.497Z",
+      "verseId": "8bcae82a-bcc2-4dec-a85b-30b8542f4d3c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "8333b86d-e99b-469a-b48a-df64c37125f7",
+      "content": "Thánh Phê-rô, gọi theo tên Hy-lạp. Cuộc hội ngộ này ngắn ngủi, nhưng đầy ý nghĩa : đề cao vai trò lãnh đạo của thánh Phê-rô trong Hội Thánh, trao đổi phương pháp truyền giáo cho dân ngoại.",
+      "position": 57,
+      "order": 25,
+      "createdAt": "2024-09-10T01:50:53.501Z",
+      "updatedAt": "2024-09-10T01:50:53.501Z",
+      "verseId": "a8d188f5-c7be-4e6b-84d2-79f2aa295891",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "f6d65d52-521a-4994-b1e8-5cd71d566085",
+      "content": "Thánh Gia-cô-bê có ảnh hưởng sâu rộng nơi các tín hữu gốc Do-thái giáo, đứng đầu Hội Thánh tại Giê-ru-sa-lem (x. Mt 13,55 ; Mc 6,3 ; 1 Cr 15,7 ; Cv 12,17 ; 15,13 ; 21,18). Có lẽ ông kế vị tông đồ Gia-cô-bê bị vua Hê-rô-đê Ác-ríp-pa I giết bằng gươm khoảng năm 44.",
+      "position": 83,
+      "order": 26,
+      "createdAt": "2024-09-10T01:50:53.505Z",
+      "updatedAt": "2024-09-10T01:50:53.505Z",
+      "verseId": "cbf4cd6f-b900-476a-b337-c96e13723a74",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "552df48e-c1f4-4dda-b588-ebf9fadf36d1",
+      "content": "Miền quê hương của thánh Phao-lô, trong đó có Tác-xô. Tóm tắt hành trình truyền giáo lần thứ nhất của thánh Phao-lô. Đây là miền Ga-lát hạ (x. Cv 13 – 14).",
+      "position": 44,
+      "order": 27,
+      "createdAt": "2024-09-10T01:50:53.511Z",
+      "updatedAt": "2024-09-10T01:50:53.511Z",
+      "verseId": "35db89f3-c69a-4452-9f95-a29a3d3d74ba",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    }
+  ],
+  "headings": [
+    {
+      "id": "dcda7f0e-1a40-4eac-b654-b4c3145cc6a0",
+      "content": "THƯ GỬI TÍN HỮU GA-LÁT",
+      "order": 0,
+      "createdAt": "2024-09-10T01:50:53.225Z",
+      "updatedAt": "2024-09-10T01:50:53.225Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "0221ff4f-43a3-4441-95f0-222b0f5d7bc2",
+      "content": "Lời cảnh cáo",
+      "order": 0,
+      "createdAt": "2024-09-10T01:50:53.323Z",
+      "updatedAt": "2024-09-10T01:50:53.323Z",
+      "verseId": "9e94957e-a1eb-49b4-bca5-bd4bfb28af0a",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "da7ff98d-8def-48f1-ad0b-f3a546b14415",
+      "content": "I. LỜI THANH MINH",
+      "order": 0,
+      "createdAt": "2024-09-10T01:50:53.404Z",
+      "updatedAt": "2024-09-10T01:50:53.404Z",
+      "verseId": "de6fbc5f-ba3d-4152-882b-56f097d15c9c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "75e03a79-abf9-4a23-a19e-182c4c66a431",
+      "content": "Lời mở đầu",
+      "order": 1,
+      "createdAt": "2024-09-10T01:50:53.228Z",
+      "updatedAt": "2024-09-10T01:50:53.228Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "17309fff-76a7-4540-be87-bce29ffa7563",
+      "content": "Ơn gọi của thánh Phao-lô",
+      "order": 1,
+      "createdAt": "2024-09-10T01:50:53.414Z",
+      "updatedAt": "2024-09-10T01:50:53.414Z",
+      "verseId": "de6fbc5f-ba3d-4152-882b-56f097d15c9c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    }
+  ],
+  "references": [
+    {
+      "id": "ab8979b8-e276-4e49-9adf-7a6d9707668d",
+      "content": "Rm 1,1",
+      "position": 16,
+      "order": 0,
+      "createdAt": "2024-09-10T01:50:53.240Z",
+      "updatedAt": "2024-09-10T01:50:53.240Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "1fa007db-345b-455f-a93c-c5f484f562d6",
+      "content": "Gl 1,11",
+      "position": 35,
+      "order": 1,
+      "createdAt": "2024-09-10T01:50:53.245Z",
+      "updatedAt": "2024-09-10T01:50:53.245Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "1be9f751-0c76-4bdd-91fa-dc6dce094d87",
+      "content": "Rm 1,4",
+      "position": 115,
+      "order": 2,
+      "createdAt": "2024-09-10T01:50:53.250Z",
+      "updatedAt": "2024-09-10T01:50:53.250Z",
+      "verseId": "32c21797-1f11-416f-9441-70bf7b0e0650",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "3a8f00a7-0ca6-4f33-a983-348deae19828",
+      "content": "Cl 1,13",
+      "position": 3,
+      "order": 3,
+      "createdAt": "2024-09-10T01:50:53.296Z",
+      "updatedAt": "2024-09-10T01:50:53.296Z",
+      "verseId": "aa204a4d-41d8-4ad9-9196-c7bf8f1188ef",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "de14d457-f7a2-4734-aa86-f77118c98a50",
+      "content": "Rm 16,27",
+      "position": 4,
+      "order": 4,
+      "createdAt": "2024-09-10T01:50:53.313Z",
+      "updatedAt": "2024-09-10T01:50:53.313Z",
+      "verseId": "c6c99bb2-adf6-4227-a0cb-497150847914",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "0f2c87e9-12e0-41a3-ac16-b8c4877c652e",
+      "content": "2 Tx 2,2",
+      "position": 48,
+      "order": 5,
+      "createdAt": "2024-09-10T01:50:53.338Z",
+      "updatedAt": "2024-09-10T01:50:53.338Z",
+      "verseId": "9e94957e-a1eb-49b4-bca5-bd4bfb28af0a",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "b7dbda86-4446-4d43-8f9e-7d8eda57cd42",
+      "content": "2 Cr 11,4",
+      "position": 129,
+      "order": 6,
+      "createdAt": "2024-09-10T01:50:53.343Z",
+      "updatedAt": "2024-09-10T01:50:53.343Z",
+      "verseId": "9e94957e-a1eb-49b4-bca5-bd4bfb28af0a",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "e21bf744-7b0e-48f6-9a4a-6036ca806bb8",
+      "content": "Đnl 7,26; 1 Cr 5,5",
+      "position": 162,
+      "order": 7,
+      "createdAt": "2024-09-10T01:50:53.368Z",
+      "updatedAt": "2024-09-10T01:50:53.368Z",
+      "verseId": "c486640c-c652-469f-9482-7e97494a1a7c",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "04c34242-50a8-489c-b29b-9d46f5cadc25",
+      "content": "Rm 1,1",
+      "position": 184,
+      "order": 8,
+      "createdAt": "2024-09-10T01:50:53.393Z",
+      "updatedAt": "2024-09-10T01:50:53.393Z",
+      "verseId": "338bbea7-4179-4bcc-a56d-8221f07dbc46",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "6b8165cb-0942-4782-9deb-b9a107950823",
+      "content": "Mt 16,17",
+      "position": 12,
+      "order": 9,
+      "createdAt": "2024-09-10T01:50:53.435Z",
+      "updatedAt": "2024-09-10T01:50:53.435Z",
+      "verseId": "9410992f-17e3-4996-b966-fe1bae9e15d0",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "adc82db8-01d1-47b8-aeae-c6ab3e817975",
+      "content": "Gl 1,23; Cv 8,3; 9,1-2; 22,4-5; 26,9-11; 1 Cr 15,9 b; Pl 3,6; 1 Tm 1,13",
+      "position": 43,
+      "order": 10,
+      "createdAt": "2024-09-10T01:50:53.450Z",
+      "updatedAt": "2024-09-10T01:50:53.450Z",
+      "verseId": "3ef68d01-2e02-4b8d-9458-6b4cedb5d110",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "ff3f2940-0d37-4880-b15d-ce1ae141401b",
+      "content": "Is 49,1; Gr 1,5",
+      "position": 35,
+      "order": 11,
+      "createdAt": "2024-09-10T01:50:53.479Z",
+      "updatedAt": "2024-09-10T01:50:53.479Z",
+      "verseId": "347d187e-1b72-4e27-b76f-9343141ca033",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "c980beee-69ff-47a7-9a3b-6ab647afc786",
+      "content": "Gl 2,7-8; Cv 9,15; 22,21; 26,17; Rm 11,13",
+      "position": 60,
+      "order": 12,
+      "createdAt": "2024-09-10T01:50:53.493Z",
+      "updatedAt": "2024-09-10T01:50:53.493Z",
+      "verseId": "2aee7301-cbe3-4758-a2fe-5d3691758658",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "cce726ab-bc02-47c8-ab40-6ea31267d954",
+      "content": "Gl 1,13",
+      "position": 40,
+      "order": 13,
+      "createdAt": "2024-09-10T01:50:53.518Z",
+      "updatedAt": "2024-09-10T01:50:53.518Z",
+      "verseId": "7cb04a08-11af-4464-a002-65c90e8bde50",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    },
+    {
+      "id": "dab9d769-8a98-42b4-b25f-719090b7b1ac",
+      "content": "Cv 9,21",
+      "position": 112,
+      "order": 14,
+      "createdAt": "2024-09-10T01:50:53.520Z",
+      "updatedAt": "2024-09-10T01:50:53.520Z",
+      "verseId": "7cb04a08-11af-4464-a002-65c90e8bde50",
+      "chapterId": "4b943a6c-13e4-4776-b75b-9eec7beaa05e"
+    }
+  ]
+}

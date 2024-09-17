@@ -1,0 +1,317 @@
+{
+  "chapter": {
+    "id": "5eeed03d-59f9-42b1-b709-fe5420c5be3a",
+    "number": 61,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.892Z",
+    "updatedAt": "2024-09-10T00:39:05.892Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "7b202395-2ee5-43c2-8c7a-b029cd2e1b01",
+      "number": 1,
+      "content": "Phần ca trưởng. Theo huyền cầm. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:22:33.429Z",
+      "updatedAt": "2024-09-10T04:22:33.429Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "77677317-ec85-42e6-a006-1542ead2f847",
+      "number": 2,
+      "content": "Lạy Chúa Trời, xin nghe tiếng kêu van,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.443Z",
+      "updatedAt": "2024-09-10T04:22:33.443Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "98aba8e7-1d33-4234-b177-d1b8ce001e3a",
+      "number": 2,
+      "content": "và lưu ý đến lời con thỉnh nguyện.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.446Z",
+      "updatedAt": "2024-09-10T04:22:33.446Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "3616a925-4d77-4237-8389-43bccc64fc8d",
+      "number": 3,
+      "content": "Từ cùng cõi địa cầu, con kêu lên Chúa,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.448Z",
+      "updatedAt": "2024-09-10T04:22:33.448Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "cf0f03a2-7656-4b61-814c-e4134257cf16",
+      "number": 3,
+      "content": "tâm thần đang mòn mỏi rã rời.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.450Z",
+      "updatedAt": "2024-09-10T04:22:33.450Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "dcfb4366-149f-4d6f-b097-29daba8541b6",
+      "number": 3,
+      "content": "Trên tảng đá kia cao vòi vọi, xin Ngài dẫn con lên.",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.452Z",
+      "updatedAt": "2024-09-10T04:22:33.452Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "763e3562-2b01-40f7-91a1-afb023784ae5",
+      "number": 4,
+      "content": "Vì Chúa là nơi con vào trú ẩn,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.457Z",
+      "updatedAt": "2024-09-10T04:22:33.457Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "2bc298b1-c1a6-4f56-8376-81ec4cad1670",
+      "number": 4,
+      "content": "luỹ sắt thành đồng chống lại địch quân.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.459Z",
+      "updatedAt": "2024-09-10T04:22:33.459Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "b21f3d30-19fa-408c-ac8a-754f0a09bdaf",
+      "number": 5,
+      "content": "Ước gì con được ở mãi trong lều thánh,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.461Z",
+      "updatedAt": "2024-09-10T04:22:33.461Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "7dbd261a-0c65-4fc2-9ee6-b907bde8ca9f",
+      "number": 5,
+      "content": "được chở che dưới cánh tay Ngài.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.463Z",
+      "updatedAt": "2024-09-10T04:22:33.463Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "eff21401-5656-4c61-9042-38526ab64a19",
+      "number": 6,
+      "content": "Vâng chính Ngài, lạy Thiên Chúa,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.465Z",
+      "updatedAt": "2024-09-10T04:22:33.465Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "38a9caaa-eab6-48c2-907b-780e2d6d7a3f",
+      "number": 6,
+      "content": "đã nghe lời khấn nguyện của con,",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.467Z",
+      "updatedAt": "2024-09-10T04:22:33.467Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "a2056464-2c65-4e1a-8032-766d2874bb8c",
+      "number": 6,
+      "content": "lại cho con thừa hưởng",
+      "order": 2,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.470Z",
+      "updatedAt": "2024-09-10T04:22:33.470Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "24040d43-631a-47eb-9baa-b14773657a82",
+      "number": 6,
+      "content": "cơ nghiệp dành cho ai kính sợ danh Ngài.",
+      "order": 3,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.472Z",
+      "updatedAt": "2024-09-10T04:22:33.472Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "06c798c6-04a6-4c2b-8c7e-40df5421b5fd",
+      "number": 7,
+      "content": "Lạy Thiên Chúa, xin gia tăng tuổi thọ",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.474Z",
+      "updatedAt": "2024-09-10T04:22:33.474Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "aba6bd50-e26a-46be-868d-44a9a9a20b59",
+      "number": 7,
+      "content": "cho đức vua sống mãi ngàn năm,",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.476Z",
+      "updatedAt": "2024-09-10T04:22:33.476Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "903ca4cb-d36d-4d1c-935d-857918702b87",
+      "number": 8,
+      "content": "hiển trị muôn đời trước Nhan Thánh,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.478Z",
+      "updatedAt": "2024-09-10T04:22:33.478Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "5a5d8157-f1a4-4a5b-a45a-918d0a1d2b7f",
+      "number": 8,
+      "content": "được ân tình tín nghĩa chở che.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.482Z",
+      "updatedAt": "2024-09-10T04:22:33.482Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "8451594b-6644-4bc9-a4b2-1442012aa342",
+      "number": 9,
+      "content": "Bấy giờ con mãi mãi đàn ca mừng Danh Thánh,",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.487Z",
+      "updatedAt": "2024-09-10T04:22:33.487Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "539a5e0f-198c-4757-9016-96ab4a6f3d55",
+      "number": 9,
+      "content": "ngày lại ngày, xin giữ trọn lời nguyền.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:22:33.489Z",
+      "updatedAt": "2024-09-10T04:22:33.489Z",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "3e36b01f-07fc-4283-b306-91b5126527ab",
+      "content": "Tv này là <i>một ai ca của cá nhân</i>, là lời cầu nguyện của một người Ít-ra-en đạo đức (một thầy Lê-vi hoặc một người đau ốm) sống xa đền thờ Giê-ru-sa-lem, lúc ấy lâm vào một hoàn cảnh khó khăn. Sau đó, có lời cầu cho nhà vua đi kèm theo (cc. 7-8). Tv này chia làm bốn phần : <b>1</b>) Lời cầu nguyện kêu van của tác giả (cc. 2-3) ; <b>2</b>) Lòng trông cậy đặt vào Thiên Chúa là Đấng nghe lời khấn nguyện của người kêu xin (cc. 4-6) ; <b>3</b>) Lời cầu cho nhà vua được sống thọ và cầm quyền trị nước lâu dài (cc. 7-8).",
+      "position": 36,
+      "order": 0,
+      "createdAt": "2024-09-10T04:22:33.441Z",
+      "updatedAt": "2024-09-10T04:22:33.441Z",
+      "headingId": "297495d9-bc29-4c69-b789-5297d6dc3fa0",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "36f158c0-c619-4c34-a106-609ebb498cce",
+      "content": "<i>Tảng đá cao vòi vọi</i> chỉ núi Xi-on, nơi Đền Thờ được xây lên. Đó là nơi tác giả Tv tưởng nhớ tới.",
+      "position": 28,
+      "order": 1,
+      "createdAt": "2024-09-10T04:22:33.455Z",
+      "updatedAt": "2024-09-10T04:22:33.455Z",
+      "verseId": "dcfb4366-149f-4d6f-b097-29daba8541b6",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "fefee682-0c2b-4985-a1d0-fc55819a76c8",
+      "content": "Cụm từ <i>hiển trị muôn đời</i> gợi nhớ lời sấm của ngôn sứ Na-than (2 Sm 7,16 ; cũng x. 1 Sb 17,14 ; Tv 89,5 ; 132,12) : đó là nội dung của lời Thiên Chúa hứa được chuyển đến vua Đa-vít qua ngôn sứ làm trung gian. Ở đây, chắc không nên loại ra ngoài nhãn giới về Đấng Mê-si-a. Cặp bài trùng <i>ân tình</i> (“<span class=\"hebrew-translit\">HeseD</span>”) – <i>tín nghĩa</i> (“<span class=\"hebrew-translit\">´émet</span>”), hai phẩm tính của Thiên Chúa được nhân cách hoá, có ý nghĩa sau đây : Thiên Chúa liên tục diễn tả lòng nhân hậu của Người đối với nhà vua và qua nhà vua đối với Đấng Mê-si-a Vua.",
+      "position": 30,
+      "order": 2,
+      "createdAt": "2024-09-10T04:22:33.484Z",
+      "updatedAt": "2024-09-10T04:22:33.484Z",
+      "verseId": "5a5d8157-f1a4-4a5b-a45a-918d0a1d2b7f",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    }
+  ],
+  "headings": [
+    {
+      "id": "297495d9-bc29-4c69-b789-5297d6dc3fa0",
+      "content": "Tv 61 (60) Người lưu vong cầu nguyện",
+      "order": 0,
+      "createdAt": "2024-09-10T04:22:33.439Z",
+      "updatedAt": "2024-09-10T04:22:33.439Z",
+      "verseId": "7b202395-2ee5-43c2-8c7a-b029cd2e1b01",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    }
+  ],
+  "references": [
+    {
+      "id": "4776b498-31ed-4c2e-b683-adbcc67f7776",
+      "content": "Is 16,5",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:22:33.480Z",
+      "updatedAt": "2024-09-10T04:22:33.480Z",
+      "verseId": "903ca4cb-d36d-4d1c-935d-857918702b87",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    },
+    {
+      "id": "8d92192b-5b67-427b-9d9d-58acaa8e24df",
+      "content": "Tv 66,13",
+      "position": 19,
+      "order": 1,
+      "createdAt": "2024-09-10T04:22:33.491Z",
+      "updatedAt": "2024-09-10T04:22:33.491Z",
+      "verseId": "539a5e0f-198c-4757-9016-96ab4a6f3d55",
+      "chapterId": "5eeed03d-59f9-42b1-b709-fe5420c5be3a"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "chapter": {
+    "id": "e0d54e59-dc7f-4a34-b112-fd09fca07b75",
+    "number": 8,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.892Z",
+    "updatedAt": "2024-09-10T00:39:05.892Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "e77fa8ab-be51-4e13-b7cb-49c032b20da1",
+      "number": 1,
+      "content": "Phần ca trưởng. Có hoạ đàn thành Gát. Thánh vịnh. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:20:21.970Z",
+      "updatedAt": "2024-09-10T04:20:21.970Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "ccea0739-23dd-40de-88c4-232d0cfa21da",
+      "number": 2,
+      "content": "Lạy ĐỨC CHÚA là Chúa chúng con,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.984Z",
+      "updatedAt": "2024-09-10T04:20:21.984Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "2fd7c702-00f1-4a68-b663-482cbc4b0953",
+      "number": 2,
+      "content": "lẫy lừng thay danh Chúa trên khắp cả địa cầu !",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.986Z",
+      "updatedAt": "2024-09-10T04:20:21.986Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "e05bbee2-d258-42a7-8c41-a7e6fa2e44a5",
+      "number": 3,
+      "content": "Uy phong Ngài vượt quá trời cao.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.988Z",
+      "updatedAt": "2024-09-10T04:20:21.988Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "95747efb-853b-4a23-8352-80721b5c21f3",
+      "number": 3,
+      "content": "Ngài cho miệng con thơ trẻ nhỏ",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.990Z",
+      "updatedAt": "2024-09-10T04:20:21.990Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "973511b2-ad6e-496e-a95d-3c3476e32a5c",
+      "number": 3,
+      "content": "cất tiếng ngợi khen đối lại địch thù,",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.992Z",
+      "updatedAt": "2024-09-10T04:20:21.992Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "2ae709f8-9aae-47d0-a237-5e06f44eaf92",
+      "number": 3,
+      "content": "khiến kẻ thù quân nghịch phải tiêu tan.",
+      "order": 3,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.996Z",
+      "updatedAt": "2024-09-10T04:20:21.996Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "2bf4820f-b330-42b8-94ad-374f9add8d32",
+      "number": 4,
+      "content": "Ngắm tầng trời tay Chúa sáng tạo,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:21.998Z",
+      "updatedAt": "2024-09-10T04:20:21.998Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "0ee99003-5314-48c7-b00b-f1a1ff1b1b44",
+      "number": 4,
+      "content": "muôn trăng sao Chúa đã an bài,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22Z",
+      "updatedAt": "2024-09-10T04:20:22Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "f2f223c0-c16a-4331-8d56-81e5de0267ae",
+      "number": 5,
+      "content": "thì con người là chi, mà Chúa cần nhớ đến,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.003Z",
+      "updatedAt": "2024-09-10T04:20:22.003Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "be24d4e6-4bdf-4aeb-ae9a-41965a8f1999",
+      "number": 5,
+      "content": "phàm nhân là gì, mà Chúa phải bận tâm ?",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.005Z",
+      "updatedAt": "2024-09-10T04:20:22.005Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "5e3db3e0-c39e-4c39-b0bc-dca99bc76ce6",
+      "number": 6,
+      "content": "Chúa cho con người chẳng thua kém thần linh là mấy,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.009Z",
+      "updatedAt": "2024-09-10T04:20:22.009Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "d58faf7b-c6a9-4aec-85ec-c0efbd25074a",
+      "number": 6,
+      "content": "ban vinh quang danh dự làm mũ triều thiên,",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.013Z",
+      "updatedAt": "2024-09-10T04:20:22.013Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "e3a4b18b-c6b8-4326-8029-35c7f4c76156",
+      "number": 7,
+      "content": "cho làm chủ công trình tay Chúa sáng tạo,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.015Z",
+      "updatedAt": "2024-09-10T04:20:22.015Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "649e579b-8760-4089-b0f0-453c13f15c60",
+      "number": 7,
+      "content": "đặt muôn loài muôn sự dưới chân :",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.017Z",
+      "updatedAt": "2024-09-10T04:20:22.017Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "231049a4-6466-4876-b94b-0019c50ca7c4",
+      "number": 8,
+      "content": "Nào chiên bò đủ loại, nào thú vật ngoài đồng,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.019Z",
+      "updatedAt": "2024-09-10T04:20:22.019Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "aec0e4a0-c02d-46b5-872b-f3fc8254c981",
+      "number": 9,
+      "content": "nào chim trời cá biển, mọi loài ngang dọc khắp trùng dương.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.021Z",
+      "updatedAt": "2024-09-10T04:20:22.021Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "36abe865-b860-4a33-8077-3dbe0f568c53",
+      "number": 10,
+      "content": "Lạy ĐỨC CHÚA là Chúa chúng con,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.026Z",
+      "updatedAt": "2024-09-10T04:20:22.026Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "45f29c5f-93fc-4a11-803c-8ba0ad39ad7a",
+      "number": 10,
+      "content": "lẫy lừng thay danh Chúa trên khắp cả địa cầu !",
+      "order": 1,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:20:22.028Z",
+      "updatedAt": "2024-09-10T04:20:22.028Z",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "55ab22c6-c7a4-4ad8-95e0-5e72d56874ef",
+      "content": "Đây là <i>một thánh thi</i>. Bố cục của Tv 8 : <b>1</b>) Điệp khúc (c.2abc) ; <b>2</b>) Oai phong Thiên Chúa trong vũ trụ ; suy nghĩ về con người (cc. 2d-5) ; <b>3</b>) Phẩm giá con người (cc. 6-9) ; <b>4</b>) Điệp khúc (c.10).",
+      "position": 45,
+      "order": 0,
+      "createdAt": "2024-09-10T04:20:21.982Z",
+      "updatedAt": "2024-09-10T04:20:21.982Z",
+      "headingId": "53f833ec-e3db-4960-8668-0502ff098ac6",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "161435f8-4877-49b2-86bf-c9fe71598a91",
+      "content": "Bản Do-thái rất khó hiểu. Ở đây, bản dịch này theo LXX và PT mới (<i>cất tiếng ngợi khen đối lại địch thù</i>).",
+      "position": 36,
+      "order": 1,
+      "createdAt": "2024-09-10T04:20:21.994Z",
+      "updatedAt": "2024-09-10T04:20:21.994Z",
+      "verseId": "973511b2-ad6e-496e-a95d-3c3476e32a5c",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "550e0654-4eb5-4bc8-b9b5-065c513fa789",
+      "content": "<i>Thần linh</i> chỉ hữu thể linh thiêng bí nhiệm trổi vượt con người. Theo một số học giả, đó là thiên thần, một số trong các vị hợp thành triều đình Thiên Chúa.",
+      "position": 43,
+      "order": 2,
+      "createdAt": "2024-09-10T04:20:22.011Z",
+      "updatedAt": "2024-09-10T04:20:22.011Z",
+      "verseId": "5e3db3e0-c39e-4c39-b0bc-dca99bc76ce6",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    },
+    {
+      "id": "46449e4c-7364-4e22-9cf1-12b7ec46e229",
+      "content": "Trong cc. 6-9, tác giả Tv nhấn mạnh đến địa vị cao trọng của con người do Thiên Chúa ban.",
+      "position": 58,
+      "order": 3,
+      "createdAt": "2024-09-10T04:20:22.024Z",
+      "updatedAt": "2024-09-10T04:20:22.024Z",
+      "verseId": "aec0e4a0-c02d-46b5-872b-f3fc8254c981",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    }
+  ],
+  "headings": [
+    {
+      "id": "53f833ec-e3db-4960-8668-0502ff098ac6",
+      "content": "Tv 8 Oai phong ĐỨC CHÚA và phẩm giá con người",
+      "order": 0,
+      "createdAt": "2024-09-10T04:20:21.979Z",
+      "updatedAt": "2024-09-10T04:20:21.979Z",
+      "verseId": "e77fa8ab-be51-4e13-b7cb-49c032b20da1",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    }
+  ],
+  "references": [
+    {
+      "id": "10184b82-a54f-4821-ab67-10981a05af23",
+      "content": "Tv 144,3",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:20:22.007Z",
+      "updatedAt": "2024-09-10T04:20:22.007Z",
+      "verseId": "be24d4e6-4bdf-4aeb-ae9a-41965a8f1999",
+      "chapterId": "e0d54e59-dc7f-4a34-b112-fd09fca07b75"
+    }
+  ]
+}

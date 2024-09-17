@@ -1,0 +1,499 @@
+{
+  "chapter": {
+    "id": "09ca91d7-2109-4628-bdc4-1b0b2391527b",
+    "number": 2,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.358Z",
+    "updatedAt": "2024-09-10T00:39:05.358Z",
+    "bookId": "3041dde8-0db6-4ca1-91be-51d347f922ca"
+  },
+  "verses": [
+    {
+      "id": "d43ea4fd-aa09-4365-87af-9f91bfbac582",
+      "number": 1,
+      "content": "Vài ngày sau, Đức Giê-su trở lại thành Ca-phác-na-um. Hay tin Người ở nhà,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.011Z",
+      "updatedAt": "2024-09-10T01:17:00.011Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "871de7ac-6ee4-4ccd-864f-8f305b48c293",
+      "number": 2,
+      "content": "dân chúng tụ tập lại, đông đến nỗi trong nhà ngoài sân chứa không hết. Người giảng lời cho họ.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.027Z",
+      "updatedAt": "2024-09-10T01:17:00.027Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "9c90b880-9690-45bd-ba7a-a5badd11a2f7",
+      "number": 3,
+      "content": "Bấy giờ người ta đem đến cho Đức Giê-su một kẻ bại liệt, có bốn người khiêng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.030Z",
+      "updatedAt": "2024-09-10T01:17:00.030Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "3ae7eefa-4838-4ddc-89ca-a951e5ba27a0",
+      "number": 4,
+      "content": "Nhưng vì dân chúng quá đông, nên họ không sao khiêng đến gần Người được. Họ mới dỡ mái nhà, ngay trên chỗ Người ngồi, làm thành một lỗ hổng, rồi thả người bại liệt nằm trên chõng xuống.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.031Z",
+      "updatedAt": "2024-09-10T01:17:00.031Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "1491eb4d-a8c6-47aa-811d-7bed624aeebb",
+      "number": 5,
+      "content": "Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt : “Này con, con đã được tha tội rồi.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.033Z",
+      "updatedAt": "2024-09-10T01:17:00.033Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "ab843bcd-e734-4f80-b558-cf15cf663199",
+      "number": 6,
+      "content": "Nhưng có mấy kinh sư đang ngồi đó, họ nghĩ thầm trong bụng rằng :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.035Z",
+      "updatedAt": "2024-09-10T01:17:00.035Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "95a2f75f-fb01-40fb-91d2-3d4aa0224335",
+      "number": 7,
+      "content": "“Sao ông này lại dám nói như vậy ? Ông ta nói phạm thượng ! Ai có quyền tha tội, ngoài một mình Thiên Chúa ?”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.037Z",
+      "updatedAt": "2024-09-10T01:17:00.037Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "1cbbd5e9-027e-4337-b63d-9a60fab66f19",
+      "number": 8,
+      "content": "Tâm trí Đức Giê-su thấu biết ngay họ đang thầm nghĩ như thế, Người mới bảo họ : “Sao trong bụng các ông lại nghĩ những điều ấy ?",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.040Z",
+      "updatedAt": "2024-09-10T01:17:00.040Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "e493e13b-3d9e-4946-bb5e-f9a0ec6d9dd5",
+      "number": 9,
+      "content": "Trong hai điều : một là bảo người bại liệt : ‘Con đã được tha tội rồi’, hai là bảo : ‘Đứng dậy, vác lấy chõng của con mà đi’, điều nào dễ hơn ?",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.042Z",
+      "updatedAt": "2024-09-10T01:17:00.042Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "a7cd0ef2-65dd-4c3f-98ee-b51cd3f82108",
+      "number": 10,
+      "content": "Vậy, để các ông biết : ở dưới đất này, Con Người có quyền tha tội, –Đức Giê-su bảo người bại liệt–",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.044Z",
+      "updatedAt": "2024-09-10T01:17:00.044Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "7e1beb22-8494-4d2b-aaeb-f1a5d66afaf6",
+      "number": 11,
+      "content": "Ta truyền cho con : Hãy đứng dậy, vác lấy chõng của con mà đi về nhà !”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.048Z",
+      "updatedAt": "2024-09-10T01:17:00.048Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "2c6f62f1-db9b-421e-82aa-01060e77646c",
+      "number": 12,
+      "content": "Người bại liệt đứng dậy, và lập tức vác chõng đi ra trước mặt mọi người, khiến ai nấy đều sửng sốt và tôn vinh Thiên Chúa. Họ bảo nhau : “Chúng ta chưa thấy vậy bao giờ !”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 11,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.050Z",
+      "updatedAt": "2024-09-10T01:17:00.050Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "97e2febb-c874-4346-8772-13cc876c58d3",
+      "number": 13,
+      "content": "Đức Giê-su lại đi ra bờ Biển Hồ. Toàn thể dân chúng đến với Người, và Người dạy dỗ họ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.052Z",
+      "updatedAt": "2024-09-10T01:17:00.052Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "a56195f6-049f-4634-82a3-84748d4d9a50",
+      "number": 14,
+      "content": "Đi ngang qua trạm thu thuế, Người thấy ông Lê-vi là con ông An-phê, đang ngồi ở đó. Người bảo ông : “Anh hãy theo tôi !” Ông đứng dậy đi theo Người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.058Z",
+      "updatedAt": "2024-09-10T01:17:00.058Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "f39d8ad0-d267-47b4-929f-1eeb16c22ab1",
+      "number": 15,
+      "content": "Người đến dùng bữa tại nhà ông. Nhiều người thu thuế và người tội lỗi cùng ăn với Đức Giê-su và các môn đệ : con số họ đông và họ đi theo Người.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.060Z",
+      "updatedAt": "2024-09-10T01:17:00.060Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "34f30edb-8ad7-440e-bd81-1b1357fdd97e",
+      "number": 16,
+      "content": "Những kinh sư thuộc nhóm Pha-ri-sêu thấy Người ăn uống với những kẻ tội lỗi và người thu thuế, thì nói với các môn đệ Người : “Sao ! Ông ấy ăn uống với bọn thu thuế và quân tội lỗi !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.066Z",
+      "updatedAt": "2024-09-10T01:17:00.066Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "4b34dde9-f990-44e4-bd82-39789f98c2e7",
+      "number": 17,
+      "content": "Nghe thấy thế, Đức Giê-su nói với họ : “Người khoẻ mạnh không cần thầy thuốc, người đau ốm mới cần. Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.068Z",
+      "updatedAt": "2024-09-10T01:17:00.068Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "e001164f-f02d-4469-b1a1-e7ce0d69ed63",
+      "number": 18,
+      "content": "Bấy giờ các môn đệ ông Gio-an và các người Pha-ri-sêu đang ăn chay ; có người đến hỏi Đức Giê-su : “Tại sao các môn đệ ông Gio-an và các môn đệ người Pha-ri-sêu ăn chay, mà môn đệ ông lại không ăn chay ?”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.072Z",
+      "updatedAt": "2024-09-10T01:17:00.072Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "509a41c0-96a9-4790-a9b7-5917dd9d30b1",
+      "number": 19,
+      "content": "Đức Giê-su trả lời : “Chẳng lẽ khách dự tiệc cưới lại có thể ăn chay, khi chàng rể còn ở với họ ? Bao lâu chàng rể còn ở với họ, họ không thể ăn chay được.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.078Z",
+      "updatedAt": "2024-09-10T01:17:00.078Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "1e4c241b-0b28-43d4-a2dc-93f5a54f6e71",
+      "number": 20,
+      "content": "Nhưng khi tới ngày chàng rể bị đem đi rồi, bấy giờ họ mới ăn chay trong ngày đó.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.082Z",
+      "updatedAt": "2024-09-10T01:17:00.082Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "ff634893-b6b6-415c-a97a-c6b893654207",
+      "number": 21,
+      "content": "Chẳng ai lấy vải mới mà vá áo cũ, vì như vậy, miếng vá mới đã vá vào sẽ kéo vải cũ, khiến chỗ rách lại càng rách thêm.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.084Z",
+      "updatedAt": "2024-09-10T01:17:00.084Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "0a1b9aa2-1b60-404e-9694-158b08d61fad",
+      "number": 22,
+      "content": "Cũng không ai đổ rượu mới vào bầu da cũ, vì như vậy, rượu sẽ làm nứt bầu, thế là rượu cũng mất mà bầu cũng hư. Nhưng rượu mới, bầu cũng phải mới !”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.087Z",
+      "updatedAt": "2024-09-10T01:17:00.087Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "f2d7421c-10e4-4bb7-b9d7-f4a546b721ef",
+      "number": 23,
+      "content": "Vào ngày sa-bát, Đức Giê-su đi băng qua một cánh đồng lúa. Dọc đường, các môn đệ bắt đầu bứt lúa.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.089Z",
+      "updatedAt": "2024-09-10T01:17:00.089Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "b21daf5c-aaf3-40bf-93e6-853b17fef2c8",
+      "number": 24,
+      "content": "Người Pha-ri-sêu liền nói với Đức Giê-su : “Ông coi, ngày sa-bát mà họ làm gì kia ? Điều ấy đâu được phép !”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.099Z",
+      "updatedAt": "2024-09-10T01:17:00.099Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "b1c138ec-6514-43c5-8e68-c2545e6c010f",
+      "number": 25,
+      "content": "Người đáp : “Các ông chưa bao giờ đọc trong Sách sao ? Ông Đa-vít đã làm gì, khi ông và thuộc hạ bị thiếu thốn và đói bụng ?",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.101Z",
+      "updatedAt": "2024-09-10T01:17:00.101Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "41bdb709-c327-47aa-89f2-6dd004abcd8d",
+      "number": 26,
+      "content": "Dưới thời thượng tế A-bi-a-tha, ông vào nhà Thiên Chúa, ăn bánh tiến, rồi còn cho cả thuộc hạ ăn nữa. Thứ bánh này không ai được phép ăn ngoại trừ tư tế.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.104Z",
+      "updatedAt": "2024-09-10T01:17:00.104Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "9c1cd2d7-0f7b-4036-821f-0648141e2745",
+      "number": 27,
+      "content": "Người nói tiếp : “Ngày sa-bát được tạo nên cho con người, chứ không phải con người cho ngày sa-bát.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.107Z",
+      "updatedAt": "2024-09-10T01:17:00.107Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "1c671323-fb86-4fd4-aef6-df6fab54f84b",
+      "number": 28,
+      "content": "Bởi đó, Con Người làm chủ luôn cả ngày sa-bát.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:17:00.110Z",
+      "updatedAt": "2024-09-10T01:17:00.110Z",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "131a2593-43da-49bc-ab48-07109a65b72d",
+      "content": "Ở đây, bắt đầu năm cuộc tranh luận tại Ca-phác-na-um (2,1 – 3,6) : với các kinh sư (2,6.16) hoặc với những người Pha-ri-sêu (2,24 ; 3,6). Năm cuộc tranh luận đó không chỉ liên quan đến những vấn đề lý thuyết, nhưng phát xuất từ những sự kiện cụ thể : <b>1</b>. 2,1-12 ; <b>2</b>. 2,13-17 ; <b>3</b>. 2,18-22 ; <b>4</b>. 2,23-28 ; <b>5</b>. 3,1-6. Trong năm trình thuật này, tác giả đặt trọng tâm vào năm lời của Đức Giê-su (2,10.17.19.28 ; 3,4) diễn tả ý nghĩa sứ mạng của Người.",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.025Z",
+      "updatedAt": "2024-09-10T01:17:00.025Z",
+      "verseId": "d43ea4fd-aa09-4365-87af-9f91bfbac582",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "d60dabce-0cd6-485d-a05c-7fcd5093f97b",
+      "content": "Khi dùng tước hiệu <i>Con Người</i> ở đây, chắc tác giả nghĩ tới nhân vật cánh chung được nói đến trong Đn 7,13-14 : Con Người ngự giá mây trời mà đến, nhận được quyền bính, quyền thống trị mọi dân nước (x. Mc 13,26 ; 14,62). Ở đây, vì là <i>Con Người</i> một ngày kia sẽ vinh quang ngự đến, Đức Giê-su có quyền trên nhân loại, có quyền ban ân xá cho loài người, có quyền tha tội. Từ bây giờ, quyền đó hiện diện nơi Người không phải dưới hình thức án xử, nhưng dưới hình thức ân sủng đem lại ơn tha tội. Bệnh tật thể xác, ở đây bệnh bại liệt, là dấu chỉ tội lỗi. Như thế, chữa bệnh bại liệt là phá tan tội lỗi, là tha tội lỗi cho tội nhân.",
+      "position": 65,
+      "order": 1,
+      "createdAt": "2024-09-10T01:17:00.046Z",
+      "updatedAt": "2024-09-10T01:17:00.046Z",
+      "verseId": "a7cd0ef2-65dd-4c3f-98ee-b51cd3f82108",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "96d0509c-a4bf-44a7-9f9a-ef52de6300a8",
+      "content": "Khi nói về <i>người khoẻ mạnh</i>, <i>người công chính</i>, Đức Giê-su ám chỉ cách mỉa mai các kinh sư và các người Pha-ri-sêu. Họ tự cho mình là những <i>người khoẻ mạnh</i>, những <i>người công chính</i>, nghĩa là những người không cần đến thầy thuốc, không cần đến Đấng giải thoát khỏi tội lỗi và ban ơn công chính hoá, những người khép kín tâm hồn trước tác động cứu độ của Thiên Chúa. Đối với các người tội lỗi, Đức Giê-su tỏ mình là Thầy Thuốc đến cứu chữa tâm hồn của họ.",
+      "position": 170,
+      "order": 2,
+      "createdAt": "2024-09-10T01:17:00.070Z",
+      "updatedAt": "2024-09-10T01:17:00.070Z",
+      "verseId": "4b34dde9-f990-44e4-bd82-39789f98c2e7",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "e21332c7-9e7d-44ca-b35f-726ab062aaf4",
+      "content": "Đối với người phương Đông, hôn lễ là thời gian đặc biệt chan chứa niềm vui. Những người khách, cách riêng những bạn hữu của chú rể, phải góp phần tạo niềm vui, chung nỗi hân hoan của đôi tân hôn. Ở đây, hôn lễ là hình ảnh chỉ thời cứu độ, như đã chép trong sách I-sai-a (62,5 ; x. 61,10). Chắc ở đây, Mc muốn nói tới thời cứu độ mang lại niềm vui, thời trong đó Thiên Chúa hứa ban hạnh phúc được thực hiện. Đức Giê-su đến khai mạc thời mới đó, thời cánh chung. Có Đức Giê-su hiện diện, các môn đệ cũng phải toả niềm vui cứu độ đó (2,19). Thời nằm giữa cái chết của Đức Giê-su (2,20) và tận thế được coi như một thời tang chế, thời ăn chay. Hai dụ ngôn nhỏ (2,21-22) được ghép vào đây cho thấy : thời mới đó, thời cánh chung, có những định luật mới. Đức Giê-su đem vào thế giới này một cái gì hoàn toàn mới, không thể đi đôi với trật tự cũ. <i>Vải mới</i> (2,21), <i>rượu mới</i> (2,22) chỉ Tin Mừng. Tin Mừng không thể đi đôi với những gì thuộc quá khứ. Có lẽ <i>vải cũ</i>, <i>bầu da cũ</i> chỉ những thực hành cũ kỹ của đạo Do-thái. Như thế, chắc phải hiểu : thông điệp của Đức Giê-su, Tin Mừng Người rao giảng, không phải là một cuộc tiến hoá hay một sự khai triển của đạo Do-thái, nhưng là một khởi điểm mới.",
+      "position": 95,
+      "order": 3,
+      "createdAt": "2024-09-10T01:17:00.080Z",
+      "updatedAt": "2024-09-10T01:17:00.080Z",
+      "verseId": "509a41c0-96a9-4790-a9b7-5917dd9d30b1",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "85a4b077-9fc5-4c5a-bc6d-b7a9b27974e8",
+      "content": "Đoạn Mc 2,23-28 trình bày cho độc giả cuộc tranh luận thứ tư. Tranh chấp xảy ra sau khi các môn đệ bứt bông lúa. Quả thật, việc bứt bông lúa được coi như việc gặt hái, và gặt hái là một trong ba mươi chín việc cấm làm trong ngày sa-bát, theo truyền thống Do-thái. Như thế, người Pha-ri-sêu cho rằng các môn đệ đã vi phạm luật giữ ngày sa-bát. Trong 1 Sm 21,1-7, theo lẽ thường, vua Đa-vít đã vi phạm luật tế tự. Nhưng nhiệm vụ duy trì sự sống phá huỷ hiệu lực pháp lý của luật đó. Ở đây cũng vậy. Do đó, không còn phải giữ ngày sa-bát, nếu việc giữ ngày sa-bát gây thiệt hại nặng cho con người (c.27b). Trong trình thuật, các người Pha-ri-sêu tố cáo các môn đệ (c.24), còn Đức Giê-su lại tỏ mình là Chúa mang nơi mình quyền năng cứu độ. Quyền năng này hiện tỏ trong hai câu có tước hiệu <i>Con Người</i> : tha tội (2,10) và giải thoát lương tâm khỏi sự hẹp hòi của loài người (2,28).",
+      "position": 57,
+      "order": 4,
+      "createdAt": "2024-09-10T01:17:00.096Z",
+      "updatedAt": "2024-09-10T01:17:00.096Z",
+      "verseId": "f2d7421c-10e4-4bb7-b9d7-f4a546b721ef",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    }
+  ],
+  "headings": [
+    {
+      "id": "0785716b-36b4-4c33-b717-dc2d4205fbae",
+      "content": "Đức Giê-su chữa người bại liệt",
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.020Z",
+      "updatedAt": "2024-09-10T01:17:00.020Z",
+      "verseId": "d43ea4fd-aa09-4365-87af-9f91bfbac582",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "25508847-3e90-435c-a86a-0421c375573e",
+      "content": "Đức Giê-su kêu gọi ông Lê-vi",
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.054Z",
+      "updatedAt": "2024-09-10T01:17:00.054Z",
+      "verseId": "97e2febb-c874-4346-8772-13cc876c58d3",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "45c1e26e-d10b-4cf5-8f65-e5bac22b81d4",
+      "content": "Đức Giê-su dùng bữa với những người tội lỗi",
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.062Z",
+      "updatedAt": "2024-09-10T01:17:00.062Z",
+      "verseId": "f39d8ad0-d267-47b4-929f-1eeb16c22ab1",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "b349b85a-b573-4d0a-8520-577a685e2af5",
+      "content": "Tranh luận về việc ăn chay",
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.074Z",
+      "updatedAt": "2024-09-10T01:17:00.074Z",
+      "verseId": "e001164f-f02d-4469-b1a1-e7ce0d69ed63",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "4dd9c449-12a6-49b9-9d54-0586b37f2877",
+      "content": "Các môn đệ bứt lúa",
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.091Z",
+      "updatedAt": "2024-09-10T01:17:00.091Z",
+      "verseId": "f2d7421c-10e4-4bb7-b9d7-f4a546b721ef",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    }
+  ],
+  "references": [
+    {
+      "id": "5f79ab34-e8d9-49e1-aea7-1038a7ae19f8",
+      "content": "Mt 9,1-8; Lc 5,17-26",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T01:17:00.023Z",
+      "updatedAt": "2024-09-10T01:17:00.023Z",
+      "headingId": "0785716b-36b4-4c33-b717-dc2d4205fbae",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "e23aa11b-0bc2-4818-9a9a-11d2b6bd8419",
+      "content": "Mt 9,9; Lc 5,27-28",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T01:17:00.056Z",
+      "updatedAt": "2024-09-10T01:17:00.056Z",
+      "headingId": "25508847-3e90-435c-a86a-0421c375573e",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "ffbf124b-9ce3-4721-ab89-ece85dc0a581",
+      "content": "Mt 9,10-13; Lc 5,29-32",
+      "position": 0,
+      "order": 2,
+      "createdAt": "2024-09-10T01:17:00.064Z",
+      "updatedAt": "2024-09-10T01:17:00.064Z",
+      "headingId": "45c1e26e-d10b-4cf5-8f65-e5bac22b81d4",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "4dc2750a-3ceb-4462-b25b-230df1eba858",
+      "content": "Mt 9,14-17; Lc 5,33-35",
+      "position": 0,
+      "order": 3,
+      "createdAt": "2024-09-10T01:17:00.076Z",
+      "updatedAt": "2024-09-10T01:17:00.076Z",
+      "headingId": "b349b85a-b573-4d0a-8520-577a685e2af5",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    },
+    {
+      "id": "64f65271-64f8-44a4-8c35-4d63496e74f3",
+      "content": "Mt 12,1-8; Lc 6,1-5",
+      "position": 0,
+      "order": 4,
+      "createdAt": "2024-09-10T01:17:00.093Z",
+      "updatedAt": "2024-09-10T01:17:00.093Z",
+      "headingId": "4dd9c449-12a6-49b9-9d54-0586b37f2877",
+      "chapterId": "09ca91d7-2109-4628-bdc4-1b0b2391527b"
+    }
+  ]
+}

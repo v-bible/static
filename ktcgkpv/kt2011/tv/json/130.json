@@ -1,0 +1,305 @@
+{
+  "chapter": {
+    "id": "e8100f10-85f0-49a6-b91a-bf6e75db2336",
+    "number": 130,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "9448e2ad-382b-49b4-ab91-4666bfadbc55",
+      "number": 1,
+      "content": "Ca khúc lên Đền.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:29:46.601Z",
+      "updatedAt": "2024-09-10T04:29:46.601Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "e9294a0a-af99-4958-bd63-874bdf06548c",
+      "number": 2,
+      "content": "Từ vực thẳm, con kêu lên Ngài, lạy CHÚA,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.616Z",
+      "updatedAt": "2024-09-10T04:29:46.616Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "910c5a17-211d-4696-9d8b-eea8b7467851",
+      "number": 2,
+      "content": "muôn lạy Chúa, xin Ngài nghe tiếng con.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.622Z",
+      "updatedAt": "2024-09-10T04:29:46.622Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "a35f43f8-cb41-4e72-8f7a-984a35d01779",
+      "number": 2,
+      "content": "Dám xin Ngài lắng tai để ý",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.625Z",
+      "updatedAt": "2024-09-10T04:29:46.625Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "8b4c0cb0-4173-4b6f-8ddd-337c4801621b",
+      "number": 2,
+      "content": "nghe lời con tha thiết nguyện cầu.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.628Z",
+      "updatedAt": "2024-09-10T04:29:46.628Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "97c3e124-124c-4104-b6ac-dc1fcd77d139",
+      "number": 3,
+      "content": "Ôi lạy CHÚA, nếu như Ngài chấp tội,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.630Z",
+      "updatedAt": "2024-09-10T04:29:46.630Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "11bde5ab-fe6a-4535-9ba5-ac03fa47c38e",
+      "number": 3,
+      "content": "nào có ai đứng vững được chăng ?",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.633Z",
+      "updatedAt": "2024-09-10T04:29:46.633Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "401c0595-44dc-48aa-a78a-1f3b33ff3dfb",
+      "number": 4,
+      "content": "Nhưng Chúa vẫn rộng lòng tha thứ",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.636Z",
+      "updatedAt": "2024-09-10T04:29:46.636Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "9e15b930-e017-4fac-800a-64acfbbcce9a",
+      "number": 4,
+      "content": "để chúng con biết kính sợ Ngài.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.638Z",
+      "updatedAt": "2024-09-10T04:29:46.638Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "98855715-1e47-4350-98e7-a31b01d51d1a",
+      "number": 5,
+      "content": "Mong đợi CHÚA, tôi hết lòng mong đợi,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.641Z",
+      "updatedAt": "2024-09-10T04:29:46.641Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "25e3583b-3d87-4757-ae2b-ae4696e99ec5",
+      "number": 5,
+      "content": "cậy trông ở lời Người.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.643Z",
+      "updatedAt": "2024-09-10T04:29:46.643Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "29ac6cce-16d5-4921-a381-c10db03bfd38",
+      "number": 6,
+      "content": "Hồn tôi trông chờ Chúa,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.648Z",
+      "updatedAt": "2024-09-10T04:29:46.648Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "7132ccee-693b-4d97-a3d4-04fbeb958272",
+      "number": 6,
+      "content": "hơn lính canh mong đợi hừng đông.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.650Z",
+      "updatedAt": "2024-09-10T04:29:46.650Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "caae38e9-9348-4a57-8eb7-be8ef3446815",
+      "number": 6,
+      "content": "Hơn lính canh mong đợi hừng đông,",
+      "order": 2,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.653Z",
+      "updatedAt": "2024-09-10T04:29:46.653Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "ef7e4dcf-2e59-45d9-b130-0769ff65487b",
+      "number": 7,
+      "content": "trông cậy CHÚA đi, Ít-ra-en hỡi,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.655Z",
+      "updatedAt": "2024-09-10T04:29:46.655Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "31bbbe68-9417-4b89-935b-6a51df0c5c07",
+      "number": 7,
+      "content": "bởi CHÚA luôn từ ái một niềm,",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.660Z",
+      "updatedAt": "2024-09-10T04:29:46.660Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "a8bd8727-6a64-420e-8d39-0bafdaf4e8da",
+      "number": 7,
+      "content": "ơn cứu chuộc nơi Người chan chứa.",
+      "order": 2,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.662Z",
+      "updatedAt": "2024-09-10T04:29:46.662Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "8ff24199-7b25-43dd-9b4e-c138e6e5c0fa",
+      "number": 8,
+      "content": "Chính Người sẽ cứu chuộc Ít-ra-en",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.667Z",
+      "updatedAt": "2024-09-10T04:29:46.667Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "0cc9e9ab-82d9-4281-8599-72160edc80c4",
+      "number": 8,
+      "content": "cho thoát khỏi tội khiên muôn vàn.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:29:46.670Z",
+      "updatedAt": "2024-09-10T04:29:46.670Z",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "79d50879-5ee0-4edf-a2e2-3ea39e1137e3",
+      "content": "<i>Ai ca này của cá nhân</i> là Tv sám hối thứ sáu trong bảy Tv. Từ vực thẳm tội lỗi, tác giả hết lòng mong đợi ơn tha thứ của Thiên Chúa và đặt niềm trông cậy ở nơi Người là Đấng nhân hậu từ ái (“hïesed” : c.7) sẽ thực hiện công cuộc cứu chuộc cho tín hữu và cộng đoàn Ít-ra-en (cc. 7-8). Trong phụng vụ cầu cho các tín hữu đã qua đời, Tv này là lời cầu nguyện diễn tả niềm cậy trông vào Thiên Chúa là Đấng cứu chuộc loài người. Cấu trúc : <b>1</b>) Lời khẩn cầu dâng lên Chúa trong cảnh khốn cùng (cc. 1-2) ; <b>2</b>) Niềm tin tưởng đặt vào Chúa là Đấng sẵn sàng ban ơn tha thứ (cc. 3-4) ; <b>3</b>) Nỗi chờ mong ơn cứu chuộc phát xuất từ Chúa là Đấng đầy lòng nhân hậu (cc. 5-8).",
+      "position": 34,
+      "order": 0,
+      "createdAt": "2024-09-10T04:29:46.613Z",
+      "updatedAt": "2024-09-10T04:29:46.613Z",
+      "headingId": "e304bfdc-cfc2-4e32-95ab-8795911d991b",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "f05ac8aa-602e-47e8-b396-6f742e1deccf",
+      "content": "<i>Vực thẳm</i> chỉ dòng nước sâu thẳm (x. Tv 18,5 ; Tv 69,2-3.15) hoặc cõi âm ty (Tv 18,6 ; 30,4 ; 116,3 ; Gn 2,3). Đó là hai cách diễn tả hiểm hoạ lớn có thể đưa tới cái chết hoặc tình trạng cùng quẫn của tội nhân. Nghĩa sau cùng này có lẽ là nghĩa thích hợp ở đây (x. Gn 2,3a).",
+      "position": 11,
+      "order": 1,
+      "createdAt": "2024-09-10T04:29:46.618Z",
+      "updatedAt": "2024-09-10T04:29:46.618Z",
+      "verseId": "e9294a0a-af99-4958-bd63-874bdf06548c",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "21bfe652-59ba-477a-8704-272ad9840748",
+      "content": "<i>Ơn cứu chuộc</i> = “<span class=\"hebrew-translit\">PüDût</span>” do “<span class=\"hebrew-translit\">Pädâ</span>” có nghĩa là <i>chuộc lại, giải thoát, cứu độ</i>.",
+      "position": 12,
+      "order": 2,
+      "createdAt": "2024-09-10T04:29:46.665Z",
+      "updatedAt": "2024-09-10T04:29:46.665Z",
+      "verseId": "a8bd8727-6a64-420e-8d39-0bafdaf4e8da",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    }
+  ],
+  "headings": [
+    {
+      "id": "e304bfdc-cfc2-4e32-95ab-8795911d991b",
+      "content": "Tv 130 (129) Tiếng kêu từ vực thẳm",
+      "order": 0,
+      "createdAt": "2024-09-10T04:29:46.611Z",
+      "updatedAt": "2024-09-10T04:29:46.611Z",
+      "verseId": "9448e2ad-382b-49b4-ab91-4666bfadbc55",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    }
+  ],
+  "references": [
+    {
+      "id": "a76249d9-0426-4e8e-8cab-3dcc58a1769f",
+      "content": "Gn 2,3",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:29:46.620Z",
+      "updatedAt": "2024-09-10T04:29:46.620Z",
+      "verseId": "e9294a0a-af99-4958-bd63-874bdf06548c",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    },
+    {
+      "id": "7b81a8e9-ac67-48dc-93ea-aac3f3955421",
+      "content": "Tv 131,3",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:29:46.658Z",
+      "updatedAt": "2024-09-10T04:29:46.658Z",
+      "verseId": "ef7e4dcf-2e59-45d9-b130-0769ff65487b",
+      "chapterId": "e8100f10-85f0-49a6-b91a-bf6e75db2336"
+    }
+  ]
+}

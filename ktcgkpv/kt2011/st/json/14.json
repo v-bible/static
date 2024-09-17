@@ -1,0 +1,532 @@
+{
+  "chapter": {
+    "id": "8e63cf7d-7adc-4346-9727-96099cae0073",
+    "number": 14,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.716Z",
+    "updatedAt": "2024-09-10T00:39:05.716Z",
+    "bookId": "f870e504-49c0-4678-baaf-745836cd635c"
+  },
+  "verses": [
+    {
+      "id": "3cab9dbb-6e07-4060-b4e3-4596a31de8e9",
+      "number": 1,
+      "content": "Thời Am-ra-phen làm vua Sin-a, A-ri-ốc làm vua En-la-xa, Cơ-đo-la-ô-me làm vua Ê-lam và Tít-an làm vua Gô-gim,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.911Z",
+      "updatedAt": "2024-09-10T02:00:36.911Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "285a36f2-33a3-4179-9bba-49eb0bc22adf",
+      "number": 2,
+      "content": "các vua này đánh nhau với Be-ra vua Xơ-đôm, Bia-sa vua Gô-mô-ra, Sin-áp vua Át-ma, Sem-ê-ve vua Xơ-vô-gim, và vua thành Be-la, tức là thành Xô-a.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.918Z",
+      "updatedAt": "2024-09-10T02:00:36.918Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "66ce721f-574f-41ff-aad1-c799d08fc9ff",
+      "number": 3,
+      "content": "Tất cả các vua vừa nói tập trung về thung lũng Xít-đim, tức là Biển Muối.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.927Z",
+      "updatedAt": "2024-09-10T02:00:36.927Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "8f49c4f8-78bc-4725-948d-4f340c25c013",
+      "number": 4,
+      "content": "Trong vòng mười hai năm, họ đã làm tôi vua Cơ-đo-la-ô-me, nhưng đến năm thứ mười ba thì họ nổi loạn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.937Z",
+      "updatedAt": "2024-09-10T02:00:36.937Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "cb61d1bf-f91c-43a6-b246-33358e397aa2",
+      "number": 5,
+      "content": "Năm thứ mười bốn, vua Cơ-đo-la-ô-me đến, cùng với các vua về phe ông. Họ đánh bại người Ra-pha tại Át-ta-rốt Các-na-gim, người Du-dim tại Ham, người Ê-mim tại Sa-vê Kia-gia-tha-gim",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.942Z",
+      "updatedAt": "2024-09-10T02:00:36.942Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "772f4817-ac8b-4c5f-a4c4-050010ae8142",
+      "number": 6,
+      "content": "và người Khô-ri ở vùng núi của họ tại Xê-ia, đến tận En Pa-ran, gần sa mạc.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.952Z",
+      "updatedAt": "2024-09-10T02:00:36.952Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "1e50f8f2-faec-4553-956c-5804da2c8ba0",
+      "number": 7,
+      "content": "Rồi họ quay lại, đến Ên Mít-pát, tức là Ca-đê, và tàn phá toàn thể lãnh thổ người A-ma-lếch và cả người E-mô-ri lập cư ở Khát-xôn Ta-ma.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.961Z",
+      "updatedAt": "2024-09-10T02:00:36.961Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "5a02a6fe-f96a-40c1-a738-a9e68a524f64",
+      "number": 8,
+      "content": "Bấy giờ vua Xơ-đôm, vua Gô-mô-ra, vua Át-ma, vua Xơ-vô-gim và vua Be-la, tức là Xô-a, tiến ra và dàn trận tại thung lũng Xít-đim chống lại các vua kia :",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.976Z",
+      "updatedAt": "2024-09-10T02:00:36.976Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "dc22ac0a-efc7-4ca0-80ab-9e94a7d0cab3",
+      "number": 9,
+      "content": "Cơ-đo-la-ô-me vua Ê-lam, Tít-an vua Gô-gim, Am-ra-phen vua Sin-a và A-ri-ốc vua En-la-xa, bốn vua chống lại năm vua.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.981Z",
+      "updatedAt": "2024-09-10T02:00:36.981Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "f3b8ce48-5ed6-40ca-a5ca-7c13e4ea21a6",
+      "number": 10,
+      "content": "Thung lũng Xít-đim đầy những giếng nhựa đen ; trong khi chạy trốn, vua Xơ-đôm và vua Gô-mô-ra rơi xuống đó, những người còn lại thì trốn lên núi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.987Z",
+      "updatedAt": "2024-09-10T02:00:36.987Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "4f8e27f1-7767-4eac-a3bc-e3644c864856",
+      "number": 11,
+      "content": "Những kẻ thắng trận chiếm đoạt tất cả tài sản của Xơ-đôm và Gô-mô-ra, cũng như tất cả lương thực của họ, rồi đi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.992Z",
+      "updatedAt": "2024-09-10T02:00:36.992Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "8264bf3b-cd36-4bd1-aa2b-b16a5714e28d",
+      "number": 12,
+      "content": "Họ bắt ông Lót, cháu ông Áp-ram, cùng với tài sản của ông, rồi đi ; bấy giờ ông Lót đang ở Xơ-đôm.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:36.997Z",
+      "updatedAt": "2024-09-10T02:00:36.997Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "a306db15-1ac6-4909-a02b-b2769bad5093",
+      "number": 13,
+      "content": "Một người thoát được đến báo tin cho ông Áp-ram, người Híp-ri, bấy giờ đang ở cụm sồi của ông Mam-rê, người E-mô-ri, anh em của ông Ét-côn và ông A-ne ; họ là đồng minh của ông Áp-ram.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.001Z",
+      "updatedAt": "2024-09-10T02:00:37.001Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "3cb180e1-f969-4c1c-9489-2e7c49c5038f",
+      "number": 14,
+      "content": "Khi nghe tin người anh em họ hàng của mình bị bắt, ông Áp-ram liền huy động những người đã được tập luyện, là các tôi tớ sinh ra trong nhà ông, đến ba trăm mười tám người, và đuổi theo đến tận Đan.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.011Z",
+      "updatedAt": "2024-09-10T02:00:37.011Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "7ffe2d92-f561-40ef-9e04-9f056f2f2572",
+      "number": 15,
+      "content": "Ông và các tôi tớ của ông chia nhau ra tấn công họ vào ban đêm, đánh bại họ và đuổi theo đến tận Khô-va ở phía bắc Đa-mát.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.014Z",
+      "updatedAt": "2024-09-10T02:00:37.014Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "835cc6ce-671a-4c9e-8ab4-81e6e5666176",
+      "number": 16,
+      "content": "Ông đưa tất cả tài sản về ; ông đưa cả ông Lót, người anh em họ hàng của ông, và tài sản của ông ấy về, cũng như các phụ nữ và dân chúng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.017Z",
+      "updatedAt": "2024-09-10T02:00:37.017Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "bc191625-d137-4e37-a0ff-0b312ad9d1e2",
+      "number": 17,
+      "content": "Sau khi đánh bại vua Cơ-đo-la-ô-me và các vua cùng phe, ông Áp-ram trở về. Bấy giờ vua thành Xơ-đôm ra đón ông tại thung lũng Sa-vê, tức là thung lũng Nhà Vua.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.020Z",
+      "updatedAt": "2024-09-10T02:00:37.020Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "e3afb020-e7a2-47e3-865d-a83414341850",
+      "number": 18,
+      "content": "Ông Men-ki-xê-đê, vua thành Sa-lem, mang bánh và rượu ra ; ông là tư tế của Thiên Chúa Tối Cao.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.029Z",
+      "updatedAt": "2024-09-10T02:00:37.029Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "f5d9b298-0789-497e-b51a-0588b33784f4",
+      "number": 19,
+      "content": "Ông chúc phúc cho ông Áp-ram và nói :",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.036Z",
+      "updatedAt": "2024-09-10T02:00:37.036Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "f8247f00-4d9d-4af2-a5da-c68240fb29b3",
+      "number": 19,
+      "content": "“Xin Thiên Chúa Tối Cao, Đấng dựng nên trời đất,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:00:37.040Z",
+      "updatedAt": "2024-09-10T02:00:37.040Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "041e1e58-e937-4a37-9c8f-cb7eed622b61",
+      "number": 19,
+      "content": "chúc phúc cho Áp-ram !",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:00:37.043Z",
+      "updatedAt": "2024-09-10T02:00:37.043Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "b0e60d54-25d3-4c84-88d0-4e187897e009",
+      "number": 20,
+      "content": "Chúc tụng Thiên Chúa Tối Cao,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:00:37.045Z",
+      "updatedAt": "2024-09-10T02:00:37.045Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "fb700e6d-cf91-4424-8c0b-619faf8152c4",
+      "number": 20,
+      "content": "Đấng đã trao vào tay ông những thù địch của ông !”",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:00:37.047Z",
+      "updatedAt": "2024-09-10T02:00:37.047Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "770f5b4f-6d35-4a3a-b0dd-8bff07260bd6",
+      "number": 21,
+      "content": "Rồi ông Áp-ram biếu ông Men-ki-xê-đê một phần mười tất cả chiến lợi phẩm.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.050Z",
+      "updatedAt": "2024-09-10T02:00:37.050Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "99f2a796-e44e-4c55-9e36-eb45a06ec201",
+      "number": 21,
+      "content": "Vua Xơ-đôm nói với ông Áp-ram : “Người, thì xin ông cho lại tôi ; còn tài sản, ông cứ lấy.”",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.061Z",
+      "updatedAt": "2024-09-10T02:00:37.061Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "b135b78a-9709-48b4-826c-eb5e295237ed",
+      "number": 22,
+      "content": "Ông Áp-ram nói với vua Xơ-đôm : “Tôi xin giơ tay lên ĐỨC CHÚA, Thiên Chúa Tối Cao, Đấng dựng nên trời đất, mà thề :",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.063Z",
+      "updatedAt": "2024-09-10T02:00:37.063Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "cef815a5-83ea-4e74-8fa3-aeb7ebcd69ad",
+      "number": 23,
+      "content": "‘Dù một sợi chỉ, dù một quai dép, bất cứ cái gì của ông, tôi cũng không lấy.’ Ông sẽ không có thể nói : ‘Tôi đã làm giàu cho ông Áp-ram.’",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.065Z",
+      "updatedAt": "2024-09-10T02:00:37.065Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "ff31e0d9-16aa-47f5-87d2-b3a7643c54d9",
+      "number": 24,
+      "content": "Tôi không lấy gì cả, chỉ trừ những gì các người trai tráng của tôi đã ăn. Còn những người đã đi với tôi, là A-ne, Ét-côn và Mam-rê, họ sẽ lấy phần của họ.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:00:37.069Z",
+      "updatedAt": "2024-09-10T02:00:37.069Z",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "d8d12011-5b16-48c8-b4bf-67b0c36dcaaa",
+      "content": "Có nhiều truyền thống khác nhau đứng đàng sau chương này, và người ta cũng không nhất trí định thời gian được cho tài liệu phức tạp này. Nội dung chính gồm 2 việc : 1) Cuộc viễn chinh của mấy ông vua liên minh với nhau đánh phá vùng Pa-lét-tin vào thiên niên kỷ II tCN, mà bằng chứng có thể là các bản văn ở Ma-ri bên sông Êu-phơ-rát. 2) Cuộc gặp gỡ giữa tổ phụ Áp-ram với ông vua / tư tế thành Sa-lem (hẳn là Giê-ru-sa-lem) sau việc giải thoát ông Lót. – Tác giả câu truyện muốn cho ta thấy : ông Áp-ram đã từng can dự vào những biến cố có tầm cỡ quốc tế của lịch sử thời xưa như thế nào ; đây là dịp để đề cao con người Áp-ram tài ba cả trong lãnh vực quân sự. Cuối cùng, hẳn là câu truyện còn hàm ý nêu rõ những liên hệ rất xa xưa của dân tộc Ít-ra-en với Giê-ru-sa-lem.",
+      "position": 27,
+      "order": 0,
+      "createdAt": "2024-09-10T02:00:36.916Z",
+      "updatedAt": "2024-09-10T02:00:36.916Z",
+      "headingId": "3b7053df-777b-40a4-8446-9d4041e6f952",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "4b1fb953-536d-42e2-93a9-beda8ca02a19",
+      "content": "Người ta không nhận diện chính xác được các nhân vật trong liên minh quân sự này ; chỉ biết rằng tên của họ tương đương với một số tên các vua thuộc Đông Phương cổ xưa. Ông Tít-an chẳng hạn, phải chăng chính là một ông vua người Khết mang tên Tu-đa-li-gia của tài liệu ngoài Sách Thánh ? Về các vua bị đánh bại, lại càng khó xác định hơn ; có lẽ họ chỉ mang những tên tượng trưng mà thôi.",
+      "position": 144,
+      "order": 1,
+      "createdAt": "2024-09-10T02:00:36.922Z",
+      "updatedAt": "2024-09-10T02:00:36.922Z",
+      "verseId": "285a36f2-33a3-4179-9bba-49eb0bc22adf",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "fe799ccf-ba6c-4bbd-ae2f-1721354f7693",
+      "content": "<i>Thung lũng Xít-đim</i> : địa danh chỉ thấy ở đây thôi. Theo chỉ dẫn, đó là phía nam Biển Chết, sau này bị chìm xuống nước.",
+      "position": 72,
+      "order": 2,
+      "createdAt": "2024-09-10T02:00:36.932Z",
+      "updatedAt": "2024-09-10T02:00:36.932Z",
+      "verseId": "66ce721f-574f-41ff-aad1-c799d08fc9ff",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "be17278b-9e32-4761-8ac3-fcda599ff223",
+      "content": "Bốn sắc dân kể trong cc. 5-6 đều mang tên huyền thoại ở bên kia sông Gio-đan ; các thành họ cư ngụ nằm rải rác trên trục lộ chính dẫn xuống Biển Đỏ.",
+      "position": 74,
+      "order": 3,
+      "createdAt": "2024-09-10T02:00:36.956Z",
+      "updatedAt": "2024-09-10T02:00:36.956Z",
+      "verseId": "772f4817-ac8b-4c5f-a4c4-050010ae8142",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "acf4fbda-6da1-472c-bcb7-f44780145355",
+      "content": "Ông Áp-ram ở đây được xác định là “người Híp-ri”. Danh xưng này chỉ một nhóm dân bao quát hơn những người Ít-ra-en sát chữ. Chắc hẳn, thuở đầu “Híp-ri” mang ý nghĩa xã hội hơn là chủng tộc. HL dịch “Híp-ri” là “người từ bên kia sông Cả” (x. St 10,21).",
+      "position": 61,
+      "order": 4,
+      "createdAt": "2024-09-10T02:00:37.005Z",
+      "updatedAt": "2024-09-10T02:00:37.005Z",
+      "verseId": "a306db15-1ac6-4909-a02b-b2769bad5093",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "efb38a17-8c86-4b4e-adf3-2e9b48cbc781",
+      "content": "Rất có thể cc. 18-20 nói về nhân vật Men-ki-xê-đê đã được thêm vào trình thuật nguyên thuỷ, mục đích là để lý giải gốc gác và quyền lợi của hàng tư tế trong luật Ít-ra-en sau này. Quả thế, ba câu này đột ngột cắt ngang truyện tiếp xúc giữa ông Áp-ram với vua Xơ-đôm (c.21 đi liền với c.17). Hơn nữa, chi tiết về “ông Áp-ram biếu ông Men-ki-xê-đê một phần mười tất cả chiến lợi phẩm”, không hợp với ý nói ở c.23. Hẳn là chi tiết này muốn ngụ ý về thuế thập phân nộp cho hàng tư tế trong luật Mô-sê sau này.",
+      "position": 16,
+      "order": 5,
+      "createdAt": "2024-09-10T02:00:37.024Z",
+      "updatedAt": "2024-09-10T02:00:37.024Z",
+      "headingId": "aeb676df-e0dc-4d00-9518-4ee113379f9c",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "35251df5-9293-44b7-9fa2-98817a4e5e5d",
+      "content": "Theo Giô-xếp Phơ-la-vi-ô sử gia Do-thái, thung lũng này, cũng như trụ đài của Áp-sa-lôm (2 Sm 18,18) nằm cách Giê-ru-sa-lem hai dặm.",
+      "position": 158,
+      "order": 6,
+      "createdAt": "2024-09-10T02:00:37.026Z",
+      "updatedAt": "2024-09-10T02:00:37.026Z",
+      "verseId": "bc191625-d137-4e37-a0ff-0b312ad9d1e2",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "eea5eb12-39c2-4524-bd5a-aa59172d0271",
+      "content": "Men-ki-xê-đê vừa là vua, vừa là tư tế theo phong tục cổ xưa. Vị thế của ông cho hiểu ông là đệ nhất trong các vua Ca-na-an. Sách Giô-suê (10,1) có nói tới một ông vua Ca-na-an khác của Giê-ru-sa-lem mang tên rất gần với tên Men-ki-xê-đê ở đây. Đó là vua A-đô-ni Xe-đéc. – “Thiên Chúa Tối Cao” (El Elyôn) đã tìm thấy trong các bản văn U-ga-rít như là vị thần chính của dân Ca-na-an, hoặc như là hai vị thần khác nhau tại Phê-ni-xi. Ở đây, người kể truyện ghép hai tên thành một và có ý đưa về Thiên Chúa của tổ phụ Áp-ram.",
+      "position": 34,
+      "order": 7,
+      "createdAt": "2024-09-10T02:00:37.031Z",
+      "updatedAt": "2024-09-10T02:00:37.031Z",
+      "verseId": "e3afb020-e7a2-47e3-865d-a83414341850",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "e320d920-2f73-4a46-827b-08012c50eec7",
+      "content": "Lời chúc phúc, dù do người ta nói lên, luôn luôn có hiệu năng, nghĩa là thể hiện như lời chúc, vì thật ra chính Thiên Chúa là Đấng ban phúc lành như lời cầu chúc. Đối với Thiên Chúa, con người có thể chúc tụng, nghĩa là ca tụng sự cao cả, lòng nhân hậu của Người. Ở đây, ông Men-ki-xê-đê nối kết lời chúc tụng Thiên Chúa với lời chúc phúc cho ông Áp-ram.",
+      "position": 13,
+      "order": 8,
+      "createdAt": "2024-09-10T02:00:37.038Z",
+      "updatedAt": "2024-09-10T02:00:37.038Z",
+      "verseId": "f5d9b298-0789-497e-b51a-0588b33784f4",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "b049758e-9624-4255-bc63-b6c02578e9af",
+      "content": "Với cử chỉ này, tổ phụ Áp-ram nhìn nhận vua Giê-ru-sa-lem thời ấy là tư tế chính thức và cao trọng, lâu trước khi có hàng tư tế A-ha-ron của luật Mô-sê (Hr 7,4-7).",
+      "position": 72,
+      "order": 9,
+      "createdAt": "2024-09-10T02:00:37.055Z",
+      "updatedAt": "2024-09-10T02:00:37.055Z",
+      "verseId": "770f5b4f-6d35-4a3a-b0dd-8bff07260bd6",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "0088b2ab-d9a5-4ac9-962b-2e1582f1fbe1",
+      "content": "Trong hoàn cảnh khác, ông Áp-ram cũng nhận quà người ta tặng cho ông (12,16 ; 20,14-16), nhưng ở đây ông tỏ ra vừa tế nhị vừa hào hiệp : không lấy gì cho bản thân, nhưng nghĩ đến nhu cầu của thuộc hạ.",
+      "position": 153,
+      "order": 10,
+      "createdAt": "2024-09-10T02:00:37.071Z",
+      "updatedAt": "2024-09-10T02:00:37.071Z",
+      "verseId": "ff31e0d9-16aa-47f5-87d2-b3a7643c54d9",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    }
+  ],
+  "headings": [
+    {
+      "id": "3b7053df-777b-40a4-8446-9d4041e6f952",
+      "content": "Cuộc viễn chinh của bốn vua",
+      "order": 0,
+      "createdAt": "2024-09-10T02:00:36.914Z",
+      "updatedAt": "2024-09-10T02:00:36.914Z",
+      "verseId": "3cab9dbb-6e07-4060-b4e3-4596a31de8e9",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "aeb676df-e0dc-4d00-9518-4ee113379f9c",
+      "content": "Ông Men-ki-xê-đê",
+      "order": 0,
+      "createdAt": "2024-09-10T02:00:37.022Z",
+      "updatedAt": "2024-09-10T02:00:37.022Z",
+      "verseId": "bc191625-d137-4e37-a0ff-0b312ad9d1e2",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    }
+  ],
+  "references": [
+    {
+      "id": "97c96e90-5e66-43a0-839a-7c3287ac06e8",
+      "content": "Đnl 2,10",
+      "position": 149,
+      "order": 0,
+      "createdAt": "2024-09-10T02:00:36.947Z",
+      "updatedAt": "2024-09-10T02:00:36.947Z",
+      "verseId": "cb61d1bf-f91c-43a6-b246-33358e397aa2",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "2e219950-3eaf-4151-b0ce-1095514cb4d6",
+      "content": "Xh 17,8",
+      "position": 82,
+      "order": 1,
+      "createdAt": "2024-09-10T02:00:36.966Z",
+      "updatedAt": "2024-09-10T02:00:36.966Z",
+      "verseId": "1e50f8f2-faec-4553-956c-5804da2c8ba0",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "b1d3bb9f-5038-446a-9668-898ad73bac09",
+      "content": "Đnl 7,1",
+      "position": 104,
+      "order": 2,
+      "createdAt": "2024-09-10T02:00:36.971Z",
+      "updatedAt": "2024-09-10T02:00:36.971Z",
+      "verseId": "1e50f8f2-faec-4553-956c-5804da2c8ba0",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "c3c0c4be-d943-4694-8984-a3d770ec5729",
+      "content": "St 13,18",
+      "position": 108,
+      "order": 3,
+      "createdAt": "2024-09-10T02:00:37.009Z",
+      "updatedAt": "2024-09-10T02:00:37.009Z",
+      "verseId": "a306db15-1ac6-4909-a02b-b2769bad5093",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    },
+    {
+      "id": "fad1ecc1-c1cd-455d-9e36-b8f64d758cf1",
+      "content": "Tv 110,4; Hr 5,6",
+      "position": 4,
+      "order": 4,
+      "createdAt": "2024-09-10T02:00:37.033Z",
+      "updatedAt": "2024-09-10T02:00:37.033Z",
+      "verseId": "e3afb020-e7a2-47e3-865d-a83414341850",
+      "chapterId": "8e63cf7d-7adc-4346-9727-96099cae0073"
+    }
+  ]
+}

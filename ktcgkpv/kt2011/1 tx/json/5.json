@@ -1,0 +1,731 @@
+{
+  "chapter": {
+    "id": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2",
+    "number": 5,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.376Z",
+    "updatedAt": "2024-09-10T00:39:05.376Z",
+    "bookId": "31628e58-4767-4a18-89e8-22072f6c16a0"
+  },
+  "verses": [
+    {
+      "id": "65320059-5132-4559-8061-af03f42a8b15",
+      "number": 1,
+      "content": "Thưa anh em, về ngày giờ và thời kỳ Chúa đến, anh em không cần ai viết cho anh em.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.490Z",
+      "updatedAt": "2024-09-10T01:52:05.490Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "09fa0fd7-568a-4882-822b-8b85b9cd84e6",
+      "number": 2,
+      "content": "Vì chính anh em đã biết rõ : ngày của Chúa sẽ đến như kẻ trộm ban đêm.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.505Z",
+      "updatedAt": "2024-09-10T01:52:05.505Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "9735eca0-628d-4939-a245-1832d5db512b",
+      "number": 3,
+      "content": "Khi người ta nói : “Bình an biết bao, yên ổn biết bao !”, thì lúc ấy tai hoạ sẽ thình lình ập xuống, tựa cơn đau chuyển bụng đến với người đàn bà có thai, và sẽ chẳng có ai trốn thoát được.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.509Z",
+      "updatedAt": "2024-09-10T01:52:05.509Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "becfd964-6aee-4599-919f-f13c461d0aaf",
+      "number": 4,
+      "content": "Thưa anh em, anh em không ở trong bóng tối, để ngày ấy như kẻ trộm bắt chợt anh em.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.515Z",
+      "updatedAt": "2024-09-10T01:52:05.515Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "c8f0ad8c-5425-407a-a1b3-476b10267d1d",
+      "number": 5,
+      "content": "Vì tất cả anh em là con cái ánh sáng, con cái của ban ngày. Chúng ta không thuộc về đêm, cũng không thuộc về bóng tối.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.517Z",
+      "updatedAt": "2024-09-10T01:52:05.517Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "a928ac18-76b1-4812-a668-5e6f6f4ebaf6",
+      "number": 6,
+      "content": "Vậy chúng ta đừng ngủ mê như những người khác, nhưng hãy tỉnh thức và sống tiết độ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.527Z",
+      "updatedAt": "2024-09-10T01:52:05.527Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "f129e245-b553-476a-a8db-85c3457d433f",
+      "number": 7,
+      "content": "Ai ngủ, thì ngủ ban đêm ; ai say sưa, thì say sưa ban đêm.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.533Z",
+      "updatedAt": "2024-09-10T01:52:05.533Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "dc87f401-bfa9-43bd-8cde-3c84452f0bd4",
+      "number": 8,
+      "content": "Nhưng chúng ta, chúng ta thuộc về ban ngày, nên hãy sống tiết độ, mặc áo giáp là đức tin và đức mến, đội mũ chiến là niềm hy vọng ơn cứu độ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.535Z",
+      "updatedAt": "2024-09-10T01:52:05.535Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "54a970e0-030c-4162-94ce-d429c811f1fc",
+      "number": 9,
+      "content": "Vì Thiên Chúa đã không định cho chúng ta phải chịu cơn thịnh nộ, nhưng được hưởng ơn cứu độ, nhờ Đức Giê-su Ki-tô, Chúa chúng ta,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.542Z",
+      "updatedAt": "2024-09-10T01:52:05.542Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "dabdddb6-6051-4f51-a47a-8c088ac4ed1b",
+      "number": 10,
+      "content": "Đấng đã chết vì chúng ta, để dầu thức hay ngủ, chúng ta cùng sống với Người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.546Z",
+      "updatedAt": "2024-09-10T01:52:05.546Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "fd468aba-628c-426d-8c01-7019f19982bf",
+      "number": 11,
+      "content": "Vì thế, anh em hãy an ủi nhau và xây dựng cho nhau, như anh em vẫn làm.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.554Z",
+      "updatedAt": "2024-09-10T01:52:05.554Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "6cb89ae3-4b60-46a0-bc8c-7258b2ddb0f7",
+      "number": 12,
+      "content": "Thưa anh em, chúng tôi xin anh em hãy quý trọng những ai đang vất vả vì anh em, để lãnh đạo anh em nhân danh Chúa và khuyên bảo anh em.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.559Z",
+      "updatedAt": "2024-09-10T01:52:05.559Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "3dd33a77-dd2b-44f6-be43-7fa92bff212d",
+      "number": 13,
+      "content": "Hãy lấy tình bác ái mà hết lòng tôn kính những người ấy, vì công việc họ làm. Hãy sống hoà thuận với nhau.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.567Z",
+      "updatedAt": "2024-09-10T01:52:05.567Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "3066795c-76b2-40f0-b774-dbeb10a63e76",
+      "number": 14,
+      "content": "Thưa anh em, chúng tôi khuyên nhủ anh em : hãy khuyên bảo người vô kỷ luật, khích lệ kẻ nhút nhát, nâng đỡ người yếu đuối, và kiên nhẫn với mọi người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.571Z",
+      "updatedAt": "2024-09-10T01:52:05.571Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "4db48034-0133-48e7-9aab-1172e3839602",
+      "number": 15,
+      "content": "Hãy coi chừng : đừng có ai lấy ác báo ác, nhưng hãy luôn luôn cố gắng làm điều thiện cho nhau cũng như cho mọi người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.580Z",
+      "updatedAt": "2024-09-10T01:52:05.580Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "2d8982b0-0889-4676-accd-9a3c825c437e",
+      "number": 16,
+      "content": "Anh em hãy vui mừng luôn mãi",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.584Z",
+      "updatedAt": "2024-09-10T01:52:05.584Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "ab5f426a-4a77-4e65-a4f9-e6e947b45802",
+      "number": 17,
+      "content": "và cầu nguyện không ngừng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.586Z",
+      "updatedAt": "2024-09-10T01:52:05.586Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "9c32902d-1f0f-4eb0-871b-5afb14847f0a",
+      "number": 18,
+      "content": "Hãy tạ ơn trong mọi hoàn cảnh. Anh em hãy làm như vậy, đó là điều Thiên Chúa muốn trong Đức Ki-tô Giê-su.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.591Z",
+      "updatedAt": "2024-09-10T01:52:05.591Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "bcd26491-c63c-4b44-8249-b63e47890114",
+      "number": 19,
+      "content": "Anh em đừng dập tắt Thần Khí.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.597Z",
+      "updatedAt": "2024-09-10T01:52:05.597Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "022faaf3-165f-478b-aad2-6e33cd5e7133",
+      "number": 20,
+      "content": "Chớ khinh thường ơn nói tiên tri.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.601Z",
+      "updatedAt": "2024-09-10T01:52:05.601Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "6b9ae195-4200-4e03-b608-e4c00d3b5dec",
+      "number": 21,
+      "content": "Hãy cân nhắc mọi sự : điều gì tốt thì giữ ;",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.606Z",
+      "updatedAt": "2024-09-10T01:52:05.606Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "e34e1642-5da7-49ab-86bb-a138aa7d7dc9",
+      "number": 22,
+      "content": "còn điều xấu dưới bất cứ hình thức nào thì lánh cho xa.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.608Z",
+      "updatedAt": "2024-09-10T01:52:05.608Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "bf3ac583-0b6b-4373-9e32-bdddeddbf1d3",
+      "number": 23,
+      "content": "Nguyện chính Thiên Chúa là nguồn mạch bình an, thánh hoá toàn diện con người anh em, để thần trí, tâm hồn và thân xác anh em, được gìn giữ vẹn toàn, không gì đáng trách, trong ngày Đức Giê-su Ki-tô, Chúa chúng ta, quang lâm.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.612Z",
+      "updatedAt": "2024-09-10T01:52:05.612Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "ab3d81cb-d362-487d-82c2-e5a67a859f15",
+      "number": 24,
+      "content": "Đấng kêu gọi anh em là Đấng trung thành : Người sẽ thực hiện điều đó.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.623Z",
+      "updatedAt": "2024-09-10T01:52:05.623Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "91251b17-0a68-49bb-b3e9-29e53de7a729",
+      "number": 25,
+      "content": "Thưa anh em, xin anh em cũng cầu nguyện cho chúng tôi nữa.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.627Z",
+      "updatedAt": "2024-09-10T01:52:05.627Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "7038e40d-b0d9-47a7-9531-46c48b70cd27",
+      "number": 26,
+      "content": "Tất cả anh em hãy hôn chào nhau một cách thánh thiện.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.631Z",
+      "updatedAt": "2024-09-10T01:52:05.631Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "6d634ace-5725-4aab-81fc-e27c03b96585",
+      "number": 27,
+      "content": "Nhân danh Chúa, tôi yêu cầu đọc thư này cho tất cả các anh em.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.635Z",
+      "updatedAt": "2024-09-10T01:52:05.635Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "22915b6b-e04f-4d77-a5bc-90cf73ff61de",
+      "number": 28,
+      "content": "Chúc anh em được đầy ân sủng của Đức Giê-su Ki-tô, Chúa chúng ta.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:52:05.642Z",
+      "updatedAt": "2024-09-10T01:52:05.642Z",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "a8cf22b9-f430-43c4-bc09-1d482e077238",
+      "content": "<i>Bình an yên ổn</i> : x. Gr 6,14.",
+      "position": 56,
+      "order": 0,
+      "createdAt": "2024-09-10T01:52:05.511Z",
+      "updatedAt": "2024-09-10T01:52:05.511Z",
+      "verseId": "9735eca0-628d-4939-a245-1832d5db512b",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "ce30bfb2-cf88-42c3-bcd8-089731b2af0f",
+      "content": "<i>Con cái</i> : kiểu nói Do-thái, có nghĩa <i>thuộc về</i>, <i>người của</i> x. Lc 16,8 ; Ga 12,36.",
+      "position": 27,
+      "order": 1,
+      "createdAt": "2024-09-10T01:52:05.520Z",
+      "updatedAt": "2024-09-10T01:52:05.520Z",
+      "verseId": "c8f0ad8c-5425-407a-a1b3-476b10267d1d",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "5866cd2b-07db-42e1-9420-c78d692a29d6",
+      "content": "Ánh sáng tượng trưng cho sự sống, hạnh phúc và vui mừng ; tối tăm là hình ảnh của sự chết, khốn khổ và đau thương, G 30,26 ; Is 45,7. Ánh sáng nói lên ơn cứu chuộc của Chúa Giê-su, và chính mình Người : Ga 1,9 ; 9,1-39 ; 12,35 ; 1 Ga 2,8-11. Tối tăm là sự diệt vong của Xa-tan : 2 Cr 6,14-15 ; Cl 1,12-13 ; 1 Pr 2,9 ; Cv 26,18. Người đời chia thành con cái ánh sáng, và con cái tối tăm : Lc 16,8 ; 1 Tx 5,4-5 ; Ep 5,7-8 ; Ga 12,36 ; tuỳ theo lối sống của mình : Mt 6,23 ; 1 Tx 5,4... ; 1 Ga 1,6-7 ; 2,9-10. Cuối cùng, ánh sáng sẽ thắng tối tăm : Ga 1,5 ; 1 Ga 2,8 ; Rm 13,12.",
+      "position": 117,
+      "order": 2,
+      "createdAt": "2024-09-10T01:52:05.522Z",
+      "updatedAt": "2024-09-10T01:52:05.522Z",
+      "verseId": "c8f0ad8c-5425-407a-a1b3-476b10267d1d",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "f7c93f99-c744-4f1f-854e-6797d566a4c8",
+      "content": "<i>Tỉnh thức</i> : sống đạo mà chờ đợi Chúa, chứ không ngủ mê trong các dục vọng. Đây cũng là đề tài lớn của Tân Ước : Mc 13,33-37 ; Mt 24,42-44 ; Lc 21,36 ; Mt 25 ; Lc 12,35-46.",
+      "position": 66,
+      "order": 3,
+      "createdAt": "2024-09-10T01:52:05.529Z",
+      "updatedAt": "2024-09-10T01:52:05.529Z",
+      "verseId": "a928ac18-76b1-4812-a668-5e6f6f4ebaf6",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "38c62de4-c246-4acd-b50b-ff2fb55606f9",
+      "content": "Ba nhân đức Tin-Cậy-Mến là sức mạnh của tín hữu để thắng tối tăm. Về ba nhân đức đối thần, x. 1 Tx 1,3 chú thích ; về hình ảnh chiến đấu x. Ep 6,11 ; Is 59,17.",
+      "position": 139,
+      "order": 4,
+      "createdAt": "2024-09-10T01:52:05.537Z",
+      "updatedAt": "2024-09-10T01:52:05.537Z",
+      "verseId": "dc87f401-bfa9-43bd-8cde-3c84452f0bd4",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "b772975b-abc0-48b4-be6f-febb34f665f2",
+      "content": "X. 1,10+.",
+      "position": 63,
+      "order": 5,
+      "createdAt": "2024-09-10T01:52:05.544Z",
+      "updatedAt": "2024-09-10T01:52:05.544Z",
+      "verseId": "54a970e0-030c-4162-94ce-d429c811f1fc",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "88579355-373e-4b0e-a88a-42ab907f7dd5",
+      "content": "<i>Thức hay ngủ</i> nghĩa là sống hay chết, 4,14. Người Ki-tô hữu sống là sống trong Đức Ki-tô và chết cũng là chết trong Đức Ki-tô ; và chết trong Đức Ki-tô thì được về với Người, Pl 1,23, và sẽ được sống lại với Người, Rm 6,5-8. Thật là phúc cho họ : Kh 14,13.",
+      "position": 45,
+      "order": 6,
+      "createdAt": "2024-09-10T01:52:05.548Z",
+      "updatedAt": "2024-09-10T01:52:05.548Z",
+      "verseId": "dabdddb6-6051-4f51-a47a-8c088ac4ed1b",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "6bac9edb-39f2-462b-9980-d9adb7639f02",
+      "content": "<i>Xây dựng cho nhau</i> : x. Ep 2,20-22.",
+      "position": 41,
+      "order": 7,
+      "createdAt": "2024-09-10T01:52:05.557Z",
+      "updatedAt": "2024-09-10T01:52:05.557Z",
+      "verseId": "fd468aba-628c-426d-8c01-7019f19982bf",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "59c1b2f7-c078-4eb2-85db-5bad458cc387",
+      "content": "Đối với những người lãnh đạo cộng đoàn : x. 1 Cr 16,16 ; 1 Tm 5,17 ; Hr 13,17 ; Tt 1,5 ; Gl 6,6.",
+      "position": 134,
+      "order": 8,
+      "createdAt": "2024-09-10T01:52:05.563Z",
+      "updatedAt": "2024-09-10T01:52:05.563Z",
+      "verseId": "6cb89ae3-4b60-46a0-bc8c-7258b2ddb0f7",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "c4d8b794-eca9-40f0-849c-d15d4a048198",
+      "content": "<i>Người vô kỷ luật</i> : 2 Tx 3,11 sẽ nói là hạng người chẳng làm việc gì mà việc gì cũng xía vô ...",
+      "position": 74,
+      "order": 9,
+      "createdAt": "2024-09-10T01:52:05.573Z",
+      "updatedAt": "2024-09-10T01:52:05.573Z",
+      "verseId": "3066795c-76b2-40f0-b774-dbeb10a63e76",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "2963bc72-06ef-4300-ae65-3fabf0f85021",
+      "content": "<i>Cầu nguyện không ngừng</i> : đặc điểm của đời sống Ki-tô hữu : x. 1,2 ; 2,13 ; Lc 18,1 ; Rm 1,10 ; 12,12 ; Ep 6,18 ; Pl 1,3-4 ; 4,6 ; Cl 1,3 ; 4,2 ; 2 Tx 1,11 ; 1 Tm 2,8 ; 5,5 ; 2 Tm 1,3, v.v...",
+      "position": 25,
+      "order": 10,
+      "createdAt": "2024-09-10T01:52:05.588Z",
+      "updatedAt": "2024-09-10T01:52:05.588Z",
+      "verseId": "ab5f426a-4a77-4e65-a4f9-e6e947b45802",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "7130870b-725d-4abc-8407-316fed807343",
+      "content": "<i>Vui mừng luôn, tạ ơn trong mọi hoàn cảnh</i> cũng là đặc điểm khác của đời sống Ki-tô hữu : Cv 2,46 ; Pl 4,4 ; Ep 5,20. Vì họ được biết Tin Mừng, được <i>ở trong</i> Đức Ki-tô.",
+      "position": 29,
+      "order": 11,
+      "createdAt": "2024-09-10T01:52:05.593Z",
+      "updatedAt": "2024-09-10T01:52:05.593Z",
+      "verseId": "9c32902d-1f0f-4eb0-871b-5afb14847f0a",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "a7c15c70-1094-4e0b-bda2-fa81a4d28db5",
+      "content": "Thánh Thần làm dậy lên sự sống và sinh hoạt của Hội Thánh ; đừng ngăn chặn Người : 1 Cr 12. Nhưng cũng phải biết nhận định cái gì là bởi Thánh Thần : 1 Cr 12,10 ; 14,29 ; 1 Ga 4,1.",
+      "position": 28,
+      "order": 12,
+      "createdAt": "2024-09-10T01:52:05.599Z",
+      "updatedAt": "2024-09-10T01:52:05.599Z",
+      "verseId": "bcd26491-c63c-4b44-8249-b63e47890114",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "9e77bfd3-a804-4b2b-bdf8-c1d98ca2b902",
+      "content": "<i>Nói tiên tri</i> : nói lên lời Thánh Thần soi sáng thúc đẩy : x. 1 Cr 14 ; Cv 2,1-17.",
+      "position": 32,
+      "order": 13,
+      "createdAt": "2024-09-10T01:52:05.604Z",
+      "updatedAt": "2024-09-10T01:52:05.604Z",
+      "verseId": "022faaf3-165f-478b-aad2-6e33cd5e7133",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "4e1eac33-e97a-452e-be57-9f19ffe50d95",
+      "content": "Đây là nơi độc nhất thánh Phao-lô nói lên ba phần của con người. Thần trí đón nhận tác động của Thánh Thần, x. Rm 1,9, chú thích. Tâm hồn làm cho con người sống : 1 Cr 15,44, chú thích. Thật sự thánh Phao-lô chỉ nhấn mạnh việc thánh hoá toàn diện con người tín hữu.",
+      "position": 124,
+      "order": 14,
+      "createdAt": "2024-09-10T01:52:05.616Z",
+      "updatedAt": "2024-09-10T01:52:05.616Z",
+      "verseId": "bf3ac583-0b6b-4373-9e32-bdddeddbf1d3",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "5709d476-bd5a-4826-985f-9aa4406303ca",
+      "content": "<i>Ngày Chúa quang lâm</i> : cuộc đời Ki-tô hữu hướng về đó, Kh 22,17-20.",
+      "position": 223,
+      "order": 15,
+      "createdAt": "2024-09-10T01:52:05.618Z",
+      "updatedAt": "2024-09-10T01:52:05.618Z",
+      "verseId": "bf3ac583-0b6b-4373-9e32-bdddeddbf1d3",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "fcd3a597-6222-43b7-ba66-fd2936517f13",
+      "content": "<i>Hôn chào thánh thiện</i> : thể hiện mối dây liên kết Ki-tô hữu thành cộng đoàn Hội Thánh, x. 2 Cr 13,12, chú thích.",
+      "position": 52,
+      "order": 16,
+      "createdAt": "2024-09-10T01:52:05.633Z",
+      "updatedAt": "2024-09-10T01:52:05.633Z",
+      "verseId": "7038e40d-b0d9-47a7-9531-46c48b70cd27",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "10b187a9-6560-4f27-8a45-405396d05a04",
+      "content": "Ngay thư đầu đã nói đến việc đọc chung ! 2 Cr 1,1 và Cl 4,16 còn bảo chuyền qua các giáo đoàn khác. Chắc là đọc trong các buổi họp phụng vụ. Dần dần các giáo đoàn sẽ đưa những bản văn này vào bộ Sách Thánh, cùng với các sách Tin Mừng, x. 2 Pr 3,15-16.",
+      "position": 61,
+      "order": 17,
+      "createdAt": "2024-09-10T01:52:05.638Z",
+      "updatedAt": "2024-09-10T01:52:05.638Z",
+      "verseId": "6d634ace-5725-4aab-81fc-e27c03b96585",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    }
+  ],
+  "headings": [
+    {
+      "id": "ba135996-2edd-4c3f-bd24-d820e402c8ad",
+      "content": "Tỉnh thức chờ ngày Chúa quang lâm",
+      "order": 0,
+      "createdAt": "2024-09-10T01:52:05.500Z",
+      "updatedAt": "2024-09-10T01:52:05.500Z",
+      "verseId": "65320059-5132-4559-8061-af03f42a8b15",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "34406f78-18fc-435c-94d2-39cba04d9633",
+      "content": "Một vài đòi hỏi của đời sống cộng đoàn",
+      "order": 0,
+      "createdAt": "2024-09-10T01:52:05.561Z",
+      "updatedAt": "2024-09-10T01:52:05.561Z",
+      "verseId": "6cb89ae3-4b60-46a0-bc8c-7258b2ddb0f7",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "0d5ba46c-2daf-4abc-b2c1-9175ead5619b",
+      "content": "Lời cầu nguyện và lời chào cuối thư",
+      "order": 0,
+      "createdAt": "2024-09-10T01:52:05.614Z",
+      "updatedAt": "2024-09-10T01:52:05.614Z",
+      "verseId": "bf3ac583-0b6b-4373-9e32-bdddeddbf1d3",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    }
+  ],
+  "references": [
+    {
+      "id": "584592f3-4b64-4b74-a200-9e4430cfc31e",
+      "content": "Đn 2,21",
+      "position": 53,
+      "order": 0,
+      "createdAt": "2024-09-10T01:52:05.502Z",
+      "updatedAt": "2024-09-10T01:52:05.502Z",
+      "verseId": "65320059-5132-4559-8061-af03f42a8b15",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "ce3a2f51-e129-4fed-b844-5f4fda35af3e",
+      "content": "Mt 24,36-43; 2 Pr 3,10; Kh 3,3",
+      "position": 29,
+      "order": 1,
+      "createdAt": "2024-09-10T01:52:05.507Z",
+      "updatedAt": "2024-09-10T01:52:05.507Z",
+      "verseId": "09fa0fd7-568a-4882-822b-8b85b9cd84e6",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "39d95156-4e01-4499-b641-e9899fb2d476",
+      "content": "Lc 21,34-35",
+      "position": 80,
+      "order": 2,
+      "createdAt": "2024-09-10T01:52:05.513Z",
+      "updatedAt": "2024-09-10T01:52:05.513Z",
+      "verseId": "9735eca0-628d-4939-a245-1832d5db512b",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "52d9d47d-e45a-4d32-8906-50eeaf6272c6",
+      "content": "Rm 13,12-13",
+      "position": 20,
+      "order": 3,
+      "createdAt": "2024-09-10T01:52:05.525Z",
+      "updatedAt": "2024-09-10T01:52:05.525Z",
+      "verseId": "c8f0ad8c-5425-407a-a1b3-476b10267d1d",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "bc030043-161d-46a0-81b9-122be2fcdca2",
+      "content": "1 Pr 1,13; 4,7; 5,8",
+      "position": 57,
+      "order": 4,
+      "createdAt": "2024-09-10T01:52:05.531Z",
+      "updatedAt": "2024-09-10T01:52:05.531Z",
+      "verseId": "a928ac18-76b1-4812-a668-5e6f6f4ebaf6",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "e2b50746-8250-4bac-ad1b-a4ac15d7a452",
+      "content": "Is 59,17",
+      "position": 70,
+      "order": 5,
+      "createdAt": "2024-09-10T01:52:05.540Z",
+      "updatedAt": "2024-09-10T01:52:05.540Z",
+      "verseId": "dc87f401-bfa9-43bd-8cde-3c84452f0bd4",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "bc4c2c0f-0e8b-4ae8-b78e-922d5b050958",
+      "content": "1 Cr 16,16; 1 Tm 5,17; Hr 13,17",
+      "position": 62,
+      "order": 6,
+      "createdAt": "2024-09-10T01:52:05.565Z",
+      "updatedAt": "2024-09-10T01:52:05.565Z",
+      "verseId": "6cb89ae3-4b60-46a0-bc8c-7258b2ddb0f7",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "325f8916-2e94-420a-a1fa-507926053932",
+      "content": "Ga 6,6",
+      "position": 60,
+      "order": 7,
+      "createdAt": "2024-09-10T01:52:05.568Z",
+      "updatedAt": "2024-09-10T01:52:05.568Z",
+      "verseId": "3dd33a77-dd2b-44f6-be43-7fa92bff212d",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "88209aa9-cdc6-423d-ab58-dc7d3725151d",
+      "content": "2 Tx 3,6-12",
+      "position": 23,
+      "order": 8,
+      "createdAt": "2024-09-10T01:52:05.576Z",
+      "updatedAt": "2024-09-10T01:52:05.576Z",
+      "verseId": "3066795c-76b2-40f0-b774-dbeb10a63e76",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "33818bfc-3740-42ea-b0c1-8a0b417f5756",
+      "content": "Rm 14,1",
+      "position": 107,
+      "order": 9,
+      "createdAt": "2024-09-10T01:52:05.578Z",
+      "updatedAt": "2024-09-10T01:52:05.578Z",
+      "verseId": "3066795c-76b2-40f0-b774-dbeb10a63e76",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "55e0daa0-e7fa-4b2a-b022-38e30a9660ad",
+      "content": "Mt 5,38 tt; Rm 12,17; Gl 6,20; Cl 3,12-13",
+      "position": 16,
+      "order": 10,
+      "createdAt": "2024-09-10T01:52:05.582Z",
+      "updatedAt": "2024-09-10T01:52:05.582Z",
+      "verseId": "4db48034-0133-48e7-9aab-1172e3839602",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "1660a79c-aa73-40e4-9979-80632270a17f",
+      "content": "Ep 5,20",
+      "position": 4,
+      "order": 11,
+      "createdAt": "2024-09-10T01:52:05.595Z",
+      "updatedAt": "2024-09-10T01:52:05.595Z",
+      "verseId": "9c32902d-1f0f-4eb0-871b-5afb14847f0a",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "fb7c442f-77d6-43b2-8521-4719f8686f4e",
+      "content": "G 1,1-8; 2,3",
+      "position": 4,
+      "order": 12,
+      "createdAt": "2024-09-10T01:52:05.610Z",
+      "updatedAt": "2024-09-10T01:52:05.610Z",
+      "verseId": "e34e1642-5da7-49ab-86bb-a138aa7d7dc9",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "cbc3dd05-8b4e-4aba-b5a9-430424171234",
+      "content": "2 Tx 3,16",
+      "position": 13,
+      "order": 13,
+      "createdAt": "2024-09-10T01:52:05.621Z",
+      "updatedAt": "2024-09-10T01:52:05.621Z",
+      "verseId": "bf3ac583-0b6b-4373-9e32-bdddeddbf1d3",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "59d83dfc-c622-41bb-ab5d-6172799a94bc",
+      "content": "2 Tx 3,3",
+      "position": 23,
+      "order": 14,
+      "createdAt": "2024-09-10T01:52:05.625Z",
+      "updatedAt": "2024-09-10T01:52:05.625Z",
+      "verseId": "ab3d81cb-d362-487d-82c2-e5a67a859f15",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "740b3b30-6821-4dc2-9fd7-e2ff95dd3616",
+      "content": "2 Tx 3,1",
+      "position": 29,
+      "order": 15,
+      "createdAt": "2024-09-10T01:52:05.629Z",
+      "updatedAt": "2024-09-10T01:52:05.629Z",
+      "verseId": "91251b17-0a68-49bb-b3e9-29e53de7a729",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    },
+    {
+      "id": "ebe10bea-4786-434a-a911-24a6dcbae385",
+      "content": "Cl 4,16",
+      "position": 20,
+      "order": 16,
+      "createdAt": "2024-09-10T01:52:05.640Z",
+      "updatedAt": "2024-09-10T01:52:05.640Z",
+      "verseId": "6d634ace-5725-4aab-81fc-e27c03b96585",
+      "chapterId": "c5fc8bd6-f052-4376-aae3-3cadd5a6f4a2"
+    }
+  ]
+}

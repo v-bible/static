@@ -1,0 +1,281 @@
+{
+  "chapter": {
+    "id": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf",
+    "number": 120,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "8437bc1c-6043-49cf-a864-56c69f2b0093",
+      "number": 1,
+      "content": "Ca khúc lên Đền.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:38:49.868Z",
+      "updatedAt": "2024-09-10T04:38:49.868Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "77b818b5-f9b3-40e1-900b-8348370fa0c0",
+      "number": 1,
+      "content": "Lúc ngặt nghèo, tôi kêu lên cùng CHÚA,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.882Z",
+      "updatedAt": "2024-09-10T04:38:49.882Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "53f33bee-6a62-4346-aeb8-e4bc368d3c2e",
+      "number": 1,
+      "content": "Chúa đã thương đáp lời.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.884Z",
+      "updatedAt": "2024-09-10T04:38:49.884Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "5da597e8-9ad5-4c6b-bfb2-f999577eef1f",
+      "number": 2,
+      "content": "Lạy CHÚA, xin Ngài cứu mạng con",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.886Z",
+      "updatedAt": "2024-09-10T04:38:49.886Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "01bcb4a4-8209-4195-b6a3-68d9214780a4",
+      "number": 2,
+      "content": "khỏi môi miệng điêu ngoa, tấc lưỡi phỉnh phờ.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.890Z",
+      "updatedAt": "2024-09-10T04:38:49.890Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "59d4de09-cdc6-421a-bfdf-5c32e95a34fb",
+      "number": 3,
+      "content": "Lưỡi phỉnh phờ kia hỡi !",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.895Z",
+      "updatedAt": "2024-09-10T04:38:49.895Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "1fee823b-49a8-4100-94be-55e987972296",
+      "number": 3,
+      "content": "Chúa sẽ giáng gì xuống ngươi đây,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.897Z",
+      "updatedAt": "2024-09-10T04:38:49.897Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "4d7e1dee-ef24-458f-8920-483bc3f6b62d",
+      "number": 3,
+      "content": "và còn thêm chi nữa ?",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.899Z",
+      "updatedAt": "2024-09-10T04:38:49.899Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "f7d63388-8922-49dd-bd89-bd1408103ab3",
+      "number": 4,
+      "content": "Giáng toàn mũi tên nhọn của người chiến binh,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.902Z",
+      "updatedAt": "2024-09-10T04:38:49.902Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "427e88a1-2f28-4fbd-a208-7983b903d200",
+      "number": 4,
+      "content": "thêm những hòn than đước đỏ hồng !",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.912Z",
+      "updatedAt": "2024-09-10T04:38:49.912Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "12905467-3351-4e2a-8539-b7131a8981b0",
+      "number": 5,
+      "content": "Thật bất hạnh cho tôi",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.917Z",
+      "updatedAt": "2024-09-10T04:38:49.917Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "b3455d04-399a-4726-989d-3317c1d6231b",
+      "number": 5,
+      "content": "phải trú ngụ trong miền rợ Me-séc,",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.922Z",
+      "updatedAt": "2024-09-10T04:38:49.922Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "943dd70f-edbd-45eb-b2a8-ece2a6c4d04c",
+      "number": 5,
+      "content": "phải sống cùng dân du mục Kê-đa.",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.927Z",
+      "updatedAt": "2024-09-10T04:38:49.927Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "4e51161a-a3fb-44e1-b564-52cf8f2d2485",
+      "number": 6,
+      "content": "Tấm thân này trải bao năm tháng",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.936Z",
+      "updatedAt": "2024-09-10T04:38:49.936Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "8dc01c95-42b5-4b4f-87ef-48065ec5b318",
+      "number": 7,
+      "content": "sống cùng những kẻ ghét hoà bình.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.940Z",
+      "updatedAt": "2024-09-10T04:38:49.940Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "6b37012c-31ab-4f07-93fd-1be99d1dce22",
+      "number": 7,
+      "content": "Tôi vốn chuộng hoà bình.",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.945Z",
+      "updatedAt": "2024-09-10T04:38:49.945Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "fa84d87d-be38-48c9-bbb5-f65296f2c229",
+      "number": 7,
+      "content": "Nhưng hễ tôi nói tới, thì phe họ lại muốn chiến tranh.",
+      "order": 2,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:49.950Z",
+      "updatedAt": "2024-09-10T04:38:49.950Z",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "9290496e-56d0-42a1-b0f4-0926cc02a3fd",
+      "content": "Đây là <i>một ai ca của cá nhân</i>. Tác giả cho thấy mình là một con người chỉ thích sống trong bầu khí an hoà, nhưng lại phải gặp những kẻ thù hiếu chiến, hay điêu ngoa, gian dối. Tv là lời khẩn cầu Thiên Chúa giải thoát tác giả khỏi những con người đó. Tv 120 là Tv đầu của nhóm Tv (120 – 134) mang tên “ca ngợi lên Đền”. Khách hành hương hát các “ca ngợi lên Đền”, khi tiến lên Giê-ru-sa-lem ở trên núi Xi-on. Núi này cao hơn mặt biển trên 750 m. Cấu trúc : <b>1</b>) Nhập đề (c.1) ; <b>2</b>) Lời kêu cứu (c.2) và lời nguyền rủa (cc. 3-4) ; <b>3</b>) Lời than van (cc. 5-7).",
+      "position": 39,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:49.880Z",
+      "updatedAt": "2024-09-10T04:38:49.880Z",
+      "headingId": "56a67ee5-49ff-432f-a657-ddd7c6418b6d",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "b6221b72-78ab-481d-98f5-6021959e39cd",
+      "content": "Lời nói thâm độc của đối phương giống như mũi tên (x. Tv 64,4). Họ sẽ bị mũi tên của Thiên Chúa cắm ngập vào mình (x. Tv 38,3 ; 144,6 ; G 6,4). Hoàn cảnh đó thật phù hợp với câu <i>gậy ông lại đập lưng ông</i> (x. Kn 11,16).",
+      "position": 23,
+      "order": 1,
+      "createdAt": "2024-09-10T04:38:49.907Z",
+      "updatedAt": "2024-09-10T04:38:49.907Z",
+      "verseId": "f7d63388-8922-49dd-bd89-bd1408103ab3",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "0b74ccd6-10e9-4139-a569-741946b2e1df",
+      "content": "<i>Me-séc</i> là một nơi ở gần Hắc Hải (x. St 10,2 ; Ed 27,13 ; 38,2) ; còn <i>Kê-đa</i> thì năm trong sa mạc Xy-ri (x. St 25,13 ; Is 21,16-17). Chắc tác giả có ý nói về những dân man di mọi rợ ...",
+      "position": 31,
+      "order": 2,
+      "createdAt": "2024-09-10T04:38:49.931Z",
+      "updatedAt": "2024-09-10T04:38:49.931Z",
+      "verseId": "943dd70f-edbd-45eb-b2a8-ece2a6c4d04c",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    }
+  ],
+  "headings": [
+    {
+      "id": "56a67ee5-49ff-432f-a657-ddd7c6418b6d",
+      "content": "Tv 120 (119) Ước mong được sống bình an",
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:49.878Z",
+      "updatedAt": "2024-09-10T04:38:49.878Z",
+      "verseId": "8437bc1c-6043-49cf-a864-56c69f2b0093",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    }
+  ],
+  "references": [
+    {
+      "id": "466ebb79-8007-415d-b279-408941f0e7b0",
+      "content": "Hc 51,2",
+      "position": 19,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:49.889Z",
+      "updatedAt": "2024-09-10T04:38:49.889Z",
+      "verseId": "5da597e8-9ad5-4c6b-bfb2-f999577eef1f",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    },
+    {
+      "id": "942ae6ae-b762-4d75-80e2-46ad1ea099db",
+      "content": "Tv 12,3-4",
+      "position": 35,
+      "order": 1,
+      "createdAt": "2024-09-10T04:38:49.893Z",
+      "updatedAt": "2024-09-10T04:38:49.893Z",
+      "verseId": "01bcb4a4-8209-4195-b6a3-68d9214780a4",
+      "chapterId": "fba32e23-d0bf-4ef5-a916-54cc1f0413bf"
+    }
+  ]
+}

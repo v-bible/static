@@ -1,0 +1,717 @@
+{
+  "chapter": {
+    "id": "6fe037b2-4963-4134-9c79-7a6a1b4bd883",
+    "number": 7,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.364Z",
+    "updatedAt": "2024-09-10T00:39:05.364Z",
+    "bookId": "362c7cfa-7c69-4448-8637-97999abe424e"
+  },
+  "verses": [
+    {
+      "id": "0f786a5c-89e7-4db7-9b80-c4492b96fc08",
+      "number": 1,
+      "content": "Quả vậy, ông Men-ki-xê-đê là vua Sa-lem, là tư tế của Thiên Chúa Tối Cao, đã đón gặp và chúc lành cho ông Áp-ra-ham, lúc ông này đang trên đường về sau khi đánh bại các vua.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.701Z",
+      "updatedAt": "2024-09-10T01:29:08.701Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7d88a09c-7a86-4add-9220-f8287f61c86c",
+      "number": 2,
+      "content": "Ông Áp-ra-ham đã chia cho ông Men-ki-xê-đê một phần mười chiến lợi phẩm. Trước hết, ông tên là Men-ki-xê-đê, nghĩa là “vua công chính” ; rồi ông lại là vua Sa-lem, nghĩa là “vua bình an”.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.730Z",
+      "updatedAt": "2024-09-10T01:29:08.730Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7782defc-a11c-47dc-8c2a-a16d4bfd9b75",
+      "number": 3,
+      "content": "Ông không có cha, không có mẹ, không có gia phả, cuộc đời không có khởi đầu, cũng không có kết thúc. Như thế là ông giống Con Thiên Chúa : mãi mãi ông vẫn là tư tế.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.735Z",
+      "updatedAt": "2024-09-10T01:29:08.735Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "1ffaf61e-9acf-49ed-9bd6-d9e4a928b56e",
+      "number": 4,
+      "content": "Anh em hãy coi xem : ông Men-ki-xê-đê cao trọng biết bao ! Ông Áp-ra-ham là tổ phụ, mà cũng đã dâng cho ông một phần mười chiến lợi phẩm tốt nhất.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.756Z",
+      "updatedAt": "2024-09-10T01:29:08.756Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "bf724945-1908-4c25-bd15-a1fdac3501e0",
+      "number": 5,
+      "content": "Trong hàng con cháu ông Lê-vi, những ai lãnh chức tư tế, thì theo Lề Luật, được lệnh thu một phần mười hoa lợi của dân, tức là của anh em mình, mặc dù những người này cũng từ lòng ông Áp-ra-ham mà sinh ra.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.776Z",
+      "updatedAt": "2024-09-10T01:29:08.776Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "abaf0708-1fcc-4876-9164-093561095641",
+      "number": 6,
+      "content": "Còn ông Men-ki-xê-đê, tuy không thuộc dòng tộc Lê-vi, lại thu một phần mười chiến lợi phẩm của ông Áp-ra-ham và chúc lành cho ông là người đã nhận được lời hứa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.785Z",
+      "updatedAt": "2024-09-10T01:29:08.785Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "dffb092e-3f2f-4c7c-8928-f99204df6b79",
+      "number": 7,
+      "content": "Điều không ai chối cãi được là chỉ người dưới mới nhận lời chúc lành của người trên.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.791Z",
+      "updatedAt": "2024-09-10T01:29:08.791Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "9a21b38b-74fb-43a2-900b-d3df91d2eed7",
+      "number": 8,
+      "content": "Hơn nữa, một đàng các tư tế Lê-vi thu một phần mười hoa lợi là những người phàm phải chết ; một đàng ông Men-ki-xê-đê, người thu một phần mười chiến lợi phẩm, lại là nhân vật đang sống, như lời Kinh Thánh chứng nhận.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.796Z",
+      "updatedAt": "2024-09-10T01:29:08.796Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "71cbed9b-b272-4587-bdfc-c5c0088ea7f2",
+      "number": 9,
+      "content": "Có thể nói rằng : chính ông Lê-vi, người thu một phần mười hoa lợi, cũng đã nộp một phần mười chiến lợi phẩm qua ông Áp-ra-ham,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.801Z",
+      "updatedAt": "2024-09-10T01:29:08.801Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "279aea44-fce7-4c6e-a3e0-c61ed4e18bec",
+      "number": 10,
+      "content": "vì ông còn ở trong lòng ông tổ Áp-ra-ham, khi ông Men-ki-xê-đê ra đón gặp ông này.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.806Z",
+      "updatedAt": "2024-09-10T01:29:08.806Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "3575f739-afc5-4ffd-976c-06340c1a0ee4",
+      "number": 11,
+      "content": "Chức vụ tư tế Lê-vi là nền tảng của Lề Luật Thiên Chúa đã ban cho Dân. Vậy giả như người ta đạt được sự hoàn thiện nhờ chức vụ tư tế đó rồi, thì còn cần chi phải đặt lên một tư tế khác theo phẩm trật Men-ki-xê-đê, thay vì theo phẩm trật A-ha-ron ?",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.815Z",
+      "updatedAt": "2024-09-10T01:29:08.815Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "59ceed67-6778-438e-b8f9-1013b1b35920",
+      "number": 12,
+      "content": "Quả thế, một khi chức tư tế thay đổi, thì nhất thiết phải thay đổi Lề Luật.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.838Z",
+      "updatedAt": "2024-09-10T01:29:08.838Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "01b12f41-bfa1-4c6d-946f-d64d5da93594",
+      "number": 13,
+      "content": "Thật ra những điều nói trên nhắm đến một người thuộc một chi tộc khác, chi tộc này chưa hề có ai đã phục vụ bàn thờ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.847Z",
+      "updatedAt": "2024-09-10T01:29:08.847Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "e702dc2c-1cc6-4052-a72a-f456229712dc",
+      "number": 14,
+      "content": "Hiển nhiên là Chúa chúng ta đã xuất thân từ chi tộc Giu-đa, một chi tộc không được ông Mô-sê nói gì đến, khi bàn về các tư tế.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.858Z",
+      "updatedAt": "2024-09-10T01:29:08.858Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "36ead425-c4b4-4ed8-aae8-00c0aa9b14fa",
+      "number": 15,
+      "content": "Điều ấy lại còn hiển nhiên hơn nữa, khi một vị tư tế khác tương tự như ông Men-ki-xê-đê xuất hiện ;",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.873Z",
+      "updatedAt": "2024-09-10T01:29:08.873Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "b6b733b4-88e3-451c-80eb-71d02c2008f5",
+      "number": 16,
+      "content": "vị này đã trở nên tư tế không phải do Lề Luật quy định việc cha truyền con nối, nhưng do sức mạnh của một đời sống bất diệt.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.883Z",
+      "updatedAt": "2024-09-10T01:29:08.883Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "ad2b94fe-e758-4c4b-9db8-eb45fe9d7fff",
+      "number": 17,
+      "content": "Quả thật, có lời chứng nhận rằng : Muôn thuở, Con là Thượng Tế theo phẩm trật Men-ki-xê-đê.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.891Z",
+      "updatedAt": "2024-09-10T01:29:08.891Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "57dd6201-4f64-436f-a39c-c0a2e6c9ab3e",
+      "number": 18,
+      "content": "Như vậy, một đàng, quy luật cũ đã bị bãi bỏ, vì có nhược điểm và vô ích,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.897Z",
+      "updatedAt": "2024-09-10T01:29:08.897Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "8c65e431-d638-4b99-bbc8-7de7fb79f1fb",
+      "number": 19,
+      "content": "–thật thế, Lề Luật đã chẳng làm cho cái gì nên hoàn hảo– ; đàng khác, một niềm hy vọng tốt đẹp hơn đã được đưa vào thay thế, nhờ đó chúng ta đến gần Thiên Chúa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.899Z",
+      "updatedAt": "2024-09-10T01:29:08.899Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "efb06848-ab52-49ac-a840-b92f2b833737",
+      "number": 20,
+      "content": "Hơn nữa, điều ấy đã xảy ra không phải là không có lời thề. Một đàng, các tư tế Lê-vi đã trở nên tư tế mà không có lời thề ;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.909Z",
+      "updatedAt": "2024-09-10T01:29:08.909Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "aadc8537-90d2-4b17-8476-0e592e8393cc",
+      "number": 21,
+      "content": "còn Đức Giê-su khi trở nên tư tế, thì lại có lời thề của Đấng nói với Người : Đức Chúa đã thề ước, Người sẽ chẳng rút lời, rằng : Muôn thuở, Con là Thượng Tế.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.917Z",
+      "updatedAt": "2024-09-10T01:29:08.917Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "4ff69e8f-9342-45ee-9b86-a74fc9a556b1",
+      "number": 22,
+      "content": "Do đó, Đức Giê-su đã trở nên Đấng bảo đảm cho một giao ước tốt đẹp hơn.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.921Z",
+      "updatedAt": "2024-09-10T01:29:08.921Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "6316613d-4b87-4f37-9a6b-dcce12b77d15",
+      "number": 23,
+      "content": "Lại nữa, trong dòng tộc Lê-vi, có nhiều người kế tiếp nhau làm tư tế, bởi vì họ phải chết, không thể giữ mãi chức vụ đó.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.929Z",
+      "updatedAt": "2024-09-10T01:29:08.929Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "0372a203-374d-420b-b19e-f084245e2262",
+      "number": 24,
+      "content": "Còn Đức Giê-su, chính vì Người hằng sống muôn đời, nên phẩm vị tư tế của Người tồn tại mãi mãi.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.934Z",
+      "updatedAt": "2024-09-10T01:29:08.934Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "dbe0441f-7719-4740-87d0-6e336a70ac1a",
+      "number": 25,
+      "content": "Do đó, Người có thể đem ơn cứu độ vĩnh viễn cho những ai nhờ Người mà tiến lại gần Thiên Chúa. Thật vậy, Người hằng sống để chuyển cầu cho họ.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.939Z",
+      "updatedAt": "2024-09-10T01:29:08.939Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "bd2ee9a1-52c4-4c4a-bd8c-d7e777c3023f",
+      "number": 26,
+      "content": "Phải, đó chính là vị Thượng Tế mà chúng ta cần đến : một vị Thượng Tế thánh thiện, vẹn toàn, vô tội, tách biệt khỏi đám tội nhân và được nâng cao vượt các tầng trời.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.958Z",
+      "updatedAt": "2024-09-10T01:29:08.958Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "b49e3a1f-740f-4c3d-9251-f3ab5a06c8cf",
+      "number": 27,
+      "content": "Đức Giê-su không như các vị thượng tế khác : mỗi ngày họ phải dâng lễ tế hy sinh, trước là để đền tội của mình, sau là để đền thay cho dân ; phần Người, Người đã dâng chính mình và chỉ dâng một lần là đủ.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.972Z",
+      "updatedAt": "2024-09-10T01:29:08.972Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7fa441d1-99d2-4c71-876e-c40d33724bc8",
+      "number": 28,
+      "content": "Vì Luật Mô-sê thì đặt làm thượng tế những con người vốn mỏng giòn yếu đuối, còn lời thề có sau Lề Luật, lại đặt Người Con đã nên thập toàn cho đến muôn đời.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:29:08.986Z",
+      "updatedAt": "2024-09-10T01:29:08.986Z",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "0aca109f-ca9d-4398-aa6d-45ef3a548505",
+      "content": "St 14 không nói gì về tổ tiên, dòng họ, cũng như thời gian thi hành chức vụ tư tế của ông Men-ki-xê-đê. Như thế, chức tư tế của ông còn mãi, không bao giờ hết, khác với chức tư tế của chi tộc Lê-vi chấm dứt khi họ qua đời (Ds 20,24-28). Tính cách trường tồn của chức tư tế này thích hợp hoàn toàn với chức tư tế của Đức Ki-tô phục sinh.",
+      "position": 163,
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.741Z",
+      "updatedAt": "2024-09-10T01:29:08.741Z",
+      "verseId": "7782defc-a11c-47dc-8c2a-a16d4bfd9b75",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "4e9e3e21-78d8-4785-a562-c66c67a79e8e",
+      "content": "Đoạn này cho thấy chức tư tế của ông Men-ki-xê-đê trổi vượt hơn chức tư tế của con cháu tổ phụ Áp-ra-ham trong chi tộc Lê-vi. Giữa Đức Ki-tô và ông Men-ki-xê-đê có sự giống nhau, như Tv 110,4 xác nhận. Vì vậy, chức tư tế của Đức Ki-tô cao trọng hơn chức tư tế của chi tộc Lê-vi.",
+      "position": 18,
+      "order": 1,
+      "createdAt": "2024-09-10T01:29:08.766Z",
+      "updatedAt": "2024-09-10T01:29:08.766Z",
+      "verseId": "1ffaf61e-9acf-49ed-9bd6-d9e4a928b56e",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "29bea91d-ba64-43ed-801c-ff6b7d62c270",
+      "content": "Chức tư tế của chi tộc Lê-vi chưa đạt tới mức hoàn toàn nên cần phải được thay thế bằng chức tư tế thập toàn của Đức Ki-tô, vị Thượng Tế duy nhất muôn phần hoàn hảo.",
+      "position": 245,
+      "order": 2,
+      "createdAt": "2024-09-10T01:29:08.828Z",
+      "updatedAt": "2024-09-10T01:29:08.828Z",
+      "verseId": "3575f739-afc5-4ffd-976c-06340c1a0ee4",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7efc99e5-2566-4ef9-b6ec-15d612966f47",
+      "content": "Cũng như ông Men-ki-xê-đê, Đức Ki-tô không phát xuất từ gia đình tư tế, thuộc chi tộc Lê-vi, nhưng thuộc chi tộc Giu-đa như nói trong Mt 1,2 ; Lc 3,33 ; và Kh 5,5.",
+      "position": 58,
+      "order": 3,
+      "createdAt": "2024-09-10T01:29:08.863Z",
+      "updatedAt": "2024-09-10T01:29:08.863Z",
+      "verseId": "e702dc2c-1cc6-4052-a72a-f456229712dc",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7575e294-e836-446e-9159-7228646c7a48",
+      "content": "Đức Ki-tô là trung gian giữa Thiên Chúa và loài người. Hiện nay Người chuyển cầu cho chúng ta không phải theo lối như khi Người còn sống kiếp phàm nhân ; bây giờ Người đầy vinh hiển quyền năng, ngự bên hữu Chúa Cha thì không ai mạnh thế và đủ tư cách hơn Người bên cạnh Thiên Chúa để chuyển cầu cho chúng ta.",
+      "position": 141,
+      "order": 4,
+      "createdAt": "2024-09-10T01:29:08.944Z",
+      "updatedAt": "2024-09-10T01:29:08.944Z",
+      "verseId": "dbe0441f-7719-4740-87d0-6e336a70ac1a",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "8c46f9ab-d0e8-4432-8e66-8b21fa06c665",
+      "content": "Câu này có ý so sánh hai chức tư tế với nhau : một bên là chức tư tế trong chi tộc Lê-vi và một bên là chức tư tế của Đức Ki-tô. Ngoài ưu vị của chức tư tế sau trên chức tư tế trước, lại còn những điểm khác biệt này nữa là lời thề, tính cách trường cửu và mức độ hoàn hảo của chức tư tế thứ hai.",
+      "position": 74,
+      "order": 5,
+      "createdAt": "2024-09-10T01:29:08.991Z",
+      "updatedAt": "2024-09-10T01:29:08.991Z",
+      "verseId": "7fa441d1-99d2-4c71-876e-c40d33724bc8",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8a037f91-875a-4a39-a68b-239c8d283800",
+      "content": "Từ chức tư tế Lê-vi đến chức tư tế theo phẩm trật Men-ki-xê-đê",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.820Z",
+      "updatedAt": "2024-09-10T01:29:08.820Z",
+      "verseId": "3575f739-afc5-4ffd-976c-06340c1a0ee4",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "12ed1802-c655-43f2-9927-1a23f1713e16",
+      "content": "Vị Thượng Tế thập toàn",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.963Z",
+      "updatedAt": "2024-09-10T01:29:08.963Z",
+      "verseId": "bd2ee9a1-52c4-4c4a-bd8c-d7e777c3023f",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "fe2258ad-c4af-4c2f-b02c-b8a5768f5744",
+      "content": "Ông Men-ki-xê-đê nhận một phần mười chiến lợi phẩm của ông Áp-ra-ham",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.761Z",
+      "updatedAt": "2024-09-10T01:29:08.761Z",
+      "verseId": "1ffaf61e-9acf-49ed-9bd6-d9e4a928b56e",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "66bb2463-bad8-412d-b7c0-6778b20030f5",
+      "content": "1. ĐỨC KI-TÔ CAO TRỌNG HƠN CÁC TƯ TẾ LÊ-VI",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.711Z",
+      "updatedAt": "2024-09-10T01:29:08.711Z",
+      "verseId": "0f786a5c-89e7-4db7-9b80-c4492b96fc08",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "7f0079b7-da6b-41a8-95a8-12e0024a8366",
+      "content": "Bãi bỏ Lề Luật cũ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.879Z",
+      "updatedAt": "2024-09-10T01:29:08.879Z",
+      "verseId": "36ead425-c4b4-4ed8-aae8-00c0aa9b14fa",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "39ffc83d-fea5-4011-8ee9-b477150ada69",
+      "content": "Đức Ki-tô là Thượng Tế đời đời",
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.914Z",
+      "updatedAt": "2024-09-10T01:29:08.914Z",
+      "verseId": "efb06848-ab52-49ac-a840-b92f2b833737",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "d8434f34-699c-4be0-a62b-7965379dd456",
+      "content": "Ông Men-ki-xê-đê",
+      "order": 1,
+      "createdAt": "2024-09-10T01:29:08.715Z",
+      "updatedAt": "2024-09-10T01:29:08.715Z",
+      "verseId": "0f786a5c-89e7-4db7-9b80-c4492b96fc08",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    }
+  ],
+  "references": [
+    {
+      "id": "ca154287-b8e0-426f-88a4-5791a39a45a1",
+      "content": "St 14,18; Tv 110,4",
+      "position": 4,
+      "order": 0,
+      "createdAt": "2024-09-10T01:29:08.720Z",
+      "updatedAt": "2024-09-10T01:29:08.720Z",
+      "headingId": "d8434f34-699c-4be0-a62b-7965379dd456",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "2ce09625-162b-4349-9105-a7ff5cdd2f5e",
+      "content": "St 14,17-20",
+      "position": 13,
+      "order": 1,
+      "createdAt": "2024-09-10T01:29:08.725Z",
+      "updatedAt": "2024-09-10T01:29:08.725Z",
+      "verseId": "0f786a5c-89e7-4db7-9b80-c4492b96fc08",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "abdadb78-a022-4297-b98c-3e0eca028dea",
+      "content": "Ga 7,27",
+      "position": 4,
+      "order": 2,
+      "createdAt": "2024-09-10T01:29:08.746Z",
+      "updatedAt": "2024-09-10T01:29:08.746Z",
+      "verseId": "7782defc-a11c-47dc-8c2a-a16d4bfd9b75",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "80b14b50-b6e3-49db-9506-f47d361a242e",
+      "content": "Hr 1,2+",
+      "position": 122,
+      "order": 3,
+      "createdAt": "2024-09-10T01:29:08.751Z",
+      "updatedAt": "2024-09-10T01:29:08.751Z",
+      "verseId": "7782defc-a11c-47dc-8c2a-a16d4bfd9b75",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "b49c95b7-ff63-411b-a362-f11e58c31ecf",
+      "content": "St 14,20",
+      "position": 108,
+      "order": 4,
+      "createdAt": "2024-09-10T01:29:08.771Z",
+      "updatedAt": "2024-09-10T01:29:08.771Z",
+      "verseId": "1ffaf61e-9acf-49ed-9bd6-d9e4a928b56e",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "49a48433-8803-4499-baaa-54e39b770017",
+      "content": "Đnl 14,22",
+      "position": 85,
+      "order": 5,
+      "createdAt": "2024-09-10T01:29:08.781Z",
+      "updatedAt": "2024-09-10T01:29:08.781Z",
+      "verseId": "bf724945-1908-4c25-bd15-a1fdac3501e0",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "37c07631-8a67-4dfa-81d6-6e9320de0952",
+      "content": "St 14,17",
+      "position": 50,
+      "order": 6,
+      "createdAt": "2024-09-10T01:29:08.811Z",
+      "updatedAt": "2024-09-10T01:29:08.811Z",
+      "verseId": "279aea44-fce7-4c6e-a3e0-c61ed4e18bec",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "331c169d-3130-4a5d-8323-b078e03187f0",
+      "content": "Tv 110,4",
+      "position": 190,
+      "order": 7,
+      "createdAt": "2024-09-10T01:29:08.833Z",
+      "updatedAt": "2024-09-10T01:29:08.833Z",
+      "verseId": "3575f739-afc5-4ffd-976c-06340c1a0ee4",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "f6976760-2916-4365-8dc3-f47b1836b1f9",
+      "content": "Hr 8,6",
+      "position": 58,
+      "order": 8,
+      "createdAt": "2024-09-10T01:29:08.843Z",
+      "updatedAt": "2024-09-10T01:29:08.843Z",
+      "verseId": "59ceed67-6778-438e-b8f9-1013b1b35920",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "afefdef1-d5ed-4d65-805f-9de1bd48fb76",
+      "content": "Hr 8,4",
+      "position": 83,
+      "order": 9,
+      "createdAt": "2024-09-10T01:29:08.852Z",
+      "updatedAt": "2024-09-10T01:29:08.852Z",
+      "verseId": "01b12f41-bfa1-4c6d-946f-d64d5da93594",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "63804a8f-3310-4f6f-aef3-45a20379f606",
+      "content": "St 49,10; Mt 1,1; 2,6; Rm 1,3; Kh 5,5",
+      "position": 31,
+      "order": 10,
+      "createdAt": "2024-09-10T01:29:08.868Z",
+      "updatedAt": "2024-09-10T01:29:08.868Z",
+      "verseId": "e702dc2c-1cc6-4052-a72a-f456229712dc",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "c4f2dec6-b2fd-4a9f-98a6-ccd15f54875e",
+      "content": "Rm 1,4",
+      "position": 106,
+      "order": 11,
+      "createdAt": "2024-09-10T01:29:08.887Z",
+      "updatedAt": "2024-09-10T01:29:08.887Z",
+      "verseId": "b6b733b4-88e3-451c-80eb-71d02c2008f5",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "45c07021-6b9f-48f8-9752-606aee92cf64",
+      "content": "Tv 110,4",
+      "position": 35,
+      "order": 12,
+      "createdAt": "2024-09-10T01:29:08.894Z",
+      "updatedAt": "2024-09-10T01:29:08.894Z",
+      "verseId": "ad2b94fe-e758-4c4b-9db8-eb45fe9d7fff",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "be4bc681-ffa2-4371-9554-a475ad0c3630",
+      "content": "Rm 7,7",
+      "position": 11,
+      "order": 13,
+      "createdAt": "2024-09-10T01:29:08.902Z",
+      "updatedAt": "2024-09-10T01:29:08.902Z",
+      "verseId": "8c65e431-d638-4b99-bbc8-7de7fb79f1fb",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "d48c3f35-1c7a-4009-b10b-aff42e205260",
+      "content": "Hr 11,40",
+      "position": 74,
+      "order": 14,
+      "createdAt": "2024-09-10T01:29:08.904Z",
+      "updatedAt": "2024-09-10T01:29:08.904Z",
+      "verseId": "8c65e431-d638-4b99-bbc8-7de7fb79f1fb",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "9515dfda-9b0a-40c6-9bbf-3fdebc9f3412",
+      "content": "Hr 10,19",
+      "position": 141,
+      "order": 15,
+      "createdAt": "2024-09-10T01:29:08.907Z",
+      "updatedAt": "2024-09-10T01:29:08.907Z",
+      "verseId": "8c65e431-d638-4b99-bbc8-7de7fb79f1fb",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "1a194a71-6eff-4bc9-aff3-7de10a8be23f",
+      "content": "Tv 110,4",
+      "position": 78,
+      "order": 16,
+      "createdAt": "2024-09-10T01:29:08.919Z",
+      "updatedAt": "2024-09-10T01:29:08.919Z",
+      "verseId": "aadc8537-90d2-4b17-8476-0e592e8393cc",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "ae81ec83-043e-46c6-863f-3817c91d1612",
+      "content": "Hr 8,6-13",
+      "position": 29,
+      "order": 17,
+      "createdAt": "2024-09-10T01:29:08.924Z",
+      "updatedAt": "2024-09-10T01:29:08.924Z",
+      "verseId": "4ff69e8f-9342-45ee-9b86-a74fc9a556b1",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "61b08108-d7e0-4d4c-8fa2-b61ccedf037c",
+      "content": "Hr 10,19; Kh 1,18",
+      "position": 70,
+      "order": 18,
+      "createdAt": "2024-09-10T01:29:08.949Z",
+      "updatedAt": "2024-09-10T01:29:08.949Z",
+      "verseId": "dbe0441f-7719-4740-87d0-6e336a70ac1a",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "86d7a214-2603-468e-86b3-0bcb00efa6af",
+      "content": "Hr 9,24; Rm 8,34; 1 Ga 2,1",
+      "position": 124,
+      "order": 19,
+      "createdAt": "2024-09-10T01:29:08.953Z",
+      "updatedAt": "2024-09-10T01:29:08.953Z",
+      "verseId": "dbe0441f-7719-4740-87d0-6e336a70ac1a",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "e0feb816-029e-43b2-ab4d-871120b3b31e",
+      "content": "Hr 3,1",
+      "position": 21,
+      "order": 20,
+      "createdAt": "2024-09-10T01:29:08.967Z",
+      "updatedAt": "2024-09-10T01:29:08.967Z",
+      "verseId": "bd2ee9a1-52c4-4c4a-bd8c-d7e777c3023f",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "e5428589-e754-417e-8aec-a8627b1f7e22",
+      "content": "Hr 9,25-28; 10,11-14",
+      "position": 11,
+      "order": 21,
+      "createdAt": "2024-09-10T01:29:08.977Z",
+      "updatedAt": "2024-09-10T01:29:08.977Z",
+      "verseId": "b49e3a1f-740f-4c3d-9251-f3ab5a06c8cf",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "fae2c57a-20e3-436d-a024-d34c78e62a6f",
+      "content": "Hr 5,3",
+      "position": 94,
+      "order": 22,
+      "createdAt": "2024-09-10T01:29:08.982Z",
+      "updatedAt": "2024-09-10T01:29:08.982Z",
+      "verseId": "b49e3a1f-740f-4c3d-9251-f3ab5a06c8cf",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    },
+    {
+      "id": "8f236709-1275-44c1-b605-7c82f0055c28",
+      "content": "Hr 5,9",
+      "position": 129,
+      "order": 23,
+      "createdAt": "2024-09-10T01:29:08.996Z",
+      "updatedAt": "2024-09-10T01:29:08.996Z",
+      "verseId": "7fa441d1-99d2-4c71-876e-c40d33724bc8",
+      "chapterId": "6fe037b2-4963-4134-9c79-7a6a1b4bd883"
+    }
+  ]
+}

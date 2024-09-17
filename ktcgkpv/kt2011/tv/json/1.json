@@ -1,0 +1,296 @@
+{
+  "chapter": {
+    "id": "6d273032-a04d-45a5-84e6-b72dbe967eec",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.892Z",
+    "updatedAt": "2024-09-10T00:39:05.892Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "3169f75e-df88-4b60-a73d-2d3ce6f4e49d",
+      "number": 1,
+      "content": "Phúc thay người chẳng nghe theo lời bọn ác nhân,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.522Z",
+      "updatedAt": "2024-09-10T04:27:21.522Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "2c7dc420-730f-46de-bfd1-e4ae5ebfb567",
+      "number": 1,
+      "content": "chẳng bước vào đường quân tội lỗi,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.538Z",
+      "updatedAt": "2024-09-10T04:27:21.538Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "17a57a8e-21ac-400e-9b29-53093055233f",
+      "number": 1,
+      "content": "không nhập bọn với phường ngạo mạn kiêu căng,",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.540Z",
+      "updatedAt": "2024-09-10T04:27:21.540Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "89a1caa3-fc89-43e4-928a-09fdcf868d07",
+      "number": 2,
+      "content": "nhưng vui thú với lề luật CHÚA,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.543Z",
+      "updatedAt": "2024-09-10T04:27:21.543Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "27ba1b03-43a8-4f5a-a2bc-a3923952b53d",
+      "number": 2,
+      "content": "nhẩm đi nhẩm lại suốt đêm ngày.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.547Z",
+      "updatedAt": "2024-09-10T04:27:21.547Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "40662549-82c2-4240-9db8-da78c7081d69",
+      "number": 3,
+      "content": "Người ấy tựa cây trồng bên dòng nước,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.551Z",
+      "updatedAt": "2024-09-10T04:27:21.551Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "62dc3357-7449-4016-b949-34748a30b61c",
+      "number": 3,
+      "content": "cứ đúng mùa là hoa quả trổ sinh,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.555Z",
+      "updatedAt": "2024-09-10T04:27:21.555Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "327fc1d6-a51e-4461-b551-ae7d53739a29",
+      "number": 3,
+      "content": "cành lá chẳng khi nào tàn tạ.",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.557Z",
+      "updatedAt": "2024-09-10T04:27:21.557Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "8e4680a9-0462-488c-89cc-8c60dded4b81",
+      "number": 3,
+      "content": "Người như thế làm chi cũng sẽ thành.",
+      "order": 3,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.559Z",
+      "updatedAt": "2024-09-10T04:27:21.559Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "90d01099-55fb-449c-9768-d346df210fb1",
+      "number": 4,
+      "content": "Ác nhân đâu được vậy :",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.563Z",
+      "updatedAt": "2024-09-10T04:27:21.563Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "3cc60b09-8f76-4f08-8412-3062fdc8a6e8",
+      "number": 4,
+      "content": "chúng khác nào vỏ trấu gió thổi bay.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.565Z",
+      "updatedAt": "2024-09-10T04:27:21.565Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "68a48d7d-0b38-4d98-9422-74b86fbab46f",
+      "number": 5,
+      "content": "Nên ngày xử án, bọn ác nhân làm sao đứng vững,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.569Z",
+      "updatedAt": "2024-09-10T04:27:21.569Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "fd983739-52f1-419c-8e50-5b886e35f658",
+      "number": 5,
+      "content": "quân tội lỗi đâu được hợp đoàn với chính nhân !",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.571Z",
+      "updatedAt": "2024-09-10T04:27:21.571Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "cb244624-0497-4ea2-a98d-a7eb6c6602da",
+      "number": 6,
+      "content": "Vì CHÚA hằng che chở nẻo đường người công chính,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.576Z",
+      "updatedAt": "2024-09-10T04:27:21.576Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "3c6fc764-b304-4459-871f-6769d3c4c8b0",
+      "number": 6,
+      "content": "còn đường lối ác nhân đưa tới chỗ diệt vong.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:27:21.578Z",
+      "updatedAt": "2024-09-10T04:27:21.578Z",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "9f3f6458-99af-4b7d-959c-795e859a2953",
+      "content": "Tv 1 là <i>một Tv giáo huấn</i>, được coi như một thứ nhập đề cho Sách Thánh vịnh. Bố cục : <b>1</b>) Đường của chính nhân (cc. 1-3) ; <b>2</b>) Đường của ác nhân (cc. 4-5) ; <b>3</b>) Phần kết : hai con đường (c.6).",
+      "position": 18,
+      "order": 0,
+      "createdAt": "2024-09-10T04:27:21.536Z",
+      "updatedAt": "2024-09-10T04:27:21.536Z",
+      "headingId": "dad8b39c-b43d-4456-8796-dc78d8b5b62b",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "fe5cb9af-c03d-48c2-bd55-f71cd992a671",
+      "content": "<i>Vui thú với</i> là thích, tìm được niềm vui. Người công chính thích tuân giữ <i>lề luật Chúa</i>, tức là giáo huấn của Thiên Chúa ghi trong các Sách Thánh Do-thái, cách riêng trong năm cuốn Sách Thánh đầu tiên.",
+      "position": 30,
+      "order": 1,
+      "createdAt": "2024-09-10T04:27:21.545Z",
+      "updatedAt": "2024-09-10T04:27:21.545Z",
+      "verseId": "89a1caa3-fc89-43e4-928a-09fdcf868d07",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "fc61a12f-5716-467e-b323-0a197f0d2a41",
+      "content": "Động từ Do-thái “<span class=\"hebrew-translit\">häGâ</span>” có nghĩa là đọc nhỏ tiếng, đọc nhẩm. Ở đây, bản dịch dùng <i>nhẩm đi nhẩm lại</i> vì tác giả thêm <i>suốt đêm ngày</i>. Có thể hiểu “<span class=\"hebrew-translit\">häGâ</span>” theo những nghĩa rộng hơn : đọc kỹ lưỡng, học hỏi, nghiền ngẫm ...",
+      "position": 16,
+      "order": 2,
+      "createdAt": "2024-09-10T04:27:21.549Z",
+      "updatedAt": "2024-09-10T04:27:21.549Z",
+      "verseId": "27ba1b03-43a8-4f5a-a2bc-a3923952b53d",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "b7191d4f-9c6c-478b-b2b0-a4b3e1068787",
+      "content": "Chính nhân được ví như cây trồng bên suối nước : hoa quả trổ sinh đúng mùa, cành lá luôn tốt tươi. Đó là hình ảnh chỉ sự thành công của chính nhân trong mọi công việc do chính nhân làm trong cuộc sống.",
+      "position": 35,
+      "order": 3,
+      "createdAt": "2024-09-10T04:27:21.561Z",
+      "updatedAt": "2024-09-10T04:27:21.561Z",
+      "verseId": "8e4680a9-0462-488c-89cc-8c60dded4b81",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "408656ab-4dc1-49d4-b4b5-3f32ef3a2287",
+      "content": "Ác nhân không thành công trên đường đời. Tác giả so ác nhân với <i>vỏ trấu gió thổi bay</i> : họ sẽ không đứng vững vào ngày xử án cánh chung và không thể nhập vào cộng đoàn những người được cứu độ.",
+      "position": 45,
+      "order": 4,
+      "createdAt": "2024-09-10T04:27:21.573Z",
+      "updatedAt": "2024-09-10T04:27:21.573Z",
+      "verseId": "fd983739-52f1-419c-8e50-5b886e35f658",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "a6223ed6-de3c-4159-9ae9-5eebb636a672",
+      "content": "Lịch sử Ít-ra-en luôn nhắc nhở người Do-thái về biến cố Xuất Hành và lộ trình từ Ai-cập qua sa mạc đến Đất Hứa. Nhờ đó, họ ý thức rằng đời sống con người giống như cuộc hành trình hướng về một mục tiêu đã nhắm. Vì thế, đối với họ, cần theo một con đường thẳng. <i>Đường</i> (“derek”) ở đây có nghĩa là cách sống, nếp sống, là cách ăn ở, xử trí và hành động. Nếu dịch sát, c.6a phải là : <i>Vì Chúa biết nẻo đường người công chính</i>. Cần hiểu động từ <i>biết</i> ở đây theo nghĩa sâu xa trong thế giới Do-thái : chú tâm đến, lo cho, che chở phù trì. Thiên Chúa lo cho những người công chính, che chở phù trì họ trên nẻo đường họ đang đi, trong cuộc sống phù hợp với ý của Thiên Chúa diễn tả trong Lề Luật. Nhưng con đường do ác nhân chọn đưa họ tới sự huỷ diệt và cái chết.",
+      "position": 43,
+      "order": 5,
+      "createdAt": "2024-09-10T04:27:21.580Z",
+      "updatedAt": "2024-09-10T04:27:21.580Z",
+      "verseId": "3c6fc764-b304-4459-871f-6769d3c4c8b0",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    }
+  ],
+  "headings": [
+    {
+      "id": "87950583-6956-4014-b621-8a5b808c4471",
+      "content": "SÁCH THÁNH VỊNH",
+      "order": 0,
+      "createdAt": "2024-09-10T04:27:21.531Z",
+      "updatedAt": "2024-09-10T04:27:21.531Z",
+      "verseId": "3169f75e-df88-4b60-a73d-2d3ce6f4e49d",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "dad8b39c-b43d-4456-8796-dc78d8b5b62b",
+      "content": "Tv 1 Hai con đường",
+      "order": 1,
+      "createdAt": "2024-09-10T04:27:21.533Z",
+      "updatedAt": "2024-09-10T04:27:21.533Z",
+      "verseId": "3169f75e-df88-4b60-a73d-2d3ce6f4e49d",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    }
+  ],
+  "references": [
+    {
+      "id": "c093c1f4-9cea-4e13-8f8a-d73e9fce4f10",
+      "content": "Gr 17,8",
+      "position": 27,
+      "order": 0,
+      "createdAt": "2024-09-10T04:27:21.553Z",
+      "updatedAt": "2024-09-10T04:27:21.553Z",
+      "verseId": "40662549-82c2-4240-9db8-da78c7081d69",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    },
+    {
+      "id": "fbf25662-8353-4e6c-a4e1-1f05902d35ed",
+      "content": "Tv 35,5; G 21,18; Is 17,13; Hs 13,3",
+      "position": 15,
+      "order": 1,
+      "createdAt": "2024-09-10T04:27:21.567Z",
+      "updatedAt": "2024-09-10T04:27:21.567Z",
+      "verseId": "3cc60b09-8f76-4f08-8412-3062fdc8a6e8",
+      "chapterId": "6d273032-a04d-45a5-84e6-b72dbe967eec"
+    }
+  ]
+}

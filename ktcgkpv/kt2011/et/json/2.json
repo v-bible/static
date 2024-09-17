@@ -1,0 +1,631 @@
+{
+  "chapter": {
+    "id": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f",
+    "number": 2,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.865Z",
+    "updatedAt": "2024-09-10T00:39:05.865Z",
+    "bookId": "6fc6c813-4c9e-46f6-ab4f-ef078dedb786"
+  },
+  "verses": [
+    {
+      "id": "83c5e8d1-c308-48c8-801e-8b0d6486b814",
+      "number": 1,
+      "content": "Sau những biến cố đó, khi cơn giận đã dịu xuống, vua A-suê-rô lại nhớ đến bà Vát-ti, nhớ đến những gì bà đã làm và những quyết định của vua đối với bà.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.499Z",
+      "updatedAt": "2024-09-10T03:39:50.499Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "9930464f-2a34-430b-95b2-c626d88882c0",
+      "number": 2,
+      "content": "Các quan hầu cận vua mới nói : “Phải kiếm cho đức vua những thiếu nữ còn trinh và có nhan sắc.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.517Z",
+      "updatedAt": "2024-09-10T03:39:50.517Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "fe30de6b-da7d-414c-9e88-521d9d4405a2",
+      "number": 3,
+      "content": "Xin đức vua bổ nhiệm các tổng đốc trong mọi miền thuộc vương quốc để tập hợp về thành Su-san tất cả các thiếu nữ còn trinh và có nhan sắc, rồi đem vào hậu cung, đặt dưới quyền viên thái giám của vua là Hê-ghe, người có nhiệm vụ trông nom phụ nữ. Phải cung cấp cho họ các mỹ phẩm.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.524Z",
+      "updatedAt": "2024-09-10T03:39:50.524Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "f80c9bbe-ce91-43b3-ba64-8f1ca7d0bf19",
+      "number": 4,
+      "content": "Thiếu nữ nào được vua ưa thích, sẽ làm hoàng hậu thay thế bà Vát-ti.” Lời đề nghị đó vừa ý vua, và vua đã cho thi hành như vậy.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.528Z",
+      "updatedAt": "2024-09-10T03:39:50.528Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "a4c29da7-f596-4df5-ab68-755c32b5dc50",
+      "number": 5,
+      "content": "Trong thành Su-san, có một người Do-thái tên là Moóc-đo-khai, con ông Gia-ia (ông Gia-ia là con ông Sim-y, ông Sim-y là con ông Kít), thuộc chi tộc Ben-gia-min.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.530Z",
+      "updatedAt": "2024-09-10T03:39:50.530Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "0880bd6c-3e86-48ba-b831-62476f8e25f3",
+      "number": 6,
+      "content": "Từ Giê-ru-sa-lem, ông đã bị đi đày trong số những người bị đi đày cùng với vua Giu-đa là Giơ-khon-gia, những người mà vua Ba-by-lon là Na-bu-cô-đô-nô-xo đã phát lưu.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.538Z",
+      "updatedAt": "2024-09-10T03:39:50.538Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "ae301bc2-4ff6-42de-a674-95367b411ee1",
+      "number": 7,
+      "content": "Ông nuôi nấng dạy dỗ Ha-đát-xa, tức là Ét-te, con gái của người chú ông, vì cô ta mồ côi cả cha lẫn mẹ. Thiếu nữ dung mạo xinh đẹp và dễ coi. Sau khi cha mẹ cô qua đời. Ông Moóc-đo-khai đã nhận cô làm con.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.545Z",
+      "updatedAt": "2024-09-10T03:39:50.545Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "456fab30-108d-4f82-a28c-16ca133b14cd",
+      "number": 8,
+      "content": "Khi lệnh vua và chỉ dụ được công bố, một số đông thiếu nữ được tập hợp về thành Su-san, đặt dưới quyền ông Hê-ghe. Cô Ét-te cũng được đưa về hoàng cung, ở dưới quyền ông Hê-ghe, người có nhiệm vụ trông nom phụ nữ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.556Z",
+      "updatedAt": "2024-09-10T03:39:50.556Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "8f25e3c0-a4d9-41c6-8006-35c314c87691",
+      "number": 9,
+      "content": "Thiếu nữ được ông ưa thích và được lòng ông. Ông vội cung cấp các mỹ phẩm và phần lương thực cần thiết cho cô. Ông còn cho bảy cung nữ tuyển chọn trong hoàng cung để phục vụ cô, rồi chuyển cô và các cung nữ đó về phòng tốt nhất trong hậu cung.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.561Z",
+      "updatedAt": "2024-09-10T03:39:50.561Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "43561063-cefb-4cd9-944f-9880f0319c35",
+      "number": 10,
+      "content": "Cô Ét-te không tiết lộ gì về dân tộc, nguồn gốc của mình, vì ông Moóc-đo-khai cấm cô không được tiết lộ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.566Z",
+      "updatedAt": "2024-09-10T03:39:50.566Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "0163a4c4-eaac-4804-9b5d-ebaa3a735029",
+      "number": 11,
+      "content": "Mỗi ngày, ông Moóc-đo-khai lui tới sân hậu cung để biết tin về sức khoẻ của cô Ét-te và về những gì xảy ra cho cô.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.574Z",
+      "updatedAt": "2024-09-10T03:39:50.574Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "433aba63-0109-4f93-9a8e-5e75555ed68a",
+      "number": 12,
+      "content": "Một thiếu nữ được vào hầu vua A-suê-rô sau thời gian mười hai tháng thi hành đúng quy chế dành cho các phụ nữ. Thời gian trau dồi sắc đẹp diễn tiến như sau cho đến lúc hoàn thành : sáu tháng dùng dầu thơm một dược, sáu tháng thoa kem và dùng các mỹ phẩm khác của phụ nữ.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.578Z",
+      "updatedAt": "2024-09-10T03:39:50.578Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "ab84b74f-3e07-4708-aab5-2e75cd8c3ba4",
+      "number": 13,
+      "content": "Thiếu nữ nào rời hậu cung để vào hoàng cung thì được lãnh tất cả những gì cô xin và được mang theo.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.581Z",
+      "updatedAt": "2024-09-10T03:39:50.581Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "5c177d53-08a1-49df-acc4-ab8a2afc9d6e",
+      "number": 14,
+      "content": "Thiếu nữ đó vào hoàng cung lúc ban chiều, và sáng hôm sau, trở về một hậu cung khác dưới quyền viên thái giám Sa-át-gát, người được vua trao nhiệm vụ trông nom các cung phi. Cô không còn được vào hầu vua nữa, trừ khi vua đem lòng sủng ái và gọi đích danh.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.586Z",
+      "updatedAt": "2024-09-10T03:39:50.586Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "02603380-feaa-41b4-99ba-66353637cf8e",
+      "number": 15,
+      "content": "Nay đến lượt Ét-te vào hầu vua. Cô là con gái ông A-vi-kha-gin, chú ông Moóc-đo-khai ; ông này là người đã nhận cô làm con. Cô chẳng xin gì, ngoại trừ những món viên thái giám của vua đã dặn. Viên thái giám này tên là Hê-ghe, có nhiệm vụ trông nom phụ nữ. Ai nhìn thấy cô cũng đem lòng thương mến.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.599Z",
+      "updatedAt": "2024-09-10T03:39:50.599Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "5c9eed18-b9d7-4301-a4ac-86f7427fbb57",
+      "number": 16,
+      "content": "Cô được đem vào hoàng cung hầu vua A-suê-rô. Bấy giờ là tháng thứ mười, tức là tháng Tê-vết, năm thứ bảy triều đại vua.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.606Z",
+      "updatedAt": "2024-09-10T03:39:50.606Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "042ae403-dfbe-4078-8f60-7bf5ffa1d631",
+      "number": 17,
+      "content": "Vua yêu quý cô hơn mọi phụ nữ khác. Cô được vua mến thương và ưu ái hơn mọi trinh nữ. Vì thế, vua đội triều thiên cho cô và tôn làm hoàng hậu thay thế bà Vát-ti.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.618Z",
+      "updatedAt": "2024-09-10T03:39:50.618Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "d3c183d0-22f3-4a37-8ec1-3a5e010bb6ab",
+      "number": 18,
+      "content": "Vua mở tiệc linh đình đãi các khanh tướng quần thần, gọi là tiệc mừng hoàng hậu Ét-te. Vua cho tất cả các miền nghỉ lễ một ngày và rộng tay ban phát tặng vật xứng bậc đế vương.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.625Z",
+      "updatedAt": "2024-09-10T03:39:50.625Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "e7a041cb-b34c-4f5b-bf20-e2f5ede547f8",
+      "number": 19,
+      "content": "Khi các trinh nữ được tập hợp lần thứ hai, lúc ông Moóc-đo-khai ngồi ở cung môn,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.634Z",
+      "updatedAt": "2024-09-10T03:39:50.634Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "6ceba57f-4ef9-4e96-8e38-24573e4d19c9",
+      "number": 20,
+      "content": "hoàng hậu Ét-te vẫn không cho biết bà thuộc dòng giống nào, dân tộc nào, theo lời ông Moóc-đo-khai đã dặn. Bà vẫn thi hành chỉ thị của ông như hồi còn được ông nuôi nấng dạy dỗ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.643Z",
+      "updatedAt": "2024-09-10T03:39:50.643Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "ba0f31a0-a8d1-4a28-bf01-0cf9502b6a15",
+      "number": 21,
+      "content": "Bấy giờ, ông Moóc-đo-khai ngồi ở cung môn. Có hai viên thái giám của vua là Bi-gơ-than và Te-rét đang giữ phận sự gác cửa hoàng cung, đã nổi giận vì bất mãn, nên tìm cách tra tay hại vua A-suê-rô.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.647Z",
+      "updatedAt": "2024-09-10T03:39:50.647Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "e10c2cf9-e98d-4adb-854a-457c9be7a266",
+      "number": 22,
+      "content": "Biết chuyện đó, ông Moóc-đo-khai liền báo cho hoàng hậu Ét-te ; hoàng hậu tâu lại vua những điều ông Moóc-đo-khai đã tiết lộ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.651Z",
+      "updatedAt": "2024-09-10T03:39:50.651Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "45d77c7c-07b4-48f3-8435-bd45f031279f",
+      "number": 23,
+      "content": "Sự việc được điều tra và xác nhận, hai viên thái giám kia liền bị treo cổ. Vụ này được ghi chép vào sách Sử biên niên trước mặt vua.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:39:50.653Z",
+      "updatedAt": "2024-09-10T03:39:50.653Z",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "ee08dd15-5503-4047-87b9-dde335c65ec8",
+      "content": "<i>Nhớ đến bà Vát-ti</i> : Sau cơn thịnh nộ, vua tỏ lòng thương cảm đối với bà Vát-ti. Vua nhớ đến bà. Như vậy, bản HR có ý nói vua hối tiếc về việc vua đã làm. Nhưng bản HL dịch ngược lại : <i>Vua không còn nhớ đến bà Vát-ti nữa</i> ! Trong câu này, tác giả bản HL cho rằng việc vua “nhớ đến bà” không thể phù hợp với việc <i>vua nhớ đến những gì bà đã làm và những quyết định của vua đối với bà</i>. Vậy nên <i>vua không còn thương nhớ đến bà nữa</i> mới đúng ! Lo ngại ý tưởng câu văn gặp mâu thuẫn, bản HL đã đưa vào đó chữ “không”.",
+      "position": 83,
+      "order": 0,
+      "createdAt": "2024-09-10T03:39:50.513Z",
+      "updatedAt": "2024-09-10T03:39:50.513Z",
+      "verseId": "83c5e8d1-c308-48c8-801e-8b0d6486b814",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "b3797114-c863-4a1c-a6b0-0ceb46a80240",
+      "content": "<i>Quan hầu cận</i>, ds : <i>Các tôi tớ nhỏ phục vụ vua</i> nghĩa là các kiếm đồng hay thị đồng.",
+      "position": 16,
+      "order": 1,
+      "createdAt": "2024-09-10T03:39:50.519Z",
+      "updatedAt": "2024-09-10T03:39:50.519Z",
+      "verseId": "9930464f-2a34-430b-95b2-c626d88882c0",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "ba0030ec-c025-4319-8ecd-11da8c6c601c",
+      "content": "<i>Hậu cung</i>, ds : <i>Nhà của các bà</i>.",
+      "position": 159,
+      "order": 2,
+      "createdAt": "2024-09-10T03:39:50.526Z",
+      "updatedAt": "2024-09-10T03:39:50.526Z",
+      "verseId": "fe30de6b-da7d-414c-9e88-521d9d4405a2",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "aa1e143a-c637-48f7-ae49-d67f1627c3a6",
+      "content": "Ông Moóc-đo-khai xuất hiện như một người điển hình của chủng tộc Do-thái. Lý lịch của ông được trình bày qua một bản gia phả vắn tắt, chỉ bao gồm tượng trưng hai tên tuổi đáng ghi nhớ : Ông Sim-y là người cùng thị tộc với vua Sa-un. Ông Kít là cha của vua Sa-un (1 Sm 9,1), và cũng là người đã từng nguyền rủa vua Đa-vít (2 Sm 16,5tt). Tất nhiên, cả hai ông này đều không phải là ông nội hay ông cố nội của ông Moóc-đo-khai. Tác giả có ý nói ông Moóc-đo-khai là hậu duệ trực tiếp của vua Sa-un, đối nghịch với quan Ha-man là hậu duệ của A-gác.",
+      "position": 60,
+      "order": 3,
+      "createdAt": "2024-09-10T03:39:50.532Z",
+      "updatedAt": "2024-09-10T03:39:50.532Z",
+      "verseId": "a4c29da7-f596-4df5-ab68-755c32b5dc50",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "7e960906-f94e-4880-859f-d37c6cb5bb41",
+      "content": "Cuộc lưu đày này bắt đầu từ năm 598-597 tCN (2 V 24,10-16). Vậy nên chi tiết lịch sử này không chính xác. Tác giả chỉ muốn giới thiệu ông Moóc-đo-khai như một nhân vật quan trọng thuộc hoàng triều các vua Giu-đa (x. 1,1c+).",
+      "position": 34,
+      "order": 4,
+      "createdAt": "2024-09-10T03:39:50.541Z",
+      "updatedAt": "2024-09-10T03:39:50.541Z",
+      "verseId": "0880bd6c-3e86-48ba-b831-62476f8e25f3",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "4c59a59d-e739-4f03-a289-c784fa1aa461",
+      "content": "Cô Ét-te có hai tên : Ha-đát-xa là tên Híp-ri của cô trong cộng đồng người Do-thái. Còn tên Ét-te có lẽ có nguồn gốc Ba-by-lon, phát xuất từ Ít-ta (Ishtar, Astarté), tên vị nữ thần tình yêu của người Ba-by-lon. Có người còn cho rằng Ét-te do từ tiếng Ba-tư “Stareh” có nghĩa là “ánh sao”. Còn theo truyền thống của các Ráp-bi, Ét-te mang ý nghĩa : “dấu ẩn” (x. Đnl 31,17), hàm ý “Thiên Chúa dấu ẩn dung nhan Người” (Is 8,17 ; 54,8).",
+      "position": 44,
+      "order": 5,
+      "createdAt": "2024-09-10T03:39:50.548Z",
+      "updatedAt": "2024-09-10T03:39:50.548Z",
+      "verseId": "ae301bc2-4ff6-42de-a674-95367b411ee1",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "d4c8b1da-5bbc-473e-a6ff-badd13558f10",
+      "content": "<i>Nhận làm con</i> : Thay vì đọc “lebat” (làm con gái) của bản HR, tác giả bản HL cùng với truyền thống Do-thái sau này lại đọc trại đi thành “lebayit” (làm vợ) và cho rằng Ét-te là vợ ông Moóc-đo-khai.",
+      "position": 204,
+      "order": 6,
+      "createdAt": "2024-09-10T03:39:50.550Z",
+      "updatedAt": "2024-09-10T03:39:50.550Z",
+      "verseId": "ae301bc2-4ff6-42de-a674-95367b411ee1",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "6de9c5fd-8a4d-4e8f-9139-b5cd7457fcfb",
+      "content": "<i>Lệnh vua</i>, ds : <i>Lời vua</i>.",
+      "position": 12,
+      "order": 7,
+      "createdAt": "2024-09-10T03:39:50.559Z",
+      "updatedAt": "2024-09-10T03:39:50.559Z",
+      "verseId": "456fab30-108d-4f82-a28c-16ca133b14cd",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "2c10409d-4d39-463b-8350-ec108a02e035",
+      "content": "Hai câu 9 và 10 nhắc ta nhớ đến câu chuyện về các trẻ em Do-thái trong sách Đn 1. Các em này cũng được nhà vua dưỡng nuôi chăm sóc. Nhưng theo tác giả sách Đn thì nhà vua biết rất rõ nguồn gốc lai lịch của các em, cũng như cả sự kiện các em trung thành tuân giữ lề luật.",
+      "position": 103,
+      "order": 8,
+      "createdAt": "2024-09-10T03:39:50.569Z",
+      "updatedAt": "2024-09-10T03:39:50.569Z",
+      "verseId": "43561063-cefb-4cd9-944f-9880f0319c35",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "c1389794-2b1d-4463-8e1b-2683070c4c9d",
+      "content": "Sau khi “phục vụ” vua, các cung nữ đều được xem như “thánh thiêng”. Không ai được phép đụng đến họ ; vì như thế là xúc phạm đến vương quyền và kỳ vọng của hoàng gia (x. 2 Sm 16,21tt ; 1 V 2,22). Do đó, tình trạng “cửa đóng then gài” của họ hoàn toàn khác với tình cảnh của các cung nữ khi mới vào hậu cung (2,9) đang chờ đợi, chuẩn bị làm vui lòng đức vua.",
+      "position": 83,
+      "order": 9,
+      "createdAt": "2024-09-10T03:39:50.591Z",
+      "updatedAt": "2024-09-10T03:39:50.591Z",
+      "verseId": "5c177d53-08a1-49df-acc4-ab8a2afc9d6e",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "df4e7c61-83c0-4d51-838b-8d24e10d2c2a",
+      "content": "<i>A-vi-kha-gin</i> : Bản HL sửa thành <i>A-mi-na-đáp</i> (x. 9,29).",
+      "position": 62,
+      "order": 10,
+      "createdAt": "2024-09-10T03:39:50.602Z",
+      "updatedAt": "2024-09-10T03:39:50.602Z",
+      "verseId": "02603380-feaa-41b4-99ba-66353637cf8e",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "4cf41fa1-faf2-49ae-ae40-9f7aaa733fdc",
+      "content": "<i>Tháng Tê-vết</i> : khoảng tháng 12 và tháng Giêng dương lịch. Bản HL lại sửa thành <i>tháng thứ mười hai, tức là tháng A-đa</i>. Tháng A-đa được trưng dẫn rất nhiều lần trong sách Ét-te, vì đây là tháng có liên hệ tới ngày lễ Pu-rim (x. ch. 9).",
+      "position": 91,
+      "order": 11,
+      "createdAt": "2024-09-10T03:39:50.610Z",
+      "updatedAt": "2024-09-10T03:39:50.610Z",
+      "verseId": "5c9eed18-b9d7-4301-a4ac-86f7427fbb57",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "f5ea4e52-fa4e-45fa-b9e6-d246f15927af",
+      "content": "<i>Năm thứ bảy</i> : Nếu là vua Xéc-xét I, thì đây là năm 479. Kể từ vụ hoàng hậu Vát-ti bị truất phế (x. 1,3) thì nay đã được bốn năm rồi ! Ngoài ra, ta cũng nên lưu ý đến giá trị biểu trưng của con số bảy (x. 1,10) : Con số mang ý nghĩa trọn vẹn, hoàn hảo.",
+      "position": 104,
+      "order": 12,
+      "createdAt": "2024-09-10T03:39:50.614Z",
+      "updatedAt": "2024-09-10T03:39:50.614Z",
+      "verseId": "5c9eed18-b9d7-4301-a4ac-86f7427fbb57",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "759bb0fb-2369-448c-942c-45332546542a",
+      "content": "<i>Trinh nữ</i> : x. 2,2.3.",
+      "position": 84,
+      "order": 13,
+      "createdAt": "2024-09-10T03:39:50.622Z",
+      "updatedAt": "2024-09-10T03:39:50.622Z",
+      "verseId": "042ae403-dfbe-4078-8f60-7bf5ffa1d631",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "bbe5cd7b-20ad-409e-bfc3-f5146b79f223",
+      "content": "<i>Mở tiệc</i> : Theo bản HR, vua mở một bữa tiệc mới (x. 1,3+) : <i>Tiệc mừng hoàng hậu Ét-te</i>. Bản HL lại nói rõ đây là bữa tiệc cưới, có lẽ vì muốn quy chiếu rõ ràng hơn về 2,17 ; và còn xác định thời gian của bữa tiệc là bảy ngày, như muốn tận dụng ý nghĩa vẹn toàn của con số bảy (x. 2,16+).",
+      "position": 11,
+      "order": 14,
+      "createdAt": "2024-09-10T03:39:50.629Z",
+      "updatedAt": "2024-09-10T03:39:50.629Z",
+      "verseId": "d3c183d0-22f3-4a37-8ec1-3a5e010bb6ab",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "9c3df2aa-69fb-49fd-9eb4-68f61f685ab7",
+      "content": "<i>Nghỉ lễ một ngày</i> : nghĩa là giảm thuế một ngày.",
+      "position": 127,
+      "order": 15,
+      "createdAt": "2024-09-10T03:39:50.632Z",
+      "updatedAt": "2024-09-10T03:39:50.632Z",
+      "verseId": "d3c183d0-22f3-4a37-8ec1-3a5e010bb6ab",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "56dc1910-a3ef-49d7-a843-a63d467b5c33",
+      "content": "Cc. 19-23 là bản tóm lược câu chuyện đã được nói đến ở 1,1m-1q. C.19 là câu rất khó giải thích. Trước hết, vấn đề “lần thứ hai” phải được hiểu như thế nào ? Phải chăng đây là lần thứ hai các trinh nữ được tập họp, trong đó có cả cô Ét-te ? Hay lần này là do các quan thái giám triệu tập các trinh nữ còn lại, với ý đồ muốn làm vui lòng vua lần thứ hai, hầu có thể truất phế Ét-te ? Hơn nữa, cấu trúc của văn mạch cũng rắc rối. <i>Ông Moóc-đo-khai ngồi ở cung môn</i> được lặp lại ở c.21. Về mặt văn bản, có người cho đây là chỗ viết trùng (dittography) vì c.20 đã xen vào, làm gián đoạn c.19 vốn trực tiếp gắn kết với c.21. Thế rồi, <i>ngồi ở cung môn</i> để làm gì ? Bản HL hiểu là vì ông Moóc-đo-khai đang thi hành phận vụ trong hoàng cung (1,1b.1q). Nhưng phải chăng ông ngồi đó là vì ông có nhiệm vụ chăm sóc cô Ét-te (2,11) ?",
+      "position": 79,
+      "order": 16,
+      "createdAt": "2024-09-10T03:39:50.640Z",
+      "updatedAt": "2024-09-10T03:39:50.640Z",
+      "verseId": "e7a041cb-b34c-4f5b-bf20-e2f5ede547f8",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "9d1d92a2-9eec-426b-963d-9714aea1826b",
+      "content": "<i>Dạy dỗ</i> : Bản HL giải thích thêm là : Ông Moóc-đo-khai đã dạy Ét-te phải luôn luôn kính sợ Thiên Chúa và tuân giữ lề luật.",
+      "position": 176,
+      "order": 17,
+      "createdAt": "2024-09-10T03:39:50.645Z",
+      "updatedAt": "2024-09-10T03:39:50.645Z",
+      "verseId": "6ceba57f-4ef9-4e96-8e38-24573e4d19c9",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "8b3f0117-90e3-4adb-a602-3a0242eb8bf0",
+      "content": "Theo Đnl 21,22.23, án treo cổ được dành cho những kẻ bị Thiên Chúa nguyền rủa.",
+      "position": 73,
+      "order": 18,
+      "createdAt": "2024-09-10T03:39:50.657Z",
+      "updatedAt": "2024-09-10T03:39:50.657Z",
+      "verseId": "45d77c7c-07b4-48f3-8435-bd45f031279f",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "4bdbc5a7-cddc-4f1a-9df4-c23c40f317c5",
+      "content": "<i>Trước mặt vua</i> : có thể hiểu là <i>dưới quyền vua</i>.",
+      "position": 131,
+      "order": 19,
+      "createdAt": "2024-09-10T03:39:50.659Z",
+      "updatedAt": "2024-09-10T03:39:50.659Z",
+      "verseId": "45d77c7c-07b4-48f3-8435-bd45f031279f",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    }
+  ],
+  "headings": [
+    {
+      "id": "0d44ba6c-4daa-4311-9935-97e07fff81d4",
+      "content": "II. ÔNG MOÓC-ĐO-KHAI VÀ BÀ ÉT-TE",
+      "order": 0,
+      "createdAt": "2024-09-10T03:39:50.509Z",
+      "updatedAt": "2024-09-10T03:39:50.509Z",
+      "verseId": "83c5e8d1-c308-48c8-801e-8b0d6486b814",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "404562cb-bf33-4a37-9a55-75490e83ca63",
+      "content": "Ông Moóc-đo-khai và quan Ha-man",
+      "order": 0,
+      "createdAt": "2024-09-10T03:39:50.637Z",
+      "updatedAt": "2024-09-10T03:39:50.637Z",
+      "verseId": "e7a041cb-b34c-4f5b-bf20-e2f5ede547f8",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "28d6717e-9c43-4b3b-830e-c886d4d5515f",
+      "content": "Bà Ét-te trở thành hoàng hậu",
+      "order": 1,
+      "createdAt": "2024-09-10T03:39:50.511Z",
+      "updatedAt": "2024-09-10T03:39:50.511Z",
+      "verseId": "83c5e8d1-c308-48c8-801e-8b0d6486b814",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    }
+  ],
+  "references": [
+    {
+      "id": "2ef11e38-f38b-431a-bf5b-6102e8dd85bd",
+      "content": "St 8,1 19,29; 30,22",
+      "position": 66,
+      "order": 0,
+      "createdAt": "2024-09-10T03:39:50.516Z",
+      "updatedAt": "2024-09-10T03:39:50.516Z",
+      "verseId": "83c5e8d1-c308-48c8-801e-8b0d6486b814",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "b963a264-35db-4d2c-b0cf-cdb5fec51d13",
+      "content": "1 V 11,3",
+      "position": 37,
+      "order": 1,
+      "createdAt": "2024-09-10T03:39:50.522Z",
+      "updatedAt": "2024-09-10T03:39:50.522Z",
+      "verseId": "9930464f-2a34-430b-95b2-c626d88882c0",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "be069723-ebd1-4b56-86a3-cdb770729b7f",
+      "content": "2 Sm 16,5tt",
+      "position": 100,
+      "order": 2,
+      "createdAt": "2024-09-10T03:39:50.534Z",
+      "updatedAt": "2024-09-10T03:39:50.534Z",
+      "verseId": "a4c29da7-f596-4df5-ab68-755c32b5dc50",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "0b48d0b2-81cc-40fa-aac4-d143f1600080",
+      "content": "1 Sm 9,1; 14,51",
+      "position": 128,
+      "order": 3,
+      "createdAt": "2024-09-10T03:39:50.536Z",
+      "updatedAt": "2024-09-10T03:39:50.536Z",
+      "verseId": "a4c29da7-f596-4df5-ab68-755c32b5dc50",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "c4eb1e67-73e1-415b-bd4d-72155e24052b",
+      "content": "2 V 24,10-17; Gr 24,1",
+      "position": 135,
+      "order": 4,
+      "createdAt": "2024-09-10T03:39:50.543Z",
+      "updatedAt": "2024-09-10T03:39:50.543Z",
+      "verseId": "0880bd6c-3e86-48ba-b831-62476f8e25f3",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "b0f231e0-1a5e-4bdf-9266-b59607e6bd91",
+      "content": "Et 2,15",
+      "position": 39,
+      "order": 5,
+      "createdAt": "2024-09-10T03:39:50.552Z",
+      "updatedAt": "2024-09-10T03:39:50.552Z",
+      "verseId": "ae301bc2-4ff6-42de-a674-95367b411ee1",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "42393c30-aaa2-442e-927c-7afe73a8c2ab",
+      "content": "Ds 11,12; Is 49,23",
+      "position": 82,
+      "order": 6,
+      "createdAt": "2024-09-10T03:39:50.554Z",
+      "updatedAt": "2024-09-10T03:39:50.554Z",
+      "verseId": "ae301bc2-4ff6-42de-a674-95367b411ee1",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "d45b4b43-ad53-4eb6-b9c8-9972276e9697",
+      "content": "St 39,4.21; Đn 1,9",
+      "position": 30,
+      "order": 7,
+      "createdAt": "2024-09-10T03:39:50.564Z",
+      "updatedAt": "2024-09-10T03:39:50.564Z",
+      "verseId": "8f25e3c0-a4d9-41c6-8006-35c314c87691",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "4413f61e-3530-40c0-bc84-35a9492e0d6e",
+      "content": "Et 2,20",
+      "position": 15,
+      "order": 8,
+      "createdAt": "2024-09-10T03:39:50.571Z",
+      "updatedAt": "2024-09-10T03:39:50.571Z",
+      "verseId": "43561063-cefb-4cd9-944f-9880f0319c35",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "e277b4f4-888f-44b9-b0e1-377d558eec17",
+      "content": "Et 4,11",
+      "position": 192,
+      "order": 9,
+      "createdAt": "2024-09-10T03:39:50.595Z",
+      "updatedAt": "2024-09-10T03:39:50.595Z",
+      "verseId": "5c177d53-08a1-49df-acc4-ab8a2afc9d6e",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    },
+    {
+      "id": "cf777d11-7884-4607-bec1-56d570a7dc86",
+      "content": "Et 6,2",
+      "position": 46,
+      "order": 10,
+      "createdAt": "2024-09-10T03:39:50.649Z",
+      "updatedAt": "2024-09-10T03:39:50.649Z",
+      "verseId": "ba0f31a0-a8d1-4a28-bf01-0cf9502b6a15",
+      "chapterId": "7b7bcfef-8e3c-4a27-a8cf-d4becb9d572f"
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "chapter": {
+    "id": "cabc54b2-aea5-4185-bb2a-3714aa14326b",
+    "number": 16,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.345Z",
+    "updatedAt": "2024-09-10T00:39:05.345Z",
+    "bookId": "d9bdb882-cca9-465e-8016-3249f646db21"
+  },
+  "verses": [
+    {
+      "id": "dadc9d42-2bc0-4f62-9a3b-0ccf97ef3ae8",
+      "number": 1,
+      "content": "Đức Giê-su còn nói với các môn đệ rằng : “Một nhà phú hộ kia có một người quản gia. Người ta tố cáo với ông là anh này đã phung phí của cải nhà ông.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.664Z",
+      "updatedAt": "2024-09-10T01:04:01.664Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "a2d00844-3eec-47ad-859f-899413aaaf77",
+      "number": 2,
+      "content": "Ông mới gọi anh ta đến mà bảo : ‘Tôi nghe người ta nói gì về anh đó ? Công việc quản lý của anh, anh tính sổ đi, vì từ nay anh không được làm quản gia nữa !’",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.687Z",
+      "updatedAt": "2024-09-10T01:04:01.687Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "5e458d53-1038-4d4f-9cee-f450b258efed",
+      "number": 3,
+      "content": "Người quản gia liền nghĩ bụng : ‘Mình sẽ làm gì đây ? Vì ông chủ đã cất chức quản gia của mình rồi. Cuốc đất thì không nổi, ăn mày thì hổ ngươi.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.692Z",
+      "updatedAt": "2024-09-10T01:04:01.692Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "bced5862-dc79-4c79-9bb5-d38dd6b37121",
+      "number": 4,
+      "content": "Mình biết phải làm gì rồi, để sau khi mất chức quản gia, sẽ có người đón rước mình về nhà họ !’",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.702Z",
+      "updatedAt": "2024-09-10T01:04:01.702Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "957a384b-ac28-4ce9-9c7a-52e248266bb4",
+      "number": 5,
+      "content": "“Anh ta liền cho gọi từng con nợ của chủ đến, và hỏi người thứ nhất : ‘Bác nợ chủ tôi bao nhiêu vậy ?’",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.711Z",
+      "updatedAt": "2024-09-10T01:04:01.711Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "48c1da61-e1fd-436e-95d3-16e7c79a7446",
+      "number": 6,
+      "content": "Người ấy đáp : ‘Một trăm thùng dầu ô-liu.’ Anh ta bảo : ‘Bác cầm lấy biên lai của bác đây, ngồi xuống mau, viết năm chục thôi.’",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.716Z",
+      "updatedAt": "2024-09-10T01:04:01.716Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2a7f97b5-7bf0-49bd-a904-3624e6c16967",
+      "number": 7,
+      "content": "Rồi anh ta hỏi người khác : ‘Còn bác, bác nợ bao nhiêu vậy ?’ Người ấy đáp : ‘Một ngàn giạ lúa.’ Anh ta bảo : ‘Bác cầm lấy biên lai của bác đây, viết lại tám trăm thôi.’",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.726Z",
+      "updatedAt": "2024-09-10T01:04:01.726Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "number": 8,
+      "content": "“Và ông chủ khen tên quản gia bất lương đó đã hành động khôn khéo. Quả thế, con cái đời này khôn khéo hơn con cái ánh sáng khi xử sự với người đồng loại.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.735Z",
+      "updatedAt": "2024-09-10T01:04:01.735Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "number": 9,
+      "content": "“Phần Thầy, Thầy bảo cho anh em biết : Hãy dùng Tiền Của bất chính mà tạo lấy bạn bè, phòng khi hết tiền hết bạc, họ sẽ đón rước anh em vào nơi ở vĩnh cửu.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.766Z",
+      "updatedAt": "2024-09-10T01:04:01.766Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "13dd3683-9057-489c-8a4e-7487351512e1",
+      "number": 10,
+      "content": "Ai trung tín trong việc rất nhỏ, thì cũng trung tín trong việc lớn ; ai bất lương trong việc rất nhỏ, thì cũng bất lương trong việc lớn.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.801Z",
+      "updatedAt": "2024-09-10T01:04:01.801Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "e466d190-c9a3-4736-aef2-51d63f561683",
+      "number": 11,
+      "content": "Vậy nếu anh em không trung tín trong việc sử dụng Tiền Của bất chính, thì ai sẽ tín nhiệm mà giao phó của cải chân thật cho anh em ?",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.812Z",
+      "updatedAt": "2024-09-10T01:04:01.812Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "6a7df993-7944-46cd-913a-0c3a72548b5d",
+      "number": 12,
+      "content": "Và nếu anh em không trung tín trong việc sử dụng của cải của người khác, thì ai sẽ ban cho anh em của cải dành riêng cho anh em ?",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.817Z",
+      "updatedAt": "2024-09-10T01:04:01.817Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "67d8cfcd-b3aa-4240-b471-d4531cde2c4b",
+      "number": 13,
+      "content": "“Không gia nhân nào có thể làm tôi hai chủ, vì hoặc sẽ ghét chủ này mà yêu chủ kia, hoặc sẽ gắn bó với chủ này mà khinh dể chủ nọ. Anh em không thể vừa làm tôi Thiên Chúa, vừa làm tôi Tiền Của được.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.828Z",
+      "updatedAt": "2024-09-10T01:04:01.828Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "980aa8c2-064e-4f5c-b853-50aeea4a7d2e",
+      "number": 14,
+      "content": "Người Pha-ri-sêu vốn ham hố tiền bạc, nên nghe các điều ấy, thì cười nhạo Đức Giê-su.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.843Z",
+      "updatedAt": "2024-09-10T01:04:01.843Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "8a9543cd-c12c-4874-b3d0-e8fa31388c44",
+      "number": 15,
+      "content": "Người bảo họ : “Các ông là những kẻ làm ra bộ công chính trước mặt người đời, nhưng Thiên Chúa thấu biết lòng các ông, bởi vì điều cao trọng đối với người đời lại là điều ghê tởm trước mặt Thiên Chúa.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.866Z",
+      "updatedAt": "2024-09-10T01:04:01.866Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "4543d389-750c-41ab-90b6-b8b11b8e839a",
+      "number": 16,
+      "content": "“Cho đến thời ông Gio-an, thì có Lề Luật và các ngôn sứ ; còn từ thời đó, thì Tin Mừng Nước Thiên Chúa được loan báo, và ai cũng dùng sức mạnh mà vào.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.890Z",
+      "updatedAt": "2024-09-10T01:04:01.890Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "c3fe4755-89b2-47b6-a547-19a286229505",
+      "number": 17,
+      "content": "“Trời đất qua đi còn dễ hơn là một cái phết của Lề Luật rụng mất.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.911Z",
+      "updatedAt": "2024-09-10T01:04:01.911Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "e53cd962-afdb-4c24-b5b9-7d40b8d58e5e",
+      "number": 18,
+      "content": "“Bất cứ ai rẫy vợ mà cưới vợ khác là phạm tội ngoại tình ; và ai cưới người đàn bà bị chồng rẫy, thì cũng phạm tội ngoại tình.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.927Z",
+      "updatedAt": "2024-09-10T01:04:01.927Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "762438ed-11eb-416c-8587-b686cda40105",
+      "number": 19,
+      "content": "“Có một ông nhà giàu kia, mặc toàn lụa là gấm vóc, ngày ngày yến tiệc linh đình.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.941Z",
+      "updatedAt": "2024-09-10T01:04:01.941Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "9f574525-5696-4bf5-8b69-433778aaba2b",
+      "number": 20,
+      "content": "Lại có một người nghèo khó tên là La-da-rô, mụn nhọt đầy mình, nằm trước cổng ông nhà giàu,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.966Z",
+      "updatedAt": "2024-09-10T01:04:01.966Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "055b70e3-14c5-4862-ba59-50111e10ed3d",
+      "number": 21,
+      "content": "thèm được những thứ trên bàn ăn của ông ấy rớt xuống mà ăn cho no. Lại thêm mấy con chó cứ đến liếm ghẻ chốc anh ta.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.977Z",
+      "updatedAt": "2024-09-10T01:04:01.977Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "c1b45933-c9e8-449c-8a02-cca1dabf4eaa",
+      "number": 22,
+      "content": "Thế rồi người nghèo này chết, và được thiên thần đem vào lòng ông Áp-ra-ham. Ông nhà giàu cũng chết, và người ta đem chôn.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:01.998Z",
+      "updatedAt": "2024-09-10T01:04:01.998Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "898428f7-cdbc-4890-8024-2ecfd52b848f",
+      "number": 23,
+      "content": "“Dưới âm phủ, đang khi chịu cực hình, ông ta ngước mắt lên, thấy tổ phụ Áp-ra-ham ở tận đàng xa, và thấy anh La-da-rô trong lòng tổ phụ.",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.008Z",
+      "updatedAt": "2024-09-10T01:04:02.008Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "dcb8dd99-0e5b-43ec-a9b9-365b64be953e",
+      "number": 24,
+      "content": "Bấy giờ ông ta kêu lên : ‘Lạy tổ phụ Áp-ra-ham, xin thương xót con, và sai anh La-da-rô nhúng đầu ngón tay vào nước, nhỏ trên lưỡi con cho mát ; vì ở đây con bị lửa thiêu đốt khổ lắm !’",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.017Z",
+      "updatedAt": "2024-09-10T01:04:02.017Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "3ac8b414-e445-4ebb-9eaf-b4f4beeb63f8",
+      "number": 25,
+      "content": "Ông Áp-ra-ham đáp : ‘Con ơi, hãy nhớ lại : suốt đời con, con đã nhận phần phước của con rồi ; còn La-da-rô suốt một đời chịu toàn những bất hạnh. Bây giờ, La-da-rô được an ủi nơi đây, còn con thì phải chịu khốn khổ.",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.022Z",
+      "updatedAt": "2024-09-10T01:04:02.022Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "fbabd57f-6482-43ff-afeb-30e4211cc748",
+      "number": 26,
+      "content": "Hơn nữa, giữa chúng ta đây và các con đã có một vực thẳm lớn, đến nỗi bên này muốn qua bên các con cũng không được, mà bên đó có qua bên chúng ta đây cũng không được.’",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.033Z",
+      "updatedAt": "2024-09-10T01:04:02.033Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2f847c30-f4eb-458d-af8b-9a8766de7508",
+      "number": 27,
+      "content": "“Ông nhà giàu nói : ‘Lạy tổ phụ, vậy thì con xin tổ phụ sai anh La-da-rô đến nhà cha con,",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.043Z",
+      "updatedAt": "2024-09-10T01:04:02.043Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "96269d2f-8771-4390-abce-32f5c49c24cd",
+      "number": 28,
+      "content": "vì con hiện còn năm người anh em nữa. Xin sai anh đến cảnh cáo họ, kẻo họ lại cũng sa vào chốn cực hình này !’",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.048Z",
+      "updatedAt": "2024-09-10T01:04:02.048Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2fd1c510-3a3c-42ac-a82b-aba2bfa6d4a6",
+      "number": 29,
+      "content": "Ông Áp-ra-ham đáp : ‘Chúng đã có Mô-sê và các Ngôn Sứ, thì chúng cứ nghe lời các vị đó.’",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.053Z",
+      "updatedAt": "2024-09-10T01:04:02.053Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "64d94e8f-53d9-4ad9-945c-d6b1944b89e8",
+      "number": 30,
+      "content": "Ông nhà giàu nói : ‘Thưa tổ phụ Áp-ra-ham, họ không chịu nghe đâu, nhưng nếu có người từ cõi chết đến với họ, thì họ sẽ ăn năn sám hối.’",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.058Z",
+      "updatedAt": "2024-09-10T01:04:02.058Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "5aa157e3-0c94-4a9a-b1f9-f012a27b9640",
+      "number": 31,
+      "content": "Ông Áp-ra-ham đáp : ‘Mô-sê và các Ngôn Sứ mà họ còn chẳng chịu nghe, thì người chết có sống lại, họ cũng chẳng chịu tin.’”",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:04:02.063Z",
+      "updatedAt": "2024-09-10T01:04:02.063Z",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "f4f49488-385b-4a5e-80e9-7f831b37b043",
+      "content": "Hoặc : <i>giữa loài người</i>.",
+      "position": 32,
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.682Z",
+      "updatedAt": "2024-09-10T01:04:01.682Z",
+      "headingId": "b8ebf51e-43b8-4c7f-9b50-3cbf5996f5a3",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "5b1feafc-93d1-4aeb-861e-9f9b0d3e1491",
+      "content": "Đây là lối nói và tư tưởng đặc trưng của Kinh Thánh (x. Cn 16,5).",
+      "position": 29,
+      "order": 1,
+      "createdAt": "2024-09-10T01:04:01.697Z",
+      "updatedAt": "2024-09-10T01:04:01.697Z",
+      "verseId": "5e458d53-1038-4d4f-9cee-f450b258efed",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "75008f4c-8a52-4390-a6cb-adcd0881f5eb",
+      "content": "Khác với Mt 11,12, Lu-ca xem ông Gio-an Tẩy Giả là một nhân vật thuộc về thời Cựu Ước. Và thời đại đó đã kết thúc (x. 3,20+).",
+      "position": 68,
+      "order": 2,
+      "createdAt": "2024-09-10T01:04:01.706Z",
+      "updatedAt": "2024-09-10T01:04:01.706Z",
+      "verseId": "bced5862-dc79-4c79-9bb5-d38dd6b37121",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "72325eb2-6cb0-4ad2-a12f-4e2aa9b453cf",
+      "content": "Cũng có thể hiểu <i>chen lấn để vào cho được</i>. Ý nghĩa câu này vẫn còn trong vòng tranh luận. Ở đây, mạch ý cả đoạn này cũng như ở 13,24 nhắc đến một lời mời gọi chiến đấu thiêng liêng.",
+      "position": 30,
+      "order": 3,
+      "createdAt": "2024-09-10T01:04:01.721Z",
+      "updatedAt": "2024-09-10T01:04:01.721Z",
+      "verseId": "48c1da61-e1fd-436e-95d3-16e7c79a7446",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "62219cc8-2a6f-48bf-99fb-371aa80e26a1",
+      "content": "ds : <i>một nét chữ</i>. Câu này bổ túc cho câu trước và xác nhận tính trường tồn của Lề Luật. Nhưng Lc hiểu Luật theo nghĩa có giá trị sấm ngôn (x. 24,27.44). Như vậy câu này chuẩn bị câu kết thúc dụ ngôn tiếp theo sau (c.31).",
+      "position": 90,
+      "order": 4,
+      "createdAt": "2024-09-10T01:04:01.731Z",
+      "updatedAt": "2024-09-10T01:04:01.731Z",
+      "verseId": "2a7f97b5-7bf0-49bd-a904-3624e6c16967",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "6f4776a7-400a-4fb7-9b21-2c875384027d",
+      "content": "Câu này bãi bỏ phép rẫy vợ cổ truyền trong Ít-ra-en, và như vậy là một trong những bước đoạn tuyệt rõ rệt nhất của Đức Giê-su với Luật Mô-sê.",
+      "position": 39,
+      "order": 5,
+      "createdAt": "2024-09-10T01:04:01.740Z",
+      "updatedAt": "2024-09-10T01:04:01.740Z",
+      "verseId": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "c9fb1eb2-a934-4dfc-822b-cc4629a099f2",
+      "content": "Cũng như dụ ngôn trong đoạn 15,11-32, dụ ngôn này gồm có hai phần. Cc. 19-26 được viết theo hướng tư tưởng quen thuộc trong cổ Ai-cập và Do-thái giáo : sau khi chết, số phận con người đổi khác (x. các mối phúc ở 6,21-24). Cc. 27-31 là cốt tuỷ của bài học : phải hoán cải ngay, và muốn vậy thì phải nghe theo Mô-sê và các ngôn sứ.",
+      "position": 65,
+      "order": 6,
+      "createdAt": "2024-09-10T01:04:01.745Z",
+      "updatedAt": "2024-09-10T01:04:01.745Z",
+      "verseId": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "be7236a4-c3f9-4542-b631-ab9e67dc6e94",
+      "content": "Vài cổ bản cho tên là <i>Nê-vét</i>.",
+      "position": 91,
+      "order": 7,
+      "createdAt": "2024-09-10T01:04:01.751Z",
+      "updatedAt": "2024-09-10T01:04:01.751Z",
+      "verseId": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "9f4d58c2-c012-45e5-b98d-fd8d3e5fab5f",
+      "content": "ds : <i>vải tía và vải gai thật mịn</i>.",
+      "position": 122,
+      "order": 8,
+      "createdAt": "2024-09-10T01:04:01.755Z",
+      "updatedAt": "2024-09-10T01:04:01.755Z",
+      "verseId": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "206aba3b-2840-48f7-a877-41f437cbc463",
+      "content": "Đây là trường hợp duy nhất một nhân vật dụ ngôn có mang tên. La-da-rô có nghĩa là <i>Thiên Chúa giúp</i>, rất xứng với một người nghèo. Vì trình thuật nói tới sự phục sinh của ông này (x. cc. 27-31), nên nhiều người cho rằng đoạn này có liên can đến đoạn Ga 11 ; nhưng ông La-da-rô của Gio-an không phải là người nghèo.",
+      "position": 152,
+      "order": 9,
+      "createdAt": "2024-09-10T01:04:01.760Z",
+      "updatedAt": "2024-09-10T01:04:01.760Z",
+      "verseId": "3bb124d1-4117-428f-a6b6-3932cbdb78fe",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "8714967d-8b54-42b6-a5eb-7dec954849e0",
+      "content": "Khá nhiều cổ bản thêm <i>những mảnh vụn</i> (x. Mt 15,27).",
+      "position": 37,
+      "order": 10,
+      "createdAt": "2024-09-10T01:04:01.776Z",
+      "updatedAt": "2024-09-10T01:04:01.776Z",
+      "headingId": "e07e11a2-b57b-45f2-99fe-0fd5ecdcf56a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "78af8380-89fd-489d-a5d1-2514ce854b9d",
+      "content": "Có bản thêm <i>nhưng chẳng ai cho</i>, có lẽ do ảnh hưởng của 15,16.",
+      "position": 56,
+      "order": 11,
+      "createdAt": "2024-09-10T01:04:01.781Z",
+      "updatedAt": "2024-09-10T01:04:01.781Z",
+      "verseId": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2b29644d-af14-4e46-954c-b610cf8856ae",
+      "content": "Trong Kinh Thánh, chó bị coi là những con vật ghê tởm và dữ tợn (Tv 22,17.21 ; Cn 26,11 ; x. Mt 7,6).",
+      "position": 112,
+      "order": 12,
+      "createdAt": "2024-09-10T01:04:01.786Z",
+      "updatedAt": "2024-09-10T01:04:01.786Z",
+      "verseId": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "23f6615f-6c18-417b-827b-449d8d93f294",
+      "content": "Đây là chỗ vinh dự trong bữa tiệc mà tổ phụ Áp-ra-ham chủ toạ (về bữa tiệc này, x. 13,28+). Lối nói này còn được dùng ở Ga 13,23, nói về bữa tiệc ly.",
+      "position": 116,
+      "order": 13,
+      "createdAt": "2024-09-10T01:04:01.791Z",
+      "updatedAt": "2024-09-10T01:04:01.791Z",
+      "verseId": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "99f0a43a-5341-4f95-bfd7-3575af4e0447",
+      "content": "Chốn này được tả theo quan niệm một số giáo phái Do-thái : người chết đã được <i>xếp loại</i> trước ngày phán xét (x. c.28) để được thưởng hay bị phạt muôn đời (x. 23,43+). Lc là sách Tin Mừng duy nhất nói về số phận của vong nhân ở thế giới bên kia. Tuy dùng những hình ảnh quen thuộc đương thời, Lc không có ý cho biết thực trạng của thế giới bên kia ; mục tiêu duy nhất của tác giả là cho độc giả thấy con đường cứu độ.",
+      "position": 154,
+      "order": 14,
+      "createdAt": "2024-09-10T01:04:01.796Z",
+      "updatedAt": "2024-09-10T01:04:01.796Z",
+      "verseId": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "ce295ef2-a90d-40e4-b622-98df87bce373",
+      "content": "Tổ phụ Áp-ra-ham minh định nguyên tắc đảo lộn số phận con người bên kia cái chết. Đây là một đề tài điển hình gặp thấy trong nhiều trình thuật cánh chung khác. Nhưng tư tưởng Đức Giê-su không chỉ dừng lại ở điểm này : dụ ngôn sẽ kết thúc với lời khẳng định cần phải sám hối và có lòng tin để khỏi bị kết án.",
+      "position": 81,
+      "order": 15,
+      "createdAt": "2024-09-10T01:04:01.807Z",
+      "updatedAt": "2024-09-10T01:04:01.807Z",
+      "verseId": "13dd3683-9057-489c-8a4e-7487351512e1",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2e0367b3-d425-4849-89cd-01fa81c04040",
+      "content": "Có ý nói khi chết, vận mệnh con người được cố định vĩnh viễn, không bao giờ quay ngược lại nữa. Hình ảnh này không thấy có trong những phác hoạ về thế giới bên kia của các sách Kinh Thánh khác cũng như của Do-thái giáo.",
+      "position": 127,
+      "order": 16,
+      "createdAt": "2024-09-10T01:04:01.822Z",
+      "updatedAt": "2024-09-10T01:04:01.822Z",
+      "verseId": "6a7df993-7944-46cd-913a-0c3a72548b5d",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "62e070b0-4ca6-4a75-8e9a-4a994e117c1b",
+      "content": "Câu này là cốt tuỷ của dụ ngôn. Dấu hiệu có tính cách quyết định để giục người ta có lòng tin không phải là những phép lạ ly kỳ nhất, nhưng là Kinh Thánh (x. 24,27.44), tức là tính cố kết, trước sau như một, của thông điệp mặc khải. Nơi khác, Đức Giê-su đã nói các thành miền Ga-li-lê không hưởng được hiệu quả nào từ các phép lạ đã được thực hiện ở các nơi ấy (x. 10,13+), và Người đã khẳng định rằng các dấu chứng thiêng liêng trội hơn các dấu chứng thể lý (x. Ga 14,11 ; 20,29).",
+      "position": 159,
+      "order": 17,
+      "createdAt": "2024-09-10T01:04:01.834Z",
+      "updatedAt": "2024-09-10T01:04:01.834Z",
+      "verseId": "67d8cfcd-b3aa-4240-b471-d4531cde2c4b",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "16c1b548-7602-4b35-982f-3ddee4240d93",
+      "content": "Tuy được sắp xếp cách lỏng lẻo, cc.14-18 đều nhằm một mục tiêu : xác định lập trường của Đức Giê-su đối với luật và đạo Do-thái. Các câu này cũng chuẩn bị c.31 kết thúc dụ ngôn tiếp theo sau. Nhóm Pha-ri-sêu ở đây được xem là tiêu biểu cho tư tưởng Do-thái giáo.",
+      "position": 16,
+      "order": 18,
+      "createdAt": "2024-09-10T01:04:01.852Z",
+      "updatedAt": "2024-09-10T01:04:01.852Z",
+      "verseId": "980aa8c2-064e-4f5c-b853-50aeea4a7d2e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "66477bf1-ec27-4070-90b0-f9ff34a77747",
+      "content": "Ở 20,47, Đức Giê-su cũng sẽ trách các kinh sư như vậy. Dĩ nhiên là không thể vơ đũa cả nắm (x. 7,36+). Cc. 14-15 được xem như phần chuyển tiếp giữa cc. 9-13 về tiền của và các ngôn từ tiếp theo sau.",
+      "position": 36,
+      "order": 19,
+      "createdAt": "2024-09-10T01:04:01.857Z",
+      "updatedAt": "2024-09-10T01:04:01.857Z",
+      "verseId": "980aa8c2-064e-4f5c-b853-50aeea4a7d2e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "49b0aa6b-ea25-4efc-aa38-ebd941bb8f0e",
+      "content": "Một số bản thêm <i>tất cả</i> các điều ấy.",
+      "position": 58,
+      "order": 20,
+      "createdAt": "2024-09-10T01:04:01.861Z",
+      "updatedAt": "2024-09-10T01:04:01.861Z",
+      "verseId": "980aa8c2-064e-4f5c-b853-50aeea4a7d2e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "ea135527-3b70-4b44-a527-848812099b0b",
+      "content": "X. 18,9 và người thông luật ở 10,29, cũng như 20,20+.",
+      "position": 76,
+      "order": 21,
+      "createdAt": "2024-09-10T01:04:01.871Z",
+      "updatedAt": "2024-09-10T01:04:01.871Z",
+      "verseId": "8a9543cd-c12c-4874-b3d0-e8fa31388c44",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "1c3ea934-c0ba-4401-a671-4a0efc3e73a7",
+      "content": "Đây là một đề tài Kinh Thánh (x. 1 Sm 16,7 ; Cn 24,12) được Lc dùng lại ở Cv 1,24 ; 15,8.",
+      "position": 117,
+      "order": 22,
+      "createdAt": "2024-09-10T01:04:01.875Z",
+      "updatedAt": "2024-09-10T01:04:01.875Z",
+      "verseId": "8a9543cd-c12c-4874-b3d0-e8fa31388c44",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "0cc6850a-b9a4-45ea-b2e3-b32dbcc786ee",
+      "content": "Hoặc : <i>giữa loài người</i>.",
+      "position": 158,
+      "order": 23,
+      "createdAt": "2024-09-10T01:04:01.880Z",
+      "updatedAt": "2024-09-10T01:04:01.880Z",
+      "verseId": "8a9543cd-c12c-4874-b3d0-e8fa31388c44",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "ac3a9c8c-e8fa-4cf8-9907-ae2d1181c66f",
+      "content": "Đây là lối nói và tư tưởng đặc trưng của Kinh Thánh (x. Cn 16,5).",
+      "position": 199,
+      "order": 24,
+      "createdAt": "2024-09-10T01:04:01.885Z",
+      "updatedAt": "2024-09-10T01:04:01.885Z",
+      "verseId": "8a9543cd-c12c-4874-b3d0-e8fa31388c44",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "88fbe428-a7b0-4e35-b4cd-22e9212f9708",
+      "content": "Khác với Mt 11,12, Lu-ca xem ông Gio-an Tẩy Giả là một nhân vật thuộc về thời Cựu Ước. Và thời đại đó đã kết thúc (x. 3,20+).",
+      "position": 55,
+      "order": 25,
+      "createdAt": "2024-09-10T01:04:01.901Z",
+      "updatedAt": "2024-09-10T01:04:01.901Z",
+      "verseId": "4543d389-750c-41ab-90b6-b8b11b8e839a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "7517fe36-777c-46d2-a428-12ea79d1c946",
+      "content": "Cũng có thể hiểu <i>chen lấn để vào cho được</i>. Ý nghĩa câu này vẫn còn trong vòng tranh luận. Ở đây, mạch ý cả đoạn này cũng như ở 13,24 nhắc đến một lời mời gọi chiến đấu thiêng liêng.",
+      "position": 149,
+      "order": 26,
+      "createdAt": "2024-09-10T01:04:01.906Z",
+      "updatedAt": "2024-09-10T01:04:01.906Z",
+      "verseId": "4543d389-750c-41ab-90b6-b8b11b8e839a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "fb074db5-5ab3-4e87-a02a-ca4a6d8d914a",
+      "content": "ds : <i>một nét chữ</i>. Câu này bổ túc cho câu trước và xác nhận tính trường tồn của Lề Luật. Nhưng Lc hiểu Luật theo nghĩa có giá trị sấm ngôn (x. 24,27.44). Như vậy câu này chuẩn bị câu kết thúc dụ ngôn tiếp theo sau (c.31).",
+      "position": 43,
+      "order": 27,
+      "createdAt": "2024-09-10T01:04:01.922Z",
+      "updatedAt": "2024-09-10T01:04:01.922Z",
+      "verseId": "c3fe4755-89b2-47b6-a547-19a286229505",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "75c1a62c-6bbe-40ca-8c5d-83df8e727d76",
+      "content": "Câu này bãi bỏ phép rẫy vợ cổ truyền trong Ít-ra-en, và như vậy là một trong những bước đoạn tuyệt rõ rệt nhất của Đức Giê-su với Luật Mô-sê.",
+      "position": 125,
+      "order": 28,
+      "createdAt": "2024-09-10T01:04:01.936Z",
+      "updatedAt": "2024-09-10T01:04:01.936Z",
+      "verseId": "e53cd962-afdb-4c24-b5b9-7d40b8d58e5e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "eb3b8605-f967-4e0b-bef9-d3b31359927c",
+      "content": "Cũng như dụ ngôn trong đoạn 15,11-32, dụ ngôn này gồm có hai phần. Cc. 19-26 được viết theo hướng tư tưởng quen thuộc trong cổ Ai-cập và Do-thái giáo : sau khi chết, số phận con người đổi khác (x. các mối phúc ở 6,21-24). Cc. 27-31 là cốt tuỷ của bài học : phải hoán cải ngay, và muốn vậy thì phải nghe theo Mô-sê và các ngôn sứ.",
+      "position": 46,
+      "order": 29,
+      "createdAt": "2024-09-10T01:04:01.951Z",
+      "updatedAt": "2024-09-10T01:04:01.951Z",
+      "headingId": "9026354d-2cad-47a6-86c6-345afb234b95",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "00579460-7527-4c57-b894-fed928bad99d",
+      "content": "Vài cổ bản cho tên là <i>Nê-vét</i>.",
+      "position": 24,
+      "order": 30,
+      "createdAt": "2024-09-10T01:04:01.956Z",
+      "updatedAt": "2024-09-10T01:04:01.956Z",
+      "verseId": "762438ed-11eb-416c-8587-b686cda40105",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "8828d1cc-fc41-49e1-855d-f5c2c4092649",
+      "content": "ds : <i>vải tía và vải gai thật mịn</i>.",
+      "position": 49,
+      "order": 31,
+      "createdAt": "2024-09-10T01:04:01.962Z",
+      "updatedAt": "2024-09-10T01:04:01.962Z",
+      "verseId": "762438ed-11eb-416c-8587-b686cda40105",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "2d3b841b-1646-4251-a5e1-bbf5b394bf0c",
+      "content": "Đây là trường hợp duy nhất một nhân vật dụ ngôn có mang tên. La-da-rô có nghĩa là <i>Thiên Chúa giúp</i>, rất xứng với một người nghèo. Vì trình thuật nói tới sự phục sinh của ông này (x. cc. 27-31), nên nhiều người cho rằng đoạn này có liên can đến đoạn Ga 11 ; nhưng ông La-da-rô của Gio-an không phải là người nghèo.",
+      "position": 42,
+      "order": 32,
+      "createdAt": "2024-09-10T01:04:01.972Z",
+      "updatedAt": "2024-09-10T01:04:01.972Z",
+      "verseId": "9f574525-5696-4bf5-8b69-433778aaba2b",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "ca1697cd-f7f4-463c-864c-963dce48e2e3",
+      "content": "Khá nhiều cổ bản thêm <i>những mảnh vụn</i> (x. Mt 15,27).",
+      "position": 19,
+      "order": 33,
+      "createdAt": "2024-09-10T01:04:01.983Z",
+      "updatedAt": "2024-09-10T01:04:01.983Z",
+      "verseId": "055b70e3-14c5-4862-ba59-50111e10ed3d",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "3a7d4fa4-1080-419d-a6b5-9733ec3560b2",
+      "content": "Có bản thêm <i>nhưng chẳng ai cho</i>, có lẽ do ảnh hưởng của 15,16.",
+      "position": 65,
+      "order": 34,
+      "createdAt": "2024-09-10T01:04:01.987Z",
+      "updatedAt": "2024-09-10T01:04:01.987Z",
+      "verseId": "055b70e3-14c5-4862-ba59-50111e10ed3d",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "c7221472-c5e1-4972-b8cd-cac059f4659c",
+      "content": "Trong Kinh Thánh, chó bị coi là những con vật ghê tởm và dữ tợn (Tv 22,17.21 ; Cn 26,11 ; x. Mt 7,6).",
+      "position": 115,
+      "order": 35,
+      "createdAt": "2024-09-10T01:04:01.992Z",
+      "updatedAt": "2024-09-10T01:04:01.992Z",
+      "verseId": "055b70e3-14c5-4862-ba59-50111e10ed3d",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "564cca14-89b7-4f73-9519-731b5253041b",
+      "content": "Đây là chỗ vinh dự trong bữa tiệc mà tổ phụ Áp-ra-ham chủ toạ (về bữa tiệc này, x. 13,28+). Lối nói này còn được dùng ở Ga 13,23, nói về bữa tiệc ly.",
+      "position": 75,
+      "order": 36,
+      "createdAt": "2024-09-10T01:04:02.003Z",
+      "updatedAt": "2024-09-10T01:04:02.003Z",
+      "verseId": "c1b45933-c9e8-449c-8a02-cca1dabf4eaa",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "cabac930-1603-4b37-90eb-b59ec994f04b",
+      "content": "Chốn này được tả theo quan niệm một số giáo phái Do-thái : người chết đã được <i>xếp loại</i> trước ngày phán xét (x. c.28) để được thưởng hay bị phạt muôn đời (x. 23,43+). Lc là sách Tin Mừng duy nhất nói về số phận của vong nhân ở thế giới bên kia. Tuy dùng những hình ảnh quen thuộc đương thời, Lc không có ý cho biết thực trạng của thế giới bên kia ; mục tiêu duy nhất của tác giả là cho độc giả thấy con đường cứu độ.",
+      "position": 12,
+      "order": 37,
+      "createdAt": "2024-09-10T01:04:02.012Z",
+      "updatedAt": "2024-09-10T01:04:02.012Z",
+      "verseId": "898428f7-cdbc-4890-8024-2ecfd52b848f",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "608f107c-367c-4f39-98c2-115748ebe53c",
+      "content": "Tổ phụ Áp-ra-ham minh định nguyên tắc đảo lộn số phận con người bên kia cái chết. Đây là một đề tài điển hình gặp thấy trong nhiều trình thuật cánh chung khác. Nhưng tư tưởng Đức Giê-su không chỉ dừng lại ở điểm này : dụ ngôn sẽ kết thúc với lời khẳng định cần phải sám hối và có lòng tin để khỏi bị kết án.",
+      "position": 214,
+      "order": 38,
+      "createdAt": "2024-09-10T01:04:02.028Z",
+      "updatedAt": "2024-09-10T01:04:02.028Z",
+      "verseId": "3ac8b414-e445-4ebb-9eaf-b4f4beeb63f8",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "eec5e48e-2395-4eab-9421-f443c195fde0",
+      "content": "Có ý nói khi chết, vận mệnh con người được cố định vĩnh viễn, không bao giờ quay ngược lại nữa. Hình ảnh này không thấy có trong những phác hoạ về thế giới bên kia của các sách Kinh Thánh khác cũng như của Do-thái giáo.",
+      "position": 165,
+      "order": 39,
+      "createdAt": "2024-09-10T01:04:02.038Z",
+      "updatedAt": "2024-09-10T01:04:02.038Z",
+      "verseId": "fbabd57f-6482-43ff-afeb-30e4211cc748",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "f6e5ec62-82b3-4755-8aa1-274d821e76b1",
+      "content": "Câu này là cốt tuỷ của dụ ngôn. Dấu hiệu có tính cách quyết định để giục người ta có lòng tin không phải là những phép lạ ly kỳ nhất, nhưng là Kinh Thánh (x. 24,27.44), tức là tính cố kết, trước sau như một, của thông điệp mặc khải. Nơi khác, Đức Giê-su đã nói các thành miền Ga-li-lê không hưởng được hiệu quả nào từ các phép lạ đã được thực hiện ở các nơi ấy (x. 10,13+), và Người đã khẳng định rằng các dấu chứng thiêng liêng trội hơn các dấu chứng thể lý (x. Ga 14,11 ; 20,29).",
+      "position": 119,
+      "order": 40,
+      "createdAt": "2024-09-10T01:04:02.069Z",
+      "updatedAt": "2024-09-10T01:04:02.069Z",
+      "verseId": "5aa157e3-0c94-4a9a-b1f9-f012a27b9640",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    }
+  ],
+  "headings": [
+    {
+      "id": "b8ebf51e-43b8-4c7f-9b50-3cbf5996f5a3",
+      "content": "Dụ ngôn người quản gia bất lương",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.677Z",
+      "updatedAt": "2024-09-10T01:04:01.677Z",
+      "verseId": "dadc9d42-2bc0-4f62-9a3b-0ccf97ef3ae8",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "e07e11a2-b57b-45f2-99fe-0fd5ecdcf56a",
+      "content": "Trung tín trong việc sử dụng Tiền Của",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.771Z",
+      "updatedAt": "2024-09-10T01:04:01.771Z",
+      "verseId": "1a650e46-ec75-4084-83b0-da62c5ea979a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "01e50e94-93ae-45e5-b2af-d24c81ef0637",
+      "content": "Đức Giê-su khiển trách người Pha-ri-sêu ham tiền",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.848Z",
+      "updatedAt": "2024-09-10T01:04:01.848Z",
+      "verseId": "980aa8c2-064e-4f5c-b853-50aeea4a7d2e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "6c625830-5a00-4cfd-af41-054c583d25e7",
+      "content": "Dùng sức mạnh mà vào Nước Thiên Chúa",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.896Z",
+      "updatedAt": "2024-09-10T01:04:01.896Z",
+      "verseId": "4543d389-750c-41ab-90b6-b8b11b8e839a",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "45580f4a-8510-4f19-9631-dc6078adacbb",
+      "content": "Lề Luật sẽ không bao giờ ra vô hiệu",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.916Z",
+      "updatedAt": "2024-09-10T01:04:01.916Z",
+      "verseId": "c3fe4755-89b2-47b6-a547-19a286229505",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "ed260497-6623-4b3f-9a2d-5484bd016780",
+      "content": "Vấn đề ly dị",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.932Z",
+      "updatedAt": "2024-09-10T01:04:01.932Z",
+      "verseId": "e53cd962-afdb-4c24-b5b9-7d40b8d58e5e",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    },
+    {
+      "id": "9026354d-2cad-47a6-86c6-345afb234b95",
+      "content": "Dụ ngôn ông nhà giàu và anh La-da-rô nghèo khó",
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.946Z",
+      "updatedAt": "2024-09-10T01:04:01.946Z",
+      "verseId": "762438ed-11eb-416c-8587-b686cda40105",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    }
+  ],
+  "references": [
+    {
+      "id": "f2ea2ad9-f894-47a3-ab94-057bce294999",
+      "content": "Mt 6,24",
+      "position": 20,
+      "order": 0,
+      "createdAt": "2024-09-10T01:04:01.839Z",
+      "updatedAt": "2024-09-10T01:04:01.839Z",
+      "verseId": "67d8cfcd-b3aa-4240-b471-d4531cde2c4b",
+      "chapterId": "cabc54b2-aea5-4185-bb2a-3714aa14326b"
+    }
+  ]
+}

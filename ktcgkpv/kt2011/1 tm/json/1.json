@@ -1,0 +1,602 @@
+{
+  "chapter": {
+    "id": "b7776758-aa95-4d84-901d-4797919fbef3",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.361Z",
+    "updatedAt": "2024-09-10T00:39:05.361Z",
+    "bookId": "7bd410d2-ffa9-41cf-a1af-adc0e9328eb6"
+  },
+  "verses": [
+    {
+      "id": "35da3c69-a114-432a-bae8-0c59a2646c32",
+      "number": 1,
+      "content": "Tôi là Phao-lô, Tông Đồ của Đức Ki-tô Giê-su theo lệnh Thiên Chúa, Đấng cứu độ chúng ta, và theo lệnh Đức Ki-tô Giê-su, niềm hy vọng của chúng ta,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.120Z",
+      "updatedAt": "2024-09-10T01:24:03.120Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "eff5a7bb-aa47-441d-90f2-67ea4b6f852e",
+      "number": 2,
+      "content": "gửi anh Ti-mô-thê, người con tôi đã sinh ra trong đức tin. Xin Thiên Chúa là Cha và xin Đức Ki-tô Giê-su, Chúa chúng ta, ban cho anh ân sủng, lòng thương xót và sự bình an.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.138Z",
+      "updatedAt": "2024-09-10T01:24:03.138Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "43595a90-56b5-45a7-bf07-470f2a3e876f",
+      "number": 3,
+      "content": "Khi đi Ma-kê-đô-ni-a, tôi đã khuyên anh ở lại Ê-phê-xô để anh truyền cho một số người đừng dạy một giáo lý khác,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.144Z",
+      "updatedAt": "2024-09-10T01:24:03.144Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "7a4a5156-fae2-4627-b398-226a82236bd7",
+      "number": 4,
+      "content": "cũng đừng chú ý đến những chuyện hoang đường và những gia phả dài dòng ; những cái đó chỉ gây ra tranh luận, chứ không đóng góp vào kế hoạch của Thiên Chúa mà đức tin cho chúng ta biết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.152Z",
+      "updatedAt": "2024-09-10T01:24:03.152Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "93c75d2c-7d5b-4c27-a0e7-56d866767abc",
+      "number": 5,
+      "content": "Lời truyền dạy đó phải nhằm đưa tới đức mến phát xuất từ tâm hồn trong sạch, lương tâm ngay thẳng và đức tin không giả hình.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.160Z",
+      "updatedAt": "2024-09-10T01:24:03.160Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "d7dcb152-75a3-4db0-aaef-2687ca35ec66",
+      "number": 6,
+      "content": "Vì đi trệch đường lối ấy, một số người đã sa vào tật nói rỗng tuếch.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.162Z",
+      "updatedAt": "2024-09-10T01:24:03.162Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "c2e3ccf5-9ed4-460f-b35d-bcc519f91b6d",
+      "number": 7,
+      "content": "Họ muốn làm thầy dạy Luật, nhưng lại không hiểu cả điều mình nói lẫn điều mình xác quyết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.164Z",
+      "updatedAt": "2024-09-10T01:24:03.164Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "456b3760-c1b8-4328-bd09-3c977910d201",
+      "number": 8,
+      "content": "Chúng ta biết rằng Lề Luật là tốt, nếu người ta sử dụng cho đúng cách.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.170Z",
+      "updatedAt": "2024-09-10T01:24:03.170Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "67c78eba-94d3-493b-a642-af43f8d3ea30",
+      "number": 9,
+      "content": "Thật vậy, Lề Luật có đó, không phải cho người công chính, mà là cho hạng người sống ngoài lề luật và bất phục tùng, vô luân và tội lỗi, phạm thánh phạm thượng, giết cha giết mẹ, sát nhân,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.175Z",
+      "updatedAt": "2024-09-10T01:24:03.175Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "a2206ade-d945-4de2-9cfc-c6c1681e103f",
+      "number": 10,
+      "content": "dâm dật, kê gian, buôn người, nói dối, bội thề, và những kẻ sống ngược với giáo lý lành mạnh.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.182Z",
+      "updatedAt": "2024-09-10T01:24:03.182Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "40d1e9d1-30f5-4900-a7d8-cb1d0bc85490",
+      "number": 11,
+      "content": "Đó là giáo lý phù hợp với Tin Mừng đã được giao phó cho tôi, Tin Mừng về vinh quang của Thiên Chúa chí tôn.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.192Z",
+      "updatedAt": "2024-09-10T01:24:03.192Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "6ac4a311-b116-4770-8e86-8bcd2361e3c8",
+      "number": 12,
+      "content": "Tôi tạ ơn Đức Ki-tô Giê-su, Chúa chúng ta, Đấng đã ban sức mạnh cho tôi, vì Người đã tín nhiệm mà gọi tôi đến phục vụ Người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.208Z",
+      "updatedAt": "2024-09-10T01:24:03.208Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "6923e01e-fcbf-431e-a3ac-e3cb3ed4c52d",
+      "number": 13,
+      "content": "Trước kia, tôi là kẻ nói lộng ngôn, bắt đạo và ngạo ngược, nhưng tôi đã được Người thương xót, vì tôi đã hành động một cách vô ý thức, trong lúc chưa có lòng tin.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.234Z",
+      "updatedAt": "2024-09-10T01:24:03.234Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "e016578c-b680-45b2-a447-0bca40c0aa0c",
+      "number": 14,
+      "content": "Đức Ki-tô Giê-su, Chúa chúng ta, đã ban cho tôi đầy tràn ân sủng, cùng với đức tin và đức mến của một kẻ được kết hợp với Người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.239Z",
+      "updatedAt": "2024-09-10T01:24:03.239Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "5b3e7472-228c-4a5d-aff5-dd5cde3dbd38",
+      "number": 15,
+      "content": "Đây là lời đáng tin cậy và đáng mọi người đón nhận : Đức Ki-tô Giê-su đã đến thế gian, để cứu những người tội lỗi, mà kẻ đầu tiên là tôi.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.244Z",
+      "updatedAt": "2024-09-10T01:24:03.244Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "3b1f0e39-e653-4195-bd69-45912d71ecbc",
+      "number": 16,
+      "content": "Sở dĩ tôi được thương xót, là vì Đức Giê-su Ki-tô muốn tỏ bày tất cả lòng đại lượng của Người nơi tôi là kẻ đầu tiên, mà đặt tôi làm gương cho những ai sẽ tin vào Người, để được sống muôn đời.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.259Z",
+      "updatedAt": "2024-09-10T01:24:03.259Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "a4e8b82e-c5da-4f41-a5f4-b39a3d0ba65c",
+      "number": 17,
+      "content": "Kính dâng Vua muôn thuở là Thiên Chúa bất diệt, vô hình và duy nhất, kính dâng Người danh dự và vinh quang đến muôn thuở muôn đời. A-men.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.263Z",
+      "updatedAt": "2024-09-10T01:24:03.263Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "70d4bd80-d560-4f86-948f-3c2fa0831c11",
+      "number": 18,
+      "content": "Anh Ti-mô-thê, đó là chỉ thị tôi trao cho anh là người con của tôi, chiếu theo các lời ngôn sứ trước đây đã nói về anh, để anh dựa vào đó mà chiến đấu trong cuộc chiến cao đẹp này,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.273Z",
+      "updatedAt": "2024-09-10T01:24:03.273Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "27f2c99e-9d2a-4463-9636-87262b2b8f52",
+      "number": 19,
+      "content": "với đức tin và lương tâm ngay thẳng. Một số người đã vứt bỏ lương tâm ngay thẳng đó, nên đức tin của họ đã bị chết chìm.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.296Z",
+      "updatedAt": "2024-09-10T01:24:03.296Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "e0742b47-2a06-4450-af85-431c27c8b80b",
+      "number": 20,
+      "content": "Trong số đó có Hy-mê-nê và A-lê-xan-đê ; tôi đã trao nộp họ cho Xa-tan để họ được dạy cho biết đừng nói lộng ngôn nữa.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:03.301Z",
+      "updatedAt": "2024-09-10T01:24:03.301Z",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "f1e9ebf2-c3d6-4b58-b74a-c24c4af2ccfe",
+      "content": "<i>Tông Đồ</i> là người được sai đi đến với người khác để nói cho người ta nghe ý định và giáo huấn của Thiên Chúa. Thánh Phao-lô muốn dùng chữ này để nhấn mạnh đến sứ mệnh độc đáo của mình như các Tông Đồ khác. Đôi khi thay vì chữ tông đồ, người lại dùng chữ <i>tôi tớ</i> như trong Rm 1,1 và Pl 1,1, có ý liên tưởng đến các tôi tớ đặc biệt trong Cựu Ước, và nhất là danh nghĩa tôi tớ của Thiên Chúa là Đức Giê-su Ki-tô.",
+      "position": 23,
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.134Z",
+      "updatedAt": "2024-09-10T01:24:03.134Z",
+      "verseId": "35da3c69-a114-432a-bae8-0c59a2646c32",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "cff20659-69b3-4c4a-a159-79b8edba77e2",
+      "content": "<i>Người con</i> ; con đây là con tinh thần, con thiêng liêng, người được giáo hoá, chịu ảnh hưởng tinh thần, được yêu thương săn sóc giúp đỡ. Thánh Phao-lô dùng chữ này trong 1 Cr 4,15.17 ; Gl 4,19 ; 1 Tx 2,11 ; Plm 10 ; 3 Ga c. 4.",
+      "position": 17,
+      "order": 1,
+      "createdAt": "2024-09-10T01:24:03.140Z",
+      "updatedAt": "2024-09-10T01:24:03.140Z",
+      "verseId": "eff5a7bb-aa47-441d-90f2-67ea4b6f852e",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "d7241cc0-99c0-411c-b486-585864aa935c",
+      "content": "<i>Ê-phê-xô</i> ; ông Ti-mô-thê được khuyên ở lại đây để điều khiển cộng đoàn thánh Phao-lô giao cho.",
+      "position": 54,
+      "order": 2,
+      "createdAt": "2024-09-10T01:24:03.148Z",
+      "updatedAt": "2024-09-10T01:24:03.148Z",
+      "verseId": "43595a90-56b5-45a7-bf07-470f2a3e876f",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "f541234a-74f5-4aab-851c-d3db570106bd",
+      "content": "Giáo lý khác hay điều gì khác cũng vậy, nghĩa là những điều xa lạ hay sai lạc, khác với những điều ông Ti-mô-thê đã được thụ huấn.",
+      "position": 111,
+      "order": 3,
+      "createdAt": "2024-09-10T01:24:03.150Z",
+      "updatedAt": "2024-09-10T01:24:03.150Z",
+      "verseId": "43595a90-56b5-45a7-bf07-470f2a3e876f",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "4e64b2f6-307a-4acb-9847-5fd51ff1b598",
+      "content": "<i>Gia phả dài dòng</i> có lẽ là những suy luận của người Do-thái về các tổ phụ hay các anh hùng trong Cựu Ước.",
+      "position": 70,
+      "order": 4,
+      "createdAt": "2024-09-10T01:24:03.154Z",
+      "updatedAt": "2024-09-10T01:24:03.154Z",
+      "verseId": "7a4a5156-fae2-4627-b398-226a82236bd7",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "25a077df-a877-4b2c-8197-77452a052750",
+      "content": "<i>Kế hoạch</i> : chương trình, ý định.",
+      "position": 140,
+      "order": 5,
+      "createdAt": "2024-09-10T01:24:03.156Z",
+      "updatedAt": "2024-09-10T01:24:03.156Z",
+      "verseId": "7a4a5156-fae2-4627-b398-226a82236bd7",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "007ce35a-cc58-4f34-ad21-3fbf9dc55aba",
+      "content": "Bậc thầy về Kinh Thánh.",
+      "position": 25,
+      "order": 6,
+      "createdAt": "2024-09-10T01:24:03.166Z",
+      "updatedAt": "2024-09-10T01:24:03.166Z",
+      "verseId": "c2e3ccf5-9ed4-460f-b35d-bcc519f91b6d",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "79532205-4383-4d99-b4f2-ff12855476a8",
+      "content": "Người công chính không cần luật, hay đúng ra người ấy đã nội tại hoá luật nơi chính mình rồi, cũng như người viết văn thạo rồi thì không cần đến văn phạm.",
+      "position": 56,
+      "order": 7,
+      "createdAt": "2024-09-10T01:24:03.178Z",
+      "updatedAt": "2024-09-10T01:24:03.178Z",
+      "verseId": "67c78eba-94d3-493b-a642-af43f8d3ea30",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "7d523955-3d26-442d-8946-76358f3d3410",
+      "content": "<i>Kê gian</i> : một lối thoả mãn nhục dục kỳ quái.",
+      "position": 16,
+      "order": 8,
+      "createdAt": "2024-09-10T01:24:03.185Z",
+      "updatedAt": "2024-09-10T01:24:03.185Z",
+      "verseId": "a2206ade-d945-4de2-9cfc-c6c1681e103f",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "68152f1f-180d-4c7b-bc04-6124f90d5ba1",
+      "content": "<i>Giáo lý lành mạnh</i> là lời rao giảng trung thực của các Tông Đồ truyền lại ; thường được nhắc tới trong các thư mục vụ như 1 Tm 6,3 ; 2 Tm 1,13 ; 1 Tm 4,3 ; Tt 1,9.13 ; 2 Tm 1,8 và có liên hệ tới đời sống luân lý (x. Rm 12,1-2 ; Pl 4,8-9).",
+      "position": 92,
+      "order": 9,
+      "createdAt": "2024-09-10T01:24:03.188Z",
+      "updatedAt": "2024-09-10T01:24:03.188Z",
+      "verseId": "a2206ade-d945-4de2-9cfc-c6c1681e103f",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "d4e574d4-6fd2-4395-8bc5-84ab5e09765a",
+      "content": "<i>Tin Mừng</i> ban đầu dùng theo nghĩa đời trong triều đình vua chúa Hy-lạp, khi có tin hoàng tử, công chúa ra đời hay tin chiến thắng ; sau dùng theo nghĩa đạo, chỉ lời rao giảng của Đức Ki-tô hay chính bản thân Người. Người báo tin cho nhân loại biết là họ được cứu độ, được giao hoà với Thiên Chúa. Tin Mừng này trước tiên được rao giảng, sau được ghi chép thành sách, quen gọi là bốn sách Phúc Âm hay Tin Mừng theo thánh Mát-thêu, Mác-cô, Lu-ca và Gio-an.",
+      "position": 34,
+      "order": 10,
+      "createdAt": "2024-09-10T01:24:03.195Z",
+      "updatedAt": "2024-09-10T01:24:03.195Z",
+      "verseId": "40d1e9d1-30f5-4900-a7d8-cb1d0bc85490",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "2cdd1c4b-4515-4b41-aa67-f0276dfb58d8",
+      "content": "<i>Sức mạnh</i> ở đây là lòng can đảm và sự hăng hái. Đó là động lực từ bên trong thúc đẩy thánh Phao-lô hành động không biết mệt mỏi. Và động lực này từ Chúa mà đến.",
+      "position": 63,
+      "order": 11,
+      "createdAt": "2024-09-10T01:24:03.219Z",
+      "updatedAt": "2024-09-10T01:24:03.219Z",
+      "verseId": "6ac4a311-b116-4770-8e86-8bcd2361e3c8",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "da286d82-9b91-441a-89ba-a4f224622e17",
+      "content": "<i>Phục vụ</i> : tiếng rất thông dụng hiện nay, có nghĩa là giúp đỡ, làm việc gì cho ai. Riêng ở đây thì nghĩa mạnh và sâu sắc hơn, nghĩa là rao giảng cho người ta biết Đức Ki-tô, làm theo các lời giáo huấn của Người.",
+      "position": 117,
+      "order": 12,
+      "createdAt": "2024-09-10T01:24:03.224Z",
+      "updatedAt": "2024-09-10T01:24:03.224Z",
+      "verseId": "6ac4a311-b116-4770-8e86-8bcd2361e3c8",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "80add98d-3a3b-476f-9e47-5698b22fc3bb",
+      "content": "<i>Kẻ đầu tiên</i> : một kiểu nói khiêm nhường của thánh Phao-lô để làm nổi bật tình thương của Chúa đối với con người. Ở đây chắc chắn không thể hiểu được là thánh nhân muốn cho mình là kẻ tội lỗi nhất trong mọi người. Phao-lô đưa trường hợp của mình ra như một điển hình về lòng thương xót của Chúa để kêu gọi mọi người dù tội lỗi thế nào cũng hãy tin tưởng vào tình thương ấy (x. c. 16).",
+      "position": 129,
+      "order": 13,
+      "createdAt": "2024-09-10T01:24:03.249Z",
+      "updatedAt": "2024-09-10T01:24:03.249Z",
+      "verseId": "5b3e7472-228c-4a5d-aff5-dd5cde3dbd38",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "1dcb801f-08dc-4ce1-b3de-6d12d3c25d51",
+      "content": "<i>Lời ngôn sứ</i> : ám chỉ ông Ti-mô-thê được trao thừa tác vụ tư tế cho, nhờ sự can thiệp của các ngôn sứ (x. Cv 16,2-3), nghĩa là những người vừa báo trước một số sự việc sẽ xảy ra cho Hội Thánh, lại vừa khuyến khích nâng đỡ những người khác, giống như các ngôn sứ thời xưa trong Cựu Ước. Ý tưởng này được nói đến trong 1 Tm 4,14 và Cv 13,1-3 ; 11,27.",
+      "position": 94,
+      "order": 14,
+      "createdAt": "2024-09-10T01:24:03.282Z",
+      "updatedAt": "2024-09-10T01:24:03.282Z",
+      "verseId": "70d4bd80-d560-4f86-948f-3c2fa0831c11",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "28892aa0-429e-4fd7-9502-9aae88638ee7",
+      "content": "Kiểu nói mạnh có ý bảo : loại trừ Hy-mê-nê và A-lê-xan-đê, hai người được nhắc tới trong 2 Tm 2,17 và 2 Tm 4,14, ra khỏi cộng đoàn.",
+      "position": 70,
+      "order": 15,
+      "createdAt": "2024-09-10T01:24:03.306Z",
+      "updatedAt": "2024-09-10T01:24:03.306Z",
+      "verseId": "e0742b47-2a06-4450-af85-431c27c8b80b",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    }
+  ],
+  "headings": [
+    {
+      "id": "b0f6f627-a57e-4d5d-bae0-9548e6d86e51",
+      "content": "THƯ 1 GỬI ÔNG TI-MÔ-THÊ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.130Z",
+      "updatedAt": "2024-09-10T01:24:03.130Z",
+      "verseId": "35da3c69-a114-432a-bae8-0c59a2646c32",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "ddd71cb8-4268-4f19-b7e8-186290e994ff",
+      "content": "Đề phòng giáo lý sai lạc",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.146Z",
+      "updatedAt": "2024-09-10T01:24:03.146Z",
+      "verseId": "43595a90-56b5-45a7-bf07-470f2a3e876f",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "e14ccef4-081d-47cb-80ca-eff44c3aad6c",
+      "content": "Vai trò của Lề Luật",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.173Z",
+      "updatedAt": "2024-09-10T01:24:03.173Z",
+      "verseId": "456b3760-c1b8-4328-bd09-3c977910d201",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "45534349-22c4-4d43-b5a5-f78a86cb6b12",
+      "content": "Ông Phao-lô suy nghĩ về ơn gọi của mình",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.213Z",
+      "updatedAt": "2024-09-10T01:24:03.213Z",
+      "verseId": "6ac4a311-b116-4770-8e86-8bcd2361e3c8",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "a66cf6f3-7a43-490f-9a8e-70469322fade",
+      "content": "Trách nhiệm của ông Ti-mô-thê",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.278Z",
+      "updatedAt": "2024-09-10T01:24:03.278Z",
+      "verseId": "70d4bd80-d560-4f86-948f-3c2fa0831c11",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "2b64ef68-0410-4beb-8c7b-8e3027b24b5c",
+      "content": "Lời mở đầu",
+      "order": 1,
+      "createdAt": "2024-09-10T01:24:03.132Z",
+      "updatedAt": "2024-09-10T01:24:03.132Z",
+      "verseId": "35da3c69-a114-432a-bae8-0c59a2646c32",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    }
+  ],
+  "references": [
+    {
+      "id": "a26b59b6-f902-4a3f-8c4b-700ad1a2c8c8",
+      "content": "Cl 1,27",
+      "position": 120,
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:03.136Z",
+      "updatedAt": "2024-09-10T01:24:03.136Z",
+      "verseId": "35da3c69-a114-432a-bae8-0c59a2646c32",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "dda6764f-90dd-4513-bf84-65f065538d7d",
+      "content": "Cv 16,1; Pl 2,19-23; Tt 1,4",
+      "position": 19,
+      "order": 1,
+      "createdAt": "2024-09-10T01:24:03.142Z",
+      "updatedAt": "2024-09-10T01:24:03.142Z",
+      "verseId": "eff5a7bb-aa47-441d-90f2-67ea4b6f852e",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "38c83bed-a9bb-406d-9a29-8b555184ef5a",
+      "content": "Tt 1,14; 3,9",
+      "position": 26,
+      "order": 2,
+      "createdAt": "2024-09-10T01:24:03.158Z",
+      "updatedAt": "2024-09-10T01:24:03.158Z",
+      "verseId": "7a4a5156-fae2-4627-b398-226a82236bd7",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "5741aa9a-584a-48b9-ac6c-c59b87d6e587",
+      "content": "Tt 1,10",
+      "position": 37,
+      "order": 3,
+      "createdAt": "2024-09-10T01:24:03.168Z",
+      "updatedAt": "2024-09-10T01:24:03.168Z",
+      "verseId": "c2e3ccf5-9ed4-460f-b35d-bcc519f91b6d",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "cbef5cfc-2621-4841-a400-225b50bd80c3",
+      "content": "Rm 1,29",
+      "position": 68,
+      "order": 4,
+      "createdAt": "2024-09-10T01:24:03.180Z",
+      "updatedAt": "2024-09-10T01:24:03.180Z",
+      "verseId": "67c78eba-94d3-493b-a642-af43f8d3ea30",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "20b83d81-b381-4f39-8638-c4af3791b93f",
+      "content": "1 Tx 2,4; Tt 1,3",
+      "position": 43,
+      "order": 5,
+      "createdAt": "2024-09-10T01:24:03.199Z",
+      "updatedAt": "2024-09-10T01:24:03.199Z",
+      "verseId": "40d1e9d1-30f5-4900-a7d8-cb1d0bc85490",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "0ba434ae-0378-4259-8ac5-44a5c0a62391",
+      "content": "2 Cr 4,4",
+      "position": 61,
+      "order": 6,
+      "createdAt": "2024-09-10T01:24:03.203Z",
+      "updatedAt": "2024-09-10T01:24:03.203Z",
+      "verseId": "40d1e9d1-30f5-4900-a7d8-cb1d0bc85490",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "6c9c788c-80ed-47b8-9f49-f572efbef642",
+      "content": "Cv 9,15; Gl 1,15-16",
+      "position": 98,
+      "order": 7,
+      "createdAt": "2024-09-10T01:24:03.229Z",
+      "updatedAt": "2024-09-10T01:24:03.229Z",
+      "verseId": "6ac4a311-b116-4770-8e86-8bcd2361e3c8",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "11b6e0ea-bfac-465a-9c46-bdbd4d3fd3ee",
+      "content": "Lc 15,2; 19,10",
+      "position": 100,
+      "order": 8,
+      "createdAt": "2024-09-10T01:24:03.254Z",
+      "updatedAt": "2024-09-10T01:24:03.254Z",
+      "verseId": "5b3e7472-228c-4a5d-aff5-dd5cde3dbd38",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "cc10a8e3-728b-4df0-a7d0-8c2cc5965903",
+      "content": "Rm 16,27",
+      "position": 96,
+      "order": 9,
+      "createdAt": "2024-09-10T01:24:03.268Z",
+      "updatedAt": "2024-09-10T01:24:03.268Z",
+      "verseId": "a4e8b82e-c5da-4f41-a5f4-b39a3d0ba65c",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "ea940959-4c52-4493-a0bd-ff2bedc008b9",
+      "content": "1 Tm 4,14; Cv 13,1-3; 11,27+",
+      "position": 83,
+      "order": 10,
+      "createdAt": "2024-09-10T01:24:03.287Z",
+      "updatedAt": "2024-09-10T01:24:03.287Z",
+      "verseId": "70d4bd80-d560-4f86-948f-3c2fa0831c11",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "8f2c805e-13a2-49f6-a3d6-5cf83ed78ba3",
+      "content": "2 Tm 4,7",
+      "position": 141,
+      "order": 11,
+      "createdAt": "2024-09-10T01:24:03.292Z",
+      "updatedAt": "2024-09-10T01:24:03.292Z",
+      "verseId": "70d4bd80-d560-4f86-948f-3c2fa0831c11",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    },
+    {
+      "id": "a6268fe5-f267-483d-9f35-1ca3e633cb62",
+      "content": "2 Tm 2,17; 4,14",
+      "position": 15,
+      "order": 12,
+      "createdAt": "2024-09-10T01:24:03.311Z",
+      "updatedAt": "2024-09-10T01:24:03.311Z",
+      "verseId": "e0742b47-2a06-4450-af85-431c27c8b80b",
+      "chapterId": "b7776758-aa95-4d84-901d-4797919fbef3"
+    }
+  ]
+}
