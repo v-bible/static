@@ -1,0 +1,433 @@
+{
+  "chapter": {
+    "id": "1eae7438-0183-41f6-a8ae-0eb93954d29b",
+    "number": 46,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.892Z",
+    "updatedAt": "2024-09-10T00:39:05.892Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "7bac6c9b-522a-4f48-b54f-45c1d49ac0e7",
+      "number": 1,
+      "content": "Phần ca trưởng. Của con cái ông Cô-rắc. Theo điệu : Các thiếu nữ. Thánh ca.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:26:24.250Z",
+      "updatedAt": "2024-09-10T04:26:24.250Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "f6638894-598d-472f-a400-946ddefd34c5",
+      "number": 2,
+      "content": "Thiên Chúa là nơi ta ẩn náu, là sức mạnh của ta.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.264Z",
+      "updatedAt": "2024-09-10T04:26:24.264Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "0cbc1237-155c-4d38-afb3-afad570efc93",
+      "number": 2,
+      "content": "Người luôn luôn sẵn sàng giúp đỡ khi ta phải ngặt nghèo.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.268Z",
+      "updatedAt": "2024-09-10T04:26:24.268Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "4a0be504-5799-4b47-a96e-8d5f5cf687c0",
+      "number": 3,
+      "content": "Nên dầu cho địa cầu chuyển động,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.270Z",
+      "updatedAt": "2024-09-10T04:26:24.270Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "49313a12-2df8-4b06-a240-8302722ffb63",
+      "number": 3,
+      "content": "núi đồi có sập xuống biển sâu,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.276Z",
+      "updatedAt": "2024-09-10T04:26:24.276Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "226fd5e7-647d-4c7e-b43a-4115618c87ae",
+      "number": 4,
+      "content": "dầu cho sóng biển ầm ầm sôi sục,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.278Z",
+      "updatedAt": "2024-09-10T04:26:24.278Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "c2a661dc-95ff-4993-ba8c-96327fe94151",
+      "number": 4,
+      "content": "núi đồi có lảo đảo khi thuỷ triều dâng,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.281Z",
+      "updatedAt": "2024-09-10T04:26:24.281Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "bb704f10-527d-4ba8-ba34-3b7403842629",
+      "number": 4,
+      "content": "ta cũng chẳng sợ gì.",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.283Z",
+      "updatedAt": "2024-09-10T04:26:24.283Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "d2ee6395-9c1b-4f16-ab23-205d6fa26a9f",
+      "number": 4,
+      "content": "(Chính Chúa Tể càn khôn ở cùng ta luôn mãi,",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.285Z",
+      "updatedAt": "2024-09-10T04:26:24.285Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "fabd4c79-a4d6-473f-9338-6c1c69166c02",
+      "number": 4,
+      "content": "Thiên Chúa nhà Gia-cóp là thành bảo vệ ta.)",
+      "order": 4,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.287Z",
+      "updatedAt": "2024-09-10T04:26:24.287Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "8c593e15-887a-4a58-95b7-42970b461132",
+      "number": 5,
+      "content": "Một dòng sông chảy ra bao nhánh",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.290Z",
+      "updatedAt": "2024-09-10T04:26:24.290Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "e2bcfc83-9b2b-4788-833a-094831044f17",
+      "number": 5,
+      "content": "đem niềm vui cho thành của Chúa Trời :",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.293Z",
+      "updatedAt": "2024-09-10T04:26:24.293Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "25b9cb49-8ea7-4127-ae1f-90aeaaa6ff7d",
+      "number": 5,
+      "content": "đây chính là đền thánh Đấng Tối Cao.",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.295Z",
+      "updatedAt": "2024-09-10T04:26:24.295Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "1c7f88e1-a9df-4461-bcef-c20981617a41",
+      "number": 6,
+      "content": "Thiên Chúa ngự giữa thành, thành không lay chuyển ;",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.297Z",
+      "updatedAt": "2024-09-10T04:26:24.297Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "7a693399-3ad1-45d2-8e63-949ab1485970",
+      "number": 6,
+      "content": "ngay từ rạng đông, Thiên Chúa thương trợ giúp.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.299Z",
+      "updatedAt": "2024-09-10T04:26:24.299Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "4a0b8e53-ef78-4cd2-b9fd-5b171db099f1",
+      "number": 7,
+      "content": "Muôn dân náo động, muôn nước chuyển lay,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.304Z",
+      "updatedAt": "2024-09-10T04:26:24.304Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "2d90d9cc-e14b-4fa9-ad02-9d8ea2a19055",
+      "number": 7,
+      "content": "tiếng Người vang lên là trái đất rã rời.",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.308Z",
+      "updatedAt": "2024-09-10T04:26:24.308Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "ffd8f798-112d-4e0a-88f8-8ac1dd4348f5",
+      "number": 8,
+      "content": "Chính Chúa Tể càn khôn ở cùng ta luôn mãi,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.310Z",
+      "updatedAt": "2024-09-10T04:26:24.310Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "657a7dbe-076e-4158-8022-6ef96b83596e",
+      "number": 8,
+      "content": "Thiên Chúa nhà Gia-cóp là thành bảo vệ ta.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.315Z",
+      "updatedAt": "2024-09-10T04:26:24.315Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "c9788b52-08bc-4c62-91f6-7893e2bdc192",
+      "number": 9,
+      "content": "Đến mà xem công trình của CHÚA,",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.317Z",
+      "updatedAt": "2024-09-10T04:26:24.317Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "53258bf2-c3b6-4d59-945a-a08fe4b62ad0",
+      "number": 9,
+      "content": "Đấng gieo kinh hãi trên mặt địa cầu.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.319Z",
+      "updatedAt": "2024-09-10T04:26:24.319Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "a0a9ad5c-77d0-44e0-83d4-0f50f9e284bf",
+      "number": 10,
+      "content": "Người chấm dứt chiến tranh trên toàn cõi thế,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.321Z",
+      "updatedAt": "2024-09-10T04:26:24.321Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "dc25d94a-bd7a-4820-913e-60c3d388faa9",
+      "number": 10,
+      "content": "cung tên bẻ gẫy, gươm giáo đập tan,",
+      "order": 1,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.323Z",
+      "updatedAt": "2024-09-10T04:26:24.323Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "dbf5f687-5be8-4c46-8642-63ad657c247b",
+      "number": 10,
+      "content": "còn khiên thuẫn thì quăng vào lửa.",
+      "order": 2,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.326Z",
+      "updatedAt": "2024-09-10T04:26:24.326Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "6b1f514b-1cc9-4201-b38f-2249468d3326",
+      "number": 11,
+      "content": "Dừng tay lại : Hãy biết Ta đây là Thiên Chúa !",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.328Z",
+      "updatedAt": "2024-09-10T04:26:24.328Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "6b61f90e-f3b6-45fa-9ddc-96f1a1656a61",
+      "number": 11,
+      "content": "Ta thống trị muôn dân, thống trị địa cầu.",
+      "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.330Z",
+      "updatedAt": "2024-09-10T04:26:24.330Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "ed20d06b-b458-4c33-bab3-ac2263a784a2",
+      "number": 12,
+      "content": "Chính Chúa Tể càn khôn ở cùng ta luôn mãi,",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.332Z",
+      "updatedAt": "2024-09-10T04:26:24.332Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "640f5c4b-ca9f-4c5e-8196-d29ffe8a4032",
+      "number": 12,
+      "content": "Thiên Chúa nhà Gia-cóp là thành bảo vệ ta.",
+      "order": 1,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:26:24.334Z",
+      "updatedAt": "2024-09-10T04:26:24.334Z",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "9e88b288-4ba9-43ee-b034-edd87ded22e9",
+      "content": "Thánh vịnh 46 là <i>một</i> trong những <i>Thánh vịnh về Xi-on</i> (46 ; 48 ; 76 ; 84 ; 87 ; 122). Cấu trúc của Thánh vịnh 46 : <b>1</b>) Thiên Chúa là nơi an toàn cho dân Người ẩn náu (cc. 2-4) ; <b>2</b>) Thiên Chúa ngự giữa thành (cc. 5-8) ; <b>3</b>) Cuộc chiến thắng của Thiên Chúa (cc. 9-12). Ở cuối đoạn thứ hai và đoạn thứ ba đều có một điệp khúc (c.8 và c.12), nên có lẽ sau c.4 điệp khúc đó cũng nằm sau c.4. Không biết tại sao M lại không ghi điệp khúc đó. Vì thế, nhiều dịch giả và nhiều nhà chú giải đã thêm điệp khúc vào sau c.4 ; trong bản dịch này, điệp khúc sau c.4 nằm giữa hai ngoặc đơn.",
+      "position": 65,
+      "order": 0,
+      "createdAt": "2024-09-10T04:26:24.262Z",
+      "updatedAt": "2024-09-10T04:26:24.262Z",
+      "headingId": "587dd4a4-1bf6-4ca3-bbc4-ae3d9481217e",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "935953d4-0cf3-4170-afe5-1f256f82b8f4",
+      "content": "Các hiện tượng thiên nhiên gây xáo trộn, làm cho vũ trụ phải náo động. Tình trạng này gợi nhớ cảnh hỗn mang tiên khởi. Cho dầu các tín hữu có gặp bước gian truân khốn khó, cho dầu các hiện tượng thiên nhiên có xảy ra, không gì có thể làm cho họ phải sợ hãi, vì Thiên Chúa là nơi họ trú ẩn, vì Người luôn sẵn sàng can thiệp để phù giúp chở che.",
+      "position": 31,
+      "order": 1,
+      "createdAt": "2024-09-10T04:26:24.272Z",
+      "updatedAt": "2024-09-10T04:26:24.272Z",
+      "verseId": "4a0be504-5799-4b47-a96e-8d5f5cf687c0",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "4ce6b17d-34da-49de-b6c9-d3f5258071e5",
+      "content": "Thiên Chúa ngự giữa thành Giê-ru-sa-lem. Sự hiện diện đó là một bảo đảm cho thành thánh, vì Thiên Chúa ban ơn trợ giúp. Có lẽ <i>bao nhánh của một dòng sông</i> trong c.5 chỉ những kênh dẫn nước vào thành Giê-ru-sa-lem do vua Khít-ki-gia đã cho đào (x. 2 V 18,17 ; 20,20). Những dòng nước này làm cho Giê-ru-sa-lem được phì nhiêu, biến nó thành một Ê-đen mới.",
+      "position": 45,
+      "order": 2,
+      "createdAt": "2024-09-10T04:26:24.301Z",
+      "updatedAt": "2024-09-10T04:26:24.301Z",
+      "verseId": "7a693399-3ad1-45d2-8e63-949ab1485970",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    }
+  ],
+  "headings": [
+    {
+      "id": "587dd4a4-1bf6-4ca3-bbc4-ae3d9481217e",
+      "content": "Tv 46 (45) Thiên Chúa là nơi ẩn náu và sức mạnh của người tín hữu",
+      "order": 0,
+      "createdAt": "2024-09-10T04:26:24.260Z",
+      "updatedAt": "2024-09-10T04:26:24.260Z",
+      "verseId": "7bac6c9b-522a-4f48-b54f-45c1d49ac0e7",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    }
+  ],
+  "references": [
+    {
+      "id": "56dd59a7-cea8-42de-a9c0-c9f937c85a1e",
+      "content": "Tv 62,9",
+      "position": 21,
+      "order": 0,
+      "createdAt": "2024-09-10T04:26:24.266Z",
+      "updatedAt": "2024-09-10T04:26:24.266Z",
+      "verseId": "f6638894-598d-472f-a400-946ddefd34c5",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "07651070-3a4f-43ec-9c51-66b0712c6f6b",
+      "content": "Is 54,10",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:26:24.274Z",
+      "updatedAt": "2024-09-10T04:26:24.274Z",
+      "verseId": "4a0be504-5799-4b47-a96e-8d5f5cf687c0",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "50a1e00f-ef15-43e3-a6ab-b196faedd94f",
+      "content": "Kh 11,18",
+      "position": 0,
+      "order": 2,
+      "createdAt": "2024-09-10T04:26:24.306Z",
+      "updatedAt": "2024-09-10T04:26:24.306Z",
+      "verseId": "4a0b8e53-ef78-4cd2-b9fd-5b171db099f1",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    },
+    {
+      "id": "b31ab0b6-f81b-4c06-b79a-ad33c4d12c60",
+      "content": "Is 7,14; 8,10",
+      "position": 23,
+      "order": 3,
+      "createdAt": "2024-09-10T04:26:24.312Z",
+      "updatedAt": "2024-09-10T04:26:24.312Z",
+      "verseId": "ffd8f798-112d-4e0a-88f8-8ac1dd4348f5",
+      "chapterId": "1eae7438-0183-41f6-a8ae-0eb93954d29b"
+    }
+  ]
+}

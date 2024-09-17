@@ -1,0 +1,293 @@
+{
+  "chapter": {
+    "id": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67",
+    "number": 127,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "d4c139a2-8d31-47cc-b3a9-5e8b609177f6",
+      "number": 1,
+      "content": "Ca khúc lên Đền. Của vua Sa-lô-môn.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:30:57.328Z",
+      "updatedAt": "2024-09-10T04:30:57.328Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "2cd618fc-5f15-49fa-b7ea-671e978147eb",
+      "number": 1,
+      "content": "Ví như CHÚA chẳng xây nhà,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.335Z",
+      "updatedAt": "2024-09-10T04:30:57.335Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "ecd1d4d1-1600-4941-8fc9-39f82d62ea21",
+      "number": 1,
+      "content": "thợ nề vất vả cũng là uổng công.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.339Z",
+      "updatedAt": "2024-09-10T04:30:57.339Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "ce680be8-57e6-4db8-9087-f5f7eb2d1255",
+      "number": 1,
+      "content": "Thành kia mà CHÚA không phòng giữ,",
+      "order": 3,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.341Z",
+      "updatedAt": "2024-09-10T04:30:57.341Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "bd2c7d9e-9b49-435a-8ea2-32e7bd182818",
+      "number": 1,
+      "content": "uổng công người trấn thủ canh đêm.",
+      "order": 4,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.343Z",
+      "updatedAt": "2024-09-10T04:30:57.343Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "94c7d2a4-3169-4772-8448-e824b8110c79",
+      "number": 2,
+      "content": "Bạn có thức khuya hay dậy sớm,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.345Z",
+      "updatedAt": "2024-09-10T04:30:57.345Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "54f390bf-b6f7-40d0-b587-8c268246a1cb",
+      "number": 2,
+      "content": "khó nhọc làm ăn cũng hoài công.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.347Z",
+      "updatedAt": "2024-09-10T04:30:57.347Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "0ad08759-19c1-488f-b8a2-fb13ffce7320",
+      "number": 2,
+      "content": "Còn kẻ được Chúa thương dầu có ngủ,",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.355Z",
+      "updatedAt": "2024-09-10T04:30:57.355Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "931f0373-6cdf-4838-9107-7e7030b1d147",
+      "number": 2,
+      "content": "Người vẫn ban cho đủ tiêu dùng.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.359Z",
+      "updatedAt": "2024-09-10T04:30:57.359Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "04e443a5-fdf8-4de7-a72f-9c5485fb2927",
+      "number": 3,
+      "content": "Này con cái là hồng ân của CHÚA,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.363Z",
+      "updatedAt": "2024-09-10T04:30:57.363Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "275cebd4-d5bb-430d-8400-04dace48dcd2",
+      "number": 3,
+      "content": "con mình sinh hạ là phần thưởng Chúa ban.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.372Z",
+      "updatedAt": "2024-09-10T04:30:57.372Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "a4db7789-e0c1-4364-903f-3076c5362e93",
+      "number": 4,
+      "content": "Bầy con sinh hạ thời son trẻ",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.383Z",
+      "updatedAt": "2024-09-10T04:30:57.383Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "bae520c2-a569-4d39-b4f3-bce83a091b3b",
+      "number": 4,
+      "content": "tựa nắm tên người dũng sĩ cầm tay.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.387Z",
+      "updatedAt": "2024-09-10T04:30:57.387Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "33cab989-a558-4df8-94a5-3a461cb4d4ef",
+      "number": 5,
+      "content": "Hạnh phúc thay người nào",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.392Z",
+      "updatedAt": "2024-09-10T04:30:57.392Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "500e9944-6a59-4bb8-a98c-d835468d661d",
+      "number": 5,
+      "content": "đeo ống đầy loại tên như thế !",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.396Z",
+      "updatedAt": "2024-09-10T04:30:57.396Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "340435d7-fff9-4c05-bb03-d55ba62f4b57",
+      "number": 5,
+      "content": "Họ sẽ không nhục nhã",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.401Z",
+      "updatedAt": "2024-09-10T04:30:57.401Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "5d2266d5-5f45-4f25-b4b0-8186834f3d7b",
+      "number": 5,
+      "content": "khi phải đến cửa công",
+      "order": 3,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.405Z",
+      "updatedAt": "2024-09-10T04:30:57.405Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "23a23285-a9c2-4f10-950a-3df48e6f7f9f",
+      "number": 5,
+      "content": "tranh tụng với địch thù.",
+      "order": 4,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:30:57.410Z",
+      "updatedAt": "2024-09-10T04:30:57.410Z",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "05cc8219-3acb-4459-8425-117a2b1517f1",
+      "content": "Theo <i>Tv giáo huấn</i> này, con người không thể thành công khi phải lao nhọc vất vả, nếu Thiên Chúa không can thiệp. Có hai loại của quý báu Thiên Chúa ban : cơm bánh (c.2) và con cái (cc. 3-5).",
+      "position": 53,
+      "order": 0,
+      "createdAt": "2024-09-10T04:30:57.333Z",
+      "updatedAt": "2024-09-10T04:30:57.333Z",
+      "headingId": "63d42bae-e60e-4d34-b92a-d53828fff59f",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "c64c40d6-8c6d-4630-b2a4-cd36fcc8fc51",
+      "content": "<i>Khó nhọc làm ăn</i>, ds : <i>những kẻ ăn bánh lầm than đau khổ</i>. Ân huệ thứ nhất : cơm bánh là thứ mà con người phải vất vả nhiều mới kiếm được.",
+      "position": 15,
+      "order": 1,
+      "createdAt": "2024-09-10T04:30:57.350Z",
+      "updatedAt": "2024-09-10T04:30:57.350Z",
+      "verseId": "54f390bf-b6f7-40d0-b587-8c268246a1cb",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "b4d7a384-4425-48e3-be7a-430a0cfbc8df",
+      "content": "Là hồng ân quý giá nhất Thiên Chúa ban, con cái trở thành phương thế kéo dài sự sống. Đàng khác, có nhiều con cái là có nhiều người bênh vực mình khi phải ra toà (c.5).",
+      "position": 40,
+      "order": 2,
+      "createdAt": "2024-09-10T04:30:57.378Z",
+      "updatedAt": "2024-09-10T04:30:57.378Z",
+      "verseId": "275cebd4-d5bb-430d-8400-04dace48dcd2",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    }
+  ],
+  "headings": [
+    {
+      "id": "63d42bae-e60e-4d34-b92a-d53828fff59f",
+      "content": "Tv 127 (126) Vất vả uổng công, nếu không có Chúa giúp",
+      "order": 0,
+      "createdAt": "2024-09-10T04:30:57.331Z",
+      "updatedAt": "2024-09-10T04:30:57.331Z",
+      "verseId": "d4c139a2-8d31-47cc-b3a9-5e8b609177f6",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    }
+  ],
+  "references": [
+    {
+      "id": "7a454d64-ec79-4e7c-917b-de9ee43b3f18",
+      "content": "Đnl 8,11-18",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:30:57.337Z",
+      "updatedAt": "2024-09-10T04:30:57.337Z",
+      "verseId": "2cd618fc-5f15-49fa-b7ea-671e978147eb",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    },
+    {
+      "id": "718e7149-0028-434a-9b85-68e568df1f91",
+      "content": "Tv 128,3 b",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:30:57.368Z",
+      "updatedAt": "2024-09-10T04:30:57.368Z",
+      "verseId": "04e443a5-fdf8-4de7-a72f-9c5485fb2927",
+      "chapterId": "d3baba9a-5a3a-4c30-a2c9-08e5d96f6a67"
+    }
+  ]
+}

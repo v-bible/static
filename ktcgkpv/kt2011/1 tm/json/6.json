@@ -1,0 +1,731 @@
+{
+  "chapter": {
+    "id": "c0566ffb-31fe-40c1-8e73-2cdd67628414",
+    "number": 6,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.361Z",
+    "updatedAt": "2024-09-10T00:39:05.361Z",
+    "bookId": "7bd410d2-ffa9-41cf-a1af-adc0e9328eb6"
+  },
+  "verses": [
+    {
+      "id": "ab676e8c-281e-4ab4-8321-a500078e63ad",
+      "number": 1,
+      "content": "Những ai đang ở dưới ách nô lệ, hãy coi chủ mình là đáng kính về mọi mặt, để danh Thiên Chúa và đạo lý khỏi bị người ta xúc phạm.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.181Z",
+      "updatedAt": "2024-09-10T01:24:38.181Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "18b424cc-2f86-4e8f-a464-beb5faebadca",
+      "number": 2,
+      "content": "Còn những ai có chủ là người tín hữu, thì đừng lấy cớ họ là người anh em mà coi thường ; trái lại phải hầu hạ chủ tốt hơn nữa, bởi lẽ người được mình phục vụ là tín hữu và là anh em yêu quý.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.191Z",
+      "updatedAt": "2024-09-10T01:24:38.191Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "2cf7bb8e-fd81-4f96-b3be-7b007121d868",
+      "number": 3,
+      "content": "Đó là những điều anh phải dạy, phải khuyên.Nếu có ai dạy một giáo lý khác, không theo sát các lời lành mạnh, tức là các lời của Đức Giê-su Ki-tô, Chúa chúng ta, và không theo sát giáo lý phù hợp với đạo thánh,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.207Z",
+      "updatedAt": "2024-09-10T01:24:38.207Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "7293708b-83c2-4709-b7fc-e74a66984845",
+      "number": 4,
+      "content": "thì người ấy lên mặt kiêu căng, không biết gì cả, nhưng mắc bệnh ham tranh luận và thích cãi chữ. Do đó sinh ra ganh tị, tranh chấp, lộng ngôn, nghĩ xấu,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.234Z",
+      "updatedAt": "2024-09-10T01:24:38.234Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "56df79a9-20c3-4140-bddc-a5c382c576dc",
+      "number": 5,
+      "content": "đấu khẩu liên miên giữa những người đầu óc lệch lạc, mất cả chân lý và coi việc giữ đạo là một nguồn lợi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.244Z",
+      "updatedAt": "2024-09-10T01:24:38.244Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "b0daf5f2-1300-4d49-92e7-ad5c1b2f96a1",
+      "number": 6,
+      "content": "Đã hẳn, việc giữ đạo là nguồn lợi lớn đối với ai lấy cái mình có làm đủ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.249Z",
+      "updatedAt": "2024-09-10T01:24:38.249Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "dc671bf7-1081-4057-b1ac-25f9f694b314",
+      "number": 7,
+      "content": "Quả vậy, chúng ta đã không mang gì vào trần gian, thì cũng chẳng mang gì ra được.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.263Z",
+      "updatedAt": "2024-09-10T01:24:38.263Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "dd9f8c69-ea2c-44be-8e32-50c32d83df88",
+      "number": 8,
+      "content": "Vậy nếu có cơm ăn áo mặc, ta hãy lấy thế làm đủ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.269Z",
+      "updatedAt": "2024-09-10T01:24:38.269Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "1a8f587a-014d-4803-9111-5ad2f14007e4",
+      "number": 9,
+      "content": "Còn những kẻ muốn làm giàu, thì sa chước cám dỗ, sa vào cạm bẫy và nhiều ước muốn ngu xuẩn độc hại ; đó là những thứ làm cho con người chìm đắm trong cảnh huỷ diệt tiêu vong.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.272Z",
+      "updatedAt": "2024-09-10T01:24:38.272Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "53fa80df-330a-43ca-b10d-8699b94bee93",
+      "number": 10,
+      "content": "Thật thế, cội rễ sinh ra mọi điều ác là lòng ham muốn tiền bạc, vì buông theo lòng ham muốn đó, nhiều người đã lạc xa đức tin và chuốc lấy bao nỗi đớn đau xâu xé.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.275Z",
+      "updatedAt": "2024-09-10T01:24:38.275Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "b1732c26-09de-4a62-8e7b-b2e9ce7f6c9c",
+      "number": 11,
+      "content": "Phần anh, hỡi người của Thiên Chúa, hãy tránh xa những điều đó ; hãy gắng trở nên người công chính, đạo đức, giàu lòng tin và lòng mến, hãy gắng sống nhẫn nại và hiền hoà.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.280Z",
+      "updatedAt": "2024-09-10T01:24:38.280Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "7c8a09b4-59fe-4a03-89e7-feea6f846465",
+      "number": 12,
+      "content": "Anh hãy thi đấu trong cuộc thi đấu cao đẹp vì đức tin, giành cho được sự sống đời đời ; chính vì sự sống ấy, anh đã được Thiên Chúa kêu gọi, và anh đã nói lên lời tuyên xưng cao đẹp trước mặt nhiều nhân chứng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.289Z",
+      "updatedAt": "2024-09-10T01:24:38.289Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "114cd28a-62dd-4eee-b768-491ae0397a9e",
+      "number": 13,
+      "content": "Trước mặt Thiên Chúa là Đấng ban sức sống cho mọi loài, và trước mặt Đức Ki-tô Giê-su là Đấng đã làm chứng trước toà tổng trấn Phong-xi-ô Phi-la-tô bằng một lời tuyên xưng cao đẹp, tôi truyền cho anh :",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.296Z",
+      "updatedAt": "2024-09-10T01:24:38.296Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "ee40e09e-a19b-4dc1-8921-ec1e4d30b9f7",
+      "number": 14,
+      "content": "hãy tuân giữ điều răn của Chúa mà sống cho tinh tuyền, không chi đáng trách, cho đến ngày Đức Giê-su Ki-tô, Chúa chúng ta, xuất hiện.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.306Z",
+      "updatedAt": "2024-09-10T01:24:38.306Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "6826de84-4db2-45ef-8e07-d7ba56b49be7",
+      "number": 15,
+      "content": "Đấng sẽ cho Đức Ki-tô tỏ hiện vào đúng thời đúng buổi,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.311Z",
+      "updatedAt": "2024-09-10T01:24:38.311Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "2eb268d9-a665-41d9-92fc-17b80146ccd3",
+      "number": 15,
+      "content": "là Chúa Tể vạn phúc vô song,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.316Z",
+      "updatedAt": "2024-09-10T01:24:38.316Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "1615677e-fec6-4034-a041-3feca47ab902",
+      "number": 15,
+      "content": "là Vua các vua, Chúa các chúa.",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.321Z",
+      "updatedAt": "2024-09-10T01:24:38.321Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "42cd79bb-e0ae-461f-9be0-294ec5d8c551",
+      "number": 16,
+      "content": "Chỉ mình Người",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.330Z",
+      "updatedAt": "2024-09-10T01:24:38.330Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "62ccd726-719f-4843-8384-f8099bf291cb",
+      "number": 16,
+      "content": "là Đấng trường sinh bất tử,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.335Z",
+      "updatedAt": "2024-09-10T01:24:38.335Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "8877f180-69ae-4ba9-88dc-a59d1040edd7",
+      "number": 16,
+      "content": "ngự trong ánh sáng siêu phàm,",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.340Z",
+      "updatedAt": "2024-09-10T01:24:38.340Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "b7bd9655-5d6c-4c93-948a-ea8da9795b1a",
+      "number": 16,
+      "content": "Đấng không một người nào",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.345Z",
+      "updatedAt": "2024-09-10T01:24:38.345Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "210c44b5-1809-4d42-8508-52d66a6cc457",
+      "number": 16,
+      "content": "đã thấy hay có thể thấy.",
+      "order": 4,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.350Z",
+      "updatedAt": "2024-09-10T01:24:38.350Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "3995bb5f-a8df-4848-9a20-ab117a75b14d",
+      "number": 16,
+      "content": "Kính dâng Người danh dự",
+      "order": 5,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.354Z",
+      "updatedAt": "2024-09-10T01:24:38.354Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "a3ecfb53-0bb0-4623-8d45-f748886d1f6a",
+      "number": 16,
+      "content": "và uy quyền đến muôn đời. A-men.",
+      "order": 6,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T01:24:38.359Z",
+      "updatedAt": "2024-09-10T01:24:38.359Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "20c269b5-97ba-49ec-be57-a58df14d6a65",
+      "number": 17,
+      "content": "Những người giàu ở trần gian này, anh hãy truyền cho họ đừng tự cao tự đại, cũng đừng đặt hy vọng vào của cải phù vân, nhưng vào Thiên Chúa, Đấng cung cấp dồi dào mọi sự cho chúng ta hưởng dùng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.369Z",
+      "updatedAt": "2024-09-10T01:24:38.369Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "c498b860-1e6e-4f03-b8bc-4a7f56ac8678",
+      "number": 18,
+      "content": "Họ phải làm việc thiện và trở nên giàu có về các việc tốt lành, phải ăn ở rộng rãi, sẵn sàng chia sẻ.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.383Z",
+      "updatedAt": "2024-09-10T01:24:38.383Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "ed010d13-c1a9-4f80-b883-3abae8cbb1ab",
+      "number": 19,
+      "content": "Như vậy họ tích trữ cho mình một vốn liếng vững chắc cho tương lai, để được sự sống thật.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.388Z",
+      "updatedAt": "2024-09-10T01:24:38.388Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "8c7b10bd-c6f5-47c5-8e7f-212e1804ec84",
+      "number": 20,
+      "content": "Anh Ti-mô-thê, hãy bảo toàn giáo lý đã được giao phó cho anh, tránh những chuyện nhảm nhí, trống rỗng, và những vấn đề của tri thức giả hiệu.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.402Z",
+      "updatedAt": "2024-09-10T01:24:38.402Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "92cac646-26a0-4085-b16f-54b3a4eb01b5",
+      "number": 21,
+      "content": "Có những kẻ, vì chủ trương cái tri thức đó, nên đã lạc mất đức tin. Chúc anh em được ân sủng.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:24:38.425Z",
+      "updatedAt": "2024-09-10T01:24:38.425Z",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "5692d371-dc42-4243-829f-ef54d6f36991",
+      "content": "Nên nhìn theo con mắt đức tin, với tinh thần tùng phục quyền bính và một nếp sống siêu nhiên, trong một hoàn cảnh xã hội như thời thánh Phao-lô (x. Ep 6,5+).",
+      "position": 72,
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.186Z",
+      "updatedAt": "2024-09-10T01:24:38.186Z",
+      "verseId": "ab676e8c-281e-4ab4-8321-a500078e63ad",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "a49bb09b-ebff-4ae7-9b11-0c4c083e72e2",
+      "content": "<i>Hầu hạ tốt hơn</i> hay kiểu dịch khác : <i>chuyên cần làm việc thiện</i>. Thánh Phao-lô thường hay để ý đến số phận của những người nô lệ (1 Cr 7,21-24 ; Gl 3,28 ; Ep 6,5-9 ; Cl 3,22-25 ; Tt 2,9-10 ; Plm 10-17 ; x. 1 Pr 2,18-20). Người không xét vấn đề nô lệ dưới khía cạnh xã hội mà chỉ nói đến bổn phận của những người nô lệ Ki-tô giáo trong Hội Thánh. Cuộc giải phóng của Đức Ki-tô không phải là cuộc giải phóng theo nghĩa chính trị, vật chất mà là tinh thần. Vì tinh thần siêu nhiên mà người nô lệ hầu hạ chủ, để danh Đức Ki-tô được tôn vinh, nghĩa là đạo dạy và đem lại cho con người một tinh thần phục vụ cao cả như thế.",
+      "position": 113,
+      "order": 1,
+      "createdAt": "2024-09-10T01:24:38.193Z",
+      "updatedAt": "2024-09-10T01:24:38.193Z",
+      "verseId": "18b424cc-2f86-4e8f-a464-beb5faebadca",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "620cbd90-7a86-45e7-90d3-b765f522ac52",
+      "content": "Hay <i>được Chúa yêu quý</i>.",
+      "position": 189,
+      "order": 2,
+      "createdAt": "2024-09-10T01:24:38.197Z",
+      "updatedAt": "2024-09-10T01:24:38.197Z",
+      "verseId": "18b424cc-2f86-4e8f-a464-beb5faebadca",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "742047e3-59b9-4764-8810-15618957cfec",
+      "content": "Nghĩa là có bao nhiêu thì coi bấy nhiêu là đủ, không mơ ước viển vông, không tham lam quá độ, chế ngự được các nhu cầu và ham muốn của mình.",
+      "position": 71,
+      "order": 3,
+      "createdAt": "2024-09-10T01:24:38.254Z",
+      "updatedAt": "2024-09-10T01:24:38.254Z",
+      "verseId": "b0daf5f2-1300-4d49-92e7-ad5c1b2f96a1",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "bb87a4a4-45cf-46c5-9ae3-ad3b1c99b02c",
+      "content": "Kiểu nói thời bấy giờ được thánh Phao-lô dùng nên càng thêm giá trị.",
+      "position": 62,
+      "order": 4,
+      "createdAt": "2024-09-10T01:24:38.277Z",
+      "updatedAt": "2024-09-10T01:24:38.277Z",
+      "verseId": "53fa80df-330a-43ca-b10d-8699b94bee93",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "e356c50e-feaa-4cc0-8886-f3393369a27b",
+      "content": "Có thể là <i>tuyên xưng</i> đức tin khi lãnh phép rửa (x. Rm 10,9), khi được truyền chức (x.c 4,14 ; 2 Tm 2,2) hay trong một hoàn cảnh long trọng nào đó.",
+      "position": 173,
+      "order": 5,
+      "createdAt": "2024-09-10T01:24:38.292Z",
+      "updatedAt": "2024-09-10T01:24:38.292Z",
+      "verseId": "7c8a09b4-59fe-4a03-89e7-feea6f846465",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "2a9858c7-f718-4b23-81a3-e82e546dd0a0",
+      "content": "Lời Đức Giê-su <i>tuyên xưng</i> trước mặt tổng trấn Phi-la-tô (Ga 18,36-37). Lời tuyên xưng này là mẫu mực cho các lời tuyên xưng khác.",
+      "position": 179,
+      "order": 6,
+      "createdAt": "2024-09-10T01:24:38.299Z",
+      "updatedAt": "2024-09-10T01:24:38.299Z",
+      "verseId": "114cd28a-62dd-4eee-b768-491ae0397a9e",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "78505d59-d3d1-4d01-b148-166dcb6807b6",
+      "content": "Hoặc trong ngày quang lâm, như nói trong 2 Tm 4,1.8 ; Tt 2,13 ; hoặc trong công trình cứu chuộc Đức Ki-tô đã thực hiện, như nói  trong 2 Tm 1,10 ; x. Tt 2,11 ; 3,4.",
+      "position": 132,
+      "order": 7,
+      "createdAt": "2024-09-10T01:24:38.308Z",
+      "updatedAt": "2024-09-10T01:24:38.308Z",
+      "verseId": "ee40e09e-a19b-4dc1-8921-ec1e4d30b9f7",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "9b8cd2a8-efb5-49be-af4c-4b645d728fb2",
+      "content": "Lúc Thiên Chúa coi là thích hợp để cho Con của Người xuất hiện, vì Người làm chủ thời gian và hướng dẫn lịch sử (x. Tt 1,3 ; Cv 1,7).",
+      "position": 53,
+      "order": 8,
+      "createdAt": "2024-09-10T01:24:38.313Z",
+      "updatedAt": "2024-09-10T01:24:38.313Z",
+      "verseId": "6826de84-4db2-45ef-8e07-d7ba56b49be7",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "45c5c8bf-1205-4ed7-9de7-09df63454560",
+      "content": "Một hình thức vinh tụng ca long trọng, đề cao chủ quyền tuyệt đối của Thiên Chúa cũng như siêu việt tính của Người trên muôn loài muôn vật, để chống lại việc thờ kính hoàng đế của người ngoại đạo, cũng như chủ trương của thuyết ngộ đạo về việc nhận biết Thiên Chúa (x. Đnl 10,17 ; Tv 136,3 ; 2 Cr 13,4).",
+      "position": 31,
+      "order": 9,
+      "createdAt": "2024-09-10T01:24:38.364Z",
+      "updatedAt": "2024-09-10T01:24:38.364Z",
+      "verseId": "a3ecfb53-0bb0-4623-8d45-f748886d1f6a",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "cc1ca5d3-b750-46c6-ae36-6c744484cd0f",
+      "content": "Cc. 17-19 nhằm dạy cho người giàu biết cách dùng của cải và chia sẻ với người khác, thông cảm những khó khăn của người ta. Đó là một trong những đặc tính của cộng đồng tín hữu đầu tiên ở Giê-ru-sa-lem (Cv 2,42-44).",
+      "position": 88,
+      "order": 10,
+      "createdAt": "2024-09-10T01:24:38.393Z",
+      "updatedAt": "2024-09-10T01:24:38.393Z",
+      "verseId": "ed010d13-c1a9-4f80-b883-3abae8cbb1ab",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "6d9c0ce5-4659-47c9-8dfc-3cc1a71d9c96",
+      "content": "Giữ cho nguyên vẹn, không được pha phôi thêm bớt hay để cho người ngoài len lỏi vào, gieo rắc những điều sai lạc.",
+      "position": 27,
+      "order": 11,
+      "createdAt": "2024-09-10T01:24:38.411Z",
+      "updatedAt": "2024-09-10T01:24:38.411Z",
+      "verseId": "8c7b10bd-c6f5-47c5-8e7f-212e1804ec84",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "daceeda4-66b5-4d64-bbd0-4f8eb785e780",
+      "content": "Chỉ có dáng vẻ bên ngoài là tri thức, còn thực ra là <i>giả hiệu</i> vì hàm chứa những điều sai lạc.",
+      "position": 140,
+      "order": 12,
+      "createdAt": "2024-09-10T01:24:38.416Z",
+      "updatedAt": "2024-09-10T01:24:38.416Z",
+      "verseId": "8c7b10bd-c6f5-47c5-8e7f-212e1804ec84",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    }
+  ],
+  "headings": [
+    {
+      "id": "9c3a8a2d-32f3-4c03-a95a-fb9116951093",
+      "content": "Các nô lệ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.184Z",
+      "updatedAt": "2024-09-10T01:24:38.184Z",
+      "verseId": "ab676e8c-281e-4ab4-8321-a500078e63ad",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "e68d6561-eb2e-4674-842c-5466250c3c98",
+      "content": "Người dạy giáo lý : ai chân chính, ai không",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.211Z",
+      "updatedAt": "2024-09-10T01:24:38.211Z",
+      "verseId": "2cf7bb8e-fd81-4f96-b3be-7b007121d868",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "de623563-3e95-4fc5-92ac-c931cc96c302",
+      "content": "Lời khuyên nhủ thiết tha",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.282Z",
+      "updatedAt": "2024-09-10T01:24:38.282Z",
+      "verseId": "b1732c26-09de-4a62-8e7b-b2e9ce7f6c9c",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "23b93841-ae22-48cf-bded-8a72151f7c24",
+      "content": "Lời khuyên người giàu",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.374Z",
+      "updatedAt": "2024-09-10T01:24:38.374Z",
+      "verseId": "20c269b5-97ba-49ec-be57-a58df14d6a65",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "13176c3b-17d6-43a9-876f-ec58c467cec1",
+      "content": "Lời nhắn nhủ cuối cùng",
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.406Z",
+      "updatedAt": "2024-09-10T01:24:38.406Z",
+      "verseId": "8c7b10bd-c6f5-47c5-8e7f-212e1804ec84",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    }
+  ],
+  "references": [
+    {
+      "id": "14ca1393-02b5-4ea3-b5fa-b49377f6daed",
+      "content": "Ep 6,5-8; Tt 2,9-10",
+      "position": 25,
+      "order": 0,
+      "createdAt": "2024-09-10T01:24:38.188Z",
+      "updatedAt": "2024-09-10T01:24:38.188Z",
+      "verseId": "ab676e8c-281e-4ab4-8321-a500078e63ad",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "3624072b-56ae-49c6-88c6-1ebf8eac8c36",
+      "content": "Rm 2,24",
+      "position": 77,
+      "order": 1,
+      "createdAt": "2024-09-10T01:24:38.190Z",
+      "updatedAt": "2024-09-10T01:24:38.190Z",
+      "verseId": "ab676e8c-281e-4ab4-8321-a500078e63ad",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "af4c8023-be07-432a-86ef-465aeb9a10e7",
+      "content": "Plm 16",
+      "position": 175,
+      "order": 2,
+      "createdAt": "2024-09-10T01:24:38.202Z",
+      "updatedAt": "2024-09-10T01:24:38.202Z",
+      "verseId": "18b424cc-2f86-4e8f-a464-beb5faebadca",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "496a9680-1dac-458d-ad73-1b6b4acb1cfc",
+      "content": "Gl 1,6-9",
+      "position": 61,
+      "order": 3,
+      "createdAt": "2024-09-10T01:24:38.219Z",
+      "updatedAt": "2024-09-10T01:24:38.219Z",
+      "verseId": "2cf7bb8e-fd81-4f96-b3be-7b007121d868",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "aa927bb9-bbb8-45cd-903c-258aac949e36",
+      "content": "1 Tm 1,10; 2 Tm 1,13",
+      "position": 94,
+      "order": 4,
+      "createdAt": "2024-09-10T01:24:38.224Z",
+      "updatedAt": "2024-09-10T01:24:38.224Z",
+      "verseId": "2cf7bb8e-fd81-4f96-b3be-7b007121d868",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "70f91902-967a-495a-923e-27be66c7b8a5",
+      "content": "Tt 1,1",
+      "position": 179,
+      "order": 5,
+      "createdAt": "2024-09-10T01:24:38.229Z",
+      "updatedAt": "2024-09-10T01:24:38.229Z",
+      "verseId": "2cf7bb8e-fd81-4f96-b3be-7b007121d868",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "354a0ec1-d733-4817-b692-90e6b1c8b4bd",
+      "content": "Rm 1,29",
+      "position": 89,
+      "order": 6,
+      "createdAt": "2024-09-10T01:24:38.239Z",
+      "updatedAt": "2024-09-10T01:24:38.239Z",
+      "verseId": "7293708b-83c2-4709-b7fc-e74a66984845",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "b6d617fe-157c-4bdf-900e-de4b3f608991",
+      "content": "Pl 4,11-12; Hr 13,5",
+      "position": 49,
+      "order": 7,
+      "createdAt": "2024-09-10T01:24:38.258Z",
+      "updatedAt": "2024-09-10T01:24:38.258Z",
+      "verseId": "b0daf5f2-1300-4d49-92e7-ad5c1b2f96a1",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "27fe25bf-7f4f-4b99-9382-d566d11230a1",
+      "content": "G 1,21; Gv 5,14",
+      "position": 21,
+      "order": 8,
+      "createdAt": "2024-09-10T01:24:38.266Z",
+      "updatedAt": "2024-09-10T01:24:38.266Z",
+      "verseId": "dc671bf7-1081-4057-b1ac-25f9f694b314",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "df5cfcf5-4fb7-42cc-8229-6179ee591ab1",
+      "content": "2 Tm 4,1",
+      "position": 0,
+      "order": 9,
+      "createdAt": "2024-09-10T01:24:38.284Z",
+      "updatedAt": "2024-09-10T01:24:38.284Z",
+      "headingId": "de623563-3e95-4fc5-92ac-c931cc96c302",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "608340d5-575b-4953-a162-22d3ca60cd8a",
+      "content": "Gl 5,22; 2 Tm 2,22; Tt 2,2",
+      "position": 88,
+      "order": 10,
+      "createdAt": "2024-09-10T01:24:38.287Z",
+      "updatedAt": "2024-09-10T01:24:38.287Z",
+      "verseId": "b1732c26-09de-4a62-8e7b-b2e9ce7f6c9c",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "f83c94a2-ab49-4f41-b514-5194aac6c81a",
+      "content": "2 Tm 4,7",
+      "position": 8,
+      "order": 11,
+      "createdAt": "2024-09-10T01:24:38.294Z",
+      "updatedAt": "2024-09-10T01:24:38.294Z",
+      "verseId": "7c8a09b4-59fe-4a03-89e7-feea6f846465",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "8c8f2a13-c8a0-43d6-9ffe-01a744e545ec",
+      "content": "Cv 17,25",
+      "position": 29,
+      "order": 12,
+      "createdAt": "2024-09-10T01:24:38.301Z",
+      "updatedAt": "2024-09-10T01:24:38.301Z",
+      "verseId": "114cd28a-62dd-4eee-b768-491ae0397a9e",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "d4969f85-bfa5-4870-b7ef-2bb2d4a9862d",
+      "content": "Ga 18,36-37",
+      "position": 89,
+      "order": 13,
+      "createdAt": "2024-09-10T01:24:38.303Z",
+      "updatedAt": "2024-09-10T01:24:38.303Z",
+      "verseId": "114cd28a-62dd-4eee-b768-491ae0397a9e",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "12f4cdf8-9e0a-4b45-b261-e91c8e87bacd",
+      "content": "Đnl 10,17; 2 Mcb 13,4; Kh 17,14",
+      "position": 16,
+      "order": 14,
+      "createdAt": "2024-09-10T01:24:38.326Z",
+      "updatedAt": "2024-09-10T01:24:38.326Z",
+      "verseId": "1615677e-fec6-4034-a041-3feca47ab902",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "5f6f79db-1eb6-4ef3-acf3-e29c9e9734ce",
+      "content": "Tv 62,11; Lc 12,16-21; Gc 1,10",
+      "position": 90,
+      "order": 15,
+      "createdAt": "2024-09-10T01:24:38.378Z",
+      "updatedAt": "2024-09-10T01:24:38.378Z",
+      "verseId": "20c269b5-97ba-49ec-be57-a58df14d6a65",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "d7859dbf-4d37-44a6-bfb7-91be3feb3894",
+      "content": "Mt 6,20",
+      "position": 33,
+      "order": 16,
+      "createdAt": "2024-09-10T01:24:38.397Z",
+      "updatedAt": "2024-09-10T01:24:38.397Z",
+      "verseId": "ed010d13-c1a9-4f80-b883-3abae8cbb1ab",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "542041be-f7a6-4cd5-8484-dc5e96ba1710",
+      "content": "1 Tm 1,6; Tt 1,10",
+      "position": 91,
+      "order": 17,
+      "createdAt": "2024-09-10T01:24:38.420Z",
+      "updatedAt": "2024-09-10T01:24:38.420Z",
+      "verseId": "8c7b10bd-c6f5-47c5-8e7f-212e1804ec84",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    },
+    {
+      "id": "c5983546-31ac-4363-a589-dca2720f1ffd",
+      "content": "2 Tm 2,18",
+      "position": 51,
+      "order": 18,
+      "createdAt": "2024-09-10T01:24:38.429Z",
+      "updatedAt": "2024-09-10T01:24:38.429Z",
+      "verseId": "92cac646-26a0-4085-b16f-54b3a4eb01b5",
+      "chapterId": "c0566ffb-31fe-40c1-8e73-2cdd67628414"
+    }
+  ]
+}

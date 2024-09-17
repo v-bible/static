@@ -1,0 +1,189 @@
+{
+  "chapter": {
+    "id": "d10767a2-ed8e-4f25-8198-19688511cec7",
+    "number": 131,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.894Z",
+    "updatedAt": "2024-09-10T00:39:05.894Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "3af964d7-3a0f-4e8b-a88d-c7c46fbcf74c",
+      "number": 1,
+      "content": "Ca khúc lên Đền. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:38:08.667Z",
+      "updatedAt": "2024-09-10T04:38:08.667Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "1d9311da-fa37-4807-8e37-e325e219e34f",
+      "number": 1,
+      "content": "Lòng con chẳng dám tự cao,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.681Z",
+      "updatedAt": "2024-09-10T04:38:08.681Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "ed2da401-f86d-452d-b729-ce231e4d5bb4",
+      "number": 1,
+      "content": "mắt con chẳng dám tự hào, CHÚA ơi !",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.683Z",
+      "updatedAt": "2024-09-10T04:38:08.683Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "9943bbd1-09e5-46d9-882d-f8ffa8c8ad26",
+      "number": 1,
+      "content": "Đường cao vọng, chẳng đời nào bước,",
+      "order": 3,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.686Z",
+      "updatedAt": "2024-09-10T04:38:08.686Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "f9be27b6-6a1b-4148-b60b-b06859bf1c7a",
+      "number": 1,
+      "content": "việc diệu kỳ vượt sức, chẳng cầu ;",
+      "order": 4,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.691Z",
+      "updatedAt": "2024-09-10T04:38:08.691Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "0281a5de-c4ce-4f05-acd5-534e063a95d5",
+      "number": 2,
+      "content": "hồn con, con vẫn trước sau",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.696Z",
+      "updatedAt": "2024-09-10T04:38:08.696Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "2d17f9d8-87a5-4aa1-9d91-0bde47bef603",
+      "number": 2,
+      "content": "giữ cho thinh lặng, giữ sao thanh bình.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.702Z",
+      "updatedAt": "2024-09-10T04:38:08.702Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "23577bf2-dc04-45dd-b846-b074b0e4019d",
+      "number": 2,
+      "content": "Như trẻ thơ nép mình lòng mẹ,",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.707Z",
+      "updatedAt": "2024-09-10T04:38:08.707Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "2b0227dd-d34c-4cf3-a263-742020617a2b",
+      "number": 2,
+      "content": "trong con, hồn lặng lẽ an vui.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.712Z",
+      "updatedAt": "2024-09-10T04:38:08.712Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "9e1195b1-1918-4504-ae0c-580f55813a26",
+      "number": 3,
+      "content": "Cậy vào CHÚA, Ít-ra-en ơi,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.717Z",
+      "updatedAt": "2024-09-10T04:38:08.717Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "9a5a8424-eea3-4ced-a0f6-b800dceccd4c",
+      "number": 3,
+      "content": "từ nay đến mãi muôn đời muôn năm.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:08.727Z",
+      "updatedAt": "2024-09-10T04:38:08.727Z",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "066c83e5-7bb4-406e-9b08-4de94feb691a",
+      "content": "<i>Tv tín nhiệm</i> này là một trong những Tv êm dịu, nhẹ nhàng nhất làm cho người cầu nguyện cảm thấy thoải mái. Tv gồm hai phần : <b>1</b>) Cc. 1-2 ; <b>2</b>) C.3.",
+      "position": 50,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:08.678Z",
+      "updatedAt": "2024-09-10T04:38:08.678Z",
+      "headingId": "b256d621-69cb-456d-a13a-25d3004073d9",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    },
+    {
+      "id": "fe7dba1c-2017-4288-aa62-16635daa3501",
+      "content": "Có lẽ c.3 này đã được thêm vào đây để dùng trong phụng vụ.",
+      "position": 32,
+      "order": 1,
+      "createdAt": "2024-09-10T04:38:08.731Z",
+      "updatedAt": "2024-09-10T04:38:08.731Z",
+      "verseId": "9a5a8424-eea3-4ced-a0f6-b800dceccd4c",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    }
+  ],
+  "headings": [
+    {
+      "id": "b256d621-69cb-456d-a13a-25d3004073d9",
+      "content": "Tv 131 (130) Như trẻ thơ đặt hết niềm tin nơi Chúa",
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:08.676Z",
+      "updatedAt": "2024-09-10T04:38:08.676Z",
+      "verseId": "3af964d7-3a0f-4e8b-a88d-c7c46fbcf74c",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    }
+  ],
+  "references": [
+    {
+      "id": "492d59fa-5235-4c04-be24-629a3c7633b8",
+      "content": "Tv 130,7",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:08.722Z",
+      "updatedAt": "2024-09-10T04:38:08.722Z",
+      "verseId": "9e1195b1-1918-4504-ae0c-580f55813a26",
+      "chapterId": "d10767a2-ed8e-4f25-8198-19688511cec7"
+    }
+  ]
+}

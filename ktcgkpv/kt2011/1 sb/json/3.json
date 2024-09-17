@@ -1,0 +1,454 @@
+{
+  "chapter": {
+    "id": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.846Z",
+    "updatedAt": "2024-09-10T00:39:05.846Z",
+    "bookId": "37afcabd-a5cb-47a3-943b-0492051a033f"
+  },
+  "verses": [
+    {
+      "id": "9ad8a389-cee2-41c1-9d96-048abd25f276",
+      "number": 1,
+      "content": "Đây là các con của vua Đa-vít, sinh tại Khép-rôn. Con đầu lòng là Am-nôn, do bà A-khi-nô-am người Gít-rơ-en ; người con thứ là Đa-ni-ên, do bà A-vi-ga-gin người Các-men ;",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.810Z",
+      "updatedAt": "2024-09-10T03:21:56.810Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "a79a802d-dbf5-4206-a5fd-c2a3b428757f",
+      "number": 2,
+      "content": "người thứ ba là Áp-sa-lôm, con bà Ma-a-kha, ái nữ của Tan-mai vua Gơ-sua ; người thứ tư là A-đô-ni-gia, con bà Khác-ghít ;",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.839Z",
+      "updatedAt": "2024-09-10T03:21:56.839Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "a13a948a-7fd2-4279-904b-a68bfecb1ad6",
+      "number": 3,
+      "content": "người thứ năm là Sơ-phát-gia, do bà A-vi-tan ; người thứ sáu là Gít-rơ-am, do bà Éc-la vợ ông.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.844Z",
+      "updatedAt": "2024-09-10T03:21:56.844Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "7964c0e4-f206-41e2-b206-b575c1ae630d",
+      "number": 4,
+      "content": "Sáu người này là con ông sinh tại Khép-rôn, nơi ông trị vì bảy năm sáu tháng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.849Z",
+      "updatedAt": "2024-09-10T03:21:56.849Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "c8acde9c-942a-4e8d-905e-d7daf1d05bcc",
+      "number": 5,
+      "content": "Rồi ông trị vì tại Giê-ru-sa-lem được ba mươi ba năm.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.854Z",
+      "updatedAt": "2024-09-10T03:21:56.854Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "0e518a62-f946-47e5-a06d-a9256fd78c72",
+      "number": 5,
+      "content": "Đây là các con ông đã sinh tại Giê-ru-sa-lem : Sim-a, Sô-váp, Na-than, Sa-lô-môn, bốn người do bà Bát Su-a, con gái của ông Am-mi-ên ;",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.859Z",
+      "updatedAt": "2024-09-10T03:21:56.859Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "5866e06e-7204-4868-b031-dfd56f4f4f0d",
+      "number": 6,
+      "content": "Gíp-kha, Ê-li-sa-ma, Ê-li-pha-lét,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.874Z",
+      "updatedAt": "2024-09-10T03:21:56.874Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "82a0e50a-e215-4eee-bb0f-d52865bda0b7",
+      "number": 7,
+      "content": "Nô-ga, Ne-phéc, Gia-phia,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.879Z",
+      "updatedAt": "2024-09-10T03:21:56.879Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "541779ff-4512-4327-b1a8-4376b46799f3",
+      "number": 8,
+      "content": "Ê-li-sa-ma, En-gia-đa, Ê-li-phe-lét, chín người tất cả.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.884Z",
+      "updatedAt": "2024-09-10T03:21:56.884Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "6af0b295-526e-4e22-814c-3e4c4576ee69",
+      "number": 9,
+      "content": "Đó là tất cả các con vua Đa-vít, không kể các con do các tỳ thiếp. Còn Ta-ma là chị em của họ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.889Z",
+      "updatedAt": "2024-09-10T03:21:56.889Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "45ca1382-282c-4c17-8c38-7d67d7bdb028",
+      "number": 10,
+      "content": "Các con của vua Sa-lô-môn là : Rơ-kháp-am, A-vi-gia con ông ; A-xa, con ông ; Giơ-hô-sa-phát, con ông ;",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.894Z",
+      "updatedAt": "2024-09-10T03:21:56.894Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "699a6d7f-763b-44ba-99ff-a4906bd72a44",
+      "number": 11,
+      "content": "Giô-ram con ông ; A-khát-gia-hu con ông ; Giô-át con ông ;",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.908Z",
+      "updatedAt": "2024-09-10T03:21:56.908Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "76bda6d5-e498-427e-855b-8c647770a484",
+      "number": 12,
+      "content": "A-mát-gia-hu con ông ; A-dác-gia con ông ; Giô-tham con ông ;",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.913Z",
+      "updatedAt": "2024-09-10T03:21:56.913Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "f0b0e82d-d948-4ef1-bdcc-612655d98034",
+      "number": 13,
+      "content": "A-khát con ông ; Khít-ki-gia con ông ; Mơ-na-se con ông ;",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.917Z",
+      "updatedAt": "2024-09-10T03:21:56.917Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "04bbe26a-f270-4289-9beb-8cb5acd95366",
+      "number": 14,
+      "content": "A-môn con ông ; Giô-si-gia-hu con ông.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.922Z",
+      "updatedAt": "2024-09-10T03:21:56.922Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "1324f53c-9501-48f6-85a1-ba1a82027c3f",
+      "number": 15,
+      "content": "Các con của ông Giô-si-gia-hu là : Giô-kha-nan con trưởng, Giơ-hô-gia-kim con thứ, Xít-ki-gia-hu con thứ ba, Sa-lum con thứ tư.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.932Z",
+      "updatedAt": "2024-09-10T03:21:56.932Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "201c0c49-8ff0-4e14-a34f-f312b1a6f182",
+      "number": 16,
+      "content": "Các con của ông Giơ-hô-gia-kim là Giơ-khon-gia con ông, Xít-ki-gia-hu con ông.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.937Z",
+      "updatedAt": "2024-09-10T03:21:56.937Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "840f52f8-c814-4a83-b254-7d0d37d80f09",
+      "number": 17,
+      "content": "Các con vua Giơ-khon-gia, người bị đi đày, là San-ti-ên con ông ;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.942Z",
+      "updatedAt": "2024-09-10T03:21:56.942Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "e94b32d3-c13e-4e87-97e9-481489abe22d",
+      "number": 18,
+      "content": "Man-ki-ram, Pơ-đa-gia, Sen-át-xa, Giơ-cam-gia, Hô-sa-ma, Nơ-đáp-gia.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.958Z",
+      "updatedAt": "2024-09-10T03:21:56.958Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "1aff805e-8613-4f20-9537-c307026d7eab",
+      "number": 19,
+      "content": "Các con ông Pơ-đa-gia là Dơ-rúp-ba-ven và Sim-y. Các con ông Dơ-rúp-ba-ven là Mơ-su-lam, Kha-nan-gia, bà Sơ-lô-mít, em gái các ông.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.963Z",
+      "updatedAt": "2024-09-10T03:21:56.963Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "ee158d82-c280-4bed-9fe9-4a48762ad42f",
+      "number": 20,
+      "content": "Các con ông Mơ-su-lam là : Kha-su-va, Ô-hen, Be-réc-gia, Kha-xát-gia, Giu-xáp Khe-xét : tất cả là năm người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.968Z",
+      "updatedAt": "2024-09-10T03:21:56.968Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "56b338b8-0e8f-4eee-8402-49f85a30157f",
+      "number": 21,
+      "content": "Các con ông Kha-nan-gia là : Pơ-lát-gia ; Giơ-sa-gia con ông ; Rơ-pha-gia con ông ; Ác-nan con ông ; Ô-vát-gia con ông ; Sơ-khan-gia con ông.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.978Z",
+      "updatedAt": "2024-09-10T03:21:56.978Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "c970a7a1-48ee-4044-9eed-9814b8175691",
+      "number": 22,
+      "content": "Con của ông Sơ-khan-gia là Sơ-ma-gia. Các con ông Sơ-ma-gia là : Khát-tút, Gích-an, Ba-ri-ác, Nơ-ác-gia, Sa-phát : tất cả là sáu người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.993Z",
+      "updatedAt": "2024-09-10T03:21:56.993Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "f7482ee3-824b-45f1-9424-8ca40f070ff7",
+      "number": 23,
+      "content": "Các con ông Nơ-ác-gia là : En-giô-ê-nai, Khít-ki-gia, Át-ri-cam : tất cả là ba người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:56.997Z",
+      "updatedAt": "2024-09-10T03:21:56.997Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "9f7d7f12-7487-4bef-8fce-a9399c3e9cf2",
+      "number": 24,
+      "content": "Các con ông En-giô-ê-nai là : Hô-đai-va-hu, En-gia-síp, Pơ-la-gia, Ắc-cúp, Giô-kha-nan, Đơ-la-gia, A-na-ni : tất cả là bảy người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T03:21:57.002Z",
+      "updatedAt": "2024-09-10T03:21:57.002Z",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "347faae6-ed51-4054-ba69-d51170d7a95b",
+      "content": "Lại nói về dòng dõi vua Đa-vít, ch. 3 này phải đi liền sau 2,17, vì vua Đa-vít thuộc về ngành ông Ram. Đọc liền từ 2,10, ta sẽ phát hiện ra rằng tác giả trình bày các bản kê khai khác nhau, với các điều bổ sung, theo một thứ tự song đối ngược chiều (ABC-C’B’A’) quen thuộc trong văn Híp-ri, như sau : A. Con cháu ông Ram (cho tới vua Đa-vít 2,10-17). – B. Con cháu ông Ca-lếp (2,18-24). – C. Con cháu ông Giơ-rác-mơ-ên (2,25-33) – C’. Ngành khác của ông Giơ-rác-mơ-ên (2,34-41). – B’. Ngành khác của ông Ca-lếp (2,42-55). – A’ Ngành khác của ông Ram (con cháu vua Đa-vít, 3,1-24).",
+      "position": 13,
+      "order": 0,
+      "createdAt": "2024-09-10T03:21:56.823Z",
+      "updatedAt": "2024-09-10T03:21:56.823Z",
+      "headingId": "8463d341-6eb5-49d2-b785-e25c87357c62",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "e9cc8618-7121-4699-94b1-87fd703b7bf9",
+      "content": "Về các con vua Đa-vít sinh tại Giê-ru-sa-lem (cc. 5-8), tác giả sẽ kể nữa ở 14,3-7. Nhưng về danh sách các con vua Đa-vít, nên theo sát sách 2 Sm thì hơn, bởi vì Sử biên niên đưa ra nhiều dị biệt.",
+      "position": 44,
+      "order": 1,
+      "createdAt": "2024-09-10T03:21:56.863Z",
+      "updatedAt": "2024-09-10T03:21:56.863Z",
+      "verseId": "0e518a62-f946-47e5-a06d-a9256fd78c72",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "ad558056-a014-4bdb-9b29-bdf2fd9cfb6c",
+      "content": "Bà Bát Su-a tức là bà Bát Se-va, con gái ông Ê-li-am trong 2 Sm 11,3. Nhưng không biết <i>bốn người</i> ở đây tác giả đưa về đâu, bởi vì bà Bát Se-va chỉ là mẹ của người thứ bốn (Sa-lô-môn) mà thôi. Do đó, có người muốn sửa : <i>người thứ bốn do bà Bát Su-a</i>.",
+      "position": 106,
+      "order": 2,
+      "createdAt": "2024-09-10T03:21:56.868Z",
+      "updatedAt": "2024-09-10T03:21:56.868Z",
+      "verseId": "0e518a62-f946-47e5-a06d-a9256fd78c72",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "e140b736-bbe1-4a43-b50a-7a377af5a3e2",
+      "content": "Cc. 10-16 là danh sách các vua Giu-đa, con cháu vua Đa-vít, theo ngành Sa-lô-môn, cho tới lưu đầy Ba-by-lon, tác giả lấy từ sách các Vua (1 V 2 – 2 V 25). – Ông Sa-lum, con ông Giô-si-gia-hu chính là Giơ-hô-a-khát trong 2 V 23,30tt. Xít-ki-gia-hu thật ra là con vua Giô-si-gia-hu, tức là chú (chứ không phải con) ông Giơ-khon-gia.",
+      "position": 14,
+      "order": 3,
+      "createdAt": "2024-09-10T03:21:56.903Z",
+      "updatedAt": "2024-09-10T03:21:56.903Z",
+      "headingId": "68add318-3b77-490c-b7a5-9f2c5619ec14",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "d4428e41-736e-4635-bb11-508056af6edd",
+      "content": "Con cháu của ông Giơ-khon-gia (cc. 17-24), sống thời lưu đày và thời phục hưng, hẳn là được người viết đưa xuống tận thời mình. Nhiều người trong danh sách này cũng xuất hiện trong sách Ét-ra và Nơ-khe-mi-a.",
+      "position": 26,
+      "order": 4,
+      "createdAt": "2024-09-10T03:21:56.951Z",
+      "updatedAt": "2024-09-10T03:21:56.951Z",
+      "headingId": "1957a923-a40a-4376-8660-e7089c1fc770",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "5108b7ac-1fed-4629-940f-8eb7065bb205",
+      "content": "<i>Các con ông Mơ-su-lam</i> thêm vào cho rõ, không có trong bản văn.",
+      "position": 21,
+      "order": 5,
+      "createdAt": "2024-09-10T03:21:56.973Z",
+      "updatedAt": "2024-09-10T03:21:56.973Z",
+      "verseId": "ee158d82-c280-4bed-9fe9-4a48762ad42f",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "05bb823f-9312-4493-a8c4-82638efc2aee",
+      "content": "Câu này không rõ. Trong HR, sau <i>Giơ-sa-gia</i>, bốn lần từ <i>các con</i> (số nhiều) đi trước một tên riêng ; trong khi bản HL bốn lần mang chữ <i>con ông</i> (số ít). Bản dịch Việt Ngữ ở đây theo kiểu này.",
+      "position": 140,
+      "order": 6,
+      "createdAt": "2024-09-10T03:21:56.983Z",
+      "updatedAt": "2024-09-10T03:21:56.983Z",
+      "verseId": "56b338b8-0e8f-4eee-8402-49f85a30157f",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8463d341-6eb5-49d2-b785-e25c87357c62",
+      "content": "3. NHÀ ĐA-VÍT",
+      "order": 0,
+      "createdAt": "2024-09-10T03:21:56.819Z",
+      "updatedAt": "2024-09-10T03:21:56.819Z",
+      "verseId": "9ad8a389-cee2-41c1-9d96-048abd25f276",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "68add318-3b77-490c-b7a5-9f2c5619ec14",
+      "content": "Các vua Giu-đa",
+      "order": 0,
+      "createdAt": "2024-09-10T03:21:56.898Z",
+      "updatedAt": "2024-09-10T03:21:56.898Z",
+      "verseId": "45ca1382-282c-4c17-8c38-7d67d7bdb028",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "1957a923-a40a-4376-8660-e7089c1fc770",
+      "content": "Hoàng tộc sau thời lưu đày",
+      "order": 0,
+      "createdAt": "2024-09-10T03:21:56.946Z",
+      "updatedAt": "2024-09-10T03:21:56.946Z",
+      "verseId": "840f52f8-c814-4a83-b254-7d0d37d80f09",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "6ecf02c3-b661-4e10-b77d-a42604b00a58",
+      "content": "Các con của vua Đa-vít.",
+      "order": 1,
+      "createdAt": "2024-09-10T03:21:56.829Z",
+      "updatedAt": "2024-09-10T03:21:56.829Z",
+      "verseId": "9ad8a389-cee2-41c1-9d96-048abd25f276",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    }
+  ],
+  "references": [
+    {
+      "id": "d4cf4bf8-f7c8-499a-a7f4-956e344ddf94",
+      "content": "2 Sm 13,1tt",
+      "position": 66,
+      "order": 0,
+      "createdAt": "2024-09-10T03:21:56.834Z",
+      "updatedAt": "2024-09-10T03:21:56.834Z",
+      "verseId": "9ad8a389-cee2-41c1-9d96-048abd25f276",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "dd7e466e-b8ae-4e99-9ab1-106c5b22bf72",
+      "content": "2 Sb 36,1tt",
+      "position": 16,
+      "order": 1,
+      "createdAt": "2024-09-10T03:21:56.927Z",
+      "updatedAt": "2024-09-10T03:21:56.927Z",
+      "verseId": "04bbe26a-f270-4289-9beb-8cb5acd95366",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    },
+    {
+      "id": "64b5423a-94bf-4bef-a4b6-f97106ddf96c",
+      "content": "Er 8,3",
+      "position": 121,
+      "order": 2,
+      "createdAt": "2024-09-10T03:21:56.988Z",
+      "updatedAt": "2024-09-10T03:21:56.988Z",
+      "verseId": "56b338b8-0e8f-4eee-8402-49f85a30157f",
+      "chapterId": "d7be05e8-2e6c-4c98-a5a9-2f799106a7d7"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "chapter": {
+    "id": "442a0693-0a32-4b61-a0ad-85ad2df3af03",
+    "number": 25,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.876Z",
+    "updatedAt": "2024-09-10T00:39:05.876Z",
+    "bookId": "7f56b021-9713-49da-a680-fb19a7c7c333"
+  },
+  "verses": [
+    {
+      "id": "d5740ead-f530-44d3-a93c-2f3fff50c0c3",
+      "number": 1,
+      "content": "Bấy giờ, ông Bin-đát người Su-ác lên tiếng nói :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:09:02.327Z",
+      "updatedAt": "2024-09-10T04:09:02.327Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "12c1c9c5-5ece-4634-b1ae-9b7d113a8260",
+      "number": 2,
+      "content": "Thiên Chúa nắm quyền thống trị,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.334Z",
+      "updatedAt": "2024-09-10T04:09:02.334Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "1364b0e8-39da-4664-8457-26661dee312a",
+      "number": 2,
+      "content": "Người đáng kinh đáng sợ dường nào.",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.336Z",
+      "updatedAt": "2024-09-10T04:09:02.336Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "e6f0c974-b7b1-414b-ba25-1e1e34393699",
+      "number": 2,
+      "content": "Người thiết lập hoà bình trên cõi trời cao.",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.338Z",
+      "updatedAt": "2024-09-10T04:09:02.338Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "4260f1ab-cb4d-4b5b-9561-c753ef6d071c",
+      "number": 3,
+      "content": "Cơ binh Người, ai đếm được hết,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.342Z",
+      "updatedAt": "2024-09-10T04:09:02.342Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "518eff11-fdcd-497e-a797-1823d55d9642",
+      "number": 3,
+      "content": "ánh sáng Người, nào ai tránh nổi ?",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.348Z",
+      "updatedAt": "2024-09-10T04:09:02.348Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "f6d8b3d8-aa60-4201-a52d-d5de7a2188a7",
+      "number": 4,
+      "content": "Trước nhan Thiên Chúa",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.350Z",
+      "updatedAt": "2024-09-10T04:09:02.350Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "6914a7ea-2360-4178-91ac-b8e477c24d91",
+      "number": 4,
+      "content": "phàm nhân cho mình là công chính thế nào được,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.354Z",
+      "updatedAt": "2024-09-10T04:09:02.354Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "a8234a37-0091-470f-988c-db0495cba7e3",
+      "number": 4,
+      "content": "và đứa con do người phụ nữ sinh ra",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.359Z",
+      "updatedAt": "2024-09-10T04:09:02.359Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "d48ca030-ae04-4548-8f74-592868a13245",
+      "number": 4,
+      "content": "làm sao dám coi mình là thanh sạch ?",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.361Z",
+      "updatedAt": "2024-09-10T04:09:02.361Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "e068034b-213d-401d-b768-31e758110625",
+      "number": 5,
+      "content": "Này, trước mắt Thiên Chúa, ngay cả ánh trăng cũng lu mờ",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.363Z",
+      "updatedAt": "2024-09-10T04:09:02.363Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "a63c55dd-18dc-4482-be4a-7397ea93cd7e",
+      "number": 5,
+      "content": "và tinh tú cũng không thanh sạch,",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.369Z",
+      "updatedAt": "2024-09-10T04:09:02.369Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "e1a032df-d807-4586-8adc-e902c16f96b7",
+      "number": 6,
+      "content": "thì phương chi người phàm chẳng qua là giòi bọ",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.378Z",
+      "updatedAt": "2024-09-10T04:09:02.378Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "f2683135-60b5-4149-9a80-a7a988989fac",
+      "number": 6,
+      "content": "và con người, cũng chỉ thuộc loại sâu.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:09:02.386Z",
+      "updatedAt": "2024-09-10T04:09:02.386Z",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "b9c91eb2-567e-4c3d-bc17-9e4cedb17791",
+      "content": "Khác hẳn với những lời lẽ sắc bén thông lệ (x. 8,2 ; 18,2-3), lời góp ý của ông Bin-đát theo thể loại thánh thi ca tụng quyền năng cao cả của Thiên Chúa. Người thiết lập hoà bình trên trời cao (25,2-3). Loài người không thể công chính được, vì ngay cả trên trời cũng không có gì thanh sạch (25,4-6).",
+      "position": 46,
+      "order": 0,
+      "createdAt": "2024-09-10T04:09:02.332Z",
+      "updatedAt": "2024-09-10T04:09:02.332Z",
+      "verseId": "d5740ead-f530-44d3-a93c-2f3fff50c0c3",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "9d641242-af9d-4025-ba14-b56738f13d4d",
+      "content": "Các tinh tú.",
+      "position": 7,
+      "order": 1,
+      "createdAt": "2024-09-10T04:09:02.345Z",
+      "updatedAt": "2024-09-10T04:09:02.345Z",
+      "verseId": "4260f1ab-cb4d-4b5b-9561-c753ef6d071c",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "b5d6db14-2569-4be1-8f54-d6fa72282638",
+      "content": "Cc. 4-6 lặp lại tư tưởng của ông Ê-li-phát trong 4,17-19 ; 15,14-16.",
+      "position": 5,
+      "order": 2,
+      "createdAt": "2024-09-10T04:09:02.352Z",
+      "updatedAt": "2024-09-10T04:09:02.352Z",
+      "verseId": "f6d8b3d8-aa60-4201-a52d-d5de7a2188a7",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "fc8231e9-4f67-49fd-abbb-21e8789fbf2c",
+      "content": "Không nói đến mặt trời ở đây, giống như trong Tv 8,3-4.",
+      "position": 32,
+      "order": 3,
+      "createdAt": "2024-09-10T04:09:02.374Z",
+      "updatedAt": "2024-09-10T04:09:02.374Z",
+      "verseId": "a63c55dd-18dc-4482-be4a-7397ea93cd7e",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "880975ef-5b45-41b7-b8f5-acfa10334d34",
+      "content": "X. Is 41,14 ; Tv 22,7.",
+      "position": 38,
+      "order": 4,
+      "createdAt": "2024-09-10T04:09:02.390Z",
+      "updatedAt": "2024-09-10T04:09:02.390Z",
+      "verseId": "f2683135-60b5-4149-9a80-a7a988989fac",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    }
+  ],
+  "headings": [
+    {
+      "id": "4cad66ff-5429-41ea-8aa0-6038c42a90ed",
+      "content": "Thánh thi ca tụng quyền năng Thiên Chúa",
+      "order": 0,
+      "createdAt": "2024-09-10T04:09:02.330Z",
+      "updatedAt": "2024-09-10T04:09:02.330Z",
+      "verseId": "d5740ead-f530-44d3-a93c-2f3fff50c0c3",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    }
+  ],
+  "references": [
+    {
+      "id": "c81fe0bf-6b6f-4af6-b9a9-60ae09df348f",
+      "content": "Hc 43,9-10; Is 24,21",
+      "position": 6,
+      "order": 0,
+      "createdAt": "2024-09-10T04:09:02.340Z",
+      "updatedAt": "2024-09-10T04:09:02.340Z",
+      "verseId": "e6f0c974-b7b1-414b-ba25-1e1e34393699",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "7acd8797-c394-4f46-b201-65dddfb91fa2",
+      "content": "G 4,17; 9,2; 15,14",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:09:02.357Z",
+      "updatedAt": "2024-09-10T04:09:02.357Z",
+      "verseId": "6914a7ea-2360-4178-91ac-b8e477c24d91",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    },
+    {
+      "id": "e3dab2e5-cd59-4847-aa9c-2cd8af84d658",
+      "content": "G 4,19",
+      "position": 34,
+      "order": 2,
+      "createdAt": "2024-09-10T04:09:02.395Z",
+      "updatedAt": "2024-09-10T04:09:02.395Z",
+      "verseId": "f2683135-60b5-4149-9a80-a7a988989fac",
+      "chapterId": "442a0693-0a32-4b61-a0ad-85ad2df3af03"
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "chapter": {
+    "id": "e381d75d-c8d5-45b3-842b-2c43186e161c",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.375Z",
+    "updatedAt": "2024-09-10T00:39:05.375Z",
+    "bookId": "de965643-6ced-49da-b0c0-b3cc6df80cb0"
+  },
+  "verses": [
+    {
+      "id": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "number": 1,
+      "content": "Tôi là Phao-lô, bởi ý Thiên Chúa được làm Tông Đồ của Đức Ki-tô Giê-su, và Ti-mô-thê là người anh em, kính gửi Hội Thánh của Thiên Chúa ở Cô-rin-tô, cùng với mọi người trong dân thánh trong khắp miền A-khai-a.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.448Z",
+      "updatedAt": "2024-09-10T01:49:44.448Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "d0f8d3be-3b17-4292-946b-406be5cee76b",
+      "number": 2,
+      "content": "Xin Thiên Chúa là Cha chúng ta và xin Chúa Giê-su Ki-tô ban cho anh em ân sủng và bình an.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.476Z",
+      "updatedAt": "2024-09-10T01:49:44.476Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "cd25a627-8c41-4d95-996c-44f175e438f0",
+      "number": 3,
+      "content": "Chúc tụng Thiên Chúa là Thân Phụ Đức Giê-su Ki-tô, Chúa chúng ta. Người là Cha giàu lòng từ bi lân ái, và là Thiên Chúa hằng sẵn sàng nâng đỡ ủi an.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.483Z",
+      "updatedAt": "2024-09-10T01:49:44.483Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "07c3d383-1576-40fa-ba6d-9ad1d4d5032f",
+      "number": 4,
+      "content": "Người luôn nâng đỡ ủi an chúng ta trong mọi cơn gian nan thử thách, để sau khi đã được Thiên Chúa nâng đỡ, chính chúng ta cũng biết an ủi những ai lâm cảnh gian nan khốn khó.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.495Z",
+      "updatedAt": "2024-09-10T01:49:44.495Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "8558a20a-9813-4d9b-ae85-5ee9fab8d26d",
+      "number": 5,
+      "content": "Vì cũng như chúng ta chia sẻ muôn vàn nỗi khổ đau của Đức Ki-tô, thì nhờ Người, chúng ta cũng được chứa chan niềm an ủi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.498Z",
+      "updatedAt": "2024-09-10T01:49:44.498Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "57eb6ab7-f8fd-4105-8b6b-5e54acc43d64",
+      "number": 6,
+      "content": "Chúng tôi có phải chịu gian nan, thì đó là để anh em được an ủi và được cứu độ. Chúng tôi có được an ủi, thì cũng là để anh em được an ủi, khiến anh em có sức kiên trì chịu đựng cùng những nỗi thống khổ mà chính chúng tôi phải chịu.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.504Z",
+      "updatedAt": "2024-09-10T01:49:44.504Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "66d9115e-ab3f-4819-a25d-35e1b98ed037",
+      "number": 7,
+      "content": "Chúng tôi lấy làm an tâm về anh em, vì biết rằng anh em thông phần thống khổ với chúng tôi thế nào, thì cũng sẽ được thông phần an ủi như vậy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.507Z",
+      "updatedAt": "2024-09-10T01:49:44.507Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "5942c90a-d065-4d62-bcc6-c89c501ea665",
+      "number": 8,
+      "content": "Thật thế, thưa anh em, chúng tôi không muốn để anh em chẳng hay biết gì về nỗi gian truân chúng tôi đã gặp bên A-xi-a : chúng tôi đã phải chịu đựng quá mức, quá sức chúng tôi, đến nỗi chúng tôi không còn hy vọng sống nổi.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.510Z",
+      "updatedAt": "2024-09-10T01:49:44.510Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "1b1b3d53-c478-4ff6-9f0d-24b4ea6a6732",
+      "number": 9,
+      "content": "Nhưng chúng tôi đã mang án tử nơi chính bản thân rồi, để chúng tôi không tin tưởng vào chính mình, mà vào Thiên Chúa, Đấng làm cho kẻ chết trỗi dậy.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.517Z",
+      "updatedAt": "2024-09-10T01:49:44.517Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "1f58b3ac-a397-4228-b7e3-a1ef04c3f904",
+      "number": 10,
+      "content": "Chính Người đã cứu và sẽ còn cứu chúng tôi khỏi một cái chết như thế. Người là Đấng chúng tôi trông cậy, Người sẽ còn cứu chúng tôi nữa.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.523Z",
+      "updatedAt": "2024-09-10T01:49:44.523Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "7c6343b4-e7dd-4562-b716-1d40e5082d6d",
+      "number": 11,
+      "content": "Còn anh em, hãy lấy lời cầu nguyện mà trợ giúp chúng tôi. Như vậy, Thiên Chúa sẽ ban ơn cho chúng tôi nhờ lời cầu thay nguyện giúp của nhiều người ; và do đó, nhiều người sẽ cảm tạ Thiên Chúa vì Người đã thương chúng tôi.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.530Z",
+      "updatedAt": "2024-09-10T01:49:44.530Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "966131a9-a17f-4cb6-9473-512327192502",
+      "number": 12,
+      "content": "Điều khiến chúng tôi tự hào là lương tâm chúng tôi làm chứng rằng : chúng tôi lấy sự thánh thiện và chân thành Thiên Chúa ban mà cư xử với người ta ở đời, đặc biệt là với anh em. Chúng tôi không cư xử theo lẽ khôn ngoan người đời, nhưng theo ân sủng của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.541Z",
+      "updatedAt": "2024-09-10T01:49:44.541Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "ef06d77d-f77b-42e2-b7a6-697a3b61ddb4",
+      "number": 13,
+      "content": "Thật thế, chúng tôi không viết cho anh em điều gì khác ngoài những điều anh em có thể đọc và hiểu được. Và tôi hy vọng anh em sẽ hiểu đến nơi đến chốn,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.553Z",
+      "updatedAt": "2024-09-10T01:49:44.553Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "484e68c6-3190-4309-b667-56d8c68d4e54",
+      "number": 14,
+      "content": "như anh em đã hiểu chúng tôi phần nào : chúng tôi là niềm vinh dự của anh em, cũng như anh em là niềm vinh dự của chúng tôi trong Ngày của Đức Giê-su, Chúa chúng ta.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.557Z",
+      "updatedAt": "2024-09-10T01:49:44.557Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "6ef888a1-9d37-4bb4-a8c9-c6bd54d127ac",
+      "number": 15,
+      "content": "Với lòng tin tưởng đó, tôi định đến với anh em trước để anh em được hưởng ân phúc lần thứ hai ;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.563Z",
+      "updatedAt": "2024-09-10T01:49:44.563Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "96a7646b-12ef-49de-ada8-caeae6ac9a32",
+      "number": 16,
+      "content": "rồi từ nơi anh em, tôi đi Ma-kê-đô-ni-a ; sau đó lại từ Ma-kê-đô-ni-a về với anh em, để anh em đưa tôi đi Giu-đê.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.567Z",
+      "updatedAt": "2024-09-10T01:49:44.567Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "ab6dbe30-b61c-411d-ab78-4741fbd70342",
+      "number": 17,
+      "content": "Dự tính như thế, phải chăng tôi đã tỏ ra nhẹ dạ ? Hay điều tôi dự tính là dự tính theo kiểu người phàm, khiến tôi vừa nói “có” lại vừa nói “không” ?",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.571Z",
+      "updatedAt": "2024-09-10T01:49:44.571Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "6bac8ed9-8576-4555-abf6-993a3d85cb56",
+      "number": 18,
+      "content": "Xin Thiên Chúa trung thành chứng giám cho chúng tôi ! Lời chúng tôi nói với anh em chẳng phải vừa là “có” vừa là “không”.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.575Z",
+      "updatedAt": "2024-09-10T01:49:44.575Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "7c0bc9ec-1d04-4684-9a01-54d8b23097b8",
+      "number": 19,
+      "content": "Vì Đức Ki-tô Giê-su, Con Thiên Chúa, Đấng mà chúng tôi, là Xin-va-nô, Ti-mô-thê và tôi, rao giảng cho anh em, đã không vừa là “có” vừa là “không”, nhưng nơi Người chỉ toàn là “có”.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.581Z",
+      "updatedAt": "2024-09-10T01:49:44.581Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "27d989af-0b26-4f80-b3e5-42b680fb6741",
+      "number": 20,
+      "content": "Quả thật, mọi lời hứa của Thiên Chúa đều là “có” nơi Người. Vì thế, cũng nhờ Người mà chúng ta hô lên “A-men” để tôn vinh Thiên Chúa.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.590Z",
+      "updatedAt": "2024-09-10T01:49:44.590Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "68e65209-9f17-4d84-8483-04c7d7321a52",
+      "number": 21,
+      "content": "Đấng củng cố chúng tôi cùng với anh em trong Đức Ki-tô và đã xức dầu cho chúng ta, Đấng ấy là Thiên Chúa.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.602Z",
+      "updatedAt": "2024-09-10T01:49:44.602Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "e4404f9a-f9cd-4f66-ba72-172bacb222c5",
+      "number": 22,
+      "content": "Chính Người cũng đã đóng ấn tín trên chúng ta và đổ Thần Khí vào lòng chúng ta làm bảo chứng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.611Z",
+      "updatedAt": "2024-09-10T01:49:44.611Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "9fcae890-cd71-47f2-aea0-8fa65ea70456",
+      "number": 23,
+      "content": "Phần tôi, có Thiên Chúa chứng giám, tôi xin lấy mạng sống mà thề rằng : chính vì nể anh em mà tôi đã không đến Cô-rin-tô nữa.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.624Z",
+      "updatedAt": "2024-09-10T01:49:44.624Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "5e129891-ec1a-4c70-9be2-7a1296329b28",
+      "number": 24,
+      "content": "Không phải là chúng tôi khống chế đức tin của anh em ; trái lại, chúng tôi góp phần tạo niềm vui cho anh em, bởi vì đức tin của anh em đã vững rồi.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:49:44.626Z",
+      "updatedAt": "2024-09-10T01:49:44.626Z",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "62efff19-7976-429b-acef-61795a210586",
+      "content": "<i>A-men</i> (nghĩa là <i>thật như vậy</i>, <i>tin chắc được là vậy</i>) là một trong bốn chữ A-ram được giữ lại trong các công thức phụng vụ mà bản Tân Ước Hy-lạp ghi lại. Tiếng <i>a-men</i> khẳng định lòng trung thành của Chúa và đồng thời lòng tin của con người. Khác với các thầy ráp-bi, Đức Giê-su mở đầu các lời tuyên bố của Người với chữ <i>a-men</i> : <i>thật, tôi bảo các ông...</i>. Trong các sách Nhất Lãm, có hơn năm mươi lần như vậy. Tin Mừng theo thánh Gio-an lặp lại chữ đó hai lần để lời tuyên bố có thêm uy thế và phần long trọng hơn : <i>Thật tôi bảo thật các ông...</i>. Nhưng thường thì tiếng <i>a-men</i> kết thúc các lời cầu nguyện trong phụng vụ (x. Rm 16,27 ; 1 Cr 14,16 ; Kh 5,14). Sách Khải Huyền sẽ dùng lại ngôn ngữ thánh Phao-lô và đặt cho Đức Giê-su danh hiệu <i>a-men</i> : <i>Đấng A-men</i> (3,14).",
+      "position": 25,
+      "order": 0,
+      "createdAt": "2024-09-10T01:49:44.464Z",
+      "updatedAt": "2024-09-10T01:49:44.464Z",
+      "headingId": "5bf29705-d7bb-4674-a8c7-0f19de952826",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "490313b8-47a2-4a79-ad9c-ed6cb1ba8489",
+      "content": "<i>Xức dầu</i> (c. 21) và <i>ấn tín</i> (c. 22) được gắn liền với lời khẳng định về Ba Ngôi Thiên Chúa : Đức Ki-tô, Thiên Chúa, Thánh Thần. Trong Cựu Ước, hai biểu tượng này đi liền với ơn được đầy tràn thần khí Thiên Chúa. Được ngôn sứ Giô-en tiên báo (3,1-2), ơn này nay đã được thể hiện. Hai từ đó có lẽ ngụ ý nói về các bí tích : hoặc là các bí tích nhập đạo, thông ban ơn Thánh Thần cho mọi tín hữu, hoặc là bí tích phong chức thánh, ban cho người tông đồ một ơn đặc biệt của Thánh Thần (c. 21 nêu hai hạng người : <i>chúng tôi</i> và <i>anh em</i>), để họ nên sứ giả trung thành của lòng trung thành của Thiên Chúa, thể hiện trong Đức Ki-tô.",
+      "position": 70,
+      "order": 1,
+      "createdAt": "2024-09-10T01:49:44.467Z",
+      "updatedAt": "2024-09-10T01:49:44.467Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "f0c7bb30-ad38-4369-8e35-ba0059dac387",
+      "content": "Ở đây và ở 5,5 là <i>bảo chứng</i>, ở chỗ khác là <i>ân huệ mở đầu</i> (x. Rm 8,23). Ơn Chúa Thánh Thần là bảo chứng cho chúng ta tin chắc sẽ được vinh quang thiên giới, đồng thời là tiền vị cho chúng ta, ngay từ bây giờ, được nếm hưởng phần nào vinh quang đó.",
+      "position": 84,
+      "order": 2,
+      "createdAt": "2024-09-10T01:49:44.470Z",
+      "updatedAt": "2024-09-10T01:49:44.470Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "8750f3bd-6db3-4c8a-b22f-f6d6d50cb7c9",
+      "content": "<i>Khống chế đức tin của anh em</i> : có lẽ ám chỉ một lời trách móc nào đó, một trong những yếu tố gây tình cảnh khó khăn mà thánh nhân đang trải qua.",
+      "position": 208,
+      "order": 3,
+      "createdAt": "2024-09-10T01:49:44.472Z",
+      "updatedAt": "2024-09-10T01:49:44.472Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "18cd061c-ae36-45f5-b9da-e4fb837dd89b",
+      "content": "X. 1 Cr 1,2-3+.",
+      "position": 42,
+      "order": 4,
+      "createdAt": "2024-09-10T01:49:44.479Z",
+      "updatedAt": "2024-09-10T01:49:44.479Z",
+      "verseId": "d0f8d3be-3b17-4292-946b-406be5cee76b",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "24d2dffc-5e4b-443d-91bf-eea4990ce125",
+      "content": "Đây là một lối nói Híp-ri theo cảm hứng Cựu Ước, thường gặp trong các văn kiện Cum-ran cũng như trong Tân Ước (x. Lc 6,36 ; Rm 12,1).",
+      "position": 101,
+      "order": 5,
+      "createdAt": "2024-09-10T01:49:44.486Z",
+      "updatedAt": "2024-09-10T01:49:44.486Z",
+      "verseId": "cd25a627-8c41-4d95-996c-44f175e438f0",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "f40bc2d0-4577-49e4-af54-eff535f03d6c",
+      "content": "<i>Niềm an ủi</i> đã được các ngôn sứ tiên báo như một đặc điểm của thời đại Mê-si-a, gồm những điều chính yếu như : thử thách được chấm dứt, thời đại thái bình an vui bắt đầu, với cuộc phục hưng vương quốc Ít-ra-en (Is 40,1 tt). Nhưng theo Tân Ước, niềm an ủi là chính Đức Ki-tô (Lc 2,25). Đó cũng là niềm vui và nguồn trợ lực đến với chúng ta nhờ Tin Mừng và Thần Khí Thiên Chúa (Mt 5,5). Do đó, thế giới mới đã có mặt trong thế giới này, và người Ki-tô hữu sống kết hợp với Đức Ki-tô được an ủi ngay trong nỗi khổ của mình (1,4-7 ; 7,4) và tìm thấy nguồn hy vọng (Rm 15,4).",
+      "position": 147,
+      "order": 6,
+      "createdAt": "2024-09-10T01:49:44.488Z",
+      "updatedAt": "2024-09-10T01:49:44.488Z",
+      "verseId": "cd25a627-8c41-4d95-996c-44f175e438f0",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "22444d37-446e-474d-aea0-7ba9a2754823",
+      "content": "Thánh Phao-lô nhấn mạnh sự đồng cảnh ngộ giữa Đức Ki-tô và giáo dân Cô-rin-tô : ở đây, gian nan và an ủi ; ở 5,21, tội lỗi và sự công chính ; ở 8,9, giàu sang và nghèo khó ; ở 13,4, phận hèn và quyền năng (x. 4,11 ; 12,9). Giữa Đức Ki-tô và người Ki-tô hữu, có sự trao đổi cho nhau thế nào, thì giữa người tông đồ và người giáo dân cũng phải có sự trao đổi thế ấy (1 Cr 11,1 ; 11,29 ; 12,26). Đó chính là mầu nhiệm Vượt Qua, vượt từ một thực tại này qua thực tại đối lập, nhờ sự hiện diện của Đức Ki-tô Phục Sinh ở giữa thế giới đầy tội lỗi và chết chóc.",
+      "position": 63,
+      "order": 7,
+      "createdAt": "2024-09-10T01:49:44.500Z",
+      "updatedAt": "2024-09-10T01:49:44.500Z",
+      "verseId": "8558a20a-9813-4d9b-ae85-5ee9fab8d26d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "b66e4ca0-1d9b-4866-82e2-640e7d8a6058",
+      "content": "A-xi-a là một <i>tỉnh</i> của đế quốc Rô-ma, lấy Ê-phê-xô làm thủ phủ. <i>Nỗi gian truân</i> nói ở đây có lẽ không phải vụ thợ bạc Ê-phê-xô nổi dậy (Cv 19,23-40), cũng không phải điều nói ở 1 Cr 15,32, nhưng làm cho liên tưởng đến Pl 1,12-30, và 2 Cr 11,23 tt như sẽ được kể ra. Sau này, thánh Phao-lô bị bắt là do người Do-thái ở A-xi-a (Cv 21,27 ; 24,19).",
+      "position": 117,
+      "order": 8,
+      "createdAt": "2024-09-10T01:49:44.512Z",
+      "updatedAt": "2024-09-10T01:49:44.512Z",
+      "verseId": "5942c90a-d065-4d62-bcc6-c89c501ea665",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "da9e41d2-ef31-4918-ad81-2133aa7af432",
+      "content": "Db : <i>và còn cứu</i>.",
+      "position": 32,
+      "order": 9,
+      "createdAt": "2024-09-10T01:49:44.526Z",
+      "updatedAt": "2024-09-10T01:49:44.526Z",
+      "verseId": "1f58b3ac-a397-4228-b7e3-a1ef04c3f904",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "4bce14a6-b950-430b-8362-a8e020a58e7e",
+      "content": "ds : <i>những cái chết như thế</i>, số nhiều, là một kiểu nói Sê-mít.",
+      "position": 68,
+      "order": 10,
+      "createdAt": "2024-09-10T01:49:44.528Z",
+      "updatedAt": "2024-09-10T01:49:44.528Z",
+      "verseId": "1f58b3ac-a397-4228-b7e3-a1ef04c3f904",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "a6a5f12f-f6c1-4dc4-b5b5-bbeae9a4b649",
+      "content": "Lời cảm tạ Thiên Chúa chiếm một vị trí quan trọng trong các thư thánh Phao-lô (x. các đoạn đầu thư). Đó không phải là một công thức suông : nó thiếu ở Gl 1,1 tt là một điều có ý nghĩa. Đối với thánh nhân, lòng tri ân phải là linh hồn của tất cả những hành vi mà người Ki-tô hữu làm nhân danh Đức Ki-tô, để được Người vui nhận và cho nhập vào trong chính lời cảm tạ của Người dâng lên Chúa Cha (Cl 3,17 ; Ep 5,20). Đó là một bổn phận đẹp ý Chúa (1 Tx 5,18), vì tạ ơn là một cách đáp đền –tuy không hoàn hảo lắm– ơn Thiên Chúa ban (1 Tx 3,9 ds). Thậm chí, nó là mục đích tối hậu của lời cầu nguyện xin ơn (1,11 và 4,15) và những biểu lộ của tình bác ái huynh đệ (9,11-15). Do đó, lời cầu nguyện tạ ơn trong phụng vụ (1 Cr 14,16 ; Cl 3,16 ; Ep 5,19 tt) và trong lời cầu nguyện riêng (1 Tx 5,18 ; Pl 4,6) có một tầm quan trọng rất lớn.",
+      "position": 191,
+      "order": 11,
+      "createdAt": "2024-09-10T01:49:44.532Z",
+      "updatedAt": "2024-09-10T01:49:44.532Z",
+      "verseId": "7c6343b4-e7dd-4562-b716-1d40e5082d6d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "f5fcff29-4d1b-4ebf-bd7f-3dd946f1049e",
+      "content": "Db : <i>vì Người đã thương anh em</i>.",
+      "position": 220,
+      "order": 12,
+      "createdAt": "2024-09-10T01:49:44.535Z",
+      "updatedAt": "2024-09-10T01:49:44.535Z",
+      "verseId": "7c6343b4-e7dd-4562-b716-1d40e5082d6d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "fc83f43b-02b7-4be9-9200-5e1031ff7cb6",
+      "content": "Trong thư này, nhất là các ch. 10-12, thánh Phao-lô thường hay nói về niềm tự hào của ngài. Đặc biệt, ngài xem các giáo đoàn ngài đã lập, và nhất là ơn gọi Chúa ban cho ngài, là niềm tự hào lớn nhất ; do đó, sẽ không có gì làm cho ngài nao núng.",
+      "position": 27,
+      "order": 13,
+      "createdAt": "2024-09-10T01:49:44.547Z",
+      "updatedAt": "2024-09-10T01:49:44.547Z",
+      "verseId": "966131a9-a17f-4cb6-9473-512327192502",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "09a04ae4-e559-4380-8ed8-41d07fa597f4",
+      "content": "Db : <i>tấm lòng đơn sơ và chân thành</i>.",
+      "position": 96,
+      "order": 14,
+      "createdAt": "2024-09-10T01:49:44.549Z",
+      "updatedAt": "2024-09-10T01:49:44.549Z",
+      "verseId": "966131a9-a17f-4cb6-9473-512327192502",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "a128cc1b-cd44-4c4c-ad8c-cad3270b651b",
+      "content": "Trong lời rao giảng cũng như trong thư từ, thánh Phao-lô chỉ có một Tin Mừng duy nhất (11,4 ; Gl 1,6-9 ; 2,2.5). Ở đây, ngài trả lời những ai tố cáo ngài đi nước đôi (2,17 ; 4,2).",
+      "position": 102,
+      "order": 15,
+      "createdAt": "2024-09-10T01:49:44.555Z",
+      "updatedAt": "2024-09-10T01:49:44.555Z",
+      "verseId": "ef06d77d-f77b-42e2-b7a6-697a3b61ddb4",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "3b3dd615-9c07-48bc-918e-de3a4ef16eba",
+      "content": "<i>Ngày của Chúa</i> : x. 1 Cr 1,7+.",
+      "position": 164,
+      "order": 16,
+      "createdAt": "2024-09-10T01:49:44.559Z",
+      "updatedAt": "2024-09-10T01:49:44.559Z",
+      "verseId": "484e68c6-3190-4309-b667-56d8c68d4e54",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "075b1fd8-ffd8-4ffc-8b16-34cfb904f359",
+      "content": "Hoặc hiểu <i>hai lần phúc</i> : được phúc thánh Phao-lô đến thăm, và được Chúa ban ân phúc nhân cuộc thăm viếng này. Db : <i>hưởng gấp đôi niềm vui</i>.",
+      "position": 93,
+      "order": 17,
+      "createdAt": "2024-09-10T01:49:44.565Z",
+      "updatedAt": "2024-09-10T01:49:44.565Z",
+      "verseId": "6ef888a1-9d37-4bb4-a8c9-c6bd54d127ac",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "0291d7a5-e98b-4cc8-afef-b7fade8a4028",
+      "content": "Như vậy, dự định ghi ở 1 Cr 16,5-6 đã bị thay đổi. Đáng lý lộ trình là Ma-kê-đô-ni-a, Cô-rin-tô, Giu-đê ; đàng này lại là Cô-rin-tô, Ma-kê-đô-ni-a, Cô-rin-tô, Giu-đê. Trong thực tế, thánh Phao-lô sẽ bỏ không ghé Cô-rin-tô, <i>vì nể</i> giáo đoàn nơi đó (1,23 ; 2,1).",
+      "position": 112,
+      "order": 18,
+      "createdAt": "2024-09-10T01:49:44.569Z",
+      "updatedAt": "2024-09-10T01:49:44.569Z",
+      "verseId": "96a7646b-12ef-49de-ada8-caeae6ac9a32",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "d7410c12-58d3-49a3-8631-5b0f0a945072",
+      "content": "ds : khiến ở tôi là tiếng <i>có, có</i>, rồi tiếng <i>không, không</i>. Xuất xứ của lời này là Mt 5,37 (x. Gc 5,12). Địch thủ của thánh Phao-lô tố cáo ngài cứ đổi dự tính vì những lý do phàm tục. Thật ra, thời thế đã bắt buộc ngài phải làm như vậy.",
+      "position": 146,
+      "order": 19,
+      "createdAt": "2024-09-10T01:49:44.573Z",
+      "updatedAt": "2024-09-10T01:49:44.573Z",
+      "verseId": "ab6dbe30-b61c-411d-ab78-4741fbd70342",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "9827dda0-f51a-46eb-be04-9f47b9a831ee",
+      "content": "ds : <i>Thiên Chúa trung thành</i> (<i>chứng giám cho</i>) <i>rằng</i>. Đây là một lối nói để thề, nại vào lòng trung thành của Thiên Chúa là <i>Núi Đá</i> vững vàng.",
+      "position": 51,
+      "order": 20,
+      "createdAt": "2024-09-10T01:49:44.577Z",
+      "updatedAt": "2024-09-10T01:49:44.577Z",
+      "verseId": "6bac8ed9-8576-4555-abf6-993a3d85cb56",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "601e0e9c-eab4-4d52-8e25-df10f8cb37af",
+      "content": "Ông Xin-va-nô này có hai tên : tên gốc Híp-ri là Si-la (Cv 15,22) và tên dạng Hy-la là Xin-va-nô. Ông có tham gia vào việc rao giảng Tin Mừng tại Cô-rin-tô (Cv 18,5 ; 1 Tx 1,1 ; 2 Tx 1,1).",
+      "position": 68,
+      "order": 21,
+      "createdAt": "2024-09-10T01:49:44.583Z",
+      "updatedAt": "2024-09-10T01:49:44.583Z",
+      "verseId": "7c0bc9ec-1d04-4684-9a01-54d8b23097b8",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "aae2fe8b-5097-4326-a9c3-4f393788f769",
+      "content": "Thiên Chúa luôn trung tín giữ các lời hứa của Người. Lòng thành tín đó đã đạt mức sung mãn trong Đức Ki-tô (x. Rm 15,8). Do đó, không thể nào thánh Phao-lô lại <i>lòng một dạ hai</i>, nghịch lại lòng thành tín của Đấng mà ngài rao giảng và là lẽ sống của ngài.",
+      "position": 58,
+      "order": 22,
+      "createdAt": "2024-09-10T01:49:44.594Z",
+      "updatedAt": "2024-09-10T01:49:44.594Z",
+      "verseId": "27d989af-0b26-4f80-b3e5-42b680fb6741",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "1be4056e-e365-4219-b631-0b03e10f0315",
+      "content": "<i>A-men</i> (nghĩa là <i>thật như vậy</i>, <i>tin chắc được là vậy</i>) là một trong bốn chữ A-ram được giữ lại trong các công thức phụng vụ mà bản Tân Ước Hy-lạp ghi lại. Tiếng <i>a-men</i> khẳng định lòng trung thành của Chúa và đồng thời lòng tin của con người. Khác với các thầy ráp-bi, Đức Giê-su mở đầu các lời tuyên bố của Người với chữ <i>a-men</i> : <i>thật, tôi bảo các ông...</i>. Trong các sách Nhất Lãm, có hơn năm mươi lần như vậy. Tin Mừng theo thánh Gio-an lặp lại chữ đó hai lần để lời tuyên bố có thêm uy thế và phần long trọng hơn : <i>Thật tôi bảo thật các ông...</i>. Nhưng thường thì tiếng <i>a-men</i> kết thúc các lời cầu nguyện trong phụng vụ (x. Rm 16,27 ; 1 Cr 14,16 ; Kh 5,14). Sách Khải Huyền sẽ dùng lại ngôn ngữ thánh Phao-lô và đặt cho Đức Giê-su danh hiệu <i>a-men</i> : <i>Đấng A-men</i> (3,14).",
+      "position": 109,
+      "order": 23,
+      "createdAt": "2024-09-10T01:49:44.597Z",
+      "updatedAt": "2024-09-10T01:49:44.597Z",
+      "verseId": "27d989af-0b26-4f80-b3e5-42b680fb6741",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "5451a441-b3c0-4f7d-a9af-41b06430dd5b",
+      "content": "<i>Xức dầu</i> (c. 21) và <i>ấn tín</i> (c. 22) được gắn liền với lời khẳng định về Ba Ngôi Thiên Chúa : Đức Ki-tô, Thiên Chúa, Thánh Thần. Trong Cựu Ước, hai biểu tượng này đi liền với ơn được đầy tràn thần khí Thiên Chúa. Được ngôn sứ Giô-en tiên báo (3,1-2), ơn này nay đã được thể hiện. Hai từ đó có lẽ ngụ ý nói về các bí tích : hoặc là các bí tích nhập đạo, thông ban ơn Thánh Thần cho mọi tín hữu, hoặc là bí tích phong chức thánh, ban cho người tông đồ một ơn đặc biệt của Thánh Thần (c. 21 nêu hai hạng người : <i>chúng tôi</i> và <i>anh em</i>), để họ nên sứ giả trung thành của lòng trung thành của Thiên Chúa, thể hiện trong Đức Ki-tô.",
+      "position": 81,
+      "order": 24,
+      "createdAt": "2024-09-10T01:49:44.604Z",
+      "updatedAt": "2024-09-10T01:49:44.604Z",
+      "verseId": "68e65209-9f17-4d84-8483-04c7d7321a52",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "539f3dc4-c8b0-4299-ae6f-b89a41c1764c",
+      "content": "Ở đây và ở 5,5 là <i>bảo chứng</i>, ở chỗ khác là <i>ân huệ mở đầu</i> (x. Rm 8,23). Ơn Chúa Thánh Thần là bảo chứng cho chúng ta tin chắc sẽ được vinh quang thiên giới, đồng thời là tiền vị cho chúng ta, ngay từ bây giờ, được nếm hưởng phần nào vinh quang đó.",
+      "position": 92,
+      "order": 25,
+      "createdAt": "2024-09-10T01:49:44.618Z",
+      "updatedAt": "2024-09-10T01:49:44.618Z",
+      "verseId": "e4404f9a-f9cd-4f66-ba72-172bacb222c5",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "3b75dbc2-21c0-48a5-87c9-4a41f54bc985",
+      "content": "<i>Khống chế đức tin của anh em</i> : có lẽ ám chỉ một lời trách móc nào đó, một trong những yếu tố gây tình cảnh khó khăn mà thánh nhân đang trải qua.",
+      "position": 52,
+      "order": 26,
+      "createdAt": "2024-09-10T01:49:44.629Z",
+      "updatedAt": "2024-09-10T01:49:44.629Z",
+      "verseId": "5e129891-ec1a-4c70-9be2-7a1296329b28",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    }
+  ],
+  "headings": [
+    {
+      "id": "f12babda-f6a3-439a-b5ef-ccea7e259c37",
+      "content": "THƯ 2 GỬI TÍN HỮU CÔ-RIN-TÔ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:49:44.458Z",
+      "updatedAt": "2024-09-10T01:49:44.458Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "b1ef3fcc-5a37-4820-ae1d-47d0de392adc",
+      "content": "I. NHẮC LẠI NHỮNG SỰ VIỆC ĐÃ XẢY RA",
+      "order": 0,
+      "createdAt": "2024-09-10T01:49:44.543Z",
+      "updatedAt": "2024-09-10T01:49:44.543Z",
+      "verseId": "966131a9-a17f-4cb6-9473-512327192502",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "c9d02641-8f50-47eb-9eb3-bd8c84dd3b00",
+      "content": "LỜI MỞ ĐẦU",
+      "order": 1,
+      "createdAt": "2024-09-10T01:49:44.460Z",
+      "updatedAt": "2024-09-10T01:49:44.460Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "b467026f-8994-4e54-8a27-28587ec29db0",
+      "content": "Lý do khiến ông Phao-lô thay đổi lộ trình",
+      "order": 1,
+      "createdAt": "2024-09-10T01:49:44.545Z",
+      "updatedAt": "2024-09-10T01:49:44.545Z",
+      "verseId": "966131a9-a17f-4cb6-9473-512327192502",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "5bf29705-d7bb-4674-a8c7-0f19de952826",
+      "content": "Lời chào thăm. Lời cảm tạ.",
+      "order": 2,
+      "createdAt": "2024-09-10T01:49:44.462Z",
+      "updatedAt": "2024-09-10T01:49:44.462Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    }
+  ],
+  "references": [
+    {
+      "id": "4218f29a-17fe-440f-b031-0e258c4482bf",
+      "content": "Rm 1,1; 1 Cr 1,1",
+      "position": 33,
+      "order": 0,
+      "createdAt": "2024-09-10T01:49:44.474Z",
+      "updatedAt": "2024-09-10T01:49:44.474Z",
+      "verseId": "cd25d5bc-8176-433b-9bf1-bbe0cc25c4ec",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "ecc29554-5102-4c50-a0a7-5da056f62f4f",
+      "content": "Rm 1,7",
+      "position": 56,
+      "order": 1,
+      "createdAt": "2024-09-10T01:49:44.481Z",
+      "updatedAt": "2024-09-10T01:49:44.481Z",
+      "verseId": "d0f8d3be-3b17-4292-946b-406be5cee76b",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "2e027c3d-7d60-4b74-9857-559fdf484b20",
+      "content": "Ep 1,7",
+      "position": 79,
+      "order": 2,
+      "createdAt": "2024-09-10T01:49:44.490Z",
+      "updatedAt": "2024-09-10T01:49:44.490Z",
+      "verseId": "cd25a627-8c41-4d95-996c-44f175e438f0",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "3b83b497-fe1c-4293-9efe-1391eaa1595c",
+      "content": "Rm 15,5",
+      "position": 142,
+      "order": 3,
+      "createdAt": "2024-09-10T01:49:44.493Z",
+      "updatedAt": "2024-09-10T01:49:44.493Z",
+      "verseId": "cd25a627-8c41-4d95-996c-44f175e438f0",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "00f4fdca-1f58-4e9e-aea0-bfa537d3511d",
+      "content": "Pl 1,20; Cl 1,24",
+      "position": 21,
+      "order": 4,
+      "createdAt": "2024-09-10T01:49:44.502Z",
+      "updatedAt": "2024-09-10T01:49:44.502Z",
+      "verseId": "8558a20a-9813-4d9b-ae85-5ee9fab8d26d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "1935efbb-64d5-4f69-8c47-631d18568940",
+      "content": "Pl 2,27",
+      "position": 194,
+      "order": 5,
+      "createdAt": "2024-09-10T01:49:44.514Z",
+      "updatedAt": "2024-09-10T01:49:44.514Z",
+      "verseId": "5942c90a-d065-4d62-bcc6-c89c501ea665",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "d71ade4e-49b3-4464-bbec-6fe1ab3f9155",
+      "content": "2 Cr 4,7",
+      "position": 40,
+      "order": 6,
+      "createdAt": "2024-09-10T01:49:44.519Z",
+      "updatedAt": "2024-09-10T01:49:44.519Z",
+      "verseId": "1b1b3d53-c478-4ff6-9f0d-24b4ea6a6732",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "ef0574bb-e822-4083-8518-fc41e6c65736",
+      "content": "Rm 4,17",
+      "position": 118,
+      "order": 7,
+      "createdAt": "2024-09-10T01:49:44.521Z",
+      "updatedAt": "2024-09-10T01:49:44.521Z",
+      "verseId": "1b1b3d53-c478-4ff6-9f0d-24b4ea6a6732",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "fe78d83b-3507-4b73-abe3-577f0260a60b",
+      "content": "Rm 15,30",
+      "position": 110,
+      "order": 8,
+      "createdAt": "2024-09-10T01:49:44.537Z",
+      "updatedAt": "2024-09-10T01:49:44.537Z",
+      "verseId": "7c6343b4-e7dd-4562-b716-1d40e5082d6d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "de5139e7-3dea-48db-81b7-088241ca3cc1",
+      "content": "2 Cr 4,15; 9,12",
+      "position": 159,
+      "order": 9,
+      "createdAt": "2024-09-10T01:49:44.539Z",
+      "updatedAt": "2024-09-10T01:49:44.539Z",
+      "verseId": "7c6343b4-e7dd-4562-b716-1d40e5082d6d",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "f4c4f6ff-6b37-4939-a761-f86042ff2568",
+      "content": "1 Cr 1,17; 2,1",
+      "position": 51,
+      "order": 10,
+      "createdAt": "2024-09-10T01:49:44.551Z",
+      "updatedAt": "2024-09-10T01:49:44.551Z",
+      "verseId": "966131a9-a17f-4cb6-9473-512327192502",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "e32f551d-df59-4072-bb91-ecf15f98c7b6",
+      "content": "Pl 2,16; 4,1; 1 Tx 2,19-20",
+      "position": 58,
+      "order": 11,
+      "createdAt": "2024-09-10T01:49:44.561Z",
+      "updatedAt": "2024-09-10T01:49:44.561Z",
+      "verseId": "484e68c6-3190-4309-b667-56d8c68d4e54",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "1316efed-dce5-405f-a172-b3365b8fef31",
+      "content": "1 Cr 1,9; 10,13",
+      "position": 15,
+      "order": 12,
+      "createdAt": "2024-09-10T01:49:44.579Z",
+      "updatedAt": "2024-09-10T01:49:44.579Z",
+      "verseId": "6bac8ed9-8576-4555-abf6-993a3d85cb56",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "e1824c92-396e-41c5-a440-6e87e921bff8",
+      "content": "Cv 18,5",
+      "position": 59,
+      "order": 13,
+      "createdAt": "2024-09-10T01:49:44.585Z",
+      "updatedAt": "2024-09-10T01:49:44.585Z",
+      "verseId": "7c0bc9ec-1d04-4684-9a01-54d8b23097b8",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "a77264c5-b759-46c4-8a37-c21a1c68e5c2",
+      "content": "Mt 5,37",
+      "position": 127,
+      "order": 14,
+      "createdAt": "2024-09-10T01:49:44.587Z",
+      "updatedAt": "2024-09-10T01:49:44.587Z",
+      "verseId": "7c0bc9ec-1d04-4684-9a01-54d8b23097b8",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "31df9db9-6de8-4a9d-b7c3-5af9f4c65a23",
+      "content": "Rm 16,27; 1 Ga 2,20-27; Kh 3,14",
+      "position": 113,
+      "order": 15,
+      "createdAt": "2024-09-10T01:49:44.599Z",
+      "updatedAt": "2024-09-10T01:49:44.599Z",
+      "verseId": "27d989af-0b26-4f80-b3e5-42b680fb6741",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    },
+    {
+      "id": "4296c184-8a34-4480-b6f4-f9ae859f3664",
+      "content": "1 Pr 5,2-3",
+      "position": 25,
+      "order": 16,
+      "createdAt": "2024-09-10T01:49:44.621Z",
+      "updatedAt": "2024-09-10T01:49:44.621Z",
+      "verseId": "e4404f9a-f9cd-4f66-ba72-172bacb222c5",
+      "chapterId": "e381d75d-c8d5-45b3-842b-2c43186e161c"
+    }
+  ]
+}

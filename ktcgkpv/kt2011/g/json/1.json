@@ -1,0 +1,667 @@
+{
+  "chapter": {
+    "id": "0fee4685-4895-49c9-b617-7796212cc13e",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.875Z",
+    "updatedAt": "2024-09-10T00:39:05.875Z",
+    "bookId": "7f56b021-9713-49da-a680-fb19a7c7c333"
+  },
+  "verses": [
+    {
+      "id": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "number": 1,
+      "content": "Xưa ở đất Út có một người tên là Gióp. Ông là một con người vẹn toàn và ngay thẳng, kính sợ Thiên Chúa và lánh xa điều ác.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.173Z",
+      "updatedAt": "2024-09-10T04:07:37.173Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "c3c6778c-78eb-4944-9a98-6d48c875803d",
+      "number": 2,
+      "content": "Ông sinh được bảy người con trai và ba người con gái.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.191Z",
+      "updatedAt": "2024-09-10T04:07:37.191Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "ce28b526-d274-4d83-9a33-63b7b205fe5c",
+      "number": 3,
+      "content": "Ông có một đàn súc vật gồm bảy ngàn chiên dê, ba ngàn lạc đà, năm trăm đôi bò, năm trăm lừa cái và một số rất đông tôi tớ. Ông là người giàu có nhất trong số các con cái Phương Đông.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.199Z",
+      "updatedAt": "2024-09-10T04:07:37.199Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "350baeae-8f8a-4873-a1d2-bedc26c7dc8c",
+      "number": 4,
+      "content": "Các con trai ông có thói quen luân phiên tới nhà nhau tiệc tùng và cho người đi mời ba cô em gái đến ăn uống với họ.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.212Z",
+      "updatedAt": "2024-09-10T04:07:37.212Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "2a70b5ef-7398-4da6-b76e-529d60d188b7",
+      "number": 5,
+      "content": "Mỗi khi hết vòng tiệc tùng, ông Gióp cho gọi họ đến để thanh tẩy họ ; rồi ông dậy thật sớm, dâng lễ toàn thiêu cho mỗi người trong họ, vì ông tự nhủ : “Biết đâu các con trai ta đã chẳng phạm tội và nguyền rủa Thiên Chúa trong lòng !” Lần nào ông Gióp cũng làm như thế.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.218Z",
+      "updatedAt": "2024-09-10T04:07:37.218Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "072ccaac-33f7-49e9-9ee9-66f58bfd1264",
+      "number": 6,
+      "content": "Vậy một ngày kia, các con cái Thiên Chúa đến trình diện ĐỨC CHÚA ; Xa-tan cũng đến trong đám họ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.232Z",
+      "updatedAt": "2024-09-10T04:07:37.232Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "ea65b6b6-1847-488c-a241-0fead1869082",
+      "number": 7,
+      "content": "Bấy giờ ĐỨC CHÚA phán với Xa-tan : “Ngươi từ đâu tới ?” Xa-tan thưa với ĐỨC CHÚA : “Rảo quanh cõi đất và lang thang khắp đó đây.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.257Z",
+      "updatedAt": "2024-09-10T04:07:37.257Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "1d74cd0a-5d40-4e57-88ae-222a9aef60fc",
+      "number": 8,
+      "content": "ĐỨC CHÚA phán với Xa-tan : “Ngươi có để ý đến Gióp, tôi tớ của Ta không ? Thật chẳng có ai trên cõi đất này giống như nó : một con người vẹn toàn và ngay thẳng, kính sợ Thiên Chúa và lánh xa điều ác !”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.261Z",
+      "updatedAt": "2024-09-10T04:07:37.261Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "def85a91-8829-4df8-bf39-4765715d1c2b",
+      "number": 9,
+      "content": "Nhưng Xa-tan thưa lại với ĐỨC CHÚA : “Có phải Gióp kính sợ Thiên Chúa mà không cầu lợi chăng ?",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.276Z",
+      "updatedAt": "2024-09-10T04:07:37.276Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "2185a059-ee39-41bc-804a-7d3e31307bbe",
+      "number": 10,
+      "content": "Chẳng phải chính Ngài đã bao bọc, chở che nó tư bề, nó cũng như nhà cửa và tài sản của nó sao ? Ngài đã ban phúc lành cho công việc do tay nó làm, và các đàn súc vật của nó lan tràn khắp xứ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.280Z",
+      "updatedAt": "2024-09-10T04:07:37.280Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "351d728c-4d1b-4339-8400-d44c2da0e307",
+      "number": 11,
+      "content": "Ngài cứ thử giơ tay đánh vào mọi tài sản của nó xem, chắc chắn là nó nguyền rủa Ngài thẳng mặt !”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.285Z",
+      "updatedAt": "2024-09-10T04:07:37.285Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "10d4b846-5879-4339-9ec0-8d7cc6ce1120",
+      "number": 12,
+      "content": "ĐỨC CHÚA phán với Xa-tan : “Được, mọi tài sản của nó thuộc quyền ngươi, duy chỉ có con người của nó là ngươi không được đưa tay đụng tới.” Rồi Xa-tan rút lui khỏi nhan ĐỨC CHÚA.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.290Z",
+      "updatedAt": "2024-09-10T04:07:37.290Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "1d6a5e2e-1be2-463c-8833-5e7a1e57c1a8",
+      "number": 13,
+      "content": "Vậy một ngày kia, các con trai con gái ông đang ăn tiệc uống rượu ở nhà người anh cả của họ,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.295Z",
+      "updatedAt": "2024-09-10T04:07:37.295Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "1b563d74-e72f-4389-aab3-68dc227782a9",
+      "number": 14,
+      "content": "thì một người đưa tin đến nói với ông Gióp : “Trong lúc bò của ông cày ruộng và lừa cái ăn cỏ bên cạnh,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.305Z",
+      "updatedAt": "2024-09-10T04:07:37.305Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "a56e88de-8e0d-44e9-a14b-7d797c0f43cb",
+      "number": 15,
+      "content": "dân Sơ-va đã xông vào cướp lấy ; còn các đầy tớ, chúng dùng gươm giết chết, chỉ có mình tôi thoát nạn về báo cho ông hay.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.309Z",
+      "updatedAt": "2024-09-10T04:07:37.309Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "dac7c8c2-b59e-4301-928d-edec81d34f5b",
+      "number": 16,
+      "content": "Người ấy còn đang nói thì một người khác về thưa : “Lửa của Thiên Chúa từ trời giáng xuống đã đốt cháy chiên dê và đầy tớ ; lửa đã thiêu rụi hết, chỉ có mình tôi thoát nạn về báo cho ông hay.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.329Z",
+      "updatedAt": "2024-09-10T04:07:37.329Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "a1b6b4bb-55b5-4e0a-8c43-36a760adc46d",
+      "number": 17,
+      "content": "Người này còn đang nói thì một người khác về thưa : “Người Can-đê chia thành ba toán ập vào cướp lấy lạc đà ; còn các đầy tớ, chúng dùng gươm giết chết, chỉ có mình tôi thoát nạn về báo cho ông hay.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.348Z",
+      "updatedAt": "2024-09-10T04:07:37.348Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "b4470be1-3a5d-4b16-8721-05a5f5da8d61",
+      "number": 18,
+      "content": "Người ấy còn đang nói, thì một người khác về thưa : “Con trai con gái ông đang ăn tiệc uống rượu trong nhà người anh cả của họ,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.363Z",
+      "updatedAt": "2024-09-10T04:07:37.363Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "e3aedb99-8773-45ce-8c51-4f596f2c1b34",
+      "number": 19,
+      "content": "thì một trận cuồng phong từ bên kia sa mạc thổi thốc vào bốn góc nhà ; nhà sập xuống đè trên đám trẻ ; họ chết hết, chỉ có mình tôi thoát nạn về báo cho ông hay.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.367Z",
+      "updatedAt": "2024-09-10T04:07:37.367Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "086ba7b1-b910-4a80-ae92-866e0ff3f31a",
+      "number": 20,
+      "content": "Bấy giờ ông Gióp trỗi dậy, xé áo mình ra, cạo đầu, sấp mình xuống đất, sụp lạy",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.377Z",
+      "updatedAt": "2024-09-10T04:07:37.377Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "cf9f5abb-5ff9-4e91-8316-8621b85baf66",
+      "number": 21,
+      "content": "và nói :",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.387Z",
+      "updatedAt": "2024-09-10T04:07:37.387Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "d955dbb5-9f64-43ef-8193-e19d4d8561c2",
+      "number": 21,
+      "content": "“Thân trần truồng sinh từ lòng mẹ,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:07:37.392Z",
+      "updatedAt": "2024-09-10T04:07:37.392Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "4cce40e9-f528-40c7-a563-254611bb62a2",
+      "number": 21,
+      "content": "tôi sẽ trở về đó cũng trần truồng.",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:07:37.408Z",
+      "updatedAt": "2024-09-10T04:07:37.408Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "45d23924-980d-4113-8812-18bfcf01ba0f",
+      "number": 21,
+      "content": "ĐỨC CHÚA đã ban cho, ĐỨC CHÚA lại lấy đi :",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:07:37.418Z",
+      "updatedAt": "2024-09-10T04:07:37.418Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "dc0501a2-ad46-4e4c-8e3f-fe877828a906",
+      "number": 21,
+      "content": "xin chúc tụng danh ĐỨC CHÚA !”",
+      "order": 4,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:07:37.423Z",
+      "updatedAt": "2024-09-10T04:07:37.423Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "4020f88a-6a4a-4d99-a43e-ce4bfc9c7663",
+      "number": 22,
+      "content": "Trong tất cả những chuyện ấy, ông Gióp không hề phạm tội cũng không buông lời trách móc phạm đến Thiên Chúa.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:07:37.434Z",
+      "updatedAt": "2024-09-10T04:07:37.434Z",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "cf329c66-d8f0-466d-8e06-eab72858fa4b",
+      "content": "Hai chương đầu nêu lên những thử thách ông Gióp phải chịu. Ch. 1 nói đến thử thách về gia đình và tài sản vật chất. Ch. 2 nêu lên thử thách trên chính con người ông Gióp. Hai chương này được chia làm 6 đoạn : 1,1-5 giới thiệu ông Gióp : đức tính và tài sản ; 1,6-12 tả cảnh thứ nhất trên thiên đình ; 1,13-22 nói về ông Gióp khiêm tốn chịu đựng khi ông mất hết tài sản và con cái ; 2,1-7a mô tả cảnh thứ hai trên thiên đình ; 2,7b-10 nói đến nỗi đau đớn ông Gióp phải chịu ; 2,11-13 thuật chuyện ba người bạn đến an ủi ông Gióp.",
+      "position": 13,
+      "order": 0,
+      "createdAt": "2024-09-10T04:07:37.179Z",
+      "updatedAt": "2024-09-10T04:07:37.179Z",
+      "headingId": "f017f3bd-a6f7-4874-8ec0-67356c63cfb6",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "1435bda0-d499-4204-b4ce-f454d7471e6d",
+      "content": "1,1-5 mở đầu câu chuyện dân gian : giới thiệu ông Gióp như là thủ lãnh một dân du mục xứ Ê-đôm, là một người đạo hạnh. Chính ông sẽ tự biện hộ trong phần đối thoại : ông vô tội, không thể nào bị trừng phạt vì tội lỗi mình phạm. Ông là một người dân ngoại hay là người Do-thái sống ngoài lãnh thổ. Con cái và tài sản là dấu chỉ Chúa ban phúc lành cho ông.",
+      "position": 3,
+      "order": 1,
+      "createdAt": "2024-09-10T04:07:37.183Z",
+      "updatedAt": "2024-09-10T04:07:37.183Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "73ee436b-0609-4f4d-be97-c61f4352d5df",
+      "content": "Út thuộc phần lãnh thổ xứ Ê-đôm (St 36,28 ; Ac 4,21), nằm ở biên giới Ê-đôm và Ả-rập, phía đông nam Pa-lét-tin Biển Chết. Út cũng là tên một bộ lạc A-ram (St 10,23), tên con cả của ông A-ram, người anh em của tổ phụ Áp-ra-ham (St 22,21-23).",
+      "position": 12,
+      "order": 2,
+      "createdAt": "2024-09-10T04:07:37.185Z",
+      "updatedAt": "2024-09-10T04:07:37.185Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "68f2217a-40a2-44a0-9e4a-7fc16221cfcd",
+      "content": "Tên gọi này xuất hiện vào thiên niên kỷ II tCN theo nhiều tài liệu chữ viết hình chữ đinh. Ed 14,14 nhắc đến như những anh hùng : Gióp, Nô-ê và Đa-ni-ên.",
+      "position": 37,
+      "order": 3,
+      "createdAt": "2024-09-10T04:07:37.187Z",
+      "updatedAt": "2024-09-10T04:07:37.187Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "2e9cf793-5d4b-44d9-b93c-d57b789c6aba",
+      "content": "Gia đình đông con được coi là phần thưởng trọng hậu dành cho người công chính (Tv 127,3-5 ; 128,3). Quan niệm phương Đông trọng nam, nên viết bảy con trai. Tuy nhiên các con số chỉ là biểu tượng : số 7, số 3 là những con số tốt, đẹp.",
+      "position": 52,
+      "order": 4,
+      "createdAt": "2024-09-10T04:07:37.193Z",
+      "updatedAt": "2024-09-10T04:07:37.193Z",
+      "verseId": "c3c6778c-78eb-4944-9a98-6d48c875803d",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "102e7537-3c9c-4216-bbd2-80a8631bcd1a",
+      "content": "Ông Gióp phải là một vị đại thủ lãnh dân du mục, nên mới có tài sản kếch xù như thế (x. St 26,14).",
+      "position": 121,
+      "order": 5,
+      "createdAt": "2024-09-10T04:07:37.202Z",
+      "updatedAt": "2024-09-10T04:07:37.202Z",
+      "verseId": "ce28b526-d274-4d83-9a33-63b7b205fe5c",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "a5a36084-1739-4066-986e-808b4e430fe8",
+      "content": "Từ này ám chỉ tất cả dân du mục sinh sống ở phía đông sông Gio-đan và Biển Chết. Cư dân ở sa mạc đối chọi với nông dân.",
+      "position": 181,
+      "order": 6,
+      "createdAt": "2024-09-10T04:07:37.207Z",
+      "updatedAt": "2024-09-10T04:07:37.207Z",
+      "verseId": "ce28b526-d274-4d83-9a33-63b7b205fe5c",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "1fdfb9da-6f5f-4107-ab49-5ea22f414b98",
+      "content": "Thanh tẩy là nghi thức tẩy trừ những gì ô uế không xứng với đời sống tế tự. Thời các tổ phụ, gia trưởng có nhiệm vụ tư tế, vì lúc đó chưa có giới tư tế. Điều này chứng tỏ sách Gióp kể một câu chuyện có từ lâu đời.",
+      "position": 110,
+      "order": 7,
+      "createdAt": "2024-09-10T04:07:37.223Z",
+      "updatedAt": "2024-09-10T04:07:37.223Z",
+      "verseId": "2a70b5ef-7398-4da6-b76e-529d60d188b7",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "cf4f3d8f-21f3-4791-b288-562f5718f72a",
+      "content": "1,6-12 : đoạn này mô tả khung cảnh thiên đình theo quan niệm độc thần ở vùng Cận Đông. Đức Chúa được mô tả theo kiểu như nhân ngự trên ngai, nghe các thuộc hạ trình tấu hoặc ra chỉ thị cho họ. “Con cái Thiên Chúa” là các linh thần ở bậc trên con người. Người ta đồng hoá “con cái Thiên Chúa” với các thiên thần. Ở đây, Xa-tan phi bác nét đạo đức của ông Gióp và cho rằng nếu ông Gióp chưa bị thử thách, chưa hẳn ông đạo đức thật. Đức Chúa cho phép Xa-tan thử thách ông Gióp, trừ con người của ông.",
+      "position": 3,
+      "order": 8,
+      "createdAt": "2024-09-10T04:07:37.237Z",
+      "updatedAt": "2024-09-10T04:07:37.237Z",
+      "verseId": "072ccaac-33f7-49e9-9ee9-66f58bfd1264",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "33f5b905-2b16-4bd5-96b8-ef2453771554",
+      "content": "Lời mở đầu và đoạn kết dùng danh hiệu Đức Chúa ; phần thi ca dùng danh xưng Đấng Toàn Năng hoặc Thiên Chúa.",
+      "position": 64,
+      "order": 9,
+      "createdAt": "2024-09-10T04:07:37.242Z",
+      "updatedAt": "2024-09-10T04:07:37.242Z",
+      "verseId": "072ccaac-33f7-49e9-9ee9-66f58bfd1264",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "505dccd3-e429-4ec3-95e5-10415a87c636",
+      "content": "Từ này chưa phải là tên riêng, như trong 1 Sb 21,1. Theo ngữ nghĩa, đó là kẻ Tố cáo, Đối phương, chưa phải là kẻ thù của Thiên Chúa, “Thủ lãnh thế gian” (Ga 12,31), là một trong các vị thần thiêng, mà LXX đồng hoá với các thiên thần. Ở đây vai trò của Xa-tan là thanh tra, thám tử. Xa-tan chưa phải là Ác thần theo thần học Do-thái giáo sau này và Ki-tô giáo. Cuộc nói chuyện giữa Đức Chúa và ông Gióp xem ra rất thân tình. Đức Chúa tín nhiệm ông là tôi tớ của Người. Xa-tan đặt vấn đề vô vị lợi của ông Gióp khi ông kính sợ Người và Xa-tan tung ra một đòn nghi ngờ ông.",
+      "position": 73,
+      "order": 10,
+      "createdAt": "2024-09-10T04:07:37.247Z",
+      "updatedAt": "2024-09-10T04:07:37.247Z",
+      "verseId": "072ccaac-33f7-49e9-9ee9-66f58bfd1264",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "9632383d-f37d-4616-ae9b-9a94a6034c34",
+      "content": "Nhiều nhân vật trong Cựu Ước được gọi là “Tôi tớ của Đức Chúa” như ông Mô-sê (Xh 14,31 ; Ds 12,7 ; Đnl 34,5), ông Ca-lép (Ds 14,24), vua Đa-vít (2 Sm 7,5.8), ngôn sứ I-sai-a (Is 20,3), ông Dơ-rúp-ba-ven (Kg 2,23), ngay cả vua Na-bu-cô-đô-nô-xo (Gr 25,9). Các ngôn sứ được gán cho địa vị này (x. 2 V 9,7 ; 17,13.23 ; 21,10 ; 24,2 ; Gr 25,4 ; 26,5 ; 29,19 ; 35,15 ; 44,4 ; Am 3,7 ; Dcr 1,6 ; Đn 9,6 ; Er 9,11).",
+      "position": 65,
+      "order": 11,
+      "createdAt": "2024-09-10T04:07:37.266Z",
+      "updatedAt": "2024-09-10T04:07:37.266Z",
+      "verseId": "1d74cd0a-5d40-4e57-88ae-222a9aef60fc",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "c0d95b4e-e8ef-4e04-9f7c-7a2cd818f9db",
+      "content": "1,13-22 mô tả ông Gióp chịu thử thách lần đầu. Chỉ vỏn vẹn trong một ngày, ông phải nhận bốn tin dữ : trước hết bò lừa bị cướp sạch ; tiếp đến chiên dê bị thiêu rụi ; thứ ba lạc đà bị giết chết. Sau cùng là con cái đều chết cả. Mức độ đau khổ tăng dần. Tài sản, đàn vật mất đã đành, con cái chẳng còn một mống : thật “hoạ vô đơn chí”. Đức tin kiên cường của ông Gióp thể hiện trong các câu 1,20-22.",
+      "position": 16,
+      "order": 12,
+      "createdAt": "2024-09-10T04:07:37.300Z",
+      "updatedAt": "2024-09-10T04:07:37.300Z",
+      "verseId": "1d6a5e2e-1be2-463c-8833-5e7a1e57c1a8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "eda5517d-f1d0-4229-9395-ca926ef05dab",
+      "content": "Ám chỉ các dân du mục ở miền Mê-đin.",
+      "position": 9,
+      "order": 13,
+      "createdAt": "2024-09-10T04:07:37.315Z",
+      "updatedAt": "2024-09-10T04:07:37.315Z",
+      "verseId": "a56e88de-8e0d-44e9-a14b-7d797c0f43cb",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "775d1da9-be34-4c7f-9157-6672350e3d60",
+      "content": "Dùng bốn lần trong cc. 15.16.17.19 để cho thấy tai hoạ rất khốc liệt.",
+      "position": 101,
+      "order": 14,
+      "createdAt": "2024-09-10T04:07:37.320Z",
+      "updatedAt": "2024-09-10T04:07:37.320Z",
+      "verseId": "a56e88de-8e0d-44e9-a14b-7d797c0f43cb",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "4762287a-ff6b-40d5-8845-1d82445db0e2",
+      "content": "Cc. 16-18 mô tả tai hoạ dồn dập xảy đến và nhanh như sét đánh. Ông Gióp còn đang thất kinh táng đởm, chưa kịp hoàn hồn, đã phải nhận một tin dữ khác.",
+      "position": 21,
+      "order": 15,
+      "createdAt": "2024-09-10T04:07:37.334Z",
+      "updatedAt": "2024-09-10T04:07:37.334Z",
+      "verseId": "dac7c8c2-b59e-4301-928d-edec81d34f5b",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "d3cb3612-b6fc-46eb-b8de-37a17c5b68df",
+      "content": "Tức là sét (x. St 19,24 ; Ds 11,1 ; 1 V 18,38 ; 2 V 1,10.12.14).",
+      "position": 70,
+      "order": 16,
+      "createdAt": "2024-09-10T04:07:37.339Z",
+      "updatedAt": "2024-09-10T04:07:37.339Z",
+      "verseId": "dac7c8c2-b59e-4301-928d-edec81d34f5b",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "78ca23b9-9717-49f6-85fd-cab9ad11282e",
+      "content": "Bọn cướp sắc tộc A-ram nổi lên quấy phá ở vùng đông hay bắc Pa-lét-tin.",
+      "position": 65,
+      "order": 17,
+      "createdAt": "2024-09-10T04:07:37.353Z",
+      "updatedAt": "2024-09-10T04:07:37.353Z",
+      "verseId": "a1b6b4bb-55b5-4e0a-8c43-36a760adc46d",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "2d2509e9-8335-4b30-8763-b04dff5cc0b7",
+      "content": "Tác giả khéo xen kẽ tác nhân gây hoạ cho ông Gióp : lần một và ba do cướp bóc, lần hai và bốn do thiên tai. Như thế ông Gióp vừa chịu con người vừa chịu thiên nhiên hành hạ mình.",
+      "position": 24,
+      "order": 18,
+      "createdAt": "2024-09-10T04:07:37.373Z",
+      "updatedAt": "2024-09-10T04:07:37.373Z",
+      "verseId": "e3aedb99-8773-45ce-8c51-4f596f2c1b34",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "54e6b297-0517-4c01-89f0-11ba431698cf",
+      "content": "Ông Gióp làm theo nghi thức cổ điển của Ít-ra-en để nói lên nỗi đau khổ hay tang chế (x. St 37,34 ; Gr 7,29 ; Is 22,12 ; Ed 27,31).",
+      "position": 49,
+      "order": 19,
+      "createdAt": "2024-09-10T04:07:37.383Z",
+      "updatedAt": "2024-09-10T04:07:37.383Z",
+      "verseId": "086ba7b1-b910-4a80-ae92-866e0ff3f31a",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "7fcdd0c9-a7d6-462c-8a14-be6288c792c6",
+      "content": "Khi sinh ra, con người chẳng có gì ; khi chết, con người cũng không đem được gì. Tác giả dùng từ lòng mẹ (nhân ảnh) cho đất rất hay. Quan niệm này mượn từ thời Tân thạch khí : khi chôn cất kẻ chết, người ta để xác chết trong tư thế ngồi, đầu gối chạm cằm như khi còn là bào thai, như chờ một cuộc sinh mới (x. St 3,19 ; Tv 139,13.15). Đất và Mẹ được đồng hoá (x. Hc 40,1). Con người sống trong lòng mẹ ruột hay mẹ đất đều là trần trụi, không tự vệ, không tài sản.",
+      "position": 33,
+      "order": 20,
+      "createdAt": "2024-09-10T04:07:37.398Z",
+      "updatedAt": "2024-09-10T04:07:37.398Z",
+      "verseId": "d955dbb5-9f64-43ef-8193-e19d4d8561c2",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "30c855bf-26f2-480a-8a8e-95dd30facb28",
+      "content": "Ông Gióp trả lời cho Xa-tan : ông không nguyền rủa Đức Chúa, trái lại ông còn ca tụng Người. Thật kỳ diệu : ông thờ phượng Đức Chúa mà không mảy may cầu lợi.",
+      "position": 27,
+      "order": 21,
+      "createdAt": "2024-09-10T04:07:37.429Z",
+      "updatedAt": "2024-09-10T04:07:37.429Z",
+      "verseId": "dc0501a2-ad46-4e4c-8e3f-fe877828a906",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    }
+  ],
+  "headings": [
+    {
+      "id": "3d9cc3a4-319c-4ed2-826a-d34299e22602",
+      "content": "SÁCH GIÓP",
+      "order": 0,
+      "createdAt": "2024-09-10T04:07:37.175Z",
+      "updatedAt": "2024-09-10T04:07:37.175Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "f017f3bd-a6f7-4874-8ec0-67356c63cfb6",
+      "content": "I. LỜI MỞ ĐẦU",
+      "order": 1,
+      "createdAt": "2024-09-10T04:07:37.177Z",
+      "updatedAt": "2024-09-10T04:07:37.177Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "24fd267f-351e-4118-a20f-dda9cce8a4ca",
+      "content": "Xa-tan thử thách ông Gióp",
+      "order": 2,
+      "createdAt": "2024-09-10T04:07:37.181Z",
+      "updatedAt": "2024-09-10T04:07:37.181Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    }
+  ],
+  "references": [
+    {
+      "id": "1497a91e-b58f-4c4c-bddc-a8542e656845",
+      "content": "Ed 14,14; Gc 5,11",
+      "position": 33,
+      "order": 0,
+      "createdAt": "2024-09-10T04:07:37.189Z",
+      "updatedAt": "2024-09-10T04:07:37.189Z",
+      "verseId": "4eb4ad8a-4c47-4748-9b1d-755f3ef4d8b8",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "029df5d6-7366-4464-a00a-5049859ed1fe",
+      "content": "Xh 19,10; 1 Sm 16,5",
+      "position": 55,
+      "order": 1,
+      "createdAt": "2024-09-10T04:07:37.227Z",
+      "updatedAt": "2024-09-10T04:07:37.227Z",
+      "verseId": "2a70b5ef-7398-4da6-b76e-529d60d188b7",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "6ca9b42c-5552-4df2-9b0b-4ed31eb6da87",
+      "content": "1 V 22,19-23; Dcr 3,1-2",
+      "position": 22,
+      "order": 2,
+      "createdAt": "2024-09-10T04:07:37.252Z",
+      "updatedAt": "2024-09-10T04:07:37.252Z",
+      "verseId": "072ccaac-33f7-49e9-9ee9-66f58bfd1264",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "d7ab67ee-5fcf-46d2-b9a1-1092d1008716",
+      "content": "G 1,1",
+      "position": 46,
+      "order": 3,
+      "createdAt": "2024-09-10T04:07:37.271Z",
+      "updatedAt": "2024-09-10T04:07:37.271Z",
+      "verseId": "1d74cd0a-5d40-4e57-88ae-222a9aef60fc",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "68118c99-da93-4e30-bb4b-6a1272e98012",
+      "content": "1 V 10,1",
+      "position": 4,
+      "order": 4,
+      "createdAt": "2024-09-10T04:07:37.324Z",
+      "updatedAt": "2024-09-10T04:07:37.324Z",
+      "verseId": "a56e88de-8e0d-44e9-a14b-7d797c0f43cb",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "e0402abe-149c-40e2-94a5-a59f973f8d09",
+      "content": "2 V 1,10; Tv 104,4",
+      "position": 52,
+      "order": 5,
+      "createdAt": "2024-09-10T04:07:37.344Z",
+      "updatedAt": "2024-09-10T04:07:37.344Z",
+      "verseId": "dac7c8c2-b59e-4301-928d-edec81d34f5b",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "4c2dad00-663a-4e5b-a84e-20b0cbc06afa",
+      "content": "Tl 7,16",
+      "position": 66,
+      "order": 6,
+      "createdAt": "2024-09-10T04:07:37.358Z",
+      "updatedAt": "2024-09-10T04:07:37.358Z",
+      "verseId": "a1b6b4bb-55b5-4e0a-8c43-36a760adc46d",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "e2486f0e-692d-453d-a370-95aa13da8275",
+      "content": "Hc 17,1; Gv 5,14",
+      "position": 1,
+      "order": 7,
+      "createdAt": "2024-09-10T04:07:37.403Z",
+      "updatedAt": "2024-09-10T04:07:37.403Z",
+      "verseId": "d955dbb5-9f64-43ef-8193-e19d4d8561c2",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    },
+    {
+      "id": "fc58487a-90cd-402d-9a5a-abfc457a1058",
+      "content": "Tv 49,18",
+      "position": 7,
+      "order": 8,
+      "createdAt": "2024-09-10T04:07:37.413Z",
+      "updatedAt": "2024-09-10T04:07:37.413Z",
+      "verseId": "4cce40e9-f528-40c7-a563-254611bb62a2",
+      "chapterId": "0fee4685-4895-49c9-b617-7796212cc13e"
+    }
+  ]
+}

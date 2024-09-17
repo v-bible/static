@@ -1,0 +1,226 @@
+{
+  "chapter": {
+    "id": "5512de93-ce8e-4219-9d31-4018a566db57",
+    "number": 13,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.892Z",
+    "updatedAt": "2024-09-10T00:39:05.892Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "7fd972d4-018b-47a1-bc02-acbf9006b0b7",
+      "number": 1,
+      "content": "Phần ca trưởng. Thánh vịnh. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:21:19.707Z",
+      "updatedAt": "2024-09-10T04:21:19.707Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "40cc72de-e0ab-46bc-98a4-7a0c8a3f2abc",
+      "number": 2,
+      "content": "Lạy CHÚA, Ngài quên con mãi tới bao giờ ?",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.721Z",
+      "updatedAt": "2024-09-10T04:21:19.721Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "cd2eb599-ba3e-4f6a-90e9-5a7a4f5fa960",
+      "number": 2,
+      "content": "Tới bao giờ còn ngoảnh mặt làm ngơ ?",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.723Z",
+      "updatedAt": "2024-09-10T04:21:19.723Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "c0584a4d-761a-478e-9f3d-f34a4580f603",
+      "number": 3,
+      "content": "Tới bao giờ hồn con vẫn còn lo lắng",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.727Z",
+      "updatedAt": "2024-09-10T04:21:19.727Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "e35e28a9-f92e-4351-bad4-325afaeda082",
+      "number": 3,
+      "content": "và lòng con ủ rũ đêm ngày ?",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.730Z",
+      "updatedAt": "2024-09-10T04:21:19.730Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "4ae6dd56-4b8b-4071-a8ba-e4b65b92c9ba",
+      "number": 3,
+      "content": "Tới bao giờ kẻ thù con thắng mãi ?",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.733Z",
+      "updatedAt": "2024-09-10T04:21:19.733Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "0af7425d-4404-4490-93df-3fdc0b3f432a",
+      "number": 4,
+      "content": "Lạy CHÚA là Thiên Chúa của con,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.735Z",
+      "updatedAt": "2024-09-10T04:21:19.735Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "6424087c-e205-4f8a-ba36-a55e673241a9",
+      "number": 4,
+      "content": "xin đoái nhìn và thương đáp lại,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.737Z",
+      "updatedAt": "2024-09-10T04:21:19.737Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "8925c11e-d216-4ad6-a9a4-15948237e6b8",
+      "number": 4,
+      "content": "toả ánh sáng cho đôi mắt rạng ngời,",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.739Z",
+      "updatedAt": "2024-09-10T04:21:19.739Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "adf37440-2d24-4930-b144-a751b9a33fad",
+      "number": 4,
+      "content": "để con khỏi ngủ giấc ngàn thu ;",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.741Z",
+      "updatedAt": "2024-09-10T04:21:19.741Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "60fb8e6f-6931-45b7-b11e-6c0cc447616f",
+      "number": 5,
+      "content": "để kẻ thù con không thể nói : “Ta đã thắng nó rồi”,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.744Z",
+      "updatedAt": "2024-09-10T04:21:19.744Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "a069d087-122f-409e-87f7-c2868d86d6de",
+      "number": 5,
+      "content": "và đối thủ không được mừng vui vì thấy con gục ngã.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.746Z",
+      "updatedAt": "2024-09-10T04:21:19.746Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "bb7cb4c5-ecf5-4a63-bbf3-62da17c1d26c",
+      "number": 6,
+      "content": "Phần con đây, con tin cậy vào tình thương CHÚA,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.748Z",
+      "updatedAt": "2024-09-10T04:21:19.748Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "79a07c38-db52-43a7-a249-6edff4f26278",
+      "number": 6,
+      "content": "được Ngài cứu độ, lòng con sẽ vui mừng.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.750Z",
+      "updatedAt": "2024-09-10T04:21:19.750Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "bb87f852-836a-40ee-835f-b3f6cb674f9e",
+      "number": 6,
+      "content": "Con sẽ hát bài ca dâng CHÚA, vì phúc lộc Ngài ban.",
+      "order": 2,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:21:19.752Z",
+      "updatedAt": "2024-09-10T04:21:19.752Z",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "119026b2-5e2d-4766-88d8-fae5227b9b32",
+      "content": "Trong <i>ai ca này của cá nhân</i>, tác giả Tv kêu than (cc. 2-3) và cầu nguyện với Thiên Chúa (cc. 4-5), rồi diễn tả niềm tin cậy và nỗi vui mừng trước tình thương và ơn cứu độ của Người (c.6).",
+      "position": 59,
+      "order": 0,
+      "createdAt": "2024-09-10T04:21:19.719Z",
+      "updatedAt": "2024-09-10T04:21:19.719Z",
+      "headingId": "88b4c29b-b51d-4aab-82e3-541760a24606",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    },
+    {
+      "id": "2f05e7d2-76be-4382-9e14-ee8be4d04398",
+      "content": "<i>Ngoảnh mặt</i> : che giấu Thánh Nhan. Và Thiên Chúa che giấu Thánh Nhan là bỏ rơi dân Người, bỏ rơi các tín hữu và công cuộc tạo thành (Đnl 31,17 ; 32,20 ; Tv 10,11 ; 27,9 ; 30,8 ; 44,25 ; 104,29), là không phù trợ chở che nữa ...",
+      "position": 34,
+      "order": 1,
+      "createdAt": "2024-09-10T04:21:19.725Z",
+      "updatedAt": "2024-09-10T04:21:19.725Z",
+      "verseId": "cd2eb599-ba3e-4f6a-90e9-5a7a4f5fa960",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    }
+  ],
+  "headings": [
+    {
+      "id": "88b4c29b-b51d-4aab-82e3-541760a24606",
+      "content": "Tv 13 (12) Lời kêu than của người lành tin cậy vào ĐỨC CHÚA",
+      "order": 0,
+      "createdAt": "2024-09-10T04:21:19.716Z",
+      "updatedAt": "2024-09-10T04:21:19.716Z",
+      "verseId": "7fd972d4-018b-47a1-bc02-acbf9006b0b7",
+      "chapterId": "5512de93-ce8e-4219-9d31-4018a566db57"
+    }
+  ],
+  "references": []
+}

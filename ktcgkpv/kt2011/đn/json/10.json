@@ -1,0 +1,801 @@
+{
+  "chapter": {
+    "id": "1847661d-18da-4ced-b83a-3aeb9acf5bbb",
+    "number": 10,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.923Z",
+    "updatedAt": "2024-09-10T00:39:05.923Z",
+    "bookId": "b8c7dce3-496a-4621-91f5-60319fa7ba46"
+  },
+  "verses": [
+    {
+      "id": "d812989e-68c2-429b-b769-edfa7843e347",
+      "number": 1,
+      "content": "Năm thứ ba đời vua Ky-rô nước Ba-tư, có lời mặc khải cho ông Đa-ni-en cũng gọi là Bên-tơ-sát-xa : đó là lời chân thật loan báo một cuộc chiến lớn. Ông đã hiểu lời ấy ; ông đã được ơn am hiểu như vậy là nhờ thị kiến.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.093Z",
+      "updatedAt": "2024-09-10T05:58:16.093Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "6292272f-aa7f-42e4-8586-72e17528d474",
+      "number": 2,
+      "content": "Trong những ngày ấy, tôi là Đa-ni-en, đã ăn chay đền tội suốt ba tuần như thể chịu tang :",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.125Z",
+      "updatedAt": "2024-09-10T05:58:16.125Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "f35b65b5-e027-47e6-8204-54ec546448e5",
+      "number": 3,
+      "content": "tôi không ăn đồ cao lương mỹ vị ; thịt và rượu, tôi không hề nếm chút nào ; tôi cũng chẳng xức dầu thơm trong suốt ba tuần đó.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.139Z",
+      "updatedAt": "2024-09-10T05:58:16.139Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "e271af29-20c4-425d-9715-f7c9db606cdd",
+      "number": 4,
+      "content": "Ngày hai mươi bốn tháng giêng, đang ở ven sông Cả, tức là sông Tích-ra,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.143Z",
+      "updatedAt": "2024-09-10T05:58:16.143Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0c642baa-3e71-47db-83fe-3fef47f8f44b",
+      "number": 5,
+      "content": "tôi ngước mắt nhìn lên, thì này :",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.153Z",
+      "updatedAt": "2024-09-10T05:58:16.153Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "b9d85a9b-74c1-4074-a4c0-2ee9e9617833",
+      "number": 5,
+      "content": "Một người mặc áo vải gai,",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.162Z",
+      "updatedAt": "2024-09-10T05:58:16.162Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "1e2318a2-3c27-4fab-a8c0-0312c9eb2c69",
+      "number": 5,
+      "content": "lưng thắt đai vàng U-phát,",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.172Z",
+      "updatedAt": "2024-09-10T05:58:16.172Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "63034b49-a7bf-4188-b8ad-358b7e8ac14f",
+      "number": 6,
+      "content": "thân mình giống kim lục thạch,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.187Z",
+      "updatedAt": "2024-09-10T05:58:16.187Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "490a21ac-f454-44b6-b1f0-abb2107cbcfa",
+      "number": 6,
+      "content": "dung mạo ví như ánh chớp,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.191Z",
+      "updatedAt": "2024-09-10T05:58:16.191Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "17815edd-c1d6-440f-9583-48bd487d49fb",
+      "number": 6,
+      "content": "đôi mắt tựa ngọn đuốc hồng,",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.196Z",
+      "updatedAt": "2024-09-10T05:58:16.196Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "9a5f77a0-9eec-4cc1-9f95-6093f0f6dc4a",
+      "number": 6,
+      "content": "cánh tay và đôi chân",
+      "order": 3,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.202Z",
+      "updatedAt": "2024-09-10T05:58:16.202Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0914b0cc-ffe8-4ac4-8b7d-c7d4305fd9ee",
+      "number": 6,
+      "content": "trông như đồng đánh bóng,",
+      "order": 4,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.212Z",
+      "updatedAt": "2024-09-10T05:58:16.212Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "61b76626-a556-49ca-9c3b-7c4d5822828d",
+      "number": 6,
+      "content": "tiếng người vang dội",
+      "order": 5,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.218Z",
+      "updatedAt": "2024-09-10T05:58:16.218Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "9516bff1-3d6a-495d-961d-e257c84dde8a",
+      "number": 6,
+      "content": "như tiếng đám đông.",
+      "order": 6,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T05:58:16.228Z",
+      "updatedAt": "2024-09-10T05:58:16.228Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "d5116116-eada-4a77-ac4d-ad5d0310a56e",
+      "number": 7,
+      "content": "Tôi là Đa-ni-en, người duy nhất đã thấy thị kiến, còn những người ở bên tôi thì không. Dầu vậy, họ vẫn khiếp đảm kinh hồn chạy trốn tìm chỗ ẩn.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.239Z",
+      "updatedAt": "2024-09-10T05:58:16.239Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "e2a964fc-1827-4256-aa64-6334868b99d0",
+      "number": 8,
+      "content": "Chỉ còn lại có một mình tôi, và tôi đã thấy thị kiến lớn ấy. Tôi không còn sức nữa. Thể lực tôi giảm sút thảm hại. Tôi đã kiệt sức rồi.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.248Z",
+      "updatedAt": "2024-09-10T05:58:16.248Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "8d12732a-00a9-4365-8cef-8b99a9794f7f",
+      "number": 9,
+      "content": "Tôi nghe tiếng người vang dội. Vừa nghe thấy, tôi liền ngất xỉu, chúi mặt xuống đất.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.263Z",
+      "updatedAt": "2024-09-10T05:58:16.263Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "949db546-822a-44ec-af5e-cf349642ebc6",
+      "number": 10,
+      "content": "Này đây một bàn tay đụng đến tôi, nâng tôi dậy đang khi đầu gối và tay tôi run rẩy.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.278Z",
+      "updatedAt": "2024-09-10T05:58:16.278Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "ec0822d4-b1c7-486b-8041-05732f7bb65e",
+      "number": 11,
+      "content": "Người nói với tôi : “Hỡi Đa-ni-en là người được quý mến, hãy hiểu rõ các lời ta sắp nói với ngươi. Hãy đứng yên tại chỗ ngươi đang đứng, vì giờ đây ta được sai đến với ngươi.” Trong lúc người nói với tôi điều ấy, thì tôi đứng run cầm cập.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.289Z",
+      "updatedAt": "2024-09-10T05:58:16.289Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0bdcada4-a4e7-4664-baad-6ba4218b68c0",
+      "number": 12,
+      "content": "Người còn bảo tôi : “Đa-ni-en, đừng sợ, bởi vì ngay từ hôm đầu, khi ngươi đem hết lòng tìm hiểu và ăn chay hãm mình trước nhan Thiên Chúa của ngươi, thì Thiên Chúa đã nghe những lời ngươi nói, và chính vì những lời ấy mà ta đến.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.303Z",
+      "updatedAt": "2024-09-10T05:58:16.303Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "a824b002-978d-441e-9ced-f9abf35be878",
+      "number": 13,
+      "content": "Thiên sứ lãnh đạo vương quốc Ba-tư đứng chống lại ta hai mươi mốt ngày. Và này Mi-ca-en, một trong các thiên sứ lãnh đạo cao cấp, đã đến trợ lực ta. Ta để người ở đó, bên cạnh các vua Ba-tư,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.309Z",
+      "updatedAt": "2024-09-10T05:58:16.309Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "1bc899e1-c8f7-4224-8371-fdf9dd55d4b5",
+      "number": 14,
+      "content": "và ta đến cho ngươi hiểu rõ sự việc sẽ xảy ra nơi dân ngươi vào thời sau hết, bởi vì đây còn là một thị kiến về thời đó.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.330Z",
+      "updatedAt": "2024-09-10T05:58:16.330Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "94ae05ea-e01b-481f-8999-568909e3890a",
+      "number": 15,
+      "content": "Nghe những lời người nói đó, tôi cúi mặt xuống đất, không nói nên lời.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.344Z",
+      "updatedAt": "2024-09-10T05:58:16.344Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "2829eefa-1f24-4015-98aa-3b3257651703",
+      "number": 16,
+      "content": "Và này có cái gì đó giống như một người trong con cái loài người chạm vào môi tôi. Tôi liền mở miệng và nói được. Tôi thưa với vị đứng trước mặt tôi : “Thưa ngài, thị kiến đã làm cho tôi phải quằn quại đớn đau khiến tôi kiệt sức.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.349Z",
+      "updatedAt": "2024-09-10T05:58:16.349Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0e0a9abe-d674-41fe-abf0-3760fecbd8be",
+      "number": 17,
+      "content": "Tôi tớ của ngài đây sẽ ăn nói làm sao với ngài, khi mà từ nay tôi chẳng còn hơi còn sức nào nữa ?”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.372Z",
+      "updatedAt": "2024-09-10T05:58:16.372Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "178d8141-4599-473c-9b3e-ba5e7cc90ea5",
+      "number": 18,
+      "content": "Bấy giờ đấng giống như con người lại đụng đến tôi một lần nữa và làm cho tôi nên can đảm.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.377Z",
+      "updatedAt": "2024-09-10T05:58:16.377Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "5f30d4ce-3e16-4936-888c-a1abf7f809cf",
+      "number": 19,
+      "content": "Người nói : “Hỡi người được quý mến, đừng sợ. Cứ an tâm. Can đảm lên ! Can đảm nữa lên !” Trong khi người nói với tôi như thế, tôi lấy lại được can đảm và đáp lại rằng : “Xin ngài cứ nói, vì ngài đã làm cho tôi nên can đảm.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.393Z",
+      "updatedAt": "2024-09-10T05:58:16.393Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "8f6408da-a9fe-4ea2-a718-f86206ef88e3",
+      "number": 20,
+      "content": "Bấy giờ người nói : “Ngươi có biết tại sao ta đến cùng ngươi không ? Bây giờ ta phải quay lại nghênh chiến với thiên sứ lãnh đạo Ba-tư. Ta vừa đi ra thì thiên sứ lãnh đạo Gia-van đến.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.408Z",
+      "updatedAt": "2024-09-10T05:58:16.408Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "77220194-675d-4de9-b050-f9572dda6dfa",
+      "number": 21,
+      "content": "Nhưng ta sắp báo cho ngươi biết điều đã ghi chép trong sách sự thật. Không một ai hiệp lực với ta chống lại các vị đó, ngoại trừ thiên sứ Mi-ca-en, tướng lãnh của các ngươi.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T05:58:16.432Z",
+      "updatedAt": "2024-09-10T05:58:16.432Z",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "7be715a5-df00-4d15-a04d-31b05eadac9a",
+      "content": "Bản văn của đoạn Đn 10,1 – 12,13 viết bằng tiếng Do-thái. Bố cục của đoạn này : 1) nhập đề (10,1-11) : a. thị kiến về người mặc áo vải gai (10,2-8), b. thiên sứ hiện ra (10,9-19), c. lời báo trước (10,20 – 11,1) ; 2) lịch sử vương quốc Ba-tư cho đến A-lê-xan-đê Đại Đế (11,2-4) ; 3) thời sau triều đại A-lê-xan-đê Đại Đế (11,5 – 12,4) : a. cuộc chiến giữa nhà Xê-lêu-cô (Xy-ri) và nhà La-gô (Ai-cập) (11,5-20), b. vua An-ti-ô-khô IV Ê-pi-pha-nê (11,21-45), c. cao điểm trong cơn khủng hoảng và thời giải thoát (12,1-4) ; 4) lời sấm được niêm phong (12,5-13).",
+      "position": 15,
+      "order": 0,
+      "createdAt": "2024-09-10T05:58:16.104Z",
+      "updatedAt": "2024-09-10T05:58:16.104Z",
+      "headingId": "bdbcf2f3-bc98-4b49-a4b1-a10dd72e06af",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "f370346d-05fe-40a8-b70e-ac08b867ad53",
+      "content": "Ông Đa-ni-en <i>ăn chay đền tội suốt ba tuần</i> nhằm chuẩn bị đón nhận lời mặc khải của Thiên Chúa.",
+      "position": 87,
+      "order": 1,
+      "createdAt": "2024-09-10T05:58:16.130Z",
+      "updatedAt": "2024-09-10T05:58:16.130Z",
+      "verseId": "6292272f-aa7f-42e4-8586-72e17528d474",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "22473715-b0ae-4ecb-8980-51bf8e98f0ca",
+      "content": "Áo vải gai, y phục tư tế, đôi khi cũng chỉ y phục của những vị thực hiện ý của Thiên Chúa (x. Ed 9,2-3.11 ; 10,2.6-7). Lưng vị đó thắt đai vàng U-phát ; U-phát là một nơi không ai biết đến. Tác giả lấy trong Ed 1 những chi tiết của c.6 : <i>kim lục thạch</i> (Ed 1,16) ; <i>ánh chớp</i> (Ed 1,14) ; <i>ngọn đuốc hồng</i> (Ed 1,13) ; <i>đồng đánh bóng</i> (Ed 1,7) ; <i>tiếng đám đông</i> (Ed 1,24).",
+      "position": 18,
+      "order": 2,
+      "createdAt": "2024-09-10T05:58:16.234Z",
+      "updatedAt": "2024-09-10T05:58:16.234Z",
+      "verseId": "9516bff1-3d6a-495d-961d-e257c84dde8a",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "e932b148-1b73-4657-8621-0ff29da71c45",
+      "content": "Có lẽ đó là bàn tay của <i>người mặc áo vải gai</i> (c.5).",
+      "position": 19,
+      "order": 3,
+      "createdAt": "2024-09-10T05:58:16.283Z",
+      "updatedAt": "2024-09-10T05:58:16.283Z",
+      "verseId": "949db546-822a-44ec-af5e-cf349642ebc6",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "4da0f4c5-cee8-489e-ae1b-738ab6d57eed",
+      "content": "<i>Hai mươi mốt ngày</i> : 21 là con số tượng trưng (3 x 7) ; con số này đối chiếu với <i>ba tuần</i>, thời gian ông Đa-ni-en ăn chay hãm mình (c.2). <i>Người mặc áo vải gai</i> (c.5) chậm trễ trong việc báo tin giải thoát cho dân (cc. 11.12.14) vì <i>thiên sứ lãnh đạo vương quốc Ba-tư</i> (c.13) đã cố chặn đường trong hai mươi mốt ngày.",
+      "position": 70,
+      "order": 4,
+      "createdAt": "2024-09-10T05:58:16.314Z",
+      "updatedAt": "2024-09-10T05:58:16.314Z",
+      "verseId": "a824b002-978d-441e-9ced-f9abf35be878",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "ddd04bf5-6a14-473b-ab1f-c58fd222042e",
+      "content": "<i>Mi-ca-en</i> có nghĩa là <i>ai bằng Thiên Chúa ?</i> (x. Gđ 9 ; Kh 12,7). Đó là tên của thiên sứ bảo trợ dân Do-thái (10,21 ; 12,1).",
+      "position": 87,
+      "order": 5,
+      "createdAt": "2024-09-10T05:58:16.320Z",
+      "updatedAt": "2024-09-10T05:58:16.320Z",
+      "verseId": "a824b002-978d-441e-9ced-f9abf35be878",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "fed6117f-6781-49c7-a2d5-11c34e8449bb",
+      "content": "Chắc đấng được nói đến trong 10,10.16.18 chỉ là một, nghĩa là <i>người mặc áo vải gai</i> (c.5).",
+      "position": 64,
+      "order": 6,
+      "createdAt": "2024-09-10T05:58:16.354Z",
+      "updatedAt": "2024-09-10T05:58:16.354Z",
+      "verseId": "2829eefa-1f24-4015-98aa-3b3257651703",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0e795484-3e6c-481f-865f-1a6760c37b26",
+      "content": "Có vài học giả thay đổi thứ tự các câu theo hai kiểu sau đây (bỏ 11,1a) : a. 10,20.21b ; 11,1b ; 10,21a ; b. 10,20a.21a.20b.21b ; 11,1b. Họ bỏ 11,1a, vì đó là một chú thích bên lề, nằm ở ngoài mạch văn. Do đó, 11,1b được nối kết với 10,21b ; nên phải đổi <i>người</i> (<i>bảo vệ người</i>) trong 11,1b ra ngôi thứ nhất số ít (<i>lô</i> được đổi thành <i>lê</i>). Nhưng cũng có những học giả giữ y nguyên 11,1a và thứ tự các câu (theo LXX). Như thế, <i>người</i> ở c. 11,1a chỉ thiên sứ Mi-kha-ên.",
+      "position": 182,
+      "order": 7,
+      "createdAt": "2024-09-10T05:58:16.417Z",
+      "updatedAt": "2024-09-10T05:58:16.417Z",
+      "verseId": "8f6408da-a9fe-4ea2-a718-f86206ef88e3",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    }
+  ],
+  "headings": [
+    {
+      "id": "bdbcf2f3-bc98-4b49-a4b1-a10dd72e06af",
+      "content": "4. THỊ KIẾN LỚN",
+      "order": 0,
+      "createdAt": "2024-09-10T05:58:16.102Z",
+      "updatedAt": "2024-09-10T05:58:16.102Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "f7e91fe2-030e-4f66-a56a-d1070ff62606",
+      "content": "Thiên sứ hiện ra",
+      "order": 0,
+      "createdAt": "2024-09-10T05:58:16.268Z",
+      "updatedAt": "2024-09-10T05:58:16.268Z",
+      "verseId": "8d12732a-00a9-4365-8cef-8b99a9794f7f",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "d26d966a-9500-43dc-914a-99f4cccdd5ad",
+      "content": "Lời báo trước",
+      "order": 0,
+      "createdAt": "2024-09-10T05:58:16.413Z",
+      "updatedAt": "2024-09-10T05:58:16.413Z",
+      "verseId": "8f6408da-a9fe-4ea2-a718-f86206ef88e3",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "88279fd3-8c7f-4257-bf47-d1a66745911c",
+      "content": "A. THỜI THỊNH NỘ",
+      "order": 1,
+      "createdAt": "2024-09-10T05:58:16.107Z",
+      "updatedAt": "2024-09-10T05:58:16.107Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "bab2802a-a02d-4b5e-a2b2-b28deb544b7c",
+      "content": "Thị kiến về người mặc áo vải gai",
+      "order": 2,
+      "createdAt": "2024-09-10T05:58:16.109Z",
+      "updatedAt": "2024-09-10T05:58:16.109Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    }
+  ],
+  "references": [
+    {
+      "id": "cc543017-7b49-4ac9-a6bc-5492801c06e0",
+      "content": "Ed 10",
+      "position": 12,
+      "order": 0,
+      "createdAt": "2024-09-10T05:58:16.110Z",
+      "updatedAt": "2024-09-10T05:58:16.110Z",
+      "headingId": "bab2802a-a02d-4b5e-a2b2-b28deb544b7c",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "c86dfed2-66da-410e-b942-9a54bf57bd0b",
+      "content": "Đn 6,29; 14,1",
+      "position": 19,
+      "order": 1,
+      "createdAt": "2024-09-10T05:58:16.113Z",
+      "updatedAt": "2024-09-10T05:58:16.113Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "f32daba4-b199-4344-8a77-f22502684aa6",
+      "content": "Đn 1,7; 4,5",
+      "position": 82,
+      "order": 2,
+      "createdAt": "2024-09-10T05:58:16.116Z",
+      "updatedAt": "2024-09-10T05:58:16.116Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "077e44f1-abfb-46e9-b3fd-1de8f99d9c00",
+      "content": "Đn 4,6; 5,14; 9,22.23",
+      "position": 154,
+      "order": 3,
+      "createdAt": "2024-09-10T05:58:16.120Z",
+      "updatedAt": "2024-09-10T05:58:16.120Z",
+      "verseId": "d812989e-68c2-429b-b769-edfa7843e347",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "9060e13c-e159-48e5-8043-238c1be99f15",
+      "content": "Đn 9,3; Nkm 1,4",
+      "position": 78,
+      "order": 4,
+      "createdAt": "2024-09-10T05:58:16.134Z",
+      "updatedAt": "2024-09-10T05:58:16.134Z",
+      "verseId": "6292272f-aa7f-42e4-8586-72e17528d474",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "fbd45e5e-5c7c-414e-8f2b-ebcb91a9b0e5",
+      "content": "St 2,14; Hc 24,25",
+      "position": 63,
+      "order": 5,
+      "createdAt": "2024-09-10T05:58:16.148Z",
+      "updatedAt": "2024-09-10T05:58:16.148Z",
+      "verseId": "e271af29-20c4-425d-9715-f7c9db606cdd",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "480cf4f1-132f-4ba0-b615-c4cf31696806",
+      "content": "Đn 8,2",
+      "position": 14,
+      "order": 6,
+      "createdAt": "2024-09-10T05:58:16.158Z",
+      "updatedAt": "2024-09-10T05:58:16.158Z",
+      "verseId": "0c642baa-3e71-47db-83fe-3fef47f8f44b",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "c102d045-da80-4303-8408-f36f9e280347",
+      "content": "Đn 12,6; Ed 9,2",
+      "position": 17,
+      "order": 7,
+      "createdAt": "2024-09-10T05:58:16.167Z",
+      "updatedAt": "2024-09-10T05:58:16.167Z",
+      "verseId": "b9d85a9b-74c1-4074-a4c0-2ee9e9617833",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "3a6a72ff-f6d9-4958-91dd-ef338b80abcc",
+      "content": "Kh 1,13-15",
+      "position": 10,
+      "order": 8,
+      "createdAt": "2024-09-10T05:58:16.177Z",
+      "updatedAt": "2024-09-10T05:58:16.177Z",
+      "verseId": "1e2318a2-3c27-4fab-a8c0-0312c9eb2c69",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "45a6e822-730d-4aba-945e-0521c3e18b69",
+      "content": "Gr 10,9",
+      "position": 19,
+      "order": 9,
+      "createdAt": "2024-09-10T05:58:16.182Z",
+      "updatedAt": "2024-09-10T05:58:16.182Z",
+      "verseId": "1e2318a2-3c27-4fab-a8c0-0312c9eb2c69",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "00f1a7a5-4525-4e36-bbe2-e62e8d962a29",
+      "content": "R 3,4",
+      "position": 12,
+      "order": 10,
+      "createdAt": "2024-09-10T05:58:16.207Z",
+      "updatedAt": "2024-09-10T05:58:16.207Z",
+      "verseId": "9a5f77a0-9eec-4cc1-9f95-6093f0f6dc4a",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "4af1cc73-b327-4d43-a550-414baf379dc0",
+      "content": "Is 13,4; 33,3; Ed 1,24",
+      "position": 0,
+      "order": 11,
+      "createdAt": "2024-09-10T05:58:16.223Z",
+      "updatedAt": "2024-09-10T05:58:16.223Z",
+      "verseId": "61b76626-a556-49ca-9c3b-7c4d5822828d",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "77fca3e5-5ccc-47e7-a85f-96865661bc39",
+      "content": "Cv 9,7",
+      "position": 80,
+      "order": 12,
+      "createdAt": "2024-09-10T05:58:16.244Z",
+      "updatedAt": "2024-09-10T05:58:16.244Z",
+      "verseId": "d5116116-eada-4a77-ac4d-ad5d0310a56e",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "6978780c-f294-40d3-b5e6-f02f0bec3ea9",
+      "content": "1 Sm 29,20",
+      "position": 65,
+      "order": 13,
+      "createdAt": "2024-09-10T05:58:16.253Z",
+      "updatedAt": "2024-09-10T05:58:16.253Z",
+      "verseId": "e2a964fc-1827-4256-aa64-6334868b99d0",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "a2d78645-c4dc-47bd-aa79-a66b806816e7",
+      "content": "Đn 10,16; 11,6; 1 Sb 29,14; 2 Sb 2,5; 13,20; 22,9",
+      "position": 122,
+      "order": 14,
+      "createdAt": "2024-09-10T05:58:16.258Z",
+      "updatedAt": "2024-09-10T05:58:16.258Z",
+      "verseId": "e2a964fc-1827-4256-aa64-6334868b99d0",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "fa756b85-7cd5-42f2-972e-c1e1ec160fd3",
+      "content": "Đn 8,18",
+      "position": 55,
+      "order": 15,
+      "createdAt": "2024-09-10T05:58:16.273Z",
+      "updatedAt": "2024-09-10T05:58:16.273Z",
+      "verseId": "8d12732a-00a9-4365-8cef-8b99a9794f7f",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "8182e63e-1d9d-4e3a-8bf8-48712693b7ef",
+      "content": "Đn 9,23; 10,19",
+      "position": 48,
+      "order": 16,
+      "createdAt": "2024-09-10T05:58:16.294Z",
+      "updatedAt": "2024-09-10T05:58:16.294Z",
+      "verseId": "ec0822d4-b1c7-486b-8041-05732f7bb65e",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "20ba6f06-50b8-46bf-8f84-55544511c854",
+      "content": "Ed 2,1-2",
+      "position": 103,
+      "order": 17,
+      "createdAt": "2024-09-10T05:58:16.299Z",
+      "updatedAt": "2024-09-10T05:58:16.299Z",
+      "verseId": "ec0822d4-b1c7-486b-8041-05732f7bb65e",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "56995195-1c14-4dcf-8dd7-1e095d2472cb",
+      "content": "Đn 10,21; 12,y; Gđ 9; Kh 12,7",
+      "position": 79,
+      "order": 18,
+      "createdAt": "2024-09-10T05:58:16.325Z",
+      "updatedAt": "2024-09-10T05:58:16.325Z",
+      "verseId": "a824b002-978d-441e-9ced-f9abf35be878",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "599a9cde-9d84-4b2e-bee2-0a36cd31ebe9",
+      "content": "Đn 8,16; 9,22-23; St 49,1",
+      "position": 20,
+      "order": 19,
+      "createdAt": "2024-09-10T05:58:16.335Z",
+      "updatedAt": "2024-09-10T05:58:16.335Z",
+      "verseId": "1bc899e1-c8f7-4224-8371-fdf9dd55d4b5",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "8d99799d-5b2f-4df5-a5b7-c08c3520d3c5",
+      "content": "Đn 8,26",
+      "position": 100,
+      "order": 20,
+      "createdAt": "2024-09-10T05:58:16.340Z",
+      "updatedAt": "2024-09-10T05:58:16.340Z",
+      "verseId": "1bc899e1-c8f7-4224-8371-fdf9dd55d4b5",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "b3fe8cb4-3c9d-47c6-bbad-f759bca5fddc",
+      "content": "Đn 7,13",
+      "position": 20,
+      "order": 21,
+      "createdAt": "2024-09-10T05:58:16.358Z",
+      "updatedAt": "2024-09-10T05:58:16.358Z",
+      "verseId": "2829eefa-1f24-4015-98aa-3b3257651703",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "b69d0ff0-3387-46a5-bc78-b52d05781570",
+      "content": "Is 6,7; Gr 1,9",
+      "position": 65,
+      "order": 22,
+      "createdAt": "2024-09-10T05:58:16.363Z",
+      "updatedAt": "2024-09-10T05:58:16.363Z",
+      "verseId": "2829eefa-1f24-4015-98aa-3b3257651703",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "acae35ef-55f9-4079-8d9b-49368b4de5fb",
+      "content": "Đn 10,8",
+      "position": 220,
+      "order": 23,
+      "createdAt": "2024-09-10T05:58:16.367Z",
+      "updatedAt": "2024-09-10T05:58:16.367Z",
+      "verseId": "2829eefa-1f24-4015-98aa-3b3257651703",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "5435664b-f604-403c-bda5-a81f510a4248",
+      "content": "Đn 10,16",
+      "position": 13,
+      "order": 24,
+      "createdAt": "2024-09-10T05:58:16.382Z",
+      "updatedAt": "2024-09-10T05:58:16.382Z",
+      "verseId": "178d8141-4599-473c-9b3e-ba5e7cc90ea5",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "876748ef-831f-4707-bae9-554ce16d8990",
+      "content": "Đnl 3,28; Ed 30,24; 34,4; Hs 7,15; Tv 147,13",
+      "position": 77,
+      "order": 25,
+      "createdAt": "2024-09-10T05:58:16.387Z",
+      "updatedAt": "2024-09-10T05:58:16.387Z",
+      "verseId": "178d8141-4599-473c-9b3e-ba5e7cc90ea5",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "ce36a171-7bbd-4bd1-b7cc-ba321d3815bd",
+      "content": "Đn 9,23; 10,11",
+      "position": 23,
+      "order": 26,
+      "createdAt": "2024-09-10T05:58:16.398Z",
+      "updatedAt": "2024-09-10T05:58:16.398Z",
+      "verseId": "5f30d4ce-3e16-4936-888c-a1abf7f809cf",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "0a45dbe4-e968-45ec-ab89-f9a9f555731a",
+      "content": "Đnl 31,7.23; Gs 1,6-7",
+      "position": 71,
+      "order": 27,
+      "createdAt": "2024-09-10T05:58:16.403Z",
+      "updatedAt": "2024-09-10T05:58:16.403Z",
+      "verseId": "5f30d4ce-3e16-4936-888c-a1abf7f809cf",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "86956895-08f8-4b2a-995a-cfb6d718c182",
+      "content": "2 Sb 16,9",
+      "position": 94,
+      "order": 28,
+      "createdAt": "2024-09-10T05:58:16.423Z",
+      "updatedAt": "2024-09-10T05:58:16.423Z",
+      "verseId": "8f6408da-a9fe-4ea2-a718-f86206ef88e3",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "92651a6f-57a1-43fd-bb84-681baaf26b65",
+      "content": "Đn 8,21",
+      "position": 171,
+      "order": 29,
+      "createdAt": "2024-09-10T05:58:16.427Z",
+      "updatedAt": "2024-09-10T05:58:16.427Z",
+      "verseId": "8f6408da-a9fe-4ea2-a718-f86206ef88e3",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    },
+    {
+      "id": "75ef7576-d3b9-4ce8-83cb-f424f8637ab1",
+      "content": "Tv 139,16",
+      "position": 55,
+      "order": 30,
+      "createdAt": "2024-09-10T05:58:16.437Z",
+      "updatedAt": "2024-09-10T05:58:16.437Z",
+      "verseId": "77220194-675d-4de9-b050-f9572dda6dfa",
+      "chapterId": "1847661d-18da-4ced-b83a-3aeb9acf5bbb"
+    }
+  ]
+}

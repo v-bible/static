@@ -1,0 +1,233 @@
+{
+  "chapter": {
+    "id": "38e699e4-c1b1-497d-a2d8-a9174d6e1016",
+    "number": 123,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "a0f3ba88-e003-44de-a27d-abdef7cdc515",
+      "number": 1,
+      "content": "Ca khúc lên Đền.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:38:05.978Z",
+      "updatedAt": "2024-09-10T04:38:05.978Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "97b631a9-236a-478d-9372-fb3ca6cac419",
+      "number": 1,
+      "content": "Con ngước mắt hướng nhìn lên Chúa,",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:05.998Z",
+      "updatedAt": "2024-09-10T04:38:05.998Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "aac5d1ca-91ce-4758-8e6a-b92f1dd19e1a",
+      "number": 1,
+      "content": "Đấng đang ngự trên trời.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.008Z",
+      "updatedAt": "2024-09-10T04:38:06.008Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "07fe38a1-b391-4d83-9ae9-27600f85357c",
+      "number": 2,
+      "content": "Quả thật như mắt của gia nhân hướng nhìn tay ông chủ,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.017Z",
+      "updatedAt": "2024-09-10T04:38:06.017Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "a9317b6a-8864-4c6d-bd76-a170b7b8a85b",
+      "number": 2,
+      "content": "như mắt của nữ tỳ hướng nhìn tay bà chủ,",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.022Z",
+      "updatedAt": "2024-09-10T04:38:06.022Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "053ee0e7-07d5-4d49-917a-4b8a9dbcdb05",
+      "number": 2,
+      "content": "mắt chúng ta cũng hướng nhìn lên CHÚA",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.027Z",
+      "updatedAt": "2024-09-10T04:38:06.027Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "aca6c7a0-0a8e-4cb2-b10e-2dfed7256c00",
+      "number": 2,
+      "content": "là Thiên Chúa chúng ta,",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.036Z",
+      "updatedAt": "2024-09-10T04:38:06.036Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "afbc8761-d89c-42a2-9f79-63aaabcf3f31",
+      "number": 2,
+      "content": "tới khi Người xót thương chút phận.",
+      "order": 4,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.041Z",
+      "updatedAt": "2024-09-10T04:38:06.041Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "7d34104e-b0e5-4921-90eb-4b60b2407148",
+      "number": 3,
+      "content": "Rủ lòng thương, lạy CHÚA, xin rủ lòng thương,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.045Z",
+      "updatedAt": "2024-09-10T04:38:06.045Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "f772fe05-75ff-4c34-801e-44945355ce3e",
+      "number": 3,
+      "content": "bởi chúng con bị khinh miệt ê chề ;",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.050Z",
+      "updatedAt": "2024-09-10T04:38:06.050Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "b65b14fa-1b29-4367-a6f0-6d7627fe7d4b",
+      "number": 4,
+      "content": "hồn thật quá ê chề vì hứng chịu",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.055Z",
+      "updatedAt": "2024-09-10T04:38:06.055Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "845ba20c-3af5-4488-8b3c-774b2a8f26f3",
+      "number": 4,
+      "content": "lời nhạo báng của phường tự mãn,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.060Z",
+      "updatedAt": "2024-09-10T04:38:06.060Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "e2c6573a-d840-459e-a366-af789d65cd41",
+      "number": 4,
+      "content": "giọng khinh người của bọn kiêu căng.",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:38:06.065Z",
+      "updatedAt": "2024-09-10T04:38:06.065Z",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "72afbd1f-ef49-481a-bd02-5075b5d29d82",
+      "content": "Có lẽ <i>ai ca này của tập thể</i> đã được soạn thảo sau thời lưu đày hoặc vào thời ông Nơ-khe-mi-a. Lúc đó, dân Ít-ra-en bị dân ngoại tấn công, khinh dể và nhục mạ.",
+      "position": 62,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:05.993Z",
+      "updatedAt": "2024-09-10T04:38:05.993Z",
+      "headingId": "7f9fd347-7563-4165-8d51-629baba5c8b5",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "ef6ca580-7060-49f0-87e0-1decf78e5c05",
+      "content": "Đó là thái độ của cộng đoàn Ít-ra-en đợi chờ sự cứu giúp của Thiên Chúa với niềm tin tưởng cậy trông.",
+      "position": 37,
+      "order": 1,
+      "createdAt": "2024-09-10T04:38:06.031Z",
+      "updatedAt": "2024-09-10T04:38:06.031Z",
+      "verseId": "053ee0e7-07d5-4d49-917a-4b8a9dbcdb05",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "147bdf37-0210-48c5-bbcf-ee7cdc6e7de9",
+      "content": "Không rõ ở đây, tác giả muốn nói về những người trong cộng đoàn Ít-ra-en, về những kẻ thù ở ngoài cộng đoàn hay về những người ngoại xâm ?",
+      "position": 35,
+      "order": 2,
+      "createdAt": "2024-09-10T04:38:06.070Z",
+      "updatedAt": "2024-09-10T04:38:06.070Z",
+      "verseId": "e2c6573a-d840-459e-a366-af789d65cd41",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    }
+  ],
+  "headings": [
+    {
+      "id": "7f9fd347-7563-4165-8d51-629baba5c8b5",
+      "content": "Tv 123 (122) Dân Ít-ra-en bị áp bức đặt hy vọng nơi Thiên Chúa",
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:05.988Z",
+      "updatedAt": "2024-09-10T04:38:05.988Z",
+      "verseId": "a0f3ba88-e003-44de-a27d-abdef7cdc515",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    }
+  ],
+  "references": [
+    {
+      "id": "ea6cb500-91d2-463b-b692-4fb6604a646c",
+      "content": "Tv 25,15; 141,8",
+      "position": 4,
+      "order": 0,
+      "createdAt": "2024-09-10T04:38:06.003Z",
+      "updatedAt": "2024-09-10T04:38:06.003Z",
+      "verseId": "97b631a9-236a-478d-9372-fb3ca6cac419",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    },
+    {
+      "id": "78ee6747-9ef8-4a6c-913e-ace2bb347144",
+      "content": "Mt 6,9",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:38:06.012Z",
+      "updatedAt": "2024-09-10T04:38:06.012Z",
+      "verseId": "aac5d1ca-91ce-4758-8e6a-b92f1dd19e1a",
+      "chapterId": "38e699e4-c1b1-497d-a2d8-a9174d6e1016"
+    }
+  ]
+}

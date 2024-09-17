@@ -1,0 +1,519 @@
+{
+  "chapter": {
+    "id": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d",
+    "number": 12,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.725Z",
+    "updatedAt": "2024-09-10T00:39:05.725Z",
+    "bookId": "aa1556f1-da71-47b5-a8e7-a5b4f65aa98a"
+  },
+  "verses": [
+    {
+      "id": "84278c88-6ba0-475c-9196-5827a0800705",
+      "number": 1,
+      "content": "Bà Mi-ri-am và ông A-ha-ron phản đối ông Mô-sê về người đàn bà xứ Cút mà ông đã lấy, vì ông đã lấy một người đàn bà xứ Cút làm vợ.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.775Z",
+      "updatedAt": "2024-09-10T02:30:43.775Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "2f036243-f8dd-44e8-94cc-bff7c66e1c53",
+      "number": 2,
+      "content": "Họ nói : “ĐỨC CHÚA chỉ phán với một mình Mô-sê sao ? Người đã chẳng phán với cả chúng ta nữa ư ?” Và ĐỨC CHÚA nghe được.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.793Z",
+      "updatedAt": "2024-09-10T02:30:43.793Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "690377a4-28b0-4573-be84-517ad6ef8fc5",
+      "number": 3,
+      "content": "Ông Mô-sê là người hiền lành nhất đời.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.798Z",
+      "updatedAt": "2024-09-10T02:30:43.798Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "5ed79667-03c9-4d37-b3ea-245c7941ff38",
+      "number": 4,
+      "content": "Đột nhiên ĐỨC CHÚA phán với ông Mô-sê, ông A-ha-ron và bà Mi-ri-am : “Cả ba hãy đi ra Lều Hội Ngộ !” Và ba người đã ra.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.804Z",
+      "updatedAt": "2024-09-10T02:30:43.804Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "4cd3ca2e-629a-4191-bb05-5ff3bd4c5298",
+      "number": 5,
+      "content": "ĐỨC CHÚA ngự xuống giữa đám mây và dừng lại ở cửa Lều. Người gọi ông A-ha-ron và bà Mi-ri-am, và hai người đi ra.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.809Z",
+      "updatedAt": "2024-09-10T02:30:43.809Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "bed20b16-5c62-45c8-a8cd-ee8f7dbc7102",
+      "number": 6,
+      "content": "Người phán : “Hãy nghe Ta nói đây !",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.815Z",
+      "updatedAt": "2024-09-10T02:30:43.815Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "a7899970-0b8a-4d1f-a8af-0eadc698cad8",
+      "number": 6,
+      "content": "Nếu trong các ngươi có ai là ngôn sứ,",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.820Z",
+      "updatedAt": "2024-09-10T02:30:43.820Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "bc2e6a51-8b0e-4fc7-83ac-cc69616bf94a",
+      "number": 6,
+      "content": "thì Ta, ĐỨC CHÚA, Ta sẽ tỏ mình ra cho nó trong thị kiến,",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.822Z",
+      "updatedAt": "2024-09-10T02:30:43.822Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "c95d3ed1-495f-408c-b446-5e704fcb1dbe",
+      "number": 6,
+      "content": "hoặc sẽ phán với nó trong giấc mộng.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.825Z",
+      "updatedAt": "2024-09-10T02:30:43.825Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "2d76b002-8af3-43f6-a9e1-14aab641bd11",
+      "number": 7,
+      "content": "Nhưng với Mô-sê tôi tớ Ta thì khác :",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.827Z",
+      "updatedAt": "2024-09-10T02:30:43.827Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "a703b847-68fa-495e-886c-508c36094bdc",
+      "number": 7,
+      "content": "tất cả nhà Ta, Ta đã trao cho nó.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.829Z",
+      "updatedAt": "2024-09-10T02:30:43.829Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "6b1e3433-eaf6-42f3-b285-6a0d71717989",
+      "number": 8,
+      "content": "Ta nói với nó trực diện, nhãn tiền, chứ không nói bí ẩn,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.834Z",
+      "updatedAt": "2024-09-10T02:30:43.834Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "4f7e8aa3-57fc-4535-bc14-4cf224b3e778",
+      "number": 8,
+      "content": "và hình dáng ĐỨC CHÚA, nó được ngắm nhìn.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.839Z",
+      "updatedAt": "2024-09-10T02:30:43.839Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "a50835ab-bd6f-400c-b288-c61200b492ae",
+      "number": 8,
+      "content": "Vậy tại sao các ngươi không sợ nói động đến Mô-sê, tôi tớ Ta ?”",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T02:30:43.848Z",
+      "updatedAt": "2024-09-10T02:30:43.848Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "dd352bbc-716e-4328-b649-6d2d0afbef66",
+      "number": 9,
+      "content": "ĐỨC CHÚA nổi cơn thịnh nộ với họ mà bỏ đi.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.853Z",
+      "updatedAt": "2024-09-10T02:30:43.853Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "7c58cba4-acfe-4985-a930-f1c727671acd",
+      "number": 10,
+      "content": "Khi mây bốc lên khỏi Lều, thì bà Mi-ri-am mắc bệnh phong, mốc thếch như tuyết ; ông A-ha-ron quay nhìn bà Mi-ri-am, thì kìa bà đã mắc bệnh phong.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.858Z",
+      "updatedAt": "2024-09-10T02:30:43.858Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "690b22ea-4755-42d0-b241-4b46a7fea0ad",
+      "number": 11,
+      "content": "Ông A-ha-ron nói với ông Mô-sê : “Lỗi tại tôi, thưa ngài, nhưng xin ngài đừng kết tội chúng tôi ; chúng tôi đã dại dột mà phạm lỗi và đáng tội.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.872Z",
+      "updatedAt": "2024-09-10T02:30:43.872Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "006d1722-006b-4cd0-b8aa-bdd0bac023a4",
+      "number": 12,
+      "content": "Xin đừng để cho cô ấy nên như đứa chết yểu, vừa lọt lòng mẹ đã bị ăn mòn mất một nửa phần thịt mình rồi.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.887Z",
+      "updatedAt": "2024-09-10T02:30:43.887Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "69b1ebaa-4119-4b92-a6a7-64d3f0f5144c",
+      "number": 13,
+      "content": "Ông Mô-sê kêu cầu lên ĐỨC CHÚA rằng : “Ôi, lạy Chúa, xin chữa lành cô ấy !”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.891Z",
+      "updatedAt": "2024-09-10T02:30:43.891Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "87fe51ba-bc42-4901-af75-032f7492d21a",
+      "number": 14,
+      "content": "ĐỨC CHÚA phán với ông Mô-sê : “Nếu cha nó phỉ nhổ vào mặt nó, thì nó không phải nhục nhã ê chề bảy ngày liền sao ? Nó vẫn phải biệt cư ở ngoài trại bảy ngày rồi mới được vào lại.”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.901Z",
+      "updatedAt": "2024-09-10T02:30:43.901Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "840494bb-f4c5-4f20-be49-c52f584b76cb",
+      "number": 15,
+      "content": "Vậy bà Mi-ri-am đã bị biệt cư ở ngoài trại bảy ngày liền, trong khi đó dân chúng không lên đường cho tới khi bà Mi-ri-am được vào lại.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.915Z",
+      "updatedAt": "2024-09-10T02:30:43.915Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "6506207e-1749-41d2-8525-e374a3b3e62c",
+      "number": 16,
+      "content": "Sau đó dân chúng lên đường rời Kha-xê-rốt và đóng trại trong sa mạc Pa-ran.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T02:30:43.924Z",
+      "updatedAt": "2024-09-10T02:30:43.924Z",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "6557d87e-1083-43e7-9ced-b200506af686",
+      "content": "Trình thuật này theo truyền thống Ê-lô-hít, tuy nhiên được truyền thống Tư Tế trau chuốt lại ít nhiều.",
+      "position": 46,
+      "order": 0,
+      "createdAt": "2024-09-10T02:30:43.786Z",
+      "updatedAt": "2024-09-10T02:30:43.786Z",
+      "headingId": "c23e3562-0191-40fa-8cd5-147f19182800",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "e7f72d14-c65d-4602-8296-65ddebe31456",
+      "content": "Trong 2 V 19,9 cũng như trong nhiều sấm ngôn, Cút được hiểu là Ê-thi-ốp ; nhưng ở Kb 3,7 người Cút được đồng hoá với người Ma-đi-an (x. Xh 2,15-22). – Đàn bà xứ Cút là ai ? Có phải là bà Xíp-pô-ra ở Xh 2,21 ? Hay là một người vợ khác ông Mô-sê lấy vào giai đoạn này ?",
+      "position": 69,
+      "order": 1,
+      "createdAt": "2024-09-10T02:30:43.789Z",
+      "updatedAt": "2024-09-10T02:30:43.789Z",
+      "verseId": "84278c88-6ba0-475c-9196-5827a0800705",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "24a38493-8bff-4ee7-87cf-406b734e7494",
+      "content": "Xh 15,20 đã gán cho bà Mi-ri-am danh hiệu nữ ngôn sứ. Ở đây nhấn mạnh vai trò đặc biệt của ông Mô-sê.",
+      "position": 88,
+      "order": 2,
+      "createdAt": "2024-09-10T02:30:43.794Z",
+      "updatedAt": "2024-09-10T02:30:43.794Z",
+      "verseId": "2f036243-f8dd-44e8-94cc-bff7c66e1c53",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "5651cb8f-81db-43dd-b2d6-0afe4f3df72b",
+      "content": "Tác giả cho thấy tương phản giữa ông Mô-sê người hiền lành với bà Mi-ri-am và ông A-ha-ron là những người tự phụ. Số nhiều của từ “<span class=\"hebrew-translit\">änawîm</span>” ám chỉ những người đạo đức, hiền lành là mẫu người tôn giáo lý tưởng trong Kinh Thánh (x. Tv 25,9 ; 37,11).",
+      "position": 37,
+      "order": 3,
+      "createdAt": "2024-09-10T02:30:43.800Z",
+      "updatedAt": "2024-09-10T02:30:43.800Z",
+      "verseId": "690377a4-28b0-4573-be84-517ad6ef8fc5",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "7d6026d5-a3b2-4283-aa96-097f909e1f85",
+      "content": "Có lẽ câu này thuộc trình thuật khác, vì không biết đến c.4. Nhưng cũng có thể hiểu Đức Chúa tách rời hai người để giáo dục họ (cc. 6-8).",
+      "position": 112,
+      "order": 4,
+      "createdAt": "2024-09-10T02:30:43.811Z",
+      "updatedAt": "2024-09-10T02:30:43.811Z",
+      "verseId": "4cd3ca2e-629a-4191-bb05-5ff3bd4c5298",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "05bf0f69-9c8c-43ac-aa5a-36f5308e0c30",
+      "content": "Cc. 6-8 cho thấy duy mình ông Mô-sê là ngôn sứ của Đức Chúa (x. Đnl 34,10-12), vì một mình ông thường ra vào Lều Hội Ngộ để nhận chỉ thị của Đức Chúa (Xh 33,8-11).",
+      "position": 10,
+      "order": 5,
+      "createdAt": "2024-09-10T02:30:43.817Z",
+      "updatedAt": "2024-09-10T02:30:43.817Z",
+      "verseId": "bed20b16-5c62-45c8-a8cd-ee8f7dbc7102",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "ff1f7604-fdf4-453f-8a33-d13ef2c6bd65",
+      "content": "Có lẽ, như ở Xh 33,20-23, ám chỉ nhìn một người từ phía sau lưng. Nhìn thấy Thiên Chúa thì phải chết.",
+      "position": 12,
+      "order": 6,
+      "createdAt": "2024-09-10T02:30:43.842Z",
+      "updatedAt": "2024-09-10T02:30:43.842Z",
+      "verseId": "4f7e8aa3-57fc-4535-bc14-4cf224b3e778",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "c9ce5135-d5d5-4703-87ef-308ef8c0457b",
+      "content": "Chỉ có bà Mi-ri-am bị phong, mặc dầu ông A-ha-ron nhìn nhận lỗi lầm của mình (c.11). Có lẽ ông A-ha-ron cũng bị phạt, nhưng truyền thống Tư Tế bỏ qua. Sau này ông A-ha-ron bị phạt là phải chết trước ông Mô-sê (20,1.28).",
+      "position": 56,
+      "order": 7,
+      "createdAt": "2024-09-10T02:30:43.863Z",
+      "updatedAt": "2024-09-10T02:30:43.863Z",
+      "verseId": "7c58cba4-acfe-4985-a930-f1c727671acd",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "c4649134-819b-42e5-810a-99c445aa19a6",
+      "content": "X. Xh 15,26.",
+      "position": 66,
+      "order": 8,
+      "createdAt": "2024-09-10T02:30:43.896Z",
+      "updatedAt": "2024-09-10T02:30:43.896Z",
+      "verseId": "69b1ebaa-4119-4b92-a6a7-64d3f0f5144c",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "cae8e5ab-b976-4d0f-8439-f1295c22aed2",
+      "content": "Đó là dấu người cha khinh bỉ (x. Đnl 25,9 ; G 30,10 ; Is 50,6) đứa con gái vì nó chống lại cha mình.",
+      "position": 60,
+      "order": 9,
+      "createdAt": "2024-09-10T02:30:43.906Z",
+      "updatedAt": "2024-09-10T02:30:43.906Z",
+      "verseId": "87fe51ba-bc42-4901-af75-032f7492d21a",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "5b368972-df36-4e6c-af6e-eb6a550bfa3d",
+      "content": "Được vào trại chứng tỏ bà Mi-ri-am được chữa lành.",
+      "position": 133,
+      "order": 10,
+      "createdAt": "2024-09-10T02:30:43.920Z",
+      "updatedAt": "2024-09-10T02:30:43.920Z",
+      "verseId": "840494bb-f4c5-4f20-be49-c52f584b76cb",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    }
+  ],
+  "headings": [
+    {
+      "id": "c23e3562-0191-40fa-8cd5-147f19182800",
+      "content": "Bà Mi-ri-am và ông A-ha-ron phản đối ông Mô-sê",
+      "order": 0,
+      "createdAt": "2024-09-10T02:30:43.784Z",
+      "updatedAt": "2024-09-10T02:30:43.784Z",
+      "verseId": "84278c88-6ba0-475c-9196-5827a0800705",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "bb577f1c-a834-4977-84b9-716fb64e5ef8",
+      "content": "Thiên Chúa trả lời",
+      "order": 0,
+      "createdAt": "2024-09-10T02:30:43.806Z",
+      "updatedAt": "2024-09-10T02:30:43.806Z",
+      "verseId": "5ed79667-03c9-4d37-b3ea-245c7941ff38",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "727bf9d5-3f60-491a-841b-864a27c7a2d0",
+      "content": "Lời chuyển cầu của ông A-ha-ron và ông Mô-sê",
+      "order": 0,
+      "createdAt": "2024-09-10T02:30:43.877Z",
+      "updatedAt": "2024-09-10T02:30:43.877Z",
+      "verseId": "690b22ea-4755-42d0-b241-4b46a7fea0ad",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    }
+  ],
+  "references": [
+    {
+      "id": "02b416db-7ed4-4a6c-9f72-db8ffb9169a6",
+      "content": "Ds 20,1; Xh 15,20",
+      "position": 3,
+      "order": 0,
+      "createdAt": "2024-09-10T02:30:43.791Z",
+      "updatedAt": "2024-09-10T02:30:43.791Z",
+      "verseId": "84278c88-6ba0-475c-9196-5827a0800705",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "0b81d0e8-739f-4ed4-83f3-50220c325995",
+      "content": "Xh 4,15-16",
+      "position": 68,
+      "order": 1,
+      "createdAt": "2024-09-10T02:30:43.796Z",
+      "updatedAt": "2024-09-10T02:30:43.796Z",
+      "verseId": "2f036243-f8dd-44e8-94cc-bff7c66e1c53",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "4629d19f-e677-4997-99a9-b4612fecc8ed",
+      "content": "Xh 3,11; 4,10; Hc 45,4",
+      "position": 19,
+      "order": 2,
+      "createdAt": "2024-09-10T02:30:43.802Z",
+      "updatedAt": "2024-09-10T02:30:43.802Z",
+      "verseId": "690377a4-28b0-4573-be84-517ad6ef8fc5",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "34485ca6-aae8-4b52-ae8f-2ab75725a223",
+      "content": "Xh 13,22",
+      "position": 24,
+      "order": 3,
+      "createdAt": "2024-09-10T02:30:43.813Z",
+      "updatedAt": "2024-09-10T02:30:43.813Z",
+      "verseId": "4cd3ca2e-629a-4191-bb05-5ff3bd4c5298",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "967b20c2-7a45-4c9c-abdd-cbe878e868e4",
+      "content": "Đnl 3,2-5",
+      "position": 21,
+      "order": 4,
+      "createdAt": "2024-09-10T02:30:43.832Z",
+      "updatedAt": "2024-09-10T02:30:43.832Z",
+      "verseId": "a703b847-68fa-495e-886c-508c36094bdc",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "14d8b208-d68b-4de4-96c6-3ce9af915724",
+      "content": "Xh 33,11; 1 Cr 13,12",
+      "position": 14,
+      "order": 5,
+      "createdAt": "2024-09-10T02:30:43.837Z",
+      "updatedAt": "2024-09-10T02:30:43.837Z",
+      "verseId": "6b1e3433-eaf6-42f3-b285-6a0d71717989",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "a6bb0504-f5e5-4ad5-8634-4cdc0b41af3f",
+      "content": "Xh 33,20",
+      "position": 26,
+      "order": 6,
+      "createdAt": "2024-09-10T02:30:43.845Z",
+      "updatedAt": "2024-09-10T02:30:43.845Z",
+      "verseId": "4f7e8aa3-57fc-4535-bc14-4cf224b3e778",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "50bc0aeb-b9f1-4b38-bd49-92c84f0d16b2",
+      "content": "Đnl 24,9; 2 Sb 26,20",
+      "position": 130,
+      "order": 7,
+      "createdAt": "2024-09-10T02:30:43.868Z",
+      "updatedAt": "2024-09-10T02:30:43.868Z",
+      "verseId": "7c58cba4-acfe-4985-a930-f1c727671acd",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "543a5dd0-851c-4bc8-87a7-96a50540b128",
+      "content": "Xh 32,11",
+      "position": 0,
+      "order": 8,
+      "createdAt": "2024-09-10T02:30:43.882Z",
+      "updatedAt": "2024-09-10T02:30:43.882Z",
+      "headingId": "727bf9d5-3f60-491a-841b-864a27c7a2d0",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    },
+    {
+      "id": "30de9559-3ceb-442f-8bc8-a4ccd5d4babc",
+      "content": "Lv 13,4-6",
+      "position": 95,
+      "order": 9,
+      "createdAt": "2024-09-10T02:30:43.910Z",
+      "updatedAt": "2024-09-10T02:30:43.910Z",
+      "verseId": "87fe51ba-bc42-4901-af75-032f7492d21a",
+      "chapterId": "ffe126d3-24c1-4f83-a362-ffe9f6469f1d"
+    }
+  ]
+}

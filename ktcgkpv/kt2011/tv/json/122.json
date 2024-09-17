@@ -1,0 +1,319 @@
+{
+  "chapter": {
+    "id": "2b22b350-60f8-489d-8d44-0953301ff83c",
+    "number": 122,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "d6cbcb7f-6ce1-4478-ba07-539c9446195a",
+      "number": 1,
+      "content": "Ca khúc lên Đền. Của vua Đa-vít.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:28:42.403Z",
+      "updatedAt": "2024-09-10T04:28:42.403Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "f8111fee-fcc0-4f1d-aa32-41a4785f8bf1",
+      "number": 1,
+      "content": "Vui dường nào khi thiên hạ bảo tôi :",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.409Z",
+      "updatedAt": "2024-09-10T04:28:42.409Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "cb258397-386a-4c25-9377-707a45d46e3a",
+      "number": 1,
+      "content": "“Ta cùng trẩy lên đền thánh CHÚA !”",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.412Z",
+      "updatedAt": "2024-09-10T04:28:42.412Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "4d4ea3a4-bba5-4677-972b-cd3dcd75e7e1",
+      "number": 1,
+      "content": "Và giờ đây, Giê-ru-sa-lem hỡi,",
+      "order": 3,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.423Z",
+      "updatedAt": "2024-09-10T04:28:42.423Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "04ec10db-aa97-42ba-a8b8-3a1f1645a2d7",
+      "number": 2,
+      "content": "cửa nội thành, ta đã dừng chân.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.428Z",
+      "updatedAt": "2024-09-10T04:28:42.428Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "9debb3e5-1126-4805-a3aa-4d8e0f7010ba",
+      "number": 3,
+      "content": "Giê-ru-sa-lem khác nào đô thị",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.437Z",
+      "updatedAt": "2024-09-10T04:28:42.437Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "47b086e0-b9b4-4d1f-8548-f86fffb13788",
+      "number": 3,
+      "content": "được xây nên một khối vẹn toàn.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.441Z",
+      "updatedAt": "2024-09-10T04:28:42.441Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "b0f6d390-2a12-44ef-b9f7-7f76ee4f1864",
+      "number": 4,
+      "content": "Từng chi tộc, chi tộc của CHÚA,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.446Z",
+      "updatedAt": "2024-09-10T04:28:42.446Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "3e54b254-db09-4046-938c-3e4b169b84e0",
+      "number": 4,
+      "content": "trẩy hội lên đền ở nơi đây,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.452Z",
+      "updatedAt": "2024-09-10T04:28:42.452Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "52e17744-78be-4d0f-991b-91266fcf66a4",
+      "number": 4,
+      "content": "để danh CHÚA, họ cùng xưng tụng,",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.457Z",
+      "updatedAt": "2024-09-10T04:28:42.457Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "2b1b453c-e192-42c8-8bc1-73fd1086e3ed",
+      "number": 4,
+      "content": "như lệnh đã truyền cho Ít-ra-en.",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.462Z",
+      "updatedAt": "2024-09-10T04:28:42.462Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "36aa220f-8a71-46eb-94ff-fb959dac1973",
+      "number": 5,
+      "content": "Cũng nơi đó, đặt ngai xét xử,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.472Z",
+      "updatedAt": "2024-09-10T04:28:42.472Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "edf9a290-b072-44a5-b049-6fc434d3a77e",
+      "number": 5,
+      "content": "ngai vàng của vương triều Đa-vít.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.478Z",
+      "updatedAt": "2024-09-10T04:28:42.478Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "f88d028c-9b26-440c-bb55-a1c2da79df89",
+      "number": 6,
+      "content": "Hãy nguyện chúc Giê-ru-sa-lem được thái bình,",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.482Z",
+      "updatedAt": "2024-09-10T04:28:42.482Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "118f2621-0ddf-4ad2-a28e-7dfb10672020",
+      "number": 6,
+      "content": "rằng : “Chúc thân hữu của thành luôn thịnh đạt,",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.490Z",
+      "updatedAt": "2024-09-10T04:28:42.490Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "1171fe37-244f-488b-8264-701cba5e02fb",
+      "number": 7,
+      "content": "tường trong luỹ ngoài hằng yên ổn,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.493Z",
+      "updatedAt": "2024-09-10T04:28:42.493Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "71c17d1a-5b3b-4377-a385-c626ff1c98c3",
+      "number": 7,
+      "content": "lâu đài dinh thự mãi an ninh.”",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.496Z",
+      "updatedAt": "2024-09-10T04:28:42.496Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "8843f58c-8802-49fb-822a-5fd7ea13a9cf",
+      "number": 8,
+      "content": "Nghĩ tới anh em cùng là bạn hữu,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.499Z",
+      "updatedAt": "2024-09-10T04:28:42.499Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "a2b3c791-8f60-46e4-bfbc-4041f418a40e",
+      "number": 8,
+      "content": "tôi nói rằng : “Chúc thành đô an lạc.”",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.502Z",
+      "updatedAt": "2024-09-10T04:28:42.502Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "f921a112-2090-4703-b423-4bc00a554228",
+      "number": 9,
+      "content": "Nghĩ tới đền thánh CHÚA, Thiên Chúa chúng ta thờ,",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.506Z",
+      "updatedAt": "2024-09-10T04:28:42.506Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "6d273436-50bd-419d-b073-a5e389b359b9",
+      "number": 9,
+      "content": "tôi ước mong thành được hạnh phúc, hỡi thành đô.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:28:42.509Z",
+      "updatedAt": "2024-09-10T04:28:42.509Z",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "8d29d082-821b-4a4d-bf45-2c2dd5620361",
+      "content": "Theo <i>Tv về Xi-on</i> này, một tín đồ đạo Do-thái đi hành hương lên Giê-ru-sa-lem diễn tả niềm vui được tới thành thánh Giê-ru-sa-lem, vào Đền Thờ để thờ phượng Thiên Chúa. Tv này chia làm ba phần : <b>1</b>) Vui mừng vì được tới thành thánh Giê-ru-sa-lem và dừng chân ở Cửa Thành (cc. 1-2) ; <b>2</b>) Ca ngợi Giê-ru-sa-lem (cc. 3-5) ; <b>3</b>) Cầu chúc Giê-ru-sa-lem được thái bình an lạc (cc. 6-9).",
+      "position": 38,
+      "order": 0,
+      "createdAt": "2024-09-10T04:28:42.407Z",
+      "updatedAt": "2024-09-10T04:28:42.407Z",
+      "headingId": "2ec57293-b4ea-4fe6-af0b-2e37b6ff786c",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "45ff0c95-2c7d-47c9-9e1a-da82f8375332",
+      "content": "Mỗi năm ba lần (vào dịp lễ Bánh Không Men, lễ Ngũ Tuần và lễ Lều), tất cả đàn ông con trai trong dân Ít-ra-en phải đi hành hương tới Đền Thờ (x. Xh 23,14.17 ; 34,23 ; Đnl 16,16).",
+      "position": 31,
+      "order": 1,
+      "createdAt": "2024-09-10T04:28:42.467Z",
+      "updatedAt": "2024-09-10T04:28:42.467Z",
+      "verseId": "2b1b453c-e192-42c8-8bc1-73fd1086e3ed",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    },
+    {
+      "id": "6332b471-4d20-43c8-8fcc-8534a2550115",
+      "content": "<i>Thái bình</i> có nghĩa là thịnh vượng.",
+      "position": 44,
+      "order": 2,
+      "createdAt": "2024-09-10T04:28:42.486Z",
+      "updatedAt": "2024-09-10T04:28:42.486Z",
+      "verseId": "f88d028c-9b26-440c-bb55-a1c2da79df89",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    }
+  ],
+  "headings": [
+    {
+      "id": "2ec57293-b4ea-4fe6-af0b-2e37b6ff786c",
+      "content": "Tv 122 (121) Thành Thánh Giê-ru-sa-lem",
+      "order": 0,
+      "createdAt": "2024-09-10T04:28:42.405Z",
+      "updatedAt": "2024-09-10T04:28:42.405Z",
+      "verseId": "d6cbcb7f-6ce1-4478-ba07-539c9446195a",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    }
+  ],
+  "references": [
+    {
+      "id": "b1e6108b-bb40-4770-80f4-5b7e3d29b5df",
+      "content": "Tv 42,5; 43,4",
+      "position": 1,
+      "order": 0,
+      "createdAt": "2024-09-10T04:28:42.418Z",
+      "updatedAt": "2024-09-10T04:28:42.418Z",
+      "verseId": "cb258397-386a-4c25-9377-707a45d46e3a",
+      "chapterId": "2b22b350-60f8-489d-8d44-0953301ff83c"
+    }
+  ]
+}

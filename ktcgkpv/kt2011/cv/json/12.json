@@ -1,0 +1,595 @@
+{
+  "chapter": {
+    "id": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae",
+    "number": 12,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.348Z",
+    "updatedAt": "2024-09-10T00:39:05.348Z",
+    "bookId": "a7319174-e826-450d-9b3d-0b8e2fa98e81"
+  },
+  "verses": [
+    {
+      "id": "887c951c-f53e-4acd-b44f-b3646c270efa",
+      "number": 1,
+      "content": "Thời kỳ ấy, vua Hê-rô-đê ra tay ngược đãi một số người trong Hội Thánh.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.636Z",
+      "updatedAt": "2024-09-10T01:13:14.636Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "76dd4127-fcf7-49e8-b008-fe505a12f083",
+      "number": 2,
+      "content": "Nhà vua đã cho chém đầu ông Gia-cô-bê là anh ông Gio-an.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.669Z",
+      "updatedAt": "2024-09-10T01:13:14.669Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "fada6d8c-1cf6-46b0-a438-f50d292f452b",
+      "number": 3,
+      "content": "Thấy việc đó làm vừa lòng người Do-thái, nhà vua lại cho bắt cả ông Phê-rô nữa. Bấy giờ đang là tuần lễ Bánh Không Men.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.685Z",
+      "updatedAt": "2024-09-10T01:13:14.685Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "9f1c8430-a5ae-49d9-ad6e-ce11588f7d4d",
+      "number": 4,
+      "content": "Bắt được rồi, nhà vua truyền tống ngục và giao cho bốn tốp lính canh gác, mỗi tốp gồm bốn người, định sau lễ Vượt Qua sẽ điệu ông ra cho dân chúng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.696Z",
+      "updatedAt": "2024-09-10T01:13:14.696Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "e3f512b6-b090-40e5-9226-9c96bf0d64a5",
+      "number": 5,
+      "content": "Đang khi ông Phê-rô bị giam giữ như thế, thì Hội Thánh không ngừng dâng lên Thiên Chúa lời cầu nguyện khẩn thiết cho ông.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.711Z",
+      "updatedAt": "2024-09-10T01:13:14.711Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ec7c9ca4-5376-466a-ab3d-953f7d52510a",
+      "number": 6,
+      "content": "Trong đêm trước ngày bị vua Hê-rô-đê đem ra xử, ông Phê-rô ngủ giữa hai người lính, và bị khoá vào hai cái xiềng. Trước cửa ngục lại có lính canh.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.721Z",
+      "updatedAt": "2024-09-10T01:13:14.721Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "3c496a00-0892-4660-91a2-bf18dc0f4b41",
+      "number": 7,
+      "content": "Bỗng thiên sứ của Chúa đứng bên cạnh ông, và ánh sáng chói rực cả phòng giam. Thiên sứ đập vào cạnh sườn ông Phê-rô, đánh thức ông và bảo : “Đứng dậy mau đi !” Xiềng xích liền tuột khỏi tay ông.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.726Z",
+      "updatedAt": "2024-09-10T01:13:14.726Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "3372845d-ec96-4b48-9ef6-765e05bfcfa0",
+      "number": 8,
+      "content": "Thiên sứ nói tiếp : “Thắt lưng lại và xỏ dép vào !” Ông làm như vậy. Rồi thiên sứ lại bảo ông : “Khoác áo choàng vào và đi theo tôi !”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.736Z",
+      "updatedAt": "2024-09-10T01:13:14.736Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "7f523af7-442d-4f81-8e91-d2ef67b89789",
+      "number": 9,
+      "content": "Ông liền theo ra, mà không biết việc thiên sứ làm đó có thật hay không, cứ tưởng là mình thấy một thị kiến.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.742Z",
+      "updatedAt": "2024-09-10T01:13:14.742Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "1ec6c269-5b50-457b-8b9f-e5fc7278b707",
+      "number": 10,
+      "content": "Qua vọng canh thứ nhất, rồi vọng canh thứ hai, thiên sứ và ông tới trước cửa sắt thông ra phố. Cửa tự động mở ra trước mặt hai người. Ra đến ngoài, đi hết một đường phố, thì bỗng nhiên thiên sứ bỏ ông mà đi.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.747Z",
+      "updatedAt": "2024-09-10T01:13:14.747Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "a3524213-248b-4992-a909-1e62c6e1ac2f",
+      "number": 11,
+      "content": "Lúc ấy ông Phê-rô mới hoàn hồn và nói : “Bây giờ tôi biết thật sự là Chúa đã sai thiên sứ của Người đến, và Người đã cứu tôi thoát khỏi tay vua Hê-rô-đê, và khỏi mọi điều dân Do-thái mong muốn tôi phải chịu.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.763Z",
+      "updatedAt": "2024-09-10T01:13:14.763Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "c425d8ab-6794-48ca-9af2-2e0d0a7e17ad",
+      "number": 12,
+      "content": "Ý thức được như vậy, ông đi đến nhà bà Ma-ri-a, mẹ của ông Gio-an, cũng gọi là Mác-cô ; ở đó có khá đông người đang tụ họp và cầu nguyện.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.768Z",
+      "updatedAt": "2024-09-10T01:13:14.768Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "bde34e57-865a-43c2-904b-1ef6c177d732",
+      "number": 13,
+      "content": "Ông đập cổng thì có một người tớ gái tên là Rô-đê ra nghe ngóng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.784Z",
+      "updatedAt": "2024-09-10T01:13:14.784Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "24b47375-2457-4519-9388-d7019713e6db",
+      "number": 14,
+      "content": "Nhận ra tiếng ông Phê-rô, cô mừng quýnh, không mở cổng, mà lại chạy vào báo tin ông Phê-rô đang đứng ngoài cổng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.789Z",
+      "updatedAt": "2024-09-10T01:13:14.789Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "cafcc46f-d5e9-4dae-8627-6687d44b6d10",
+      "number": 15,
+      "content": "Người ta bảo cô : “Đồ khùng !” Nhưng cô ấy cứ quả quyết là đúng như vậy. Họ nói : “Thiên sứ của ông ấy đấy !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.795Z",
+      "updatedAt": "2024-09-10T01:13:14.795Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "4a8f1c93-6e54-49d7-b059-985f903db871",
+      "number": 16,
+      "content": "Trong khi đó, ông Phê-rô tiếp tục đập cổng. Mở cổng ra, thấy ông, họ kinh ngạc.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.805Z",
+      "updatedAt": "2024-09-10T01:13:14.805Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "0b2de537-0943-431d-b020-d6507767e348",
+      "number": 17,
+      "content": "Ông giơ tay làm hiệu bảo họ im lặng, rồi kể cho họ nghe Chúa đã đưa ông ra khỏi tù thế nào. Ông nói : “Xin báo tin này cho ông Gia-cô-bê và cho các anh em.” Rồi ông ra đi, đến một nơi khác.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.811Z",
+      "updatedAt": "2024-09-10T01:13:14.811Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "380691ca-c250-4006-b2a3-f48073824e15",
+      "number": 18,
+      "content": "Sáng ra, bọn lính nhốn nháo không ít : ông Phê-rô đã ra sao rồi ?",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.838Z",
+      "updatedAt": "2024-09-10T01:13:14.838Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "95a0f6c5-bc98-4541-9cfb-15fbc47588ed",
+      "number": 19,
+      "content": "Vua Hê-rô-đê cho truy nã ông : bởi không tìm ra, nhà vua tra hỏi lính canh và ra lệnh điệu họ đi xử. Rồi nhà vua bỏ miền Giu-đê xuống ở Xê-da-rê.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.844Z",
+      "updatedAt": "2024-09-10T01:13:14.844Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "6184afc9-9f9b-408b-aeae-bac17c4100c6",
+      "number": 20,
+      "content": "Nhà vua đang tức tối với dân thành Tia và Xi-đôn. Họ đồng tâm nhất trí đến yết kiến nhà vua. Sau khi đã mua chuộc được quan thị vệ của vua là Bơ-lát-tô, họ cầu hoà, vì lãnh thổ của họ phải nhờ lãnh thổ của nhà vua cung cấp lương thực.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.854Z",
+      "updatedAt": "2024-09-10T01:13:14.854Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "4330c958-fe9e-41c5-a363-1d73602e7cfd",
+      "number": 21,
+      "content": "Đến ngày hẹn, vua Hê-rô-đê mặc cẩm bào, ngồi trên ngai, ngỏ lời với họ.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.875Z",
+      "updatedAt": "2024-09-10T01:13:14.875Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "6f01b2b0-2ce1-4d84-92a6-ecf684c28bf7",
+      "number": 22,
+      "content": "Dân hoan hô : “Tiếng thần minh, chứ không phải tiếng người phàm !”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.881Z",
+      "updatedAt": "2024-09-10T01:13:14.881Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "b6cf3dec-9c55-4c0b-a73d-6237deabc4b9",
+      "number": 23,
+      "content": "Nhưng ngay lúc đó, thiên sứ của Chúa đánh phạt nhà vua, vì nhà vua đã không tôn vinh Thiên Chúa. Nhà vua bị giòi bọ rúc rỉa nên đã tắt thở.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.886Z",
+      "updatedAt": "2024-09-10T01:13:14.886Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "aa3f1bb2-2144-48d1-b37b-1351ff4dfae3",
+      "number": 24,
+      "content": "Trong khi ấy, lời Thiên Chúa vẫn lan tràn và phát triển.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.902Z",
+      "updatedAt": "2024-09-10T01:13:14.902Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "84f657e1-99bc-4bff-8d4e-47e6e7a151cb",
+      "number": 25,
+      "content": "Còn ông Ba-na-ba và ông Sao-lô, sau khi đã chu toàn công việc phục vụ tại Giê-ru-sa-lem thì trở về, đem theo ông Gio-an, cũng gọi là Mác-cô.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:13:14.921Z",
+      "updatedAt": "2024-09-10T01:13:14.921Z",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "e15c7e2d-450f-4bff-a2ea-b2092dd4ce09",
+      "content": "Ông Phê-rô lại bị bắt và sắp bị xử như ông Gia-cô-bê. Thiên Chúa giải thoát ông. Đây là trình thuật cuối cùng về những đau khổ ông Phê-rô phải chịu. Ông xuất hiện lần chót tại Công đồng Giê-ru-sa-lem. Hoạt động của ông nơi các tín hữu gốc Do-thái giáo chấm dứt, để nhường bước cho ông Phao-lô. Ít ra, ông cũng đã mở đường sang anh em ngoại giáo, như trường hợp ông Co-nê-li-ô. Số phận của các Tông Đồ giống số phận Đức Giê-su. Chính những thử thách, tù đày, chết đã hun đúc đức tin các tín hữu. Ở đây, ta thấy quyền năng và thánh ý của Thiên Chúa đã chi phối mọi sinh hoạt trong Hội Thánh.",
+      "position": 42,
+      "order": 0,
+      "createdAt": "2024-09-10T01:13:14.653Z",
+      "updatedAt": "2024-09-10T01:13:14.653Z",
+      "headingId": "a8b054ad-5ab0-42c9-be64-1a9323e59d15",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "3f438dd8-942e-4dbb-8781-614a599f1a53",
+      "content": "Có lẽ biến cố này xảy ra trước nạn đói (11,27-30).",
+      "position": 10,
+      "order": 1,
+      "createdAt": "2024-09-10T01:13:14.659Z",
+      "updatedAt": "2024-09-10T01:13:14.659Z",
+      "verseId": "887c951c-f53e-4acd-b44f-b3646c270efa",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ab3fb280-0e64-4db4-8909-c7e9bf12f942",
+      "content": "Vua Hê-rô-đê Ác-ríp-pa I cai trị Giu-đê và Sa-ma-ri từ năm 41-44, là cháu của vua Hê-rô-đê An-ti-pa.",
+      "position": 24,
+      "order": 2,
+      "createdAt": "2024-09-10T01:13:14.664Z",
+      "updatedAt": "2024-09-10T01:13:14.664Z",
+      "verseId": "887c951c-f53e-4acd-b44f-b3646c270efa",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "3d020f50-fcc6-42cd-848f-c8ced63dd8b3",
+      "content": "X. Mt 20,22-23. Ông Gia-cô-bê là tông đồ đầu tiên đã chết vì danh Đức Giê-su. Đây là cuộc bách hại đích thực. Tuy nhiên không ai biết rõ lý do đã khiến nhà vua giết ông Gia-cô-bê.",
+      "position": 37,
+      "order": 3,
+      "createdAt": "2024-09-10T01:13:14.675Z",
+      "updatedAt": "2024-09-10T01:13:14.675Z",
+      "verseId": "76dd4127-fcf7-49e8-b008-fe505a12f083",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "e4f3324e-9050-4382-a3f7-e82eeca71e90",
+      "content": "Tuần lễ Vượt Qua từ ngày 14 đến ngày 21 tháng Ni-xan. Trong tuần này, người theo Do-thái giáo ăn Bánh Không Men, để tưởng nhớ biến cố Xuất Hành (x. Mt 26,17 ; 1 Cr 5,7-8 ; Xh 12,1).",
+      "position": 118,
+      "order": 4,
+      "createdAt": "2024-09-10T01:13:14.691Z",
+      "updatedAt": "2024-09-10T01:13:14.691Z",
+      "verseId": "fada6d8c-1cf6-46b0-a438-f50d292f452b",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "b71bc442-9c24-4834-bd0e-f52e3927502e",
+      "content": "Hoặc bị giam ở pháo đài An-tô-ni-a, hoặc ở dinh Hê-rô-đê.",
+      "position": 38,
+      "order": 5,
+      "createdAt": "2024-09-10T01:13:14.701Z",
+      "updatedAt": "2024-09-10T01:13:14.701Z",
+      "verseId": "9f1c8430-a5ae-49d9-ad6e-ce11588f7d4d",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "271495fb-6d9a-49e3-bf46-ba5653b153ca",
+      "content": "Tránh làm ô uế ngày lễ Vượt Qua, vì máu là một thứ cấm kỵ.",
+      "position": 146,
+      "order": 6,
+      "createdAt": "2024-09-10T01:13:14.706Z",
+      "updatedAt": "2024-09-10T01:13:14.706Z",
+      "verseId": "9f1c8430-a5ae-49d9-ad6e-ce11588f7d4d",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "31b8b816-6ee0-453e-9880-9edf29285292",
+      "content": "Db : Thêm <i>xuống bảy bậc thang</i>.",
+      "position": 132,
+      "order": 7,
+      "createdAt": "2024-09-10T01:13:14.752Z",
+      "updatedAt": "2024-09-10T01:13:14.752Z",
+      "verseId": "1ec6c269-5b50-457b-8b9f-e5fc7278b707",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "2ae9c318-1912-4c51-a3f9-c9944c05c3dd",
+      "content": "Ông được nhắc nhở trong Cv 12,25 ; 15,37. Có khi chỉ gọi là Mác-cô (15,39) ; có khi gọi là Gio-an (13,5.13). Gio-an là tên gọi theo Do-thái ; Mác-cô gọi theo Rô-ma. Ông là anh em họ với ông Ba-na-ba (x. Cl 4,10). Ông là trợ lý của ông Phao-lô và ở với ông Phao-lô, khi ông này bị tù ở Rô-ma (Cl 4,10 ; Plm 24 ; 2 Tm 4,11). Ông cũng là môn đệ của ông Phê-rô, được ông Phê-rô gọi là <i>con</i> (1 Pr 5,13). Ông là tác giả sách Tin Mừng thứ hai.",
+      "position": 85,
+      "order": 8,
+      "createdAt": "2024-09-10T01:13:14.774Z",
+      "updatedAt": "2024-09-10T01:13:14.774Z",
+      "verseId": "c425d8ab-6794-48ca-9af2-2e0d0a7e17ad",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ee2e0640-269d-4042-aa8e-3e5d03ae5604",
+      "content": "Niềm tin mãnh liệt của người Do-thái về <i>thiên sứ bản mệnh</i>.",
+      "position": 102,
+      "order": 9,
+      "createdAt": "2024-09-10T01:13:14.800Z",
+      "updatedAt": "2024-09-10T01:13:14.800Z",
+      "verseId": "cafcc46f-d5e9-4dae-8627-6687d44b6d10",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "cfd1ef76-0d13-45fe-a559-f2fed48e3cba",
+      "content": "Có lẽ ông được nói trong Mt 13,55 là <i>anh em của Chúa</i>. Ông đứng đầu cộng đoàn Giê-ru-sa-lem gốc Do-thái giáo, sau khi ông Phê-rô đi khỏi đây (x. Cv 15,13 ; 21,18 ; 1 Cr 15,7 ; Ga 2,9.12).",
+      "position": 136,
+      "order": 10,
+      "createdAt": "2024-09-10T01:13:14.816Z",
+      "updatedAt": "2024-09-10T01:13:14.816Z",
+      "verseId": "0b2de537-0943-431d-b020-d6507767e348",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "19afbf34-adc6-46f6-9ce9-fe34e19dc119",
+      "content": "Đi Rô-ma ? Với tư cách đứng đầu Hội Thánh, ông Phê-rô đến thăm các cộng đoàn khác, nhất là những cộng đoàn gốc Do-thái giáo.",
+      "position": 188,
+      "order": 11,
+      "createdAt": "2024-09-10T01:13:14.822Z",
+      "updatedAt": "2024-09-10T01:13:14.822Z",
+      "verseId": "0b2de537-0943-431d-b020-d6507767e348",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "925ab45e-4466-4d46-a1e3-a816a6ea19c8",
+      "content": "Để tử tội trốn thoát, lính canh phải thế mạng (16,27 ; 27,42).",
+      "position": 99,
+      "order": 12,
+      "createdAt": "2024-09-10T01:13:14.849Z",
+      "updatedAt": "2024-09-10T01:13:14.849Z",
+      "verseId": "95a0f6c5-bc98-4541-9cfb-15fbc47588ed",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "a9573b50-3bf4-4674-8378-2009829331e7",
+      "content": "Người ta không rõ căn nguyên bệnh tật của vua Hê-rô-đê. Truyền thống bình dân giải thích đó là sự trừng phạt của Thiên Chúa.",
+      "position": 25,
+      "order": 13,
+      "createdAt": "2024-09-10T01:13:14.865Z",
+      "updatedAt": "2024-09-10T01:13:14.865Z",
+      "headingId": "50cf38ce-a8ca-404d-bf35-b6dd23034d0b",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "4bb2054f-d8fb-4fce-938b-202de1057c14",
+      "content": "Hai thành phố hải cảng này sống bằng thương nghiệp. Vấn đề lương thực, họ phải nhờ các miền lân cận cung cấp. Công vụ mô tả tranh chấp giữa vua Hê-rô-đê và các lân bang hoàn toàn trong lãnh vực kinh tế. Diễn tiến lại theo hướng tôn giáo. Thiên Chúa can thiệp : vua Hê-rô-đê phải chết vì những lời tán tụng quá mức của dân.",
+      "position": 48,
+      "order": 14,
+      "createdAt": "2024-09-10T01:13:14.870Z",
+      "updatedAt": "2024-09-10T01:13:14.870Z",
+      "verseId": "6184afc9-9f9b-408b-aeae-bac17c4100c6",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "cd099be1-061d-4059-857f-4faefedb59f4",
+      "content": "Giống trường hợp vua An-ti-ô-khô Ê-pi-pha-nê (x. 2 Mcb 9,5.9). Theo sử gia Giô-xếp, vua Hê-rô-đê bị chết vì chứng đau ruột. Ông chết khoảng tháng ba năm 44.",
+      "position": 123,
+      "order": 15,
+      "createdAt": "2024-09-10T01:13:14.891Z",
+      "updatedAt": "2024-09-10T01:13:14.891Z",
+      "verseId": "b6cf3dec-9c55-4c0b-a73d-6237deabc4b9",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ccfbc0dc-0c76-47e2-87fa-f240fd1a6465",
+      "content": "An-ti-ô-khi-a trở thành trung tâm giảng Tin Mừng, sau biến cố ông Tê-pha-nô tử đạo. Nơi này sẽ là điểm phát xuất cho các chuyến truyền giáo tại Tiểu Á, Hy-lạp. Hội Thánh dần dần tách khỏi Giê-ru-sa-lem, không liên hệ với Đền Thờ, nếp sống cổ truyền Do-thái.",
+      "position": 47,
+      "order": 16,
+      "createdAt": "2024-09-10T01:13:14.912Z",
+      "updatedAt": "2024-09-10T01:13:14.912Z",
+      "headingId": "b115816d-faca-4e5c-84f5-c7e05932ab96",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    }
+  ],
+  "headings": [
+    {
+      "id": "a8b054ad-5ab0-42c9-be64-1a9323e59d15",
+      "content": "Ông Phê-rô bị bắt và được cứu cách lạ lùng",
+      "order": 0,
+      "createdAt": "2024-09-10T01:13:14.648Z",
+      "updatedAt": "2024-09-10T01:13:14.648Z",
+      "verseId": "887c951c-f53e-4acd-b44f-b3646c270efa",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "50cf38ce-a8ca-404d-bf35-b6dd23034d0b",
+      "content": "Cái chết của vua Hê-rô-đê",
+      "order": 0,
+      "createdAt": "2024-09-10T01:13:14.860Z",
+      "updatedAt": "2024-09-10T01:13:14.860Z",
+      "verseId": "6184afc9-9f9b-408b-aeae-bac17c4100c6",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "b115816d-faca-4e5c-84f5-c7e05932ab96",
+      "content": "Ông Ba-na-ba và ông Sao-lô trở về An-ti-ô-khi-a",
+      "order": 0,
+      "createdAt": "2024-09-10T01:13:14.907Z",
+      "updatedAt": "2024-09-10T01:13:14.907Z",
+      "verseId": "aa3f1bb2-2144-48d1-b37b-1351ff4dfae3",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    }
+  ],
+  "references": [
+    {
+      "id": "8d773649-130e-4247-abb3-e0fac8eaa6a6",
+      "content": "Mc 10,35-40",
+      "position": 28,
+      "order": 0,
+      "createdAt": "2024-09-10T01:13:14.680Z",
+      "updatedAt": "2024-09-10T01:13:14.680Z",
+      "verseId": "76dd4127-fcf7-49e8-b008-fe505a12f083",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "e32add08-877b-4206-b633-251a6464edc5",
+      "content": "Lc 22,44; Gc 5,16",
+      "position": 91,
+      "order": 1,
+      "createdAt": "2024-09-10T01:13:14.716Z",
+      "updatedAt": "2024-09-10T01:13:14.716Z",
+      "verseId": "e3f512b6-b090-40e5-9226-9c96bf0d64a5",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "69029412-6abd-4a9e-a1a2-9cc9130d5d43",
+      "content": "Cv 6,15",
+      "position": 5,
+      "order": 2,
+      "createdAt": "2024-09-10T01:13:14.731Z",
+      "updatedAt": "2024-09-10T01:13:14.731Z",
+      "verseId": "3c496a00-0892-4660-91a2-bf18dc0f4b41",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ec0c0fbf-d54d-4020-a839-7467cee5c8ac",
+      "content": "Cv 16,25-26",
+      "position": 95,
+      "order": 3,
+      "createdAt": "2024-09-10T01:13:14.757Z",
+      "updatedAt": "2024-09-10T01:13:14.757Z",
+      "verseId": "1ec6c269-5b50-457b-8b9f-e5fc7278b707",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "c3b473f5-4c9a-434f-a588-7baabb610725",
+      "content": "Gc 5,15-16",
+      "position": 126,
+      "order": 4,
+      "createdAt": "2024-09-10T01:13:14.779Z",
+      "updatedAt": "2024-09-10T01:13:14.779Z",
+      "verseId": "c425d8ab-6794-48ca-9af2-2e0d0a7e17ad",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "5ac7d673-bf34-4dc0-8a84-eae257138cc3",
+      "content": "1 Cr 15,4",
+      "position": 127,
+      "order": 5,
+      "createdAt": "2024-09-10T01:13:14.830Z",
+      "updatedAt": "2024-09-10T01:13:14.830Z",
+      "verseId": "0b2de537-0943-431d-b020-d6507767e348",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "ba9db871-15e2-4b3b-af85-f53f0fcfe206",
+      "content": "2 Sm 24,16-17; 2 V 19,35",
+      "position": 37,
+      "order": 6,
+      "createdAt": "2024-09-10T01:13:14.897Z",
+      "updatedAt": "2024-09-10T01:13:14.897Z",
+      "verseId": "b6cf3dec-9c55-4c0b-a73d-6237deabc4b9",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    },
+    {
+      "id": "cfc8ef26-ee99-424c-b4c1-02d593a0a4f1",
+      "content": "Cv 6,7",
+      "position": 14,
+      "order": 7,
+      "createdAt": "2024-09-10T01:13:14.916Z",
+      "updatedAt": "2024-09-10T01:13:14.916Z",
+      "verseId": "aa3f1bb2-2144-48d1-b37b-1351ff4dfae3",
+      "chapterId": "e8bc7e78-e39a-4d15-970b-7f77675bb9ae"
+    }
+  ]
+}

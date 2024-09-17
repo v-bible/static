@@ -1,0 +1,464 @@
+{
+  "chapter": {
+    "id": "a3b73cae-d35b-4a81-b069-1f87df415eb8",
+    "number": 2,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.351Z",
+    "updatedAt": "2024-09-10T00:39:05.351Z",
+    "bookId": "1c87efec-37c9-47ee-a66d-6e1c0cc676db"
+  },
+  "verses": [
+    {
+      "id": "888607c2-2304-4da2-9524-d4ee0333f06e",
+      "number": 1,
+      "content": "Ngày thứ ba, có tiệc cưới tại Ca-na miền Ga-li-lê. Trong tiệc cưới có thân mẫu Đức Giê-su.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.372Z",
+      "updatedAt": "2024-09-10T00:49:39.372Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "9bb90ec8-fe57-4d09-90fd-8879cadf91cd",
+      "number": 2,
+      "content": "Đức Giê-su và các môn đệ cũng được mời tham dự.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.386Z",
+      "updatedAt": "2024-09-10T00:49:39.386Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "f892dd00-98d0-4aac-a4bc-8b27a1cb9916",
+      "number": 3,
+      "content": "Khi thấy thiếu rượu, thân mẫu Đức Giê-su nói với Người : “Họ hết rượu rồi.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.390Z",
+      "updatedAt": "2024-09-10T00:49:39.390Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "fc539eea-52ec-4c12-b21c-5c28b5388ec8",
+      "number": 4,
+      "content": "Đức Giê-su đáp : “Thưa bà, chuyện đó can gì đến bà và tôi ? Giờ của tôi chưa đến.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.394Z",
+      "updatedAt": "2024-09-10T00:49:39.394Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "98a0277b-f7b4-4441-b13e-85678d451c07",
+      "number": 5,
+      "content": "Thân mẫu Người nói với gia nhân : “Người bảo gì, các anh cứ việc làm theo.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.410Z",
+      "updatedAt": "2024-09-10T00:49:39.410Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "7115b6ed-90eb-4e78-9426-650c7909e0c5",
+      "number": 6,
+      "content": "Ở đó có đặt sáu chum đá dùng vào việc thanh tẩy theo thói tục người Do-thái, mỗi chum chứa được khoảng tám mươi hoặc một trăm hai mươi lít nước.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.415Z",
+      "updatedAt": "2024-09-10T00:49:39.415Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "c33b74a6-cb97-45eb-81fb-aff55f9a22a5",
+      "number": 7,
+      "content": "Đức Giê-su bảo họ : “Các anh đổ đầy nước vào chum đi !” Và họ đổ đầy tới miệng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.420Z",
+      "updatedAt": "2024-09-10T00:49:39.420Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "d1dd193d-25d5-4765-8659-c814c40bf807",
+      "number": 8,
+      "content": "Rồi Người nói với họ : “Bây giờ các anh múc và đem cho ông quản tiệc.” Họ liền đem cho ông.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.432Z",
+      "updatedAt": "2024-09-10T00:49:39.432Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "80ab491a-6bde-49ad-a69b-670ddaa3babd",
+      "number": 9,
+      "content": "Khi người quản tiệc nếm thử nước đã hoá thành rượu (mà không biết rượu từ đâu ra, còn gia nhân đã múc nước thì biết), ông mới gọi tân lang lại",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.436Z",
+      "updatedAt": "2024-09-10T00:49:39.436Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "e13de2f3-f560-4bab-8b0c-587c3161521f",
+      "number": 10,
+      "content": "và nói : “Ai ai cũng thết rượu ngon trước, và khi khách đã ngà ngà mới đãi rượu xoàng hơn. Còn anh, anh lại giữ rượu ngon mãi cho đến bây giờ.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.441Z",
+      "updatedAt": "2024-09-10T00:49:39.441Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "3809a559-d84a-4323-9d57-8bf7322280ea",
+      "number": 11,
+      "content": "Đức Giê-su đã làm dấu lạ đầu tiên này tại Ca-na miền Ga-li-lê và bày tỏ vinh quang của Người. Các môn đệ đã tin vào Người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.446Z",
+      "updatedAt": "2024-09-10T00:49:39.446Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "3bcff6e9-aa39-4519-9f7d-eb9c7acc649b",
+      "number": 12,
+      "content": "Sau đó, Người cùng với thân mẫu, anh em và các môn đệ xuống Ca-phác-na-um và ở lại đó ít ngày.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.450Z",
+      "updatedAt": "2024-09-10T00:49:39.450Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "fa552605-5489-4709-8c26-d4e08ba71857",
+      "number": 13,
+      "content": "Gần đến lễ Vượt Qua của người Do-thái, Đức Giê-su lên thành Giê-ru-sa-lem.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.455Z",
+      "updatedAt": "2024-09-10T00:49:39.455Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "b36fb045-e596-409d-9c22-bb394b795b25",
+      "number": 14,
+      "content": "Người thấy trong Đền Thờ có những kẻ bán chiên, bò, bồ câu, và những người đang ngồi đổi tiền.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.473Z",
+      "updatedAt": "2024-09-10T00:49:39.473Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "d4ac462b-204d-4503-8489-37cceccd0f3e",
+      "number": 15,
+      "content": "Người liền lấy dây làm roi mà xua đuổi tất cả chiên cũng như bò, ra khỏi Đền Thờ ; còn tiền của những người đổi bạc, Người đổ tung ra, và lật nhào bàn ghế của họ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.478Z",
+      "updatedAt": "2024-09-10T00:49:39.478Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "8f9f13de-d4b0-4cef-9a42-06b8665c589a",
+      "number": 16,
+      "content": "Người nói với những kẻ bán bồ câu : “Đem tất cả những thứ này ra khỏi đây, đừng biến nhà Cha tôi thành nơi buôn bán.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.484Z",
+      "updatedAt": "2024-09-10T00:49:39.484Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "b8fb8cf0-066f-4485-b155-5c50f23c0e57",
+      "number": 17,
+      "content": "Các môn đệ của Người nhớ lại lời đã chép trong Kinh Thánh : Vì nhiệt tâm lo việc nhà Chúa, mà tôi đây sẽ phải thiệt thân.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.489Z",
+      "updatedAt": "2024-09-10T00:49:39.489Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "9db8f16f-3a0c-4f95-bd85-3634516021b0",
+      "number": 18,
+      "content": "Người Do-thái hỏi Đức Giê-su : “Ông lấy dấu lạ nào chứng tỏ cho chúng tôi thấy là ông có quyền làm như thế ?”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.506Z",
+      "updatedAt": "2024-09-10T00:49:39.506Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "2fa0e891-771d-491e-93c4-41eba0094605",
+      "number": 19,
+      "content": "Đức Giê-su đáp : “Các ông cứ phá huỷ Đền Thờ này đi ; nội ba ngày, tôi sẽ xây dựng lại.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.510Z",
+      "updatedAt": "2024-09-10T00:49:39.510Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "e1a19246-f8fd-4fc3-b054-6fbd8ca5f325",
+      "number": 20,
+      "content": "Người Do-thái nói : “Đền Thờ này phải mất bốn mươi sáu năm mới xây xong, thế mà nội trong ba ngày ông xây lại được sao ?”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.515Z",
+      "updatedAt": "2024-09-10T00:49:39.515Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "c2e1c49a-71ee-47f1-be46-891ac000c7d8",
+      "number": 21,
+      "content": "Nhưng Đền Thờ Đức Giê-su muốn nói ở đây là chính thân thể Người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.526Z",
+      "updatedAt": "2024-09-10T00:49:39.526Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "7996f156-8cd5-4555-8ad1-bffe5d4027c1",
+      "number": 22,
+      "content": "Vậy, khi Người từ cõi chết trỗi dậy, các môn đệ nhớ lại Người đã nói điều đó, họ tin vào Kinh Thánh và lời Đức Giê-su đã nói.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.537Z",
+      "updatedAt": "2024-09-10T00:49:39.537Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "aca4c287-2f6a-4184-a5f0-43d2609a925e",
+      "number": 23,
+      "content": "Trong lúc Đức Giê-su ở Giê-ru-sa-lem vào dịp lễ Vượt Qua, có nhiều kẻ tin vào danh Người bởi đã chứng kiến các dấu lạ Người làm.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.541Z",
+      "updatedAt": "2024-09-10T00:49:39.541Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "3e4f8e6f-8808-4e0d-a992-4a03036e94d5",
+      "number": 24,
+      "content": "Nhưng chính Đức Giê-su không tin họ, vì Người biết họ hết thảy,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.550Z",
+      "updatedAt": "2024-09-10T00:49:39.550Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "9078ef81-df8c-4c95-9f5c-83a5084a3217",
+      "number": 25,
+      "content": "và không cần ai làm chứng về con người. Quả thật, chính Người biết có gì trong lòng con người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T00:49:39.555Z",
+      "updatedAt": "2024-09-10T00:49:39.555Z",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "d388e54f-f90e-4b36-8e1b-f24defa5d8dd",
+      "content": "Từ Ga 2,1 trở đi cho đến gần cuối ch. 6, tác giả Gio-an nói đến những thực thể mới thuộc nhiệm cục mới : 2,1-11 (nhiệm cục mới, đạo lý mới) ; 2,13-22 (Đền thờ mới) ; 3,1-8 (ơn tái sinh) ; 4,10-14 (nước hằng sống) ; 4,20-24 (phụng tự mới) ; 6,32-58 (bánh trường sinh).",
+      "position": 49,
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:39.384Z",
+      "updatedAt": "2024-09-10T00:49:39.384Z",
+      "verseId": "888607c2-2304-4da2-9524-d4ee0333f06e",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "b487e681-3348-44e5-9f89-81068f178666",
+      "content": "Thân mẫu Đức Giê-su rất nhạy cảm đối với nhu cầu cấp thời của đôi tân hôn, nhận thấy ngay thế kẹt của họ (thiếu rượu). Đàng khác, bà không chỉ đến dùng tiệc như những người khách khác : bà cảm thấy <i>ở trong cuộc</i> như người nhà của đôi tân hôn, rất quan tâm đến họ, nên mới nói với Đức Giê-su, Con của bà : <i>Họ hết rượu rồi</i>. Lời này cho thấy bà rất can đảm, vì bà dám xin Đức Giê-su can thiệp, hy vọng rằng Đức Giê-su sẽ tỏ ra hữu hiệu để gỡ thế kẹt cho đôi tân hôn.",
+      "position": 73,
+      "order": 1,
+      "createdAt": "2024-09-10T00:49:39.392Z",
+      "updatedAt": "2024-09-10T00:49:39.392Z",
+      "verseId": "f892dd00-98d0-4aac-a4bc-8b27a1cb9916",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "6d39e85c-ceef-449d-a92b-7f2743851ab6",
+      "content": "ds : <i>Hỡi người phụ nữ, cái gì cho con và cho bà</i> ? Ở đây và ở Ga 19,26, Đức Giê-su dùng từ <i>người phụ nữ (gunê)</i> để gọi Đức Ma-ri-a, thân mẫu Người. Cách gọi này gợi nhớ St 3,15.20 : Đức Ma-ri-a là bà E-và mới, <i>mẹ của chúng sinh</i>. Lời của Đức Giê-su (2,4b) là một kiểu nói Do-thái nhằm từ chối một sự can thiệp chưa hợp thời, chưa đúng lúc (x. Tl 11,12 ; 2 Sm 16,10 ; 1 V 17,18...).",
+      "position": 57,
+      "order": 2,
+      "createdAt": "2024-09-10T00:49:39.396Z",
+      "updatedAt": "2024-09-10T00:49:39.396Z",
+      "verseId": "fc539eea-52ec-4c12-b21c-5c28b5388ec8",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "1dec71a7-1cf8-4940-8475-7f7bf7b40597",
+      "content": "Đức Giê-su không thể cho xảy ra trước thời hạn <i>giờ</i> của Người (7,30 ; 8,20 ; 13,1). <i>Giờ</i> đó là lúc Người phải chịu chết (12,27...) và được tôn vinh (12,23 ; 13,31...), lúc Người <i>từ thế gian về với Chúa Cha</i> (13,1...). Tuy chưa có thể ban rượu của Giao Ước Mới vì <i>giờ</i> của Người chưa đến, ít ra Đức Giê-su sắp làm một <i>dấu lạ</i> tượng trưng cho việc ban thứ rượu mới đó. Trực giác của người phụ nữ, của người mẹ, cho thân mẫu Đức Giê-su thấy là Người sắp can thiệp.",
+      "position": 80,
+      "order": 3,
+      "createdAt": "2024-09-10T00:49:39.399Z",
+      "updatedAt": "2024-09-10T00:49:39.399Z",
+      "verseId": "fc539eea-52ec-4c12-b21c-5c28b5388ec8",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "0c94dcbd-9c20-4cf2-8f6b-791ad3e5b2d1",
+      "content": "Đức Giê-su quyết định hành động, nên ra lệnh cho gia nhân đổ đầy nước vào sáu chum đá và biến nước thành rượu. Đó là <i>dấu lạ</i> đầu tiên tại Ca-na miền Ga-li-lê (c.11). <i>Dấu lạ</i> (<i>sêmeion</i>) là một tác động cụ thể diễn tả quyền năng nhằm cho thấy một thực thể thiêng liêng. <i>Dấu lạ đầu tiên</i> này gây nên một sự đổi mới trước hết hữu hình : nước hoá thành rượu. Rượu tượng trưng cho trật tự mới, nhiệm cục mới đối với nước ; nước chỉ những nghi thức của đạo Do-thái thuộc nhiệm cục cũ. Theo ông Ô-ri-giê-nê và một số nhà chú giải dựa vào Cn 9,5 (Đức Khôn Ngoan mời con người đến dùng tiệc), rượu cũng tượng trưng cho đạo lý mới, lời Chúa mà Đức Ki-tô dọn để khoản đãi với tư cách là Đức Khôn Ngoan, Ngôi Lời của Thiên Chúa. <i>Dấu lạ đầu tiên</i> tại tiệc cưới Ca-na còn nhắm mục tiêu tỏ bày vinh quang của Đức Giê-su, nghĩa là quyền năng thần linh của Người (c.11b). <i>Ngày thứ ba</i> (2,1) ám chỉ xa đến biến cố phục sinh, lúc Đức Giê-su sống lại vinh quang từ cõi chết. <i>Ngày thứ ba</i> trong sự kiện này là ngày trong đó Đức Giê-su tỏ bày trước thời hạn vinh quang của Người qua một dấu lạ. <i>Dấu lạ đầu tiên</i> này góp phần biến các môn đệ thành những con người mới, những con người tin vào Người (c.11c).",
+      "position": 52,
+      "order": 4,
+      "createdAt": "2024-09-10T00:49:39.426Z",
+      "updatedAt": "2024-09-10T00:49:39.426Z",
+      "verseId": "c33b74a6-cb97-45eb-81fb-aff55f9a22a5",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "70149a5b-5095-4fa1-a5b8-377b25e00bb7",
+      "content": "Tác giả Gio-an đổi thì của động từ trong Tv 69,10 : động từ <i>thiệt thân</i> ở thì tương lai (<i>sẽ phải thiệt thân</i>) có nghĩa là lòng nhiệt thành đối với Đền Thờ sẽ dẫn Đức Giê-su đến cái chết. Cách áp dụng Tv 69,10 này liên quan đến cái chết của Đức Giê-su dọn đường cho lời giải thích về Đền Thờ liên hệ đến sự sống lại của Người.",
+      "position": 120,
+      "order": 5,
+      "createdAt": "2024-09-10T00:49:39.495Z",
+      "updatedAt": "2024-09-10T00:49:39.495Z",
+      "verseId": "b8fb8cf0-066f-4485-b155-5c50f23c0e57",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "615d6c29-e08a-4f94-80b1-788751197754",
+      "content": "Các người Do-thái chỉ hiểu lời của Đức Giê-su trong c.19 theo nghĩa đen. Trong Ga, Đức Giê-su hay dùng các từ có hai nghĩa (nghĩa tự nhiên và nghĩa bóng, nghĩa siêu nhiên) : 3,4 ; 4,11.15.33 ; 6,34 ; 7,33-36 ; 11,11-13.23-24 ; 13,36-37 ; 14,5.8. Hiểu lầm là kiểu hành văn tác giả Gio-an dùng để cho Đức Giê-su có dịp làm sáng tỏ một ý tưởng, quảng diễn một vấn đề, một đề tài. Công việc xây Đền Thờ bắt đầu từ năm 20/19 tCN và sẽ chỉ hoàn tất vào năm 63. Theo Ga, lúc xảy ra biến cố nói ở đây (vào năm 26/27), những phần chính yếu đã làm xong, tuy việc xây cất chưa hoàn thành.",
+      "position": 118,
+      "order": 6,
+      "createdAt": "2024-09-10T00:49:39.521Z",
+      "updatedAt": "2024-09-10T00:49:39.521Z",
+      "verseId": "e1a19246-f8fd-4fc3-b054-6fbd8ca5f325",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "932424f4-6179-466b-8d96-9266874e820f",
+      "content": "Thân thể Đức Ki-tô phục sinh là nơi Thiên Chúa hiện diện và tỏ mình cho loài người (1,14), là Đền Thờ mới, Đền Thờ thực thụ, là nơi thờ phượng Thiên Chúa trong thần khí và sự thật (4,23-24). Ý tưởng này là điểm chính yếu trong Ga 2,13-22.",
+      "position": 63,
+      "order": 7,
+      "createdAt": "2024-09-10T00:49:39.531Z",
+      "updatedAt": "2024-09-10T00:49:39.531Z",
+      "verseId": "c2e1c49a-71ee-47f1-be46-891ac000c7d8",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    }
+  ],
+  "headings": [
+    {
+      "id": "d65d404a-bfa8-4c1c-9538-6a55cfa76773",
+      "content": "Tiệc cưới Ca-na",
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:39.381Z",
+      "updatedAt": "2024-09-10T00:49:39.381Z",
+      "verseId": "888607c2-2304-4da2-9524-d4ee0333f06e",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "629d35ed-7fe8-4e9e-b507-72782f16f90a",
+      "content": "B. LỄ VƯỢT QUA THỨ NHẤT",
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:39.460Z",
+      "updatedAt": "2024-09-10T00:49:39.460Z",
+      "verseId": "fa552605-5489-4709-8c26-d4e08ba71857",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "dda85931-2170-4b49-8162-7339bd6cb589",
+      "content": "Đức Giê-su ở tại Giê-ru-sa-lem",
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:39.546Z",
+      "updatedAt": "2024-09-10T00:49:39.546Z",
+      "verseId": "aca4c287-2f6a-4184-a5f0-43d2609a925e",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "c11f5d5e-14f1-4139-a688-f09d530b5c95",
+      "content": "Đức Giê-su tẩy uế Đền Thờ",
+      "order": 1,
+      "createdAt": "2024-09-10T00:49:39.464Z",
+      "updatedAt": "2024-09-10T00:49:39.464Z",
+      "verseId": "fa552605-5489-4709-8c26-d4e08ba71857",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    }
+  ],
+  "references": [
+    {
+      "id": "30a995db-bd05-4b7d-8c93-adcce4a2a305",
+      "content": "Ga 7,30; 8,20",
+      "position": 60,
+      "order": 0,
+      "createdAt": "2024-09-10T00:49:39.405Z",
+      "updatedAt": "2024-09-10T00:49:39.405Z",
+      "verseId": "fc539eea-52ec-4c12-b21c-5c28b5388ec8",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "1ba44c85-0ec3-465f-89e9-06e3b7ffb1e0",
+      "content": "Mt 21,12-13; Mc 11,15-17; Lc 19,45-46",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T00:49:39.468Z",
+      "updatedAt": "2024-09-10T00:49:39.468Z",
+      "headingId": "c11f5d5e-14f1-4139-a688-f09d530b5c95",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    },
+    {
+      "id": "fc10b569-a9c0-4efc-b5e2-5a5d8abc6697",
+      "content": "Tv 69,10",
+      "position": 60,
+      "order": 2,
+      "createdAt": "2024-09-10T00:49:39.500Z",
+      "updatedAt": "2024-09-10T00:49:39.500Z",
+      "verseId": "b8fb8cf0-066f-4485-b155-5c50f23c0e57",
+      "chapterId": "a3b73cae-d35b-4a81-b069-1f87df415eb8"
+    }
+  ]
+}

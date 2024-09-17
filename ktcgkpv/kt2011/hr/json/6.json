@@ -1,0 +1,546 @@
+{
+  "chapter": {
+    "id": "3b79b333-0b6e-429f-8046-94f01fe8ca7d",
+    "number": 6,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.364Z",
+    "updatedAt": "2024-09-10T00:39:05.364Z",
+    "bookId": "362c7cfa-7c69-4448-8637-97999abe424e"
+  },
+  "verses": [
+    {
+      "id": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "number": 1,
+      "content": "Vì thế, gác một bên giáo huấn sơ đẳng về Đức Ki-tô, chúng ta hãy vươn tới trình độ giáo huấn trưởng thành mà không trở lại những điều căn bản, là lòng sám hối ăn năn vì những việc đưa tới sự chết, là niềm tin vào Thiên Chúa,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.046Z",
+      "updatedAt": "2024-09-10T01:27:07.046Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "8e32c021-0ad0-405b-b994-f0f687edabf6",
+      "number": 2,
+      "content": "là giáo lý về mấy loại phép rửa ; là nghi thức đặt tay, là vấn đề kẻ chết sống lại và cuộc phán xét cuối cùng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.085Z",
+      "updatedAt": "2024-09-10T01:27:07.085Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "d737891f-7ccd-4a0d-beda-c064a3476d33",
+      "number": 3,
+      "content": "Đó là điều chúng ta sắp làm, nếu Thiên Chúa cho phép.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.099Z",
+      "updatedAt": "2024-09-10T01:27:07.099Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "03de7a85-2738-414a-84e2-a9b97401224f",
+      "number": 4,
+      "content": "Quả thật, những kẻ đã một lần được chiếu sáng, đã được nếm thử ân huệ bởi trời, đã được thông chia Thánh Thần,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.102Z",
+      "updatedAt": "2024-09-10T01:27:07.102Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "b85385a2-8743-41cb-bc0d-6367dc2327b7",
+      "number": 5,
+      "content": "đã được thưởng thức Lời tốt đẹp của Thiên Chúa và được cảm nghiệm những sức mạnh của thế giới tương lai,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.112Z",
+      "updatedAt": "2024-09-10T01:27:07.112Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "764fb559-cb2d-44b6-8517-2797a5d2d108",
+      "number": 6,
+      "content": "những kẻ ấy mà sa ngã, thì không thể được đổi mới một lần nữa để sám hối ăn năn, vì họ đã tự tay đóng đinh Con Thiên Chúa vào thập giá một lần nữa và đã công khai sỉ nhục Người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.117Z",
+      "updatedAt": "2024-09-10T01:27:07.117Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "561f68ae-e0b5-4d6c-a82a-b6ff878b8b3c",
+      "number": 7,
+      "content": "Khi mảnh đất nào được thấm mưa thường xuyên đổ xuống và sinh ra những loại cây có ích cho người canh tác, thì mảnh đất ấy nhận được phúc lành của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.125Z",
+      "updatedAt": "2024-09-10T01:27:07.125Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "894dea09-8d75-4ccf-8e90-ec275641a581",
+      "number": 8,
+      "content": "Nhưng nếu chỉ sinh ra những gai cùng góc, thì đó là mảnh đất bỏ đi, bị nguyền rủa đến nơi rồi, và rốt cuộc sẽ bị đốt cháy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.129Z",
+      "updatedAt": "2024-09-10T01:27:07.129Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "53ecad1c-3e3d-466d-8fe5-efb48a7d73a8",
+      "number": 9,
+      "content": "Anh em thân mến, mặc dầu nói như thế, chúng tôi tin chắc rằng anh em ở trong một tình trạng tốt đẹp hơn và thuận lợi để được ơn cứu độ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.134Z",
+      "updatedAt": "2024-09-10T01:27:07.134Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "69a3ce8a-6594-489f-ab76-fddff32c8e2b",
+      "number": 10,
+      "content": "Quả thế, Thiên Chúa không bất công đến nỗi quên việc anh em đã làm và lòng yêu mến anh em đã tỏ ra đối với danh Người, khi trước đấy anh em phục vụ các người trong dân thánh, và hiện nay vẫn còn đang phục vụ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.141Z",
+      "updatedAt": "2024-09-10T01:27:07.141Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "49d33878-abb8-4d46-bf24-926112da640b",
+      "number": 11,
+      "content": "Nhưng chúng tôi ao ước cho mỗi người trong anh em cũng tỏ ra nhiệt thành như thế, để niềm hy vọng của anh em được thực hiện đầy đủ cho đến cùng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.155Z",
+      "updatedAt": "2024-09-10T01:27:07.155Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "685d6e5e-51c8-4412-ad3a-01ff80ccfd66",
+      "number": 12,
+      "content": "Anh em đừng trở nên uể oải, nhưng hãy bắt chước những người nhờ có đức tin và lòng kiên nhẫn mà được thừa hưởng các lời hứa.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.160Z",
+      "updatedAt": "2024-09-10T01:27:07.160Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "7de74232-cab6-4b1f-9180-4302153a2fbf",
+      "number": 13,
+      "content": "Quả thế, khi Thiên Chúa hứa với ông Áp-ra-ham, Người đã không thể lấy danh ai cao trọng hơn mình mà thề, nên đã lấy chính danh mình mà thề",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.174Z",
+      "updatedAt": "2024-09-10T01:27:07.174Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "090556f2-d13d-4a05-ae7d-0f49afb0aa18",
+      "number": 14,
+      "content": "rằng : Ta sẽ ban phúc dư dật cho ngươi và sẽ làm cho dòng dõi ngươi nên đông vô số.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.189Z",
+      "updatedAt": "2024-09-10T01:27:07.189Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "4af40846-2f65-4219-8e82-84e34737c4a2",
+      "number": 15,
+      "content": "Như thế, vì nhẫn nại đợi chờ, ông Áp-ra-ham đã nhận được lời hứa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.194Z",
+      "updatedAt": "2024-09-10T01:27:07.194Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "17a884cd-b401-4324-81ef-c9ab24ac1b3f",
+      "number": 16,
+      "content": "Người ta thường lấy danh một người cao trọng hơn mình mà thề, và lời thề là một bảo đảm chấm dứt mọi tranh chấp giữa người ta với nhau.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.199Z",
+      "updatedAt": "2024-09-10T01:27:07.199Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "1b9ad291-ebba-49d5-ab25-63c612e8459a",
+      "number": 17,
+      "content": "Do đó, vì Thiên Chúa muốn chứng minh rõ hơn cho những người thừa hưởng lời hứa được biết về ý định bất di bất dịch của Người, nên Người đã dùng lời thề mà bảo đảm điều Người đã hứa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.203Z",
+      "updatedAt": "2024-09-10T01:27:07.203Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "7b08fa61-2627-47db-b469-12a7a4a8341a",
+      "number": 18,
+      "content": "Như vậy, cả lời hứa lẫn lời thề đều bất di bất dịch, và khi thề hứa, Thiên Chúa không thể nói dối được. Do đó, chúng ta là những kẻ ẩn náu bên Thiên Chúa, chúng ta được mạnh mẽ khuyến khích nắm giữ niềm hy vọng dành cho chúng ta.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.209Z",
+      "updatedAt": "2024-09-10T01:27:07.209Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "5a69e1ca-3cc0-483f-8ab3-7fcf267cb550",
+      "number": 19,
+      "content": "Chúng ta có niềm hy vọng đó cũng tựa như cái neo chắc chắn và bền vững của tâm hồn, chìm sâu vào bên trong bức màn cung thánh.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.218Z",
+      "updatedAt": "2024-09-10T01:27:07.218Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "1f994f1b-eace-4d81-aa2d-93a71b10b828",
+      "number": 20,
+      "content": "Đó là nơi Đức Giê-su đã vào như người tiền phong mở đường cho chúng ta, sau khi trở thành vị Thượng Tế đời đời theo phẩm trật Men-ki-xê-đê.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T01:27:07.238Z",
+      "updatedAt": "2024-09-10T01:27:07.238Z",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "97175ccb-a9ef-4f09-9778-d0a6e73faa7a",
+      "content": "Dù độc giả không ham thích và sẵn sàng, nhưng tác giả vẫn cứ trình bày cho họ những điều cao sâu và nghĩa lý hơn như đã báo trước trong 5,11.",
+      "position": 37,
+      "order": 0,
+      "createdAt": "2024-09-10T01:27:07.062Z",
+      "updatedAt": "2024-09-10T01:27:07.062Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "f53b3740-1d51-4a50-9ca6-58e120b8f424",
+      "content": "Là những việc người ta làm mà không tin hay làm khi không được ơn nghĩa cùng Chúa (Rm 1,18 – 3,20 ; 5,12.21 ; 6,23 ; 7,5 ; 1 Cr 15,56 ; Ep 2,1 ; Cl 2,13 ; x. Gc 1,15 ; Ga 5,24 ; 1 Ga 3,14).",
+      "position": 195,
+      "order": 1,
+      "createdAt": "2024-09-10T01:27:07.067Z",
+      "updatedAt": "2024-09-10T01:27:07.067Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "8fd38704-e507-4b75-9450-7c35b4ca4f6b",
+      "content": "Mấy loại phép rửa ở đây là những cách thức tẩy rửa của người Do-thái và người ngoại, cũng như phép rửa của ông Gio-an và phép rửa của Đức Ki-tô (x. Cv 18,25 ; 19,1-5).",
+      "position": 31,
+      "order": 2,
+      "createdAt": "2024-09-10T01:27:07.090Z",
+      "updatedAt": "2024-09-10T01:27:07.090Z",
+      "verseId": "8e32c021-0ad0-405b-b994-f0f687edabf6",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "cd955edc-4330-479d-8e46-46551196e37b",
+      "content": "Có ý nói về ánh sáng đức tin (Ep 1,18 ; 3,9 ; 5,13-14) và gợi lên bí tích Thánh Tẩy.",
+      "position": 45,
+      "order": 3,
+      "createdAt": "2024-09-10T01:27:07.105Z",
+      "updatedAt": "2024-09-10T01:27:07.105Z",
+      "verseId": "03de7a85-2738-414a-84e2-a9b97401224f",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "8f27c1f1-dd2f-46fe-86eb-b6b44f463c91",
+      "content": "Sức mạnh của thế giới tương lai đã hoạt động trong cộng đoàn Ki-tô hữu ngay từ bây giờ rồi, bằng chứng là lễ tế của Đức Ki-tô đã thay đổi hẳn đời sống con người và khai diễn một kỷ nguyên mới (x. 1,2+ ; 9,11+).",
+      "position": 103,
+      "order": 4,
+      "createdAt": "2024-09-10T01:27:07.115Z",
+      "updatedAt": "2024-09-10T01:27:07.115Z",
+      "verseId": "b85385a2-8743-41cb-bc0d-6367dc2327b7",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "c0809f11-a774-434b-aae9-e9dd26ed9069",
+      "content": "Có ý nói về tội chối đạo hay bỏ đạo là một tội rất nặng dường như vô phương cứu chữa, vì bỏ đạo tự nó có nghĩa khước từ hẳn Đức Ki-tô và không còn tin gì ở sức cứu độ của lễ tế trên thập giá của Người nữa.",
+      "position": 61,
+      "order": 5,
+      "createdAt": "2024-09-10T01:27:07.120Z",
+      "updatedAt": "2024-09-10T01:27:07.120Z",
+      "verseId": "764fb559-cb2d-44b6-8517-2797a5d2d108",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "f31b73e4-c3bc-498c-ad53-5b309053a14c",
+      "content": "<i>Các thánh</i> : kiểu nói này đã được dùng trong Rm 15,25.26.31 ; 2 Cr 8,4 ; 9,1.12 nhân dịp lạc quyên cho Hội Thánh Giê-ru-sa-lem và có ý chỉ các Ki-tô hữu, đặc biệt các tín hữu thuộc Hội Thánh Mẹ ở Giê-ru-sa-lem, nhất là các Tông Đồ (x. Cv 9,13).",
+      "position": 173,
+      "order": 6,
+      "createdAt": "2024-09-10T01:27:07.145Z",
+      "updatedAt": "2024-09-10T01:27:07.145Z",
+      "verseId": "69a3ce8a-6594-489f-ab76-fddff32c8e2b",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "fa508faa-57a8-4bc0-89b4-8b9b5446d6e2",
+      "content": "Cái neo là biểu tượng của đức cậy, là hình ảnh mô tả ổn định vững chắc.",
+      "position": 48,
+      "order": 7,
+      "createdAt": "2024-09-10T01:27:07.223Z",
+      "updatedAt": "2024-09-10T01:27:07.223Z",
+      "verseId": "5a69e1ca-3cc0-483f-8ab3-7fcf267cb550",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "f2d83f7d-a936-415b-b68b-0db8fa9ca416",
+      "content": "Bức màn che lối vào Nơi Cực Thánh. Phần này được ví như trời, nơi Đức Ki-tô bước vào và được dùng để nói về sự tới gần chính Thiên Chúa (x. 9,24 ; 10,20).",
+      "position": 114,
+      "order": 8,
+      "createdAt": "2024-09-10T01:27:07.228Z",
+      "updatedAt": "2024-09-10T01:27:07.228Z",
+      "verseId": "5a69e1ca-3cc0-483f-8ab3-7fcf267cb550",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    }
+  ],
+  "headings": [
+    {
+      "id": "17ee5652-7d5e-47aa-889f-61d3d71c84d8",
+      "content": "Ý định của tác giả",
+      "order": 0,
+      "createdAt": "2024-09-10T01:27:07.057Z",
+      "updatedAt": "2024-09-10T01:27:07.057Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "89d9927c-f6f7-43d6-9ae2-adee38b41259",
+      "content": "Lời mang lại hy vọng và khích lệ",
+      "order": 0,
+      "createdAt": "2024-09-10T01:27:07.137Z",
+      "updatedAt": "2024-09-10T01:27:07.137Z",
+      "verseId": "53ecad1c-3e3d-466d-8fe5-efb48a7d73a8",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    }
+  ],
+  "references": [
+    {
+      "id": "f430341f-1185-4bf1-b592-c3db9f2f1b5f",
+      "content": "Mt 3,2",
+      "position": 151,
+      "order": 0,
+      "createdAt": "2024-09-10T01:27:07.071Z",
+      "updatedAt": "2024-09-10T01:27:07.071Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "20b67277-267d-4be5-a74a-62e6bd6301b2",
+      "content": "Hr 9,14",
+      "position": 175,
+      "order": 1,
+      "createdAt": "2024-09-10T01:27:07.076Z",
+      "updatedAt": "2024-09-10T01:27:07.076Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "6a1e3a1f-0e44-4e51-a2e0-9c1a0ccbc75d",
+      "content": "Rm 1,16",
+      "position": 205,
+      "order": 2,
+      "createdAt": "2024-09-10T01:27:07.080Z",
+      "updatedAt": "2024-09-10T01:27:07.080Z",
+      "verseId": "c89dc0f7-9e78-408a-883f-07eb1f05f7d2",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "c98c6434-23c3-4aa4-8242-da383ff15468",
+      "content": "Cv 2,38; 1 Tm 4,14",
+      "position": 23,
+      "order": 3,
+      "createdAt": "2024-09-10T01:27:07.093Z",
+      "updatedAt": "2024-09-10T01:27:07.093Z",
+      "verseId": "8e32c021-0ad0-405b-b994-f0f687edabf6",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "6403c8ba-1a41-401a-9010-69fd9b33765b",
+      "content": "Rm 2,6",
+      "position": 91,
+      "order": 4,
+      "createdAt": "2024-09-10T01:27:07.096Z",
+      "updatedAt": "2024-09-10T01:27:07.096Z",
+      "verseId": "8e32c021-0ad0-405b-b994-f0f687edabf6",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "b25a9662-1718-49fb-a1e0-65d4e3fc7406",
+      "content": "Hr 10,32+; 2 Cr 4,4.6; Ep 5,14",
+      "position": 35,
+      "order": 5,
+      "createdAt": "2024-09-10T01:27:07.108Z",
+      "updatedAt": "2024-09-10T01:27:07.108Z",
+      "verseId": "03de7a85-2738-414a-84e2-a9b97401224f",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "40f9b659-8d3e-454b-b38a-a18e2ae912dc",
+      "content": "Rm 5,5",
+      "position": 88,
+      "order": 6,
+      "createdAt": "2024-09-10T01:27:07.110Z",
+      "updatedAt": "2024-09-10T01:27:07.110Z",
+      "verseId": "03de7a85-2738-414a-84e2-a9b97401224f",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "9e971c12-939f-4023-bd3e-f546d0c1732c",
+      "content": "Hr 10,26-31; 12,17; 1 Ga 5,16",
+      "position": 15,
+      "order": 7,
+      "createdAt": "2024-09-10T01:27:07.122Z",
+      "updatedAt": "2024-09-10T01:27:07.122Z",
+      "verseId": "764fb559-cb2d-44b6-8517-2797a5d2d108",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "43c83c42-1bc5-4f9c-a084-b5ba3e65f458",
+      "content": "2 Tm 2,6",
+      "position": 90,
+      "order": 8,
+      "createdAt": "2024-09-10T01:27:07.127Z",
+      "updatedAt": "2024-09-10T01:27:07.127Z",
+      "verseId": "561f68ae-e0b5-4d6c-a82a-b6ff878b8b3c",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "db5e8f75-291c-4857-b1b9-74c4d3db629d",
+      "content": "St 3,17-18",
+      "position": 28,
+      "order": 9,
+      "createdAt": "2024-09-10T01:27:07.132Z",
+      "updatedAt": "2024-09-10T01:27:07.132Z",
+      "verseId": "894dea09-8d75-4ccf-8e90-ec275641a581",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "817c7c2f-73d3-4c1c-b565-bbf94e5ac50f",
+      "content": "Hr 10,32-34; Ep 1,15",
+      "position": 43,
+      "order": 10,
+      "createdAt": "2024-09-10T01:27:07.150Z",
+      "updatedAt": "2024-09-10T01:27:07.150Z",
+      "verseId": "69a3ce8a-6594-489f-ab76-fddff32c8e2b",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "fd3659a5-172d-4398-9dc9-c37d37d413c6",
+      "content": "2 Tx 3,7",
+      "position": 38,
+      "order": 11,
+      "createdAt": "2024-09-10T01:27:07.165Z",
+      "updatedAt": "2024-09-10T01:27:07.165Z",
+      "verseId": "685d6e5e-51c8-4412-ad3a-01ff80ccfd66",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "9ef28d7c-01e8-4774-b399-90a1f68c77d7",
+      "content": "Gl 3,14.29; Ep 1,13-14",
+      "position": 101,
+      "order": 12,
+      "createdAt": "2024-09-10T01:27:07.169Z",
+      "updatedAt": "2024-09-10T01:27:07.169Z",
+      "verseId": "685d6e5e-51c8-4412-ad3a-01ff80ccfd66",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "d5372a01-ec5a-4bb0-af45-d44cbe9ca710",
+      "content": "Rm 4,20",
+      "position": 24,
+      "order": 13,
+      "createdAt": "2024-09-10T01:27:07.179Z",
+      "updatedAt": "2024-09-10T01:27:07.179Z",
+      "verseId": "7de74232-cab6-4b1f-9180-4302153a2fbf",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "0b7e7260-e707-4c5c-85cc-4faf238edf36",
+      "content": "St 22,16",
+      "position": 122,
+      "order": 14,
+      "createdAt": "2024-09-10T01:27:07.183Z",
+      "updatedAt": "2024-09-10T01:27:07.183Z",
+      "verseId": "7de74232-cab6-4b1f-9180-4302153a2fbf",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "d5c17626-4660-47ca-ad4e-6f25295f138d",
+      "content": "Ds 23,19; 2 Tm 2,13; Tt 1,2",
+      "position": 90,
+      "order": 15,
+      "createdAt": "2024-09-10T01:27:07.214Z",
+      "updatedAt": "2024-09-10T01:27:07.214Z",
+      "verseId": "7b08fa61-2627-47db-b469-12a7a4a8341a",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "5c5fe8eb-b1bd-4797-9653-c703a93dc286",
+      "content": "Hr 9,3; 10,20; Lv 16,2; Mt 27,51",
+      "position": 97,
+      "order": 16,
+      "createdAt": "2024-09-10T01:27:07.233Z",
+      "updatedAt": "2024-09-10T01:27:07.233Z",
+      "verseId": "5a69e1ca-3cc0-483f-8ab3-7fcf267cb550",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    },
+    {
+      "id": "6edd4017-13d4-4524-a893-01998a908735",
+      "content": "Hr 5,10; Tv 110,4",
+      "position": 93,
+      "order": 17,
+      "createdAt": "2024-09-10T01:27:07.242Z",
+      "updatedAt": "2024-09-10T01:27:07.242Z",
+      "verseId": "1f994f1b-eace-4d81-aa2d-93a71b10b828",
+      "chapterId": "3b79b333-0b6e-429f-8046-94f01fe8ca7d"
+    }
+  ]
+}

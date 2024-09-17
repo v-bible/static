@@ -1,0 +1,385 @@
+{
+  "chapter": {
+    "id": "dd36a712-5354-446a-a013-4484c8bcc4d8",
+    "number": 101,
+    "ref": "",
+    "createdAt": "2024-09-10T00:39:05.893Z",
+    "updatedAt": "2024-09-10T00:39:05.893Z",
+    "bookId": "36ce7190-e479-4be3-9624-b27d78763f56"
+  },
+  "verses": [
+    {
+      "id": "41d90fee-9968-4ce0-ad55-330298097ebd",
+      "number": 1,
+      "content": "Của vua Đa-vít. Thánh vịnh.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-10T04:31:35.372Z",
+      "updatedAt": "2024-09-10T04:31:35.372Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "c2c24250-b310-410e-b8f0-95bb63a4a106",
+      "number": 1,
+      "content": "Lạy CHÚA, con xin ca ngợi tình thương và công lý :",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.393Z",
+      "updatedAt": "2024-09-10T04:31:35.393Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "f6899892-3bc2-41f3-be39-92cf870938f4",
+      "number": 1,
+      "content": "con đàn hát kính Ngài.",
+      "order": 2,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.404Z",
+      "updatedAt": "2024-09-10T04:31:35.404Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "4157006f-429c-4264-814e-89542f452a7c",
+      "number": 2,
+      "content": "Con nguyện chủ tâm theo đường hoàn hảo,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.409Z",
+      "updatedAt": "2024-09-10T04:31:35.409Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "128b150e-83a1-49ef-a7df-385407362d39",
+      "number": 2,
+      "content": "bao giờ Ngài mới đến cùng con ?",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.423Z",
+      "updatedAt": "2024-09-10T04:31:35.423Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "73e4b73e-fbab-4697-b2e2-5ecf0fff7924",
+      "number": 2,
+      "content": "Con sẽ sống theo lòng thuần khiết",
+      "order": 2,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.428Z",
+      "updatedAt": "2024-09-10T04:31:35.428Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "51eddf5c-7f88-4ce8-b787-1f1972643e95",
+      "number": 2,
+      "content": "ở trong cửa trong nhà.",
+      "order": 3,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.433Z",
+      "updatedAt": "2024-09-10T04:31:35.433Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "321fd667-63be-4ed1-896b-9cd40171e95d",
+      "number": 3,
+      "content": "Việc xấu xa đê tiện, con chẳng để mắt trông.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.438Z",
+      "updatedAt": "2024-09-10T04:31:35.438Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "6ea769c4-fff4-44ff-88a5-0c31525cdcaf",
+      "number": 3,
+      "content": "Con ghét kẻ làm điều tà vạy,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.443Z",
+      "updatedAt": "2024-09-10T04:31:35.443Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "b9367a77-9fcf-422a-841f-56e4c6c0c339",
+      "number": 3,
+      "content": "không để cho dính dáng đến mình.",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.447Z",
+      "updatedAt": "2024-09-10T04:31:35.447Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "6b6cfb53-76ab-42d3-934f-490ad0d1679e",
+      "number": 4,
+      "content": "Tâm địa gian manh con hằng xa lánh,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.453Z",
+      "updatedAt": "2024-09-10T04:31:35.453Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "9e1bfd77-775f-4e9a-a25e-618d589d0466",
+      "number": 4,
+      "content": "chẳng muốn biết gì đến chuyện xấu xa.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.461Z",
+      "updatedAt": "2024-09-10T04:31:35.461Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "7aaaa6d9-ea1e-4443-a15c-35897e2617c0",
+      "number": 5,
+      "content": "Ai nói chùng nói lén, là con sẽ diệt trừ.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.464Z",
+      "updatedAt": "2024-09-10T04:31:35.464Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "a7c83c20-9b0b-4546-8b0f-767b15ac1ddc",
+      "number": 5,
+      "content": "Con mắt khinh người, lòng dạ kiêu căng :",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.467Z",
+      "updatedAt": "2024-09-10T04:31:35.467Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "3130f475-1c2e-46a6-8dc5-130eb2dcc63b",
+      "number": 5,
+      "content": "những bọn đó, không khi nào con chịu.",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.473Z",
+      "updatedAt": "2024-09-10T04:31:35.473Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "1b760b7b-0d7e-47d2-aa19-a8aeb5a0f9b5",
+      "number": 6,
+      "content": "Con để mắt kiếm người hiền trong xứ, cho họ được ở gần.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.475Z",
+      "updatedAt": "2024-09-10T04:31:35.475Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "810dc347-2d90-4fd9-a429-5d84c09f6d17",
+      "number": 6,
+      "content": "Ai sống đời hoàn hảo, sẽ là người được phục vụ con.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.478Z",
+      "updatedAt": "2024-09-10T04:31:35.478Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "bf4d086f-dabb-4250-8fe6-95ca262832dd",
+      "number": 7,
+      "content": "Nhà con ở không hề chứa chấp",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.481Z",
+      "updatedAt": "2024-09-10T04:31:35.481Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "5847b095-b7db-4898-a0cf-725d87256c31",
+      "number": 7,
+      "content": "kẻ quen trò bịp bợm thói lưu manh.",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.483Z",
+      "updatedAt": "2024-09-10T04:31:35.483Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "64c57e62-287f-4f13-b9d2-f4e4973314a2",
+      "number": 7,
+      "content": "Hạng nói dối chuyên nghề, con đuổi cho khuất mắt.",
+      "order": 2,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.486Z",
+      "updatedAt": "2024-09-10T04:31:35.486Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "cc7bc867-2a5d-4aec-9c7e-e631f9210db8",
+      "number": 8,
+      "content": "Mỗi buổi mai con lại diệt trừ",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.489Z",
+      "updatedAt": "2024-09-10T04:31:35.489Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "aa416f99-8aa6-492c-b030-7a89d1fa95cd",
+      "number": 8,
+      "content": "cho hết phường ác nhân trong xứ sở,",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.498Z",
+      "updatedAt": "2024-09-10T04:31:35.498Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "3c163665-4da9-4f44-9708-2dde6a7935d4",
+      "number": 8,
+      "content": "hầu quét sạch khỏi thành đô CHÚA",
+      "order": 2,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.505Z",
+      "updatedAt": "2024-09-10T04:31:35.505Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "54e76a19-c0bf-46ef-9edb-b9292ee9c8a4",
+      "number": 8,
+      "content": "bọn làm điều ác, chẳng sót một tên.",
+      "order": 3,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-10T04:31:35.513Z",
+      "updatedAt": "2024-09-10T04:31:35.513Z",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "81991b9b-9971-4227-bb0a-d5cec43f866c",
+      "content": "Có thể <i>Tv về nhà vua</i> này được sử dụng hằng năm vào đầu lễ Lều để mừng kỷ niệm lễ đăng quang của nhà vua. Chắc đây là những lời hứa của nhà vua trong ngày lễ đó. Sau nhập đề (cc. 1-2), những lời hứa liên quan đến các điểm tiêu cực được ghi lại trong cc. 3-5 ; còn cc. 6-7 chú tâm hơn một chút đến yếu tố tích cực (c.6). C.8 là câu kết nói lên quyết tâm của nhà vua mỗi sáng khi xét xử, muốn thẳng tay tiêu diệt những kẻ làm điều ác.",
+      "position": 43,
+      "order": 0,
+      "createdAt": "2024-09-10T04:31:35.388Z",
+      "updatedAt": "2024-09-10T04:31:35.388Z",
+      "headingId": "dfe68763-7029-421d-bea0-4c02fd096904",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "2f747dd7-34b3-4af9-82b0-27caf350f093",
+      "content": "<i>Tình thương</i> (“<span class=\"hebrew-translit\">HeseD</span>”) và <i>công lý</i> (“<span class=\"hebrew-translit\">miš•Pä†</span>”) : nhà vua phải luôn nhìn vào hai phẩm tính này của Thiên Chúa trong việc cai trị dân nước.",
+      "position": 48,
+      "order": 1,
+      "createdAt": "2024-09-10T04:31:35.399Z",
+      "updatedAt": "2024-09-10T04:31:35.399Z",
+      "verseId": "c2c24250-b310-410e-b8f0-95bb63a4a106",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "9b12f22e-4b2c-470e-b48e-399f3c7baa53",
+      "content": "<i>Theo đường hoàn hảo</i> là hoàn toàn tuân giữ Luật của Thiên Chúa và đáp ứng mọi yêu sách của lương tâm (x. Cn 11,20 ; Tv 119,1 ...).",
+      "position": 38,
+      "order": 2,
+      "createdAt": "2024-09-10T04:31:35.414Z",
+      "updatedAt": "2024-09-10T04:31:35.414Z",
+      "verseId": "4157006f-429c-4264-814e-89542f452a7c",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    }
+  ],
+  "headings": [
+    {
+      "id": "dfe68763-7029-421d-bea0-4c02fd096904",
+      "content": "Tv 101 (100) Chân dung của nhà vua lý tưởng",
+      "order": 0,
+      "createdAt": "2024-09-10T04:31:35.383Z",
+      "updatedAt": "2024-09-10T04:31:35.383Z",
+      "verseId": "41d90fee-9968-4ce0-ad55-330298097ebd",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    }
+  ],
+  "references": [
+    {
+      "id": "23d123f6-5681-4954-b575-21dcc2538727",
+      "content": "G 1,8",
+      "position": 30,
+      "order": 0,
+      "createdAt": "2024-09-10T04:31:35.419Z",
+      "updatedAt": "2024-09-10T04:31:35.419Z",
+      "verseId": "4157006f-429c-4264-814e-89542f452a7c",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "ec09b1b1-1466-45e5-885e-40daff221d7a",
+      "content": "Cn 11,20",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-10T04:31:35.457Z",
+      "updatedAt": "2024-09-10T04:31:35.457Z",
+      "verseId": "6b6cfb53-76ab-42d3-934f-490ad0d1679e",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "76783770-7231-4619-a1ce-a9813f0e3c05",
+      "content": "Cn 21,4",
+      "position": 0,
+      "order": 2,
+      "createdAt": "2024-09-10T04:31:35.470Z",
+      "updatedAt": "2024-09-10T04:31:35.470Z",
+      "verseId": "a7c83c20-9b0b-4546-8b0f-767b15ac1ddc",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    },
+    {
+      "id": "afc125e5-8737-4a1c-a0ab-76a97771a05e",
+      "content": "Cn 20,26",
+      "position": 0,
+      "order": 3,
+      "createdAt": "2024-09-10T04:31:35.493Z",
+      "updatedAt": "2024-09-10T04:31:35.493Z",
+      "verseId": "cc7bc867-2a5d-4aec-9c7e-e631f9210db8",
+      "chapterId": "dd36a712-5354-446a-a013-4484c8bcc4d8"
+    }
+  ]
+}
