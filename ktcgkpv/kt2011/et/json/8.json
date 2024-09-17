@@ -1,1022 +1,882 @@
 {
   "chapter": {
-    "id": "9a624b70-850e-4110-bb75-af9ccc036cb5",
+    "id": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-10T00:39:05.864Z",
-    "updatedAt": "2024-09-10T00:39:05.864Z",
-    "bookId": "6fc6c813-4c9e-46f6-ab4f-ef078dedb786"
+    "createdAt": "2024-09-17T08:41:12.616Z",
+    "updatedAt": "2024-09-17T08:41:12.616Z",
+    "bookId": "fa5d8274-3238-4732-baa8-e8b981d63fc5"
   },
   "verses": [
     {
-      "id": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
+      "id": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
       "number": 1,
       "content": "Ngày hôm ấy, vua A-suê-rô ban cho hoàng hậu Ét-te tài sản của Ha-man, cừu địch của người Do-thái. Ông Moóc-đo-khai vào chầu vua, vì bà Ét-te đã cho vua biết ông họ hàng làm sao với bà.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.847Z",
-      "updatedAt": "2024-09-10T03:40:11.847Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.040Z",
+      "updatedAt": "2024-09-17T09:42:50.040Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "68bb1ab3-a921-44e2-9995-0186fde801c8",
+      "id": "98d522e9-be46-4159-9792-608ab6a383f1",
       "number": 2,
       "content": "Chiếc bửu ấn đã lấy lại của Ha-man, vua rút ra trao cho ông Moóc-đo-khai. Còn bà Ét-te thì đặt ông coi sóc tài sản của Ha-man.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.868Z",
-      "updatedAt": "2024-09-10T03:40:11.868Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.053Z",
+      "updatedAt": "2024-09-17T09:42:50.053Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "c0bcf005-7d52-42c2-b255-140045d22ec3",
+      "id": "23a794c5-ee49-4c36-867d-a64d4a831d5d",
       "number": 3,
       "content": "Bà Ét-te lại vào thưa chuyện với vua. Bà sấp mình dưới chân vua mà khóc lóc, xin vua thương cất đi cái thảm hoạ Ha-man, người A-gác, đã tính gây ra và xin vua phá tan ý đồ của y toan hại người Do-thái.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.874Z",
-      "updatedAt": "2024-09-10T03:40:11.874Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.061Z",
+      "updatedAt": "2024-09-17T09:42:50.061Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "93a7a9d8-22a9-4a10-a6d3-6a10af69628e",
+      "id": "780c13b8-6ebd-47fa-ba2f-3f16eb2977f7",
       "number": 4,
       "content": "Vua đưa phủ việt vàng lên trước mặt bà Ét-te. Bà trỗi dậy, đứng trước mặt vua",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.883Z",
-      "updatedAt": "2024-09-10T03:40:11.883Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.070Z",
+      "updatedAt": "2024-09-17T09:42:50.070Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "59246a98-f693-49f5-8152-be943052ed35",
+      "id": "e578ceb2-e272-4435-8f9c-45a94823fcf6",
       "number": 5,
       "content": "và thưa : “Nếu đẹp lòng đức vua, nếu thiếp được đức vua thương, nếu sự việc này đức vua xét là nên, và nếu thiếp làm vừa mắt đức vua, thì xin đức vua cho viết sắc chỉ thu hồi các văn thư mà Ha-man, con ông Hăm-mơ-đa-tha, người A-gác, đã viết. Ha-man đã nghĩ và viết các văn thư ấy nhằm tru diệt người Do-thái sống trong các miền thuộc quyền đức vua.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.887Z",
-      "updatedAt": "2024-09-10T03:40:11.887Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.075Z",
+      "updatedAt": "2024-09-17T09:42:50.075Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "312c734b-9b9a-46aa-ab46-ad6b6c066cad",
+      "id": "e61548fc-06fd-45ce-a8c5-4dc98c92badc",
       "number": 6,
       "content": "Làm sao thiếp lại có thể đành lòng chứng kiến tai hoạ giáng xuống dân của thiếp ? Làm sao thiếp lại có thể đành lòng chứng kiến cảnh nòi giống của thiếp bị diệt vong ?”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.894Z",
-      "updatedAt": "2024-09-10T03:40:11.894Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.081Z",
+      "updatedAt": "2024-09-17T09:42:50.081Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "088d429e-c5a6-4954-87c3-52532a502018",
+      "id": "4456fda2-7e76-4c5c-9a02-2db241cb1838",
       "number": 7,
       "content": "Vua A-suê-rô nói với hoàng hậu Ét-te và ông Moóc-đo-khai người Do-thái : “Tài sản của Ha-man, ta đã tặng cho bà Ét-te rồi đó, còn Ha-man thì đã bị treo cổ vì muốn tra tay giết người Do-thái.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.897Z",
-      "updatedAt": "2024-09-10T03:40:11.897Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.084Z",
+      "updatedAt": "2024-09-17T09:42:50.084Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "baa05546-b26f-4b4b-bef5-349f2faa6a5a",
+      "id": "1456fa42-8d35-44e8-9290-0ca83a48ecab",
       "number": 8,
       "content": "Vậy chư khanh cứ theo sự xét đoán của mình mà nhân danh vua viết về người Do-thái thế nào cho phải, rồi lấy bửu ấn của nhà vua mà niêm lại, vì công văn nào đã được soạn thảo nhân danh nhà vua và niêm bửu ấn thì không thể thu hồi.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.905Z",
-      "updatedAt": "2024-09-10T03:40:11.905Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.093Z",
+      "updatedAt": "2024-09-17T09:42:50.093Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "8541409f-752c-4e23-8628-67105d4c3123",
+      "id": "d91c7c21-6e7a-46f3-9f1e-2e193ea45da6",
       "number": 9,
       "content": "Các ký lục nhà vua được triệu đến. Lúc đó là tháng thứ ba, tức là tháng Xi-van, ngày hai mươi ba. Theo đúng lệnh của ông Moóc-đo-khai, họ soạn thảo công văn gửi cho người Do-thái, cho các thủ hiến, các tổng đốc và các quan chức các miền từ Ấn-độ cho đến Ê-thi-óp. Có một trăm hai mươi bảy miền, miền nào theo chữ viết của miền ấy, dân nào theo tiếng nói của dân ấy, người Do-thái theo chữ viết và tiếng nói của họ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.909Z",
-      "updatedAt": "2024-09-10T03:40:11.909Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.097Z",
+      "updatedAt": "2024-09-17T09:42:50.097Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "22f79652-526a-4644-94ef-035894ad9ca2",
+      "id": "4fb3229f-f0ff-4687-af6f-2d2e12208299",
       "number": 10,
       "content": "Các công văn được soạn thảo nhân danh vua A-suê-rô và niêm bửu ấn, rồi các phu trạm chuyển đi. Họ cỡi những con ngựa nhanh nhất nuôi trong chuồng nhà vua.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.914Z",
-      "updatedAt": "2024-09-10T03:40:11.914Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.102Z",
+      "updatedAt": "2024-09-17T09:42:50.102Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "af5a8192-96fe-41b7-99a8-e478582d9cf6",
+      "id": "8c557353-f6b9-43de-8648-6690e68aa748",
       "number": 11,
       "content": "Vua cho người Do-thái ở trong bất cứ thành nào được quyền tụ họp để bảo vệ sinh mạng, để huỷ diệt, giết chết và tru diệt tất cả những kẻ mang vũ khí đến tấn công họ, cho dù bọn người này thuộc sắc dân nào hay ở miền nào đi nữa, kể cả vợ con chúng ; họ cũng được quyền cướp đoạt của cải của bọn chúng.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.918Z",
-      "updatedAt": "2024-09-10T03:40:11.918Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.106Z",
+      "updatedAt": "2024-09-17T09:42:50.106Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "763dde5a-2d97-4f23-b7ce-43519a8ab0dd",
+      "id": "a34cfb30-c1f8-4252-9b70-069cd850f9d2",
       "number": 12,
       "content": "Lệnh này phải thi hành tại khắp các miền thuộc quyền vua A-suê-rô nội trong một ngày ; đó là ngày mười ba tháng thứ mười hai, tức là tháng A-đa.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.925Z",
-      "updatedAt": "2024-09-10T03:40:11.925Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.119Z",
+      "updatedAt": "2024-09-17T09:42:50.119Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "1e05e227-2ed5-43dc-9299-9d22e95bf778",
+      "id": "39da9f3b-e5a9-45d8-99b5-b8bae8410dac",
       "number": 12,
       "content": "Đoạn văn sau đây là bản sao công văn :",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.929Z",
-      "updatedAt": "2024-09-10T03:40:11.929Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.123Z",
+      "updatedAt": "2024-09-17T09:42:50.123Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "b4b3d8fb-89ec-4c13-8db5-f094538e3e5f",
+      "id": "5bafc8a0-7e90-4150-9b11-ea4a668a6f25",
       "number": 12,
       "content": "“Đại vương A-suê-rô gửi các tổng đốc cai trị một trăm hai mươi bảy tỉnh từ Ấn-độ đến Ê-thi-óp, và gửi những trung thần quan tâm đến quốc sự. Chúc chư khanh vạn an.",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.935Z",
-      "updatedAt": "2024-09-10T03:40:11.935Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.128Z",
+      "updatedAt": "2024-09-17T09:42:50.128Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "1bbd06eb-1fe1-4530-8f35-2082c61a2351",
+      "id": "d4c14b70-b644-464f-a2be-b5bce99161a6",
       "number": 12,
       "content": "Có lắm kẻ khi được các bậc ân nhân lấy lòng từ ái bao la mà đối xử thì sinh thói kiêu căng. Chẳng những chúng mưu hại thần dân ta, mà vì chưa thoả mãn với danh vọng dư đầy, chúng còn nuôi ý đồ tra tay hại chính các ân nhân của mình.",
       "order": 3,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.937Z",
-      "updatedAt": "2024-09-10T03:40:11.937Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.132Z",
+      "updatedAt": "2024-09-17T09:42:50.132Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "8e9b83e1-7690-41e6-8116-1481e416ace6",
+      "id": "357d44c4-9f96-4433-b812-513539cc886e",
       "number": 12,
       "content": "Chúng loại trừ tâm tình biết ơn ra khỏi lòng người. Không những thế, sau khi bị cuốn hút theo lời lẽ ba hoa của những kẻ không biết gì đến sự thiện, chúng còn cứ tưởng mình sẽ thoát được án công minh của Thiên Chúa là Đấng hằng nhìn thấy mọi sự và gớm ghét sự dữ.",
       "order": 4,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.942Z",
-      "updatedAt": "2024-09-10T03:40:11.942Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.135Z",
+      "updatedAt": "2024-09-17T09:42:50.135Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "caa13b3e-c51e-4ca9-8f38-beda934e0c64",
+      "id": "15465758-f524-4281-a39d-9d7dbb2b5ef6",
       "number": 12,
       "content": "Nhiều kẻ cầm quyền đã trao việc triều chính cho bạn bè tín cẩn, và biết bao phen vì nghe theo họ mà trở thành đồng loã trong việc đổ máu người vô tội để rồi bị lôi kéo vào những tai hoạ không sao thoát khỏi.",
       "order": 5,
       "parNumber": 5,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.947Z",
-      "updatedAt": "2024-09-10T03:40:11.947Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.139Z",
+      "updatedAt": "2024-09-17T09:42:50.139Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "e48bc834-7629-4b98-95b7-d80d8feb597f",
+      "id": "3e4aa672-eb9d-48b7-bb98-0743a5f2dd1f",
       "number": 12,
       "content": "Chẳng qua là vì những tên bịp bợm ấy đã dùng mưu mô thâm độc mà lừa dối các bậc cầm quyền vốn có lòng ưu ái chân thật.",
       "order": 6,
       "parNumber": 5,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.951Z",
-      "updatedAt": "2024-09-10T03:40:11.951Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.141Z",
+      "updatedAt": "2024-09-17T09:42:50.141Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "3198ebb7-3cd6-47e2-8f7a-8c4c004e4314",
+      "id": "564315e4-07a2-4c02-97e9-f4d1d3bb04c1",
       "number": 12,
       "content": "Không cần dùng những chuyện cổ xưa truyền lại, các khanh có thể nhìn vào những điều tai nghe mắt thấy ngày nay mà nhận ra rằng lũ ôn dịch nắm việc triều chính kia đã mưu toan phạm biết bao tội ác.",
       "order": 7,
       "parNumber": 5,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.955Z",
-      "updatedAt": "2024-09-10T03:40:11.955Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.145Z",
+      "updatedAt": "2024-09-17T09:42:50.145Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "a86e933f-36ab-4ebb-be35-9c1a6eb81558",
+      "id": "1be1bcc8-5fbb-423e-a6ef-6f495b398279",
       "number": 12,
       "content": "Ta sẽ chú tâm đến tương lai, lo sao cho mọi người trong vương quốc được bình an thư thái.",
       "order": 8,
       "parNumber": 5,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.957Z",
-      "updatedAt": "2024-09-10T03:40:11.957Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.147Z",
+      "updatedAt": "2024-09-17T09:42:50.147Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "1ed18f0b-85cf-477d-b700-db4e90792092",
+      "id": "83a5778e-5ac9-4bce-b835-12596b1981f0",
       "number": 12,
       "content": "Ta sẽ thực hiện nhiều cải cách, luôn niềm nở tiếp nhận và xét xử những vụ sẽ đệ trình lên ta.",
       "order": 9,
       "parNumber": 5,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.959Z",
-      "updatedAt": "2024-09-10T03:40:11.959Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.150Z",
+      "updatedAt": "2024-09-17T09:42:50.150Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "79833205-b4ca-4b3a-9f60-f093996732b8",
+      "id": "33cd46ee-a273-4c1e-9f82-e5129a961b17",
       "number": 12,
       "content": "Riêng Ha-man, con của Hăm-mơ-đa-tha người Ma-kê-đô-ni-a, y thực là một người xa lạ đối với đồng bào Ba-tư, lại còn xa lạ hơn nữa đối với một người có lòng từ ái như ta, nhưng đã được ta đón tiếp như một khách quý.",
       "order": 10,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.961Z",
-      "updatedAt": "2024-09-10T03:40:11.961Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.152Z",
+      "updatedAt": "2024-09-17T09:42:50.152Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "fd426d4c-e4b5-4bdb-89ae-46ac0f588f88",
+      "id": "867e1c97-ca9c-481c-9adf-9d2cf0d7246d",
       "number": 12,
       "content": "Y còn được hưởng lòng nhân nghĩa ta vốn dành cho mọi dân tộc đến mức được công khai gọi là quốc phụ và được mọi người bái lạy như nhân vật chiếm địa vị thứ hai sau ngai vàng.",
       "order": 11,
       "parNumber": 6,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.969Z",
-      "updatedAt": "2024-09-10T03:40:11.969Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.154Z",
+      "updatedAt": "2024-09-17T09:42:50.154Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "9e5a4b2d-b8e0-441f-94f1-8588c384567f",
+      "id": "64d65792-976e-4080-9fe7-00f31d9bac20",
       "number": 12,
       "content": "Nhưng vì không thắng nổi tính kiêu căng, y đã tìm cách làm cho ta mất cả quyền bính lẫn tính mạng.",
       "order": 12,
       "parNumber": 6,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.974Z",
-      "updatedAt": "2024-09-10T03:40:11.974Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.156Z",
+      "updatedAt": "2024-09-17T09:42:50.156Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "79d0bc8c-f535-478f-9666-9f47abc7d9c6",
+      "id": "68c1bc6d-39f4-4221-8844-c871a8e8b0e3",
       "number": 12,
       "content": "Y đã dùng những thủ đoạn tinh vi và những lập luận quanh co mà xin tiêu diệt vị cứu tinh và ân nhân của ta là Moóc-đo-khai ; đồng thời, với chính những thủ đoạn và lập luận trên, y còn tiêu diệt con người đức hạnh đã cùng ta chia sẻ địa vị cao sang trong vương quốc là Ét-te, và xin tiêu diệt cả dân tộc của hai nhân vật đó.",
       "order": 13,
       "parNumber": 6,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.981Z",
-      "updatedAt": "2024-09-10T03:40:11.981Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.163Z",
+      "updatedAt": "2024-09-17T09:42:50.163Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "946cf813-0a59-4698-85f6-3cee5d4fa918",
+      "id": "4b0acc5b-8b41-43db-900e-345d035fd748",
       "number": 12,
       "content": "Hành động như thế, y tưởng có thể đưa ta vào thế cô lập và phải chuyển quyền cai trị của người Ba-tư sang tay người Ma-kê-đô-ni-a.",
       "order": 14,
       "parNumber": 6,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.983Z",
-      "updatedAt": "2024-09-10T03:40:11.983Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.166Z",
+      "updatedAt": "2024-09-17T09:42:50.166Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "62cfbbfe-2e84-4b2a-8bba-4c03f4655c5e",
+      "id": "da943b12-6475-442f-a1d8-8f387fc562e3",
       "number": 12,
       "content": "Nhưng ta nhận thấy rằng dân Do-thái mà tên cực kỳ gian ác đó muốn tận diệt không phải là những tội phạm, trái lại họ chính là những người có luật lệ rất công minh hướng dẫn.",
       "order": 15,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.987Z",
-      "updatedAt": "2024-09-10T03:40:11.987Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.169Z",
+      "updatedAt": "2024-09-17T09:42:50.169Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "f997c9c6-8f31-4eea-bf2f-3ebba18cebd1",
+      "id": "53055af1-370a-469f-9c4f-1258f801313c",
       "number": 12,
       "content": "Họ là con cái Thiên Chúa Tối Cao, vĩ đại, hằng sống, Đấng vẫn giữ gìn cho vương quốc của ta và của tổ tiên ta được hưng thịnh.",
       "order": 16,
       "parNumber": 7,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.992Z",
-      "updatedAt": "2024-09-10T03:40:11.992Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.171Z",
+      "updatedAt": "2024-09-17T09:42:50.171Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "abdd5e59-0abc-4c07-ad9a-599793af02cb",
+      "id": "9e359888-a09b-4fea-aa42-ef3fbdc5661e",
       "number": 12,
       "content": "Vậy không thi hành những công văn mà Ha-man, con của Hăm-mơ-đa-tha đã gửi là chư khanh làm đúng, vì kẻ thảo ra các công văn đó đã bị treo cổ cùng với cả nhà y tại cửa thành Su-san. Thế là Thiên Chúa, chủ tể muôn loài, đã xét xử công minh mà không trì hoãn.",
       "order": 17,
       "parNumber": 7,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:11.998Z",
-      "updatedAt": "2024-09-10T03:40:11.998Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.176Z",
+      "updatedAt": "2024-09-17T09:42:50.176Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "d182b441-7d26-4a04-b212-08fdec28c280",
+      "id": "a4a6634e-37d7-4bb9-861c-e012b4a50dd8",
       "number": 12,
       "content": "Bản sao sắc chỉ này, chư khanh phải công khai niêm yết khắp nơi, đồng thời chư khanh phải để cho người Do-thái sống theo luật lệ riêng của họ ; cũng phải tăng cường lực lượng giúp họ đẩy lui những kẻ sẽ đến tấn công họ trong ngày gian truân, ngày mười ba tháng thứ mười hai tức là tháng A-đa.",
       "order": 18,
       "parNumber": 7,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.004Z",
-      "updatedAt": "2024-09-10T03:40:12.004Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.181Z",
+      "updatedAt": "2024-09-17T09:42:50.181Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "27f4cc6a-62d8-4b99-a1fe-e2ac7cab41ec",
+      "id": "be6b321e-9714-4df2-92fd-8acee1f340b0",
       "number": 12,
       "content": "Quả thật, Thiên Chúa, Đấng làm chủ vạn vật, đã biến ngày ấy thành ngày hoan lạc cho dân tộc được tuyển chọn thay thế ngày tận diệt dân tộc này.",
       "order": 19,
       "parNumber": 7,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.012Z",
-      "updatedAt": "2024-09-10T03:40:12.012Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.186Z",
+      "updatedAt": "2024-09-17T09:42:50.186Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "2e202c43-262c-4a91-865f-59a880f64cbe",
+      "id": "30634884-5309-48fa-b695-6abb24f6a704",
       "number": 12,
       "content": "Còn các ngươi, hỡi người Do-thái, hãy tổ chức các cuộc liên hoan mà mừng ngày đặc biệt ấy như một trong những ngày lễ trọng của các ngươi. Như thế, trong hiện tại cũng như tương lai, đối với ta và những người Ba-tư thành tâm thiện chí, ngày ấy trở thành ngày kỷ niệm cuộc giải thoát ; còn đối với những kẻ âm mưu chống lại ta, ngày ấy sẽ là ngày nhắc nhở cảnh diệt vong của chúng.",
       "order": 20,
       "parNumber": 7,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.019Z",
-      "updatedAt": "2024-09-10T03:40:12.019Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.191Z",
+      "updatedAt": "2024-09-17T09:42:50.191Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "30df8f78-5161-4f9c-9624-d29f179114d8",
+      "id": "7e0123b7-c8b6-4e26-8e2d-1d35caefb5e1",
       "number": 12,
       "content": "Thành nào và nói chung miền nào bất cứ không chịu thi hành chỉ thị này là chọc giận ta, ta sẽ dùng gươm, dùng lửa tiêu diệt hết. Nơi đó chẳng những sẽ không có bóng người qua lại, mà cả đến muông thú, chim trời cũng ghét bỏ và mãi mãi tránh xa.”",
       "order": 21,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.023Z",
-      "updatedAt": "2024-09-10T03:40:12.023Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.193Z",
+      "updatedAt": "2024-09-17T09:42:50.193Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "56b6a06f-05be-46bb-89e0-875e8001b5eb",
+      "id": "3e34bcb2-c7ad-47f0-b077-d0b211a1f040",
       "number": 13,
       "content": "Sắc chỉ này được công bố và có hiệu lực luật pháp trong mọi miền. Bản sao cũng được phổ biến cho mọi dân tộc, để vào ngày ấn định, người Do-thái sẵn sàng trả đũa địch thù.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.031Z",
-      "updatedAt": "2024-09-10T03:40:12.031Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.204Z",
+      "updatedAt": "2024-09-17T09:42:50.204Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "dd495b8f-fcd5-47e1-906d-3cf40c4bbeea",
+      "id": "226ddc01-8c01-41f3-a10e-bf6e1b521901",
       "number": 14,
       "content": "Theo lệnh vua, phu trạm cỡi ngựa nhanh nhất nuôi trong chuồng nhà vua tức tốc lên đường. Sắc chỉ được công bố tại thành Su-san.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.037Z",
-      "updatedAt": "2024-09-10T03:40:12.037Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.209Z",
+      "updatedAt": "2024-09-17T09:42:50.209Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "22c746cb-3429-4de7-9dfe-72292845d7f1",
+      "id": "7fef857e-ddce-45a1-ab39-6f3b0997863e",
       "number": 15,
       "content": "Ông Moóc-đo-khai rời hoàng cung, mặc triều phục bằng vải trắng điểm màu đỏ tía, đội triều thiên lớn bằng vàng, khoác cẩm bào bằng vải quý màu đỏ tươi. Dân chúng khắp thành Su-san đều reo vui mừng rỡ.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.042Z",
-      "updatedAt": "2024-09-10T03:40:12.042Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.215Z",
+      "updatedAt": "2024-09-17T09:42:50.215Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "3392ce25-ff56-4e80-80b8-63f0a3da4642",
+      "id": "03a8d29b-3efd-4047-9d35-648b58c6da63",
       "number": 16,
       "content": "Đối với dân Do-thái, ngày ấy là một ngày tràn ngập ánh sáng, chan chứa vui mừng, hân hoan và vinh dự.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.055Z",
-      "updatedAt": "2024-09-10T03:40:12.055Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.230Z",
+      "updatedAt": "2024-09-17T09:42:50.230Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "1e55427b-f901-43aa-8bef-3f86fbc69c31",
+      "id": "499ca487-7736-4ede-88df-e9f8b5916f3f",
       "number": 17,
       "content": "Trong mỗi miền và mỗi thành, bất cứ nơi đâu, mệnh lệnh và chỉ dụ của vua được chuyển tới, người ta đều chứng kiến cảnh tượng dân Do-thái vui sướng hân hoan mở tiệc ăn mừng. Giữa các dân trong xứ, nhiều người tự xưng là Do-thái vì quá sợ người Do-thái.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:40:12.058Z",
-      "updatedAt": "2024-09-10T03:40:12.058Z",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.232Z",
+      "updatedAt": "2024-09-17T09:42:50.232Z",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     }
   ],
   "footnotes": [
     {
-      "id": "b4b0d392-51b6-4fc9-9755-6abaae964894",
-      "content": "Nhắc lại vụ âm mưu ám hại nhà vua (x. 7,3-6 ; 8,3.12c-12d).",
+      "id": "7f94d41e-5fde-4163-bc6a-0197de875076",
+      "content": "<i>Tài sản</i>, ds : <i>Nhà</i>. Của cải, tài sản của những người bị án tử hình đều thuộc về nhà vua. X. 1 V 21.",
       "position": 57,
       "order": 0,
-      "createdAt": "2024-09-10T03:40:11.859Z",
-      "updatedAt": "2024-09-10T03:40:11.859Z",
-      "verseId": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.044Z",
+      "updatedAt": "2024-09-17T09:42:50.044Z",
+      "verseId": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "10406ba5-d16c-4bc4-9a93-2ef402e3c5d3",
-      "content": "<i>Ma-kê-đô-ni-a</i> : x. 8,12k+.",
+      "id": "2d8e3598-72de-49b1-b2d3-58a613204b9c",
+      "content": "<i>Cừu địch</i> : x. 7,4.6+.",
       "position": 78,
       "order": 1,
-      "createdAt": "2024-09-10T03:40:11.861Z",
-      "updatedAt": "2024-09-10T03:40:11.861Z",
-      "verseId": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.046Z",
+      "updatedAt": "2024-09-17T09:42:50.046Z",
+      "verseId": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "a972926b-1afd-4a9e-965e-a152cad4a86d",
-      "content": "<i>Cực kỳ gian ác</i> : 2 Mcb 8,34 ; 15,3 : cũng nói tướng Ni-ca-no là <i>tên đại gian ác</i>.",
+      "id": "8e7c645d-56dd-419e-8954-f1e470f05a2e",
+      "content": "Lai lịch của bà Ét-te (2,7) trước đây bị cấm tiết lộ (2,10) nay đã được công bố.",
       "position": 183,
       "order": 2,
-      "createdAt": "2024-09-10T03:40:11.863Z",
-      "updatedAt": "2024-09-10T03:40:11.863Z",
-      "verseId": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.049Z",
+      "updatedAt": "2024-09-17T09:42:50.049Z",
+      "verseId": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "edc77811-8f0f-45c2-8619-15bfe419b77a",
-      "content": "<i>Thiên Chúa hằng sống</i> : Gr 10,10 ; Hs 2,1 ; 2 Mcb 15,4. <i>Thiên Chúa tối cao</i> : Đn 3,32 ; Tb 1,13 ; 2 Mcb 3,31 ; Kn 5,15 ; 6,3 ; Hc 9,15. <i>Thiên Chúa cao cả</i> : 2 Mcb 3,36.",
+      "id": "19459eb6-eb03-4575-ab3b-c7c3d0741ad2",
+      "content": "Hành động của vua chứng tỏ vua đã đặt ông Moóc-đo-khai lên thay thế quan Ha-man. Ông có đầy đủ quyền hành như quan Ha-man trước kia.",
       "position": 72,
       "order": 3,
-      "createdAt": "2024-09-10T03:40:11.870Z",
-      "updatedAt": "2024-09-10T03:40:11.870Z",
-      "verseId": "68bb1ab3-a921-44e2-9995-0186fde801c8",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.055Z",
+      "updatedAt": "2024-09-17T09:42:50.055Z",
+      "verseId": "98d522e9-be46-4159-9792-608ab6a383f1",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "73786022-1fe5-4d5a-9802-1fbfcb91f1da",
-      "content": "<i>Làm đúng</i> ! Thật ra là “làm sai”, vì làm như thế là vi phạm nguyên tắc pháp lý đã loan báo ở 8,8 (x. 1,19+). Ha-man đã đóng ấn của nhà vua trên những công văn này. Thế nên sắc lệnh “không thể bị thu hồi”.",
+      "id": "cc67c456-5ca6-49c1-a759-1cf7726a07ab",
+      "content": "<i>Thưa chuyện với vua</i> : x. 1,8. Sau khi quan Ha-man bị treo cổ (7,10), bà Ét-te đã bảo toàn được mạng sống của mình. Giờ đây, bà nghĩ đến chuyện cứu dân.",
       "position": 36,
       "order": 4,
-      "createdAt": "2024-09-10T03:40:11.877Z",
-      "updatedAt": "2024-09-10T03:40:11.877Z",
-      "verseId": "c0bcf005-7d52-42c2-b255-140045d22ec3",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.063Z",
+      "updatedAt": "2024-09-17T09:42:50.063Z",
+      "verseId": "23a794c5-ee49-4c36-867d-a64d4a831d5d",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "9defc06f-574c-43f2-ab64-315ad777dbfc",
-      "content": "<i>Đẩy lui</i> : nghĩa là cho người Do-thái có quyền tự vệ hợp pháp, chứ không phải để báo thù, chỉ là “đẩy lui” mà thôi.",
+      "id": "ccdf94d4-4541-407b-9d8a-9c33a657a552",
+      "content": "<i>Sấp mình</i>, ds : <i>Rơi mình xuống</i>. X. 6,13+. Tác giả cố ý không dùng chữ “bái lạy, cúi chào” (3,2.5). Bà Ét-te không hề <i>bái lạy</i> nhà vua.",
       "position": 49,
       "order": 5,
-      "createdAt": "2024-09-10T03:40:11.879Z",
-      "updatedAt": "2024-09-10T03:40:11.879Z",
-      "verseId": "c0bcf005-7d52-42c2-b255-140045d22ec3",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.066Z",
+      "updatedAt": "2024-09-17T09:42:50.066Z",
+      "verseId": "23a794c5-ee49-4c36-867d-a64d4a831d5d",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "b788c2f5-cbdf-4be2-bddf-689700929f1f",
-      "content": "<i>Ngày gian truân</i> : x. 1,1g.",
+      "id": "9c262a40-a170-40cf-9308-6cb4004ce5af",
+      "content": "<i>Thảm hoạ Ha-man</i> : Ý đồ thâm độc của Ha-man, 3,6.9.11.13.",
       "position": 118,
       "order": 6,
-      "createdAt": "2024-09-10T03:40:11.881Z",
-      "updatedAt": "2024-09-10T03:40:11.881Z",
-      "verseId": "c0bcf005-7d52-42c2-b255-140045d22ec3",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.068Z",
+      "updatedAt": "2024-09-17T09:42:50.068Z",
+      "verseId": "23a794c5-ee49-4c36-867d-a64d4a831d5d",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "8d952eef-f984-4daf-84ba-36b3ccf61660",
-      "content": "Vua A-suê-rô cũng xưng mình có quyền bá chủ toàn cõi địa cầu (x. 3,13b). Nhưng chắc chắn quyền <i>làm chủ vạn vật</i> của Thiên Chúa, Đấng Toàn Năng, hoàn toàn vượt xa mọi thứ vương quyền của trần thế.",
+      "id": "54fde859-25ca-4566-9f58-7ac22efbbd92",
+      "content": "<i>Đưa phủ việt vàng lên</i> : Hành động này là dấu chỉ ơn cứu thoát (x. 4,11 ; 5,2).",
       "position": 25,
       "order": 7,
-      "createdAt": "2024-09-10T03:40:11.885Z",
-      "updatedAt": "2024-09-10T03:40:11.885Z",
-      "verseId": "93a7a9d8-22a9-4a10-a6d3-6a10af69628e",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.072Z",
+      "updatedAt": "2024-09-17T09:42:50.072Z",
+      "verseId": "780c13b8-6ebd-47fa-ba2f-3f16eb2977f7",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "133097eb-c90f-4809-b345-652dc33db0c4",
-      "content": "<i>Chống lại ta</i> : Chắc chắn những lời này muốn ám chỉ đến quan Ha-man (7,4tt ; 8,3), nhưng cũng muốn nhắc tới mưu đồ của hai viên thái giám (1,1m-1o ; 2,21-23).",
+      "id": "ab19874b-d993-43b5-b011-94c823e9a4b7",
+      "content": "<i>Nếu ... nếu ... nếu ...</i> là một kiểu nói “đắc nhân tâm”. Bà Ét-te nói thế nhằm lấy lòng nhà vua (x. 7,3).",
       "position": 132,
       "order": 8,
-      "createdAt": "2024-09-10T03:40:11.890Z",
-      "updatedAt": "2024-09-10T03:40:11.890Z",
-      "verseId": "59246a98-f693-49f5-8152-be943052ed35",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.077Z",
+      "updatedAt": "2024-09-17T09:42:50.077Z",
+      "verseId": "e578ceb2-e272-4435-8f9c-45a94823fcf6",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "c7e3a5d8-5e80-4564-8cba-e7e07d280c00",
-      "content": "<i>Trả đũa địch thù</i> : sẵn sàng để tự vệ (x. 8,12s+). Mặt khác, khi nhấn mạnh ý tưởng này, tác giả cũng muốn đề cao người Do-thái : tất cả những ai chống đối họ đều sẽ bị trừng phạt nghiêm khắc (x. 9,1tt).",
+      "id": "89b088ed-6e36-4787-8929-39226de7cac7",
+      "content": "Phải viết một sắc chỉ khác, vì các sắc chỉ vua ban <i>không thể huỷ bỏ được</i>, x. 8,8+.",
       "position": 174,
       "order": 9,
-      "createdAt": "2024-09-10T03:40:11.892Z",
-      "updatedAt": "2024-09-10T03:40:11.892Z",
-      "verseId": "59246a98-f693-49f5-8152-be943052ed35",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.079Z",
+      "updatedAt": "2024-09-17T09:42:50.079Z",
+      "verseId": "e578ceb2-e272-4435-8f9c-45a94823fcf6",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "f64c9a48-c45e-4905-b0ed-8d4eebf596c7",
-      "content": "Ông Moóc-đo-khai được mặc phẩm phục hoàng triều. Ông trở thành nhân vật có thế giá.",
+      "id": "142bbf34-9c8a-4180-802e-276f6e5ed17c",
+      "content": "Bản HR nói đến cả hai người : <i>Ông Moóc-đo-khai và bà Ét-te</i>. Nhưng bản HL chỉ nhấn mạnh đến vai trò của bà Ét-te, không nói gì đến ông Moóc-đo-khai, người Do-thái.",
       "position": 70,
       "order": 10,
-      "createdAt": "2024-09-10T03:40:11.899Z",
-      "updatedAt": "2024-09-10T03:40:11.899Z",
-      "verseId": "088d429e-c5a6-4954-87c3-52532a502018",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.086Z",
+      "updatedAt": "2024-09-17T09:42:50.086Z",
+      "verseId": "4456fda2-7e76-4c5c-9a02-2db241cb1838",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "4c182eba-19de-404b-9e7c-5da8268f31a1",
-      "content": "<i>Mở tiệc ăn mừng</i>, ds : <i>Một ngày vui vẻ tiệc tùng</i> (x. 9,19.22).",
+      "id": "623bc4e4-b9ff-432f-a544-68f15480a4a9",
+      "content": "Những kẻ muốn <i>giết người Do-thái</i> phải lãnh nhận cùng một hình phạt như những kẻ muốn giết nhà vua, x. 2,21-23.",
       "position": 189,
       "order": 11,
-      "createdAt": "2024-09-10T03:40:11.901Z",
-      "updatedAt": "2024-09-10T03:40:11.901Z",
-      "verseId": "088d429e-c5a6-4954-87c3-52532a502018",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.088Z",
+      "updatedAt": "2024-09-17T09:42:50.088Z",
+      "verseId": "4456fda2-7e76-4c5c-9a02-2db241cb1838",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "61d8f1a5-5ba1-4d83-9252-888ec5361ff8",
-      "content": "<i>Các dân</i> : Các dân tộc (x. 8,12l).",
+      "id": "49936bae-c94e-4132-919b-2f96f8ec8c4f",
+      "content": "Những gì nhà vua “đã viết là đã viết” ! Sắc lệnh của vua (3,9-14) <i>không thể bị thu hồi</i>. Đó là một trong những nét đặc biệt của luật pháp xứ Mê-đi và Ba-tư (Et 1,19 ; Đn 6,9). Thế nên, vua không thể trực tiếp chấp nhận lời thỉnh cầu của bà Ét-te (8,5). Muốn huỷ bỏ một sắc lệnh cũ, vua phải cho ban hành một sắc lệnh mới để tuyên bố sắc lệnh cũ không còn hiệu lực (x. Et 3,12tt).",
       "position": 228,
       "order": 12,
-      "createdAt": "2024-09-10T03:40:11.907Z",
-      "updatedAt": "2024-09-10T03:40:11.907Z",
-      "verseId": "baa05546-b26f-4b4b-bef5-349f2faa6a5a",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.095Z",
+      "updatedAt": "2024-09-17T09:42:50.095Z",
+      "verseId": "1456fa42-8d35-44e8-9290-0ca83a48ecab",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "cd092d0d-62eb-43ef-a48e-a23de5ba67c3",
-      "content": "<i>Người tự xưng là Do-thái</i> : Đó là những kẻ bắt chước, hay theo tập quán đạo Do-thái. Đây là lần duy nhất trong Cựu Ước sử dụng kiểu nói này (x. Gl 2,14). Bản LXX và LT Cổ cắt nghĩa thêm rằng đây là những người <i>đã chịu cắt bì</i>.",
+      "id": "c7969277-523e-41e8-b85d-8bb069a3f3e6",
+      "content": "<i>Tháng Xi-van</i> (HR) : khoảng tháng 5 và tháng 6 dương lịch. HL sửa thành : <i>tháng thứ nhất, tức là tháng Ni-xan</i>. Hãy so sánh 8,9-14 với 3,12-15, ta sẽ thấy hai trình thuật song đối với nhau khá chặt chẽ. Tác giả muốn trình bày “sự đảo ngược hoàn toàn” số phận của ông Moóc-đo-khai và của quan Ha-man. Tất cả đều được khởi đầu bằng hai sắc lệnh vua ban, cách nhau đúng hai tháng mười ngày.",
       "position": 78,
       "order": 13,
-      "createdAt": "2024-09-10T03:40:11.911Z",
-      "updatedAt": "2024-09-10T03:40:11.911Z",
-      "verseId": "8541409f-752c-4e23-8628-67105d4c3123",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.100Z",
+      "updatedAt": "2024-09-17T09:42:50.100Z",
+      "verseId": "d91c7c21-6e7a-46f3-9f1e-2e193ea45da6",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "5b664e6a-1b4b-4eac-af22-84e8de7a6acf",
+      "id": "1a0da4dc-ca72-43a2-ba9d-cb4d4cf1209b",
       "content": "Công văn được các phu trạm chuyển đi bằng <i>những con ngựa nhanh nhất</i> nghĩa là được phổ biến mau lẹ, rộng khắp toàn vương quốc.",
       "position": 127,
       "order": 14,
-      "createdAt": "2024-09-10T03:40:11.916Z",
-      "updatedAt": "2024-09-10T03:40:11.916Z",
-      "verseId": "22f79652-526a-4644-94ef-035894ad9ca2",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.104Z",
+      "updatedAt": "2024-09-17T09:42:50.104Z",
+      "verseId": "4fb3229f-f0ff-4687-af6f-2d2e12208299",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "e8fd113b-8d91-4e3e-b752-27528409a655",
+      "id": "d79517b3-6b0e-402b-b2e4-581218a1c3a8",
       "content": "Không phải để cho người Do-thái tự ý tàn sát, nhưng chỉ là để cho họ có quyền tự vệ hợp pháp (xem thêm 8,12s). Việc liệt kê ra đây cả <i>vợ con</i> chứng tỏ sự song đối chặt chẽ với 3,13.",
       "position": 246,
       "order": 15,
-      "createdAt": "2024-09-10T03:40:11.920Z",
-      "updatedAt": "2024-09-10T03:40:11.920Z",
-      "verseId": "af5a8192-96fe-41b7-99a8-e478582d9cf6",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.111Z",
+      "updatedAt": "2024-09-17T09:42:50.111Z",
+      "verseId": "8c557353-f6b9-43de-8648-6690e68aa748",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "7c0d06e1-a3ab-4c80-abdc-15a8d1405f75",
+      "id": "368355ee-1f6a-4b27-8198-4bd29633d4f1",
       "content": "<i>Họ cũng được quyền cướp đoạt ...</i> : bản HL không dịch câu này (x. 9,10+).",
       "position": 299,
       "order": 16,
-      "createdAt": "2024-09-10T03:40:11.922Z",
-      "updatedAt": "2024-09-10T03:40:11.922Z",
-      "verseId": "af5a8192-96fe-41b7-99a8-e478582d9cf6",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.117Z",
+      "updatedAt": "2024-09-17T09:42:50.117Z",
+      "verseId": "8c557353-f6b9-43de-8648-6690e68aa748",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "83dcb2ae-95f0-4ce3-a67f-8ace8c8fcf90",
+      "id": "9d9fb451-1503-49d7-b338-9c087e8b596c",
       "content": "<i>Tháng A-đa</i> : x. 3,7+. Như thế, nội dung của sắc lệnh thứ hai rõ ràng huỷ bỏ sắc lệnh trước. Theo bản HL, <i>ngày mười ba</i> còn được gọi là “ngày hôm trước” : trước cái ngày mà quan Ha-man đã rút thăm để tiêu diệt người Do-thái (x. 3,7 ; 3,13e).",
       "position": 143,
       "order": 17,
-      "createdAt": "2024-09-10T03:40:11.927Z",
-      "updatedAt": "2024-09-10T03:40:11.927Z",
-      "verseId": "763dde5a-2d97-4f23-b7ce-43519a8ab0dd",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.121Z",
+      "updatedAt": "2024-09-17T09:42:50.121Z",
+      "verseId": "a34cfb30-c1f8-4252-9b70-069cd850f9d2",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "9e17a52f-97f4-4bbf-a97b-1e19e8a9bad9",
-      "content": "Về mặt lịch sử, người ta thật khó có thể tìm ra được tính cách xác thực của bức công văn này. Còn về mặt văn chương, đoạn văn có nhiều câu nói dài dòng, cú pháp phức tạp và ý tưởng được phóng đại. Tác giả có mục đích muốn để cho vua A-suê-rô tuyên xưng quyền tối thượng của Thiên Chúa (8,12q.12r.12t).",
-      "position": 40,
-      "order": 18,
-      "createdAt": "2024-09-10T03:40:11.933Z",
-      "updatedAt": "2024-09-10T03:40:11.933Z",
-      "headingId": "8e1f18f2-3d32-4892-ac2f-78d69aeb38c7",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "8366edb4-b0c8-4cbc-a6f9-32054716b43b",
-      "content": "<i>Bậc ân nhân</i> : x. Lc 22,25. Pơ-tô-lê-mai III (247-221) đã nhận được danh hiệu <i>bậc ân nhân</i> (Évergète). Trong xã hội Ba-tư thời đó có một giai cấp đặc biệt mà người ta gọi là “các ân nhân của nhà vua” (x. Hérodote VIII,25).",
-      "position": 34,
-      "order": 19,
-      "createdAt": "2024-09-10T03:40:11.940Z",
-      "updatedAt": "2024-09-10T03:40:11.940Z",
-      "verseId": "1bbd06eb-1fe1-4530-8f35-2082c61a2351",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "647dbdc3-6e0b-4fae-8558-657bec3ab763",
-      "content": "<i>Bạn bè</i> : x. 1,13.",
-      "position": 54,
-      "order": 20,
-      "createdAt": "2024-09-10T03:40:11.949Z",
-      "updatedAt": "2024-09-10T03:40:11.949Z",
-      "verseId": "caa13b3e-c51e-4ca9-8f38-beda934e0c64",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "b956946b-04df-48c6-81f9-65758ec3f888",
-      "content": "Chi tiết về nguồn gốc của Ha-man, <i>người Ma-kê-đô-ni-a</i> không hề xuất hiện trong bản HR. Tuy nhiên, nó vẫn được các bộ sưu tập của Ô-ri-giê-nê và Lu-xi-a-nô (bản HL) xác nhận. Có lẽ đây là dấu chứng cho thấy sự phản kháng của người Do-thái đối với thế giới Hy-lạp dân ngoại. Họ căm ghét vua An-ti-ô-khô Ê-pi-pha-nê, người đã đưa các tập tục dân ngoại vào Ít-ra-en. Thế mà vua này lại là một trong những kẻ thừa kế vương quốc bị chia cắt sau cái chết của A-lê-xan-đê người Ma-kê-đô-ni-a (x. 1 Mcb 1). Hơn nữa, lịch sử còn cho thấy dưới thời vua Ác-tắc-sát-ta III (359-338), những cuộc cách mạng bùng nổ trong đế quốc Ba-tư thường được người Ma-kê-đô-ni-a ủng hộ. Nhiều lúc, quyền lãnh đạo của các vua Ba-tư thực sự bị người Ma-kê-đô-ni-a đe doạ.",
-      "position": 55,
-      "order": 21,
-      "createdAt": "2024-09-10T03:40:11.964Z",
-      "updatedAt": "2024-09-10T03:40:11.964Z",
-      "verseId": "79833205-b4ca-4b3a-9f60-f093996732b8",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "e1faa124-52c5-4eac-80fc-4f390f1d1ae7",
-      "content": "<i>Quốc phụ</i> : x. 3,13e.",
-      "position": 99,
-      "order": 22,
-      "createdAt": "2024-09-10T03:40:11.972Z",
-      "updatedAt": "2024-09-10T03:40:11.972Z",
-      "verseId": "fd426d4c-e4b5-4bdb-89ae-46ac0f588f88",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "bac5ec8e-348d-4b8d-b41c-25f0928b3ab1",
-      "content": "Nhắc lại vụ âm mưu ám hại nhà vua (x. 7,3-6 ; 8,3.12c-12d).",
-      "position": 97,
-      "order": 23,
-      "createdAt": "2024-09-10T03:40:11.976Z",
-      "updatedAt": "2024-09-10T03:40:11.976Z",
-      "verseId": "9e5a4b2d-b8e0-441f-94f1-8588c384567f",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "1136244c-b3cd-4ac3-9a2e-82c57433da36",
-      "content": "<i>Ma-kê-đô-ni-a</i> : x. 8,12k+.",
-      "position": 129,
-      "order": 24,
-      "createdAt": "2024-09-10T03:40:11.985Z",
-      "updatedAt": "2024-09-10T03:40:11.985Z",
-      "verseId": "946cf813-0a59-4698-85f6-3cee5d4fa918",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "348ab87a-fc05-4f93-ab5a-09d0ba5cd05e",
-      "content": "<i>Cực kỳ gian ác</i> : 2 Mcb 8,34 ; 15,3 : cũng nói tướng Ni-ca-no là <i>tên đại gian ác</i>.",
-      "position": 57,
-      "order": 25,
-      "createdAt": "2024-09-10T03:40:11.990Z",
-      "updatedAt": "2024-09-10T03:40:11.990Z",
-      "verseId": "62cfbbfe-2e84-4b2a-8bba-4c03f4655c5e",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "17ea3ce6-85e8-4e58-b8fa-b7fd09901b40",
-      "content": "<i>Thiên Chúa hằng sống</i> : Gr 10,10 ; Hs 2,1 ; 2 Mcb 15,4. <i>Thiên Chúa tối cao</i> : Đn 3,32 ; Tb 1,13 ; 2 Mcb 3,31 ; Kn 5,15 ; 6,3 ; Hc 9,15. <i>Thiên Chúa cao cả</i> : 2 Mcb 3,36.",
-      "position": 51,
-      "order": 26,
-      "createdAt": "2024-09-10T03:40:11.993Z",
-      "updatedAt": "2024-09-10T03:40:11.993Z",
-      "verseId": "f997c9c6-8f31-4eea-bf2f-3ebba18cebd1",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "5e71a799-a5a1-42fe-b38b-53269df4e9a4",
-      "content": "<i>Làm đúng</i> ! Thật ra là “làm sai”, vì làm như thế là vi phạm nguyên tắc pháp lý đã loan báo ở 8,8 (x. 1,19+). Ha-man đã đóng ấn của nhà vua trên những công văn này. Thế nên sắc lệnh “không thể bị thu hồi”.",
-      "position": 95,
-      "order": 27,
-      "createdAt": "2024-09-10T03:40:12Z",
-      "updatedAt": "2024-09-10T03:40:12Z",
-      "verseId": "abdd5e59-0abc-4c07-ad9a-599793af02cb",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "a4fe19fa-eb3b-43cb-9f76-a148425c16de",
-      "content": "<i>Đẩy lui</i> : nghĩa là cho người Do-thái có quyền tự vệ hợp pháp, chứ không phải để báo thù, chỉ là “đẩy lui” mà thôi.",
-      "position": 190,
-      "order": 28,
-      "createdAt": "2024-09-10T03:40:12.006Z",
-      "updatedAt": "2024-09-10T03:40:12.006Z",
-      "verseId": "d182b441-7d26-4a04-b212-08fdec28c280",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "82019fb3-5d19-47b0-bbd9-0f91bdcdffc5",
-      "content": "<i>Ngày gian truân</i> : x. 1,1g.",
-      "position": 240,
-      "order": 29,
-      "createdAt": "2024-09-10T03:40:12.008Z",
-      "updatedAt": "2024-09-10T03:40:12.008Z",
-      "verseId": "d182b441-7d26-4a04-b212-08fdec28c280",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "c5fddbbe-f724-4564-a14b-8f1f730d7a46",
-      "content": "Vua A-suê-rô cũng xưng mình có quyền bá chủ toàn cõi địa cầu (x. 3,13b). Nhưng chắc chắn quyền <i>làm chủ vạn vật</i> của Thiên Chúa, Đấng Toàn Năng, hoàn toàn vượt xa mọi thứ vương quyền của trần thế.",
-      "position": 42,
-      "order": 30,
-      "createdAt": "2024-09-10T03:40:12.014Z",
-      "updatedAt": "2024-09-10T03:40:12.014Z",
-      "verseId": "27f4cc6a-62d8-4b99-a1fe-e2ac7cab41ec",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "8dbd291e-3727-4121-b43b-82ee6844b994",
-      "content": "<i>Chống lại ta</i> : Chắc chắn những lời này muốn ám chỉ đến quan Ha-man (7,4tt ; 8,3), nhưng cũng muốn nhắc tới mưu đồ của hai viên thái giám (1,1m-1o ; 2,21-23).",
-      "position": 325,
-      "order": 31,
-      "createdAt": "2024-09-10T03:40:12.021Z",
-      "updatedAt": "2024-09-10T03:40:12.021Z",
-      "verseId": "2e202c43-262c-4a91-865f-59a880f64cbe",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
-    },
-    {
-      "id": "b10649c6-3adb-43db-8546-bbadd22f3a29",
+      "id": "0677b832-073c-448c-84e2-62eee1ee1369",
       "content": "<i>Trả đũa địch thù</i> : sẵn sàng để tự vệ (x. 8,12s+). Mặt khác, khi nhấn mạnh ý tưởng này, tác giả cũng muốn đề cao người Do-thái : tất cả những ai chống đối họ đều sẽ bị trừng phạt nghiêm khắc (x. 9,1tt).",
       "position": 170,
-      "order": 32,
-      "createdAt": "2024-09-10T03:40:12.033Z",
-      "updatedAt": "2024-09-10T03:40:12.033Z",
-      "verseId": "56b6a06f-05be-46bb-89e0-875e8001b5eb",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "order": 18,
+      "createdAt": "2024-09-17T09:42:50.207Z",
+      "updatedAt": "2024-09-17T09:42:50.207Z",
+      "verseId": "3e34bcb2-c7ad-47f0-b077-d0b211a1f040",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "f0ecfc58-fb63-47d3-9657-69efbdc19f46",
+      "id": "1e2c246e-99c6-4387-bdd1-6385616b6211",
       "content": "Ông Moóc-đo-khai được mặc phẩm phục hoàng triều. Ông trở thành nhân vật có thế giá.",
       "position": 149,
-      "order": 33,
-      "createdAt": "2024-09-10T03:40:12.045Z",
-      "updatedAt": "2024-09-10T03:40:12.045Z",
-      "verseId": "22c746cb-3429-4de7-9dfe-72292845d7f1",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "order": 19,
+      "createdAt": "2024-09-17T09:42:50.218Z",
+      "updatedAt": "2024-09-17T09:42:50.218Z",
+      "verseId": "7fef857e-ddce-45a1-ab39-6f3b0997863e",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "bfd88ce5-04af-46b1-95fc-419f0e3075ec",
+      "id": "61f8f36c-1053-4550-8dea-983c18bce28c",
       "content": "<i>Mở tiệc ăn mừng</i>, ds : <i>Một ngày vui vẻ tiệc tùng</i> (x. 9,19.22).",
       "position": 171,
-      "order": 34,
-      "createdAt": "2024-09-10T03:40:12.061Z",
-      "updatedAt": "2024-09-10T03:40:12.061Z",
-      "verseId": "1e55427b-f901-43aa-8bef-3f86fbc69c31",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "order": 20,
+      "createdAt": "2024-09-17T09:42:50.235Z",
+      "updatedAt": "2024-09-17T09:42:50.235Z",
+      "verseId": "499ca487-7736-4ede-88df-e9f8b5916f3f",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "2bafadc8-d271-4222-83a5-2ba10b3ad4b0",
+      "id": "ed022bb7-932b-4403-937b-f2b31f8a956e",
       "content": "<i>Các dân</i> : Các dân tộc (x. 8,12l).",
       "position": 185,
-      "order": 35,
-      "createdAt": "2024-09-10T03:40:12.064Z",
-      "updatedAt": "2024-09-10T03:40:12.064Z",
-      "verseId": "1e55427b-f901-43aa-8bef-3f86fbc69c31",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "order": 21,
+      "createdAt": "2024-09-17T09:42:50.237Z",
+      "updatedAt": "2024-09-17T09:42:50.237Z",
+      "verseId": "499ca487-7736-4ede-88df-e9f8b5916f3f",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "c6327e9f-d24c-42d5-9b43-a552acfdca06",
+      "id": "e7c9daef-3be6-4ed2-9644-2d836950865d",
       "content": "<i>Người tự xưng là Do-thái</i> : Đó là những kẻ bắt chước, hay theo tập quán đạo Do-thái. Đây là lần duy nhất trong Cựu Ước sử dụng kiểu nói này (x. Gl 2,14). Bản LXX và LT Cổ cắt nghĩa thêm rằng đây là những người <i>đã chịu cắt bì</i>.",
       "position": 226,
-      "order": 36,
-      "createdAt": "2024-09-10T03:40:12.067Z",
-      "updatedAt": "2024-09-10T03:40:12.067Z",
-      "verseId": "1e55427b-f901-43aa-8bef-3f86fbc69c31",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "order": 22,
+      "createdAt": "2024-09-17T09:42:50.240Z",
+      "updatedAt": "2024-09-17T09:42:50.240Z",
+      "verseId": "499ca487-7736-4ede-88df-e9f8b5916f3f",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     }
   ],
   "headings": [
     {
-      "id": "a88f02c3-e8f8-47d9-8633-0e8f5ee52646",
+      "id": "d332aa41-c193-43fa-9e22-d34527524e4e",
       "content": "Vua đổi lòng, mến chuộng dân Do-thái",
       "order": 0,
-      "createdAt": "2024-09-10T03:40:11.857Z",
-      "updatedAt": "2024-09-10T03:40:11.857Z",
-      "verseId": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.042Z",
+      "updatedAt": "2024-09-17T09:42:50.042Z",
+      "verseId": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "8e1f18f2-3d32-4892-ac2f-78d69aeb38c7",
+      "id": "613cdef0-e0f6-4c8b-b8db-e9cd9861a20d",
       "content": "Sắc chỉ phục hồi quyền của người Do-thái",
       "order": 0,
-      "createdAt": "2024-09-10T03:40:11.931Z",
-      "updatedAt": "2024-09-10T03:40:11.931Z",
-      "verseId": "1e05e227-2ed5-43dc-9299-9d22e95bf778",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.125Z",
+      "updatedAt": "2024-09-17T09:42:50.125Z",
+      "verseId": "39da9f3b-e5a9-45d8-99b5-b8bae8410dac",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     }
   ],
   "references": [
     {
-      "id": "409ea4c4-bb06-4f12-9105-4247df2ebd3e",
+      "id": "a261ce31-60e5-49b7-a5b4-a66cd3c4e745",
       "content": "Et 9,10.24",
       "position": 70,
       "order": 0,
-      "createdAt": "2024-09-10T03:40:11.866Z",
-      "updatedAt": "2024-09-10T03:40:11.866Z",
-      "verseId": "9a427839-20f9-4b29-8c7b-d5923a0337fc",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.051Z",
+      "updatedAt": "2024-09-17T09:42:50.051Z",
+      "verseId": "06403f23-4df2-413e-aa3f-3d67c14b41fc",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "d05dad18-ea81-405f-87ef-4e12403c005a",
+      "id": "e3789fc7-94c2-4054-93ea-2291b533adf7",
       "content": "Et 3,10",
       "position": 6,
       "order": 1,
-      "createdAt": "2024-09-10T03:40:11.872Z",
-      "updatedAt": "2024-09-10T03:40:11.872Z",
-      "verseId": "68bb1ab3-a921-44e2-9995-0186fde801c8",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.058Z",
+      "updatedAt": "2024-09-17T09:42:50.058Z",
+      "verseId": "98d522e9-be46-4159-9792-608ab6a383f1",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "7c60b782-843f-4a24-9ae6-76e1d35c0618",
+      "id": "e16e00c4-efdf-4580-ab8b-a7e91bf96353",
       "content": "Cn 13,22",
       "position": 74,
       "order": 2,
-      "createdAt": "2024-09-10T03:40:11.902Z",
-      "updatedAt": "2024-09-10T03:40:11.902Z",
-      "verseId": "088d429e-c5a6-4954-87c3-52532a502018",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.090Z",
+      "updatedAt": "2024-09-17T09:42:50.090Z",
+      "verseId": "4456fda2-7e76-4c5c-9a02-2db241cb1838",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "e3791daf-cf8f-4754-9619-723945aa9b57",
+      "id": "7845698e-3558-43ca-82b1-0b19c098b322",
       "content": "Gv 12,14",
       "position": 187,
       "order": 3,
-      "createdAt": "2024-09-10T03:40:11.944Z",
-      "updatedAt": "2024-09-10T03:40:11.944Z",
-      "verseId": "8e9b83e1-7690-41e6-8116-1481e416ace6",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.137Z",
+      "updatedAt": "2024-09-17T09:42:50.137Z",
+      "verseId": "357d44c4-9f96-4433-b812-513539cc886e",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "a5d05980-a106-4c69-bdc1-1a1f553b113f",
+      "id": "7a02e168-dc7e-4a03-b9b9-4147e1c88075",
       "content": "Đn 11,21",
       "position": 26,
       "order": 4,
-      "createdAt": "2024-09-10T03:40:11.953Z",
-      "updatedAt": "2024-09-10T03:40:11.953Z",
-      "verseId": "e48bc834-7629-4b98-95b7-d80d8feb597f",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.143Z",
+      "updatedAt": "2024-09-17T09:42:50.143Z",
+      "verseId": "3e4aa672-eb9d-48b7-bb98-0743a5f2dd1f",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "c65c4f21-d90f-4050-9ed6-73fdae1df6a5",
+      "id": "8db573bd-48e6-4de2-a666-fcbe3164f865",
       "content": "Đn 5,20",
       "position": 25,
       "order": 5,
-      "createdAt": "2024-09-10T03:40:11.978Z",
-      "updatedAt": "2024-09-10T03:40:11.978Z",
-      "verseId": "9e5a4b2d-b8e0-441f-94f1-8588c384567f",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.161Z",
+      "updatedAt": "2024-09-17T09:42:50.161Z",
+      "verseId": "64d65792-976e-4080-9fe7-00f31d9bac20",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "da7e82cb-70dc-495f-ac12-ff91af6fef19",
+      "id": "d1e35263-7ec2-4d47-b0b3-69204bf8a066",
       "content": "Đn 3,29.32",
       "position": 6,
       "order": 6,
-      "createdAt": "2024-09-10T03:40:11.995Z",
-      "updatedAt": "2024-09-10T03:40:11.995Z",
-      "verseId": "f997c9c6-8f31-4eea-bf2f-3ebba18cebd1",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.174Z",
+      "updatedAt": "2024-09-17T09:42:50.174Z",
+      "verseId": "53055af1-370a-469f-9c4f-1258f801313c",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "08680836-113c-4eb4-a9ef-353af8ed4011",
+      "id": "2eabfe5b-6e33-409f-82f3-69f1fa96ad29",
       "content": "2 Mcb 4,38; Đn 6,25",
       "position": 221,
       "order": 7,
-      "createdAt": "2024-09-10T03:40:12.002Z",
-      "updatedAt": "2024-09-10T03:40:12.002Z",
-      "verseId": "abdd5e59-0abc-4c07-ad9a-599793af02cb",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.178Z",
+      "updatedAt": "2024-09-17T09:42:50.178Z",
+      "verseId": "9e359888-a09b-4fea-aa42-ef3fbdc5661e",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "a7a6e66a-5610-4596-b88f-2cfda0409949",
+      "id": "3b5f14e2-f1c0-46b0-82e8-63673035f037",
       "content": "1 Mcb 6,59; 2 Mcb 11,25",
       "position": 111,
       "order": 8,
-      "createdAt": "2024-09-10T03:40:12.010Z",
-      "updatedAt": "2024-09-10T03:40:12.010Z",
-      "verseId": "d182b441-7d26-4a04-b212-08fdec28c280",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.183Z",
+      "updatedAt": "2024-09-17T09:42:50.183Z",
+      "verseId": "a4a6634e-37d7-4bb9-861c-e012b4a50dd8",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "43efd2d0-888a-4500-8091-8df0873cef3b",
+      "id": "e14356ee-919d-4636-b872-008fed9414fa",
       "content": "Et 8,12",
       "position": 66,
       "order": 9,
-      "createdAt": "2024-09-10T03:40:12.017Z",
-      "updatedAt": "2024-09-10T03:40:12.017Z",
-      "verseId": "27f4cc6a-62d8-4b99-a1fe-e2ac7cab41ec",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.188Z",
+      "updatedAt": "2024-09-17T09:42:50.188Z",
+      "verseId": "be6b321e-9714-4df2-92fd-8acee1f340b0",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "c7525ea8-6a43-40d6-8ae5-218825bc17dd",
+      "id": "02afaa81-e9bd-4a2a-9525-737d7d74fe35",
       "content": "Đn 3,29",
       "position": 0,
       "order": 10,
-      "createdAt": "2024-09-10T03:40:12.026Z",
-      "updatedAt": "2024-09-10T03:40:12.026Z",
-      "verseId": "30df8f78-5161-4f9c-9624-d29f179114d8",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.198Z",
+      "updatedAt": "2024-09-17T09:42:50.198Z",
+      "verseId": "7e0123b7-c8b6-4e26-8e2d-1d35caefb5e1",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "37fddcac-80e7-4de1-8e46-9c479f2b1783",
+      "id": "f49c8e53-d1e7-4162-a7d7-27cf00e37705",
       "content": "Is 13,20; Gr 9,9; 59,62",
       "position": 151,
       "order": 11,
-      "createdAt": "2024-09-10T03:40:12.028Z",
-      "updatedAt": "2024-09-10T03:40:12.028Z",
-      "verseId": "30df8f78-5161-4f9c-9624-d29f179114d8",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.200Z",
+      "updatedAt": "2024-09-17T09:42:50.200Z",
+      "verseId": "7e0123b7-c8b6-4e26-8e2d-1d35caefb5e1",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "bbed43fb-8b67-48d9-86c8-f7bdc866be9c",
+      "id": "204ea0c7-517b-4b06-998c-78da18df0d23",
       "content": "Is 61,2-3",
       "position": 102,
       "order": 12,
-      "createdAt": "2024-09-10T03:40:12.039Z",
-      "updatedAt": "2024-09-10T03:40:12.039Z",
-      "verseId": "dd495b8f-fcd5-47e1-906d-3cf40c4bbeea",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.213Z",
+      "updatedAt": "2024-09-17T09:42:50.213Z",
+      "verseId": "226ddc01-8c01-41f3-a10e-bf6e1b521901",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "41c42e41-7342-4b81-9d60-a86a45c47f6e",
+      "id": "f3f2932b-30c8-493c-a5af-bfc8fce00381",
       "content": "1 Mcb 6,15; 10,20; Cn 4,9; Kn 5,16; Đn 5,29",
       "position": 37,
       "order": 13,
-      "createdAt": "2024-09-10T03:40:12.048Z",
-      "updatedAt": "2024-09-10T03:40:12.048Z",
-      "verseId": "22c746cb-3429-4de7-9dfe-72292845d7f1",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.225Z",
+      "updatedAt": "2024-09-17T09:42:50.225Z",
+      "verseId": "7fef857e-ddce-45a1-ab39-6f3b0997863e",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "ef15d2bf-8f4c-4f08-a8fb-04b05510a28d",
+      "id": "f4b7bf3f-7d06-4029-aa46-bdd118b57f2e",
       "content": "Tv 97,11",
       "position": 183,
       "order": 14,
-      "createdAt": "2024-09-10T03:40:12.051Z",
-      "updatedAt": "2024-09-10T03:40:12.051Z",
-      "verseId": "22c746cb-3429-4de7-9dfe-72292845d7f1",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.227Z",
+      "updatedAt": "2024-09-17T09:42:50.227Z",
+      "verseId": "7fef857e-ddce-45a1-ab39-6f3b0997863e",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     },
     {
-      "id": "6fa64fff-9db1-4ed6-92be-1de4ec75fa96",
+      "id": "c4bc4f30-6784-4e60-82b3-201bc802d42b",
       "content": "1 Mcb 4,59; 5,54; 2 Mcb 3,30",
       "position": 137,
       "order": 15,
-      "createdAt": "2024-09-10T03:40:12.071Z",
-      "updatedAt": "2024-09-10T03:40:12.071Z",
-      "verseId": "1e55427b-f901-43aa-8bef-3f86fbc69c31",
-      "chapterId": "9a624b70-850e-4110-bb75-af9ccc036cb5"
+      "createdAt": "2024-09-17T09:42:50.242Z",
+      "updatedAt": "2024-09-17T09:42:50.242Z",
+      "verseId": "499ca487-7736-4ede-88df-e9f8b5916f3f",
+      "chapterId": "5a2e9f9d-0eae-4a1f-937b-ff8f517ce226"
     }
   ]
 }

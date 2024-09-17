@@ -1,975 +1,975 @@
 {
   "chapter": {
-    "id": "36d47737-4c4e-40a1-a86b-3345acec827a",
+    "id": "14dee700-d62a-4c04-9cec-b5a59af5cc7a",
     "number": 16,
     "ref": "",
-    "createdAt": "2024-09-10T00:39:05.876Z",
-    "updatedAt": "2024-09-10T00:39:05.876Z",
-    "bookId": "7f56b021-9713-49da-a680-fb19a7c7c333"
+    "createdAt": "2024-09-17T08:41:12.632Z",
+    "updatedAt": "2024-09-17T08:41:12.632Z",
+    "bookId": "63b45745-f578-4f1e-8c5d-d636aab82116"
   },
   "verses": [
     {
-      "id": "a7090fb7-d6d7-4f29-8d0f-335df4dc9ed1",
+      "id": "5b6dd4e6-b446-434b-8d77-211c9ec4c3df",
       "number": 1,
       "content": "Bấy giờ, ông Gióp lên tiếng nói :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T04:07:11.207Z",
-      "updatedAt": "2024-09-10T04:07:11.207Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.341Z",
+      "updatedAt": "2024-09-17T09:46:29.341Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "7f33279a-773a-4e3d-b505-0ffdd132555d",
+      "id": "9b7801ab-0147-4822-8108-b385157b641e",
       "number": 2,
       "content": "Những điều như thế, tôi nghe đã bao lần.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.221Z",
-      "updatedAt": "2024-09-10T04:07:11.221Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.349Z",
+      "updatedAt": "2024-09-17T09:46:29.349Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "6cfa4f79-95c3-4864-89a4-cd50258bfd16",
+      "id": "2a8dc823-d17f-4a6a-b8b6-ab2647f76ced",
       "number": 2,
       "content": "Các anh muốn ủi an nhưng tất cả chỉ gây thêm đau khổ.",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.225Z",
-      "updatedAt": "2024-09-10T04:07:11.225Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.353Z",
+      "updatedAt": "2024-09-17T09:46:29.353Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b64efb31-ef23-4934-a8b4-88339713a1f2",
+      "id": "6257f52d-812f-4750-ae89-84c71917d3be",
       "number": 3,
       "content": "“Những lời lẽ viển vông như thế liệu đã chấm dứt chưa ?”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.227Z",
-      "updatedAt": "2024-09-10T04:07:11.227Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.355Z",
+      "updatedAt": "2024-09-17T09:46:29.355Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "a68ad5c7-f845-488d-a0bc-a81d8107bb92",
+      "id": "43d59d0e-a73d-4be0-93ae-13851e609768",
       "number": 3,
       "content": "Hoặc : “Điều gì bắt anh phải trả lời thêm nữa ?”",
       "order": 1,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.231Z",
-      "updatedAt": "2024-09-10T04:07:11.231Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.359Z",
+      "updatedAt": "2024-09-17T09:46:29.359Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "2d97c357-4318-47b7-8cb5-308674eab96b",
+      "id": "b40839c4-9cbe-45e6-8edf-7b2170ec1a78",
       "number": 4,
       "content": "Giả như các anh ở vào địa vị tôi,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.234Z",
-      "updatedAt": "2024-09-10T04:07:11.234Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.361Z",
+      "updatedAt": "2024-09-17T09:46:29.361Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "f5bc4009-b172-4fde-bc62-3470bd907846",
+      "id": "10ebab01-a40d-4e68-bb85-553c061c546c",
       "number": 4,
       "content": "tôi cũng sẽ nói như các anh,",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.244Z",
-      "updatedAt": "2024-09-10T04:07:11.244Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.365Z",
+      "updatedAt": "2024-09-17T09:46:29.365Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "e7967adf-5e3d-4b5a-b5ba-be352fb09f47",
+      "id": "ee00f68e-a895-4da2-9750-6d16616e18a5",
       "number": 4,
       "content": "cũng sẽ có những lời đối đáp,",
       "order": 2,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.249Z",
-      "updatedAt": "2024-09-10T04:07:11.249Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.367Z",
+      "updatedAt": "2024-09-17T09:46:29.367Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "360408ba-40a6-4faf-a13a-a077479dab14",
+      "id": "c57ee3c0-2b6d-4651-888d-44d4f89487fb",
       "number": 4,
       "content": "sẽ lắc đầu mai mỉa các anh.",
       "order": 3,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.255Z",
-      "updatedAt": "2024-09-10T04:07:11.255Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.369Z",
+      "updatedAt": "2024-09-17T09:46:29.369Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "dee1d8aa-6cb9-47da-a0e0-07cd981f21a6",
+      "id": "f066a9cc-6a1c-4a26-8dd7-6db4c3c9dbee",
       "number": 5,
       "content": "Tôi cũng sẽ dùng ba tấc lưỡi",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.267Z",
-      "updatedAt": "2024-09-10T04:07:11.267Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.375Z",
+      "updatedAt": "2024-09-17T09:46:29.375Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "ba13dde8-4bd0-408a-961c-439744cd04c3",
+      "id": "d99a5d20-9358-4713-8bf8-6c8e23ee1fad",
       "number": 5,
       "content": "để làm cho các anh nên vững vàng,",
       "order": 1,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.271Z",
-      "updatedAt": "2024-09-10T04:07:11.271Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.377Z",
+      "updatedAt": "2024-09-17T09:46:29.377Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "dfc4aa0d-048b-469a-aec5-203fa4dc5121",
+      "id": "e1342358-48ee-4e6f-aeac-16d271994080",
       "number": 5,
       "content": "sẽ không tiếc mấp máy đôi môi",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.274Z",
-      "updatedAt": "2024-09-10T04:07:11.274Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.379Z",
+      "updatedAt": "2024-09-17T09:46:29.379Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "bdaaefcd-01ff-451b-ad55-f1693173ca9b",
+      "id": "c04d2390-7977-46cd-bf8f-2a21e4ee6942",
       "number": 5,
       "content": "mà làm cho các anh thêm mạnh mẽ.",
       "order": 3,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.278Z",
-      "updatedAt": "2024-09-10T04:07:11.278Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.381Z",
+      "updatedAt": "2024-09-17T09:46:29.381Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b8c592af-3144-4c23-9331-cfe597326051",
+      "id": "df24d28c-5cdb-48b9-a61b-e8bf45ce1f40",
       "number": 6,
       "content": "Nếu tôi có nói, nỗi khổ của tôi vẫn khôn nguôi,",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.281Z",
-      "updatedAt": "2024-09-10T04:07:11.281Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.383Z",
+      "updatedAt": "2024-09-17T09:46:29.383Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "6bcc9408-e4e9-4d12-b3be-b52bd10a7677",
+      "id": "76b358eb-f9b1-4ccb-9844-baeddbd569b1",
       "number": 6,
       "content": "tôi mà nín thinh, nỗi khổ của tôi liệu có dứt ?",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.285Z",
-      "updatedAt": "2024-09-10T04:07:11.285Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.385Z",
+      "updatedAt": "2024-09-17T09:46:29.385Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "dfac030f-3aa2-4544-9a47-00c24ef10cb6",
+      "id": "416f0ff0-975f-4335-b254-3ecc79d23d0c",
       "number": 7,
       "content": "Nhưng giờ đây Thiên Chúa làm cho tôi kiệt quệ.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.289Z",
-      "updatedAt": "2024-09-10T04:07:11.289Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.387Z",
+      "updatedAt": "2024-09-17T09:46:29.387Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "55388960-4262-4ca8-a77e-b2e0e93e97ba",
+      "id": "1dcc7a32-1450-45e0-9429-13ca83834799",
       "number": 7,
       "content": "Phải, Ngài đã gieo kinh hoàng",
       "order": 1,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.293Z",
-      "updatedAt": "2024-09-10T04:07:11.293Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.389Z",
+      "updatedAt": "2024-09-17T09:46:29.389Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "41b9e03a-4e29-4a7b-b2d5-2cdc8cd9b0bb",
+      "id": "8bfcc39a-91e7-4319-8f6c-a80d9f2e6cdd",
       "number": 7,
       "content": "trên mọi người thân cận của con.",
       "order": 2,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.300Z",
-      "updatedAt": "2024-09-10T04:07:11.300Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.394Z",
+      "updatedAt": "2024-09-17T09:46:29.394Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "ce1afd20-2e7b-423c-bcca-6e82983cd73d",
+      "id": "46931032-2f83-4222-a28b-af4e377c5fe7",
       "number": 8,
       "content": "Ngài đã để cho da con phải nhăn nheo xấu xí,",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.308Z",
-      "updatedAt": "2024-09-10T04:07:11.308Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.398Z",
+      "updatedAt": "2024-09-17T09:46:29.398Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "7ee81528-10d8-468a-98f1-61ccfc75b94e",
+      "id": "e82b7a08-e04d-49f7-bc3a-989e75d56851",
       "number": 8,
       "content": "đó là một bằng cớ tố cáo con ;",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.315Z",
-      "updatedAt": "2024-09-10T04:07:11.315Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.402Z",
+      "updatedAt": "2024-09-17T09:46:29.402Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b21b00e2-6949-4684-8cbc-93ca26927b80",
+      "id": "df37a0a1-7dbc-4f5b-a627-283921bde84f",
       "number": 8,
       "content": "và vẻ xanh xao gầy còm của thân thể",
       "order": 2,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.322Z",
-      "updatedAt": "2024-09-10T04:07:11.322Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.406Z",
+      "updatedAt": "2024-09-17T09:46:29.406Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "24b9fb0b-42b5-41ef-8f17-1622bef71fb1",
+      "id": "b914ecda-d796-426b-8942-552cfff3681d",
       "number": 8,
       "content": "cũng là một bằng cớ nữa tố cáo con.",
       "order": 3,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.326Z",
-      "updatedAt": "2024-09-10T04:07:11.326Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.408Z",
+      "updatedAt": "2024-09-17T09:46:29.408Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "ec725965-6aaa-4bf9-a89a-f3384bc77c9c",
+      "id": "e3e56c4a-96d9-4144-aef9-15f840ac4d38",
       "number": 9,
       "content": "Tôi bị cơn giận của Người cấu xé và săn đuổi,",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.330Z",
-      "updatedAt": "2024-09-10T04:07:11.330Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.410Z",
+      "updatedAt": "2024-09-17T09:46:29.410Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "ef4c6dcf-0067-4270-a8ca-9669fd9b9165",
+      "id": "e89b2ea7-540f-499d-ac9a-0b2b25ddbf5b",
       "number": 9,
       "content": "Người nghiến răng nghiến lợi doạ dẫm tôi.",
       "order": 1,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.334Z",
-      "updatedAt": "2024-09-10T04:07:11.334Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.412Z",
+      "updatedAt": "2024-09-17T09:46:29.412Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "79ba65fd-e24a-44b5-808a-fbd1d50290cf",
+      "id": "0772d630-6c15-4235-8d11-2e46e6bfd33a",
       "number": 9,
       "content": "Kẻ thù tôi đưa mắt nhìn tôi chòng chọc.",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.342Z",
-      "updatedAt": "2024-09-10T04:07:11.342Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.416Z",
+      "updatedAt": "2024-09-17T09:46:29.416Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "2ecf3950-16b7-4367-a107-2e79a124491b",
+      "id": "3e0dacd5-edaa-43b2-8314-79cb87343112",
       "number": 10,
       "content": "Chúng há mồm há miệng doạ dẫm tôi, lại hè nhau chế giễu,",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.349Z",
-      "updatedAt": "2024-09-10T04:07:11.349Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.421Z",
+      "updatedAt": "2024-09-17T09:46:29.421Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b683a471-9646-4eee-8163-48e9e286bc9c",
+      "id": "218653b4-acdc-489c-beb3-ba442a842d08",
       "number": 10,
       "content": "cùng nhau tụ họp chống lại tôi.",
       "order": 1,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.352Z",
-      "updatedAt": "2024-09-10T04:07:11.352Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.423Z",
+      "updatedAt": "2024-09-17T09:46:29.423Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "31703f56-5fe4-479b-a05a-ea7e3cfdda89",
+      "id": "ea0c7203-4c58-4c09-ac73-a8cae4393212",
       "number": 11,
       "content": "Thiên Chúa đã trao tôi cho bọn điên khùng,",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.356Z",
-      "updatedAt": "2024-09-10T04:07:11.356Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.425Z",
+      "updatedAt": "2024-09-17T09:46:29.425Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "f6889cd0-ea51-447d-ae57-3ec4c023a9c0",
+      "id": "ba2a60f1-35ed-4daf-820c-2f459f3dfc8e",
       "number": 11,
       "content": "quẳng tôi vào tay phường gian ác.",
       "order": 1,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.367Z",
-      "updatedAt": "2024-09-10T04:07:11.367Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.431Z",
+      "updatedAt": "2024-09-17T09:46:29.431Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "bd77e4ef-ae3f-48b9-90bf-7088b4046249",
+      "id": "2d5f482a-8e0b-43f0-b698-5b4a5322f199",
       "number": 12,
       "content": "Tôi đang sống yên ổn thì Người đánh tôi,",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.371Z",
-      "updatedAt": "2024-09-10T04:07:11.371Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.434Z",
+      "updatedAt": "2024-09-17T09:46:29.434Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "cde6a3ea-637f-496b-b570-19baf3cc3792",
+      "id": "f75b37d5-e91e-4a78-8981-37e83f257e46",
       "number": 12,
       "content": "nắm lấy gáy tôi mà bẻ gãy,",
       "order": 1,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.378Z",
-      "updatedAt": "2024-09-10T04:07:11.378Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.438Z",
+      "updatedAt": "2024-09-17T09:46:29.438Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "4fdb2a19-db55-4201-8114-093b41ff81bc",
+      "id": "1a8faff2-a0f8-48f7-8147-4cd81cf24544",
       "number": 12,
       "content": "rồi dựng tôi lên làm bia mà bắn :",
       "order": 2,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.381Z",
-      "updatedAt": "2024-09-10T04:07:11.381Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.440Z",
+      "updatedAt": "2024-09-17T09:46:29.440Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "32498256-6d34-41ea-b057-9a0d04724418",
+      "id": "c0c7595e-3ab9-47e1-b2f3-663f78365087",
       "number": 13,
       "content": "tên nhọn của Người vây bủa lấy tôi,",
       "order": 0,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.385Z",
-      "updatedAt": "2024-09-10T04:07:11.385Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.442Z",
+      "updatedAt": "2024-09-17T09:46:29.442Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "645c3cd8-5fd9-420e-9020-112332dbcef6",
+      "id": "6422c5b4-7fbe-4a73-ab4d-434e38cb3736",
       "number": 13,
       "content": "đâm thẳng vào lưng, không mảy may thương hại,",
       "order": 1,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.392Z",
-      "updatedAt": "2024-09-10T04:07:11.392Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.446Z",
+      "updatedAt": "2024-09-17T09:46:29.446Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "3040ef61-651b-4e73-9420-eb32c9f46fe4",
+      "id": "e6e1831e-e475-4e16-a4e6-d2bee16282a2",
       "number": 13,
       "content": "khiến cho mật tôi đổ tràn ra đất.",
       "order": 2,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.396Z",
-      "updatedAt": "2024-09-10T04:07:11.396Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.448Z",
+      "updatedAt": "2024-09-17T09:46:29.448Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "59be36ca-1079-43cc-bd7a-e7e61d496579",
+      "id": "d4879656-96a5-4e2f-bae2-48284f33ae16",
       "number": 14,
       "content": "Rồi Người chọc thủng tôi lỗ chỗ ;",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.404Z",
-      "updatedAt": "2024-09-10T04:07:11.404Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.452Z",
+      "updatedAt": "2024-09-17T09:46:29.452Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "0daa7a28-864f-451e-8383-8a1bffaccb14",
+      "id": "0867e865-f9ed-4480-9430-3c4114f8cf04",
       "number": 14,
       "content": "tựa trang chiến sĩ, Người nhảy vào đánh tôi tơi bời,",
       "order": 1,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.415Z",
-      "updatedAt": "2024-09-10T04:07:11.415Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.459Z",
+      "updatedAt": "2024-09-17T09:46:29.459Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "99c6ec26-d344-4df8-9bc2-67df9b6dfb44",
+      "id": "3bcda6e2-ad6e-438a-a8c9-b5e9838109e4",
       "number": 15,
       "content": "tôi khoác lên da khô của mình tấm áo vải thô,",
       "order": 0,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.418Z",
-      "updatedAt": "2024-09-10T04:07:11.418Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.461Z",
+      "updatedAt": "2024-09-17T09:46:29.461Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "de415190-242d-49f5-a79e-26d364e4e1fe",
+      "id": "2b5a172a-36bb-4920-9a15-1c38631b7d9f",
       "number": 15,
       "content": "lại vùi trán tôi trong bụi đất.",
       "order": 1,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.426Z",
-      "updatedAt": "2024-09-10T04:07:11.426Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.466Z",
+      "updatedAt": "2024-09-17T09:46:29.466Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "180d8aac-fcda-416f-8785-06979d615890",
+      "id": "8e7fe34e-f28e-455d-8935-d9b80a4b8495",
       "number": 16,
       "content": "Khóc lóc nhiều, mặt tôi đỏ ửng,",
       "order": 0,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.434Z",
-      "updatedAt": "2024-09-10T04:07:11.434Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.470Z",
+      "updatedAt": "2024-09-17T09:46:29.470Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "da5527de-9a0d-4e79-b591-4bb04cfd50e5",
+      "id": "58d2afaf-4805-44b1-b0e8-d501ecd6ba4e",
       "number": 16,
       "content": "phiền muộn quá, cặp mắt thâm quầng.",
       "order": 1,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.445Z",
-      "updatedAt": "2024-09-10T04:07:11.445Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.475Z",
+      "updatedAt": "2024-09-17T09:46:29.475Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "5603f74e-02ad-41e9-900b-db7e977ef8e3",
+      "id": "fe6a1572-e6d6-4368-834e-99d65b27a032",
       "number": 17,
       "content": "Thế nhưng bàn tay tôi chẳng vương bạo lực,",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.448Z",
-      "updatedAt": "2024-09-10T04:07:11.448Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.477Z",
+      "updatedAt": "2024-09-17T09:46:29.477Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "59472d7c-e118-4c60-80e7-dacc44e61175",
+      "id": "65e839e2-e4d7-4c73-a801-31fbced6ee6d",
       "number": 17,
       "content": "và lời cầu nguyện của tôi thật tinh tuyền.",
       "order": 1,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.456Z",
-      "updatedAt": "2024-09-10T04:07:11.456Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.482Z",
+      "updatedAt": "2024-09-17T09:46:29.482Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "6fd8f5f9-7dd2-4d01-8c6e-eba9197c1029",
+      "id": "4fb922bf-0f6b-4ad6-a4a2-7a4c9713e267",
       "number": 18,
       "content": "Đất ơi, đừng vùi lấp máu ta đi,",
       "order": 0,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.463Z",
-      "updatedAt": "2024-09-10T04:07:11.463Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.486Z",
+      "updatedAt": "2024-09-17T09:46:29.486Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "3e3c850d-af07-470c-b89e-cf6397fcd229",
+      "id": "ec429709-8d08-4c8b-853f-ce0eaedde92f",
       "number": 18,
       "content": "ước gì tiếng tôi kêu còn vọng ngân mãi mãi !",
       "order": 1,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.474Z",
-      "updatedAt": "2024-09-10T04:07:11.474Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.492Z",
+      "updatedAt": "2024-09-17T09:46:29.492Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "323989a8-be8e-4bc1-8057-a4e331777d16",
+      "id": "6d1cd34e-0567-47bb-bdc4-01500d99970e",
       "number": 19,
       "content": "Ngay giờ đây trên trời, tôi đã có một nhân chứng,",
       "order": 0,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.483Z",
-      "updatedAt": "2024-09-10T04:07:11.483Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.496Z",
+      "updatedAt": "2024-09-17T09:46:29.496Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "2b3ebec7-daf0-4cf9-923f-19cadb8dc2c0",
+      "id": "7722b7e5-9b7b-4d16-8328-42dcfacc871b",
       "number": 19,
       "content": "nơi chốn cao xanh, tôi đã có một người bảo lãnh.",
       "order": 1,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.488Z",
-      "updatedAt": "2024-09-10T04:07:11.488Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.498Z",
+      "updatedAt": "2024-09-17T09:46:29.498Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "fb36e6f3-0da7-41cc-81da-306adac55c8e",
+      "id": "521a766e-0122-4889-878d-c1518f306d47",
       "number": 20,
       "content": "Bạn bè của tôi chế nhạo tôi,",
       "order": 0,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.504Z",
-      "updatedAt": "2024-09-10T04:07:11.504Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.505Z",
+      "updatedAt": "2024-09-17T09:46:29.505Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "5cfb2a29-b4f3-4132-844d-e21567722ad0",
+      "id": "d6fc2267-dca2-4f9d-abdb-626066a37eaa",
       "number": 20,
       "content": "nhưng tôi hướng nhìn lên Thiên Chúa, mắt đầm đìa giọt lệ.",
       "order": 1,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.509Z",
-      "updatedAt": "2024-09-10T04:07:11.509Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.508Z",
+      "updatedAt": "2024-09-17T09:46:29.508Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "3678b99d-2270-44e0-8442-a78289a66019",
+      "id": "539a4f52-9bc9-4c86-bd9b-19daf1f3978b",
       "number": 21,
       "content": "Phải chi nhân vật kia",
       "order": 0,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.513Z",
-      "updatedAt": "2024-09-10T04:07:11.513Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.511Z",
+      "updatedAt": "2024-09-17T09:46:29.511Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "f3c3d622-b433-44c3-8751-0c2e4f6eeb55",
+      "id": "0db41013-3458-493e-803f-a63a0f70a62a",
       "number": 21,
       "content": "có thể làm trọng tài giữa con người và Thiên Chúa,",
       "order": 1,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.518Z",
-      "updatedAt": "2024-09-10T04:07:11.518Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.513Z",
+      "updatedAt": "2024-09-17T09:46:29.513Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "c8c01caa-20b5-4d9f-a534-611a34584c79",
+      "id": "b95bb4ef-84fe-4326-8cb4-e1c13ff1417a",
       "number": 21,
       "content": "như giữa hai con người với nhau.",
       "order": 2,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.522Z",
-      "updatedAt": "2024-09-10T04:07:11.522Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.516Z",
+      "updatedAt": "2024-09-17T09:46:29.516Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "06e61405-e1ac-4fd0-8bcf-bca02efdb6d9",
+      "id": "b1d4215c-06ba-4911-969d-24065970a709",
       "number": 22,
       "content": "Vì năm tháng đời tôi đã được đếm hết,",
       "order": 0,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.527Z",
-      "updatedAt": "2024-09-10T04:07:11.527Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.518Z",
+      "updatedAt": "2024-09-17T09:46:29.518Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "724024d7-0765-4894-8407-b3a2a1ae4a75",
+      "id": "d6d27b4d-46d1-4dc0-9caa-0f5a208fdba4",
       "number": 22,
       "content": "con đường tôi đang đi không dẫn tôi trở lại.",
       "order": 1,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-10T04:07:11.536Z",
-      "updatedAt": "2024-09-10T04:07:11.536Z",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.522Z",
+      "updatedAt": "2024-09-17T09:46:29.522Z",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     }
   ],
   "footnotes": [
     {
-      "id": "39387814-ed34-4960-88b5-7169447a2a32",
+      "id": "561ffe66-5084-47b3-b764-1ea3cc4c5c3a",
       "content": "Đây là lần trả lời thứ bốn của ông Gióp. Trước hết, ông tức tối vì những lời trách móc và kết tội của ông Ê-li-phát (16,2-6). Những lời ấy không an ủi ông trước cơn thịnh nộ Thiên Chúa tấn công ông cách tàn bạo (16,7-16). Mặc dù ông vô tội (16,17), bỗng dưng một tia hy vọng loé lên, vì ông có chứng nhân trên trời, và có người bảo lãnh cho ông để tiếng ông kêu thấu tới trời (16,18-22). Sau đó, ông lại phàn nàn về những kẻ lên án ông (17,1-10), những kẻ an ủi giả dối (17,11-12) ; chỉ còn âm phủ chờ đợi ông (17,13-16).",
       "position": 31,
       "order": 0,
-      "createdAt": "2024-09-10T04:07:11.218Z",
-      "updatedAt": "2024-09-10T04:07:11.218Z",
-      "verseId": "a7090fb7-d6d7-4f29-8d0f-335df4dc9ed1",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.346Z",
+      "updatedAt": "2024-09-17T09:46:29.346Z",
+      "verseId": "5b6dd4e6-b446-434b-8d77-211c9ec4c3df",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "cca6ac7f-9a37-47f2-ad90-324308ff5ab6",
+      "id": "7eba877e-c51c-4ad8-967c-a858fe7c8f19",
       "content": "Dùng lại câu 15,2 của ông Ê-li-phát để trả lời cho ông ấy : an ủi chỉ là vu vơ.",
       "position": 56,
       "order": 1,
-      "createdAt": "2024-09-10T04:07:11.229Z",
-      "updatedAt": "2024-09-10T04:07:11.229Z",
-      "verseId": "b64efb31-ef23-4934-a8b4-88339713a1f2",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.357Z",
+      "updatedAt": "2024-09-17T09:46:29.357Z",
+      "verseId": "6257f52d-812f-4750-ae89-84c71917d3be",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "266d9eda-c44e-4581-970c-1bd60d4fed9d",
+      "id": "16629c6a-b908-49ca-aa3d-a5cb138e85e4",
       "content": "Cc. 4-5 nói với cả ba người bạn.",
       "position": 15,
       "order": 2,
-      "createdAt": "2024-09-10T04:07:11.239Z",
-      "updatedAt": "2024-09-10T04:07:11.239Z",
-      "verseId": "2d97c357-4318-47b7-8cb5-308674eab96b",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.363Z",
+      "updatedAt": "2024-09-17T09:46:29.363Z",
+      "verseId": "b40839c4-9cbe-45e6-8edf-7b2170ec1a78",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "0204642e-e92a-40ac-a608-2beb2dbc98a1",
+      "id": "d14b0027-31f8-42f9-987f-a80177fd17b5",
       "content": "Hoặc là dấu cười nhạo (x. Tv 22,8 ; Hc 12,18) ; hoặc dấu chỉ sự thông cảm, thiện cảm (x. Tv 69,21 ; Is 51,19 ; Gr 15,5 ; Nk 3,7). Ở đây chắc chắn là cười chê, như Mt 27,39.",
       "position": 10,
       "order": 3,
-      "createdAt": "2024-09-10T04:07:11.259Z",
-      "updatedAt": "2024-09-10T04:07:11.259Z",
-      "verseId": "360408ba-40a6-4faf-a13a-a077479dab14",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.371Z",
+      "updatedAt": "2024-09-17T09:46:29.371Z",
+      "verseId": "c57ee3c0-2b6d-4651-888d-44d4f89487fb",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "7f185f44-8000-4eca-bb95-1a63b1bb83c3",
+      "id": "d4c77fa3-bf9d-48ef-bd98-5067acffdc46",
       "content": "Cc. 7b-8 nói trực tiếp với Chúa về nỗi khổ của những người thân và chính bản thân. Có lẽ hai câu này đã bị sửa lại. Nhiều bản dịch để ngôi thứ ba nói gián tiếp.",
       "position": 10,
       "order": 4,
-      "createdAt": "2024-09-10T04:07:11.297Z",
-      "updatedAt": "2024-09-10T04:07:11.297Z",
-      "verseId": "55388960-4262-4ca8-a77e-b2e0e93e97ba",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.392Z",
+      "updatedAt": "2024-09-17T09:46:29.392Z",
+      "verseId": "1dcc7a32-1450-45e0-9429-13ca83834799",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "8867077d-ec4e-4639-b2d8-a25af93168c8",
+      "id": "a9476428-4b2b-4f31-8fb9-fc9347e0de0e",
       "content": "Vợ và bạn bè của ông Gióp.",
       "position": 23,
       "order": 5,
-      "createdAt": "2024-09-10T04:07:11.304Z",
-      "updatedAt": "2024-09-10T04:07:11.304Z",
-      "verseId": "41b9e03a-4e29-4a7b-b2d5-2cdc8cd9b0bb",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.396Z",
+      "updatedAt": "2024-09-17T09:46:29.396Z",
+      "verseId": "8bfcc39a-91e7-4319-8f6c-a80d9f2e6cdd",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "02682712-cce2-4197-a84b-9f0cdb788a3a",
+      "id": "31acb559-8fa2-49d2-8849-e13f8f25fec5",
       "content": "Nhân hoá Thiên Chúa, mô tả sự giận dữ của Thiên Chúa hành hạ ông Gióp.",
       "position": 28,
       "order": 6,
-      "createdAt": "2024-09-10T04:07:11.338Z",
-      "updatedAt": "2024-09-10T04:07:11.338Z",
-      "verseId": "ef4c6dcf-0067-4270-a8ca-9669fd9b9165",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.414Z",
+      "updatedAt": "2024-09-17T09:46:29.414Z",
+      "verseId": "e89b2ea7-540f-499d-ac9a-0b2b25ddbf5b",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "d1edf77e-3fcb-40e7-898c-164e749d2998",
+      "id": "91b06af2-5a68-462a-905f-98b475511dff",
       "content": "Ở số ít, có lẽ không phải Xa-tan, không phải Thiên Chúa. Kẻ thù ở đây chỉ là một người ác nào đó.",
       "position": 6,
       "order": 7,
-      "createdAt": "2024-09-10T04:07:11.345Z",
-      "updatedAt": "2024-09-10T04:07:11.345Z",
-      "verseId": "79ba65fd-e24a-44b5-808a-fbd1d50290cf",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.419Z",
+      "updatedAt": "2024-09-17T09:46:29.419Z",
+      "verseId": "0772d630-6c15-4235-8d11-2e46e6bfd33a",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "7e24431f-0e99-4794-81ea-215b16672706",
+      "id": "9cb06e78-183f-4eca-b824-0b98ddc646b9",
       "content": "Ông Gióp quả quyết chính Thiên Chúa chủ động làm ông khốn khổ. Người mượn tay kẻ dữ thực hiện ý muốn của Người trên ông Gióp.",
       "position": 10,
       "order": 8,
-      "createdAt": "2024-09-10T04:07:11.360Z",
-      "updatedAt": "2024-09-10T04:07:11.360Z",
-      "verseId": "31703f56-5fe4-479b-a05a-ea7e3cfdda89",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.427Z",
+      "updatedAt": "2024-09-17T09:46:29.427Z",
+      "verseId": "ea0c7203-4c58-4c09-ac73-a8cae4393212",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "fbf5b4eb-cc69-4368-804e-cca4b975785e",
+      "id": "3edb3adf-1d1f-4c48-80b3-9d7fb2843d4a",
       "content": "Đánh ai vỡ mật là cố ý đánh cho người ấy chết (x. Ac 2,11 ; Cn 7,23 ; 2 Sm 20,10).",
       "position": 13,
       "order": 9,
-      "createdAt": "2024-09-10T04:07:11.400Z",
-      "updatedAt": "2024-09-10T04:07:11.400Z",
-      "verseId": "3040ef61-651b-4e73-9420-eb32c9f46fe4",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.450Z",
+      "updatedAt": "2024-09-17T09:46:29.450Z",
+      "verseId": "e6e1831e-e475-4e16-a4e6-d2bee16282a2",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "1181c534-cb64-46a2-9461-a30c3ee00a24",
+      "id": "b6179fe2-73e1-4056-b4cd-eeda3dff81c0",
       "content": "Hình ảnh này gợi lên cuộc tấn công vào pháo đài hay tường thành.",
       "position": 33,
       "order": 10,
-      "createdAt": "2024-09-10T04:07:11.408Z",
-      "updatedAt": "2024-09-10T04:07:11.408Z",
-      "verseId": "59be36ca-1079-43cc-bd7a-e7e61d496579",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.455Z",
+      "updatedAt": "2024-09-17T09:46:29.455Z",
+      "verseId": "d4879656-96a5-4e2f-bae2-48284f33ae16",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "391f91a5-0a84-4fa5-a94e-f535a2c98e69",
+      "id": "9b97d01b-ec96-4f0e-9650-309788a658e4",
       "content": "<i>Áo vải thô</i> ở đây không phải là dấu chỉ tang chế hay sám hối, mà là để chuẩn bị chết (x. St 37,34 ; 1 V 21,27 ; Gr 48,37).",
       "position": 45,
       "order": 11,
-      "createdAt": "2024-09-10T04:07:11.422Z",
-      "updatedAt": "2024-09-10T04:07:11.422Z",
-      "verseId": "99c6ec26-d344-4df8-9bc2-67df9b6dfb44",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.463Z",
+      "updatedAt": "2024-09-17T09:46:29.463Z",
+      "verseId": "3bcda6e2-ad6e-438a-a8c9-b5e9838109e4",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "259050f3-7108-4296-b8ea-835d150c3027",
+      "id": "6637e782-8797-4b79-bad5-dbe1e1251563",
       "content": "ds : cái sừng, tượng trưng cho sức mạnh, kiêu hãnh, phẩm giá (x. Tv 75,11 ; 89,18 ; 112,9). Ông Gióp bị thương tích vì những khổ đau tinh thần và thể xác ; ông kiệt lực chờ chết.",
       "position": 12,
       "order": 12,
-      "createdAt": "2024-09-10T04:07:11.430Z",
-      "updatedAt": "2024-09-10T04:07:11.430Z",
-      "verseId": "de415190-242d-49f5-a79e-26d364e4e1fe",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.468Z",
+      "updatedAt": "2024-09-17T09:46:29.468Z",
+      "verseId": "2b5a172a-36bb-4920-9a15-1c38631b7d9f",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "f578eea7-8a7e-4706-8fa6-8f9dc1ce3d4c",
+      "id": "4b1d452d-c094-4522-be74-cc6b4bb7030f",
       "content": "Câu này cho thấy đau khổ ông Gióp chịu không thể chứng minh là ông có tội.",
       "position": 41,
       "order": 13,
-      "createdAt": "2024-09-10T04:07:11.459Z",
-      "updatedAt": "2024-09-10T04:07:11.459Z",
-      "verseId": "59472d7c-e118-4c60-80e7-dacc44e61175",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.484Z",
+      "updatedAt": "2024-09-17T09:46:29.484Z",
+      "verseId": "65e839e2-e4d7-4c73-a801-31fbced6ee6d",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "fb3b424b-33a5-4b65-9130-a22c4dde885e",
+      "id": "db947195-a6a7-4efc-9d26-78fb9a34da8b",
       "content": "Máu đổ ra đất là tiếng kêu xin báo thù (x. St 4,10 ; 37,26 ; Is 26,21 ; Ed 24,7).",
       "position": 24,
       "order": 14,
-      "createdAt": "2024-09-10T04:07:11.467Z",
-      "updatedAt": "2024-09-10T04:07:11.467Z",
-      "verseId": "6fd8f5f9-7dd2-4d01-8c6e-eba9197c1029",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.489Z",
+      "updatedAt": "2024-09-17T09:46:29.489Z",
+      "verseId": "4fb922bf-0f6b-4ad6-a4a2-7a4c9713e267",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "4511cafc-efb8-442e-882f-8bd9453e65ed",
+      "id": "7ff36824-3ff3-4a9f-9b32-c1ec6d2d00ec",
       "content": "Nhân chứng và người bảo lãnh là chính Thiên Chúa. Có người cho đó là lời cầu nguyện của chính ông Gióp c.18b (x. Tv 79,11 ; 88,3 ; Ac 3,44).",
       "position": 47,
       "order": 15,
-      "createdAt": "2024-09-10T04:07:11.492Z",
-      "updatedAt": "2024-09-10T04:07:11.492Z",
-      "verseId": "2b3ebec7-daf0-4cf9-923f-19cadb8dc2c0",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.501Z",
+      "updatedAt": "2024-09-17T09:46:29.501Z",
+      "verseId": "7722b7e5-9b7b-4d16-8328-42dcfacc871b",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b3d68855-97d0-4768-b89f-5c76e0b1b6ef",
+      "id": "8b813aa7-d456-46e1-a65f-429339ddad68",
       "content": "Cuối cùng ông Gióp đành chấp nhận cái chết.",
       "position": 44,
       "order": 16,
-      "createdAt": "2024-09-10T04:07:11.540Z",
-      "updatedAt": "2024-09-10T04:07:11.540Z",
-      "verseId": "724024d7-0765-4894-8407-b3a2a1ae4a75",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.525Z",
+      "updatedAt": "2024-09-17T09:46:29.525Z",
+      "verseId": "d6d27b4d-46d1-4dc0-9caa-0f5a208fdba4",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     }
   ],
   "headings": [
     {
-      "id": "88accc23-a9ed-44a9-a8cc-c99bd5bf9f93",
+      "id": "9e56228f-8a3e-419a-932d-84d4e5b74143",
       "content": "Con người không công chính còn Thiên Chúa công chính",
       "order": 0,
-      "createdAt": "2024-09-10T04:07:11.216Z",
-      "updatedAt": "2024-09-10T04:07:11.216Z",
-      "verseId": "a7090fb7-d6d7-4f29-8d0f-335df4dc9ed1",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.344Z",
+      "updatedAt": "2024-09-17T09:46:29.344Z",
+      "verseId": "5b6dd4e6-b446-434b-8d77-211c9ec4c3df",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     }
   ],
   "references": [
     {
-      "id": "d62646a6-aa36-44a4-9aa9-9683a8153ea7",
+      "id": "9f90ec8d-bcc8-4fdd-bab5-af918ec9cb8b",
       "content": "G 15,11",
       "position": 32,
       "order": 0,
-      "createdAt": "2024-09-10T04:07:11.223Z",
-      "updatedAt": "2024-09-10T04:07:11.223Z",
-      "verseId": "7f33279a-773a-4e3d-b505-0ffdd132555d",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.351Z",
+      "updatedAt": "2024-09-17T09:46:29.351Z",
+      "verseId": "9b7801ab-0147-4822-8108-b385157b641e",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "b297c18c-d66a-4518-b70f-d961bacc4518",
+      "id": "4b91890d-b1d9-4f35-ba91-2e79f9d9a4a6",
       "content": "Mt 27,39",
       "position": 3,
       "order": 1,
-      "createdAt": "2024-09-10T04:07:11.263Z",
-      "updatedAt": "2024-09-10T04:07:11.263Z",
-      "verseId": "360408ba-40a6-4faf-a13a-a077479dab14",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.373Z",
+      "updatedAt": "2024-09-17T09:46:29.373Z",
+      "verseId": "c57ee3c0-2b6d-4651-888d-44d4f89487fb",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "fcc59b3d-7c73-48e7-8e50-c4e42c0eeeae",
+      "id": "16302a63-f3dc-43a6-b295-994bb1960f43",
       "content": "G 19,20; 33,21",
       "position": 15,
       "order": 2,
-      "createdAt": "2024-09-10T04:07:11.311Z",
-      "updatedAt": "2024-09-10T04:07:11.311Z",
-      "verseId": "ce1afd20-2e7b-423c-bcca-6e82983cd73d",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.400Z",
+      "updatedAt": "2024-09-17T09:46:29.400Z",
+      "verseId": "46931032-2f83-4222-a28b-af4e377c5fe7",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "0df9f164-e2ad-44e2-9b7d-f4b29921bbfc",
+      "id": "1894c2e9-4bc8-4733-a07b-056fd009b414",
       "content": "G 10,16",
       "position": 10,
       "order": 3,
-      "createdAt": "2024-09-10T04:07:11.318Z",
-      "updatedAt": "2024-09-10T04:07:11.318Z",
-      "verseId": "7ee81528-10d8-468a-98f1-61ccfc75b94e",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.404Z",
+      "updatedAt": "2024-09-17T09:46:29.404Z",
+      "verseId": "e82b7a08-e04d-49f7-bc3a-989e75d56851",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "80d6f516-a5de-424f-a8b8-2e5234e1763e",
+      "id": "747643e1-2d53-426b-8a44-3f11ee359e6d",
       "content": "G 30,1",
       "position": 27,
       "order": 4,
-      "createdAt": "2024-09-10T04:07:11.363Z",
-      "updatedAt": "2024-09-10T04:07:11.363Z",
-      "verseId": "31703f56-5fe4-479b-a05a-ea7e3cfdda89",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.429Z",
+      "updatedAt": "2024-09-17T09:46:29.429Z",
+      "verseId": "ea0c7203-4c58-4c09-ac73-a8cae4393212",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "25ff7d5e-e081-4cae-bb5b-24c4241db484",
+      "id": "aed0f9ce-68d7-40bf-806b-5a96c7e832c0",
       "content": "G 30,12-14",
       "position": 9,
       "order": 5,
-      "createdAt": "2024-09-10T04:07:11.374Z",
-      "updatedAt": "2024-09-10T04:07:11.374Z",
-      "verseId": "bd77e4ef-ae3f-48b9-90bf-7088b4046249",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.436Z",
+      "updatedAt": "2024-09-17T09:46:29.436Z",
+      "verseId": "2d5f482a-8e0b-43f0-b698-5b4a5322f199",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "23840c03-c18d-4957-b76a-2e728d875073",
+      "id": "15ed359a-2b4f-4bc5-acff-378a1b3442ff",
       "content": "G 6,4; 7,20; 34,6",
       "position": 0,
       "order": 6,
-      "createdAt": "2024-09-10T04:07:11.389Z",
-      "updatedAt": "2024-09-10T04:07:11.389Z",
-      "verseId": "32498256-6d34-41ea-b057-9a0d04724418",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.444Z",
+      "updatedAt": "2024-09-17T09:46:29.444Z",
+      "verseId": "c0c7595e-3ab9-47e1-b2f3-663f78365087",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "ac54bbd2-5bc1-4c1a-94b7-a1f5f9b4ced2",
+      "id": "65d07893-5e75-4f94-b9b8-5cff8ec3b6b5",
       "content": "G 10,17",
       "position": 10,
       "order": 7,
-      "createdAt": "2024-09-10T04:07:11.411Z",
-      "updatedAt": "2024-09-10T04:07:11.411Z",
-      "verseId": "59be36ca-1079-43cc-bd7a-e7e61d496579",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.457Z",
+      "updatedAt": "2024-09-17T09:46:29.457Z",
+      "verseId": "d4879656-96a5-4e2f-bae2-48284f33ae16",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "94378eb8-a2b2-4a6a-b977-abd2206cb601",
+      "id": "38868b0e-dc7f-4739-a86a-5cfdb3e55aed",
       "content": "G 16,20",
       "position": 0,
       "order": 8,
-      "createdAt": "2024-09-10T04:07:11.438Z",
-      "updatedAt": "2024-09-10T04:07:11.438Z",
-      "verseId": "180d8aac-fcda-416f-8785-06979d615890",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.473Z",
+      "updatedAt": "2024-09-17T09:46:29.473Z",
+      "verseId": "8e7fe34e-f28e-455d-8935-d9b80a4b8495",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "9ef35990-54b4-4346-9d93-896f32574c7e",
+      "id": "0f8a93dc-f61f-4a32-a130-ccbbcb51b47e",
       "content": "G 31,1-34",
       "position": 22,
       "order": 9,
-      "createdAt": "2024-09-10T04:07:11.452Z",
-      "updatedAt": "2024-09-10T04:07:11.452Z",
-      "verseId": "5603f74e-02ad-41e9-900b-db7e977ef8e3",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.480Z",
+      "updatedAt": "2024-09-17T09:46:29.480Z",
+      "verseId": "fe6a1572-e6d6-4368-834e-99d65b27a032",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "33d99c76-4288-4fb3-8b6a-4cbed59f9755",
+      "id": "77999dad-0faf-4b56-80b5-d4c5316c2947",
       "content": "Kh 8,4",
       "position": 25,
       "order": 10,
-      "createdAt": "2024-09-10T04:07:11.479Z",
-      "updatedAt": "2024-09-10T04:07:11.479Z",
-      "verseId": "3e3c850d-af07-470c-b89e-cf6397fcd229",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.494Z",
+      "updatedAt": "2024-09-17T09:46:29.494Z",
+      "verseId": "ec429709-8d08-4c8b-853f-ce0eaedde92f",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "56f365a5-d4a6-42ef-84ad-472af173db8b",
+      "id": "21d12ca6-b602-4178-ad7a-54dbc61db31b",
       "content": "G 19,25",
       "position": 33,
       "order": 11,
-      "createdAt": "2024-09-10T04:07:11.500Z",
-      "updatedAt": "2024-09-10T04:07:11.500Z",
-      "verseId": "2b3ebec7-daf0-4cf9-923f-19cadb8dc2c0",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.503Z",
+      "updatedAt": "2024-09-17T09:46:29.503Z",
+      "verseId": "7722b7e5-9b7b-4d16-8328-42dcfacc871b",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     },
     {
-      "id": "75068d3d-adbc-4ffb-8b1d-d44435ae64ff",
+      "id": "5cf17eb7-d83d-4c28-8749-8821ea0c8621",
       "content": "G 10,21",
       "position": 3,
       "order": 12,
-      "createdAt": "2024-09-10T04:07:11.531Z",
-      "updatedAt": "2024-09-10T04:07:11.531Z",
-      "verseId": "06e61405-e1ac-4fd0-8bcf-bca02efdb6d9",
-      "chapterId": "36d47737-4c4e-40a1-a86b-3345acec827a"
+      "createdAt": "2024-09-17T09:46:29.520Z",
+      "updatedAt": "2024-09-17T09:46:29.520Z",
+      "verseId": "b1d4215c-06ba-4911-969d-24065970a709",
+      "chapterId": "14dee700-d62a-4c04-9cec-b5a59af5cc7a"
     }
   ]
 }

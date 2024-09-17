@@ -1,0 +1,190 @@
+{
+  "chapter": {
+    "id": "33a9548c-c717-43cc-acf1-1a6fb8afaabc",
+    "number": 8,
+    "ref": "https://www.bible.com/bible/19/REV.8.BD2011",
+    "createdAt": "2024-09-07T11:51:14.554Z",
+    "updatedAt": "2024-09-07T11:51:14.554Z",
+    "bookId": "2058f7f4-9019-4212-8fcd-496735c266a4"
+  },
+  "verses": [
+    {
+      "id": "d7132222-1938-4a92-9afa-c02e48e30271",
+      "number": 1,
+      "content": "Khi Chiên Con mở ấn thứ bảy, trên trời yên lặng khoảng nửa giờ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.318Z",
+      "updatedAt": "2024-09-07T16:20:51.318Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "8590fa81-1bed-4cf4-aed0-5bc775bbc2ba",
+      "number": 2,
+      "content": "Tôi thấy bảy vị thiên sứ đứng trước mặt Đức Chúa Trời, và họ được ban cho bảy cây kèn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.328Z",
+      "updatedAt": "2024-09-07T16:20:51.328Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "474fc2a3-7c6c-4b0e-9107-1518cc3bea83",
+      "number": 3,
+      "content": "Một vị thiên sứ khác đến đứng trước bàn thờ, tay cầm một lư hương bằng vàng; vị ấy được ban cho nhiều hương thơm để dâng hương trên bàn thờ bằng vàng ở trước ngai với những lời cầu nguyện của tất cả các thánh đồ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.332Z",
+      "updatedAt": "2024-09-07T16:20:51.332Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "d314575f-18ae-41a5-85fd-9a5b6dd35100",
+      "number": 4,
+      "content": "Khói của hương thơm từ tay vị thiên sứ quyện với những lời cầu nguyện của các thánh đồ bay lên trước mặt Đức Chúa Trời.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.335Z",
+      "updatedAt": "2024-09-07T16:20:51.335Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "601044c5-bc5f-4264-ac3b-74f97fd5010c",
+      "number": 5,
+      "content": "Kế đó vị thiên sứ ấy lấy lửa trên bàn thờ bỏ vào đầy lư hương, rồi ném lư hương đó xuống đất, thì có sấm nổ, âm vang, sét chớp, và động đất.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.338Z",
+      "updatedAt": "2024-09-07T16:20:51.338Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "8b559585-2e7b-4399-b4e2-c9b2396efb05",
+      "number": 6,
+      "content": "Bấy giờ bảy vị thiên sứ chuẩn bị thổi kèn.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.341Z",
+      "updatedAt": "2024-09-07T16:20:51.341Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "3317e172-d52e-4e7f-8564-0c1079e9e75b",
+      "number": 7,
+      "content": "Vị thiên sứ thứ nhất thổi kèn thì có mưa đá và lửa trộn với máu ném vào trái đất. Một phần ba trái đất bị thiêu đốt, một phần ba cây cối bị thiêu trụi, và tất cả cỏ xanh bị thiêu hủy.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.344Z",
+      "updatedAt": "2024-09-07T16:20:51.344Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "ce2fd2a6-4224-42ba-9979-72faff8a2d20",
+      "number": 8,
+      "content": "Vị thiên sứ thứ nhì thổi kèn thì có vật gì giống như một núi lớn đang bùng cháy bị ném vào biển. Một phần ba biển biến thành máu,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.349Z",
+      "updatedAt": "2024-09-07T16:20:51.349Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "32f81b23-9cb1-4aec-a13a-d9e25a2d53f9",
+      "number": 9,
+      "content": "một phần ba các sinh vật sống trong biển chết, và một phần ba tàu bè ghe thuyền bị tiêu hủy.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.354Z",
+      "updatedAt": "2024-09-07T16:20:51.354Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "cf3a40fe-bd7b-47ea-8009-0fef77b18e4a",
+      "number": 10,
+      "content": "Vị thiên sứ thứ ba thổi kèn thì có một ngôi sao lớn cháy phừng phừng như một ngọn đuốc từ trời lao xuống một phần ba các sông ngòi và các suối nước.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.360Z",
+      "updatedAt": "2024-09-07T16:20:51.360Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "d64de45b-70aa-4368-86c5-058cd8a055ac",
+      "number": 11,
+      "content": "Tên của ngôi sao ấy là Ngải Đắng, và một phần ba các nguồn nước trở thành ngải đắng; nhiều người chết vì nước ấy, bởi nước đã hóa ra đắng.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.365Z",
+      "updatedAt": "2024-09-07T16:20:51.365Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "7251b084-1564-4421-bc76-703c6a048da1",
+      "number": 12,
+      "content": "Vị thiên sứ thứ tư thổi kèn thì một phần ba mặt trời, một phần ba mặt trăng, và một phần ba các ngôi sao bị đánh, đến nỗi chúng bị tối đi một phần ba. Một phần ba ban ngày không có ánh sáng và một phần ba ban đêm cũng vậy.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.371Z",
+      "updatedAt": "2024-09-07T16:20:51.371Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "8b179a36-df67-46ab-8ab4-20b27096927a",
+      "number": 13,
+      "content": "Bấy giờ tôi thấy và nghe một chim đại bàng bay giữa trời kêu lớn, “Khốn thay! Khốn thay! Khốn thay cho những ai sống trên đất, vì tiếng kèn của ba vị thiên sứ khác sẽ thổi!”",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:20:51.376Z",
+      "updatedAt": "2024-09-07T16:20:51.376Z",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    }
+  ],
+  "footnotes": [],
+  "headings": [
+    {
+      "id": "cbf19e29-6579-4c65-95ed-871d695d0c6d",
+      "content": "Mở Ấn Thứ Bảy",
+      "order": 0,
+      "createdAt": "2024-09-07T16:20:55.982Z",
+      "updatedAt": "2024-09-07T16:20:55.982Z",
+      "verseId": "d7132222-1938-4a92-9afa-c02e48e30271",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    },
+    {
+      "id": "ba2c2668-4275-4710-a01c-d3195ce3bb99",
+      "content": "Bảy Tiếng Kèn – Bốn Tiếng Kèn Đầu Tiên",
+      "order": 0,
+      "createdAt": "2024-09-07T16:20:55.982Z",
+      "updatedAt": "2024-09-07T16:20:55.982Z",
+      "verseId": "8b559585-2e7b-4399-b4e2-c9b2396efb05",
+      "chapterId": "33a9548c-c717-43cc-acf1-1a6fb8afaabc"
+    }
+  ],
+  "references": []
+}

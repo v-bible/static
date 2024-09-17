@@ -1,0 +1,517 @@
+{
+  "chapter": {
+    "id": "b47bb3a1-4dcb-454f-932f-2251cca84d1d",
+    "number": 7,
+    "ref": "https://www.bible.com/bible/19/MAT.7.BD2011",
+    "createdAt": "2024-09-07T11:51:13.246Z",
+    "updatedAt": "2024-09-07T11:51:13.246Z",
+    "bookId": "19a2a897-aeb0-4769-9425-29b039e7e344"
+  },
+  "verses": [
+    {
+      "id": "a52daa7b-4bfe-4c3b-9425-bc84a469c784",
+      "number": 1,
+      "content": "“Chớ xét đoán ai, để các ngươi không bị xét đoán.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.553Z",
+      "updatedAt": "2024-09-07T15:33:15.553Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "070cfdf4-a040-497a-90fc-0708f11c5d46",
+      "number": 2,
+      "content": "Vì các ngươi xét đoán người ta thể nào, các ngươi sẽ bị xét đoán lại thể ấy; các ngươi lường cho người ta mức nào, các ngươi sẽ bị lường lại mức ấy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.563Z",
+      "updatedAt": "2024-09-07T15:33:15.563Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "f0e6eeda-d3e2-48e2-a190-0b6e1290df62",
+      "number": 3,
+      "content": "Sao ngươi thấy hạt bụi nhỏ trong mắt anh chị em ngươi, mà không thấy cái dằm trong mắt ngươi?",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.565Z",
+      "updatedAt": "2024-09-07T15:33:15.565Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "bcfdbf09-2f77-4306-b4b8-cfd5a815a97a",
+      "number": 4,
+      "content": "Sao ngươi nói với anh chị em ngươi, ‘Hãy để tôi lấy hạt bụi ra khỏi mắt bạn,’ trong khi cái dằm vẫn còn nằm trong mắt ngươi?",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.567Z",
+      "updatedAt": "2024-09-07T15:33:15.567Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "8dd8943c-5c59-43ec-835b-ca2375cff3be",
+      "number": 5,
+      "content": "Hỡi kẻ đạo đức giả, trước hết hãy lấy cái dằm ra khỏi mắt ngươi, rồi ngươi mới thấy rõ mà lấy hạt bụi ra khỏi mắt anh chị em ngươi được.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.569Z",
+      "updatedAt": "2024-09-07T15:33:15.569Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "25d9cd1d-88c8-479d-9327-aab9e2d958d1",
+      "number": 6,
+      "content": "“Đừng đem của thánh mà phí cho chó, cũng đừng thảy các ngọc trai cho heo, kẻo chúng sẽ giẫm dưới chân, rồi quay lại, và cắn xé các ngươi.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.571Z",
+      "updatedAt": "2024-09-07T15:33:15.571Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "d7cdec23-5b52-48b8-8d7a-29ff50de94c7",
+      "number": 7,
+      "content": "“Hãy xin, các ngươi sẽ được; hãy tìm, các ngươi sẽ gặp; hãy gõ cửa, cửa sẽ mở cho các ngươi.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.574Z",
+      "updatedAt": "2024-09-07T15:33:15.574Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "540b8a63-0b4f-40f3-b2a4-867939fcd7a2",
+      "number": 8,
+      "content": "Vì hễ ai xin sẽ được, ai tìm sẽ gặp, và ai gõ cửa, cửa sẽ mở cho người ấy.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.576Z",
+      "updatedAt": "2024-09-07T15:33:15.576Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "5ef5b53b-3a5d-4d82-8aeb-db07ddf2b2cc",
+      "number": 9,
+      "content": "Có ai trong các ngươi khi con mình xin bánh mà cho đá chăng?",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.578Z",
+      "updatedAt": "2024-09-07T15:33:15.578Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "50b41629-40eb-4533-a42e-46984256e080",
+      "number": 10,
+      "content": "Hay con mình xin cá mà cho rắn chăng?",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.580Z",
+      "updatedAt": "2024-09-07T15:33:15.580Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "db80a6a1-b772-4df2-ae79-6b317d9ab608",
+      "number": 11,
+      "content": "Vậy nếu các ngươi vốn là xấu mà còn biết cho con cái mình các vật tốt, huống chi Cha các ngươi trên trời lại chẳng ban những vật tốt cho những người xin Ngài sao?”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.582Z",
+      "updatedAt": "2024-09-07T15:33:15.582Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "683f8e97-515f-41bd-84ca-fdb5c7f64ac3",
+      "number": 12,
+      "content": "“Vậy trong mọi sự, hễ điều chi các ngươi muốn người ta làm cho mình, hãy làm điều ấy cho họ, vì đó là Luật Pháp và Các Tiên Tri.”",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.584Z",
+      "updatedAt": "2024-09-07T15:33:15.584Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "fea91d53-b7a8-4155-98bd-c7f012631357",
+      "number": 13,
+      "content": "“Hãy vào cổng hẹp, vì cổng rộng và đường rộng dẫn đến sự hủy diệt; có nhiều người đi vào đường đó;",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.586Z",
+      "updatedAt": "2024-09-07T15:33:15.586Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "e0ff3c33-a225-41b8-8fe7-992f88c9f4be",
+      "number": 14,
+      "content": "trong khi cổng hẹp và đường hẹp dẫn đến sự sống, lại có ít người tìm vào.”",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.588Z",
+      "updatedAt": "2024-09-07T15:33:15.588Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "b7b066a8-f314-427b-aef4-f37780420f74",
+      "number": 15,
+      "content": "“Các ngươi hãy coi chừng các tiên tri giả, những kẻ đội lốt chiên đến với các ngươi, nhưng bên trong là lang sói hay cắn xé.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.590Z",
+      "updatedAt": "2024-09-07T15:33:15.590Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "fdb97b89-c7b9-44b9-ad9b-03e0d7a1093a",
+      "number": 16,
+      "content": "Các ngươi sẽ biết chúng khi xem trái của chúng. Nào ai hái trái nho nơi lùm gai, hay trái vả nơi bụi gai rừng    chăng?",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.592Z",
+      "updatedAt": "2024-09-07T15:33:15.592Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "55f5d587-8f15-4eae-82cb-e62b32cc5026",
+      "number": 17,
+      "content": "Vậy, hễ cây lành thì sinh trái lành, còn cây độc thì sinh trái độc.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.594Z",
+      "updatedAt": "2024-09-07T15:33:15.594Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "d5d1b266-131c-4dd4-8d5f-9199772a2bea",
+      "number": 18,
+      "content": "Cây lành không thể sinh trái độc, và cây độc cũng không thể sinh trái lành.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.596Z",
+      "updatedAt": "2024-09-07T15:33:15.596Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "28a328fc-ba07-4267-83bc-952fe081d1d0",
+      "number": 19,
+      "content": "Cây nào không sinh trái lành sẽ bị đốn và quăng vào lửa.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.598Z",
+      "updatedAt": "2024-09-07T15:33:15.598Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "f86e11e5-b74e-4646-98c3-fe462ad19da3",
+      "number": 20,
+      "content": "Vậy cứ xem các trái của người ta mà biết họ là người như thế nào.”",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.600Z",
+      "updatedAt": "2024-09-07T15:33:15.600Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "2cc2cbb6-218a-466b-aefb-b8b78114538f",
+      "number": 21,
+      "content": "“Không phải hễ ai nói với Ta, ‘Lạy Chúa, lạy Chúa,’ thì sẽ được vào vương quốc thiên đàng đâu, nhưng chỉ người nào làm theo ý muốn của Cha Ta trên trời mà thôi.",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.602Z",
+      "updatedAt": "2024-09-07T15:33:15.602Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "7e1cc2c7-2889-453a-b40f-6d22b3cba255",
+      "number": 22,
+      "content": "Ngày đó sẽ có nhiều người nói với Ta rằng, ‘Lạy Chúa, lạy Chúa, chúng tôi há chẳng từng nhân danh Chúa mà nói tiên tri, hoặc nhân danh Chúa mà đuổi quỷ, hoặc nhân danh Chúa mà làm nhiều phép lạ sao?’",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.604Z",
+      "updatedAt": "2024-09-07T15:33:15.604Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "74db0ffc-021e-4737-a799-28d4b8b9527a",
+      "number": 23,
+      "content": "Bấy giờ Ta sẽ đáp với chúng, ‘Ta không hề biết các ngươi; hỡi bọn làm việc gian tà, hãy đi ngay cho khuất mắt Ta.’”",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.606Z",
+      "updatedAt": "2024-09-07T15:33:15.606Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "6f661362-3fa3-4afa-9139-16c896c5c911",
+      "number": 24,
+      "content": "“Vậy ai nghe những lời Ta phán đây và làm theo sẽ giống như người khôn, cất nhà mình trên vầng đá.",
+      "order": 0,
+      "parNumber": 15,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.608Z",
+      "updatedAt": "2024-09-07T15:33:15.608Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "a0b1ea3e-ba68-4ee0-81c3-eed19af18a57",
+      "number": 25,
+      "content": "Dù mưa sa, lụt đến, bão thổi và đập vào, nhà ấy vẫn chẳng sập, vì đã xây trên vầng đá.",
+      "order": 0,
+      "parNumber": 15,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.613Z",
+      "updatedAt": "2024-09-07T15:33:15.613Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "7dd3fc04-1d24-4b39-8034-ca6b197abc57",
+      "number": 26,
+      "content": "Còn ai nghe những lời Ta phán đây mà không làm theo sẽ giống như người dại, cất nhà mình trên cát.",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.619Z",
+      "updatedAt": "2024-09-07T15:33:15.619Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "bbe356d9-2ac8-4fc4-88ae-fa66191f8fd2",
+      "number": 27,
+      "content": "Khi có mưa sa, lụt đến, bão thổi và đập vào, nhà đó sẽ sụp đổ, và sụp đổ tan tành.”",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.624Z",
+      "updatedAt": "2024-09-07T15:33:15.624Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "77ddae50-9ae8-43ef-bab0-7bfc2c8819aa",
+      "number": 28,
+      "content": "Khi Đức Chúa Jesus giảng dạy những điều ấy xong, dân chúng ngạc nhiên về sự giảng dạy của Ngài,",
+      "order": 0,
+      "parNumber": 18,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.629Z",
+      "updatedAt": "2024-09-07T15:33:15.629Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "a7755570-0eb6-4aa5-80a2-63c4d439b3d9",
+      "number": 29,
+      "content": "vì Ngài giảng dạy cách uy quyền, chứ không như những thầy dạy giáo luật.",
+      "order": 0,
+      "parNumber": 18,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T15:33:15.634Z",
+      "updatedAt": "2024-09-07T15:33:15.634Z",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "cf8d672d-2c4f-44cd-bdb1-6443ecac0864",
+      "content": "nt: tribólôn (thistles), một thứ bụi gai ở Palestine",
+      "position": 111,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:21.281Z",
+      "updatedAt": "2024-09-07T15:33:21.281Z",
+      "verseId": "fdb97b89-c7b9-44b9-ad9b-03e0d7a1093a",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8182cde4-e8f5-4174-b768-fdc97587b740",
+      "content": "Xét Đoán Người Khác",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "a52daa7b-4bfe-4c3b-9425-bc84a469c784",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "7fff208c-dc83-485d-a70c-651820b3a677",
+      "content": "Phí Của Thánh",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "25d9cd1d-88c8-479d-9327-aab9e2d958d1",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "a1fc4bf3-29d6-4d6d-ac71-bee2f1293fc2",
+      "content": "Xin, Tìm, Gõ",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "d7cdec23-5b52-48b8-8d7a-29ff50de94c7",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "e8174d78-f50a-46a0-93e0-77f687969e01",
+      "content": "Khuôn Vàng Thước Ngọc",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "683f8e97-515f-41bd-84ca-fdb5c7f64ac3",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "dd0fc54b-5814-4d18-9ce6-4b3af3e84f2e",
+      "content": "Cổng Hẹp và Đường Hẹp",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "fea91d53-b7a8-4155-98bd-c7f012631357",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "5ccbc6c9-09ab-442e-b304-7290decac80f",
+      "content": "Xem Trái Biết Cây",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "b7b066a8-f314-427b-aef4-f37780420f74",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "0a77eadf-ee8a-44bb-8632-63c22f4269ff",
+      "content": "Môn Đồ Giả",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "2cc2cbb6-218a-466b-aefb-b8b78114538f",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "67665726-97eb-461d-a920-68f099d6525a",
+      "content": "Hai Nền Tảng",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "6f661362-3fa3-4afa-9139-16c896c5c911",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "4ff693cc-5239-479d-8bce-c8cbf921aab2",
+      "content": "Thẩm Quyền Giảng Dạy",
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:28.283Z",
+      "updatedAt": "2024-09-07T15:33:28.283Z",
+      "verseId": "77ddae50-9ae8-43ef-bab0-7bfc2c8819aa",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    }
+  ],
+  "references": [
+    {
+      "id": "cb608549-5630-4540-937a-2e46b8cb735b",
+      "content": "(Lu 6:37-38, 41-42)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "a52daa7b-4bfe-4c3b-9425-bc84a469c784",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "7423d001-3952-4dbf-b4e3-5a90c926bd22",
+      "content": "(Lu 11:9-13)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "d7cdec23-5b52-48b8-8d7a-29ff50de94c7",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "7c1aa054-8feb-47e2-a008-c323e8d48c05",
+      "content": "(Lu 13:24)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "fea91d53-b7a8-4155-98bd-c7f012631357",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "37dc922b-dd6f-4da1-affb-d403fd6f96b6",
+      "content": "(Lu 6:43-44)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "b7b066a8-f314-427b-aef4-f37780420f74",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "af9a88f6-eb06-4bc1-b14a-945839a51ed9",
+      "content": "(Lu 13:25-27)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "2cc2cbb6-218a-466b-aefb-b8b78114538f",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    },
+    {
+      "id": "8e671312-8293-4b79-8b87-9152969ad4d0",
+      "content": "(Lu 6:47-49)",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-07T15:33:29.385Z",
+      "updatedAt": "2024-09-07T15:33:29.385Z",
+      "verseId": "6f661362-3fa3-4afa-9139-16c896c5c911",
+      "chapterId": "b47bb3a1-4dcb-454f-932f-2251cca84d1d"
+    }
+  ]
+}

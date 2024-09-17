@@ -1,0 +1,217 @@
+{
+  "chapter": {
+    "id": "1ae66878-0b32-4f22-b412-ec990934009d",
+    "number": 114,
+    "ref": "https://www.bible.com/bible/19/PSA.114.BD2011",
+    "createdAt": "2024-09-07T11:51:11.501Z",
+    "updatedAt": "2024-09-07T11:51:11.501Z",
+    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+  },
+  "verses": [
+    {
+      "id": "89c0db1f-28cf-4009-b04e-8ab5fc9821a5",
+      "number": 1,
+      "content": "Khi dân I-sơ-ra-ên ra khỏi Ai-cập,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.249Z",
+      "updatedAt": "2024-09-07T14:18:47.249Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "e4fc287f-6745-4be6-9147-557806a6162e",
+      "number": 1,
+      "content": "Nhà Gia-cốp ra khỏi một dân nói một ngôn ngữ lạ,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.249Z",
+      "updatedAt": "2024-09-07T14:18:47.249Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "4b2e0981-19c0-4806-ab6a-64f50a8d93cb",
+      "number": 2,
+      "content": "Giu-đa trở thành nơi thánh của Ngài,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.258Z",
+      "updatedAt": "2024-09-07T14:18:47.258Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "41b13920-75e0-41cf-99f7-c353092352a0",
+      "number": 2,
+      "content": "I-sơ-ra-ên trở nên vương quốc của Ngài.",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.258Z",
+      "updatedAt": "2024-09-07T14:18:47.258Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "7dfbb352-e918-4556-a12c-2ce491b629eb",
+      "number": 3,
+      "content": "Nước đại dương trông thấy thế liền hoảng kinh chạy trốn;",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.260Z",
+      "updatedAt": "2024-09-07T14:18:47.260Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "c9b58105-a1dc-4497-8a43-b0d9650f845a",
+      "number": 3,
+      "content": "Nước Sông Giô-đanh hỗn loạn chảy ngược về nguồn;",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.260Z",
+      "updatedAt": "2024-09-07T14:18:47.260Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "c20927cc-6690-44a9-8f01-4fb3994bba8e",
+      "number": 4,
+      "content": "Các rặng núi nhảy lên như chiên đực;",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.263Z",
+      "updatedAt": "2024-09-07T14:18:47.263Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "4d39ff39-b04f-4bb8-90f7-9b561f4ebd88",
+      "number": 4,
+      "content": "Các dãy đồi nhảy cỡn như chiên con.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.263Z",
+      "updatedAt": "2024-09-07T14:18:47.263Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "89cb2313-12aa-452d-b384-50857414ead5",
+      "number": 5,
+      "content": "Hỡi nước đại dương, điều gì đã khiến ngươi để ngươi chạy trốn?",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.265Z",
+      "updatedAt": "2024-09-07T14:18:47.265Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "a82790e6-47b0-4d81-ab2f-55669ca2f04f",
+      "number": 5,
+      "content": "Hỡi nước Sông Giô-đanh, sao ngươi lại chảy ngược về nguồn?",
+      "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.265Z",
+      "updatedAt": "2024-09-07T14:18:47.265Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "fea9a042-09b2-4210-b156-ba111512c736",
+      "number": 6,
+      "content": "Hỡi các rặng núi, sao các ngươi nhảy lên như chiên đực?",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.267Z",
+      "updatedAt": "2024-09-07T14:18:47.267Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "7b7986a4-afd7-4ef3-86d1-2419a8b4d692",
+      "number": 6,
+      "content": "Hỡi các dãy đồi, sao các ngươi nhảy cỡn như chiên con?",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.267Z",
+      "updatedAt": "2024-09-07T14:18:47.267Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "12b264be-5c23-41c7-b137-05aa1548127c",
+      "number": 7,
+      "content": "Hỡi trái đất, khá run rẩy trước mặt Chúa,",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.269Z",
+      "updatedAt": "2024-09-07T14:18:47.269Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "770b2901-16e4-435c-94e1-ddcd22d8c99b",
+      "number": 7,
+      "content": "Tức trước thánh nhan Đức Chúa Trời của Gia-cốp,",
+      "order": 1,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.269Z",
+      "updatedAt": "2024-09-07T14:18:47.269Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "65cacf42-798c-4061-b352-e61dcc06add2",
+      "number": 8,
+      "content": "Đấng khiến nước từ một vầng đá tuôn ra thành ao hồ,",
+      "order": 0,
+      "parNumber": 15,
+      "parIndex": 1,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.271Z",
+      "updatedAt": "2024-09-07T14:18:47.271Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    },
+    {
+      "id": "d801402c-8abb-4f72-a7ee-233363272e11",
+      "number": 8,
+      "content": "Từ tảng đá hoa cương, dòng nước ngọt lai láng trào ra.",
+      "order": 1,
+      "parNumber": 16,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-07T14:18:47.271Z",
+      "updatedAt": "2024-09-07T14:18:47.271Z",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    }
+  ],
+  "footnotes": [],
+  "headings": [
+    {
+      "id": "a1683fb5-713c-489e-9603-26bbe677b7a0",
+      "content": "Đức Chúa Trời Giải Cứu Dân I-sơ-ra-ên Ra Khỏi Ai-cập",
+      "order": 0,
+      "createdAt": "2024-09-07T14:19:08.439Z",
+      "updatedAt": "2024-09-07T14:19:08.439Z",
+      "verseId": "89c0db1f-28cf-4009-b04e-8ab5fc9821a5",
+      "chapterId": "1ae66878-0b32-4f22-b412-ec990934009d"
+    }
+  ],
+  "references": []
+}

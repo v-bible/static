@@ -1,0 +1,332 @@
+{
+  "chapter": {
+    "id": "43b6ef57-03dd-46fd-991e-c45b99bd7686",
+    "number": 5,
+    "ref": "https://www.bible.com/bible/19/JAS.5.BD2011",
+    "createdAt": "2024-09-07T11:51:14.402Z",
+    "updatedAt": "2024-09-07T11:51:14.402Z",
+    "bookId": "48605fd3-675d-4b21-b3cd-77a529647a7a"
+  },
+  "verses": [
+    {
+      "id": "46a49b32-911f-4dcc-bc35-ccc968d4de24",
+      "number": 1,
+      "content": "Bây giờ hãy nghe đây, hỡi những người giàu bất lương. Hãy khóc lóc và rên than, vì những đau khổ sẽ giáng trên các người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.380Z",
+      "updatedAt": "2024-09-07T16:16:55.380Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "1e0cbbc2-a8e5-42c4-8cbc-fd3072e0c58b",
+      "number": 2,
+      "content": "Tài sản các người bị mục nát, quần áo các người bị mối ăn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.391Z",
+      "updatedAt": "2024-09-07T16:16:55.391Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "c52aea1b-25aa-492f-b801-ded4e8026058",
+      "number": 3,
+      "content": "Vàng bạc các người bị rỉ sét; sự rỉ sét ấy sẽ là bằng chứng nghịch lại các người và sẽ ăn thịt các người như lửa thiêu đốt. Các người cứ lo tích trữ tiền của cho mình trong những ngày cuối cùng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.394Z",
+      "updatedAt": "2024-09-07T16:16:55.394Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "b2d90f97-da76-44b2-a1d1-c555fb71a074",
+      "number": 4,
+      "content": "Kìa tiền công của các thợ gặt đã gặt lúa trong ruộng các người mà các người đã gian lận giữ lại đang kêu gào nghịch lại các người, và tiếng kêu gào của những thợ gặt đã thấu đến tai Chúa các đạo quân.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.398Z",
+      "updatedAt": "2024-09-07T16:16:55.398Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "1579eed3-b20d-44ac-8f07-816ddec4d8e8",
+      "number": 5,
+      "content": "Các người đã sống xa hoa và đắm chìm trong các lạc thú trên đất; các người đã làm cho lòng mình mập béo trong ngày giết thịt.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.402Z",
+      "updatedAt": "2024-09-07T16:16:55.402Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "7121561c-d957-4f3b-a324-44032288180f",
+      "number": 6,
+      "content": "Các người đã lên án và giết hại người công chính, mặc dù người ấy không chống đối các người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.407Z",
+      "updatedAt": "2024-09-07T16:16:55.407Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "4c455c26-e1a7-4bdd-b335-eb8670c6033d",
+      "number": 7,
+      "content": "Vậy thưa anh chị em, hãy kiên trì cho tới khi Chúa đến. Hãy xem, người nông phu chờ đợi sản vật quý báu của đất như thế nào; người ấy cứ kiên trì chờ nó, cho đến khi nhận được cơn mưa đầu mùa và cơn mưa cuối mùa.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.411Z",
+      "updatedAt": "2024-09-07T16:16:55.411Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "e72eb0bd-5f5b-4579-aac4-a0c2d3d2f89f",
+      "number": 8,
+      "content": "Anh chị em cũng vậy, hãy kiên trì, hãy vững lòng, vì ngày Chúa đến rất gần rồi.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.414Z",
+      "updatedAt": "2024-09-07T16:16:55.414Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "6393682a-d332-49e9-8e03-dffa90f8f02f",
+      "number": 9,
+      "content": "Thưa anh chị em, đừng lằm bằm oán trách nhau, kẻo anh chị em bị xét đoán. Kìa, Vị Thẩm Phán đang đứng ngoài cửa.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.418Z",
+      "updatedAt": "2024-09-07T16:16:55.418Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "16a3d5f5-c8aa-4324-8ea8-ce1364c60dbb",
+      "number": 10,
+      "content": "Thưa anh chị em, hãy noi gương chịu khổ và kiên trì của các vị tiên tri đã nhân danh Chúa mà tuyên bố.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.421Z",
+      "updatedAt": "2024-09-07T16:16:55.421Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "084ed2f7-fd3b-4eb2-a945-91787ff77866",
+      "number": 11,
+      "content": "Hãy xem, chúng ta coi những người kiên nhẫn là có phước. Anh chị em đã nghe nói về sự kiên nhẫn của Gióp, và anh chị em đã thấy kết cuộc của Chúa cho ông như thế nào, vì Chúa giàu lòng trắc ẩn và xót thương.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.424Z",
+      "updatedAt": "2024-09-07T16:16:55.424Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "c1895338-6304-441d-aa27-e430eab303a3",
+      "number": 12,
+      "content": "Thưa anh chị em của tôi, trên hết, đừng thề. Đừng chỉ trời, chỉ đất, hay chỉ bất cứ vật gì mà thề; nhưng phải thì nói “Phải,” và không thì nói “Không,” để anh chị em khỏi bị xét đoán.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.427Z",
+      "updatedAt": "2024-09-07T16:16:55.427Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "f1f0344e-a65c-4f84-924f-f68ab0804c3b",
+      "number": 13,
+      "content": "Có ai trong anh chị em đau khổ chăng? Người ấy hãy cầu nguyện. Có ai vui mừng chăng? Người ấy hãy ca ngợi.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.431Z",
+      "updatedAt": "2024-09-07T16:16:55.431Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "ca958899-83e8-481e-b054-03fb82c7d80a",
+      "number": 14,
+      "content": "Có ai đau ốm chăng? Người ấy hãy mời các trưởng lão của hội thánh đến để họ cầu nguyện cho mình, và nhân danh Chúa xức dầu cho mình.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.434Z",
+      "updatedAt": "2024-09-07T16:16:55.434Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "69a393bb-4c90-49f4-b35f-f374d22bf460",
+      "number": 15,
+      "content": "Lời cầu nguyện của đức tin sẽ cứu người bịnh, và Chúa sẽ đỡ người ấy dậy; nếu người ấy có phạm tội lỗi gì, người ấy sẽ được tha.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.438Z",
+      "updatedAt": "2024-09-07T16:16:55.438Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "08455ae5-d250-4473-a0ec-4f2810c534f3",
+      "number": 16,
+      "content": "Vậy hãy xưng tội cùng nhau và cầu nguyện cho nhau, để anh chị em được chữa lành. Lời cầu nguyện của người công chính rất quyền năng và linh nghiệm.",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.441Z",
+      "updatedAt": "2024-09-07T16:16:55.441Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "9f21c06d-ab67-4bc9-bebb-58f6d274a36a",
+      "number": 17,
+      "content": "Ê-li vốn là người có bản chất như chúng ta; ông cầu nguyện tha thiết xin đừng mưa, thì trời không mưa xuống đất trong ba năm sáu tháng.",
+      "order": 0,
+      "parNumber": 12,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.444Z",
+      "updatedAt": "2024-09-07T16:16:55.444Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "b0d506a2-ead3-45ab-ba15-97d89b891d39",
+      "number": 18,
+      "content": "Sau đó ông cầu nguyện lại, thì trời đổ mưa và đất sinh sản hoa màu.",
+      "order": 0,
+      "parNumber": 12,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.448Z",
+      "updatedAt": "2024-09-07T16:16:55.448Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "7c6f6ab9-f820-4dd1-87c4-bb8d0572b5d4",
+      "number": 19,
+      "content": "Thưa anh chị em của tôi, nếu có người trong anh chị em lạc xa chân lý mà có ai dẫn đưa người ấy trở lại,",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.451Z",
+      "updatedAt": "2024-09-07T16:16:55.451Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "aacc82fb-a1d3-4091-83e0-10627e4844b2",
+      "number": 20,
+      "content": "hãy biết rằng ai làm cho một người có tội lìa bỏ con đường lầm lạc sẽ cứu được linh hồn người ấy khỏi chết và sẽ che khuất biết bao tội lỗi.",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-07T16:16:55.454Z",
+      "updatedAt": "2024-09-07T16:16:55.454Z",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "6641e868-1236-4e5a-b222-937fe34aadc1",
+      "content": "nt: hãy đến",
+      "position": 21,
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:57.598Z",
+      "updatedAt": "2024-09-07T16:16:57.598Z",
+      "verseId": "46a49b32-911f-4dcc-bc35-ccc968d4de24",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "23d16c6f-2d09-4291-9548-b85c982f7f97",
+      "content": "nt: những người giàu",
+      "position": 53,
+      "order": 1,
+      "createdAt": "2024-09-07T16:16:57.628Z",
+      "updatedAt": "2024-09-07T16:16:57.628Z",
+      "verseId": "46a49b32-911f-4dcc-bc35-ccc968d4de24",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "9bbb81aa-3133-4f93-9dc3-ae9c5b5b29e4",
+      "content": "ctd: những ngày sắp tận thế (5:9)",
+      "position": 194,
+      "order": 2,
+      "createdAt": "2024-09-07T16:16:57.654Z",
+      "updatedAt": "2024-09-07T16:16:57.654Z",
+      "verseId": "c52aea1b-25aa-492f-b801-ded4e8026058",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    }
+  ],
+  "headings": [
+    {
+      "id": "e90d7358-9085-49c6-8e04-758b6ba42706",
+      "content": "Quở Trách Người Giàu Bất Lương",
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:59.761Z",
+      "updatedAt": "2024-09-07T16:16:59.761Z",
+      "verseId": "46a49b32-911f-4dcc-bc35-ccc968d4de24",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "2c6ffdd8-d243-4463-8838-3ff8b08863de",
+      "content": "Kiên Trì trong Đức Tin",
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:59.761Z",
+      "updatedAt": "2024-09-07T16:16:59.761Z",
+      "verseId": "4c455c26-e1a7-4bdd-b335-eb8670c6033d",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "fe9d997b-26e1-4dad-b0fb-620c29df0274",
+      "content": "Đừng Thề",
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:59.761Z",
+      "updatedAt": "2024-09-07T16:16:59.761Z",
+      "verseId": "c1895338-6304-441d-aa27-e430eab303a3",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "d250bf99-7291-4f70-ac80-95ca3a1373fe",
+      "content": "Hiệu Lực của Sự Cầu Nguyện",
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:59.761Z",
+      "updatedAt": "2024-09-07T16:16:59.761Z",
+      "verseId": "f1f0344e-a65c-4f84-924f-f68ab0804c3b",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    },
+    {
+      "id": "c3eb3af4-8261-4ede-87e7-a6140b3250ca",
+      "content": "Tầm Quan Trọng của Sự Chăm Sóc",
+      "order": 0,
+      "createdAt": "2024-09-07T16:16:59.761Z",
+      "updatedAt": "2024-09-07T16:16:59.761Z",
+      "verseId": "7c6f6ab9-f820-4dd1-87c4-bb8d0572b5d4",
+      "chapterId": "43b6ef57-03dd-46fd-991e-c45b99bd7686"
+    }
+  ],
+  "references": []
+}
