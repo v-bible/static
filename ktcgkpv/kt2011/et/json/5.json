@@ -1,551 +1,481 @@
 {
   "chapter": {
-    "id": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3",
+    "id": "6f48a598-fa5e-427b-b562-af53b0fa6b13",
     "number": 5,
     "ref": "",
-    "createdAt": "2024-09-10T00:39:05.864Z",
-    "updatedAt": "2024-09-10T00:39:05.864Z",
-    "bookId": "6fc6c813-4c9e-46f6-ab4f-ef078dedb786"
+    "createdAt": "2024-09-17T08:41:12.616Z",
+    "updatedAt": "2024-09-17T08:41:12.616Z",
+    "bookId": "fa5d8274-3238-4732-baa8-e8b981d63fc5"
   },
   "verses": [
     {
-      "id": "f06e8e0f-137c-4fc3-b866-363b9d0913c7",
+      "id": "423221fd-851f-4b9b-abde-7a144aaa6998",
       "number": 1,
       "content": "Ngày thứ ba, cầu nguyện xong, hoàng hậu Ét-te bỏ áo cầu nguyện, mặc phẩm phục huy hoàng.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.505Z",
-      "updatedAt": "2024-09-10T03:38:22.505Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.172Z",
+      "updatedAt": "2024-09-17T09:43:16.172Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "f8cd2388-f369-428b-af1f-c76cb5929942",
+      "id": "a1ca515c-c4f4-4c04-8b95-f5dad34dccd3",
       "number": 1,
       "content": "Đẹp lộng lẫy, bà cầu khẩn Thiên Chúa là Đấng thấu suốt và cứu độ mọi người. Rồi bà đem theo hai cung nữ : bà tựa vào một cô, trông thật thướt tha duyên dáng ; còn cô kia theo sau, nâng đuôi áo cho bà.",
       "order": 1,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.530Z",
-      "updatedAt": "2024-09-10T03:38:22.530Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.191Z",
+      "updatedAt": "2024-09-17T09:43:16.191Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "4ea222ea-4af1-4819-923d-bcbd33781e25",
+      "id": "6d8609ce-0b27-4f69-b718-8ccd7b8c6451",
       "number": 1,
       "content": "Bà hết sức xinh đẹp, đôi má tươi hồng, vẻ mặt hớn hở, dễ thương, nhưng lòng đau như thắt vì khiếp sợ.",
       "order": 2,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.537Z",
-      "updatedAt": "2024-09-10T03:38:22.537Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.193Z",
+      "updatedAt": "2024-09-17T09:43:16.193Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "891fda3a-ea77-42da-8ab9-5c9e7aabc949",
+      "id": "87c66ffe-a4f2-482b-9853-123a4982341f",
       "number": 1,
       "content": "Qua các cửa, bà đến trước mặt vua. Vua ngự trên ngai báu, mang trọn bộ long bào dùng trong những buổi triều yết, mình đầy vàng bạc châu báu, dáng vẻ rất đáng sợ.",
       "order": 3,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.539Z",
-      "updatedAt": "2024-09-10T03:38:22.539Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.195Z",
+      "updatedAt": "2024-09-17T09:43:16.195Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "aaba595d-4e75-491e-832f-5b5b670f2f13",
+      "id": "25597bbb-0f7e-44e5-8f30-15d62dd7b314",
       "number": 1,
       "content": "Vua ngẩng mặt lên nhìn, đôi mắt rực sáng, giận dữ đến cực độ. Hoàng hậu khuỵu xuống, tái mặt đi vì yếu sức ; bà dựa đầu vào cô cung nữ đi trước.",
       "order": 4,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.544Z",
-      "updatedAt": "2024-09-10T03:38:22.544Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.197Z",
+      "updatedAt": "2024-09-17T09:43:16.197Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "697ca8e7-007c-491d-a15d-1e127901622e",
+      "id": "c4ada7ff-7bf9-4dda-b55e-771d6b6aafbf",
       "number": 1,
       "content": "Thiên Chúa làm cho vua đổi lòng, khiến vua ra dịu hiền. Từ trên ngai vàng, vua lo âu lao mình xuống, đưa cánh tay đỡ lấy bà cho đến khi bà tỉnh lại. Rồi vua lấy lời trấn an khích lệ bà :",
       "order": 5,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.547Z",
-      "updatedAt": "2024-09-10T03:38:22.547Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.199Z",
+      "updatedAt": "2024-09-17T09:43:16.199Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "3e277c1f-1b14-4245-9260-7b55a559eed0",
+      "id": "0ca0e107-018b-444a-97ae-1474ad8bdd74",
       "number": 1,
       "content": "“Sao thế, Ét-te ? Ta là anh của em mà ! Yên tâm đi ! Em không phải chết đâu ! Lệnh của ta chỉ áp dụng cho thường dân thôi. Lại đây em !”",
       "order": 6,
       "parNumber": 0,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.552Z",
-      "updatedAt": "2024-09-10T03:38:22.552Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.203Z",
+      "updatedAt": "2024-09-17T09:43:16.203Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "a10afd08-f104-45a8-9ffd-01e0e8caf59e",
+      "id": "1e167e31-624f-4720-9268-8a22163a6230",
       "number": 2,
       "content": "Vua đưa phủ việt vàng lên đặt vào cổ bà, rồi ôm hôn bà và nói : “Hãy nói cho ta hay !”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.563Z",
-      "updatedAt": "2024-09-10T03:38:22.563Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.206Z",
+      "updatedAt": "2024-09-17T09:43:16.206Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "192c80a1-1fe4-4e3d-84fd-38b4e676365b",
+      "id": "bb977afa-6550-4028-afc2-0f993a19639d",
       "number": 2,
       "content": "Bà nói với vua : “Tâu chúa thượng, thiếp nhìn thấy ngài giống như thiên sứ của Thiên Chúa. Tâm hồn thiếp bị rúng động vì khiếp sợ vẻ oai nghi của ngài. Quả thế, tâu chúa thượng, ngài thật kỳ diệu và long nhan ngài thật hấp dẫn !”",
       "order": 1,
       "parNumber": 0,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.565Z",
-      "updatedAt": "2024-09-10T03:38:22.565Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.208Z",
+      "updatedAt": "2024-09-17T09:43:16.208Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "86d9cd35-a95e-4bbe-b469-0734c20fb2e0",
+      "id": "3628dd6e-3bbc-4d0e-b0c1-00ebaae74ad0",
       "number": 2,
       "content": "Đang nói thế bà lại khuỵu xuống. Vua bị rúng động, còn các cận thần thì tìm cách làm cho bà tỉnh lại.",
       "order": 2,
       "parNumber": 0,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.570Z",
-      "updatedAt": "2024-09-10T03:38:22.570Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.210Z",
+      "updatedAt": "2024-09-17T09:43:16.210Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "41370c93-b405-4d6e-b768-1c95c9f2190d",
+      "id": "afee3901-5cff-4bb4-a073-97f1ca00bfaa",
       "number": 3,
       "content": "Vua nói với bà : “Hoàng hậu Ét-te, chuyện gì thế ? Khanh muốn xin gì ? Dù nửa nước ta cũng sẽ ban !”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 10,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.576Z",
-      "updatedAt": "2024-09-10T03:38:22.576Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.212Z",
+      "updatedAt": "2024-09-17T09:43:16.212Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "24807239-945d-4540-a27f-322ea71df635",
+      "id": "29267136-a9c8-4b44-a7c4-e3d94c2428d9",
       "number": 4,
       "content": "Bà Ét-te đáp : “Nếu đẹp lòng đức vua, thì hôm nay, xin đức vua cùng quan Ha-man đến dự yến tiệc thiếp đã dọn hầu đức vua.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 11,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.588Z",
-      "updatedAt": "2024-09-10T03:38:22.588Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.219Z",
+      "updatedAt": "2024-09-17T09:43:16.219Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "de7f2faf-4743-486b-9b32-c6049a37c462",
+      "id": "ce7fe1d6-466c-4045-8b22-d600152c7751",
       "number": 5,
       "content": "Vua liền nói : “Hãy mau mau triệu Ha-man đến để làm như Ét-te vừa nói.” Vua đã cùng quan Ha-man đến dự yến tiệc bà Ét-te dọn.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 12,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.595Z",
-      "updatedAt": "2024-09-10T03:38:22.595Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.225Z",
+      "updatedAt": "2024-09-17T09:43:16.225Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "b61f62e0-1e1f-4d47-9b02-8a33a0f682ea",
+      "id": "bc420a08-d1bb-4497-a4dd-6772e77a23b8",
       "number": 6,
       "content": "Giữa tiệc rượu, vua lại nói với bà Ét-te : “Khanh thỉnh cầu gì, ta sẽ ban cho. Khanh muốn xin gì, dù nửa nước cũng sẽ được.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 13,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.600Z",
-      "updatedAt": "2024-09-10T03:38:22.600Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.228Z",
+      "updatedAt": "2024-09-17T09:43:16.228Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "5bd4e3f5-3419-4b3b-83f8-61c4e7bee97f",
+      "id": "20e791a5-4dc3-447b-8a64-7ecd8b552ecf",
       "number": 7,
       "content": "Bà Ét-te đáp : “Điều thiếp thỉnh cầu, điều thiếp muốn xin...",
       "order": 0,
       "parNumber": 0,
       "parIndex": 14,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.611Z",
-      "updatedAt": "2024-09-10T03:38:22.611Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.232Z",
+      "updatedAt": "2024-09-17T09:43:16.232Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "9d21e167-797c-4f74-ba1c-ec2c5fd5719e",
+      "id": "e26f5d8d-4ad7-4b6e-9331-3c71123e9fbb",
       "number": 8,
       "content": "Nếu thiếp được đức vua thương đến, nếu đức vua vui lòng ban điều thiếp muốn xin và thực hiện điều thiếp thỉnh cầu, thì ngày mai xin đức vua cùng quan Ha-man lại tới dự yến tiệc thiếp sẽ dọn hầu các ngài. Rồi thiếp sẽ tuân theo lời đức vua phán dạy.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 15,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.616Z",
-      "updatedAt": "2024-09-10T03:38:22.616Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.234Z",
+      "updatedAt": "2024-09-17T09:43:16.234Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "c1a8cb07-6b43-4a83-8ea7-5a3f30f99c0b",
+      "id": "5db9008f-06f5-497a-8f64-e99af304db9e",
       "number": 9,
       "content": "Hôm ấy, Ha-man vui vẻ ra về, lòng phơi phới hân hoan. Nhưng khi thấy ông Moóc-đo-khai ở cung môn không buồn đứng dậy cũng chẳng thèm nhúc nhích, y hết sức căm giận ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.634Z",
-      "updatedAt": "2024-09-10T03:38:22.634Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.240Z",
+      "updatedAt": "2024-09-17T09:43:16.240Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "04332476-6edd-4b2f-9955-de6231cac4e6",
+      "id": "9c11c54c-889b-48d0-a4bc-4b186fcdf545",
       "number": 10,
       "content": "Ha-man dằn lòng trở về nhà, sai người đi mời bạn hữu và vợ là De-rết đến.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.642Z",
-      "updatedAt": "2024-09-10T03:38:22.642Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.244Z",
+      "updatedAt": "2024-09-17T09:43:16.244Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "94a607e0-fe45-416a-8799-2c9f0b2a8ec6",
+      "id": "6bb59d49-f59c-4e14-9d62-5953ce069547",
       "number": 11,
       "content": "Y kể cho họ nghe nào là y giàu có vinh hiển, nào là con cái đông đúc, nào là bao nhiêu việc vua đã làm để đề cao y và cất nhắc y lên trên hàng khanh tướng quần thần của nhà vua.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.648Z",
-      "updatedAt": "2024-09-10T03:38:22.648Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.247Z",
+      "updatedAt": "2024-09-17T09:43:16.247Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "7077ef2c-5125-4e73-aae6-ce26716ee660",
+      "id": "7988620a-48d7-4a28-aadb-4c90015cc9a4",
       "number": 12,
       "content": "Y nói : “Hơn nữa, ngoài tôi ra, hoàng hậu Ét-te đã chẳng mời ai khác cùng đức vua đến dự yến tiệc của bà. Ngày mai, bà lại mời tôi với đức vua lần nữa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.656Z",
-      "updatedAt": "2024-09-10T03:38:22.656Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.253Z",
+      "updatedAt": "2024-09-17T09:43:16.253Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "e9cbf5ec-a5b1-4cac-946d-7026e976122b",
+      "id": "fbea9473-3a19-464a-80b2-6c10e4d65a14",
       "number": 13,
       "content": "Nhưng tất cả những điều đó chưa làm tôi thoả mãn, bao lâu tôi còn thấy tên Do-thái Moóc-đo-khai ngồi tại cung môn.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.659Z",
-      "updatedAt": "2024-09-10T03:38:22.659Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.255Z",
+      "updatedAt": "2024-09-17T09:43:16.255Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "6209c03c-d429-4459-83ff-2935743cf0e6",
+      "id": "d7b0096e-188c-447f-98e9-d1bdfc846e8e",
       "number": 14,
       "content": "De-rết, vợ y, và tất cả các bạn hữu của y đều nói : “Ngài cứ cho dựng một cái giá cao hai mươi lăm thước, rồi sáng mai xin đức vua cho treo cổ tên Moóc-đo-khai lên. Sau đó, ngài sẽ vui vẻ theo đức vua vào dự tiệc.” Ha-man ưng thuận đề nghị đó và cho dựng giá treo cổ.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-10T03:38:22.662Z",
-      "updatedAt": "2024-09-10T03:38:22.662Z",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.257Z",
+      "updatedAt": "2024-09-17T09:43:16.257Z",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     }
   ],
   "footnotes": [
     {
-      "id": "ffaa9861-ee43-4491-9622-81fe6d2dd559",
+      "id": "e844f19c-9a49-4e11-a98e-157149741196",
       "content": "<i>Ngày thứ ba</i> : Nghĩa là sau thời gian ăn chay cầu nguyện được nói tới ở 4,16.",
       "position": 11,
       "order": 0,
-      "createdAt": "2024-09-10T03:38:22.517Z",
-      "updatedAt": "2024-09-10T03:38:22.517Z",
-      "verseId": "f06e8e0f-137c-4fc3-b866-363b9d0913c7",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.184Z",
+      "updatedAt": "2024-09-17T09:43:16.184Z",
+      "verseId": "423221fd-851f-4b9b-abde-7a144aaa6998",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "762a3ab0-d7df-4798-9951-e2c37d6f323d",
+      "id": "40e5cce1-504f-4117-ac23-aee13087b0e0",
       "content": "<i>Phẩm phục huy hoàng</i> : x. 4,17k.",
       "position": 87,
       "order": 1,
-      "createdAt": "2024-09-10T03:38:22.519Z",
-      "updatedAt": "2024-09-10T03:38:22.519Z",
-      "verseId": "f06e8e0f-137c-4fc3-b866-363b9d0913c7",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.187Z",
+      "updatedAt": "2024-09-17T09:43:16.187Z",
+      "verseId": "423221fd-851f-4b9b-abde-7a144aaa6998",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "b88dc013-3e2d-41ad-9225-3361c75d365f",
-      "content": "<i>Đấng thấu suốt mọi người</i> : x. 2 Mcb 7,35 ; 9,5 ; 12,22.",
-      "position": 54,
-      "order": 2,
-      "createdAt": "2024-09-10T03:38:22.532Z",
-      "updatedAt": "2024-09-10T03:38:22.532Z",
-      "verseId": "f8cd2388-f369-428b-af1f-c76cb5929942",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "b8cb3cc7-f26c-4f61-9c34-334629dbeafe",
-      "content": "<i>Đấng cứu độ mọi người</i> : x. Gđt 9,11 ; 2 Mcb 2,17 ; Kn 16,7 ; 19,9 ; Br 4,22.",
-      "position": 64,
-      "order": 3,
-      "createdAt": "2024-09-10T03:38:22.535Z",
-      "updatedAt": "2024-09-10T03:38:22.535Z",
-      "verseId": "f8cd2388-f369-428b-af1f-c76cb5929942",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "939df2e7-c9a0-4488-8e7f-04094a1569d1",
-      "content": "Thiên Chúa là Đấng rất <i>đáng sợ</i> (Đnl 10,17 ; Tv 47,3 ; Đn 9,4 ; Nkm 1,5 ; 9,32 ; 2 Mcb 1,24).",
-      "position": 160,
-      "order": 4,
-      "createdAt": "2024-09-10T03:38:22.542Z",
-      "updatedAt": "2024-09-10T03:38:22.542Z",
-      "verseId": "891fda3a-ea77-42da-8ab9-5c9e7aabc949",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "3fbca110-b4c9-408a-abb7-de82bb4957e2",
-      "content": "<i>Anh của em</i> có nghĩa là <i>người yêu của em</i> (Dc 4,9 ; 8,1) và là <i>người bảo vệ em</i> (Cn 17,17). Kiểu nói này được sử dụng nhiều lần trong sách Tô-bi-a (Tb 7,15 ; 8,4.7.21).",
-      "position": 37,
-      "order": 5,
-      "createdAt": "2024-09-10T03:38:22.555Z",
-      "updatedAt": "2024-09-10T03:38:22.555Z",
-      "verseId": "3e277c1f-1b14-4245-9260-7b55a559eed0",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "acb71de6-3738-40b3-b6f8-2c9e989178f0",
-      "content": "Đây là lệnh được nói tới ở 4,11 và được áp dụng cho tất cả mọi người, chứ đâu phải chỉ dành cho thường dân ! Vua nói thế chỉ để trấn an bà Ét-te.",
-      "position": 121,
-      "order": 6,
-      "createdAt": "2024-09-10T03:38:22.558Z",
-      "updatedAt": "2024-09-10T03:38:22.558Z",
-      "verseId": "3e277c1f-1b14-4245-9260-7b55a559eed0",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "175ca287-e48b-4a32-9e55-db19037197a8",
-      "content": "<i>Thiên sứ của Thiên Chúa</i> : Gợi nhớ đến những biến cố thần hiện (x. Tl 13,6 ; 2 Sm 14,17 ; Đn 14,34.36.39). Bà Ét-te thấy nhà vua giống như một sứ giả được Thiên Chúa sai đến để thực thi ý định của Người (x. St 19,1tt).",
-      "position": 89,
-      "order": 7,
-      "createdAt": "2024-09-10T03:38:22.567Z",
-      "updatedAt": "2024-09-10T03:38:22.567Z",
-      "verseId": "192c80a1-1fe4-4e3d-84fd-38b4e676365b",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "e03745bd-7f53-4eeb-a821-196253214e6f",
-      "content": "<i>Vua bị rúng động</i> : Ngược hẳn lại với thái độ của vua ở 3,15. Như vậy, tình thế đã bắt đầu bị đảo ngược (x. 1,1k). Sự biến chuyển này rồi sẽ được tiếp tục khai triển.",
-      "position": 49,
-      "order": 8,
-      "createdAt": "2024-09-10T03:38:22.572Z",
-      "updatedAt": "2024-09-10T03:38:22.572Z",
-      "verseId": "86d9cd35-a95e-4bbe-b469-0734c20fb2e0",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
-    },
-    {
-      "id": "83735b81-cda5-481e-b5c4-4346638a9829",
+      "id": "28218dff-f0b3-4768-95a1-568ee77f9db6",
       "content": "<i>Dù nửa nước ta cũng sẽ ban</i> : Không nên hiểu câu này theo nghĩa đen, vì đây là một kiểu nói thanh lịch, dù rằng hơi quá đáng của người Trung Đông cổ xưa. Vua A-suê-rô còn lặp lại câu này ở 5,6.",
       "position": 82,
-      "order": 9,
-      "createdAt": "2024-09-10T03:38:22.578Z",
-      "updatedAt": "2024-09-10T03:38:22.578Z",
-      "verseId": "41370c93-b405-4d6e-b768-1c95c9f2190d",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 2,
+      "createdAt": "2024-09-17T09:43:16.214Z",
+      "updatedAt": "2024-09-17T09:43:16.214Z",
+      "verseId": "afee3901-5cff-4bb4-a073-97f1ca00bfaa",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "4c1fc625-7234-42da-a08d-6b9f216b25d1",
+      "id": "75392ca4-a8b4-46ff-abe1-1934e629f221",
       "content": "<i>Nếu đẹp lòng đức vua</i> : x. 1,19+.",
       "position": 36,
-      "order": 10,
-      "createdAt": "2024-09-10T03:38:22.590Z",
-      "updatedAt": "2024-09-10T03:38:22.590Z",
-      "verseId": "24807239-945d-4540-a27f-322ea71df635",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 3,
+      "createdAt": "2024-09-17T09:43:16.221Z",
+      "updatedAt": "2024-09-17T09:43:16.221Z",
+      "verseId": "29267136-a9c8-4b44-a7c4-e3d94c2428d9",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "d629d6b2-92af-4393-92c9-da85b7733821",
+      "id": "68123c66-e81a-4cce-ae94-7af654ab998f",
       "content": "<i>Dọn hầu đức vua</i>. So với 4,17x thì bà Ét-te tự mâu thuẫn ! Điều này cho ta thấy việc hoà hợp giữa hai bản văn HL và HR không phải lúc nào cũng dễ dàng. Dẫu sao, diễn biến của câu chuyện Ét-te vẫn được xây dựng trên bối cảnh “từ bữa tiệc này sang bữa tiệc khác”.",
       "position": 120,
-      "order": 11,
-      "createdAt": "2024-09-10T03:38:22.592Z",
-      "updatedAt": "2024-09-10T03:38:22.592Z",
-      "verseId": "24807239-945d-4540-a27f-322ea71df635",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 4,
+      "createdAt": "2024-09-17T09:43:16.223Z",
+      "updatedAt": "2024-09-17T09:43:16.223Z",
+      "verseId": "29267136-a9c8-4b44-a7c4-e3d94c2428d9",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "bd01d711-4f58-4e97-8e7a-1ac59538e20d",
+      "id": "5416e0af-7771-4cc5-86c0-33b62f1887a7",
       "content": "<i>Tiệc rượu</i> : x. 7,2.7.8. Tiệc nào mà chẳng có rượu ! Đây có ý nói đến phần thứ hai của một bữa tiệc : người ta uống và nói chuyện sau khi đã ăn xong.",
       "position": 14,
-      "order": 12,
-      "createdAt": "2024-09-10T03:38:22.606Z",
-      "updatedAt": "2024-09-10T03:38:22.606Z",
-      "verseId": "b61f62e0-1e1f-4d47-9b02-8a33a0f682ea",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 5,
+      "createdAt": "2024-09-17T09:43:16.230Z",
+      "updatedAt": "2024-09-17T09:43:16.230Z",
+      "verseId": "bc420a08-d1bb-4497-a4dd-6772e77a23b8",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "a25fec55-0a0b-41fd-be2e-f3b768946c02",
+      "id": "9a084462-03df-49e6-812b-3d43fefa1bdf",
       "content": "Tại sao bà Ét-te không xin vua can thiệp ngay, mà phải mời vua và quan Ha-man đến dự tiệc ? Có nhiều ý kiến khác nhau : vì bà Ét-te nhận thấy đây chưa phải là thời điểm thích hợp để xin ? – Vì bà thiếu can đảm vào phút cuối ? – Hay là vì bà cho rằng chỉ có bữa tiệc mới là chỗ thuận tiện nhất để trình bày vụ việc cho nhà vua ? Nhưng nhiều học giả Kinh Thánh cho rằng đó là vì tác giả muốn kéo dài cuộc tranh đấu giữa ông Moóc-đo-khai và quan Ha-man thêm nữa (5,9 – 6,11). Ông muốn lôi cuốn độc giả chú ý hơn nên không để câu chuyện kết thúc sớm.",
       "position": 202,
-      "order": 13,
-      "createdAt": "2024-09-10T03:38:22.623Z",
-      "updatedAt": "2024-09-10T03:38:22.623Z",
-      "verseId": "9d21e167-797c-4f74-ba1c-ec2c5fd5719e",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 6,
+      "createdAt": "2024-09-17T09:43:16.236Z",
+      "updatedAt": "2024-09-17T09:43:16.236Z",
+      "verseId": "e26f5d8d-4ad7-4b6e-9331-3c71123e9fbb",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "e9b00739-6915-4aba-88b0-69e16105d28d",
+      "id": "1287fb3e-10d4-401b-86b7-9adbd0f842e1",
       "content": "Từ 5,9 – 6,13, tác giả tạm ngưng câu chuyện hoàng hậu Ét-te vào chầu vua, và nói đến mối căng thẳng giữa ông Moóc-đo-khai và quan Ha-man.",
       "position": 167,
-      "order": 14,
-      "createdAt": "2024-09-10T03:38:22.638Z",
-      "updatedAt": "2024-09-10T03:38:22.638Z",
-      "verseId": "c1a8cb07-6b43-4a83-8ea7-5a3f30f99c0b",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 7,
+      "createdAt": "2024-09-17T09:43:16.242Z",
+      "updatedAt": "2024-09-17T09:43:16.242Z",
+      "verseId": "5db9008f-06f5-497a-8f64-e99af304db9e",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "4c412951-2ad6-45bd-a7da-d657a9f69ef8",
+      "id": "5b043072-d58c-42e5-935b-189f546b6a05",
       "content": "<i>Nào là con cái đông đúc</i> : Câu này chỉ có trong bản HR, không có trong bản HL. Người Ba-tư cũng như người Do-thái đều cho rằng <i>con cái đông đúc</i> là dấu hiệu của phúc lành (Đnl 28,4.11 ; Cn 17,6 ; Tv 115,14 ; 127,4 ; 128,3). Quan Ha-man có đến mười người con (9,6-10).",
       "position": 68,
-      "order": 15,
-      "createdAt": "2024-09-10T03:38:22.651Z",
-      "updatedAt": "2024-09-10T03:38:22.651Z",
-      "verseId": "94a607e0-fe45-416a-8799-2c9f0b2a8ec6",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 8,
+      "createdAt": "2024-09-17T09:43:16.249Z",
+      "updatedAt": "2024-09-17T09:43:16.249Z",
+      "verseId": "6bb59d49-f59c-4e14-9d62-5953ce069547",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "6cd35207-104a-4e92-99ab-e52954d4427f",
+      "id": "25fbac9a-7925-41f2-b7d2-0a5851636e86",
       "content": "<i>Cao hai mươi lăm thước</i>, ds : <i>cao năm mươi xích</i>. Một xích dài khoảng nửa thước. Chiều cao của giá treo cổ phần nào biểu thị mức độ trầm trọng của tên tử tội đáng khinh bỉ (x. Đnl 21,22). Ở đây, chiều cao này cùng với cái giá quá to lớn quan Ha-man trả cho vua (x. 3,9+), cho thấy tính cách ngông cuồng lố bịch của y.",
       "position": 104,
-      "order": 16,
-      "createdAt": "2024-09-10T03:38:22.664Z",
-      "updatedAt": "2024-09-10T03:38:22.664Z",
-      "verseId": "6209c03c-d429-4459-83ff-2935743cf0e6",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "order": 9,
+      "createdAt": "2024-09-17T09:43:16.259Z",
+      "updatedAt": "2024-09-17T09:43:16.259Z",
+      "verseId": "d7b0096e-188c-447f-98e9-d1bdfc846e8e",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     }
   ],
   "headings": [
     {
-      "id": "6a851c6f-429b-441a-8d62-35eabf1cee7d",
+      "id": "9e305836-42be-44c7-952a-4886f9ac79cd",
       "content": "Hoàng hậu Ét-te vào chầu vua",
       "order": 0,
-      "createdAt": "2024-09-10T03:38:22.514Z",
-      "updatedAt": "2024-09-10T03:38:22.514Z",
-      "verseId": "f06e8e0f-137c-4fc3-b866-363b9d0913c7",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.182Z",
+      "updatedAt": "2024-09-17T09:43:16.182Z",
+      "verseId": "423221fd-851f-4b9b-abde-7a144aaa6998",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     }
   ],
   "references": [
     {
-      "id": "b89362ee-d1b0-466d-bc8a-c4dc26c9c9fd",
+      "id": "d3d17f35-feb3-4a38-842b-0d505f345830",
       "content": "Gđt 10,1-4; 2 Mcb 13,12",
       "position": 13,
       "order": 0,
-      "createdAt": "2024-09-10T03:38:22.525Z",
-      "updatedAt": "2024-09-10T03:38:22.525Z",
-      "verseId": "f06e8e0f-137c-4fc3-b866-363b9d0913c7",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.189Z",
+      "updatedAt": "2024-09-17T09:43:16.189Z",
+      "verseId": "423221fd-851f-4b9b-abde-7a144aaa6998",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "032be8f5-c969-42f3-ae9f-f41d29f86972",
+      "id": "069e98b7-bf7c-466e-a85a-4e9c7f042b9b",
       "content": "Cn 21,1",
       "position": 19,
       "order": 1,
-      "createdAt": "2024-09-10T03:38:22.550Z",
-      "updatedAt": "2024-09-10T03:38:22.550Z",
-      "verseId": "697ca8e7-007c-491d-a15d-1e127901622e",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.201Z",
+      "updatedAt": "2024-09-17T09:43:16.201Z",
+      "verseId": "c4ada7ff-7bf9-4dda-b55e-771d6b6aafbf",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "84c8225e-1435-492f-a58b-fa9c54a55ec8",
+      "id": "983183f0-2f8e-45ec-b1f1-1da16c2b744a",
       "content": "Gđt 11,1.3",
       "position": 40,
       "order": 2,
-      "createdAt": "2024-09-10T03:38:22.560Z",
-      "updatedAt": "2024-09-10T03:38:22.560Z",
-      "verseId": "3e277c1f-1b14-4245-9260-7b55a559eed0",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.205Z",
+      "updatedAt": "2024-09-17T09:43:16.205Z",
+      "verseId": "0ca0e107-018b-444a-97ae-1474ad8bdd74",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "cbd110ff-64ea-4240-89ca-2cbb1c79c243",
+      "id": "e5f1a891-c1e9-4236-a10b-873fc64325ee",
       "content": "Et 5,6; 7,2; 9,12",
       "position": 0,
       "order": 3,
-      "createdAt": "2024-09-10T03:38:22.580Z",
-      "updatedAt": "2024-09-10T03:38:22.580Z",
-      "verseId": "41370c93-b405-4d6e-b768-1c95c9f2190d",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.215Z",
+      "updatedAt": "2024-09-17T09:43:16.215Z",
+      "verseId": "afee3901-5cff-4bb4-a073-97f1ca00bfaa",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "e20b193c-3d3a-4507-bcfd-02976e4abe59",
+      "id": "24cd59b9-3b53-4772-ba7d-854c561fb13a",
       "content": "Mc 6,23",
       "position": 71,
       "order": 4,
-      "createdAt": "2024-09-10T03:38:22.586Z",
-      "updatedAt": "2024-09-10T03:38:22.586Z",
-      "verseId": "41370c93-b405-4d6e-b768-1c95c9f2190d",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.217Z",
+      "updatedAt": "2024-09-17T09:43:16.217Z",
+      "verseId": "afee3901-5cff-4bb4-a073-97f1ca00bfaa",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "d50ec480-2968-48fa-b92e-b62b7a952959",
+      "id": "96d682f5-e79e-411d-b798-0849354eed89",
       "content": "St 18,6; 1 V 22,6",
       "position": 20,
       "order": 5,
-      "createdAt": "2024-09-10T03:38:22.597Z",
-      "updatedAt": "2024-09-10T03:38:22.597Z",
-      "verseId": "de7f2faf-4743-486b-9b32-c6049a37c462",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.227Z",
+      "updatedAt": "2024-09-17T09:43:16.227Z",
+      "verseId": "ce7fe1d6-466c-4045-8b22-d600152c7751",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "d5f14520-bbcb-4460-a6ae-2cd2eb4446f6",
+      "id": "3824972a-345b-4fb6-ba43-eb46b2faa9ae",
       "content": "Et 2,17",
       "position": 23,
       "order": 6,
-      "createdAt": "2024-09-10T03:38:22.628Z",
-      "updatedAt": "2024-09-10T03:38:22.628Z",
-      "verseId": "9d21e167-797c-4f74-ba1c-ec2c5fd5719e",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.238Z",
+      "updatedAt": "2024-09-17T09:43:16.238Z",
+      "verseId": "e26f5d8d-4ad7-4b6e-9331-3c71123e9fbb",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "0f867239-9845-4e41-b551-58d301793ca0",
+      "id": "69bad1e7-52b2-44b9-a614-c914e418ca2f",
       "content": "St 43,31; 45,1; Is 42,14",
       "position": 7,
       "order": 7,
-      "createdAt": "2024-09-10T03:38:22.645Z",
-      "updatedAt": "2024-09-10T03:38:22.645Z",
-      "verseId": "04332476-6edd-4b2f-9955-de6231cac4e6",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.245Z",
+      "updatedAt": "2024-09-17T09:43:16.245Z",
+      "verseId": "9c11c54c-889b-48d0-a4bc-4b186fcdf545",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     },
     {
-      "id": "13238fdc-feda-4140-a947-538bb637358e",
+      "id": "74d98d5f-7ed1-4f74-96cf-43bf18b5cc1f",
       "content": "Tv 127,3-4; 128,3-6",
       "position": 52,
       "order": 8,
-      "createdAt": "2024-09-10T03:38:22.653Z",
-      "updatedAt": "2024-09-10T03:38:22.653Z",
-      "verseId": "94a607e0-fe45-416a-8799-2c9f0b2a8ec6",
-      "chapterId": "2a5ecd07-46a9-4b2d-a8b4-00688f90feb3"
+      "createdAt": "2024-09-17T09:43:16.251Z",
+      "updatedAt": "2024-09-17T09:43:16.251Z",
+      "verseId": "6bb59d49-f59c-4e14-9d62-5953ce069547",
+      "chapterId": "6f48a598-fa5e-427b-b562-af53b0fa6b13"
     }
   ]
 }
