@@ -1,180 +1,198 @@
 {
   "chapter": {
-    "id": "32d985f0-9975-494c-8193-2b2f8956e991",
+    "id": "774d2dc5-5199-442e-91d6-c64bedb44113",
     "number": 150,
     "ref": "https://www.bible.com/bible/19/PSA.150.BD2011",
-    "createdAt": "2024-09-07T11:51:11.602Z",
-    "updatedAt": "2024-09-07T11:51:11.602Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.713Z",
+    "updatedAt": "2024-09-23T05:08:40.713Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "18c518ce-e3c0-4e46-a73d-0204eeb0fe46",
+      "id": "c4edffb7-3acd-458a-8a5f-14495b9d958f",
       "number": 1,
-      "content": "Hãy ca ngợi CHÚA!",
+      "content": "Hãy ca ngợi **CHÚA**!",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.478Z",
-      "updatedAt": "2024-09-07T14:30:50.478Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.703Z",
+      "updatedAt": "2024-09-23T05:44:29.703Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "3c21604d-534e-42d1-9f6b-0ccb8eb63a00",
+      "id": "9a6929fc-e3c2-4cb5-9e3b-c1a510d7f452",
+      "number": 6,
+      "content": "Hãy ca ngợi **CHÚA**!",
+      "order": 1,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:44:29.774Z",
+      "updatedAt": "2024-09-23T05:44:29.774Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
+    },
+    {
+      "id": "ef0b2b98-bbac-4592-9580-ffb5a14ee1db",
       "number": 1,
       "content": "Hãy ca ngợi Đức Chúa Trời trong nơi thánh Ngài;",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.478Z",
-      "updatedAt": "2024-09-07T14:30:50.478Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.725Z",
+      "updatedAt": "2024-09-23T05:44:29.725Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "56facbd6-857f-45ef-a1f8-6c463d262365",
+      "id": "790658c5-865d-483a-94c9-cf847aea061c",
       "number": 1,
       "content": "Hãy ca ngợi Ngài trong bầu trời lớn lao vô tận của Ngài.",
       "order": 2,
-      "parNumber": 3,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.478Z",
-      "updatedAt": "2024-09-07T14:30:50.478Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.729Z",
+      "updatedAt": "2024-09-23T05:44:29.729Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "ef12bc39-2d2f-4c8c-b21e-258f19dbd066",
+      "id": "186023f9-e644-4d3e-8e2b-acb75e8f0636",
       "number": 2,
       "content": "Hãy ca ngợi Ngài về những việc quyền năng Ngài;",
       "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
+      "parNumber": 3,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.487Z",
-      "updatedAt": "2024-09-07T14:30:50.487Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.733Z",
+      "updatedAt": "2024-09-23T05:44:29.733Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "90105f92-fbf4-4b92-8b95-e58bb98eac89",
+      "id": "682e172e-2aba-4f2e-be3c-b190a365e56c",
       "number": 2,
       "content": "Hãy ca ngợi Ngài theo sự lớn lao vĩ đại của Ngài.",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.487Z",
-      "updatedAt": "2024-09-07T14:30:50.487Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.737Z",
+      "updatedAt": "2024-09-23T05:44:29.737Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "d82ed7db-d556-4113-a540-4f2b31b8f002",
+      "id": "5145123f-f1ca-472a-a55d-1b5e720a28c4",
       "number": 3,
       "content": "Hãy dùng tiếng kèn ca ngợi Ngài;",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 1,
+      "parNumber": 5,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.490Z",
-      "updatedAt": "2024-09-07T14:30:50.490Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.741Z",
+      "updatedAt": "2024-09-23T05:44:29.741Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "4bc14c18-d962-4b57-ae18-8de691212597",
+      "id": "abe042ad-fcf7-4fe8-ad8e-9f21e239342d",
       "number": 3,
       "content": "Hãy dùng đàn lia và hạc cầm ca ngợi Ngài;",
       "order": 1,
-      "parNumber": 7,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.490Z",
-      "updatedAt": "2024-09-07T14:30:50.490Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.746Z",
+      "updatedAt": "2024-09-23T05:44:29.746Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "abb08b88-b893-421d-81fa-1340910660fa",
+      "id": "3e82fcc7-d94b-4b8a-8ecc-ed806082326a",
       "number": 4,
       "content": "Hãy dùng trống lục lạc và điệu vũ ca ngợi Ngài;",
       "order": 0,
-      "parNumber": 8,
-      "parIndex": 1,
+      "parNumber": 7,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.494Z",
-      "updatedAt": "2024-09-07T14:30:50.494Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.750Z",
+      "updatedAt": "2024-09-23T05:44:29.750Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "69b820b3-2edf-44c5-ad83-eb97009395de",
+      "id": "4100c260-6ca1-439b-9546-c946e068caef",
       "number": 4,
       "content": "Hãy dùng các nhạc khí bằng dây và ống sáo ca ngợi Ngài;",
       "order": 1,
-      "parNumber": 9,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.494Z",
-      "updatedAt": "2024-09-07T14:30:50.494Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.755Z",
+      "updatedAt": "2024-09-23T05:44:29.755Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "eb6eae76-b8a0-4f9b-bf4d-bb7062a8ac94",
+      "id": "dbdabff7-06fa-4a92-8c50-104f8cd92710",
       "number": 5,
       "content": "Hãy dùng các phèng la vang tiếng ca ngợi Ngài;",
       "order": 0,
-      "parNumber": 10,
-      "parIndex": 1,
+      "parNumber": 9,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.497Z",
-      "updatedAt": "2024-09-07T14:30:50.497Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.760Z",
+      "updatedAt": "2024-09-23T05:44:29.760Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     },
     {
-      "id": "35b3e22e-e0cb-4a24-8ec1-680a4e98feb0",
+      "id": "8b021014-7047-4985-90b9-f19522bf97ae",
       "number": 5,
       "content": "Hãy dùng các khánh chiêng vang rền ca ngợi Ngài;",
       "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:44:29.765Z",
+      "updatedAt": "2024-09-23T05:44:29.765Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
+    },
+    {
+      "id": "100c52fb-31cb-4cc4-8ea0-0eb935a0a1e7",
+      "number": 6,
+      "content": "Phàm vật chi thở, hãy ca ngợi **CHÚA**.",
+      "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.497Z",
-      "updatedAt": "2024-09-07T14:30:50.497Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
-    },
-    {
-      "id": "18d0c843-a63f-484a-a59a-2915576642ce",
-      "number": 6,
-      "content": "Phàm vật chi thở, hãy ca ngợi CHÚA.",
-      "order": 0,
-      "parNumber": 12,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.499Z",
-      "updatedAt": "2024-09-07T14:30:50.499Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
-    },
-    {
-      "id": "13acdf1f-4f5f-4564-bfca-9180c1409f8c",
-      "number": 6,
-      "content": "Hãy ca ngợi CHÚA!",
-      "order": 1,
-      "parNumber": 13,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:30:50.499Z",
-      "updatedAt": "2024-09-07T14:30:50.499Z",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.769Z",
+      "updatedAt": "2024-09-23T05:44:29.769Z",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "e141b51f-9ac3-4dff-a592-3f16af77c9fa",
-      "content": "Kêu Gọi Hãy Ca Ngợi CHÚA",
+      "id": "97d91514-51fb-4434-aec1-0fd7499cd75d",
+      "content": "Kêu Gọi Hãy Ca Ngợi",
       "order": 0,
-      "createdAt": "2024-09-07T14:31:03.785Z",
-      "updatedAt": "2024-09-07T14:31:03.785Z",
-      "verseId": "18c518ce-e3c0-4e46-a73d-0204eeb0fe46",
-      "chapterId": "32d985f0-9975-494c-8193-2b2f8956e991"
+      "createdAt": "2024-09-23T05:44:29.713Z",
+      "updatedAt": "2024-09-23T05:44:29.713Z",
+      "verseId": "c4edffb7-3acd-458a-8a5f-14495b9d958f",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
+    },
+    {
+      "id": "189b0908-4cf6-4cc2-b1cd-abceb467f22e",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:44:29.717Z",
+      "updatedAt": "2024-09-23T05:44:29.717Z",
+      "verseId": "c4edffb7-3acd-458a-8a5f-14495b9d958f",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
+    },
+    {
+      "id": "583ffd75-0b27-47d2-8a97-3cfa45daa261",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:44:29.721Z",
+      "updatedAt": "2024-09-23T05:44:29.721Z",
+      "verseId": "c4edffb7-3acd-458a-8a5f-14495b9d958f",
+      "chapterId": "774d2dc5-5199-442e-91d6-c64bedb44113"
     }
   ],
   "references": []

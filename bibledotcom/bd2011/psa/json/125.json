@@ -1,200 +1,227 @@
 {
   "chapter": {
-    "id": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11",
+    "id": "eca82b70-2280-42da-9687-9bacf174c710",
     "number": 125,
     "ref": "https://www.bible.com/bible/19/PSA.125.BD2011",
-    "createdAt": "2024-09-07T11:51:11.533Z",
-    "updatedAt": "2024-09-07T11:51:11.533Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.636Z",
+    "updatedAt": "2024-09-23T05:08:40.636Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "512c24c1-a271-47b3-8a54-8a813446ca6f",
+      "id": "3e0c2dcd-77a7-4dfb-a758-60db6753d0a1",
       "number": 1,
-      "content": "Phàm ai tin cậy CHÚA sẽ như Núi Si-ôn,",
+      "content": "Phàm ai tin cậy **CHÚA** sẽ như Núi Si-ôn,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.678Z",
-      "updatedAt": "2024-09-07T14:21:50.678Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.225Z",
+      "updatedAt": "2024-09-23T05:54:58.225Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "7deddd4c-daae-4be2-9164-720081673a9c",
+      "id": "e5500dce-b1c5-41b4-a86d-2e278923b4f1",
       "number": 1,
       "content": "Chẳng hề rúng động nhưng cứ bền vững muôn đời.",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.678Z",
-      "updatedAt": "2024-09-07T14:21:50.678Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.255Z",
+      "updatedAt": "2024-09-23T05:54:58.255Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "3fc856f7-1b6e-442e-b9fb-aa30568da04b",
+      "id": "33b6f073-1dba-40c8-8b0b-02f8cb7ce83c",
       "number": 2,
       "content": "Như các rặng núi bao quanh Giê-ru-sa-lem thể nào,",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.688Z",
-      "updatedAt": "2024-09-07T14:21:50.688Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
-    },
-    {
-      "id": "4a36ce7e-bfa0-4824-90cc-fb136991202b",
-      "number": 2,
-      "content": "CHÚA bao quanh dân Ngài thể ấy,",
-      "order": 1,
-      "parNumber": 4,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.688Z",
-      "updatedAt": "2024-09-07T14:21:50.688Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.259Z",
+      "updatedAt": "2024-09-23T05:54:58.259Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "0602ccf7-32e1-407c-88ed-1de931f700de",
+      "id": "7cbec7cf-bfcc-41ae-9747-70dffe07ea7b",
+      "number": 2,
+      "content": "**CHÚA** bao quanh dân Ngài thể ấy,",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:54:58.264Z",
+      "updatedAt": "2024-09-23T05:54:58.264Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "2c9467fb-e32b-45d9-8915-b5e72315d5cb",
       "number": 2,
       "content": "Từ nay cho đến đời đời.",
       "order": 2,
-      "parNumber": 5,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.688Z",
-      "updatedAt": "2024-09-07T14:21:50.688Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.269Z",
+      "updatedAt": "2024-09-23T05:54:58.269Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "afd06c19-77f3-43cd-9f1f-5562a1a6630e",
+      "id": "d04134e0-bfd7-4db3-a70a-01fd4062a82d",
       "number": 3,
       "content": "Vì gậy cầm quyền của kẻ ác không được phép hành sử",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 1,
+      "parNumber": 5,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.691Z",
-      "updatedAt": "2024-09-07T14:21:50.691Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.273Z",
+      "updatedAt": "2024-09-23T05:54:58.273Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "ea104adc-555f-4310-b23e-62bd2f5394f7",
+      "id": "2a944da4-088e-46ab-afe7-5062312a92b4",
       "number": 3,
       "content": "Trên địa phận của người ngay lành,",
       "order": 1,
-      "parNumber": 7,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.691Z",
-      "updatedAt": "2024-09-07T14:21:50.691Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.278Z",
+      "updatedAt": "2024-09-23T05:54:58.278Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "91091e2f-4934-4f8e-b891-2e0c403628f5",
+      "id": "0ea664a3-2cf0-4163-b5b9-64fbbc985acb",
       "number": 3,
       "content": "Nên tay người ngay lành",
       "order": 2,
-      "parNumber": 8,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.691Z",
-      "updatedAt": "2024-09-07T14:21:50.691Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.282Z",
+      "updatedAt": "2024-09-23T05:54:58.282Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "1a047d64-82c3-4524-90c1-b6a65941e9c1",
+      "id": "7f8ce2e8-54ef-4f5e-8318-483a35848b36",
       "number": 3,
       "content": "Không bị buộc phải tham dự vào việc ác.",
       "order": 3,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:54:58.286Z",
+      "updatedAt": "2024-09-23T05:54:58.286Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "d03ac9e7-48ae-4293-b91b-5c54a62e51dc",
+      "number": 4,
+      "content": "**CHÚA** ôi, xin ban phước cho những người tốt,",
+      "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.691Z",
-      "updatedAt": "2024-09-07T14:21:50.691Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.291Z",
+      "updatedAt": "2024-09-23T05:54:58.291Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "eaf46446-5441-4bfa-b6bc-49b9aeccc2d6",
-      "number": 4,
-      "content": "CHÚA ôi, xin ban phước cho những người tốt,",
-      "order": 0,
-      "parNumber": 10,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.693Z",
-      "updatedAt": "2024-09-07T14:21:50.693Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
-    },
-    {
-      "id": "18d03c02-43b2-49e4-8945-41d6931db726",
+      "id": "f7a4b0a5-c404-40bb-8a2d-dbb9edc60c08",
       "number": 4,
       "content": "Và cho những người có lòng ngay thẳng thật thà.",
       "order": 1,
-      "parNumber": 11,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.693Z",
-      "updatedAt": "2024-09-07T14:21:50.693Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.295Z",
+      "updatedAt": "2024-09-23T05:54:58.295Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "069b9353-83fa-4f15-9cdb-f29e2d6566cc",
+      "id": "d895bd21-7647-4900-83ab-b6e5f9e8e790",
       "number": 5,
       "content": "Nhưng đối với những kẻ bỏ Ngài để đi theo con đường lươn lẹo,",
       "order": 0,
-      "parNumber": 12,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.696Z",
-      "updatedAt": "2024-09-07T14:21:50.696Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
-    },
-    {
-      "id": "939dd30b-ef65-4e02-845a-6bc8540adca0",
-      "number": 5,
-      "content": "Xin CHÚA trục xuất chúng chung với những kẻ làm điều ác.",
-      "order": 1,
-      "parNumber": 13,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.696Z",
-      "updatedAt": "2024-09-07T14:21:50.696Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.300Z",
+      "updatedAt": "2024-09-23T05:54:58.300Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     },
     {
-      "id": "808bebe9-98c6-4b6f-922b-7ef39915d7fd",
+      "id": "305c683e-d480-4c84-a7c1-8c3f795f6c3b",
+      "number": 5,
+      "content": "Xin **CHÚA** trục xuất chúng chung với những kẻ làm điều ác.",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:54:58.305Z",
+      "updatedAt": "2024-09-23T05:54:58.305Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "ea964c42-179f-4e62-a043-f85114a868ce",
       "number": 5,
       "content": "Nguyện hòa bình thịnh vượng đến trên I-sơ-ra-ên.",
       "order": 2,
-      "parNumber": 14,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:21:50.696Z",
-      "updatedAt": "2024-09-07T14:21:50.696Z",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.309Z",
+      "updatedAt": "2024-09-23T05:54:58.309Z",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "7d4e50d4-564e-4e22-a100-e55c38e745b3",
-      "content": "CHÚA Bảo Vệ Dân Ngài",
+      "id": "022659df-050a-49af-a074-946864ca8538",
+      "content": "",
       "order": 0,
-      "createdAt": "2024-09-07T14:21:54.485Z",
-      "updatedAt": "2024-09-07T14:21:54.485Z",
-      "verseId": "512c24c1-a271-47b3-8a54-8a813446ca6f",
-      "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+      "createdAt": "2024-09-23T05:54:58.237Z",
+      "updatedAt": "2024-09-23T05:54:58.237Z",
+      "verseId": "3e0c2dcd-77a7-4dfb-a758-60db6753d0a1",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "3e980b87-808b-4785-a699-5219aa2f0645",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:54:58.242Z",
+      "updatedAt": "2024-09-23T05:54:58.242Z",
+      "verseId": "3e0c2dcd-77a7-4dfb-a758-60db6753d0a1",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "e1583852-fde2-4adc-af7b-4f0012757aab",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:54:58.246Z",
+      "updatedAt": "2024-09-23T05:54:58.246Z",
+      "verseId": "3e0c2dcd-77a7-4dfb-a758-60db6753d0a1",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
+    },
+    {
+      "id": "bb21fd01-0dde-4119-8ea2-0f0b7a4bcc7a",
+      "content": "Bảo Vệ Dân Ngài",
+      "order": 3,
+      "createdAt": "2024-09-23T05:54:58.251Z",
+      "updatedAt": "2024-09-23T05:54:58.251Z",
+      "verseId": "3e0c2dcd-77a7-4dfb-a758-60db6753d0a1",
+      "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "e9e8c800-0b37-4d79-9ba1-8b874ba95844",
+    "id": "eb23e5d5-8ef2-4c49-b9b5-63811b443822",
     "title": "Bài ca đi lên đền thánh",
-    "createdAt": "2024-09-07T14:21:56.740Z",
-    "updatedAt": "2024-09-07T14:21:56.740Z",
-    "chapterId": "d3ea8aac-c9c6-47e6-ae1e-92f0673b0e11"
+    "createdAt": "2024-09-23T05:54:59.426Z",
+    "updatedAt": "2024-09-23T05:54:59.426Z",
+    "chapterId": "eca82b70-2280-42da-9687-9bacf174c710"
   }
 }

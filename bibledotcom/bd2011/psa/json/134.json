@@ -1,104 +1,122 @@
 {
   "chapter": {
-    "id": "6ccde746-39a6-4b44-949a-b917fdcc5eee",
+    "id": "def811af-de4b-429d-afbd-ec20a0594068",
     "number": 134,
     "ref": "https://www.bible.com/bible/19/PSA.134.BD2011",
-    "createdAt": "2024-09-07T11:51:11.556Z",
-    "updatedAt": "2024-09-07T11:51:11.556Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.669Z",
+    "updatedAt": "2024-09-23T05:08:40.669Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "3a72d5e0-a5aa-4628-ad3a-fd5fdfc60e58",
+      "id": "461ef65d-3aad-4068-81d1-020de6df1c7e",
       "number": 1,
-      "content": "Hỡi tất cả tôi tớ CHÚA,",
+      "content": "Hỡi tất cả tôi tớ **CHÚA**,",
       "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:42:46.005Z",
+      "updatedAt": "2024-09-23T05:42:46.005Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
+    },
+    {
+      "id": "9358b993-1c40-4036-8257-288409d56bd2",
+      "number": 1,
+      "content": "Những người phục vụ trong nhà **CHÚA** ban đêm, xin hãy chúc tụng **CHÚA**.",
+      "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.696Z",
-      "updatedAt": "2024-09-07T14:23:56.696Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+      "createdAt": "2024-09-23T05:42:46.021Z",
+      "updatedAt": "2024-09-23T05:42:46.021Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
     },
     {
-      "id": "aa352737-7942-4957-931e-168858f74fdc",
-      "number": 1,
-      "content": "Những người phục vụ trong nhà CHÚA ban đêm, xin hãy chúc tụng CHÚA.",
-      "order": 1,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.696Z",
-      "updatedAt": "2024-09-07T14:23:56.696Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
-    },
-    {
-      "id": "8a1abbb4-5dcd-4539-a7fd-e2c490e04498",
+      "id": "e54be2eb-db48-4b23-b2a1-74fdadd7940c",
       "number": 2,
       "content": "Xin đưa cao đôi tay quý vị lên trong nơi thánh",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.706Z",
-      "updatedAt": "2024-09-07T14:23:56.706Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+      "createdAt": "2024-09-23T05:42:46.023Z",
+      "updatedAt": "2024-09-23T05:42:46.023Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
     },
     {
-      "id": "7de82932-7ce5-48fc-94b3-3193100e2162",
+      "id": "2610d648-c38d-49ba-981f-09b6cecfa367",
       "number": 2,
-      "content": "Và chúc tụng CHÚA.",
+      "content": "Và chúc tụng **CHÚA**.",
       "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:42:46.025Z",
+      "updatedAt": "2024-09-23T05:42:46.025Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
+    },
+    {
+      "id": "afbfa4ef-3752-46a5-96c1-dd03827b5c64",
+      "number": 3,
+      "content": "Nguyện **CHÚA**, Đấng dựng nên trời và đất,",
+      "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.706Z",
-      "updatedAt": "2024-09-07T14:23:56.706Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+      "createdAt": "2024-09-23T05:42:46.027Z",
+      "updatedAt": "2024-09-23T05:42:46.027Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
     },
     {
-      "id": "f73ba068-ec45-4934-aab1-2e7251414091",
-      "number": 3,
-      "content": "Nguyện CHÚA, Đấng dựng nên trời và đất,",
-      "order": 0,
-      "parNumber": 5,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.708Z",
-      "updatedAt": "2024-09-07T14:23:56.708Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
-    },
-    {
-      "id": "389eb07e-96cb-448f-895f-6e2e9922e01b",
+      "id": "25496377-bc94-4902-8733-ac6c7bd8d258",
       "number": 3,
       "content": "Ban phước cho quý vị từ Si-ôn.",
       "order": 1,
-      "parNumber": 6,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:56.708Z",
-      "updatedAt": "2024-09-07T14:23:56.708Z",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+      "createdAt": "2024-09-23T05:42:46.029Z",
+      "updatedAt": "2024-09-23T05:42:46.029Z",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "69158d35-4cd9-4452-aeab-8da75855b0f1",
-      "content": "Kêu Gọi Những Người Phục Vụ Đền Thờ Ban Đêm Ca Ngợi CHÚA",
+      "id": "b015803a-bdc0-4db1-9403-3e5afc3aec87",
+      "content": "Kêu Gọi Những Người Phục Vụ Đền Thờ Ban Đêm Ca Ngợi",
       "order": 0,
-      "createdAt": "2024-09-07T14:23:58.999Z",
-      "updatedAt": "2024-09-07T14:23:58.999Z",
-      "verseId": "3a72d5e0-a5aa-4628-ad3a-fd5fdfc60e58",
-      "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+      "createdAt": "2024-09-23T05:42:46.015Z",
+      "updatedAt": "2024-09-23T05:42:46.015Z",
+      "verseId": "461ef65d-3aad-4068-81d1-020de6df1c7e",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
+    },
+    {
+      "id": "66cce8dc-43d3-47b5-8075-50b804f0d1f7",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:42:46.017Z",
+      "updatedAt": "2024-09-23T05:42:46.017Z",
+      "verseId": "461ef65d-3aad-4068-81d1-020de6df1c7e",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
+    },
+    {
+      "id": "1efa4d27-ff2b-4ac4-8125-7ecc5416d06c",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:42:46.019Z",
+      "updatedAt": "2024-09-23T05:42:46.019Z",
+      "verseId": "461ef65d-3aad-4068-81d1-020de6df1c7e",
+      "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "11104296-b5d0-41a2-bc73-0b6a86d316b8",
+    "id": "8c3cfa92-6813-4296-afac-0ca8be4716ce",
     "title": "Bài ca đi lên đền thánh",
-    "createdAt": "2024-09-07T14:24:01.171Z",
-    "updatedAt": "2024-09-07T14:24:01.171Z",
-    "chapterId": "6ccde746-39a6-4b44-949a-b917fdcc5eee"
+    "createdAt": "2024-09-23T05:42:47.013Z",
+    "updatedAt": "2024-09-23T05:42:47.013Z",
+    "chapterId": "def811af-de4b-429d-afbd-ec20a0594068"
   }
 }

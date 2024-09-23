@@ -1,187 +1,205 @@
 {
   "chapter": {
-    "id": "77f63f33-7eeb-4722-8269-88c6bc3c313f",
+    "id": "b6897520-ab5e-4c51-aaf0-0dad44c3108a",
     "number": 100,
     "ref": "https://www.bible.com/bible/19/PSA.100.BD2011",
-    "createdAt": "2024-09-07T11:51:11.416Z",
-    "updatedAt": "2024-09-07T11:51:11.416Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.550Z",
+    "updatedAt": "2024-09-23T05:08:40.550Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "4a19b964-fc9c-4657-89fc-02329703dac3",
+      "id": "760603d3-fe54-403b-9e7a-12071792a30a",
       "number": 1,
-      "content": "Hỡi cả địa cầu, hãy lớn tiếng reo mừng tung hô CHÚA.",
+      "content": "Hỡi cả địa cầu, hãy lớn tiếng reo mừng tung hô **CHÚA**.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:52:47.270Z",
+      "updatedAt": "2024-09-23T05:52:47.270Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
+    },
+    {
+      "id": "71698845-b5d2-4f7b-a59c-35a3fc667210",
+      "number": 2,
+      "content": "Hãy thờ phượng **CHÚA** cách vui mừng;",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.463Z",
-      "updatedAt": "2024-09-07T14:16:38.463Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.286Z",
+      "updatedAt": "2024-09-23T05:52:47.286Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "09f679eb-a12f-4082-9ba3-a1e204f4a2bc",
-      "number": 2,
-      "content": "Hãy thờ phượng  CHÚA cách vui mừng;",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.472Z",
-      "updatedAt": "2024-09-07T14:16:38.472Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
-    },
-    {
-      "id": "edea50d8-eb1f-4886-bfd1-839052b5c15a",
+      "id": "42c9ba58-e43d-41aa-8633-c82dd1a092fe",
       "number": 2,
       "content": "Hãy đến trước thánh nhan Ngài với tiếng hoan ca.",
       "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:52:47.292Z",
+      "updatedAt": "2024-09-23T05:52:47.292Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
+    },
+    {
+      "id": "075b8116-eba5-4c12-867b-dfb47027c8b6",
+      "number": 3,
+      "content": "Khá biết rằng **CHÚA** là Đức Chúa Trời.",
+      "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.472Z",
-      "updatedAt": "2024-09-07T14:16:38.472Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.296Z",
+      "updatedAt": "2024-09-23T05:52:47.296Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "ee606dad-f60e-409d-b1fc-6cef10060eea",
-      "number": 3,
-      "content": "Khá biết rằng CHÚA là Đức Chúa Trời.",
-      "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.475Z",
-      "updatedAt": "2024-09-07T14:16:38.475Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
-    },
-    {
-      "id": "29aa05fa-f7ff-401b-bb6b-5ea87d0585a0",
+      "id": "93019047-9200-45ae-bcac-78b76811dfc3",
       "number": 3,
       "content": "Chính Ngài đã dựng nên chúng ta; chúng ta thuộc về Ngài;",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.475Z",
-      "updatedAt": "2024-09-07T14:16:38.475Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.298Z",
+      "updatedAt": "2024-09-23T05:52:47.298Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "b8753a23-5430-45c0-a14b-a65f1d1baf15",
+      "id": "b96320a6-e9b8-4875-bf46-bebe962fd463",
       "number": 3,
       "content": "Chúng ta là con dân Ngài và bầy chiên của đồng cỏ Ngài.",
       "order": 2,
-      "parNumber": 6,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.475Z",
-      "updatedAt": "2024-09-07T14:16:38.475Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.300Z",
+      "updatedAt": "2024-09-23T05:52:47.300Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "5616a2fa-4a63-43fc-bcc0-24c4feef8204",
+      "id": "b92b8a75-ffc4-43c0-b40c-942ae7c1fa00",
       "number": 4,
       "content": "Hãy cảm tạ mà vào các cổng Ngài;",
       "order": 0,
-      "parNumber": 7,
-      "parIndex": 1,
+      "parNumber": 6,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.478Z",
-      "updatedAt": "2024-09-07T14:16:38.478Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.303Z",
+      "updatedAt": "2024-09-23T05:52:47.303Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "b2953b09-e50d-4146-94dc-5ee4278d2e7d",
+      "id": "433fa18d-d1bc-456e-8a15-9235873f5c74",
       "number": 4,
       "content": "Khá ngợi ca mà vào các sân Ngài;",
       "order": 1,
-      "parNumber": 8,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.478Z",
-      "updatedAt": "2024-09-07T14:16:38.478Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.305Z",
+      "updatedAt": "2024-09-23T05:52:47.305Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "7515030e-ad8b-4cf8-a865-230d6e3ff2b3",
+      "id": "756f1c55-1119-4720-a3ab-1204101079b9",
       "number": 4,
       "content": "Hãy tạ ơn Ngài, khá chúc tụng danh Ngài.",
       "order": 2,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:52:47.306Z",
+      "updatedAt": "2024-09-23T05:52:47.306Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
+    },
+    {
+      "id": "d553084d-6ba9-49e3-b197-df4bcdc1ba40",
+      "number": 5,
+      "content": "Vì **CHÚA** thật tốt;",
+      "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.478Z",
-      "updatedAt": "2024-09-07T14:16:38.478Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.308Z",
+      "updatedAt": "2024-09-23T05:52:47.308Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "94f4b40b-56e7-44c3-a54c-0f47370cba5a",
-      "number": 5,
-      "content": "Vì CHÚA thật tốt;",
-      "order": 0,
-      "parNumber": 10,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.480Z",
-      "updatedAt": "2024-09-07T14:16:38.480Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
-    },
-    {
-      "id": "fb3650ff-1e19-40be-9113-70181803bde7",
+      "id": "67c7509f-5f11-41d7-b6b4-323e5995e9c2",
       "number": 5,
       "content": "Tình thương của Ngài hằng còn mãi mãi;",
       "order": 1,
-      "parNumber": 11,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.480Z",
-      "updatedAt": "2024-09-07T14:16:38.480Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.310Z",
+      "updatedAt": "2024-09-23T05:52:47.310Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     },
     {
-      "id": "fbfd81bb-4b07-4ea7-a1bd-883eacd0804c",
+      "id": "98e89258-9ee4-446d-a00e-a3ea15482684",
       "number": 5,
       "content": "Đức thành tín của Ngài còn đến muôn đời.",
       "order": 2,
-      "parNumber": 12,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:16:38.480Z",
-      "updatedAt": "2024-09-07T14:16:38.480Z",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.312Z",
+      "updatedAt": "2024-09-23T05:52:47.312Z",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     }
   ],
   "footnotes": [
     {
-      "id": "b4697074-9d04-4822-b5dd-5fe11a00e08f",
+      "id": "2b15485b-e1e9-4b33-bcf0-d1989ec92ea3",
       "content": "ctd: phục vụ, hầu hạ, làm tôi tớ",
       "position": 14,
       "order": 0,
-      "createdAt": "2024-09-07T14:16:39.669Z",
-      "updatedAt": "2024-09-07T14:16:39.669Z",
-      "verseId": "09f679eb-a12f-4082-9ba3-a1e204f4a2bc",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.290Z",
+      "updatedAt": "2024-09-23T05:52:47.290Z",
+      "verseId": "71698845-b5d2-4f7b-a59c-35a3fc667210",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     }
   ],
   "headings": [
     {
-      "id": "d8eecbf2-16ce-4bb7-bd4f-789ab40f3143",
-      "content": "Kêu Gọi Ca Ngợi CHÚA",
+      "id": "8e90c4a3-a124-460f-a75f-62613377db30",
+      "content": "Kêu Gọi Ca Ngợi",
       "order": 0,
-      "createdAt": "2024-09-07T14:16:40.734Z",
-      "updatedAt": "2024-09-07T14:16:40.734Z",
-      "verseId": "4a19b964-fc9c-4657-89fc-02329703dac3",
-      "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+      "createdAt": "2024-09-23T05:52:47.280Z",
+      "updatedAt": "2024-09-23T05:52:47.280Z",
+      "verseId": "760603d3-fe54-403b-9e7a-12071792a30a",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
+    },
+    {
+      "id": "eb493475-5319-4cd9-860f-39fd5c77031d",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:52:47.282Z",
+      "updatedAt": "2024-09-23T05:52:47.282Z",
+      "verseId": "760603d3-fe54-403b-9e7a-12071792a30a",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
+    },
+    {
+      "id": "daef749a-01ea-473f-94c4-3938509d2c37",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:52:47.284Z",
+      "updatedAt": "2024-09-23T05:52:47.284Z",
+      "verseId": "760603d3-fe54-403b-9e7a-12071792a30a",
+      "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "b8d5cd92-f49f-4106-827f-5fdfaa2e3bd7",
+    "id": "304e8be9-9bdc-47c9-a4bf-b2fd51cb36e4",
     "title": "Bài ca cảm tạ",
-    "createdAt": "2024-09-07T14:16:42.990Z",
-    "updatedAt": "2024-09-07T14:16:42.990Z",
-    "chapterId": "77f63f33-7eeb-4722-8269-88c6bc3c313f"
+    "createdAt": "2024-09-23T05:52:48.338Z",
+    "updatedAt": "2024-09-23T05:52:48.338Z",
+    "chapterId": "b6897520-ab5e-4c51-aaf0-0dad44c3108a"
   }
 }
