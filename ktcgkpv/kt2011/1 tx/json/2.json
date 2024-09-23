@@ -1,585 +1,563 @@
 {
   "chapter": {
-    "id": "39b8e33e-0d80-48b8-b819-cf51696d2800",
+    "id": "0c962619-485b-4e7b-ad99-85406e0b76e3",
     "number": 2,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.105Z",
-    "updatedAt": "2024-09-17T08:41:12.105Z",
-    "bookId": "690367bf-72a6-4359-8a61-e3822a22c615"
+    "createdAt": "2024-09-23T03:08:01.771Z",
+    "updatedAt": "2024-09-23T03:08:01.771Z",
+    "bookId": "a9fbdc36-c255-4fed-b51c-0c2dcf8dce78"
   },
   "verses": [
     {
-      "id": "bb8c6807-8b12-4802-b7e9-5fac1b3705d6",
+      "id": "ec32331e-00f0-4e65-bf3f-df5584858719",
       "number": 1,
       "content": "Thật vậy, thưa anh em, chính anh em biết rằng việc anh em đón tiếp chúng tôi không phải vô ích.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.008Z",
-      "updatedAt": "2024-09-17T09:01:55.008Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.465Z",
+      "updatedAt": "2024-09-23T03:26:21.465Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "e53a7f47-e461-49a4-8df2-12f466ede8ea",
+      "id": "18a40a6a-a55b-4c3b-adde-0cd078245393",
       "number": 2,
-      "content": "Như anh em biết, chúng tôi đã đau khổ và bị làm nhục tại Phi-líp-phê ; nhưng vì tin tưởng vào Thiên Chúa chúng ta mà chúng tôi đã mạnh dạn rao giảng Tin Mừng của Thiên Chúa cho anh em, qua những cuộc chiến đấu gay go.",
+      "content": "Như anh em biết, chúng tôi đã đau khổ và bị làm nhục tại [Phi-líp-phê]() ; nhưng vì tin tưởng vào Thiên Chúa chúng ta mà chúng tôi đã mạnh dạn rao giảng Tin Mừng của Thiên Chúa cho anh em, qua những cuộc chiến đấu gay go.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.012Z",
-      "updatedAt": "2024-09-17T09:01:55.012Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.480Z",
+      "updatedAt": "2024-09-23T03:26:21.480Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "e5b87245-d4bc-4324-a137-60fab1efa618",
+      "id": "f71ae311-9687-410e-85c7-e2af98ad1640",
       "number": 3,
       "content": "Lời giảng của chúng tôi không do sự sai lầm, không có dụng ý xấu, không nhằm lừa dối ai,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.020Z",
-      "updatedAt": "2024-09-17T09:01:55.020Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.497Z",
+      "updatedAt": "2024-09-23T03:26:21.497Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "46e752de-1ace-493e-8799-1a916b715ef5",
+      "id": "ea080b30-cb60-4379-9e18-58dae3dd1f10",
       "number": 4,
       "content": "nhưng vì Thiên Chúa đã thử luyện chúng tôi và giao phó Tin Mừng cho chúng tôi, thì chúng tôi cứ vậy mà rao giảng, không phải để làm vừa lòng người phàm, mà để làm đẹp lòng Thiên Chúa, Đấng thử luyện tâm hồn chúng tôi.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.024Z",
-      "updatedAt": "2024-09-17T09:01:55.024Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.501Z",
+      "updatedAt": "2024-09-23T03:26:21.501Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "e5946f86-c981-449a-aa94-7c9038a83dd8",
+      "id": "d84d2dd3-c639-408d-8ff7-ed9d90db7aa3",
       "number": 5,
       "content": "Không bao giờ chúng tôi đã dùng lời xu nịnh, như anh em biết ; không bao giờ chúng tôi đã viện cớ để che đậy lòng tham, có Thiên Chúa chứng giám ;",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.037Z",
-      "updatedAt": "2024-09-17T09:01:55.037Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.513Z",
+      "updatedAt": "2024-09-23T03:26:21.513Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "bcd9303d-d6b6-4a2d-a265-1a65699f8647",
+      "id": "746894aa-c5fa-4037-9817-7c04b6bd3ae6",
       "number": 6,
       "content": "không bao giờ chúng tôi đã tìm cách để được một người phàm nào tôn vinh, dù là anh em hay người khác,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.049Z",
-      "updatedAt": "2024-09-17T09:01:55.049Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.525Z",
+      "updatedAt": "2024-09-23T03:26:21.525Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "853a1690-4b04-468a-8469-cb3c554432b5",
+      "id": "a1290820-4019-455f-b653-74ab7017d044",
       "number": 7,
-      "content": "trong khi chúng tôi có thể đòi anh em phải trọng đãi, với tư cách là Tông Đồ Đức Ki-tô.",
+      "content": "trong khi chúng tôi có thể đòi anh em phải trọng đãi, với tư cách là Tông Đồ Đức [Ki-tô]().",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.057Z",
-      "updatedAt": "2024-09-17T09:01:55.057Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.533Z",
+      "updatedAt": "2024-09-23T03:26:21.533Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "9841f01b-e820-4d4c-8536-5cc6d094895a",
-      "number": 8,
-      "content": "Trái lại, khi ở giữa anh em, chúng tôi đã cư xử thật dịu dàng, chẳng khác nào mẹ hiền ấp ủ con thơ.Chúng tôi đã quý mến anh em, đến nỗi sẵn sàng hiến cho anh em, không những Tin Mừng của Thiên Chúa, mà cả mạng sống của chúng tôi nữa, vì anh em đã trở nên những người thân yêu của chúng tôi.",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.065Z",
-      "updatedAt": "2024-09-17T09:01:55.065Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
-    },
-    {
-      "id": "5b8b7baa-0d2c-40f2-8a4d-4537142e2c7d",
+      "id": "aadc957a-10fe-4517-9a3f-8509a8d5fe7b",
       "number": 9,
       "content": "Thưa anh em, hẳn anh em còn nhớ nỗi khó nhọc vất vả của chúng tôi : đêm ngày chúng tôi đã làm việc để khỏi thành gánh nặng cho một người nào trong anh em, suốt thời gian chúng tôi loan báo Tin Mừng của Thiên Chúa cho anh em.",
       "order": 0,
       "parNumber": 2,
-      "parIndex": 1,
+      "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.073Z",
-      "updatedAt": "2024-09-17T09:01:55.073Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.541Z",
+      "updatedAt": "2024-09-23T03:26:21.541Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "7a6fffd7-0291-4606-a6cc-9ea2a3c49e50",
+      "id": "7591e9e3-b249-45c0-b3a3-fba184b3ad2d",
       "number": 10,
       "content": "Anh em làm chứng, và Thiên Chúa cũng chứng giám, rằng với anh em là những tín hữu, chúng tôi đã cư xử một cách thánh thiện, công minh, không chê trách được.",
       "order": 0,
       "parNumber": 2,
-      "parIndex": 2,
+      "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.081Z",
-      "updatedAt": "2024-09-17T09:01:55.081Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.550Z",
+      "updatedAt": "2024-09-23T03:26:21.550Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "558d3478-8346-4c95-a735-e1a8e843f2a7",
+      "id": "50855ecb-542c-4faa-91d7-505394c7377a",
       "number": 11,
       "content": "Anh em biết : chúng tôi đã cư xử với mỗi người trong anh em như cha với con ;",
       "order": 0,
       "parNumber": 2,
-      "parIndex": 3,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.090Z",
-      "updatedAt": "2024-09-17T09:01:55.090Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
-    },
-    {
-      "id": "5da94e77-2d98-4f30-8f18-d93817de3a56",
-      "number": 12,
-      "content": "chúng tôi đã khuyên nhủ, khích lệ, van nài anh em sống xứng đáng với Thiên Chúa, Đấng kêu gọi anh em vào Nước của Người và chia sẻ vinh quang với Người.",
-      "order": 0,
-      "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.094Z",
-      "updatedAt": "2024-09-17T09:01:55.094Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.558Z",
+      "updatedAt": "2024-09-23T03:26:21.558Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "888aa935-5da2-487a-9481-6b487a169c3e",
+      "id": "29115e1f-e0c8-4ca7-a25f-d1a2a9ec1fae",
+      "number": 12,
+      "content": "chúng tôi đã khuyên nhủ, khích lệ, van nài anh em sống xứng đáng với Thiên Chúa, Đấng kêu gọi anh em vào [Nước]() của Người và chia sẻ vinh quang với Người.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:21.562Z",
+      "updatedAt": "2024-09-23T03:26:21.562Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
+    },
+    {
+      "id": "21a06e86-5a8b-495d-8c68-a7678465d7f1",
       "number": 13,
       "content": "Bởi thế, về phần chúng tôi, chúng tôi không ngừng tạ ơn Thiên Chúa, vì khi chúng tôi nói cho anh em nghe lời Thiên Chúa, anh em đã đón nhận, không phải như lời người phàm, nhưng như lời Thiên Chúa, đúng theo bản tính của lời ấy. Lời đó tác động nơi anh em là những tín hữu.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.111Z",
-      "updatedAt": "2024-09-17T09:01:55.111Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.579Z",
+      "updatedAt": "2024-09-23T03:26:21.579Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "8633b638-cea1-4e2a-88db-d43cb259e78e",
+      "id": "c11536c5-a8d5-4a72-ae0c-0f14886236a0",
       "number": 14,
-      "content": "Thật vậy, thưa anh em, anh em đã noi gương các Hội Thánh của Thiên Chúa ở miền Giu-đê là những Hội Thánh của Đức Ki-tô Giê-su, vì anh em cũng đã phải chịu những nỗi đau khổ do đồng bào của anh em gây ra, như các Hội Thánh đó đã phải chịu do người Do-thái.",
+      "content": "Thật vậy, thưa anh em, anh em đã noi gương các Hội Thánh của Thiên Chúa ở miền [Giu-đê]() là những Hội Thánh của Đức [Ki-tô]() Giê-su, vì anh em cũng đã phải chịu những nỗi đau khổ do đồng bào của anh em gây ra, như các Hội Thánh đó đã phải chịu do người Do-thái.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.128Z",
-      "updatedAt": "2024-09-17T09:01:55.128Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.597Z",
+      "updatedAt": "2024-09-23T03:26:21.597Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "a80cdb8b-e51c-4d80-9f85-ef7c7072bb63",
+      "id": "b2a30562-29d0-4acf-b34b-fd8a2d4d4103",
       "number": 15,
-      "content": "Những người này đã giết Chúa Giê-su và các ngôn sứ, đã bắt bớ chúng tôi, họ không đẹp lòng Thiên Chúa và chống lại tất cả mọi người ;",
+      "content": "Những người này đã giết Chúa [Giê-su]() và các ngôn sứ, đã bắt bớ chúng tôi, họ không đẹp lòng Thiên Chúa và chống lại tất cả mọi người ;",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.140Z",
-      "updatedAt": "2024-09-17T09:01:55.140Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.610Z",
+      "updatedAt": "2024-09-23T03:26:21.610Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "5ddee65d-b76b-41be-a08a-dcfb9f85dfad",
+      "id": "c0ca34ca-9124-4df2-86d5-f60a702fad38",
       "number": 16,
       "content": "họ ngăn cản khi chúng tôi rao giảng cho người ngoại để những người này được ơn cứu độ. Như vậy họ luôn luôn chất đầy thêm tội lỗi ; nhưng cuối cùng cơn thịnh nộ của Thiên Chúa đã giáng xuống trên họ.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.153Z",
-      "updatedAt": "2024-09-17T09:01:55.153Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.623Z",
+      "updatedAt": "2024-09-23T03:26:21.623Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "01794c2f-ec93-48e0-9612-9d87af6c545d",
+      "id": "28c9320c-a0db-42a9-8f89-77a425269e2e",
       "number": 17,
       "content": "Phần chúng tôi, thưa anh em, phải xa cách anh em một thời gian ngắn, xa mặt chứ không cách lòng, chúng tôi càng cố gắng hơn để lại thấy mặt anh em, vì chúng tôi rất ước ao điều đó.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.169Z",
-      "updatedAt": "2024-09-17T09:01:55.169Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.640Z",
+      "updatedAt": "2024-09-23T03:26:21.640Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "86928740-e792-4150-b0f7-cdcf6493426d",
+      "id": "4b784ab8-ed16-4ffc-b9b7-461a52ddab47",
       "number": 18,
-      "content": "Bởi vậy chúng tôi đã muốn đến thăm anh em –chính tôi, Phao-lô, đã nhiều lần định đi– nhưng Xa-tan đã cản trở chúng tôi.",
+      "content": "Bởi vậy chúng tôi đã muốn đến thăm anh em –chính tôi, [Phao-lô](), đã nhiều lần định đi– nhưng [Xa-tan]() đã cản trở chúng tôi.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.185Z",
-      "updatedAt": "2024-09-17T09:01:55.185Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.660Z",
+      "updatedAt": "2024-09-23T03:26:21.660Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "81294a33-2cb1-4284-984b-9aa84387c131",
+      "id": "7d839eda-f8bf-4b5f-80fe-f607617f9655",
       "number": 19,
-      "content": "Quả thế, ai là niềm hy vọng, là niềm vui của chúng tôi, ai là triều thiên làm cho chúng tôi hãnh diện trước nhan Đức Giê-su, Chúa chúng ta, khi Người quang lâm, nếu không phải là anh em ?",
+      "content": "Quả thế, ai là niềm hy vọng, là niềm vui của chúng tôi, ai là triều thiên làm cho chúng tôi hãnh diện trước nhan Đức [Giê-su](), Chúa chúng ta, khi Người quang lâm, nếu không phải là anh em ?",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.197Z",
-      "updatedAt": "2024-09-17T09:01:55.197Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.680Z",
+      "updatedAt": "2024-09-23T03:26:21.680Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "c5638e7c-ce4c-4d3f-946d-d704ce7be150",
+      "id": "f4d13b38-a49e-4a56-a276-d29527a8a534",
       "number": 20,
       "content": "Phải, chính anh em là vinh quang và là niềm vui của chúng tôi.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:01:55.209Z",
-      "updatedAt": "2024-09-17T09:01:55.209Z",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.694Z",
+      "updatedAt": "2024-09-23T03:26:21.694Z",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     }
   ],
   "footnotes": [
     {
-      "id": "36072182-47ec-4b4c-a5fd-9424715154ff",
-      "content": "Các Tông Đồ <i>mạnh dạn rao giảng</i> : Cv 4,13.29.31. Thánh Phao-lô : Cv 9,27-28 ; 14,3 ; 19,8 ; 26,26 ; 28,31 ; 2 Cr 3,12 ; 7,4 ; Pl 1,20 ; Ep 3,12 ; 6,19-20.",
-      "position": 148,
+      "id": "938199a7-fec1-4cc0-a17a-01143f35deae",
+      "content": "Các Tông Đồ *mạnh dạn rao giảng* : Cv 4,13.29.31. Thánh Phao-lô : Cv 9,27-28 ; 14,3 ; 19,8 ; 26,26 ; 28,31 ; 2 Cr 3,12 ; 7,4 ; Pl 1,20 ; Ep 3,12 ; 6,19-20.",
+      "position": 152,
       "order": 0,
-      "createdAt": "2024-09-17T09:01:55.014Z",
-      "updatedAt": "2024-09-17T09:01:55.014Z",
-      "verseId": "e53a7f47-e461-49a4-8df2-12f466ede8ea",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.485Z",
+      "updatedAt": "2024-09-23T03:26:21.485Z",
+      "verseId": "18a40a6a-a55b-4c3b-adde-0cd078245393",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "7307a5ee-428e-4000-9b32-b8c10d87228b",
+      "id": "d827e4c0-6a1c-4ba1-84c6-3b3e2ba6068f",
       "content": "X. Gr 11,20 ; 12,3 ; 17,10.",
       "position": 32,
       "order": 1,
-      "createdAt": "2024-09-17T09:01:55.029Z",
-      "updatedAt": "2024-09-17T09:01:55.029Z",
-      "verseId": "46e752de-1ace-493e-8799-1a916b715ef5",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.505Z",
+      "updatedAt": "2024-09-23T03:26:21.505Z",
+      "verseId": "ea080b30-cb60-4379-9e18-58dae3dd1f10",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "296a3d4a-69f7-4c4f-8dbb-55634c58036d",
+      "id": "700d5808-36e1-4b92-a77b-5d25635f5677",
       "content": "X. 1 Cr 9,1-18 ; 2 Tx 3,8 ; 2 Cr 11,9 ; Cv 20,33-35.",
       "position": 52,
       "order": 2,
-      "createdAt": "2024-09-17T09:01:55.061Z",
-      "updatedAt": "2024-09-17T09:01:55.061Z",
-      "verseId": "853a1690-4b04-468a-8469-cb3c554432b5",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.537Z",
+      "updatedAt": "2024-09-23T03:26:21.537Z",
+      "verseId": "a1290820-4019-455f-b653-74ab7017d044",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "976c6f7a-9976-4ecb-be06-23550d8947de",
+      "id": "c230c73c-40ba-410d-bdf5-dacde153d1d1",
       "content": "X. 5,14 ; 1 Pr 5,10.",
       "position": 93,
       "order": 3,
-      "createdAt": "2024-09-17T09:01:55.098Z",
-      "updatedAt": "2024-09-17T09:01:55.098Z",
-      "verseId": "5da94e77-2d98-4f30-8f18-d93817de3a56",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.567Z",
+      "updatedAt": "2024-09-23T03:26:21.567Z",
+      "verseId": "29115e1f-e0c8-4ca7-a25f-d1a2a9ec1fae",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "b2a0609b-f431-4d11-8c0f-cc4f8fa2f6f6",
+      "id": "6ea77128-1818-4ceb-b1e4-8a411a7f04bc",
       "content": "X. Mt 4,17 ; Cv 19,8 ; Ep 5,5.",
-      "position": 119,
+      "position": 123,
       "order": 4,
-      "createdAt": "2024-09-17T09:01:55.102Z",
-      "updatedAt": "2024-09-17T09:01:55.102Z",
-      "verseId": "5da94e77-2d98-4f30-8f18-d93817de3a56",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.571Z",
+      "updatedAt": "2024-09-23T03:26:21.571Z",
+      "verseId": "29115e1f-e0c8-4ca7-a25f-d1a2a9ec1fae",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "1dcb9cec-2f13-4fa9-b82a-42191691d40a",
-      "content": "<i>Đón nhận lời Thiên Chúa</i> : đón nhận lời rao giảng Tin Mừng và ơn cứu độ, nội dung của Tin Mừng. (Cv 11,1 ; Rm 1,16 ; Hr 4,12 ; 2 Cr 13,3 ; Pl 2,13 ; x. 1 Tx 1,6 chú thích).",
+      "id": "55a5a7bb-eea7-43a5-acdd-820733756ba9",
+      "content": "*Đón nhận lời Thiên Chúa* : đón nhận lời rao giảng Tin Mừng và ơn cứu độ, nội dung của Tin Mừng. (Cv 11,1 ; Rm 1,16 ; Hr 4,12 ; 2 Cr 13,3 ; Pl 2,13 ; x. 1 Tx 1,6 chú thích).",
       "position": 196,
       "order": 5,
-      "createdAt": "2024-09-17T09:01:55.120Z",
-      "updatedAt": "2024-09-17T09:01:55.120Z",
-      "verseId": "888aa935-5da2-487a-9481-6b487a169c3e",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.588Z",
+      "updatedAt": "2024-09-23T03:26:21.588Z",
+      "verseId": "21a06e86-5a8b-495d-8c68-a7678465d7f1",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "81d6b86d-bb61-48b6-b267-b89905d980cb",
+      "id": "1db80c40-c520-4e8a-b6ee-f5dd16a846c3",
       "content": "Bắt chước các Hội Thánh miền Giu-đê (1,6) để rồi nên gương lành cho các Hội Thánh khác (1,7).",
-      "position": 85,
+      "position": 89,
       "order": 6,
-      "createdAt": "2024-09-17T09:01:55.132Z",
-      "updatedAt": "2024-09-17T09:01:55.132Z",
-      "verseId": "8633b638-cea1-4e2a-88db-d43cb259e78e",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.601Z",
+      "updatedAt": "2024-09-23T03:26:21.601Z",
+      "verseId": "c11536c5-a8d5-4a72-ae0c-0f14886236a0",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "e0152e7b-7058-4de8-b2d7-023570d07d48",
+      "id": "72528fd6-04c8-4146-89b4-5e42528c7452",
       "content": "X. Cv 4,1-22 ; 5,17-42 ; 6,8...",
-      "position": 254,
+      "position": 262,
       "order": 7,
-      "createdAt": "2024-09-17T09:01:55.136Z",
-      "updatedAt": "2024-09-17T09:01:55.136Z",
-      "verseId": "8633b638-cea1-4e2a-88db-d43cb259e78e",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.605Z",
+      "updatedAt": "2024-09-23T03:26:21.605Z",
+      "verseId": "c11536c5-a8d5-4a72-ae0c-0f14886236a0",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "118a5e6f-2dfc-4ead-b22e-be20326d8381",
+      "id": "af5e9c7e-1cb8-4a4b-8e80-912d02000837",
       "content": "X. Cv 13,45-50 ; 14,2.19 ; 17,5.13 ; 18,2 ; 2 Cr 11,24. Suốt đời, thánh Phao-lô không quên mình đã bắt bớ Hội Thánh : Cv 9,1-5 ; 1 Tm 1,12-17 ; Gl 1,13 ; Pl 3,6.",
-      "position": 71,
+      "position": 75,
       "order": 8,
-      "createdAt": "2024-09-17T09:01:55.145Z",
-      "updatedAt": "2024-09-17T09:01:55.145Z",
-      "verseId": "a80cdb8b-e51c-4d80-9f85-ef7c7072bb63",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.614Z",
+      "updatedAt": "2024-09-23T03:26:21.614Z",
+      "verseId": "b2a30562-29d0-4acf-b34b-fd8a2d4d4103",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "ef5753fc-c390-4054-8859-8b6ab2bcee0e",
+      "id": "fb1684bb-d312-4f5d-a7e0-758f2eca70c5",
       "content": "Tới đâu thánh Phao-lô cũng thường rao giảng cho đồng bào mình trước : Cv 13,5.14-43 ; 14,1 ; 16,13 ; 17,2.10 ; 18,4 ; 19,8 ; 28,17-24, nhưng cũng thường bị chống đối.",
       "position": 11,
       "order": 9,
-      "createdAt": "2024-09-17T09:01:55.157Z",
-      "updatedAt": "2024-09-17T09:01:55.157Z",
-      "verseId": "5ddee65d-b76b-41be-a08a-dcfb9f85dfad",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.628Z",
+      "updatedAt": "2024-09-23T03:26:21.628Z",
+      "verseId": "c0ca34ca-9124-4df2-86d5-f60a702fad38",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "9c2afc1a-e112-49fd-8576-85526009304f",
-      "content": "Cơn thịnh nộ của ngày phán xét (1,10 ; 5,9 ; Rm 1,18) đã giáng xuống trên người Do-thái cứng lòng (Rm 2,5). Phao-lô hẳn biết truyền thống Do-thái có quyển <i>lời trối của 12 tổ phụ</i>, trong đó ông Lê-vi (6,11) nói : cơn giận Chúa sẽ giáng xuống dân ngoại, do bàn tay của chính con cái Gia-cóp ! Cuối cùng, Chúa vẫn trung thành xót thương : Rm 11,29... Phao-lô cũng vậy Rm 9,2.",
+      "id": "dce8a319-e232-456f-8bb9-0c3466ccd28d",
+      "content": "Cơn thịnh nộ của ngày phán xét (1,10 ; 5,9 ; Rm 1,18) đã giáng xuống trên người Do-thái cứng lòng (Rm 2,5). Phao-lô hẳn biết truyền thống Do-thái có quyển *lời trối của 12 tổ phụ*, trong đó ông Lê-vi (6,11) nói : cơn giận Chúa sẽ giáng xuống dân ngoại, do bàn tay của chính con cái Gia-cóp ! Cuối cùng, Chúa vẫn trung thành xót thương : Rm 11,29... Phao-lô cũng vậy Rm 9,2.",
       "position": 198,
       "order": 10,
-      "createdAt": "2024-09-17T09:01:55.161Z",
-      "updatedAt": "2024-09-17T09:01:55.161Z",
-      "verseId": "5ddee65d-b76b-41be-a08a-dcfb9f85dfad",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.632Z",
+      "updatedAt": "2024-09-23T03:26:21.632Z",
+      "verseId": "c0ca34ca-9124-4df2-86d5-f60a702fad38",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "5854f9a0-c9f4-4828-822a-5d2b2caf41f5",
+      "id": "3a64a156-8852-4a3c-b56d-e99d4b3a9207",
       "content": "Xa-tan có nghĩa là kẻ phá ngang, cản trở : Mt 16,23 ; x. 2 Tx 2,9. Tất cả những gì phá rối công việc của Chúa là làm công việc của Xa-tan.",
-      "position": 118,
+      "position": 126,
       "order": 11,
-      "createdAt": "2024-09-17T09:01:55.189Z",
-      "updatedAt": "2024-09-17T09:01:55.189Z",
-      "verseId": "86928740-e792-4150-b0f7-cdcf6493426d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.668Z",
+      "updatedAt": "2024-09-23T03:26:21.668Z",
+      "verseId": "4b784ab8-ed16-4ffc-b9b7-461a52ddab47",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "59a6656d-274b-4ce8-ba65-48240b09e570",
+      "id": "ac44f24c-a6ab-4b3a-8104-cdb74e18af20",
       "content": "Chúa quang lâm, niềm trông đợi của người Ki-tô hữu : Cv 1,11 ; Kh 22,20 ; Mt 24,30 ; 1 Tx 3,13 ; 5,23 ; 2 Tx 2,1 ; 1 Cr 15,23 ; 1 Cr 1,7 ; 2 Cr 1,14 ; Gc 5,7.8 ; 2 Pr 1,16 ; 3,4.12 ; 1 Ga 2,28.",
-      "position": 159,
+      "position": 163,
       "order": 12,
-      "createdAt": "2024-09-17T09:01:55.201Z",
-      "updatedAt": "2024-09-17T09:01:55.201Z",
-      "verseId": "81294a33-2cb1-4284-984b-9aa84387c131",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.685Z",
+      "updatedAt": "2024-09-23T03:26:21.685Z",
+      "verseId": "7d839eda-f8bf-4b5f-80fe-f607617f9655",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     }
   ],
   "headings": [
     {
-      "id": "c6e386fc-33e0-4775-8860-2433e40000f0",
-      "content": "Thái độ của ông Phao-lô khi ở Thê-xa-lô-ni-ca",
+      "id": "6b87adbe-047f-4e7a-b82d-41eb3e367399",
+      "content": "Thái độ của ông [Phao-lô]() khi ở [Thê-xa-lô-ni-ca]()",
       "order": 0,
-      "createdAt": "2024-09-17T09:01:55.010Z",
-      "updatedAt": "2024-09-17T09:01:55.010Z",
-      "verseId": "bb8c6807-8b12-4802-b7e9-5fac1b3705d6",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.476Z",
+      "updatedAt": "2024-09-23T03:26:21.476Z",
+      "verseId": "ec32331e-00f0-4e65-bf3f-df5584858719",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "3f9381e3-adcb-4c13-992a-97a8e7222816",
-      "content": "Đức tin và lòng kiên nhẫn của người Thê-xa-lô-ni-ca",
+      "id": "d626a68a-4df9-4090-9c8e-02698a480671",
+      "content": "Đức tin và lòng kiên nhẫn của người [Thê-xa-lô-ni-ca]()",
       "order": 0,
-      "createdAt": "2024-09-17T09:01:55.116Z",
-      "updatedAt": "2024-09-17T09:01:55.116Z",
-      "verseId": "888aa935-5da2-487a-9481-6b487a169c3e",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.584Z",
+      "updatedAt": "2024-09-23T03:26:21.584Z",
+      "verseId": "21a06e86-5a8b-495d-8c68-a7678465d7f1",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "2bdf83b9-f563-4164-900e-f8c7a9f69473",
-      "content": "Ông Phao-lô lo lắng về cộng đoàn",
+      "id": "4a991259-7d36-42c0-88f5-609d2189d898",
+      "content": "Ông [Phao-lô]() lo lắng về cộng đoàn",
       "order": 0,
-      "createdAt": "2024-09-17T09:01:55.173Z",
-      "updatedAt": "2024-09-17T09:01:55.173Z",
-      "verseId": "01794c2f-ec93-48e0-9612-9d87af6c545d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.644Z",
+      "updatedAt": "2024-09-23T03:26:21.644Z",
+      "verseId": "28c9320c-a0db-42a9-8f89-77a425269e2e",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     }
   ],
   "references": [
     {
-      "id": "8d163918-ec86-4c8c-ad0d-fdfe17b4e27e",
+      "id": "1a16d3d9-a917-4397-a397-ce8eb5eb9d94",
       "content": "Cv 16,19-20; Pl 1,30",
       "position": 41,
       "order": 0,
-      "createdAt": "2024-09-17T09:01:55.016Z",
-      "updatedAt": "2024-09-17T09:01:55.016Z",
-      "verseId": "e53a7f47-e461-49a4-8df2-12f466ede8ea",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.489Z",
+      "updatedAt": "2024-09-23T03:26:21.489Z",
+      "verseId": "18a40a6a-a55b-4c3b-adde-0cd078245393",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "c15f5b20-9c63-487d-a916-b6cc4edb8ea8",
+      "id": "27c9c23d-a845-42b0-af60-9567dd5e2fcd",
       "content": "2 Cr 3,12",
-      "position": 130,
+      "position": 134,
       "order": 1,
-      "createdAt": "2024-09-17T09:01:55.017Z",
-      "updatedAt": "2024-09-17T09:01:55.017Z",
-      "verseId": "e53a7f47-e461-49a4-8df2-12f466ede8ea",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.493Z",
+      "updatedAt": "2024-09-23T03:26:21.493Z",
+      "verseId": "18a40a6a-a55b-4c3b-adde-0cd078245393",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "8f7b442f-8c3b-422b-812e-04ea3dd51fb1",
+      "id": "2799c8f2-d750-460a-b878-0856b87e86dd",
       "content": "Ep 3,7; 1 Tm 1,11",
       "position": 46,
       "order": 2,
-      "createdAt": "2024-09-17T09:01:55.033Z",
-      "updatedAt": "2024-09-17T09:01:55.033Z",
-      "verseId": "46e752de-1ace-493e-8799-1a916b715ef5",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.509Z",
+      "updatedAt": "2024-09-23T03:26:21.509Z",
+      "verseId": "ea080b30-cb60-4379-9e18-58dae3dd1f10",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "2120cf20-84ba-483c-b3d8-f1b4855c1030",
+      "id": "30203932-32d7-4db2-a512-c813eaef2de7",
       "content": "Gr 11,20; 2 Cr 5,9; Gl 1,10",
       "position": 32,
       "order": 3,
-      "createdAt": "2024-09-17T09:01:55.041Z",
-      "updatedAt": "2024-09-17T09:01:55.041Z",
-      "verseId": "e5946f86-c981-449a-aa94-7c9038a83dd8",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.517Z",
+      "updatedAt": "2024-09-23T03:26:21.517Z",
+      "verseId": "d84d2dd3-c639-408d-8ff7-ed9d90db7aa3",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "e1f1ab51-b0af-4e64-bfa4-c1f755453992",
+      "id": "3f2e481a-a5f3-4c36-a66c-1a3a4e023a17",
       "content": "Rm 1,9",
       "position": 134,
       "order": 4,
-      "createdAt": "2024-09-17T09:01:55.044Z",
-      "updatedAt": "2024-09-17T09:01:55.044Z",
-      "verseId": "e5946f86-c981-449a-aa94-7c9038a83dd8",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.521Z",
+      "updatedAt": "2024-09-23T03:26:21.521Z",
+      "verseId": "d84d2dd3-c639-408d-8ff7-ed9d90db7aa3",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "5adc9d62-7d2f-43ce-8c62-41e9f7d1ea0a",
+      "id": "16b0ee0f-5cdf-49e1-bb3b-e32343cd07ff",
       "content": "Ga 5,41-44",
       "position": 48,
       "order": 5,
-      "createdAt": "2024-09-17T09:01:55.053Z",
-      "updatedAt": "2024-09-17T09:01:55.053Z",
-      "verseId": "bcd9303d-d6b6-4a2d-a265-1a65699f8647",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.529Z",
+      "updatedAt": "2024-09-23T03:26:21.529Z",
+      "verseId": "746894aa-c5fa-4037-9817-7c04b6bd3ae6",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "19c698c6-0c76-49e7-9138-dcae558d4304",
-      "content": "Gl 4,19; 1 Cr 3,2",
-      "position": 42,
-      "order": 6,
-      "createdAt": "2024-09-17T09:01:55.069Z",
-      "updatedAt": "2024-09-17T09:01:55.069Z",
-      "verseId": "9841f01b-e820-4d4c-8536-5cc6d094895a",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
-    },
-    {
-      "id": "5d303f01-11ea-4223-8578-34d7bb7fa74e",
+      "id": "9465a98f-37d5-4e14-a7ef-46e186c26707",
       "content": "1 Tx 4,11; 2 Tx 3,6-12",
       "position": 90,
       "order": 7,
-      "createdAt": "2024-09-17T09:01:55.077Z",
-      "updatedAt": "2024-09-17T09:01:55.077Z",
-      "verseId": "5b8b7baa-0d2c-40f2-8a4d-4537142e2c7d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.545Z",
+      "updatedAt": "2024-09-23T03:26:21.545Z",
+      "verseId": "aadc957a-10fe-4517-9a3f-8509a8d5fe7b",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "2ceb9574-09a3-4d3e-a807-84bbc4aa43f7",
+      "id": "1c312de0-8719-44ef-a87c-e83eb5f9febf",
       "content": "Rm 1,9",
       "position": 37,
       "order": 8,
-      "createdAt": "2024-09-17T09:01:55.085Z",
-      "updatedAt": "2024-09-17T09:01:55.085Z",
-      "verseId": "7a6fffd7-0291-4606-a6cc-9ea2a3c49e50",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.554Z",
+      "updatedAt": "2024-09-23T03:26:21.554Z",
+      "verseId": "7591e9e3-b249-45c0-b3a3-fba184b3ad2d",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "dfe5d385-e0e0-4412-b132-0c75ae61b75b",
+      "id": "35483547-2263-4d28-9ebc-e93603fb89f3",
       "content": "2 Tx 1,11; 1 Pr 5,10",
       "position": 86,
       "order": 9,
-      "createdAt": "2024-09-17T09:01:55.107Z",
-      "updatedAt": "2024-09-17T09:01:55.107Z",
-      "verseId": "5da94e77-2d98-4f30-8f18-d93817de3a56",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.575Z",
+      "updatedAt": "2024-09-23T03:26:21.575Z",
+      "verseId": "29115e1f-e0c8-4ca7-a25f-d1a2a9ec1fae",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "74403dcf-13c4-4763-8e10-b064306cda8e",
+      "id": "f9b5d13f-acb5-4bf4-b20f-10ae01696a19",
       "content": "Rm 1,16; Hr 4,12",
       "position": 182,
       "order": 10,
-      "createdAt": "2024-09-17T09:01:55.124Z",
-      "updatedAt": "2024-09-17T09:01:55.124Z",
-      "verseId": "888aa935-5da2-487a-9481-6b487a169c3e",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.592Z",
+      "updatedAt": "2024-09-23T03:26:21.592Z",
+      "verseId": "21a06e86-5a8b-495d-8c68-a7678465d7f1",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "2f5ca2c9-d465-47d6-98df-c8119a9af1c9",
+      "id": "5950feec-121c-457a-b895-c21fea42670d",
       "content": "1 Cr 2,8",
       "position": 19,
       "order": 11,
-      "createdAt": "2024-09-17T09:01:55.148Z",
-      "updatedAt": "2024-09-17T09:01:55.148Z",
-      "verseId": "a80cdb8b-e51c-4d80-9f85-ef7c7072bb63",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.619Z",
+      "updatedAt": "2024-09-23T03:26:21.619Z",
+      "verseId": "b2a30562-29d0-4acf-b34b-fd8a2d4d4103",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "46dcda76-bef7-43c8-a6fc-daa367ed0e85",
+      "id": "dc6da33f-afa9-45cc-8fd2-19f25ba8f337",
       "content": "Đn 8,23; Mt 23,32",
       "position": 108,
       "order": 12,
-      "createdAt": "2024-09-17T09:01:55.165Z",
-      "updatedAt": "2024-09-17T09:01:55.165Z",
-      "verseId": "5ddee65d-b76b-41be-a08a-dcfb9f85dfad",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.636Z",
+      "updatedAt": "2024-09-23T03:26:21.636Z",
+      "verseId": "c0ca34ca-9124-4df2-86d5-f60a702fad38",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "830531d1-2345-420a-b68a-2074bd54007a",
+      "id": "df32b5ce-77d2-4a7c-b465-438cb35af336",
       "content": "Cl 2,1.5",
       "position": 34,
       "order": 13,
-      "createdAt": "2024-09-17T09:01:55.177Z",
-      "updatedAt": "2024-09-17T09:01:55.177Z",
-      "verseId": "01794c2f-ec93-48e0-9612-9d87af6c545d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.648Z",
+      "updatedAt": "2024-09-23T03:26:21.648Z",
+      "verseId": "28c9320c-a0db-42a9-8f89-77a425269e2e",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "7764c342-f295-4bde-95f0-39897fb495cf",
+      "id": "6108b8f5-3e47-44fb-aac3-72970cb687b4",
       "content": "Rm 1,10-11",
       "position": 131,
       "order": 14,
-      "createdAt": "2024-09-17T09:01:55.181Z",
-      "updatedAt": "2024-09-17T09:01:55.181Z",
-      "verseId": "01794c2f-ec93-48e0-9612-9d87af6c545d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.653Z",
+      "updatedAt": "2024-09-23T03:26:21.653Z",
+      "verseId": "28c9320c-a0db-42a9-8f89-77a425269e2e",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "17a49066-409a-42d7-9171-8b99e25ed5b4",
+      "id": "7676fac3-30ed-476b-8037-953bb616e565",
       "content": "2 Tx 2,9",
-      "position": 91,
+      "position": 95,
       "order": 15,
-      "createdAt": "2024-09-17T09:01:55.193Z",
-      "updatedAt": "2024-09-17T09:01:55.193Z",
-      "verseId": "86928740-e792-4150-b0f7-cdcf6493426d",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.672Z",
+      "updatedAt": "2024-09-23T03:26:21.672Z",
+      "verseId": "4b784ab8-ed16-4ffc-b9b7-461a52ddab47",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     },
     {
-      "id": "7372c7ab-5f64-4c27-bab6-bd5ea564d02b",
+      "id": "c925c671-9e95-4e36-98c8-4d35922397ec",
       "content": "Cn 16,31; Ed 16,12; 23,42",
       "position": 62,
       "order": 16,
-      "createdAt": "2024-09-17T09:01:55.205Z",
-      "updatedAt": "2024-09-17T09:01:55.205Z",
-      "verseId": "81294a33-2cb1-4284-984b-9aa84387c131",
-      "chapterId": "39b8e33e-0d80-48b8-b819-cf51696d2800"
+      "createdAt": "2024-09-23T03:26:21.689Z",
+      "updatedAt": "2024-09-23T03:26:21.689Z",
+      "verseId": "7d839eda-f8bf-4b5f-80fe-f607617f9655",
+      "chapterId": "0c962619-485b-4e7b-ad99-85406e0b76e3"
     }
   ]
 }

@@ -1,448 +1,448 @@
 {
   "chapter": {
-    "id": "10f427b2-dd21-46c3-a102-f55ac7ec778b",
+    "id": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.608Z",
-    "updatedAt": "2024-09-17T08:41:12.608Z",
-    "bookId": "f4984594-3b59-4af8-a702-410e7d60c46f"
+    "createdAt": "2024-09-23T03:08:02.198Z",
+    "updatedAt": "2024-09-23T03:08:02.198Z",
+    "bookId": "1cbdf270-d55b-48d7-82d1-3f51d1d0981d"
   },
   "verses": [
     {
-      "id": "3511a51e-c258-4ed8-9826-519ee9c97f76",
+      "id": "a26f5278-ea5e-4d2d-b317-85bf69bfa217",
       "number": 1,
-      "content": "Khi ông Sa-mu-en đã già, ông đặt các con trai ông làm thủ lãnh Ít-ra-en.",
+      "content": "Khi ông [Sa-mu-en]() đã già, ông đặt các con trai ông làm thủ lãnh [Ít-ra-en]().",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.948Z",
-      "updatedAt": "2024-09-17T09:27:26.948Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.097Z",
+      "updatedAt": "2024-09-23T03:54:12.097Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "c7d0f260-a617-4176-8861-b47404571c42",
+      "id": "6ba84a94-f1aa-4989-ba7d-17fd286179ce",
       "number": 2,
-      "content": "Con đầu lòng của ông tên là Giô-en, con thứ hai tên là A-vi-gia. Họ làm thủ lãnh tại Bơ-e Se-va.",
+      "content": "Con đầu lòng của ông tên là Giô-en, con thứ hai tên là [A-vi-gia](). Họ làm thủ lãnh tại [Bơ-e Se-va]().",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.963Z",
-      "updatedAt": "2024-09-17T09:27:26.963Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.117Z",
+      "updatedAt": "2024-09-23T03:54:12.117Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "09cdd97c-0664-46bd-a94a-6c3dd32ede10",
+      "id": "c0c1cfea-f8f8-4224-8b93-52be19beaf01",
       "number": 3,
       "content": "Các con trai ông không đi theo đường lối của ông, chúng ngả theo lợi lộc, nhận quà hối lộ và làm sai lệch công lý.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.965Z",
-      "updatedAt": "2024-09-17T09:27:26.965Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.119Z",
+      "updatedAt": "2024-09-23T03:54:12.119Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "c80ffd65-1230-4f24-a818-89d4b715799b",
+      "id": "69898f00-77d1-43de-86ef-66b28e34c2b3",
       "number": 4,
-      "content": "Toàn thể các kỳ mục tập hợp lại và đến với ông Sa-mu-en ở Ra-ma.",
+      "content": "Toàn thể các kỳ mục tập hợp lại và đến với ông [Sa-mu-en]() ở [Ra-ma]().",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.972Z",
-      "updatedAt": "2024-09-17T09:27:26.972Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.125Z",
+      "updatedAt": "2024-09-23T03:54:12.125Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "3de3990b-6883-4869-b2e8-a66bf86fb7f3",
+      "id": "c1c64713-bdd5-4f68-b637-b6c5e48ea766",
       "number": 5,
       "content": "Họ nói với ông : “Ông coi, ông già rồi, và các con ông lại không đi theo đường lối của ông. Vậy bây giờ, xin ông lập cho chúng tôi một vua để vua xét xử chúng tôi, như trong tất cả các dân tộc.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.974Z",
-      "updatedAt": "2024-09-17T09:27:26.974Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.128Z",
+      "updatedAt": "2024-09-23T03:54:12.128Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "fa25bf6f-8ec6-4565-b681-f37793c4bee3",
+      "id": "96d88d45-84af-4f9a-b587-e5d3298ff8df",
       "number": 6,
-      "content": "Ông Sa-mu-en bực mình vì lời họ nói : “Xin ông cho chúng tôi một vua để xét xử chúng tôi.” Và ông Sa-mu-en đã cầu nguyện với ĐỨC CHÚA.",
+      "content": "Ông [Sa-mu-en]() bực mình vì lời họ nói : “[Xin]() ông cho chúng tôi một vua để xét xử chúng tôi.” Và ông [Sa-mu-en]() đã cầu nguyện với [ĐỨC CHÚA]().",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.978Z",
-      "updatedAt": "2024-09-17T09:27:26.978Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.132Z",
+      "updatedAt": "2024-09-23T03:54:12.132Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "fa65d654-d61a-41c0-99de-fdd247a2dfb8",
+      "id": "d9d72ac2-d6ca-4717-9a06-427d2655846b",
       "number": 7,
-      "content": "ĐỨC CHÚA phán với ông Sa-mu-en : “Ngươi cứ nghe theo tiếng của dân trong mọi điều chúng nói với ngươi, vì không phải chúng gạt bỏ ngươi, mà là chúng gạt bỏ Ta, không chịu để Ta làm vua của chúng.",
+      "content": "[ĐỨC CHÚA]() phán với ông [Sa-mu-en]() : “Ngươi cứ nghe theo tiếng của dân trong mọi điều chúng nói với ngươi, vì không phải chúng gạt bỏ ngươi, mà là chúng gạt bỏ Ta, không chịu để Ta làm vua của chúng.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.982Z",
-      "updatedAt": "2024-09-17T09:27:26.982Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.136Z",
+      "updatedAt": "2024-09-23T03:54:12.136Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "ed07bc21-53ab-45d5-bb38-342e733fa263",
+      "id": "73c9c8d1-5bdb-4be2-92e8-b37b8c0b185f",
       "number": 8,
-      "content": "Chúng xử sự với ngươi như chúng vẫn xử sự từ ngày Ta đưa chúng lên từ Ai-cập cho đến ngày hôm nay : Chúng đã bỏ Ta mà phụng sự những thần khác.",
+      "content": "Chúng xử sự với ngươi như chúng vẫn xử sự từ ngày Ta đưa chúng lên từ [Ai-cập]() cho đến ngày hôm nay : Chúng đã bỏ Ta mà phụng sự những thần khác.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.984Z",
-      "updatedAt": "2024-09-17T09:27:26.984Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.139Z",
+      "updatedAt": "2024-09-23T03:54:12.139Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "01415f14-eb4d-41e3-9422-0b6cd018a636",
+      "id": "cfedc6bd-8bde-47db-bffa-985cbe96bfc4",
       "number": 9,
       "content": "Vậy bây giờ ngươi cứ nghe theo tiếng chúng. Chỉ có điều là ngươi phải long trọng cảnh cáo chúng và nói cho chúng biết quyền hành của nhà vua sẽ cai trị chúng.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.988Z",
-      "updatedAt": "2024-09-17T09:27:26.988Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.143Z",
+      "updatedAt": "2024-09-23T03:54:12.143Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "3c47b53c-36d8-46fe-994e-ba79ab480abb",
+      "id": "da676135-acb1-444f-8c2f-dddf4d13fdcb",
       "number": 10,
-      "content": "Ông Sa-mu-en nói lại mọi lời của ĐỨC CHÚA cho dân bấy giờ đang xin ông một vua.",
+      "content": "Ông [Sa-mu-en]() nói lại mọi lời của [ĐỨC CHÚA]() cho dân bấy giờ đang xin ông một vua.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.990Z",
-      "updatedAt": "2024-09-17T09:27:26.990Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.145Z",
+      "updatedAt": "2024-09-23T03:54:12.145Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "20de9224-95b6-4e7a-8bac-3c0e795f1dba",
+      "id": "d8f0fd65-24a5-4e1d-810e-a56abc05a5f1",
       "number": 11,
       "content": "Ông nói : “Đây là quyền hành của nhà vua sẽ cai trị anh em. Các con trai anh em, ông sẽ bắt mà cắt đặt vào việc trông coi xe và ngựa của ông, và chúng sẽ chạy đàng trước xe của ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:26.999Z",
-      "updatedAt": "2024-09-17T09:27:26.999Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.152Z",
+      "updatedAt": "2024-09-23T03:54:12.152Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "3ca62183-f6f7-4b8d-9ab4-289940236712",
+      "id": "fe363b59-b062-4f44-aac0-66304a088aad",
       "number": 12,
       "content": "Ông sẽ đặt chúng làm người chỉ huy một ngàn và chỉ huy năm mươi, sẽ bắt chúng cày đất cho ông, gặt lúa cho ông, chế tạo vũ khí cho ông và dụng cụ cho xe của ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.003Z",
-      "updatedAt": "2024-09-17T09:27:27.003Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.158Z",
+      "updatedAt": "2024-09-23T03:54:12.158Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "0ed04a62-b475-4df9-b2f9-37ce66c6e1a1",
+      "id": "c8b99949-c003-480c-9cd0-dbdec0d3d4ef",
       "number": 13,
       "content": "Các con gái anh em, ông sẽ bắt vào làm thợ chế nước hoa, nấu ăn và làm bánh.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.008Z",
-      "updatedAt": "2024-09-17T09:27:27.008Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.163Z",
+      "updatedAt": "2024-09-23T03:54:12.163Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "666971e4-4d54-4a3b-bf26-c91ebae7a2ca",
+      "id": "bd78e5e9-7fce-48a9-9cd2-10fedcb97ab3",
       "number": 14,
       "content": "Đồng ruộng, vườn nho, vườn cây ô-liu tốt nhất của anh em, ông sẽ lấy mà cho bề tôi của ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.010Z",
-      "updatedAt": "2024-09-17T09:27:27.010Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.166Z",
+      "updatedAt": "2024-09-23T03:54:12.166Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "4dbd0d75-6928-4f79-951e-e918350a9156",
+      "id": "f6e94ada-970a-468c-9ae8-78ea4f2d7058",
       "number": 15,
       "content": "Lúa thóc và vườn nho của anh em, ông sẽ đánh thuế thập phân mà cho các thái giám và bề tôi của ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.012Z",
-      "updatedAt": "2024-09-17T09:27:27.012Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.168Z",
+      "updatedAt": "2024-09-23T03:54:12.168Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "a18f7e68-78eb-414b-b74b-6827e7e27489",
+      "id": "d3237341-63dd-4a0b-9f3b-6373e57b785f",
       "number": 16,
       "content": "Các tôi tớ nam nữ, các người trai tráng khá nhất của anh em, các con lừa của anh em, ông sẽ bắt mà dùng vào việc của ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.014Z",
-      "updatedAt": "2024-09-17T09:27:27.014Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.171Z",
+      "updatedAt": "2024-09-23T03:54:12.171Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "0579b74d-e40a-47ef-81b1-1a2404ebafaf",
+      "id": "8fdefa15-a3cc-485d-814b-c6b65b3e01ac",
       "number": 17,
       "content": "Chiên dê của anh em, ông sẽ đánh thuế thập phân. Còn chính anh em sẽ làm nô lệ cho ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.017Z",
-      "updatedAt": "2024-09-17T09:27:27.017Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.174Z",
+      "updatedAt": "2024-09-23T03:54:12.174Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "63461fd4-a01e-49c3-82b4-3ca7c15bed1d",
+      "id": "2f0cb0ae-baab-4225-9364-8c0fa9c4fdb0",
       "number": 18,
-      "content": "Ngày ấy, anh em sẽ kêu than vì vua của anh em mà anh em đã chọn cho mình, nhưng ngày ấy ĐỨC CHÚA sẽ không đáp lời anh em.”",
+      "content": "Ngày ấy, anh em sẽ kêu than vì vua của anh em mà anh em đã chọn cho mình, nhưng ngày ấy [ĐỨC CHÚA]() sẽ không đáp lời anh em.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.019Z",
-      "updatedAt": "2024-09-17T09:27:27.019Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.177Z",
+      "updatedAt": "2024-09-23T03:54:12.177Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "1f842382-5361-4ae0-ad39-f94973125501",
+      "id": "d6699d32-5a4a-4e2e-9cff-44d7bb90eddd",
       "number": 19,
-      "content": "Nhưng dân không chịu nghe theo tiếng ông Sa-mu-en. Họ nói : “Không ! Phải có một vua cai trị chúng tôi !",
+      "content": "Nhưng dân không chịu nghe theo tiếng ông [Sa-mu-en](). Họ nói : “Không ! Phải có một vua cai trị chúng tôi !",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.025Z",
-      "updatedAt": "2024-09-17T09:27:27.025Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.186Z",
+      "updatedAt": "2024-09-23T03:54:12.186Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "b4749516-cc9b-4f98-bec8-753e628997b6",
+      "id": "0d483d83-f16e-4ead-8d3f-5ba7e507ae0e",
       "number": 20,
       "content": "Cả chúng tôi cũng sẽ giống như mọi dân tộc. Vua chúng tôi sẽ xét xử chúng tôi, sẽ dẫn đầu chúng tôi và sẽ lãnh đạo các cuộc chiến của chúng tôi.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.028Z",
-      "updatedAt": "2024-09-17T09:27:27.028Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.190Z",
+      "updatedAt": "2024-09-23T03:54:12.190Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "fbb2efe7-59b0-44fc-8271-6c2572f23318",
+      "id": "db0723d9-2fbd-4c12-810a-bfe06bde0ee6",
       "number": 21,
-      "content": "Ông Sa-mu-en nghe tất cả những lời của dân và nói lại những lời ấy cho ĐỨC CHÚA nghe.",
+      "content": "Ông [Sa-mu-en]() nghe tất cả những lời của dân và nói lại những lời ấy cho [ĐỨC CHÚA]() nghe.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.032Z",
-      "updatedAt": "2024-09-17T09:27:27.032Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.197Z",
+      "updatedAt": "2024-09-23T03:54:12.197Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "68ffead2-0509-4a9d-a03e-f47001372bd7",
+      "id": "3e183f67-4e45-4e4b-a3a4-94bf2bd6e2f4",
       "number": 22,
-      "content": "ĐỨC CHÚA phán với ông Sa-mu-en : “Hãy nghe theo tiếng chúng, và hãy đặt một vua cai trị chúng.” Ông Sa-mu-en nói với người Ít-ra-en : “Ai nấy hãy về thành của mình.”",
+      "content": "[ĐỨC CHÚA]() phán với ông [Sa-mu-en]() : “Hãy nghe theo tiếng chúng, và hãy đặt một vua cai trị chúng.” Ông [Sa-mu-en]() nói với người [Ít-ra-en]() : “Ai nấy hãy về thành của mình.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:27:27.034Z",
-      "updatedAt": "2024-09-17T09:27:27.034Z",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.200Z",
+      "updatedAt": "2024-09-23T03:54:12.200Z",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     }
   ],
   "footnotes": [
     {
-      "id": "99be513c-7a36-4fe6-bac0-a9b6ded5f296",
-      "content": "Phần này thu gom những trình thuật thuộc nhiều nguồn về thời kỳ xuất hiện chế độ quân chủ tại Ít-ra-en. Từ đó, có thể nhận ra hai khuynh hướng chính : trước cảnh lãnh thổ bị xâm lược và dân tộc bị chia rẽ, một số người hy vọng một ông vua sẽ đứng ra giải quyết các vấn đề, <i>như trong tất cả các dân tộc</i> (8,5.19) ; một số người khác thì vẫn đặt trọn niềm tin tưởng vào Thiên Chúa, Đấng xét xử và lãnh đạo duy nhất của Ít-ra-en. Nhưng không thể nói vì thế mà có hai bản hiệu đính : “Bản ủng hộ quân chủ” và bản “chống đối quân chủ” ; chỉ có những đoạn độc lập, với những quan điểm khác nhau, đã được lưu truyền trong dân từ xa xưa, sau đó được soạn giả gom lại mà không ghi sợi chỉ đỏ thời biểu (ít ra trong tình trạng các bản văn chúng ta có hiện nay). Nhưng vì soạn giả theo truyền thống đệ nhị luật (xem Dẫn nhập sách Đệ nhị luật phần cuối, mục “công trình biên soạn”), nên có khi thêm bớt, sửa chữa các trình thuật mà ông sử dụng, để cho thấy rằng tất cả mọi tầng lớp dân, dù ủng hộ hay chống lại chế độ quân chủ, đều nhìn nhận vai trò rất lớn của ông Sa-mu-en về mặt chính trị cũng như tôn giáo : ông luôn cổ động một vương quyền biết tôn trọng chủ quyền của Thiên Chúa trên Ít-ra-en. Trong phần này, các ch. 8 và 12 rất e dè về nhân vật “vua” và viễn tượng một chế độ quân chủ trong Ít-ra-en.",
+      "id": "b6a04ee1-c6b6-44db-a12a-b83885baa30e",
+      "content": "Phần này thu gom những trình thuật thuộc nhiều nguồn về thời kỳ xuất hiện chế độ quân chủ tại Ít-ra-en. Từ đó, có thể nhận ra hai khuynh hướng chính : trước cảnh lãnh thổ bị xâm lược và dân tộc bị chia rẽ, một số người hy vọng một ông vua sẽ đứng ra giải quyết các vấn đề, *như trong tất cả các dân tộc* (8,5.19) ; một số người khác thì vẫn đặt trọn niềm tin tưởng vào Thiên Chúa, Đấng xét xử và lãnh đạo duy nhất của Ít-ra-en. Nhưng không thể nói vì thế mà có hai bản hiệu đính : “Bản ủng hộ quân chủ” và bản “chống đối quân chủ” ; chỉ có những đoạn độc lập, với những quan điểm khác nhau, đã được lưu truyền trong dân từ xa xưa, sau đó được soạn giả gom lại mà không ghi sợi chỉ đỏ thời biểu (ít ra trong tình trạng các bản văn chúng ta có hiện nay). Nhưng vì soạn giả theo truyền thống đệ nhị luật (xem Dẫn nhập sách Đệ nhị luật phần cuối, mục “công trình biên soạn”), nên có khi thêm bớt, sửa chữa các trình thuật mà ông sử dụng, để cho thấy rằng tất cả mọi tầng lớp dân, dù ủng hộ hay chống lại chế độ quân chủ, đều nhìn nhận vai trò rất lớn của ông Sa-mu-en về mặt chính trị cũng như tôn giáo : ông luôn cổ động một vương quyền biết tôn trọng chủ quyền của Thiên Chúa trên Ít-ra-en. Trong phần này, các ch. 8 và 12 rất e dè về nhân vật “vua” và viễn tượng một chế độ quân chủ trong Ít-ra-en.",
       "position": 28,
       "order": 0,
-      "createdAt": "2024-09-17T09:27:26.956Z",
-      "updatedAt": "2024-09-17T09:27:26.956Z",
-      "headingId": "707d2f5d-33e8-4fd7-809c-af994d69d312",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.111Z",
+      "updatedAt": "2024-09-23T03:54:12.111Z",
+      "headingId": "0642ecf4-2538-4402-aa43-f5b25572c3d6",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "51cd55cb-a012-42ee-badc-8fd29849be27",
+      "id": "81d368aa-6c0e-413e-99ba-a248ef14c4c7",
       "content": "Coi như các con ông Sa-mu-en là những “thủ lãnh nhỏ” cuối cùng của Ít-ra-en (Tl 10 và tt).",
-      "position": 71,
+      "position": 79,
       "order": 1,
-      "createdAt": "2024-09-17T09:27:26.961Z",
-      "updatedAt": "2024-09-17T09:27:26.961Z",
-      "verseId": "3511a51e-c258-4ed8-9826-519ee9c97f76",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.115Z",
+      "updatedAt": "2024-09-23T03:54:12.115Z",
+      "verseId": "a26f5278-ea5e-4d2d-b317-85bf69bfa217",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "4978d27c-d11e-45c3-b0c7-ec8f245b5a41",
+      "id": "b3db25af-211b-4344-b87d-549ade362bfc",
       "content": "Nỗi khổ tâm của ông đây, ông Sa-mu-en sẽ nói rõ ở 12,12. Câu nói rất cô đọng này hoàn toàn phù hợp với quan điểm của Thiên Chúa, tuy đến nước này, Người phải nhân nhượng Ít-ra-en thôi (x. cc. 7.22). – Quan niệm cổ xưa trong dân là xem Thiên Chúa như vua lãnh đạo mình, và các thủ lãnh chỉ là những vị được Thiên Chúa tạm uỷ thác quyền lãnh đạo theo ý Người trong một thời gian thôi. Mãi sau này mới có quan niệm xem Thiên Chúa như là vị Chúa Tể ngự trên ngai giữa đền thờ (x. Is 6,5 ; Tv 47,8-9).",
-      "position": 134,
+      "position": 150,
       "order": 2,
-      "createdAt": "2024-09-17T09:27:26.980Z",
-      "updatedAt": "2024-09-17T09:27:26.980Z",
-      "verseId": "fa25bf6f-8ec6-4565-b681-f37793c4bee3",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.134Z",
+      "updatedAt": "2024-09-23T03:54:12.134Z",
+      "verseId": "96d88d45-84af-4f9a-b587-e5d3298ff8df",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "f80eb218-ff88-4c2e-9c3d-442e767f7ea6",
-      "content": "Đoạn này kết hợp những “bất tiện” đã được ghi trong các sử liệu xứ Xy-ri vào thiên niên kỷ thứ hai tCN –bởi Ít-ra-en đòi <i>có vua giống các dân tộc khác</i>-, với những lạm quyền mà từ thời vua Sa-lô-môn trở đi, người dân còn ghi nhớ.",
+      "id": "acc54af9-1a9d-4d04-8905-b654f3a0f658",
+      "content": "Đoạn này kết hợp những “bất tiện” đã được ghi trong các sử liệu xứ Xy-ri vào thiên niên kỷ thứ hai tCN –bởi Ít-ra-en đòi *có vua giống các dân tộc khác*-, với những lạm quyền mà từ thời vua Sa-lô-môn trở đi, người dân còn ghi nhớ.",
       "position": 34,
       "order": 3,
-      "createdAt": "2024-09-17T09:27:26.994Z",
-      "updatedAt": "2024-09-17T09:27:26.994Z",
-      "headingId": "c26e42f9-0f0b-4359-9fd6-b37bcce805ea",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.150Z",
+      "updatedAt": "2024-09-23T03:54:12.150Z",
+      "headingId": "a03b67f8-a995-47c2-aefa-97749d1065cd",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "c5279b6e-79b5-493c-9f3f-0ef5842aa73e",
+      "id": "c2e6479c-018a-4f3b-9df3-ebd2493d01fe",
       "content": "Thật ra, không phải dân đã chọn ông Sa-un, mà là chính Thiên Chúa (x. 9,15 ; 10,24 ; 11,6).",
       "position": 72,
       "order": 4,
-      "createdAt": "2024-09-17T09:27:27.021Z",
-      "updatedAt": "2024-09-17T09:27:27.021Z",
-      "verseId": "63461fd4-a01e-49c3-82b4-3ca7c15bed1d",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.180Z",
+      "updatedAt": "2024-09-23T03:54:12.180Z",
+      "verseId": "2f0cb0ae-baab-4225-9364-8c0fa9c4fdb0",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     }
   ],
   "headings": [
     {
-      "id": "3dcb9403-e48e-466e-9152-227bcb4de8db",
+      "id": "2c91f17e-d2c3-40a1-bee7-a1d636e403d4",
       "content": "II. ÔNG SA-MU-EN VÀ ÔNG SA-UN",
       "order": 0,
-      "createdAt": "2024-09-17T09:27:26.951Z",
-      "updatedAt": "2024-09-17T09:27:26.951Z",
-      "verseId": "3511a51e-c258-4ed8-9826-519ee9c97f76",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.107Z",
+      "updatedAt": "2024-09-23T03:54:12.107Z",
+      "verseId": "a26f5278-ea5e-4d2d-b317-85bf69bfa217",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "c26e42f9-0f0b-4359-9fd6-b37bcce805ea",
+      "id": "a03b67f8-a995-47c2-aefa-97749d1065cd",
       "content": "Những bất tiện của chế độ quân chủ",
       "order": 0,
-      "createdAt": "2024-09-17T09:27:26.992Z",
-      "updatedAt": "2024-09-17T09:27:26.992Z",
-      "verseId": "3c47b53c-36d8-46fe-994e-ba79ab480abb",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.147Z",
+      "updatedAt": "2024-09-23T03:54:12.147Z",
+      "verseId": "da676135-acb1-444f-8c2f-dddf4d13fdcb",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "707d2f5d-33e8-4fd7-809c-af994d69d312",
+      "id": "0642ecf4-2538-4402-aa43-f5b25572c3d6",
       "content": "1. THIẾT LẬP CHẾ ĐỘ QUÂN CHỦ",
       "order": 1,
-      "createdAt": "2024-09-17T09:27:26.953Z",
-      "updatedAt": "2024-09-17T09:27:26.953Z",
-      "verseId": "3511a51e-c258-4ed8-9826-519ee9c97f76",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.109Z",
+      "updatedAt": "2024-09-23T03:54:12.109Z",
+      "verseId": "a26f5278-ea5e-4d2d-b317-85bf69bfa217",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "6fdf1230-4495-49c1-b0e0-cb532a78ecdf",
+      "id": "52c40d7f-764f-4d83-83b9-520f0a729f8d",
       "content": "Dân xin một vua",
       "order": 2,
-      "createdAt": "2024-09-17T09:27:26.959Z",
-      "updatedAt": "2024-09-17T09:27:26.959Z",
-      "verseId": "3511a51e-c258-4ed8-9826-519ee9c97f76",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.114Z",
+      "updatedAt": "2024-09-23T03:54:12.114Z",
+      "verseId": "a26f5278-ea5e-4d2d-b317-85bf69bfa217",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     }
   ],
   "references": [
     {
-      "id": "b2519a13-121c-495a-8874-e8fc2b1d41f7",
+      "id": "70771aa7-74f1-4640-a636-3840ea2624bf",
       "content": "1 Sm 2,12",
       "position": 23,
       "order": 0,
-      "createdAt": "2024-09-17T09:27:26.967Z",
-      "updatedAt": "2024-09-17T09:27:26.967Z",
-      "verseId": "09cdd97c-0664-46bd-a94a-6c3dd32ede10",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.121Z",
+      "updatedAt": "2024-09-23T03:54:12.121Z",
+      "verseId": "c0c1cfea-f8f8-4224-8b93-52be19beaf01",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "53954d0f-2ab3-41a2-87b0-ecd8dd41a056",
+      "id": "39e8490d-da52-46dd-84a3-8ddf59a74e4a",
       "content": "Xh 23,8; Đnl 16,19",
       "position": 83,
       "order": 1,
-      "createdAt": "2024-09-17T09:27:26.970Z",
-      "updatedAt": "2024-09-17T09:27:26.970Z",
-      "verseId": "09cdd97c-0664-46bd-a94a-6c3dd32ede10",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.123Z",
+      "updatedAt": "2024-09-23T03:54:12.123Z",
+      "verseId": "c0c1cfea-f8f8-4224-8b93-52be19beaf01",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "00333d05-2d85-4e70-9603-9c83c77c3a31",
+      "id": "8279622b-9131-41b9-b9fc-9399ea6ea520",
       "content": "1 Sm 8,20; Đnl 17,14; Et 3,8; Ed 20,32",
       "position": 135,
       "order": 2,
-      "createdAt": "2024-09-17T09:27:26.976Z",
-      "updatedAt": "2024-09-17T09:27:26.976Z",
-      "verseId": "3de3990b-6883-4869-b2e8-a66bf86fb7f3",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.130Z",
+      "updatedAt": "2024-09-23T03:54:12.130Z",
+      "verseId": "c1c64713-bdd5-4f68-b637-b6c5e48ea766",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "dabb4f72-d111-4aa8-acde-551656d22e20",
+      "id": "198a6239-9535-4292-a23c-665d89636151",
       "content": "Tl 10,13; 1 V 9,9; Tv 78,17",
-      "position": 109,
+      "position": 113,
       "order": 3,
-      "createdAt": "2024-09-17T09:27:26.986Z",
-      "updatedAt": "2024-09-17T09:27:26.986Z",
-      "verseId": "ed07bc21-53ab-45d5-bb38-342e733fa263",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.141Z",
+      "updatedAt": "2024-09-23T03:54:12.141Z",
+      "verseId": "73c9c8d1-5bdb-4be2-92e8-b37b8c0b185f",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "e54f3eaf-2802-4056-ae10-2a619efbb24a",
+      "id": "023276d3-9d18-4503-8539-5cedf199ddb0",
       "content": "2 Sm 15,1; 1 V 1,5",
       "position": 122,
       "order": 4,
-      "createdAt": "2024-09-17T09:27:27.001Z",
-      "updatedAt": "2024-09-17T09:27:27.001Z",
-      "verseId": "20de9224-95b6-4e7a-8bac-3c0e795f1dba",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.155Z",
+      "updatedAt": "2024-09-23T03:54:12.155Z",
+      "verseId": "d8f0fd65-24a5-4e1d-810e-a56abc05a5f1",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "24573083-b7b4-4776-b010-988f0c6f9938",
+      "id": "9443629d-8887-43ae-af5f-195cff962ad9",
       "content": "1 Sm 22,7; 2 Sm 18,1",
       "position": 21,
       "order": 5,
-      "createdAt": "2024-09-17T09:27:27.006Z",
-      "updatedAt": "2024-09-17T09:27:27.006Z",
-      "verseId": "3ca62183-f6f7-4b8d-9ab4-289940236712",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.160Z",
+      "updatedAt": "2024-09-23T03:54:12.160Z",
+      "verseId": "fe363b59-b062-4f44-aac0-66304a088aad",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "15ab6c06-2b8a-4361-9485-d3ee25c02abb",
+      "id": "c428e480-40f1-4e46-a22c-60e7219cb46a",
       "content": "Mk 3,4",
-      "position": 100,
+      "position": 104,
       "order": 6,
-      "createdAt": "2024-09-17T09:27:27.023Z",
-      "updatedAt": "2024-09-17T09:27:27.023Z",
-      "verseId": "63461fd4-a01e-49c3-82b4-3ca7c15bed1d",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.183Z",
+      "updatedAt": "2024-09-23T03:54:12.183Z",
+      "verseId": "2f0cb0ae-baab-4225-9364-8c0fa9c4fdb0",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     },
     {
-      "id": "23d75258-b3a2-42f2-8028-8853034662ce",
+      "id": "58e809f7-64a1-4818-86de-b8e7137dfd67",
       "content": "18,16",
       "position": 82,
       "order": 7,
-      "createdAt": "2024-09-17T09:27:27.030Z",
-      "updatedAt": "2024-09-17T09:27:27.030Z",
-      "verseId": "b4749516-cc9b-4f98-bec8-753e628997b6",
-      "chapterId": "10f427b2-dd21-46c3-a102-f55ac7ec778b"
+      "createdAt": "2024-09-23T03:54:12.193Z",
+      "updatedAt": "2024-09-23T03:54:12.193Z",
+      "verseId": "0d483d83-f16e-4ead-8d3f-5ba7e507ae0e",
+      "chapterId": "ac15231c-28c0-4cba-9fc6-e6a7ff0e68e6"
     }
   ]
 }

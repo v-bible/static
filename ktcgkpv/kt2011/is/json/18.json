@@ -1,423 +1,369 @@
 {
   "chapter": {
-    "id": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e",
+    "id": "6fd74029-88e2-4e99-85db-c387fbdc76f2",
     "number": 18,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.676Z",
-    "updatedAt": "2024-09-17T08:41:12.676Z",
-    "bookId": "870aeab9-56ce-4bd9-8628-3cdad2dcc9df"
+    "createdAt": "2024-09-23T03:08:02.385Z",
+    "updatedAt": "2024-09-23T03:08:02.385Z",
+    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
   },
   "verses": [
     {
-      "id": "c3c530b8-0667-4d99-8758-60b3d891b482",
+      "id": "dacdda01-50b8-4491-b316-5added608321",
       "number": 1,
       "content": "Khốn thay xứ sở của loài côn trùng vo ve",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.392Z",
-      "updatedAt": "2024-09-17T10:24:17.392Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.618Z",
+      "updatedAt": "2024-09-23T04:41:24.618Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "35a973f1-a57d-4c4a-a236-92ca479fc0f8",
+      "id": "9d105e39-325b-4781-b10c-e3b346baf7b2",
       "number": 1,
       "content": "ở mãi bên kia sông ngòi xứ Cút,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.402Z",
-      "updatedAt": "2024-09-17T10:24:17.402Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.630Z",
+      "updatedAt": "2024-09-23T04:41:24.630Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "e7f5f099-5ad1-4ba2-830e-be629b1bc4e2",
+      "id": "fb4e127e-bfc6-419e-8b61-1b90741813ba",
       "number": 2,
       "content": "ngươi phái các sứ giả vượt biển khơi",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.404Z",
-      "updatedAt": "2024-09-17T10:24:17.404Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.632Z",
+      "updatedAt": "2024-09-23T04:41:24.632Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "4d8407b6-5007-4834-8534-c4815b51692f",
+      "id": "6857a221-514a-497c-a9bd-43952c9d253c",
       "number": 2,
       "content": "trong những chiếc thuyền nan bồng bềnh trên mặt nước.",
       "order": 1,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.406Z",
-      "updatedAt": "2024-09-17T10:24:17.406Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.635Z",
+      "updatedAt": "2024-09-23T04:41:24.635Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "9e2d9487-9e58-4f4e-b7a9-93ac8a7ccb02",
+      "id": "5e3071ad-b672-42e7-8514-faf87e6f02d8",
       "number": 2,
       "content": "Hãy lên đường, hỡi những sứ giả nhanh nhẹn,",
       "order": 2,
-      "parNumber": 1,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.411Z",
-      "updatedAt": "2024-09-17T10:24:17.411Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.645Z",
+      "updatedAt": "2024-09-23T04:41:24.645Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "d0447c32-2d34-4fe1-8e23-4fc866132b43",
+      "id": "5880370c-e343-4d14-814e-b62642b5897c",
       "number": 2,
       "content": "tới một dân tộc có thân hình to lớn và nước da bóng nhẫy,",
       "order": 3,
-      "parNumber": 1,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.413Z",
-      "updatedAt": "2024-09-17T10:24:17.413Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.649Z",
+      "updatedAt": "2024-09-23T04:41:24.649Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "c579a060-faea-43b4-8038-54081eac4a6d",
+      "id": "19358cfe-f3de-4ba6-8c30-a8fe12a024b2",
       "number": 2,
       "content": "đến với một dân xa gần ai cũng sợ,",
       "order": 4,
-      "parNumber": 1,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.415Z",
-      "updatedAt": "2024-09-17T10:24:17.415Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.654Z",
+      "updatedAt": "2024-09-23T04:41:24.654Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "df42286d-8fbf-4c30-8943-10ae8be7fdd9",
+      "id": "1391a696-507f-4f06-94bb-a080c6dd4bb2",
       "number": 2,
       "content": "đến một dân tộc hùng cường nắm quyền bá chủ,",
       "order": 5,
-      "parNumber": 1,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.417Z",
-      "updatedAt": "2024-09-17T10:24:17.417Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.659Z",
+      "updatedAt": "2024-09-23T04:41:24.659Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "79e97e05-7001-4eea-a623-715dc509e19f",
+      "id": "e6960f1a-fa2a-4f24-a70c-c109cf7dd5ff",
       "number": 2,
       "content": "một miền đất sông ngòi chảy dọc ngang.",
       "order": 6,
-      "parNumber": 1,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.419Z",
-      "updatedAt": "2024-09-17T10:24:17.419Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.663Z",
+      "updatedAt": "2024-09-23T04:41:24.663Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "403276c1-fc12-403b-a67c-9069849963f0",
+      "id": "ad3a9e6d-196b-451a-be8e-08cb6d7fdd2a",
       "number": 3,
       "content": "Hỡi tất cả dân cư trên thế giới,",
       "order": 0,
-      "parNumber": 2,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.421Z",
-      "updatedAt": "2024-09-17T10:24:17.421Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.668Z",
+      "updatedAt": "2024-09-23T04:41:24.668Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "13926dc6-9596-46fc-9535-9b5d8b968d00",
+      "id": "9592de5e-e447-43b5-ac5f-55d768fe8222",
       "number": 3,
       "content": "hỡi những ai cư ngụ trên địa cầu,",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.423Z",
-      "updatedAt": "2024-09-17T10:24:17.423Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.673Z",
+      "updatedAt": "2024-09-23T04:41:24.673Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "e29a9a51-47c0-4576-be36-c4d98983c3ea",
+      "id": "9ed1a736-227b-4fbb-bf87-26afd6c3b665",
       "number": 3,
       "content": "hãy đưa mắt nhìn, khi thấy cờ hiệu phất trên núi ;",
       "order": 2,
-      "parNumber": 2,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.425Z",
-      "updatedAt": "2024-09-17T10:24:17.425Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.678Z",
+      "updatedAt": "2024-09-23T04:41:24.678Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "98793863-bb8f-40fe-bd1a-7405288c981d",
+      "id": "a8c33cda-cbdf-4a39-9359-1129ab629f6c",
       "number": 3,
       "content": "hãy lắng tai nghe, khi vẳng tiếng tù và.",
       "order": 3,
-      "parNumber": 2,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.427Z",
-      "updatedAt": "2024-09-17T10:24:17.427Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.682Z",
+      "updatedAt": "2024-09-23T04:41:24.682Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "244e0769-ed50-4f8c-86d3-cde22def885b",
-      "number": 4,
-      "content": "Vì ĐỨC CHÚA phán cùng tôi :",
-      "order": 0,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.433Z",
-      "updatedAt": "2024-09-17T10:24:17.433Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
-    },
-    {
-      "id": "a67a9d83-23a8-4cb9-b89b-d66bb9e3acaa",
+      "id": "27f42d2f-295e-44eb-9c90-41aa6e3758e6",
       "number": 4,
       "content": "Từ nơi Ta đang ngự, Ta sẽ ở yên và quan sát,",
-      "order": 1,
-      "parNumber": 3,
+      "order": 0,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.437Z",
-      "updatedAt": "2024-09-17T10:24:17.437Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.696Z",
+      "updatedAt": "2024-09-23T04:41:24.696Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "ca2dc6c7-40f7-4894-9789-95e0808b66d5",
+      "id": "751238ef-124f-4a21-8c55-ea84e459438c",
       "number": 4,
       "content": "như ánh nắng chói chang lúc mặt trời chính ngọ,",
-      "order": 2,
-      "parNumber": 3,
+      "order": 1,
+      "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.441Z",
-      "updatedAt": "2024-09-17T10:24:17.441Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.705Z",
+      "updatedAt": "2024-09-23T04:41:24.705Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "2b028338-7a2a-4f37-92fc-8b84224591bc",
+      "id": "bdc6065c-0666-42ee-92e0-cd6dafceeed0",
       "number": 4,
       "content": "như màn sương lan toả trong ánh nắng ngày mùa.",
-      "order": 3,
-      "parNumber": 3,
+      "order": 2,
+      "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.443Z",
-      "updatedAt": "2024-09-17T10:24:17.443Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.710Z",
+      "updatedAt": "2024-09-23T04:41:24.710Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "d1cb1e67-75d3-406f-a05c-caf35b48f89d",
+      "id": "6e53785e-8329-438c-bafe-e8aa28f4dc6a",
       "number": 5,
       "content": "Vì trước kỳ thu hoạch, khi hết mùa hoa nở",
       "order": 0,
-      "parNumber": 4,
+      "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.445Z",
-      "updatedAt": "2024-09-17T10:24:17.445Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.715Z",
+      "updatedAt": "2024-09-23T04:41:24.715Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "d3e9c5b5-27b8-46da-8b04-cf0de2dd439d",
+      "id": "1c055d83-6620-48fb-836b-729bb59bfd72",
       "number": 5,
       "content": "và khi hoa thành chùm nho chín,",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.447Z",
-      "updatedAt": "2024-09-17T10:24:17.447Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.719Z",
+      "updatedAt": "2024-09-23T04:41:24.719Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "c12344f1-b2f8-4f1c-89d8-1dafd45fbeaa",
+      "id": "552b0940-f2d9-461e-b220-1157e49580e3",
       "number": 5,
       "content": "bấy giờ, người ta lấy dao quắm chặt cành, rồi loại nhánh, tỉa cây.",
       "order": 2,
-      "parNumber": 4,
+      "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.449Z",
-      "updatedAt": "2024-09-17T10:24:17.449Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.724Z",
+      "updatedAt": "2024-09-23T04:41:24.724Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "e98f2db1-e26f-4ddd-87a9-bb6cd8d3fbf8",
+      "id": "14d87730-643c-4376-85d3-435d43af17e9",
       "number": 6,
       "content": "Tất cả đều bỏ mặc cho mãnh cầm trên núi và thú vật ngoài đồng ;",
       "order": 0,
-      "parNumber": 5,
+      "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.455Z",
-      "updatedAt": "2024-09-17T10:24:17.455Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.737Z",
+      "updatedAt": "2024-09-23T04:41:24.737Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "5edb5aa1-e2de-4fd5-bf4a-58dff7705c95",
+      "id": "5d13db78-2be4-4dd8-a6b4-600577073e06",
       "number": 6,
       "content": "mùa hè mãnh cầm đến ở, mùa đông mọi thú vật đến trú.",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:17.457Z",
-      "updatedAt": "2024-09-17T10:24:17.457Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
-    },
-    {
-      "id": "37188c67-d29e-4c76-80bd-ed3584d2edcf",
-      "number": 7,
-      "content": "Bấy giờ, lễ phẩm kính dâng ĐỨC CHÚA các đạo binh sẽ do một dân có thân hình to lớn và nước da bóng nhẫy, một dân xa gần ai cũng sợ, một dân hùng cường nắm quyền bá chủ, một miền đất sông ngòi chảy dọc ngang, đem đến nơi danh ĐỨC CHÚA các đạo binh ngự, tức là núi Xi-on.",
-      "order": 0,
-      "parNumber": 6,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:17.461Z",
-      "updatedAt": "2024-09-17T10:24:17.461Z",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.742Z",
+      "updatedAt": "2024-09-23T04:41:24.742Z",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     }
   ],
   "footnotes": [
     {
-      "id": "5b432f72-8bd9-43c7-9355-cd03d2298c55",
+      "id": "81589083-9af8-4931-9235-4dbd922782a0",
       "content": "18,1-7 : Sứ giả Ai-cập đến vận động Giu-đa gia nhập liên minh chống Át-sua. Có lẽ vào khoảng sau năm 716, khi triều đại mới của Ai-cập, gốc Ê-thi-óp, mưu toan kiếm đồng minh chống Át-sua sau khi ổn định nội bộ Ai-cập. I-sai-a cho biết phải từ chối lời đề nghị của các sứ giả.",
       "position": 16,
       "order": 0,
-      "createdAt": "2024-09-17T10:24:17.397Z",
-      "updatedAt": "2024-09-17T10:24:17.397Z",
-      "headingId": "eb8be323-3abd-421c-b073-0fafce866870",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.623Z",
+      "updatedAt": "2024-09-23T04:41:24.623Z",
+      "headingId": "26267185-2fa7-4bb0-b366-1392ce80f07d",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "15356d2a-d2c2-408d-a34c-676b0c710948",
-      "content": "<i>Côn trùng vo ve</i> : từ Híp-ri ở đây cũng có thể hiểu là loại thuyền hai buồm. Nếu hiểu côn trùng thì có thể là muỗi, vốn rất nhiều ở thung lũng sông Nin, hoặc con bọ hung, biểu tượng của các triều đại Ai-cập. – <i>Xứ Cút</i> : vùng thượng nguồn sông Nin, nay là Ê-thi-óp.",
+      "id": "ce3c5eec-810c-4fda-8666-ca2c87d90124",
+      "content": "*Côn trùng vo ve* : từ Híp-ri ở đây cũng có thể hiểu là loại thuyền hai buồm. Nếu hiểu côn trùng thì có thể là muỗi, vốn rất nhiều ở thung lũng sông Nin, hoặc con bọ hung, biểu tượng của các triều đại Ai-cập. – *Xứ Cút* : vùng thượng nguồn sông Nin, nay là Ê-thi-óp.",
       "position": 40,
       "order": 1,
-      "createdAt": "2024-09-17T10:24:17.400Z",
-      "updatedAt": "2024-09-17T10:24:17.400Z",
-      "verseId": "c3c530b8-0667-4d99-8758-60b3d891b482",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.625Z",
+      "updatedAt": "2024-09-23T04:41:24.625Z",
+      "verseId": "dacdda01-50b8-4491-b316-5added608321",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "feebc516-ead6-4b9d-9476-a23752356bdd",
-      "content": "<i>Thuyền nan</i> : thuyền làm bằng những bó cây pa-pi-rút (cây dùng làm giấy). – <i>Hãy lên đường</i> : có lẽ là lời I-sai-a nhắn các sứ giả hãy quay về với dân tộc của họ.",
+      "id": "f16105e3-0083-4260-8c98-86db9d299cc5",
+      "content": "*Thuyền nan* : thuyền làm bằng những bó cây pa-pi-rút (cây dùng làm giấy). – *Hãy lên đường* : có lẽ là lời I-sai-a nhắn các sứ giả hãy quay về với dân tộc của họ.",
       "position": 28,
       "order": 2,
-      "createdAt": "2024-09-17T10:24:17.408Z",
-      "updatedAt": "2024-09-17T10:24:17.408Z",
-      "verseId": "4d8407b6-5007-4834-8534-c4815b51692f",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.640Z",
+      "updatedAt": "2024-09-23T04:41:24.640Z",
+      "verseId": "6857a221-514a-497c-a9bd-43952c9d253c",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "4ed0cd00-9631-4fe2-99c3-5d8a3d6dc786",
-      "content": "<i>Cờ hiệu, tù và</i> : có lẽ ám chỉ việc quân Át-sua sắp đến.",
+      "id": "7d2fa5a0-2f60-4b48-a2c2-6b90572b84ba",
+      "content": "*Cờ hiệu, tù và* : có lẽ ám chỉ việc quân Át-sua sắp đến.",
       "position": 39,
       "order": 3,
-      "createdAt": "2024-09-17T10:24:17.429Z",
-      "updatedAt": "2024-09-17T10:24:17.429Z",
-      "verseId": "98793863-bb8f-40fe-bd1a-7405288c981d",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.687Z",
+      "updatedAt": "2024-09-23T04:41:24.687Z",
+      "verseId": "a8c33cda-cbdf-4a39-9359-1129ab629f6c",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "23307ef3-9705-4261-a96f-accb005a8268",
-      "content": "18,4-6 : Gián tiếp nói với Giu-đa. Thái độ của I-sai-a dựa vào mặc khải của Thiên Chúa.",
-      "position": 0,
-      "order": 4,
-      "createdAt": "2024-09-17T10:24:17.435Z",
-      "updatedAt": "2024-09-17T10:24:17.435Z",
-      "verseId": "244e0769-ed50-4f8c-86d3-cde22def885b",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
-    },
-    {
-      "id": "15546673-cae8-45c3-93e4-70487582019b",
-      "content": "Thiên Chúa không ra tay lần này, song Người vẫn soi rọi tất cả như <i>mặt trời</i>, che phủ tất cả như <i>màn sương</i>.",
+      "id": "a9a2f16d-b518-40fd-8f12-ebe1dce756cb",
+      "content": "Thiên Chúa không ra tay lần này, song Người vẫn soi rọi tất cả như *mặt trời*, che phủ tất cả như *màn sương*.",
       "position": 43,
       "order": 5,
-      "createdAt": "2024-09-17T10:24:17.439Z",
-      "updatedAt": "2024-09-17T10:24:17.439Z",
-      "verseId": "a67a9d83-23a8-4cb9-b89b-d66bb9e3acaa",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.701Z",
+      "updatedAt": "2024-09-23T04:41:24.701Z",
+      "verseId": "27f42d2f-295e-44eb-9c90-41aa6e3758e6",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "3f39f9cc-2f7f-4da1-870e-1529aae3898c",
+      "id": "2aa04a86-beaa-4b88-a584-eba8a2fe7c99",
       "content": "Thiên Chúa chờ cho mọi chuyện chín muồi như người trồng nho chờ nho chín, lúc đó sẽ thu hoạch rồi chặt cành.",
       "position": 65,
       "order": 6,
-      "createdAt": "2024-09-17T10:24:17.451Z",
-      "updatedAt": "2024-09-17T10:24:17.451Z",
-      "verseId": "c12344f1-b2f8-4f1c-89d8-1dafd45fbeaa",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.728Z",
+      "updatedAt": "2024-09-23T04:41:24.728Z",
+      "verseId": "552b0940-f2d9-461e-b220-1157e49580e3",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "1357acd1-d3c4-4350-bc71-77e6a0775d51",
+      "id": "de12ef25-86ff-45f5-8b5b-0158dfcd92a7",
       "content": "Hình ảnh cành nho nằm ngổn ngang gợi lên xác chết trong một cuộc chiến tranh, nhiều đến nỗi cả mùa hè và mùa đông, thú dữ vẫn chưa ăn hết.",
       "position": 51,
       "order": 7,
-      "createdAt": "2024-09-17T10:24:17.459Z",
-      "updatedAt": "2024-09-17T10:24:17.459Z",
-      "verseId": "5edb5aa1-e2de-4fd5-bf4a-58dff7705c95",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
-    },
-    {
-      "id": "8614a544-69cb-4771-b4fc-fdde77868a17",
-      "content": "Được coi là câu thêm vào sau, trong hướng loan báo việc các dân tộc quay về với Thiên Chúa (2,2-4 ; 60 ; 62). Đoàn sứ giả chính trị hôm nay bị khước từ, nhưng rồi đây chính dân này sẽ đến dâng lễ phẩm kính Thiên Chúa.",
-      "position": 0,
-      "order": 8,
-      "createdAt": "2024-09-17T10:24:17.463Z",
-      "updatedAt": "2024-09-17T10:24:17.463Z",
-      "verseId": "37188c67-d29e-4c76-80bd-ed3584d2edcf",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.747Z",
+      "updatedAt": "2024-09-23T04:41:24.747Z",
+      "verseId": "5d13db78-2be4-4dd8-a6b4-600577073e06",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     }
   ],
   "headings": [
     {
-      "id": "eb8be323-3abd-421c-b073-0fafce866870",
+      "id": "26267185-2fa7-4bb0-b366-1392ce80f07d",
       "content": "Hạch tội dân Cút",
       "order": 0,
-      "createdAt": "2024-09-17T10:24:17.394Z",
-      "updatedAt": "2024-09-17T10:24:17.394Z",
-      "verseId": "c3c530b8-0667-4d99-8758-60b3d891b482",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.621Z",
+      "updatedAt": "2024-09-23T04:41:24.621Z",
+      "verseId": "dacdda01-50b8-4491-b316-5added608321",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     }
   ],
   "references": [
     {
-      "id": "f19e3d74-cd29-4604-a667-853f89ff612d",
+      "id": "6e749073-5558-4f44-b778-eb43b17f63a4",
       "content": "Ge 2,1",
       "position": 34,
       "order": 0,
-      "createdAt": "2024-09-17T10:24:17.431Z",
-      "updatedAt": "2024-09-17T10:24:17.431Z",
-      "verseId": "98793863-bb8f-40fe-bd1a-7405288c981d",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.692Z",
+      "updatedAt": "2024-09-23T04:41:24.692Z",
+      "verseId": "a8c33cda-cbdf-4a39-9359-1129ab629f6c",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     },
     {
-      "id": "1bcc942e-eb59-48ea-a9cf-59944e2f468f",
+      "id": "53300ada-5a2f-46f1-b1f5-aed95bbde270",
       "content": "Ga 15,2",
       "position": 31,
       "order": 1,
-      "createdAt": "2024-09-17T10:24:17.453Z",
-      "updatedAt": "2024-09-17T10:24:17.453Z",
-      "verseId": "c12344f1-b2f8-4f1c-89d8-1dafd45fbeaa",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
-    },
-    {
-      "id": "163bc337-998b-4c8d-a27a-5633965916de",
-      "content": "Is 56,4-7; Xp 3,10; Cv 8,27 tt",
-      "position": 9,
-      "order": 2,
-      "createdAt": "2024-09-17T10:24:17.465Z",
-      "updatedAt": "2024-09-17T10:24:17.465Z",
-      "verseId": "37188c67-d29e-4c76-80bd-ed3584d2edcf",
-      "chapterId": "d6ecfe7e-81d8-4bfe-ba46-2d2a5502959e"
+      "createdAt": "2024-09-23T04:41:24.733Z",
+      "updatedAt": "2024-09-23T04:41:24.733Z",
+      "verseId": "552b0940-f2d9-461e-b220-1157e49580e3",
+      "chapterId": "6fd74029-88e2-4e99-85db-c387fbdc76f2"
     }
   ]
 }

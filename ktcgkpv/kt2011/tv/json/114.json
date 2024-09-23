@@ -1,281 +1,281 @@
 {
   "chapter": {
-    "id": "3c83594a-409a-4307-8602-58f8eb192300",
+    "id": "076cccc2-2cfb-4b8a-9455-908436a0812d",
     "number": 114,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "ceef7f0c-d24c-47f0-ab95-f0eace10cc66",
+      "id": "644476a7-6e13-4ad7-8e02-1d02e6788019",
       "number": 1,
       "content": "Ha-lê-lui-a.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.125Z",
-      "updatedAt": "2024-09-17T09:59:34.125Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.750Z",
+      "updatedAt": "2024-09-23T04:17:12.750Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "77d95fa6-ac0d-42fd-a15d-72b477c7e7ae",
+      "id": "5e255aef-11e2-43a0-abb1-1ffd9a5dbb16",
       "number": 1,
-      "content": "Thuở Ít-ra-en ra khỏi Ai-cập,",
+      "content": "Thuở [Ít-ra-en]() ra khỏi [Ai-cập](),",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.131Z",
-      "updatedAt": "2024-09-17T09:59:34.131Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.763Z",
+      "updatedAt": "2024-09-23T04:17:12.763Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "af9606b2-86f1-4cff-aef0-48d14c240700",
+      "id": "b914a6a1-5d55-4667-86d6-71905bc3f5db",
       "number": 1,
-      "content": "thuở nhà Gia-cóp rời bỏ ngoại bang,",
+      "content": "thuở nhà [Gia-cóp]() rời bỏ ngoại bang,",
       "order": 2,
-      "parNumber": 0,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.133Z",
-      "updatedAt": "2024-09-17T09:59:34.133Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.765Z",
+      "updatedAt": "2024-09-23T04:17:12.765Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "4503c27a-dac3-4aa6-ada5-f2af11060dea",
+      "id": "759f7794-b95b-4f3b-bf66-bd5de7e3a9bd",
       "number": 2,
-      "content": "thì Giu-đa trở thành nơi Chúa ngự,",
+      "content": "thì [Giu-đa]() trở thành nơi Chúa ngự,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.135Z",
-      "updatedAt": "2024-09-17T09:59:34.135Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.767Z",
+      "updatedAt": "2024-09-23T04:17:12.767Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "11c27d98-4b75-4f01-ad54-2ec599aac45b",
+      "id": "4ed2c06c-7d11-405d-b355-7c6249eabff5",
       "number": 2,
-      "content": "Ít-ra-en nên lãnh địa của Người.",
+      "content": "[Ít-ra-en]() nên lãnh địa của Người.",
       "order": 1,
-      "parNumber": 1,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.137Z",
-      "updatedAt": "2024-09-17T09:59:34.137Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.769Z",
+      "updatedAt": "2024-09-23T04:17:12.769Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "6e772fd3-d4ed-49eb-89f3-61b1adccd7be",
+      "id": "fac24695-aed7-43eb-a182-0b1666ca4754",
       "number": 3,
       "content": "Vừa thấy thế, biển liền trốn chạy,",
       "order": 0,
-      "parNumber": 2,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.141Z",
-      "updatedAt": "2024-09-17T09:59:34.141Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.773Z",
+      "updatedAt": "2024-09-23T04:17:12.773Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "2a288586-0f0f-4a78-97ed-b340d7e99f3f",
+      "id": "b59aed97-2f47-4942-9981-9a6003c9b05a",
       "number": 3,
-      "content": "sông Gio-đan cũng chảy ngược dòng.",
+      "content": "sông [Gio-đan]() cũng chảy ngược dòng.",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.143Z",
-      "updatedAt": "2024-09-17T09:59:34.143Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.775Z",
+      "updatedAt": "2024-09-23T04:17:12.775Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "fa639f3c-7064-480c-90e8-249dc325b26d",
+      "id": "a11e000c-9cbc-4401-882b-fd7951599556",
       "number": 4,
       "content": "Ví tựa bầy chiên, núi đồi nhảy nhót,",
       "order": 0,
-      "parNumber": 3,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.145Z",
-      "updatedAt": "2024-09-17T09:59:34.145Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.777Z",
+      "updatedAt": "2024-09-23T04:17:12.777Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "9e87f903-eaab-4161-b061-a668dc7b6778",
+      "id": "6ec3e7c8-8236-43fc-b0fb-9ea804aa18f0",
       "number": 4,
       "content": "như thể đàn cừu, gò nổng tung tăng.",
       "order": 1,
-      "parNumber": 3,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.149Z",
-      "updatedAt": "2024-09-17T09:59:34.149Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.784Z",
+      "updatedAt": "2024-09-23T04:17:12.784Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "3344e70a-1586-4e60-9eb8-ee7ee7e29ebd",
+      "id": "e2f9167c-84b3-456f-bc13-13618e9378bc",
       "number": 5,
       "content": "Biển kia ơi, việc gì mà trốn chạy ?",
       "order": 0,
-      "parNumber": 4,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.151Z",
-      "updatedAt": "2024-09-17T09:59:34.151Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.789Z",
+      "updatedAt": "2024-09-23T04:17:12.789Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "8f38aa00-8661-4747-87dd-82bf4c6b3108",
+      "id": "dee973a3-6407-4ea3-988e-6583b8007192",
       "number": 5,
-      "content": "Gio-đan hỡi, cớ chi chảy ngược dòng ?",
+      "content": "[Gio-đan]() hỡi, cớ chi chảy ngược dòng ?",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.153Z",
-      "updatedAt": "2024-09-17T09:59:34.153Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.794Z",
+      "updatedAt": "2024-09-23T04:17:12.794Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "8f4c2bb4-7a76-412a-9c37-b289f0cd0505",
+      "id": "133fc95c-bac4-4dfd-af57-0db3452b79d7",
       "number": 6,
       "content": "Kìa núi đồi, sao nhảy nhót ví tựa bầy chiên ?",
       "order": 0,
-      "parNumber": 5,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.155Z",
-      "updatedAt": "2024-09-17T09:59:34.155Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.798Z",
+      "updatedAt": "2024-09-23T04:17:12.798Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "f1f10c09-6a17-45ce-b7ac-ce2bfbbf720a",
+      "id": "e2ae39b2-2583-42a2-9d8d-1eab7a6e9bc1",
       "number": 6,
       "content": "Này gò nổng, sao tung tăng như thể đàn cừu ?",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.157Z",
-      "updatedAt": "2024-09-17T09:59:34.157Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.804Z",
+      "updatedAt": "2024-09-23T04:17:12.804Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "0bf3a0d7-b4b1-4d58-9bd5-e670de7d0083",
+      "id": "f1dc8c17-a8e1-4489-85d2-0fe12e3ebbfd",
       "number": 7,
       "content": "Trước thánh nhan Chúa, hỡi địa cầu, hãy rung chuyển,",
       "order": 0,
-      "parNumber": 6,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.159Z",
-      "updatedAt": "2024-09-17T09:59:34.159Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.812Z",
+      "updatedAt": "2024-09-23T04:17:12.812Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "22a403c1-3116-4974-bb4a-dfc9566da2a9",
+      "id": "4dd632e5-6434-4802-8b80-63d485456472",
       "number": 7,
-      "content": "trước thánh nhan Chúa Trời nhà Gia-cóp,",
+      "content": "trước thánh nhan Chúa Trời nhà [Gia-cóp](),",
       "order": 1,
-      "parNumber": 6,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.161Z",
-      "updatedAt": "2024-09-17T09:59:34.161Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.817Z",
+      "updatedAt": "2024-09-23T04:17:12.817Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "9db4728c-83a1-474d-a3fd-58834de5e51c",
+      "id": "872172bd-c50d-4997-8a90-43d1acab16ae",
       "number": 8,
       "content": "Người biến đá tảng thành hồ ao,",
       "order": 0,
-      "parNumber": 7,
+      "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.163Z",
-      "updatedAt": "2024-09-17T09:59:34.163Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.821Z",
+      "updatedAt": "2024-09-23T04:17:12.821Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "6b530251-e87c-40c6-b35b-dc09d1760f11",
+      "id": "3856c54f-85c6-4c0a-b611-03dcf824196d",
       "number": 8,
       "content": "và sỏi đá nên mạch nước dồi dào.",
       "order": 1,
-      "parNumber": 7,
+      "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:34.170Z",
-      "updatedAt": "2024-09-17T09:59:34.170Z",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.830Z",
+      "updatedAt": "2024-09-23T04:17:12.830Z",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     }
   ],
   "footnotes": [
     {
-      "id": "5a9c91f0-a5bd-41a9-92b2-e43b7fbc35bc",
-      "content": "<i>Thánh thi</i> này miêu tả cách thi vị những phép lạ xảy ra trong cuộc vượt qua Biển Đỏ và sông Gio-đan. Một đặc điểm nhận thấy trong bài thánh thi này : một vài từ trong mỗi câu thuộc đoạn I (= cc. 3-4) được lặp lại trong mỗi câu thuộc đoạn II (= cc. 5-6) : <i>biển, trốn chạy</i> (c.3a và c.5a) ; <i>Gio-đan, chảy ngược dòng</i> (c.3b và c.5b) ; <i>bầy chiên, núi đồi nhảy nhót</i> (c.4a và c.6a) ; <i>đàn cừu, gò nổng tung tăng</i> (c.4b và c.6b). Tv 114 = Tv 113,1-8 của LXX và PT.",
-      "position": 70,
+      "id": "f1c9f511-ed78-4b2d-b7b8-fe9afb161d26",
+      "content": "*Thánh thi* này miêu tả cách thi vị những phép lạ xảy ra trong cuộc vượt qua Biển Đỏ và sông Gio-đan. Một đặc điểm nhận thấy trong bài thánh thi này : một vài từ trong mỗi câu thuộc đoạn I (= cc. 3-4) được lặp lại trong mỗi câu thuộc đoạn II (= cc. 5-6) : *biển, trốn chạy* (c.3a và c.5a) ; *Gio-đan, chảy ngược dòng* (c.3b và c.5b) ; *bầy chiên, núi đồi nhảy nhót* (c.4a và c.6a) ; *đàn cừu, gò nổng tung tăng* (c.4b và c.6b). Tv 114 = Tv 113,1-8 của LXX và PT.",
+      "position": 82,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:34.129Z",
-      "updatedAt": "2024-09-17T09:59:34.129Z",
-      "headingId": "868975dd-5d10-4cea-8cd5-0cbd0988f94a",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.761Z",
+      "updatedAt": "2024-09-23T04:17:12.761Z",
+      "headingId": "92963be0-4836-41da-9c6b-f1e79732ba6e",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "4d1513f0-8051-4eea-a580-fafedd1cccb4",
+      "id": "454154c6-1361-4971-a943-d56edbc38aa8",
       "content": "C.8 ám chỉ những biến cố xảy ra trong sa mạc : Xh 17,1-7 ; Ds 20,1-13 ; Đnl 8,15 ; Tv 107,35 ; Is 41,18.",
       "position": 31,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:34.174Z",
-      "updatedAt": "2024-09-17T09:59:34.174Z",
-      "verseId": "6b530251-e87c-40c6-b35b-dc09d1760f11",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.835Z",
+      "updatedAt": "2024-09-23T04:17:12.835Z",
+      "verseId": "3856c54f-85c6-4c0a-b611-03dcf824196d",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     }
   ],
   "headings": [
     {
-      "id": "868975dd-5d10-4cea-8cd5-0cbd0988f94a",
-      "content": "Tv 114 (113A) Thiên Chúa cho Ít-ra-en vượt qua Biển Đỏ và sông Gio-đan",
+      "id": "92963be0-4836-41da-9c6b-f1e79732ba6e",
+      "content": "Tv 114 (113A) Thiên Chúa cho [Ít-ra-en]() vượt qua [Biển Đỏ]() và sông [Gio-đan]()",
       "order": 0,
-      "createdAt": "2024-09-17T09:59:34.127Z",
-      "updatedAt": "2024-09-17T09:59:34.127Z",
-      "verseId": "ceef7f0c-d24c-47f0-ab95-f0eace10cc66",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.759Z",
+      "updatedAt": "2024-09-23T04:17:12.759Z",
+      "verseId": "644476a7-6e13-4ad7-8e02-1d02e6788019",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     }
   ],
   "references": [
     {
-      "id": "e56bb7d2-bcca-4f1b-8727-46fe0270a95c",
+      "id": "79b78285-65d7-46f8-a637-286e49e4eaad",
       "content": "Tv 78,54; Xh 15,17; 19,5-6; Gr 2,3",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:34.139Z",
-      "updatedAt": "2024-09-17T09:59:34.139Z",
-      "verseId": "11c27d98-4b75-4f01-ad54-2ec599aac45b",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.771Z",
+      "updatedAt": "2024-09-23T04:17:12.771Z",
+      "verseId": "4ed2c06c-7d11-405d-b355-7c6249eabff5",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "7d77ebce-1e79-45d1-8e33-22f91e315ee4",
+      "id": "db564f59-c878-4f81-8a80-c41188fbb5ad",
       "content": "Tv 29,6",
       "position": 26,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:34.147Z",
-      "updatedAt": "2024-09-17T09:59:34.147Z",
-      "verseId": "fa639f3c-7064-480c-90e8-249dc325b26d",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.780Z",
+      "updatedAt": "2024-09-23T04:17:12.780Z",
+      "verseId": "a11e000c-9cbc-4401-882b-fd7951599556",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     },
     {
-      "id": "a1013af1-9003-4de0-b592-e1359f0ab97a",
+      "id": "ba77d47c-6fb8-410a-9efc-0fcded6dd463",
       "content": "Tv 105,41; 107,35; Đnl 8,15",
       "position": 6,
       "order": 2,
-      "createdAt": "2024-09-17T09:59:34.166Z",
-      "updatedAt": "2024-09-17T09:59:34.166Z",
-      "verseId": "9db4728c-83a1-474d-a3fd-58834de5e51c",
-      "chapterId": "3c83594a-409a-4307-8602-58f8eb192300"
+      "createdAt": "2024-09-23T04:17:12.826Z",
+      "updatedAt": "2024-09-23T04:17:12.826Z",
+      "verseId": "872172bd-c50d-4997-8a90-43d1acab16ae",
+      "chapterId": "076cccc2-2cfb-4b8a-9455-908436a0812d"
     }
   ]
 }

@@ -1,185 +1,185 @@
 {
   "chapter": {
-    "id": "27e98684-fbb9-4d1a-85dd-adbe7444a000",
+    "id": "47c1afed-3116-465e-a70d-5f773b62eed8",
     "number": 133,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "6f9bea9a-5318-4a8f-869f-f548fc87c0a1",
+      "id": "aafa0748-2f47-401d-807d-01088b073907",
       "number": 1,
-      "content": "Ca khúc lên Đền. Của vua Đa-vít.",
+      "content": "*Ca khúc lên Đền. Của vua [Đa-vít]().*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:58:47.253Z",
-      "updatedAt": "2024-09-17T09:58:47.253Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.739Z",
+      "updatedAt": "2024-09-23T04:16:44.739Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "73f9439f-c1e1-48b9-b192-b23c818b4069",
+      "id": "4147a5c0-a44f-4f7c-81ae-f7fca4c2101b",
       "number": 1,
       "content": "Ngọt ngào tốt đẹp lắm thay,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.264Z",
-      "updatedAt": "2024-09-17T09:58:47.264Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.745Z",
+      "updatedAt": "2024-09-23T04:16:44.745Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "1822c859-da9e-48b2-b0a2-9251be3ea49b",
+      "id": "22010fcb-55c3-47db-8ada-b10e03c7de8b",
       "number": 1,
       "content": "anh em được sống vui vầy bên nhau,",
       "order": 2,
-      "parNumber": 0,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.267Z",
-      "updatedAt": "2024-09-17T09:58:47.267Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.747Z",
+      "updatedAt": "2024-09-23T04:16:44.747Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "52ed132d-b03c-4826-95d5-ae09af867616",
+      "id": "d38a0fe4-5ee1-45b3-8027-f19ab59b89de",
       "number": 2,
       "content": "như dầu quý đổ trên đầu",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.275Z",
-      "updatedAt": "2024-09-17T09:58:47.275Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.751Z",
+      "updatedAt": "2024-09-23T04:16:44.751Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "cb8bbfe6-891c-4961-a2ae-30bce2c115a0",
+      "id": "944171d5-0992-44b3-b64d-d649363cc20b",
       "number": 2,
-      "content": "xuống râu xuống cổ áo chầu A-ha-ron,",
+      "content": "xuống râu xuống cổ áo chầu [A-ha-ron](),",
       "order": 1,
-      "parNumber": 1,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.282Z",
-      "updatedAt": "2024-09-17T09:58:47.282Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.755Z",
+      "updatedAt": "2024-09-23T04:16:44.755Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "f09e8a3c-6027-4102-89d1-9c8e609acc03",
+      "id": "dc5948b4-e3b6-42d7-acff-e157d53d8c83",
       "number": 3,
-      "content": "như sương từ đỉnh Khéc-môn",
+      "content": "như sương từ đỉnh [Khéc-môn]()",
       "order": 0,
-      "parNumber": 2,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.290Z",
-      "updatedAt": "2024-09-17T09:58:47.290Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.759Z",
+      "updatedAt": "2024-09-23T04:16:44.759Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "6cdc55e0-83bf-4e06-a9e9-7ed7c4b07d25",
+      "id": "08458f0b-21a8-4c06-8274-5a3aaf5b923e",
       "number": 3,
-      "content": "toả trên đồi núi Xi-on lan tràn,",
+      "content": "toả trên đồi núi [Xi-on]() lan tràn,",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.294Z",
-      "updatedAt": "2024-09-17T09:58:47.294Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.761Z",
+      "updatedAt": "2024-09-23T04:16:44.761Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "0a18b81d-4790-432b-987d-fdb59f3cf858",
+      "id": "5a22c9b0-6b19-4e2c-b61c-5d4caf325ffb",
       "number": 3,
       "content": "nơi đây ân huệ CHÚA ban,",
       "order": 2,
-      "parNumber": 2,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.301Z",
-      "updatedAt": "2024-09-17T09:58:47.301Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.765Z",
+      "updatedAt": "2024-09-23T04:16:44.765Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "ddf95cd8-2d9c-4f19-b9d7-be9195bb36eb",
+      "id": "b57cfa52-fb6d-4df7-88a6-2aa739305ac9",
       "number": 3,
       "content": "chính là sự sống chứa chan muôn đời.",
       "order": 3,
-      "parNumber": 2,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:58:47.305Z",
-      "updatedAt": "2024-09-17T09:58:47.305Z",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.767Z",
+      "updatedAt": "2024-09-23T04:16:44.767Z",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     }
   ],
   "footnotes": [
     {
-      "id": "97b1e2cd-41e1-40e8-b188-b1e53af4af16",
-      "content": "<i>Tv giáo huấn</i> này diễn tả hạnh phúc của những người đi hành hương lên Giê-ru-sa-lem được cảm thấy họ sống ở đó như <i>anh em</i> với nhau. Cũng có những người nghĩ đến cuộc sống đầy tình huynh đệ nối kết các tư tế và các thầy Lê-vi lại với nhau trong thành thánh cũng như đền thờ Giê-ru-sa-lem.",
+      "id": "578758cf-daef-40a4-ad5b-c585f97365e1",
+      "content": "*Tv giáo huấn* này diễn tả hạnh phúc của những người đi hành hương lên Giê-ru-sa-lem được cảm thấy họ sống ở đó như *anh em* với nhau. Cũng có những người nghĩ đến cuộc sống đầy tình huynh đệ nối kết các tư tế và các thầy Lê-vi lại với nhau trong thành thánh cũng như đền thờ Giê-ru-sa-lem.",
       "position": 50,
       "order": 0,
-      "createdAt": "2024-09-17T09:58:47.260Z",
-      "updatedAt": "2024-09-17T09:58:47.260Z",
-      "headingId": "b571aa5c-e629-4aee-b872-0c33f82ef5fd",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.743Z",
+      "updatedAt": "2024-09-23T04:16:44.743Z",
+      "headingId": "2a3b7d75-c2c5-4d60-9586-0a74944e2695",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "e3fce78d-023e-4651-8d58-3dd71fff9945",
+      "id": "e40a51c2-f746-4794-abdf-8b19dea10d10",
       "content": "C.1 mang một nét thuộc văn chương khôn ngoan.",
       "position": 33,
       "order": 1,
-      "createdAt": "2024-09-17T09:58:47.271Z",
-      "updatedAt": "2024-09-17T09:58:47.271Z",
-      "verseId": "1822c859-da9e-48b2-b0a2-9251be3ea49b",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.749Z",
+      "updatedAt": "2024-09-23T04:16:44.749Z",
+      "verseId": "22010fcb-55c3-47db-8ada-b10e03c7de8b",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "89f78d0e-0de3-4a11-83cb-a9fddbf92f59",
-      "content": "Xức <i>dầu</i> thơm là một yếu tố thuộc phong tục người Do-thái (x. Tv 23,5). Ở đây, tác giả nói đến dầu quý.",
-      "position": 35,
+      "id": "84c63379-4b36-491e-940d-9a8c23db8e76",
+      "content": "Xức *dầu* thơm là một yếu tố thuộc phong tục người Do-thái (x. Tv 23,5). Ở đây, tác giả nói đến dầu quý.",
+      "position": 39,
       "order": 2,
-      "createdAt": "2024-09-17T09:58:47.286Z",
-      "updatedAt": "2024-09-17T09:58:47.286Z",
-      "verseId": "cb8bbfe6-891c-4961-a2ae-30bce2c115a0",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.757Z",
+      "updatedAt": "2024-09-23T04:16:44.757Z",
+      "verseId": "944171d5-0992-44b3-b64d-d649363cc20b",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     },
     {
-      "id": "817369b5-31a5-4c3a-ac23-85eddbbb4037",
-      "content": "<i>Sương</i> rất cần cho cây cối, cho mùa gặt hái trong các miền đất khô cằn (St 27,28 ; Đnl 32,2 ; 33,13.28 ; 2 Sm 1,21 ; Cn 19,12 ; Hs 14,6 ; Mk 5,6).",
-      "position": 31,
+      "id": "a17d62b6-08a8-44e4-a2f9-17031a49f329",
+      "content": "*Sương* rất cần cho cây cối, cho mùa gặt hái trong các miền đất khô cằn (St 27,28 ; Đnl 32,2 ; 33,13.28 ; 2 Sm 1,21 ; Cn 19,12 ; Hs 14,6 ; Mk 5,6).",
+      "position": 35,
       "order": 3,
-      "createdAt": "2024-09-17T09:58:47.297Z",
-      "updatedAt": "2024-09-17T09:58:47.297Z",
-      "verseId": "6cdc55e0-83bf-4e06-a9e9-7ed7c4b07d25",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.763Z",
+      "updatedAt": "2024-09-23T04:16:44.763Z",
+      "verseId": "08458f0b-21a8-4c06-8274-5a3aaf5b923e",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     }
   ],
   "headings": [
     {
-      "id": "b571aa5c-e629-4aee-b872-0c33f82ef5fd",
+      "id": "2a3b7d75-c2c5-4d60-9586-0a74944e2695",
       "content": "Tv 133 (132) Anh em thuận hoà thì tốt đẹp biết bao",
       "order": 0,
-      "createdAt": "2024-09-17T09:58:47.257Z",
-      "updatedAt": "2024-09-17T09:58:47.257Z",
-      "verseId": "6f9bea9a-5318-4a8f-869f-f548fc87c0a1",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.741Z",
+      "updatedAt": "2024-09-23T04:16:44.741Z",
+      "verseId": "aafa0748-2f47-401d-807d-01088b073907",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     }
   ],
   "references": [
     {
-      "id": "7a651def-425f-4487-9fd7-3f35a6c236c6",
+      "id": "400b7bd2-981b-446e-8ad1-a857705a6fe5",
       "content": "Xh 30,30-32",
       "position": 4,
       "order": 0,
-      "createdAt": "2024-09-17T09:58:47.278Z",
-      "updatedAt": "2024-09-17T09:58:47.278Z",
-      "verseId": "52ed132d-b03c-4826-95d5-ae09af867616",
-      "chapterId": "27e98684-fbb9-4d1a-85dd-adbe7444a000"
+      "createdAt": "2024-09-23T04:16:44.753Z",
+      "updatedAt": "2024-09-23T04:16:44.753Z",
+      "verseId": "d38a0fe4-5ee1-45b3-8027-f19ab59b89de",
+      "chapterId": "47c1afed-3116-465e-a70d-5f773b62eed8"
     }
   ]
 }

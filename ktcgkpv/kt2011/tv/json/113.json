@@ -1,269 +1,269 @@
 {
   "chapter": {
-    "id": "f4c5753b-47f1-4581-835c-574d323f123a",
+    "id": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2",
     "number": 113,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "21e74fe4-ed5a-4dc4-afa5-51405c792157",
+      "id": "de7af284-bebb-4fdb-8436-1aeb9950b4ed",
       "number": 1,
       "content": "Ha-lê-lui-a.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.439Z",
-      "updatedAt": "2024-09-17T09:59:12.439Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56Z",
+      "updatedAt": "2024-09-23T04:18:56Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "b581c702-8ba9-498e-b79c-beff6ed003de",
+      "id": "cefa6d07-2cff-4841-9436-a369a3badbfe",
       "number": 1,
       "content": "Hỡi tôi tớ CHÚA, hãy dâng lời ca ngợi,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.446Z",
-      "updatedAt": "2024-09-17T09:59:12.446Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.007Z",
+      "updatedAt": "2024-09-23T04:18:56.007Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "4e0667b0-7e62-4d74-80c9-8d2acbd92645",
+      "id": "1abe3bd0-eeb9-4272-a2e9-e69014a34858",
       "number": 1,
       "content": "nào ca ngợi danh thánh CHÚA đi !",
       "order": 2,
-      "parNumber": 0,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.448Z",
-      "updatedAt": "2024-09-17T09:59:12.448Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.009Z",
+      "updatedAt": "2024-09-23T04:18:56.009Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "42c2e8de-09ac-407d-b6d7-2d00720d2d82",
+      "id": "90cf7fe9-851e-42d4-b83c-84f4a048088a",
       "number": 2,
       "content": "Chúc tụng danh thánh CHÚA,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.450Z",
-      "updatedAt": "2024-09-17T09:59:12.450Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.011Z",
+      "updatedAt": "2024-09-23T04:18:56.011Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "2379e253-bb22-4117-b23c-7c9206a6f8e4",
+      "id": "06ea6e36-0006-4a13-bb71-5845659a3a1c",
       "number": 2,
       "content": "tự giờ đây cho đến mãi muôn đời !",
       "order": 1,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.452Z",
-      "updatedAt": "2024-09-17T09:59:12.452Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "bdfcfd32-b9e8-478e-ab73-889cf4141d88",
-      "number": 3,
-      "content": "Ca ngợi danh thánh CHÚA,",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.454Z",
-      "updatedAt": "2024-09-17T09:59:12.454Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "4b1584fd-fb09-4c5d-a0b2-a1394685d46c",
-      "number": 3,
-      "content": "từ rạng đông tới lúc chiều tà !",
-      "order": 1,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.456Z",
-      "updatedAt": "2024-09-17T09:59:12.456Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "965373d9-38cf-408c-b8f9-df1020a990a2",
-      "number": 4,
-      "content": "CHÚA siêu việt trên hết mọi dân,",
-      "order": 0,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.460Z",
-      "updatedAt": "2024-09-17T09:59:12.460Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "e4387e31-cd00-4a31-b5fc-3e233224f6a4",
-      "number": 4,
-      "content": "vinh quang Người vượt xa trời cao thẳm.",
-      "order": 1,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.462Z",
-      "updatedAt": "2024-09-17T09:59:12.462Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "20dfb82d-e374-44b4-8503-1d02f302120c",
-      "number": 5,
-      "content": "Ai sánh tày THƯỢNG ĐẾ Chúa ta, Đấng ngự chốn cao vời,",
-      "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.464Z",
-      "updatedAt": "2024-09-17T09:59:12.464Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.013Z",
+      "updatedAt": "2024-09-23T04:18:56.013Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "2a5191e6-252a-4738-9db0-53d7de964aa7",
-      "number": 6,
-      "content": "cúi xuống để nhìn xem bầu trời trái đất ?",
+      "id": "bcd3c0cf-07d6-411b-905b-f4c2a9c12569",
+      "number": 3,
+      "content": "Ca ngợi danh thánh CHÚA,",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.466Z",
-      "updatedAt": "2024-09-17T09:59:12.466Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.016Z",
+      "updatedAt": "2024-09-23T04:18:56.016Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "7be4e1a6-c3f3-412f-b8ee-8f5d9cfba9b3",
-      "number": 7,
-      "content": "Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi,",
-      "order": 0,
-      "parNumber": 6,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.468Z",
-      "updatedAt": "2024-09-17T09:59:12.468Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "f0e52d7f-4512-44a8-956a-374b2e336be0",
-      "number": 7,
-      "content": "ai nghèo túng, Người cất nhắc từ đống phân tro,",
+      "id": "8280d7d8-bc25-4d5a-8cff-24f5b0ba90e5",
+      "number": 3,
+      "content": "từ rạng đông tới lúc chiều tà !",
       "order": 1,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.472Z",
-      "updatedAt": "2024-09-17T09:59:12.472Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.020Z",
+      "updatedAt": "2024-09-23T04:18:56.020Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "b164f064-e55d-4498-9192-628d39216bb6",
-      "number": 8,
-      "content": "đặt ngồi chung với hàng quyền quý, hàng quyền quý dân Người.",
+      "id": "27888d27-9ced-450e-95b1-3ec719620a6c",
+      "number": 4,
+      "content": "CHÚA siêu việt trên hết mọi dân,",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.474Z",
-      "updatedAt": "2024-09-17T09:59:12.474Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.029Z",
+      "updatedAt": "2024-09-23T04:18:56.029Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "fb4ffd45-7ed9-4399-919a-e6ef478d00ba",
-      "number": 9,
-      "content": "Người làm cho đàn bà son sẻ",
-      "order": 0,
-      "parNumber": 8,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.476Z",
-      "updatedAt": "2024-09-17T09:59:12.476Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
-    },
-    {
-      "id": "b91cd311-3012-4e4b-abe1-3bfc508ae4c6",
-      "number": 9,
-      "content": "thành mẹ đông con, vui cửa vui nhà.",
+      "id": "53ebdf12-c61a-471d-a2d4-94e62fb11487",
+      "number": 4,
+      "content": "vinh quang Người vượt xa trời cao thẳm.",
       "order": 1,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:12.480Z",
-      "updatedAt": "2024-09-17T09:59:12.480Z",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.034Z",
+      "updatedAt": "2024-09-23T04:18:56.034Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "c92716e5-997b-44be-b84e-2a55ff48cadf",
+      "number": 5,
+      "content": "Ai sánh tày THƯỢNG ĐẾ Chúa ta, Đấng ngự chốn cao vời,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.038Z",
+      "updatedAt": "2024-09-23T04:18:56.038Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "b66dccbd-4011-455e-8671-ffc99dc9d527",
+      "number": 6,
+      "content": "cúi xuống để nhìn xem bầu trời trái đất ?",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.042Z",
+      "updatedAt": "2024-09-23T04:18:56.042Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "00819f11-942e-43e6-b521-162bcfbc5e0e",
+      "number": 7,
+      "content": "Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi,",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.047Z",
+      "updatedAt": "2024-09-23T04:18:56.047Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "f15824d7-2fd0-4eb7-b746-35feeaabeb0f",
+      "number": 7,
+      "content": "ai nghèo túng, Người cất nhắc từ đống phân tro,",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.056Z",
+      "updatedAt": "2024-09-23T04:18:56.056Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "dc299435-226e-43c7-9d8e-f8f959095771",
+      "number": 8,
+      "content": "đặt ngồi chung với hàng quyền quý, hàng quyền quý dân Người.",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.060Z",
+      "updatedAt": "2024-09-23T04:18:56.060Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "724fb650-acfa-494a-9366-cbd8f0360f02",
+      "number": 9,
+      "content": "Người làm cho đàn bà son sẻ",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.064Z",
+      "updatedAt": "2024-09-23T04:18:56.064Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
+    },
+    {
+      "id": "ba980343-e405-4479-bdcf-4002abc9bd3a",
+      "number": 9,
+      "content": "thành mẹ đông con, vui cửa vui nhà.",
+      "order": 1,
+      "parNumber": 15,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:18:56.073Z",
+      "updatedAt": "2024-09-23T04:18:56.073Z",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     }
   ],
   "footnotes": [
     {
-      "id": "b29a6e07-dad2-4489-b1f7-5f696a52a2b9",
-      "content": "<i>Thánh thi</i> này là Tv đầu của một nhóm Tv gọi là <i>tiểu Ha-len</i> (Hallel = bài ca ngợi khen) gồm các Tv 113-118. Người Do-thái đọc hoặc hát những Tv này cách riêng trong ba lễ lớn : lễ Vượt Qua, lễ Ngũ Tuần và lễ Lều. Có thể chia thánh thi thành các phần sau đây : <b>1</b>) Cc. 1-3 ; <b>2</b>) Cc. 4-6 ; <b>3</b>) Cc. 7-9.",
+      "id": "44313a2c-2b2c-4b01-8d0f-98b2b9f0dd46",
+      "content": "*Thánh thi* này là Tv đầu của một nhóm Tv gọi là *tiểu Ha-len* (Hallel = bài ca ngợi khen) gồm các Tv 113-118. Người Do-thái đọc hoặc hát những Tv này cách riêng trong ba lễ lớn : lễ Vượt Qua, lễ Ngũ Tuần và lễ Lều. Có thể chia thánh thi thành các phần sau đây : **1**) Cc. 1-3 ; **2**) Cc. 4-6 ; **3**) Cc. 7-9.",
       "position": 35,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:12.444Z",
-      "updatedAt": "2024-09-17T09:59:12.444Z",
-      "headingId": "ce053adb-321a-4f6a-8fdf-3be1b53ccb3e",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.005Z",
+      "updatedAt": "2024-09-23T04:18:56.005Z",
+      "headingId": "aa1f7718-eae3-4f00-af6b-80c2291ed36d",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "dedcc2d5-1ce7-406e-899c-9eabcf2e2753",
+      "id": "4e108c75-9ab7-419c-bc59-73c6582e42ed",
       "content": "Việc ca ngợi Thiên Chúa không có giới hạn về thời gian.",
       "position": 29,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:12.458Z",
-      "updatedAt": "2024-09-17T09:59:12.458Z",
-      "verseId": "4b1584fd-fb09-4c5d-a0b2-a1394685d46c",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.025Z",
+      "updatedAt": "2024-09-23T04:18:56.025Z",
+      "verseId": "8280d7d8-bc25-4d5a-8cff-24f5b0ba90e5",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "c2da3411-b6b4-4a01-b709-fdd37af5729a",
-      "content": "Người phụ nữ son sẻ bị khinh chê. Khi giúp cho người phụ nữ trở thành <i>mẹ đông con</i>, Thiên Chúa đem lại cho người ấy niềm vui và sự hãnh diện.",
+      "id": "6a3f6cbd-ed9b-4b4b-a477-74a6d15aaa33",
+      "content": "Người phụ nữ son sẻ bị khinh chê. Khi giúp cho người phụ nữ trở thành *mẹ đông con*, Thiên Chúa đem lại cho người ấy niềm vui và sự hãnh diện.",
       "position": 34,
       "order": 2,
-      "createdAt": "2024-09-17T09:59:12.486Z",
-      "updatedAt": "2024-09-17T09:59:12.486Z",
-      "verseId": "b91cd311-3012-4e4b-abe1-3bfc508ae4c6",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.077Z",
+      "updatedAt": "2024-09-23T04:18:56.077Z",
+      "verseId": "ba980343-e405-4479-bdcf-4002abc9bd3a",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     }
   ],
   "headings": [
     {
-      "id": "ce053adb-321a-4f6a-8fdf-3be1b53ccb3e",
+      "id": "aa1f7718-eae3-4f00-af6b-80c2291ed36d",
       "content": "Tv 113 (112) Danh Chúa đáng ca ngợi",
       "order": 0,
-      "createdAt": "2024-09-17T09:59:12.442Z",
-      "updatedAt": "2024-09-17T09:59:12.442Z",
-      "verseId": "21e74fe4-ed5a-4dc4-afa5-51405c792157",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.003Z",
+      "updatedAt": "2024-09-23T04:18:56.003Z",
+      "verseId": "de7af284-bebb-4fdb-8436-1aeb9950b4ed",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     }
   ],
   "references": [
     {
-      "id": "835ab19b-1f80-46e9-b7eb-5bd00cc888a6",
+      "id": "434ff5a0-7c10-40da-b66c-fa0a85bf40ba",
       "content": "Tv 107,41; 1 Sm 2,8",
       "position": 3,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:12.470Z",
-      "updatedAt": "2024-09-17T09:59:12.470Z",
-      "verseId": "7be4e1a6-c3f3-412f-b8ee-8f5d9cfba9b3",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.051Z",
+      "updatedAt": "2024-09-23T04:18:56.051Z",
+      "verseId": "00819f11-942e-43e6-b521-162bcfbc5e0e",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     },
     {
-      "id": "075024d6-9297-4a76-8244-53d01766fa2d",
+      "id": "a43210b2-0a8f-4a1e-8478-31f73943f7d8",
       "content": "1 Sm 2,5",
       "position": 21,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:12.477Z",
-      "updatedAt": "2024-09-17T09:59:12.477Z",
-      "verseId": "fb4ffd45-7ed9-4399-919a-e6ef478d00ba",
-      "chapterId": "f4c5753b-47f1-4581-835c-574d323f123a"
+      "createdAt": "2024-09-23T04:18:56.069Z",
+      "updatedAt": "2024-09-23T04:18:56.069Z",
+      "verseId": "724fb650-acfa-494a-9366-cbd8f0360f02",
+      "chapterId": "1adcbe7b-7b86-4122-90aa-fd96ee1a3ab2"
     }
   ]
 }

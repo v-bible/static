@@ -1,177 +1,144 @@
 {
   "chapter": {
-    "id": "d05fb697-e8c9-4852-99f0-84f864edfa84",
+    "id": "0d9a7d47-ff47-4d14-b790-6ec391965b88",
     "number": 3,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.626Z",
-    "updatedAt": "2024-09-17T08:41:12.626Z",
-    "bookId": "91ec16d5-a551-4db4-90e3-908c748b119c"
+    "createdAt": "2024-09-23T03:08:02.338Z",
+    "updatedAt": "2024-09-23T03:08:02.338Z",
+    "bookId": "800e1a82-722e-4bf8-acdc-4677f4c610eb"
   },
   "verses": [
     {
-      "id": "2a7c6539-0b45-442b-a850-b67da76b0676",
+      "id": "3a5bae85-b341-438d-9f52-e8943f75d7b0",
       "number": 1,
       "content": "Họ cử sứ giả đến gặp ông xin cầu hoà và nói :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.748Z",
-      "updatedAt": "2024-09-17T09:43:26.748Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.301Z",
+      "updatedAt": "2024-09-23T04:11:14.301Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "8ae559f4-e461-4604-baa8-a6c8f16be336",
+      "id": "88d9fc97-0e00-4057-85a5-63a8a0165dd0",
       "number": 2,
-      "content": "“Này chúng tôi là tôi tớ của đại đế Na-bu-cô-đô-nô-xo. Chúng tôi xin phủ phục trước mặt ngài ; xin ngài sử dụng chúng tôi như ý ngài muốn.",
+      "content": "“Này chúng tôi là tôi tớ của đại đế [Na-bu-cô-đô-nô-xo](). Chúng tôi xin phủ phục trước mặt ngài ; xin ngài sử dụng chúng tôi như ý ngài muốn.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.751Z",
-      "updatedAt": "2024-09-17T09:43:26.751Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.303Z",
+      "updatedAt": "2024-09-23T04:11:14.303Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "174f5efc-b8fd-4156-bfd0-96b1a4116622",
+      "id": "a78c03dc-c9e3-4b92-bbd0-2c38dfefb26b",
       "number": 3,
       "content": "Kìa lều trại của chúng tôi, tất cả cánh đồng lúa mì, bò bê, chiên cừu, tất cả chuồng súc vật trong lều trại chúng tôi đều ở trước mặt ngài, xin ngài sử dụng như ý ngài muốn.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.754Z",
-      "updatedAt": "2024-09-17T09:43:26.754Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.305Z",
+      "updatedAt": "2024-09-23T04:11:14.305Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "b422d338-574b-4ddb-b2cb-fe409c1a7564",
+      "id": "ea37c1df-6b60-4e88-9831-df1482386752",
       "number": 4,
-      "content": "Này, các thành thị của chúng tôi và dân cư trong thành đều là tôi tớ của ngài. Xin ngài đến và đối xử với các thành ấy tuỳ theo tôn ý.”",
+      "content": "Này, các thành thị của chúng tôi và dân cư trong thành đều là tôi tớ của ngài. [Xin]() ngài đến và đối xử với các thành ấy tuỳ theo tôn ý.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.756Z",
-      "updatedAt": "2024-09-17T09:43:26.756Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.307Z",
+      "updatedAt": "2024-09-23T04:11:14.307Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "9b313edc-41fb-417f-8d75-23ce4517b752",
+      "id": "a1bbbf85-0402-4aa2-a939-bf91d98daa64",
       "number": 5,
-      "content": "Các người ấy đến gặp Hô-lô-phéc-nê và trình với ông những lời lẽ trên.",
+      "content": "Các người ấy đến gặp [Hô-lô-phéc-nê]() và trình với ông những lời lẽ trên.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.758Z",
-      "updatedAt": "2024-09-17T09:43:26.758Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.309Z",
+      "updatedAt": "2024-09-23T04:11:14.309Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "17e9f21f-c75a-4542-acd9-48c83a7dcbf2",
+      "id": "0e91953d-7b91-4200-92e0-703112e65509",
       "number": 6,
       "content": "Ông và đạo quân đi xuống phía bờ biển. Ông cho canh phòng các thành ở trên cao và tuyển mộ dân trong thành để trợ chiến.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.760Z",
-      "updatedAt": "2024-09-17T09:43:26.760Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.311Z",
+      "updatedAt": "2024-09-23T04:11:14.311Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "df378de8-deb7-46db-a4fd-896c62bb5926",
+      "id": "4b667847-9ec8-423b-bec2-46f8aeaab183",
       "number": 7,
       "content": "Dân trong thành và tất cả các miền phụ cận đội vòng hoa ra múa nhảy và đánh trống để nghênh đón ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.765Z",
-      "updatedAt": "2024-09-17T09:43:26.765Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.315Z",
+      "updatedAt": "2024-09-23T04:11:14.315Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "83056c71-31db-4460-a9fe-fe4c4777ed80",
-      "number": 8,
-      "content": "Ông phá tất cả các điện thờ của họ, chặt các cột thờ, và được quyền diệt tất cả các thần trên cõi đất, khiến mọi dân tộc chỉ thờ một mình Na-bu-cô-đô-nô-xo, và mọi ngôn ngữ, mọi chi tộc phải kêu cầu Na-bu-cô-đô-nô-xo như một vị thần.",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 2,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.773Z",
-      "updatedAt": "2024-09-17T09:43:26.773Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
-    },
-    {
-      "id": "833ace79-4261-4b87-bc64-a57e03d0d2f8",
+      "id": "47d98b39-e206-4bf6-86ba-701c76a94543",
       "number": 9,
-      "content": "Ông Hô-lô-phéc-nê đến phía trước Ét-rê-lon, gần Đô-tai-a, trước mặt dãy núi lớn xứ Giu-đê.",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.781Z",
-      "updatedAt": "2024-09-17T09:43:26.781Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
-    },
-    {
-      "id": "e8beb22e-c4a6-4e7d-a50a-684c89da78ec",
-      "number": 10,
-      "content": "Ông đóng quân ở giữa vùng Ghê-vai và thành Xi-ky-thô-pô-li, rồi lưu lại đó một tháng trời để tập trung toàn bộ quân nhu của đạo quân.",
+      "content": "Ông [Hô-lô-phéc-nê]() đến phía trước Ét-rê-lon, gần [Đô-tai-a](), trước mặt dãy núi lớn xứ [Giu-đê]().",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:43:26.785Z",
-      "updatedAt": "2024-09-17T09:43:26.785Z",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.317Z",
+      "updatedAt": "2024-09-23T04:11:14.317Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
+    },
+    {
+      "id": "7a51c713-c26f-4c81-92bb-fc9270b00e34",
+      "number": 10,
+      "content": "Ông đóng quân ở giữa vùng [Ghê-vai]() và thành [Xi-ky-thô-pô-li](), rồi lưu lại đó một tháng trời để tập trung toàn bộ quân nhu của đạo quân.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:14.321Z",
+      "updatedAt": "2024-09-23T04:11:14.321Z",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     }
   ],
   "footnotes": [
     {
-      "id": "fe039c5b-3ddc-4527-98c1-3dcc0ad3b78b",
-      "content": "<i>Thành ở trên cao</i> : có tường luỹ đắp cao (x. Đnl 1,28 và 9,1+).",
+      "id": "d6d71c86-9209-498a-9dee-d2168e36f766",
+      "content": "*Thành ở trên cao* : có tường luỹ đắp cao (x. Đnl 1,28 và 9,1+).",
       "position": 78,
       "order": 0,
-      "createdAt": "2024-09-17T09:43:26.763Z",
-      "updatedAt": "2024-09-17T09:43:26.763Z",
-      "verseId": "17e9f21f-c75a-4542-acd9-48c83a7dcbf2",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.313Z",
+      "updatedAt": "2024-09-23T04:11:14.313Z",
+      "verseId": "0e91953d-7b91-4200-92e0-703112e65509",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     },
     {
-      "id": "c6098dbd-5239-4d7b-9979-ab97a1aa64ad",
-      "content": "<i>Điện thờ</i>, dịch theo bản Xy-ri thay vì <i>lãnh thổ</i> theo LXX, để hợp với văn cảnh của toàn c.8 hơn. – <i>Được quyền (hay có sứ mạng) diệt ...</i> : một số tb chép <i>quyết chí</i> có lẽ phù hợp với mạch văn hơn : ông vua này cho rằng trên đầu ông chẳng còn ai khác. Thật ra các vua Át-sua và Ba-by-lon không bao giờ tự tôn là thần ; chỉ có các hoàng đế Hy-lạp sau A-lê-xan-đê Đại Đế mới có tham vọng này. – <i>Trên cõi đất</i> : x. 1,11+.",
-      "position": 0,
-      "order": 1,
-      "createdAt": "2024-09-17T09:43:26.776Z",
-      "updatedAt": "2024-09-17T09:43:26.776Z",
-      "verseId": "83056c71-31db-4460-a9fe-fe4c4777ed80",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
-    },
-    {
-      "id": "97be3ad3-8e16-46bf-b866-36421d8361b6",
-      "content": "<i>Đô-tai-a</i> (c.9) : LXX ở đây cho dạng A-ram, M ghi <i>Đô-tha-in</i> ở St 37,17 ; 2 V 6,13, và chính LXX lại ghi <i>Đô-tha-im</i> trong sách này ở 4,6 ; 7,3.18 ; 8,3. – <i>Dãy núi lớn</i> : bản văn như muốn cho thấy địa thế rất hiểm trở. – <i>Ghê-vai</i> (c.10) : có thể tên nguyên thuỷ là <i>Ghin-bô-a</i>, dãy núi có thành <i>Xi-ky-thô-pô-li</i> nằm ở phía cuối ; trong Gs 17,11 thành này được gọi là <i>Bết San</i>.",
+      "id": "71c6df22-6df0-4c9e-8594-9a52a73f0612",
+      "content": "*Đô-tai-a* (c.9) : LXX ở đây cho dạng A-ram, M ghi *Đô-tha-in* ở St 37,17 ; 2 V 6,13, và chính LXX lại ghi *Đô-tha-im* trong sách này ở 4,6 ; 7,3.18 ; 8,3. – *Dãy núi lớn* : bản văn như muốn cho thấy địa thế rất hiểm trở. – *Ghê-vai* (c.10) : có thể tên nguyên thuỷ là *Ghin-bô-a*, dãy núi có thành *Xi-ky-thô-pô-li* nằm ở phía cuối ; trong Gs 17,11 thành này được gọi là *Bết San*.",
       "position": 0,
       "order": 2,
-      "createdAt": "2024-09-17T09:43:26.783Z",
-      "updatedAt": "2024-09-17T09:43:26.783Z",
-      "verseId": "833ace79-4261-4b87-bc64-a57e03d0d2f8",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
+      "createdAt": "2024-09-23T04:11:14.319Z",
+      "updatedAt": "2024-09-23T04:11:14.319Z",
+      "verseId": "47d98b39-e206-4bf6-86ba-701c76a94543",
+      "chapterId": "0d9a7d47-ff47-4d14-b790-6ec391965b88"
     }
   ],
   "headings": [],
-  "references": [
-    {
-      "id": "59ca6a17-31c8-484b-951a-e10e0400f5de",
-      "content": "Xh 34,13; 2 Sb 17,6",
-      "position": 45,
-      "order": 0,
-      "createdAt": "2024-09-17T09:43:26.778Z",
-      "updatedAt": "2024-09-17T09:43:26.778Z",
-      "verseId": "83056c71-31db-4460-a9fe-fe4c4777ed80",
-      "chapterId": "d05fb697-e8c9-4852-99f0-84f864edfa84"
-    }
-  ]
+  "references": []
 }

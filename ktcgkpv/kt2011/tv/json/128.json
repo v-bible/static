@@ -1,277 +1,277 @@
 {
   "chapter": {
-    "id": "9a92c466-c517-41fd-901f-87ca42d7a913",
+    "id": "3e54cfae-8003-4cf0-bb1d-99a831312913",
     "number": 128,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "45df4d8d-73d4-470a-9104-25eef504dd18",
+      "id": "e2899195-08db-41a9-ab5d-875e750fd02f",
       "number": 1,
-      "content": "Ca khúc lên Đền.",
+      "content": "*Ca khúc lên Đền.*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:59:14.678Z",
-      "updatedAt": "2024-09-17T09:59:14.678Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.828Z",
+      "updatedAt": "2024-09-23T04:16:46.828Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "36a06b39-f2e4-4bbd-8a55-91bcdf58f1ad",
+      "id": "4cdcc8e2-5bd4-449b-9100-30da1231c042",
       "number": 1,
       "content": "Hạnh phúc thay bạn nào kính sợ CHÚA,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.684Z",
-      "updatedAt": "2024-09-17T09:59:14.684Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.841Z",
+      "updatedAt": "2024-09-23T04:16:46.841Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "f15d63bd-34f3-4c5f-9be5-43f2476d83d6",
+      "id": "38abf2c9-936b-4387-bb6a-5cf9573be8e5",
       "number": 1,
       "content": "ăn ở theo đường lối của Người.",
       "order": 2,
-      "parNumber": 0,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.688Z",
-      "updatedAt": "2024-09-17T09:59:14.688Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.846Z",
+      "updatedAt": "2024-09-23T04:16:46.846Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "e752db5d-83ee-432b-bdfb-3022883ade7b",
+      "id": "f8ed05db-aae7-4030-96c9-27cd4d3c5b01",
       "number": 2,
       "content": "Công khó tay bạn làm, bạn được an hưởng,",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.690Z",
-      "updatedAt": "2024-09-17T09:59:14.690Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "a6c3b966-42cc-4741-8e82-e7226beb2622",
-      "number": 2,
-      "content": "bạn quả là lắm phúc nhiều may.",
-      "order": 1,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.692Z",
-      "updatedAt": "2024-09-17T09:59:14.692Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "83abb622-6124-40c9-a9ad-fc3f36427dc8",
-      "number": 3,
-      "content": "Hiền thê bạn trong cửa trong nhà",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.694Z",
-      "updatedAt": "2024-09-17T09:59:14.694Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "72934a94-e93a-49c2-a292-d24026106bc2",
-      "number": 3,
-      "content": "khác nào cây nho đầy hoa trái ;",
-      "order": 1,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.696Z",
-      "updatedAt": "2024-09-17T09:59:14.696Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "ab4c2f15-f81a-4feb-9158-a143158dfd81",
-      "number": 3,
-      "content": "và bầy con tựa những cây ô-liu mơn mởn,",
-      "order": 2,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.699Z",
-      "updatedAt": "2024-09-17T09:59:14.699Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "4fd3a8fb-c37b-4b3a-b0ef-6eb46265526e",
-      "number": 3,
-      "content": "xúm xít tại bàn ăn.",
-      "order": 3,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.708Z",
-      "updatedAt": "2024-09-17T09:59:14.708Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
-    },
-    {
-      "id": "fb52b5c4-a733-486c-9ff5-75ac152d6d45",
-      "number": 4,
-      "content": "Đó chính là phúc lộc CHÚA dành cho kẻ kính sợ Người.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.712Z",
-      "updatedAt": "2024-09-17T09:59:14.712Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.848Z",
+      "updatedAt": "2024-09-23T04:16:46.848Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "6debbacb-3cf2-44f1-befb-a123c1e2e2ca",
-      "number": 5,
-      "content": "Xin CHÚA từ Xi-on xuống cho bạn muôn vàn ơn phúc.",
-      "order": 0,
+      "id": "5e60f536-d743-49fc-a4e3-9747dfefafb0",
+      "number": 2,
+      "content": "bạn quả là lắm phúc nhiều may.",
+      "order": 1,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.717Z",
-      "updatedAt": "2024-09-17T09:59:14.717Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.850Z",
+      "updatedAt": "2024-09-23T04:16:46.850Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "dd8ef217-b99c-418d-892c-7333abda0359",
+      "id": "bc5ecd0d-811f-440e-8f5b-b5dc61c503e2",
+      "number": 3,
+      "content": "Hiền thê bạn trong cửa trong nhà",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.851Z",
+      "updatedAt": "2024-09-23T04:16:46.851Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "16018dbb-0c7b-4b8d-877f-083c37f37950",
+      "number": 3,
+      "content": "khác nào cây nho đầy hoa trái ;",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.854Z",
+      "updatedAt": "2024-09-23T04:16:46.854Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "448da586-a283-4571-a39c-c1c5e25612de",
+      "number": 3,
+      "content": "và bầy con tựa những cây ô-liu mơn mởn,",
+      "order": 2,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.856Z",
+      "updatedAt": "2024-09-23T04:16:46.856Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "7be5e523-4e8e-4b66-b5c2-f2eab3087e4a",
+      "number": 3,
+      "content": "xúm xít tại bàn ăn.",
+      "order": 3,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.863Z",
+      "updatedAt": "2024-09-23T04:16:46.863Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "b84f19a3-dcc2-4def-a8f2-a1136d215150",
+      "number": 4,
+      "content": "Đó chính là phúc lộc CHÚA dành cho kẻ kính sợ Người.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.868Z",
+      "updatedAt": "2024-09-23T04:16:46.868Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "7f248b24-5e4d-4699-82c6-721564a53a1f",
+      "number": 5,
+      "content": "[Xin]() CHÚA từ [Xi-on]() xuống cho bạn muôn vàn ơn phúc.",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:46.872Z",
+      "updatedAt": "2024-09-23T04:16:46.872Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
+    },
+    {
+      "id": "3eb14e05-de8e-409b-9823-308ab2817407",
       "number": 5,
       "content": "Ước chi trong suốt cả cuộc đời",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.725Z",
-      "updatedAt": "2024-09-17T09:59:14.725Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.881Z",
+      "updatedAt": "2024-09-23T04:16:46.881Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "c3aecd01-2d92-4c0d-9b15-fb5aba2a0481",
+      "id": "77b6fbb1-4fa8-4590-a8c2-21ecd109e584",
       "number": 5,
-      "content": "bạn được thấy Giê-ru-sa-lem phồn thịnh,",
+      "content": "bạn được thấy [Giê-ru-sa-lem]() phồn thịnh,",
       "order": 2,
-      "parNumber": 4,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.730Z",
-      "updatedAt": "2024-09-17T09:59:14.730Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.885Z",
+      "updatedAt": "2024-09-23T04:16:46.885Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "794bd657-e7c4-42c4-a9dc-4d6dff906821",
+      "id": "193d30a0-3ecf-415b-b484-e8d425f3ae73",
       "number": 6,
       "content": "được sống lâu bên đàn con cháu.",
       "order": 0,
-      "parNumber": 5,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.739Z",
-      "updatedAt": "2024-09-17T09:59:14.739Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.895Z",
+      "updatedAt": "2024-09-23T04:16:46.895Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "ac8456f8-b672-41d5-b005-bcf681581aa2",
+      "id": "326f2b2b-cc78-4431-b005-83e0c341c712",
       "number": 6,
-      "content": "Nguyện chúc Ít-ra-en vui hưởng thái bình.",
+      "content": "Nguyện chúc [Ít-ra-en]() vui hưởng thái bình.",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:14.748Z",
-      "updatedAt": "2024-09-17T09:59:14.748Z",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.904Z",
+      "updatedAt": "2024-09-23T04:16:46.904Z",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     }
   ],
   "footnotes": [
     {
-      "id": "9026cfbe-620a-47ee-9f6c-efc7f223a88a",
-      "content": "Đây là <i>một Tv giáo huấn</i> diễn tả hạnh phúc của những ai kính sợ Chúa sống trong gia đình với vợ con, được hưởng một cuộc đời may mắn và thịnh vượng.",
+      "id": "94dc30fe-08ec-4d21-9722-cb3e8bf37157",
+      "content": "Đây là *một Tv giáo huấn* diễn tả hạnh phúc của những ai kính sợ Chúa sống trong gia đình với vợ con, được hưởng một cuộc đời may mắn và thịnh vượng.",
       "position": 43,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:14.683Z",
-      "updatedAt": "2024-09-17T09:59:14.683Z",
-      "headingId": "1623fc78-55ff-462c-a853-772aed4a083a",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.839Z",
+      "updatedAt": "2024-09-23T04:16:46.839Z",
+      "headingId": "a4e5cdda-fb2a-4a06-92a7-6101fa4e602e",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "f343795c-2c6c-4959-b09b-925d06271113",
+      "id": "2db73ebc-9215-476b-b92a-adf9fbced61b",
       "content": "X. Tv 122,7-9.",
-      "position": 38,
+      "position": 42,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:14.734Z",
-      "updatedAt": "2024-09-17T09:59:14.734Z",
-      "verseId": "c3aecd01-2d92-4c0d-9b15-fb5aba2a0481",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.890Z",
+      "updatedAt": "2024-09-23T04:16:46.890Z",
+      "verseId": "77b6fbb1-4fa8-4590-a8c2-21ecd109e584",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "309a4725-0785-4927-adf4-3f0b63a441cb",
+      "id": "bcef7f4e-dacc-4b1a-9467-bcc79f1e3937",
       "content": "X. Cn 17,6.",
       "position": 30,
       "order": 2,
-      "createdAt": "2024-09-17T09:59:14.743Z",
-      "updatedAt": "2024-09-17T09:59:14.743Z",
-      "verseId": "794bd657-e7c4-42c4-a9dc-4d6dff906821",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.899Z",
+      "updatedAt": "2024-09-23T04:16:46.899Z",
+      "verseId": "193d30a0-3ecf-415b-b484-e8d425f3ae73",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     }
   ],
   "headings": [
     {
-      "id": "1623fc78-55ff-462c-a853-772aed4a083a",
+      "id": "a4e5cdda-fb2a-4a06-92a7-6101fa4e602e",
       "content": "Tv 128 (127) Hạnh phúc thay kẻ kính sợ Chúa",
       "order": 0,
-      "createdAt": "2024-09-17T09:59:14.681Z",
-      "updatedAt": "2024-09-17T09:59:14.681Z",
-      "verseId": "45df4d8d-73d4-470a-9104-25eef504dd18",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.837Z",
+      "updatedAt": "2024-09-23T04:16:46.837Z",
+      "verseId": "e2899195-08db-41a9-ab5d-875e750fd02f",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     }
   ],
   "references": [
     {
-      "id": "d6380a80-d7cf-4109-98e3-b3749c4f07a9",
+      "id": "92014aac-203e-4ab1-b5ca-e02d1e20d090",
       "content": "Tv 112,1",
       "position": 23,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:14.686Z",
-      "updatedAt": "2024-09-17T09:59:14.686Z",
-      "verseId": "36a06b39-f2e4-4bbd-8a55-91bcdf58f1ad",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.843Z",
+      "updatedAt": "2024-09-23T04:16:46.843Z",
+      "verseId": "4cdcc8e2-5bd4-449b-9100-30da1231c042",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "ab3cd53f-6a7a-464e-9d42-c81bb3c409fa",
+      "id": "45345616-8dbb-48db-b0f1-70d60088f8f0",
       "content": "Tv 127,3; 144,12",
       "position": 0,
       "order": 1,
-      "createdAt": "2024-09-17T09:59:14.703Z",
-      "updatedAt": "2024-09-17T09:59:14.703Z",
-      "verseId": "ab4c2f15-f81a-4feb-9158-a143158dfd81",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.859Z",
+      "updatedAt": "2024-09-23T04:16:46.859Z",
+      "verseId": "448da586-a283-4571-a39c-c1c5e25612de",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "2943ee95-c334-4b6a-8032-6bae8de853fc",
+      "id": "89d69239-9f12-40e6-b092-4cec49862b2d",
       "content": "Tv 134,3",
-      "position": 41,
+      "position": 49,
       "order": 2,
-      "createdAt": "2024-09-17T09:59:14.721Z",
-      "updatedAt": "2024-09-17T09:59:14.721Z",
-      "verseId": "6debbacb-3cf2-44f1-befb-a123c1e2e2ca",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.877Z",
+      "updatedAt": "2024-09-23T04:16:46.877Z",
+      "verseId": "7f248b24-5e4d-4699-82c6-721564a53a1f",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     },
     {
-      "id": "485c2e62-34ad-4b33-9fdf-8f5d3ac8e149",
+      "id": "c3b7bd40-2857-4fc4-a530-3c139cefa2bb",
       "content": "Tv 125,5",
-      "position": 31,
+      "position": 35,
       "order": 3,
-      "createdAt": "2024-09-17T09:59:14.752Z",
-      "updatedAt": "2024-09-17T09:59:14.752Z",
-      "verseId": "ac8456f8-b672-41d5-b005-bcf681581aa2",
-      "chapterId": "9a92c466-c517-41fd-901f-87ca42d7a913"
+      "createdAt": "2024-09-23T04:16:46.909Z",
+      "updatedAt": "2024-09-23T04:16:46.909Z",
+      "verseId": "326f2b2b-cc78-4431-b005-83e0c341c712",
+      "chapterId": "3e54cfae-8003-4cf0-bb1d-99a831312913"
     }
   ]
 }

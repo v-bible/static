@@ -1,301 +1,301 @@
 {
   "chapter": {
-    "id": "24fd9351-9b97-4268-b97d-393cd92842b2",
+    "id": "aae671e8-62b7-44de-9f4c-70c1c078c4f2",
     "number": 12,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.676Z",
-    "updatedAt": "2024-09-17T08:41:12.676Z",
-    "bookId": "870aeab9-56ce-4bd9-8628-3cdad2dcc9df"
+    "createdAt": "2024-09-23T03:08:02.385Z",
+    "updatedAt": "2024-09-23T03:08:02.385Z",
+    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
   },
   "verses": [
     {
-      "id": "77c5e52f-6d3b-46c9-87e3-0a4366be8e0d",
+      "id": "6af09eb7-c473-44f5-aaec-ebccda4d5b06",
       "number": 1,
-      "content": "Ngày đó, bạn sẽ nói : Lạy ĐỨC CHÚA, con dâng lời cảm tạ :",
+      "content": "Ngày đó, bạn sẽ nói : Lạy [ĐỨC CHÚA](), con dâng lời cảm tạ :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.382Z",
-      "updatedAt": "2024-09-17T10:24:35.382Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.096Z",
+      "updatedAt": "2024-09-23T04:42:44.096Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "015b9a72-55d2-4ca1-89bf-f7fa727b794b",
+      "id": "86a23a7c-5b3f-41c2-8571-005a2924c39a",
       "number": 1,
       "content": "Ngài đã từng thịnh nộ với con,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.395Z",
-      "updatedAt": "2024-09-17T10:24:35.395Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.110Z",
+      "updatedAt": "2024-09-23T04:42:44.110Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "e5aaefcf-fbb0-437b-bf88-b11fa721db37",
+      "id": "4e7d14b6-34f0-4fb3-acb9-87dce8e82622",
       "number": 1,
       "content": "nhưng giờ đây cơn giận đã nguôi rồi, và Ngài lại ban niềm an ủi.",
       "order": 2,
-      "parNumber": 0,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.397Z",
-      "updatedAt": "2024-09-17T10:24:35.397Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
-    },
-    {
-      "id": "689e6fed-8a28-4591-8ef1-1c4affcb67d1",
-      "number": 2,
-      "content": "Đây chính là Thiên Chúa cứu độ tôi,",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.400Z",
-      "updatedAt": "2024-09-17T10:24:35.400Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
-    },
-    {
-      "id": "72845a7b-070d-47df-af50-2d4eafa7d9d9",
-      "number": 2,
-      "content": "tôi tin tưởng và không còn sợ hãi,",
-      "order": 1,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.402Z",
-      "updatedAt": "2024-09-17T10:24:35.402Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
-    },
-    {
-      "id": "157d023b-5bf2-482b-89a3-01b880e088a7",
-      "number": 2,
-      "content": "bởi vì ĐỨC CHÚA là sức mạnh tôi,",
-      "order": 2,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.404Z",
-      "updatedAt": "2024-09-17T10:24:35.404Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
-    },
-    {
-      "id": "9588982c-4681-4e66-9980-1d1c9f6aca5f",
-      "number": 2,
-      "content": "là Đấng tôi ca ngợi, chính Người cứu độ tôi.",
-      "order": 3,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.415Z",
-      "updatedAt": "2024-09-17T10:24:35.415Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
-    },
-    {
-      "id": "8e345bce-05c1-4522-975d-ff2cc77032c4",
-      "number": 3,
-      "content": "Các bạn sẽ vui mừng múc nước tận nguồn ơn cứu độ.",
-      "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.419Z",
-      "updatedAt": "2024-09-17T10:24:35.419Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.112Z",
+      "updatedAt": "2024-09-23T04:42:44.112Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "b5358243-5f17-4994-a559-259447bc7c76",
+      "id": "b7e1503d-5751-4586-a4cb-ad75d97c0e01",
+      "number": 2,
+      "content": "Đây chính là Thiên Chúa cứu độ tôi,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:42:44.114Z",
+      "updatedAt": "2024-09-23T04:42:44.114Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
+    },
+    {
+      "id": "e92a76fa-6279-4191-aba5-ea0c639580c9",
+      "number": 2,
+      "content": "tôi tin tưởng và không còn sợ hãi,",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:42:44.116Z",
+      "updatedAt": "2024-09-23T04:42:44.116Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
+    },
+    {
+      "id": "a1694aca-85bd-4223-8e92-e794a4d384bf",
+      "number": 2,
+      "content": "bởi vì [ĐỨC CHÚA]() là sức mạnh tôi,",
+      "order": 2,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:42:44.117Z",
+      "updatedAt": "2024-09-23T04:42:44.117Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
+    },
+    {
+      "id": "6a30322c-f12f-4d22-ba8d-399880bce14c",
+      "number": 2,
+      "content": "là Đấng tôi ca ngợi, chính Người cứu độ tôi.",
+      "order": 3,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:42:44.123Z",
+      "updatedAt": "2024-09-23T04:42:44.123Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
+    },
+    {
+      "id": "679386cf-4f7b-4573-8780-6101fb9beb23",
+      "number": 3,
+      "content": "Các bạn sẽ vui mừng múc nước tận nguồn ơn cứu độ.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:42:44.126Z",
+      "updatedAt": "2024-09-23T04:42:44.126Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
+    },
+    {
+      "id": "62e51c0b-9269-45af-aa6c-c9d333afe923",
       "number": 4,
       "content": "Các bạn sẽ nói lên trong ngày đó :",
       "order": 0,
-      "parNumber": 3,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.433Z",
-      "updatedAt": "2024-09-17T10:24:35.433Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.133Z",
+      "updatedAt": "2024-09-23T04:42:44.133Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "8ede1479-171a-4e01-96cc-3bcb7333371d",
+      "id": "c071a09e-09a4-425a-b39d-56ddf97caa38",
       "number": 4,
-      "content": "Hãy tạ ơn ĐỨC CHÚA, cầu khẩn danh Người,",
+      "content": "Hãy tạ ơn [ĐỨC CHÚA](), cầu khẩn danh Người,",
       "order": 1,
-      "parNumber": 3,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.437Z",
-      "updatedAt": "2024-09-17T10:24:35.437Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.135Z",
+      "updatedAt": "2024-09-23T04:42:44.135Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "73bbd720-e1df-45ab-99b3-fb6a66a2db74",
+      "id": "aef856ee-80ad-4556-a767-773ed8bfac36",
       "number": 4,
       "content": "vĩ nghiệp của Người, loan báo giữa muôn dân,",
       "order": 2,
-      "parNumber": 3,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.446Z",
-      "updatedAt": "2024-09-17T10:24:35.446Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.149Z",
+      "updatedAt": "2024-09-23T04:42:44.149Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "99026a83-e415-4588-8144-873d7c860c9e",
+      "id": "7c5bebc1-8301-4374-be3f-ed47fe40aa6e",
       "number": 4,
       "content": "và nhắc nhở : danh Người siêu việt.",
       "order": 3,
-      "parNumber": 3,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.450Z",
-      "updatedAt": "2024-09-17T10:24:35.450Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.153Z",
+      "updatedAt": "2024-09-23T04:42:44.153Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "cb62c594-12b0-4f51-ab50-5e64e564af30",
+      "id": "076a6a19-8c1d-456b-b895-63da3161f880",
       "number": 5,
-      "content": "Đàn ca lên mừng ĐỨC CHÚA,",
+      "content": "Đàn ca lên mừng [ĐỨC CHÚA](),",
       "order": 0,
-      "parNumber": 4,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.455Z",
-      "updatedAt": "2024-09-17T10:24:35.455Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.158Z",
+      "updatedAt": "2024-09-23T04:42:44.158Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "fda92bda-254a-4e72-8fa2-5e8b9f884a01",
+      "id": "fcac5cf2-a541-4111-8d2b-18b983d4daaf",
       "number": 5,
       "content": "vì Người đã thực hiện bao kỳ công ;",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.460Z",
-      "updatedAt": "2024-09-17T10:24:35.460Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.163Z",
+      "updatedAt": "2024-09-23T04:42:44.163Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "ec3d2004-4d65-4ec7-97ea-cb455db729b7",
+      "id": "2519c6b0-0253-426c-8e26-b3fe95725984",
       "number": 5,
       "content": "điều đó, phải cho toàn cõi đất được tường.",
       "order": 2,
-      "parNumber": 4,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.464Z",
-      "updatedAt": "2024-09-17T10:24:35.464Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.168Z",
+      "updatedAt": "2024-09-23T04:42:44.168Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "84c0a5a4-a06f-49ec-8788-0d37fcde039b",
+      "id": "51cc0abf-0f01-4fb1-ad7a-ea7b16df2172",
       "number": 6,
-      "content": "Dân Xi-on, hãy reo hò mừng rỡ,",
+      "content": "Dân [Xi-on](), hãy reo hò mừng rỡ,",
       "order": 0,
-      "parNumber": 5,
+      "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.469Z",
-      "updatedAt": "2024-09-17T10:24:35.469Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.173Z",
+      "updatedAt": "2024-09-23T04:42:44.173Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "9625e1e2-13a2-421c-8c03-9b8f9b1c53b9",
+      "id": "744ce623-7f36-40bb-8386-dd23587bb920",
       "number": 6,
-      "content": "vì giữa ngươi, Đức Thánh của Ít-ra-en quả thật là vĩ đại !",
+      "content": "vì giữa ngươi, Đức Thánh của [Ít-ra-en]() quả thật là vĩ đại !",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T10:24:35.479Z",
-      "updatedAt": "2024-09-17T10:24:35.479Z",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.183Z",
+      "updatedAt": "2024-09-23T04:42:44.183Z",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     }
   ],
   "footnotes": [
     {
-      "id": "cd6509cc-94be-4724-8615-0033c3860a72",
-      "content": "12,1-6 : Bài ca kết thúc <i>sách Đức Em-ma-nu-en</i>. Hình thức có vẻ là một thánh vịnh tạ ơn cá nhân, nhưng lại gợi đến bài ca Xh 15 và nghi thức lễ Lều ; c.6 kêu gọi cả Xi-on reo mừng, và kết thúc bằng lời tuyên xưng <i>Đức Thánh của Ít-ra-en</i>. Vậy thì đây là bài ca tạ ơn tiếp theo lời loan báo cuộc xuất hành thứ hai, tương ứng với bài ca sau cuộc xuất hành thứ nhất.",
+      "id": "7cae19cc-82e3-4857-82d1-6f99ef28bfd9",
+      "content": "12,1-6 : Bài ca kết thúc *sách Đức Em-ma-nu-en*. Hình thức có vẻ là một thánh vịnh tạ ơn cá nhân, nhưng lại gợi đến bài ca Xh 15 và nghi thức lễ Lều ; c.6 kêu gọi cả Xi-on reo mừng, và kết thúc bằng lời tuyên xưng *Đức Thánh của Ít-ra-en*. Vậy thì đây là bài ca tạ ơn tiếp theo lời loan báo cuộc xuất hành thứ hai, tương ứng với bài ca sau cuộc xuất hành thứ nhất.",
       "position": 10,
       "order": 0,
-      "createdAt": "2024-09-17T10:24:35.393Z",
-      "updatedAt": "2024-09-17T10:24:35.393Z",
-      "headingId": "b8146ef9-c738-45ec-a1ba-b86e9c79b89b",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.108Z",
+      "updatedAt": "2024-09-23T04:42:44.108Z",
+      "headingId": "a695fd9d-0d53-4e78-8a0d-34162f0ab726",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "018d59ba-ba35-4e93-9411-f53a14456faa",
+      "id": "90b3bb9e-1ae5-41eb-bbb9-8333ebad763d",
       "content": "C.2b lấy lại nguyên văn Xh 15,2 và Tv 117,14.",
-      "position": 31,
+      "position": 35,
       "order": 1,
-      "createdAt": "2024-09-17T10:24:35.406Z",
-      "updatedAt": "2024-09-17T10:24:35.406Z",
-      "verseId": "157d023b-5bf2-482b-89a3-01b880e088a7",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.119Z",
+      "updatedAt": "2024-09-23T04:42:44.119Z",
+      "verseId": "a1694aca-85bd-4223-8e92-e794a4d384bf",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "7032866a-d0d7-4d66-8659-fc000f75bd93",
+      "id": "1bc7d538-bb4e-44e6-9dbb-b538418211a8",
       "content": "C.3 nhắc tới một nghi thức trong lễ Lều : lấy nước ở suối Si-lô-ác ; (x. 8,6) dân đã coi rẻ nước suối Si-lô-ác.",
       "position": 48,
       "order": 2,
-      "createdAt": "2024-09-17T10:24:35.424Z",
-      "updatedAt": "2024-09-17T10:24:35.424Z",
-      "verseId": "8e345bce-05c1-4522-975d-ff2cc77032c4",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.128Z",
+      "updatedAt": "2024-09-23T04:42:44.128Z",
+      "verseId": "679386cf-4f7b-4573-8780-6101fb9beb23",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "5af93b4f-7cc0-46a5-9c14-c38bd30f13ef",
-      "content": "<i>Dân Xi-on</i>, ds : <i>Cô gái ở Xi-on</i>. – <i>Đức Thánh của Ít-ra-en</i> : kiểu nói đặc biệt của I-sai-a.",
-      "position": 9,
+      "id": "173c8fc5-0e9c-4e44-b15d-43b0c556b613",
+      "content": "*Dân Xi-on*, ds : *Cô gái ở Xi-on*. – *Đức Thánh của Ít-ra-en* : kiểu nói đặc biệt của I-sai-a.",
+      "position": 13,
       "order": 3,
-      "createdAt": "2024-09-17T10:24:35.474Z",
-      "updatedAt": "2024-09-17T10:24:35.474Z",
-      "verseId": "84c0a5a4-a06f-49ec-8788-0d37fcde039b",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.178Z",
+      "updatedAt": "2024-09-23T04:42:44.178Z",
+      "verseId": "51cc0abf-0f01-4fb1-ad7a-ea7b16df2172",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     }
   ],
   "headings": [
     {
-      "id": "b8146ef9-c738-45ec-a1ba-b86e9c79b89b",
+      "id": "a695fd9d-0d53-4e78-8a0d-34162f0ab726",
       "content": "Thánh vịnh",
       "order": 0,
-      "createdAt": "2024-09-17T10:24:35.391Z",
-      "updatedAt": "2024-09-17T10:24:35.391Z",
-      "verseId": "77c5e52f-6d3b-46c9-87e3-0a4366be8e0d",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.105Z",
+      "updatedAt": "2024-09-23T04:42:44.105Z",
+      "verseId": "6af09eb7-c473-44f5-aaec-ebccda4d5b06",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     }
   ],
   "references": [
     {
-      "id": "cd9a9701-cac8-4d2a-9cd6-2e1075af0d9c",
+      "id": "f756bedd-7b3c-4a85-9b5f-3a4b42400b7d",
       "content": "Xh 15,2ss",
-      "position": 19,
+      "position": 23,
       "order": 0,
-      "createdAt": "2024-09-17T10:24:35.411Z",
-      "updatedAt": "2024-09-17T10:24:35.411Z",
-      "verseId": "157d023b-5bf2-482b-89a3-01b880e088a7",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.121Z",
+      "updatedAt": "2024-09-23T04:42:44.121Z",
+      "verseId": "a1694aca-85bd-4223-8e92-e794a4d384bf",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "7767b6b1-a1e7-466f-94a8-7051f2d9a4d6",
+      "id": "728916a2-f760-4e0c-bd69-937a5a05f0dc",
       "content": "Is 55,1; Ga 4,11 tt",
       "position": 24,
       "order": 1,
-      "createdAt": "2024-09-17T10:24:35.428Z",
-      "updatedAt": "2024-09-17T10:24:35.428Z",
-      "verseId": "8e345bce-05c1-4522-975d-ff2cc77032c4",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.131Z",
+      "updatedAt": "2024-09-23T04:42:44.131Z",
+      "verseId": "679386cf-4f7b-4573-8780-6101fb9beb23",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     },
     {
-      "id": "92dbc943-0d13-4280-ab60-70a42166fb05",
+      "id": "9f2d2d55-19d4-4081-a498-f5df28b1df26",
       "content": "Tv 105,1ss",
       "position": 0,
       "order": 2,
-      "createdAt": "2024-09-17T10:24:35.442Z",
-      "updatedAt": "2024-09-17T10:24:35.442Z",
-      "verseId": "8ede1479-171a-4e01-96cc-3bcb7333371d",
-      "chapterId": "24fd9351-9b97-4268-b97d-393cd92842b2"
+      "createdAt": "2024-09-23T04:42:44.142Z",
+      "updatedAt": "2024-09-23T04:42:44.142Z",
+      "verseId": "c071a09e-09a4-425a-b39d-56ddf97caa38",
+      "chapterId": "aae671e8-62b7-44de-9f4c-70c1c078c4f2"
     }
   ]
 }

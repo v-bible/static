@@ -1,189 +1,105 @@
 {
   "chapter": {
-    "id": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae",
+    "id": "ff30e70d-88ae-425d-86cf-fa12d7c701ec",
     "number": 20,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.676Z",
-    "updatedAt": "2024-09-17T08:41:12.676Z",
-    "bookId": "870aeab9-56ce-4bd9-8628-3cdad2dcc9df"
+    "createdAt": "2024-09-23T03:08:02.385Z",
+    "updatedAt": "2024-09-23T03:08:02.385Z",
+    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
   },
   "verses": [
     {
-      "id": "2ebbff67-5979-4770-a311-c82ea6d3568d",
-      "number": 1,
-      "content": "Vào năm vua Át-sua là Xác-gôn biệt phái tướng tổng tư lệnh đến giao chiến và hạ thành Át-đốt,",
-      "order": 0,
-      "parNumber": 0,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.649Z",
-      "updatedAt": "2024-09-17T10:24:37.649Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "000900e9-f7a7-4262-91a4-9f4542fd1fcc",
+      "id": "a37e7090-fe8d-49a7-9ac7-6431430c54e6",
       "number": 2,
-      "content": "thì chính lúc ấy, ĐỨC CHÚA phán qua trung gian của ông I-sai-a, con ông A-mốc, rằng : “Hãy bỏ miếng vải thô ngang thắt lưng ngươi đi, và cởi dép khỏi chân.” Theo lời dạy, ông đã ở trần và đi chân không.",
+      "content": "thì chính lúc ấy, [ĐỨC CHÚA]() phán qua trung gian của ông [I-sai-a](), con ông [A-mốc](), rằng : “Hãy bỏ miếng vải thô ngang thắt lưng ngươi đi, và cởi dép khỏi chân.” Theo lời dạy, ông đã ở trần và đi chân không.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.680Z",
-      "updatedAt": "2024-09-17T10:24:37.680Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.506Z",
+      "updatedAt": "2024-09-23T04:43:06.506Z",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     },
     {
-      "id": "3b6c0707-c8c3-4c2c-a197-a85c3887bd2d",
+      "id": "9331af46-26bc-40e1-ade0-90d5aa9cde74",
       "number": 3,
-      "content": "ĐỨC CHÚA lại phán : “Cũng như tôi tớ Ta là I-sai-a suốt ba năm trường đã ở trần và đi chân không để nên dấu hiệu điềm báo cho người Ai-cập và người Cút thế nào,",
+      "content": "[ĐỨC CHÚA]() lại phán : “Cũng như tôi tớ Ta là [I-sai-a]() suốt ba năm trường đã ở trần và đi chân không để nên dấu hiệu điềm báo cho người [Ai-cập]() và người Cút thế nào,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.690Z",
-      "updatedAt": "2024-09-17T10:24:37.690Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.519Z",
+      "updatedAt": "2024-09-23T04:43:06.519Z",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     },
     {
-      "id": "098669f3-909f-48b6-97e0-4dc0ef69526b",
+      "id": "16f9bb43-fd84-4bc0-81cc-147081a17645",
       "number": 4,
-      "content": "thì cũng vậy, vua Át-sua sẽ dẫn người Ai-cập đi tù và người Cút đi đày, trẻ cũng như già, mình trần, chân không, mông hở. Thật là nhục nhã cho người Ai-cập.",
+      "content": "thì cũng vậy, vua [Át-sua]() sẽ dẫn người [Ai-cập]() đi tù và người Cút đi đày, trẻ cũng như già, mình trần, chân không, mông hở. Thật là nhục nhã cho người [Ai-cập]().",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.700Z",
-      "updatedAt": "2024-09-17T10:24:37.700Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.523Z",
+      "updatedAt": "2024-09-23T04:43:06.523Z",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     },
     {
-      "id": "3d31cb65-57de-4ef6-9fc6-d483bbd9e635",
-      "number": 5,
-      "content": "Những ai xem Cút như mối hy vọng và Ai-cập như niềm tự hào sẽ phải sợ hãi và xấu hổ.",
-      "order": 0,
-      "parNumber": 0,
-      "parIndex": 4,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.715Z",
-      "updatedAt": "2024-09-17T10:24:37.715Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "4d5c367f-d076-418e-bceb-8097693e7c04",
+      "id": "6c8669e7-ebd3-48f9-a7d8-29208f8b0ea0",
       "number": 6,
-      "content": "Ngày ấy, dân cư miền duyên hải này sẽ nói : “Đâu rồi niềm hy vọng của chúng ta, nơi chúng ta đến ẩn náu để được giúp đỡ hầu thoát khỏi tay vua Át-sua ? Phần chúng ta, trốn ở đâu bây giờ ?”",
+      "content": "Ngày ấy, dân cư miền duyên hải này sẽ nói : “Đâu rồi niềm hy vọng của chúng ta, nơi chúng ta đến ẩn náu để được giúp đỡ hầu thoát khỏi tay vua [Át-sua]() ? Phần chúng ta, trốn ở đâu bây giờ ?”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T10:24:37.729Z",
-      "updatedAt": "2024-09-17T10:24:37.729Z",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.530Z",
+      "updatedAt": "2024-09-23T04:43:06.530Z",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     }
   ],
   "footnotes": [
     {
-      "id": "a7f1af89-d8b8-47d8-baf9-a4f49018bb67",
-      "content": "I-sai-a làm điềm báo cho Ai-cập. I-sai-a đã chống lại lời yêu cầu của sứ giả Ai-cập, can ngăn vua Khít-ki-gia-hu đừng theo Ai-cập. Át-đốt và một số nước đã nghe theo và nổi dậy năm 714. Có lẽ vua Khít-ki-gia-hu cũng ngả theo phe nổi dậy. I-sai-a nhận lệnh làm điềm báo cho Ai-cập, nhưng gián tiếp là để cảnh cáo vua xứ Giu-đa. Mùa xuân năm 711, vua Át-sua là Xác-gôn sai quân đánh Át-đốt. Ai-cập không giữ lời hứa.",
-      "position": 15,
-      "order": 0,
-      "createdAt": "2024-09-17T10:24:37.665Z",
-      "updatedAt": "2024-09-17T10:24:37.665Z",
-      "headingId": "52c04cd5-ae57-49d9-834a-f870c4d4ee17",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "7af035b8-1a84-4e93-bb40-016cd40c5780",
-      "content": "Câu này được viết sau khi biến cố xảy ra năm 711. Nhưng từ năm 713, Át-sua đã truất phế vua xứ Át-đốt và đặt vua mới. I-sai-a đã thi hành lệnh này từ năm 713 hoặc năm 714 (trước đó 3 năm).",
-      "position": 0,
-      "order": 1,
-      "createdAt": "2024-09-17T10:24:37.670Z",
-      "updatedAt": "2024-09-17T10:24:37.670Z",
-      "verseId": "2ebbff67-5979-4770-a311-c82ea6d3568d",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "32384f7d-b406-4e72-adb9-d631346bbece",
-      "content": "<i>Ở trần, đi chân không</i> : dân thua trận bị dẫn đi lưu đày như thế.",
-      "position": 201,
+      "id": "db215854-10ef-4fa9-8370-50236c006d10",
+      "content": "*Ở trần, đi chân không* : dân thua trận bị dẫn đi lưu đày như thế.",
+      "position": 213,
       "order": 2,
-      "createdAt": "2024-09-17T10:24:37.685Z",
-      "updatedAt": "2024-09-17T10:24:37.685Z",
-      "verseId": "000900e9-f7a7-4262-91a4-9f4542fd1fcc",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.517Z",
+      "updatedAt": "2024-09-23T04:43:06.517Z",
+      "verseId": "a37e7090-fe8d-49a7-9ac7-6431430c54e6",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     },
     {
-      "id": "ee106bcc-f76f-4c17-9420-e7630395326c",
-      "content": "<i>Dấu hiệu điềm báo</i> : x. 8,18. – <i>Ai-cập và Cút</i> : x.ch. 18. Triều đại Ê-thi-óp đã thống nhất cả Ai-cập.",
-      "position": 121,
+      "id": "1ae51d61-0690-40b3-ad22-0038264b57b3",
+      "content": "*Dấu hiệu điềm báo* : x. 8,18. – *Ai-cập và Cút* : x.ch. 18. Triều đại Ê-thi-óp đã thống nhất cả Ai-cập.",
+      "position": 129,
       "order": 3,
-      "createdAt": "2024-09-17T10:24:37.696Z",
-      "updatedAt": "2024-09-17T10:24:37.696Z",
-      "verseId": "3b6c0707-c8c3-4c2c-a197-a85c3887bd2d",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.521Z",
+      "updatedAt": "2024-09-23T04:43:06.521Z",
+      "verseId": "9331af46-26bc-40e1-ade0-90d5aa9cde74",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     },
     {
-      "id": "5eb5e64e-e052-4f85-9c88-76f950f499ad",
+      "id": "8e785964-9635-45ba-b56d-1117146a0c74",
       "content": "Trong thực tế thì dân Ai-cập không bị đi đày, bởi vì Ai-cập đã bỏ mặc các nước chống Át-sua.",
-      "position": 155,
+      "position": 167,
       "order": 4,
-      "createdAt": "2024-09-17T10:24:37.705Z",
-      "updatedAt": "2024-09-17T10:24:37.705Z",
-      "verseId": "098669f3-909f-48b6-97e0-4dc0ef69526b",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "66c39477-4715-4f84-9d54-064a17dffaa7",
-      "content": "20,5-6 : Chẳng những Ai-cập không yểm trợ phe chống Át-sua, mà khi vua Át-đốt chạy trốn qua Ai-cập, ông còn bị trao vào tay vua Át-sua.",
-      "position": 0,
-      "order": 5,
-      "createdAt": "2024-09-17T10:24:37.719Z",
-      "updatedAt": "2024-09-17T10:24:37.719Z",
-      "verseId": "3d31cb65-57de-4ef6-9fc6-d483bbd9e635",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.526Z",
+      "updatedAt": "2024-09-23T04:43:06.526Z",
+      "verseId": "16f9bb43-fd84-4bc0-81cc-147081a17645",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     }
   ],
-  "headings": [
-    {
-      "id": "52c04cd5-ae57-49d9-834a-f870c4d4ee17",
-      "content": "Hạ thành Át-đốt",
-      "order": 0,
-      "createdAt": "2024-09-17T10:24:37.660Z",
-      "updatedAt": "2024-09-17T10:24:37.660Z",
-      "verseId": "2ebbff67-5979-4770-a311-c82ea6d3568d",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    }
-  ],
+  "headings": [],
   "references": [
     {
-      "id": "89373c49-6235-4f48-913c-446be1a1bafd",
-      "content": "2 V 18,17",
-      "position": 8,
-      "order": 0,
-      "createdAt": "2024-09-17T10:24:37.675Z",
-      "updatedAt": "2024-09-17T10:24:37.675Z",
-      "verseId": "2ebbff67-5979-4770-a311-c82ea6d3568d",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "33cd87f6-4e79-4fd5-8919-9adc78d8ba51",
+      "id": "0570ba40-ff76-424b-a251-8bae9518bf0e",
       "content": "2 Sm 10,4",
-      "position": 113,
+      "position": 121,
       "order": 1,
-      "createdAt": "2024-09-17T10:24:37.710Z",
-      "updatedAt": "2024-09-17T10:24:37.710Z",
-      "verseId": "098669f3-909f-48b6-97e0-4dc0ef69526b",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
-    },
-    {
-      "id": "6e362985-ff91-4dcf-9f42-2b27e86675f8",
-      "content": "Is 30,3-7",
-      "position": 77,
-      "order": 2,
-      "createdAt": "2024-09-17T10:24:37.724Z",
-      "updatedAt": "2024-09-17T10:24:37.724Z",
-      "verseId": "3d31cb65-57de-4ef6-9fc6-d483bbd9e635",
-      "chapterId": "ecba9721-9c9d-4783-a8fb-6c6b595c8cae"
+      "createdAt": "2024-09-23T04:43:06.528Z",
+      "updatedAt": "2024-09-23T04:43:06.528Z",
+      "verseId": "16f9bb43-fd84-4bc0-81cc-147081a17645",
+      "chapterId": "ff30e70d-88ae-425d-86cf-fa12d7c701ec"
     }
   ]
 }
