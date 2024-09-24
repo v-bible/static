@@ -1,259 +1,259 @@
 {
   "chapter": {
-    "id": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa",
+    "id": "cb627120-384e-4b10-a765-8608aa05fc65",
     "number": 124,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "8f3ce73c-3dbe-46ce-aa83-89e637ab7f47",
+      "id": "91a14295-610f-498c-9d4e-e4db3c0df4e8",
       "number": 1,
-      "content": "Ca khúc lên Đền. Của vua Đa-vít.",
+      "content": "*Ca khúc lên Đền. Của vua [Đa-vít]().*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:55:52.495Z",
-      "updatedAt": "2024-09-17T09:55:52.495Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.010Z",
+      "updatedAt": "2024-09-23T04:20:19.010Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "dc3e6257-1f40-4702-8d2b-0f9f0dc3f79c",
-      "number": 1,
-      "content": "Nếu mà CHÚA chẳng đỡ bênh ta,",
-      "order": 1,
-      "parNumber": 0,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.503Z",
-      "updatedAt": "2024-09-17T09:55:52.503Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "926b8e74-43a0-4072-953c-5d2d800a5f3c",
-      "number": 1,
-      "content": "nhà Ít-ra-en hãy nói rằng :",
-      "order": 2,
-      "parNumber": 0,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.505Z",
-      "updatedAt": "2024-09-17T09:55:52.505Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "a1d21aff-7abf-4548-a44d-63fd9ab4b5dc",
+      "id": "57a3a9d4-6d93-470e-b313-de97ea37ee91",
       "number": 2,
       "content": "Nếu mà CHÚA chẳng đỡ bênh ta,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.508Z",
-      "updatedAt": "2024-09-17T09:55:52.508Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.021Z",
+      "updatedAt": "2024-09-23T04:20:19.021Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "6b8e557a-c66e-44e4-937a-ba67f802ff05",
+      "id": "0da9f661-3504-4f70-9444-80e9d0957a58",
+      "number": 1,
+      "content": "Nếu mà CHÚA chẳng đỡ bênh ta,",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.017Z",
+      "updatedAt": "2024-09-23T04:20:19.017Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "b963f5f8-9680-4843-8fea-a177a1c840c5",
+      "number": 1,
+      "content": "nhà [Ít-ra-en]() hãy nói rằng :",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.019Z",
+      "updatedAt": "2024-09-23T04:20:19.019Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "701ec2cf-fcea-48ca-8f7f-8b6d5421c182",
       "number": 2,
       "content": "khi thiên hạ nhằm ta xông tới,",
       "order": 1,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.511Z",
-      "updatedAt": "2024-09-17T09:55:52.511Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "46fe7f6c-aa49-4704-92aa-e6af40e6e743",
-      "number": 3,
-      "content": "hẳn là họ đã nuốt sống ta rồi,",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.513Z",
-      "updatedAt": "2024-09-17T09:55:52.513Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "790dfcae-04d0-415d-bee8-872fc2501c63",
-      "number": 3,
-      "content": "lúc đùng đùng giận ta như vậy ;",
-      "order": 1,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.518Z",
-      "updatedAt": "2024-09-17T09:55:52.518Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "a2acdcbb-9b4c-4736-9fce-d6d56371cc91",
-      "number": 4,
-      "content": "hẳn là nước đã cuốn ta đi,",
-      "order": 0,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.520Z",
-      "updatedAt": "2024-09-17T09:55:52.520Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "ec5fd87e-3c36-4d9f-833d-7c2030674263",
-      "number": 4,
-      "content": "dòng thác lũ dâng lên ngập đầu ngập cổ ;",
-      "order": 1,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.523Z",
-      "updatedAt": "2024-09-17T09:55:52.523Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
-    },
-    {
-      "id": "f1b9c10e-04c8-4b90-aba9-f1502c2f85a7",
-      "number": 5,
-      "content": "hẳn là nước cuồn cuộn đã dâng lên ngập cổ ngập đầu.",
-      "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.525Z",
-      "updatedAt": "2024-09-17T09:55:52.525Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.025Z",
+      "updatedAt": "2024-09-23T04:20:19.025Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "14b8cdd2-fe8f-4abe-935a-b560be0f62cc",
-      "number": 6,
-      "content": "Xin chúc tụng ĐỨC CHÚA",
+      "id": "e38bb286-3c6f-418d-9ad4-f2bc299d551f",
+      "number": 3,
+      "content": "hẳn là họ đã nuốt sống ta rồi,",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.527Z",
-      "updatedAt": "2024-09-17T09:55:52.527Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.027Z",
+      "updatedAt": "2024-09-23T04:20:19.027Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "754bfa1c-cdf2-41e5-b684-2e95de944391",
+      "id": "d9eeb1a5-f590-4890-8bf6-c999b0fcf2fb",
+      "number": 3,
+      "content": "lúc đùng đùng giận ta như vậy ;",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.031Z",
+      "updatedAt": "2024-09-23T04:20:19.031Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "e20e66f8-d51f-4f4f-a536-3ad546e0fd2b",
+      "number": 4,
+      "content": "hẳn là nước đã cuốn ta đi,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.033Z",
+      "updatedAt": "2024-09-23T04:20:19.033Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "f69c9068-4235-4c2c-a146-c43190a2e29a",
+      "number": 4,
+      "content": "dòng thác lũ dâng lên ngập đầu ngập cổ ;",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.037Z",
+      "updatedAt": "2024-09-23T04:20:19.037Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "d0bac914-6d51-4055-a1a1-9f2680494634",
+      "number": 5,
+      "content": "hẳn là nước cuồn cuộn đã dâng lên ngập cổ ngập đầu.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.041Z",
+      "updatedAt": "2024-09-23T04:20:19.041Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "9855183a-a05b-4eb1-9e46-c8c74895605e",
+      "number": 6,
+      "content": "[Xin]() chúc tụng [ĐỨC CHÚA]()",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:20:19.046Z",
+      "updatedAt": "2024-09-23T04:20:19.046Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
+    },
+    {
+      "id": "cf77009d-7bf6-4ccf-ad02-04d1b3628755",
       "number": 6,
       "content": "đã không bỏ mặc ta làm mồi ngon cho nanh vuốt họ.",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.529Z",
-      "updatedAt": "2024-09-17T09:55:52.529Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.050Z",
+      "updatedAt": "2024-09-23T04:20:19.050Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "6c05bdc7-0a9c-4817-b2ae-1bb1a3b0872f",
+      "id": "a5e54faf-2dae-4ec0-b65d-401b718ca7ee",
       "number": 7,
       "content": "Hồn ta tựa cánh chim thoát lưới người đánh bẫy ;",
       "order": 0,
-      "parNumber": 6,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.532Z",
-      "updatedAt": "2024-09-17T09:55:52.532Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.055Z",
+      "updatedAt": "2024-09-23T04:20:19.055Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "76b41ad5-2c20-45e3-b04f-fd7816bf745b",
+      "id": "cabdff58-50b9-4d8a-972c-712f97dd163a",
       "number": 7,
       "content": "lưới giăng đã đứt rồi, thế là ta thoát nạn.",
       "order": 1,
-      "parNumber": 6,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.536Z",
-      "updatedAt": "2024-09-17T09:55:52.536Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.064Z",
+      "updatedAt": "2024-09-23T04:20:19.064Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "9c613ba9-504c-4805-a474-b3ab80121f7b",
+      "id": "ec1bd7de-35ac-4d17-a21b-f09f9aed5486",
       "number": 8,
       "content": "Ta được phù hộ là nhờ danh thánh CHÚA,",
       "order": 0,
-      "parNumber": 7,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.538Z",
-      "updatedAt": "2024-09-17T09:55:52.538Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.068Z",
+      "updatedAt": "2024-09-23T04:20:19.068Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "7363ee8c-debe-4b33-bf50-efaa226361fd",
+      "id": "6ce5d6ed-7d09-40df-bb16-a496ce7acd00",
       "number": 8,
       "content": "Đấng đã dựng nên cả đất trời.",
       "order": 1,
-      "parNumber": 7,
+      "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:55:52.540Z",
-      "updatedAt": "2024-09-17T09:55:52.540Z",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.072Z",
+      "updatedAt": "2024-09-23T04:20:19.072Z",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     }
   ],
   "footnotes": [
     {
-      "id": "53d99465-6948-4ede-89e9-59f90ecff563",
-      "content": "Sau những thử thách lớn được những hình ảnh cổ truyền miêu tả (ác thú, nước lũ, bẫy chim), cộng đoàn Ít-ra-en dâng lên Đức Chúa <i>Tv tạ ơn này của tập thể</i>. Tv 124 gồm những phần sau đây : <b>1</b>) Hiểm hoạ quá khứ (cc. 1-5) ; <b>2</b>) Lời tạ ơn vì được thoát nạn (cc. 6-7) ; <b>3</b>) Lời tuyên xưng kết thúc (c.8).",
-      "position": 59,
+      "id": "636b4d74-b594-4e78-ba42-b3a1a7bbbd44",
+      "content": "Sau những thử thách lớn được những hình ảnh cổ truyền miêu tả (ác thú, nước lũ, bẫy chim), cộng đoàn Ít-ra-en dâng lên Đức Chúa *Tv tạ ơn này của tập thể*. Tv 124 gồm những phần sau đây : **1**) Hiểm hoạ quá khứ (cc. 1-5) ; **2**) Lời tạ ơn vì được thoát nạn (cc. 6-7) ; **3**) Lời tuyên xưng kết thúc (c.8).",
+      "position": 67,
       "order": 0,
-      "createdAt": "2024-09-17T09:55:52.501Z",
-      "updatedAt": "2024-09-17T09:55:52.501Z",
-      "headingId": "3125c055-2e98-462e-b871-0ed334be6770",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.015Z",
+      "updatedAt": "2024-09-23T04:20:19.015Z",
+      "headingId": "3ae80374-e8dd-4d81-a5ed-311341d227c2",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "67bfaf13-a899-47fa-8914-569191a6016f",
-      "content": "Câu <i>Nếu mà Chúa chẳng đỡ bênh ta</i> được lặp lại để làm nổi bật ý tưởng.",
+      "id": "a072a9e9-e165-4c1c-91b7-c8ed66ed799e",
+      "content": "Câu *Nếu mà Chúa chẳng đỡ bênh ta* được lặp lại để làm nổi bật ý tưởng.",
       "position": 28,
       "order": 1,
-      "createdAt": "2024-09-17T09:55:52.509Z",
-      "updatedAt": "2024-09-17T09:55:52.509Z",
-      "verseId": "a1d21aff-7abf-4548-a44d-63fd9ab4b5dc",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.023Z",
+      "updatedAt": "2024-09-23T04:20:19.023Z",
+      "verseId": "57a3a9d4-6d93-470e-b313-de97ea37ee91",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     }
   ],
   "headings": [
     {
-      "id": "3125c055-2e98-462e-b871-0ed334be6770",
-      "content": "Tv 124 (123) Ít-ra-en được phù hộ khi kêu cầu danh ĐỨC CHÚA",
+      "id": "3ae80374-e8dd-4d81-a5ed-311341d227c2",
+      "content": "Tv 124 (123) [Ít-ra-en]() được phù hộ khi kêu cầu danh [ĐỨC CHÚA]()",
       "order": 0,
-      "createdAt": "2024-09-17T09:55:52.497Z",
-      "updatedAt": "2024-09-17T09:55:52.497Z",
-      "verseId": "8f3ce73c-3dbe-46ce-aa83-89e637ab7f47",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.013Z",
+      "updatedAt": "2024-09-23T04:20:19.013Z",
+      "verseId": "91a14295-610f-498c-9d4e-e4db3c0df4e8",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     }
   ],
   "references": [
     {
-      "id": "3206c2ed-4e05-4d92-a738-5520f97f455f",
+      "id": "25312b2b-44c4-42d6-b820-40258d79efeb",
       "content": "Gr 51,34",
       "position": 13,
       "order": 0,
-      "createdAt": "2024-09-17T09:55:52.516Z",
-      "updatedAt": "2024-09-17T09:55:52.516Z",
-      "verseId": "46fe7f6c-aa49-4704-92aa-e6af40e6e743",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.029Z",
+      "updatedAt": "2024-09-23T04:20:19.029Z",
+      "verseId": "e38bb286-3c6f-418d-9ad4-f2bc299d551f",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     },
     {
-      "id": "95e4edea-a163-4975-a210-6622d14c3ca7",
+      "id": "6d579e96-2eac-4951-ae5b-786d627dfe70",
       "content": "Cn 6,5",
       "position": 21,
       "order": 1,
-      "createdAt": "2024-09-17T09:55:52.534Z",
-      "updatedAt": "2024-09-17T09:55:52.534Z",
-      "verseId": "6c05bdc7-0a9c-4817-b2ae-1bb1a3b0872f",
-      "chapterId": "c4bb92ec-7738-4fe3-a3bc-6ff1da6be3fa"
+      "createdAt": "2024-09-23T04:20:19.059Z",
+      "updatedAt": "2024-09-23T04:20:19.059Z",
+      "verseId": "a5e54faf-2dae-4ec0-b65d-401b718ca7ee",
+      "chapterId": "cb627120-384e-4b10-a765-8608aa05fc65"
     }
   ]
 }

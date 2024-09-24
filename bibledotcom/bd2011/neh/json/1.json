@@ -1,201 +1,201 @@
 {
   "chapter": {
-    "id": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90",
+    "id": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9",
     "number": 1,
     "ref": "https://www.bible.com/bible/19/NEH.1.BD2011",
-    "createdAt": "2024-09-07T11:51:10.053Z",
-    "updatedAt": "2024-09-07T11:51:10.053Z",
-    "bookId": "86c2d9db-205b-402d-98ab-1fc89103c722"
+    "createdAt": "2024-09-23T05:08:39.992Z",
+    "updatedAt": "2024-09-23T05:08:39.992Z",
+    "bookId": "f2d71f6f-fa4a-4c62-9fec-531ad30b2db3"
   },
   "verses": [
     {
-      "id": "9a15d32c-da10-4278-8f88-33598362a069",
+      "id": "91114681-4e72-4d2f-a236-be3e71c675a2",
       "number": 1,
       "content": "Đây là những lời của Nê-hê-mi con của Ha-ca-li-a:",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.374Z",
-      "updatedAt": "2024-09-07T13:33:02.374Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.544Z",
+      "updatedAt": "2024-09-23T05:38:12.544Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "1545fc8a-dd6e-4f61-9cd4-7c964c21528c",
+      "id": "1fa3ccf5-9ed1-4c03-8c02-57457e361ad8",
       "number": 1,
       "content": "Vào tháng Kích-lê của năm thứ hai mươi, khi tôi đang ở trong cung điện của vua tại Su-sa,",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.374Z",
-      "updatedAt": "2024-09-07T13:33:02.374Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.555Z",
+      "updatedAt": "2024-09-23T05:38:12.555Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "fac1715d-f43d-4f6b-8141-e28bb8e780ee",
+      "id": "cb3d3b7c-692a-4b2a-a0e0-90a24b9e55a8",
       "number": 2,
       "content": "một người trong số các anh em của tôi tên là Ha-na-ni và một vài người từ Giu-đa đến thăm tôi. Tôi hỏi họ về tình hình của những người Do-thái còn sót lại, tức những người không bị bắt đem đi lưu đày, và tôi cũng hỏi thăm họ về Giê-ru-sa-lem.",
       "order": 0,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.384Z",
-      "updatedAt": "2024-09-07T13:33:02.384Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.560Z",
+      "updatedAt": "2024-09-23T05:38:12.560Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "4c621ecb-005b-4b33-8e5f-2ad3b53df29c",
+      "id": "b40d8a1d-eaf3-4ecf-88d5-68487bc9d215",
       "number": 3,
       "content": "Họ đáp, “Những người Do-thái còn sót lại trong tỉnh, tức những người không bị bắt đem đi lưu đày, đang ở trong tình cảnh rất khốn khó và nhục nhã. Bức tường bao quanh Thành Giê-ru-sa-lem đã bị sụp đổ, còn các cổng thành đều đã bị lửa thiêu rụi.”",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.390Z",
-      "updatedAt": "2024-09-07T13:33:02.390Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.562Z",
+      "updatedAt": "2024-09-23T05:38:12.562Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "32a0fd22-045c-40f5-8663-82692a42952c",
+      "id": "319c2953-00f0-4064-8a2b-01f8b9c6fb07",
       "number": 4,
       "content": "Khi nghe những lời ấy xong, tôi ngồi và khóc. Tôi rầu rĩ như người thọ tang suốt mấy ngày. Tôi kiêng ăn và dâng lời cầu nguyện lên Đức Chúa Trời trên trời.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:38:12.564Z",
+      "updatedAt": "2024-09-23T05:38:12.564Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
+    },
+    {
+      "id": "219da36c-9c56-4ec7-8078-4dfed4ef94f9",
+      "number": 5,
+      "content": "Tôi nói, “Lạy **CHÚA**, Đức Chúa Trời trên trời, Đức Chúa Trời vĩ đại và đáng sợ, Đấng giữ giao ước và bày tỏ tình thương đối với ai yêu kính Ngài và vâng giữ các điều răn Ngài,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:38:12.565Z",
+      "updatedAt": "2024-09-23T05:38:12.565Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
+    },
+    {
+      "id": "3ece3d58-8bf0-4437-b0aa-f4dcfbf53ea0",
+      "number": 6,
+      "content": "cầu xin Ngài lắng tai nghe và mở mắt nhìn, để nhậm lời cầu nguyện của con, tôi tớ Ngài, đang ngày đêm dâng lên vì các tôi tớ Ngài là dân I-sơ-ra-ên. Con xưng nhận các tội lỗi của dân I-sơ-ra-ên mà chúng con đã phạm đối với Ngài, kể cả nhà của tổ tiên con và chính con đã phạm.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.395Z",
-      "updatedAt": "2024-09-07T13:33:02.395Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.567Z",
+      "updatedAt": "2024-09-23T05:38:12.567Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "95210cfb-9d15-463c-b7ab-3b81419fd01d",
-      "number": 5,
-      "content": "Tôi nói, “Lạy CHÚA, Đức Chúa Trời trên trời, Đức Chúa Trời vĩ đại và đáng sợ, Đấng giữ giao ước và bày tỏ tình thương đối với ai yêu kính Ngài và vâng giữ các điều răn Ngài,",
-      "order": 0,
-      "parNumber": 5,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.401Z",
-      "updatedAt": "2024-09-07T13:33:02.401Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
-    },
-    {
-      "id": "a7ea36d7-095a-4983-8624-6f7c0f044050",
-      "number": 6,
-      "content": "cầu xin Ngài lắng tai nghe và mở mắt nhìn, để nhậm lời cầu nguyện của con, tôi tớ Ngài, đang ngày đêm dâng lên vì các tôi tớ Ngài là dân I-sơ-ra-ên. Con xưng nhận các tội lỗi của dân I-sơ-ra-ên mà chúng con đã phạm đối với Ngài, kể cả nhà của tổ tiên con và chính con đã phạm.",
-      "order": 0,
-      "parNumber": 5,
-      "parIndex": 2,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.406Z",
-      "updatedAt": "2024-09-07T13:33:02.406Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
-    },
-    {
-      "id": "404ce8ee-7693-4231-84f6-d74ae5d5261f",
+      "id": "c10b16b9-bbdd-4262-8a96-fd3a4853b4f8",
       "number": 7,
       "content": "Chúng con đã làm đau lòng Ngài rất nhiều; chúng con đã không vâng giữ các điều răn, mạng lịnh, và luật lệ mà Ngài đã truyền cho Môi-se tôi tớ Ngài.",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 3,
+      "parNumber": 4,
+      "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.412Z",
-      "updatedAt": "2024-09-07T13:33:02.412Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.569Z",
+      "updatedAt": "2024-09-23T05:38:12.569Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "dc6e05c6-6f00-4231-ae78-3c616ee199a3",
+      "id": "5f127079-a3d8-494b-b9ad-4260e500ad21",
       "number": 8,
       "content": "Cầu xin Ngài nhớ lại lời Ngài đã truyền cho Môi-se tôi tớ Ngài rằng, ‘Nếu các ngươi bất trung, Ta sẽ tung rải các ngươi ra giữa các dân;",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 4,
+      "parNumber": 4,
+      "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.417Z",
-      "updatedAt": "2024-09-07T13:33:02.417Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.571Z",
+      "updatedAt": "2024-09-23T05:38:12.571Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "ec932f6b-a91f-4c71-b6d6-2099718d6085",
+      "id": "916c6428-7ec5-4393-b351-b6b2b428ef34",
       "number": 9,
       "content": "nhưng nếu các ngươi trở về với Ta, gìn giữ, và vâng theo các điều răn của Ta, thì dù những kẻ bị lưu đày của các ngươi ở xa xăm bất cứ nơi nào, Ta cũng sẽ tập họp chúng lại ở đó mà đem chúng về nơi Ta đã chọn để đặt danh Ta.’",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 5,
+      "parNumber": 4,
+      "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.422Z",
-      "updatedAt": "2024-09-07T13:33:02.422Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.573Z",
+      "updatedAt": "2024-09-23T05:38:12.573Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "d6b39e6c-8703-40c2-a5fd-abd0d5203464",
+      "id": "9cb7d0f9-70a5-417a-a106-fb738be9b848",
       "number": 10,
       "content": "Họ là các tôi tớ Ngài và dân Ngài; họ là những người Ngài đã chuộc bằng quyền năng lớn lao và bằng cánh tay mạnh mẽ của Ngài.",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 6,
+      "parNumber": 4,
+      "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.427Z",
-      "updatedAt": "2024-09-07T13:33:02.427Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.575Z",
+      "updatedAt": "2024-09-23T05:38:12.575Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "99e78de4-2d10-4679-a7ed-f58a64a7b769",
+      "id": "0427aba1-78eb-409c-a0c4-4fd1af399fe9",
       "number": 11,
       "content": "Lạy Chúa, xin lắng nghe lời cầu nguyện của tôi tớ Ngài và lời cầu nguyện của các con cái Ngài, những người lấy làm vui mà kính sợ danh Ngài. Cầu xin Ngài cho con được thành công hôm nay và cho con được ơn trước mặt người này.”",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 7,
+      "parNumber": 4,
+      "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.433Z",
-      "updatedAt": "2024-09-07T13:33:02.433Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.577Z",
+      "updatedAt": "2024-09-23T05:38:12.577Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "b7ac366d-c2ca-4555-9b2e-0db78a5cee35",
+      "id": "a309d644-83f3-4f41-b128-a33a95b33609",
       "number": 11,
       "content": "Bấy giờ, tôi đang làm quan dâng rượu cho vua.",
       "order": 1,
-      "parNumber": 6,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T13:33:02.433Z",
-      "updatedAt": "2024-09-07T13:33:02.433Z",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.581Z",
+      "updatedAt": "2024-09-23T05:38:12.581Z",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     }
   ],
   "footnotes": [
     {
-      "id": "84d05442-4684-4832-ad33-984e559a2ce6",
+      "id": "968c4e05-b41c-452b-ab3d-e65e45a8e4a2",
       "content": "Khoảng tháng 11 hay 12 năm 445 T.C.",
       "position": 39,
       "order": 0,
-      "createdAt": "2024-09-07T13:33:09.998Z",
-      "updatedAt": "2024-09-07T13:33:09.998Z",
-      "verseId": "1545fc8a-dd6e-4f61-9cd4-7c964c21528c",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.557Z",
+      "updatedAt": "2024-09-23T05:38:12.557Z",
+      "verseId": "1fa3ccf5-9ed1-4c03-8c02-57457e361ad8",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     },
     {
-      "id": "2918fe7f-7484-43f4-9c26-79b07bd2a576",
+      "id": "f1903466-3cf1-42ae-a585-5bf28d8dea1d",
       "content": "nt: nó",
       "position": 196,
       "order": 1,
-      "createdAt": "2024-09-07T13:33:10.042Z",
-      "updatedAt": "2024-09-07T13:33:10.042Z",
-      "verseId": "99e78de4-2d10-4679-a7ed-f58a64a7b769",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.579Z",
+      "updatedAt": "2024-09-23T05:38:12.579Z",
+      "verseId": "0427aba1-78eb-409c-a0c4-4fd1af399fe9",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     }
   ],
   "headings": [
     {
-      "id": "64bc958d-86f1-4597-ac31-f78bc182e045",
+      "id": "4c9fb942-33f8-4be1-b586-70b23431b3be",
       "content": "Nê-hê-mi Cầu Nguyện cho Dân Tộc Ông",
       "order": 0,
-      "createdAt": "2024-09-07T13:33:16.046Z",
-      "updatedAt": "2024-09-07T13:33:16.046Z",
-      "verseId": "9a15d32c-da10-4278-8f88-33598362a069",
-      "chapterId": "9dc82def-9e0e-4eb2-8c8d-97c1d345ab90"
+      "createdAt": "2024-09-23T05:38:12.553Z",
+      "updatedAt": "2024-09-23T05:38:12.553Z",
+      "verseId": "91114681-4e72-4d2f-a236-be3e71c675a2",
+      "chapterId": "a91afb9c-e4ab-401d-a53c-7c9f2c8463f9"
     }
   ],
   "references": []

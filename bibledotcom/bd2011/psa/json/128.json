@@ -1,188 +1,206 @@
 {
   "chapter": {
-    "id": "4f08bd62-9c12-4140-8580-f16709fa106c",
+    "id": "71493ff7-db25-4018-aa1a-4599f1cdf6d2",
     "number": 128,
     "ref": "https://www.bible.com/bible/19/PSA.128.BD2011",
-    "createdAt": "2024-09-07T11:51:11.541Z",
-    "updatedAt": "2024-09-07T11:51:11.541Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.645Z",
+    "updatedAt": "2024-09-23T05:08:40.645Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "38a4de6c-6dac-4eb5-bea7-25160d0b2529",
+      "id": "7fe8483b-fa81-4b58-8843-f24dcd7f6059",
       "number": 1,
-      "content": "Phước cho người kính sợ CHÚA,",
+      "content": "Phước cho người kính sợ **CHÚA**,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.924Z",
-      "updatedAt": "2024-09-07T14:23:09.924Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.809Z",
+      "updatedAt": "2024-09-23T05:55:10.809Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "d4d3cde1-6fff-447f-9e6c-c4d22ab52809",
+      "id": "e99331f2-7ea4-46b7-888d-93fe15d8e630",
       "number": 1,
       "content": "Người đi trong đường lối Ngài.",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.924Z",
-      "updatedAt": "2024-09-07T14:23:09.924Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.829Z",
+      "updatedAt": "2024-09-23T05:55:10.829Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "e04e5067-838d-4eb2-9355-d4b626c8a613",
+      "id": "1aaef38d-3bb6-4d35-91a2-6dbcb1cb2854",
       "number": 2,
       "content": "Bạn sẽ hưởng hoa lợi của tay mình;",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.934Z",
-      "updatedAt": "2024-09-07T14:23:09.934Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.834Z",
+      "updatedAt": "2024-09-23T05:55:10.834Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "fee66bb0-93c1-4ad1-b56e-6aa95ea54f20",
+      "id": "b149a99b-c2c3-47c6-8628-f84d229008e1",
       "number": 2,
       "content": "Bạn sẽ được phước và thịnh vượng.",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.934Z",
-      "updatedAt": "2024-09-07T14:23:09.934Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.837Z",
+      "updatedAt": "2024-09-23T05:55:10.837Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "abbc580e-a776-4a3d-a153-abcbb5cd1c24",
+      "id": "b2f91cd7-dd0d-4f4b-ac86-a0952903b6ea",
       "number": 3,
       "content": "Vợ bạn sẽ như cây nho sai trái trong nhà bạn;",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 1,
+      "parNumber": 4,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.936Z",
-      "updatedAt": "2024-09-07T14:23:09.936Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.840Z",
+      "updatedAt": "2024-09-23T05:55:10.840Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "caf3d6d5-e8e9-4759-8713-a27ba0d4cbbe",
+      "id": "44a21983-ca64-445f-9d6f-6dbc910a1396",
       "number": 3,
       "content": "Con cái bạn sẽ như các chồi ô-liu quanh bàn bạn.",
       "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:55:10.843Z",
+      "updatedAt": "2024-09-23T05:55:10.843Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
+    },
+    {
+      "id": "2ddf521c-9402-47c3-80e5-cc2e2495572e",
+      "number": 4,
+      "content": "Kìa, người nào kính sợ **CHÚA**",
+      "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.936Z",
-      "updatedAt": "2024-09-07T14:23:09.936Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.850Z",
+      "updatedAt": "2024-09-23T05:55:10.850Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "4cf5ec54-9593-4999-bda9-364118a5ef8d",
-      "number": 4,
-      "content": "Kìa, người nào kính sợ CHÚA",
-      "order": 0,
-      "parNumber": 7,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.939Z",
-      "updatedAt": "2024-09-07T14:23:09.939Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
-    },
-    {
-      "id": "1f173c10-e00a-42b3-861e-d6ffe93e4568",
+      "id": "3f022285-5db1-4fcc-b0ce-e7ed7b91dce1",
       "number": 4,
       "content": "Sẽ được phước như vậy.",
       "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:55:10.856Z",
+      "updatedAt": "2024-09-23T05:55:10.856Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
+    },
+    {
+      "id": "e4a5f26e-6384-4ec0-a234-b36be02a5475",
+      "number": 5,
+      "content": "Nguyện **CHÚA** ban phước cho bạn từ Si-ôn.",
+      "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.939Z",
-      "updatedAt": "2024-09-07T14:23:09.939Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.861Z",
+      "updatedAt": "2024-09-23T05:55:10.861Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "5065310f-0844-487c-b778-f10306fcee61",
-      "number": 5,
-      "content": "Nguyện CHÚA ban phước cho bạn từ Si-ôn.",
-      "order": 0,
-      "parNumber": 9,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.941Z",
-      "updatedAt": "2024-09-07T14:23:09.941Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
-    },
-    {
-      "id": "ecaa89ac-118a-4ba9-8732-280309a797be",
+      "id": "4b4e7749-bbc6-4806-a438-bc559647a838",
       "number": 5,
       "content": "Nguyện suốt đời bạn",
       "order": 1,
-      "parNumber": 10,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.941Z",
-      "updatedAt": "2024-09-07T14:23:09.941Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.865Z",
+      "updatedAt": "2024-09-23T05:55:10.865Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "5aa9d99e-49a7-47bc-b8c2-9f4cf73fd0fd",
+      "id": "313a4e4d-859b-4087-ba58-cdcc5f6312cf",
       "number": 5,
       "content": "Chứng kiến những phước hạnh của Giê-ru-sa-lem.",
       "order": 2,
-      "parNumber": 11,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.941Z",
-      "updatedAt": "2024-09-07T14:23:09.941Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.869Z",
+      "updatedAt": "2024-09-23T05:55:10.869Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "d06316b3-e05b-408b-b217-05010b2e61e1",
+      "id": "09510238-d502-490c-a0dc-bc6b9e6bbeef",
       "number": 6,
       "content": "Nguyện bạn được nhìn thấy con cháu của con cái bạn.",
       "order": 0,
-      "parNumber": 12,
-      "parIndex": 1,
+      "parNumber": 11,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.943Z",
-      "updatedAt": "2024-09-07T14:23:09.943Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.874Z",
+      "updatedAt": "2024-09-23T05:55:10.874Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     },
     {
-      "id": "37dadef4-cf1f-475b-bea9-9e1e51749c9e",
+      "id": "7d3d355d-7136-455c-be11-3386db92b619",
       "number": 6,
       "content": "Nguyện hòa bình thịnh vượng đến trên I-sơ-ra-ên.",
       "order": 1,
-      "parNumber": 13,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:23:09.943Z",
-      "updatedAt": "2024-09-07T14:23:09.943Z",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.878Z",
+      "updatedAt": "2024-09-23T05:55:10.878Z",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "e560595d-58d0-45b3-b70f-a4e722492487",
-      "content": "Phước Hạnh của Người Kính Sợ CHÚA",
+      "id": "def2ec64-0947-44dc-831e-0386633960ef",
+      "content": "Phước Hạnh của Người Kính Sợ",
       "order": 0,
-      "createdAt": "2024-09-07T14:23:12.191Z",
-      "updatedAt": "2024-09-07T14:23:12.191Z",
-      "verseId": "38a4de6c-6dac-4eb5-bea7-25160d0b2529",
-      "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+      "createdAt": "2024-09-23T05:55:10.820Z",
+      "updatedAt": "2024-09-23T05:55:10.820Z",
+      "verseId": "7fe8483b-fa81-4b58-8843-f24dcd7f6059",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
+    },
+    {
+      "id": "ef165cd6-263d-4b11-ac1f-431afe4b2a73",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:55:10.823Z",
+      "updatedAt": "2024-09-23T05:55:10.823Z",
+      "verseId": "7fe8483b-fa81-4b58-8843-f24dcd7f6059",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
+    },
+    {
+      "id": "497a8cdc-f34b-459b-8fae-bc0859d5627d",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:55:10.826Z",
+      "updatedAt": "2024-09-23T05:55:10.826Z",
+      "verseId": "7fe8483b-fa81-4b58-8843-f24dcd7f6059",
+      "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "58a4eb35-da1d-4787-8b99-5eebb79191ce",
+    "id": "87b610c7-f779-4295-918f-885eb1093de7",
     "title": "Bài ca đi lên đền thánh",
-    "createdAt": "2024-09-07T14:23:14.914Z",
-    "updatedAt": "2024-09-07T14:23:14.914Z",
-    "chapterId": "4f08bd62-9c12-4140-8580-f16709fa106c"
+    "createdAt": "2024-09-23T05:55:11.940Z",
+    "updatedAt": "2024-09-23T05:55:11.940Z",
+    "chapterId": "71493ff7-db25-4018-aa1a-4599f1cdf6d2"
   }
 }

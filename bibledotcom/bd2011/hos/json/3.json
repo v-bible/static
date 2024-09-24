@@ -1,115 +1,142 @@
 {
   "chapter": {
-    "id": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69",
+    "id": "417aae41-fb7d-488b-a739-99fbb7ae4ee8",
     "number": 3,
     "ref": "https://www.bible.com/bible/19/HOS.3.BD2011",
-    "createdAt": "2024-09-07T11:51:12.891Z",
-    "updatedAt": "2024-09-07T11:51:12.891Z",
-    "bookId": "29f7e7cf-50a1-479e-94a2-0a42acf6401f"
+    "createdAt": "2024-09-23T05:08:41.514Z",
+    "updatedAt": "2024-09-23T05:08:41.514Z",
+    "bookId": "cc5501c8-9a45-4a4c-be0a-5c92fd635f3f"
   },
   "verses": [
     {
-      "id": "1a09dcba-750a-4383-bf25-e827004f6706",
+      "id": "bcf1409f-048b-49bc-853b-cb76091f21a4",
       "number": 1,
-      "content": "CHÚA phán với tôi, “Hãy đi, hãy thương yêu vợ của ngươi, mặc dù bà ấy đang thương một người đàn ông khác và là một người vợ ngoại tình, giống như CHÚA yêu thương dân I-sơ-ra-ên, mặc dù họ đã hướng theo các thần khác và mê các bánh cúng làm bằng nho khô.”",
+      "content": "**CHÚA** phán với tôi, “Hãy đi, hãy thương yêu vợ của ngươi, mặc dù bà ấy đang thương một người đàn ông khác và là một người vợ ngoại tình, giống như **CHÚA** yêu thương dân I-sơ-ra-ên, mặc dù họ đã hướng theo các thần khác và mê các bánh cúng làm bằng nho khô.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T06:09:12.490Z",
+      "updatedAt": "2024-09-23T06:09:12.490Z",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
+    },
+    {
+      "id": "6df4a3c9-83d1-4054-b3cc-57a71450498e",
+      "number": 2,
+      "content": "Vậy tôi lấy mười lăm miếng bạc và ba tạ lúa mạch đem mua nàng về.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T15:18:03.218Z",
-      "updatedAt": "2024-09-07T15:18:03.218Z",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.522Z",
+      "updatedAt": "2024-09-23T06:09:12.522Z",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     },
     {
-      "id": "86f90622-ddc7-4d0f-9d56-9762ef4fef26",
-      "number": 2,
-      "content": "Vậy tôi lấy mười lăm miếng bạc và ba tạ lúa mạch đem mua nàng về.",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T15:18:03.227Z",
-      "updatedAt": "2024-09-07T15:18:03.227Z",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
-    },
-    {
-      "id": "0993874c-2ee4-45a6-9547-bd804f86c3b2",
+      "id": "9f3211ec-be5c-42ee-8fcb-c5279f060a91",
       "number": 3,
       "content": "Tôi nói với nàng, “Trong thời gian dài sắp tới, em phải chung tình với anh. Em sẽ không được làm điếm nữa. Em sẽ không được ăn nằm với bất cứ người đàn ông nào nữa, thì anh sẽ luôn tốt với em.”",
       "order": 0,
-      "parNumber": 2,
-      "parIndex": 2,
+      "parNumber": 1,
+      "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T15:18:03.229Z",
-      "updatedAt": "2024-09-07T15:18:03.229Z",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.536Z",
+      "updatedAt": "2024-09-23T06:09:12.536Z",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     },
     {
-      "id": "310d3c84-59f0-431d-8b84-bfe1c8a07336",
+      "id": "691bbb17-166e-409c-bd25-6e4c75049b62",
       "number": 4,
       "content": "Thật vậy dân I-sơ-ra-ên sẽ trải qua một thời gian dài không vua, không người lãnh đạo, không của tế lễ, không trụ thờ, không ê-phót, và không thần riêng của gia đình.",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T15:18:03.233Z",
-      "updatedAt": "2024-09-07T15:18:03.233Z",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.541Z",
+      "updatedAt": "2024-09-23T06:09:12.541Z",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     },
     {
-      "id": "8de6380d-2dcd-4d0e-aab7-9c6918d3ceb0",
+      "id": "20f45048-5ff3-406b-9109-b609e6e0f937",
       "number": 5,
-      "content": "Sau đó dân I-sơ-ra-ên sẽ quay về và tìm kiếm CHÚA, Đức Chúa Trời của họ, và Đa-vít vua họ. Họ sẽ kính sợ CHÚA và vui về phước hạnh của Ngài trong những ngày sau.",
+      "content": "Sau đó dân I-sơ-ra-ên sẽ quay về và tìm kiếm **CHÚA**, Đức Chúa Trời của họ, và Đa-vít vua họ. Họ sẽ kính sợ **CHÚA** và vui về phước hạnh của Ngài trong những ngày sau.",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 2,
+      "parNumber": 2,
+      "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T15:18:03.238Z",
-      "updatedAt": "2024-09-07T15:18:03.238Z",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.550Z",
+      "updatedAt": "2024-09-23T06:09:12.550Z",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     }
   ],
   "footnotes": [
     {
-      "id": "f0b11062-0e70-436e-b00f-bff7a7db4765",
-      "content": "nt: tê-ra-phim",
-      "position": 166,
-      "order": 0,
-      "createdAt": "2024-09-07T15:18:04.422Z",
-      "updatedAt": "2024-09-07T15:18:04.422Z",
-      "verseId": "310d3c84-59f0-431d-8b84-bfe1c8a07336",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
-    },
-    {
-      "id": "93489e4a-534d-42b5-ac17-f77806d1ab31",
+      "id": "5d63b765-9cf4-47be-a5ef-78fba09549ab",
       "content": "nt: 15 sê-ken, tương đương 172 gờ-ram",
       "position": 26,
       "order": 0,
-      "createdAt": "2024-09-07T15:18:04.421Z",
-      "updatedAt": "2024-09-07T15:18:04.421Z",
-      "verseId": "86f90622-ddc7-4d0f-9d56-9762ef4fef26",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.527Z",
+      "updatedAt": "2024-09-23T06:09:12.527Z",
+      "verseId": "6df4a3c9-83d1-4054-b3cc-57a71450498e",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     },
     {
-      "id": "983402e9-d09c-4f2a-880b-c623bd5181d2",
+      "id": "1674f7ff-1ed3-4f09-a8c9-204b4eb28ca4",
       "content": "nt: 1,5 hô-me, khoảng 3 tạ (330 lít)",
       "position": 39,
+      "order": 1,
+      "createdAt": "2024-09-23T06:09:12.531Z",
+      "updatedAt": "2024-09-23T06:09:12.531Z",
+      "verseId": "6df4a3c9-83d1-4054-b3cc-57a71450498e",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
+    },
+    {
+      "id": "a5f11364-51b7-41e7-9986-b3f3a225bd44",
+      "content": "nt: tê-ra-phim",
+      "position": 166,
       "order": 2,
-      "createdAt": "2024-09-07T15:18:04.439Z",
-      "updatedAt": "2024-09-07T15:18:04.439Z",
-      "verseId": "86f90622-ddc7-4d0f-9d56-9762ef4fef26",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.545Z",
+      "updatedAt": "2024-09-23T06:09:12.545Z",
+      "verseId": "691bbb17-166e-409c-bd25-6e4c75049b62",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     }
   ],
   "headings": [
     {
-      "id": "54fb5b65-7404-48d2-aa18-721eb2dd0922",
-      "content": "Ân Sủng của CHÚA Đối Với Kẻ Bất Trung",
+      "id": "d80ff2fe-9c88-4b50-a720-8357447a5d88",
+      "content": "Ân Sủng của",
       "order": 0,
-      "createdAt": "2024-09-07T15:18:06.763Z",
-      "updatedAt": "2024-09-07T15:18:06.763Z",
-      "verseId": "1a09dcba-750a-4383-bf25-e827004f6706",
-      "chapterId": "92d86d6f-b6d9-4b3b-ad41-cd1c2b4ebc69"
+      "createdAt": "2024-09-23T06:09:12.503Z",
+      "updatedAt": "2024-09-23T06:09:12.503Z",
+      "verseId": "bcf1409f-048b-49bc-853b-cb76091f21a4",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
+    },
+    {
+      "id": "971078b2-4be3-4b3e-bb9f-477054d2ecbb",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T06:09:12.508Z",
+      "updatedAt": "2024-09-23T06:09:12.508Z",
+      "verseId": "bcf1409f-048b-49bc-853b-cb76091f21a4",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
+    },
+    {
+      "id": "15fdccde-7327-40a1-a786-c1dc403bb3f0",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T06:09:12.513Z",
+      "updatedAt": "2024-09-23T06:09:12.513Z",
+      "verseId": "bcf1409f-048b-49bc-853b-cb76091f21a4",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
+    },
+    {
+      "id": "9fefc892-71f6-42d9-8140-bb015d97039c",
+      "content": "Đối Với Kẻ Bất Trung",
+      "order": 3,
+      "createdAt": "2024-09-23T06:09:12.517Z",
+      "updatedAt": "2024-09-23T06:09:12.517Z",
+      "verseId": "bcf1409f-048b-49bc-853b-cb76091f21a4",
+      "chapterId": "417aae41-fb7d-488b-a739-99fbb7ae4ee8"
     }
   ],
   "references": []

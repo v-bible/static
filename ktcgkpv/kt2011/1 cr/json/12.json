@@ -1,666 +1,634 @@
 {
   "chapter": {
-    "id": "879f5d14-b333-4aee-83db-acb753ad4ecd",
+    "id": "52129588-5b9d-4c50-b627-6e0adb06932b",
     "number": 12,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.107Z",
-    "updatedAt": "2024-09-17T08:41:12.107Z",
-    "bookId": "ba374484-3cf9-4446-92a1-28eba38d0b82"
+    "createdAt": "2024-09-23T03:08:01.762Z",
+    "updatedAt": "2024-09-23T03:08:01.762Z",
+    "bookId": "4b1e311f-d590-4f21-aa22-ae5ce4b89c43"
   },
   "verses": [
     {
-      "id": "d81e738c-7371-4ac9-a2c3-9bd53a9ba043",
+      "id": "eaa255a3-261f-4804-b080-a4bd64311378",
       "number": 1,
       "content": "Thưa anh em, tôi không muốn để anh em chẳng hay biết gì về các ân huệ thiêng liêng.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.466Z",
-      "updatedAt": "2024-09-17T09:03:04.466Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.474Z",
+      "updatedAt": "2024-09-23T03:23:12.474Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "20d2abf3-bcd1-45c4-a326-d4a37fe42049",
+      "id": "349b2f30-4e03-4eca-af48-30e3acec80a0",
       "number": 2,
       "content": "Anh em biết rằng khi còn là người ngoại, anh em bị lôi cuốn mãnh liệt vào việc thờ cúng các ngẫu tượng câm.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.480Z",
-      "updatedAt": "2024-09-17T09:03:04.480Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.488Z",
+      "updatedAt": "2024-09-23T03:23:12.488Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "8fef4128-3dca-4b3d-95e3-ec1a349d6f49",
+      "id": "83e3941a-8e51-44a2-86dd-a3725b0e131e",
       "number": 3,
-      "content": "Vì thế, tôi nói cho anh em biết : chẳng có ai ở trong Thần Khí Thiên Chúa mà lại nói : “Giê-su là đồ khốn kiếp !” ; cũng không ai có thể nói rằng : “Đức Giê-su là Chúa”, nếu người ấy không ở trong Thần Khí.",
+      "content": "Vì thế, tôi nói cho anh em biết : chẳng có ai ở trong Thần Khí Thiên Chúa mà lại nói : “[Giê-su]() là đồ khốn kiếp !” ; cũng không ai có thể nói rằng : “Đức [Giê-su]() là Chúa”, nếu người ấy không ở trong Thần Khí.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.484Z",
-      "updatedAt": "2024-09-17T09:03:04.484Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.493Z",
+      "updatedAt": "2024-09-23T03:23:12.493Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "b8947df9-2a90-4fae-a1f0-ef00896f9186",
+      "id": "b4f995d2-d6cd-4374-8555-bca8101ab9de",
       "number": 4,
       "content": "Có nhiều đặc sủng khác nhau, nhưng chỉ có một Thần Khí.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.490Z",
-      "updatedAt": "2024-09-17T09:03:04.490Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.505Z",
+      "updatedAt": "2024-09-23T03:23:12.505Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "ae919ffb-d32a-4e44-bcdf-ffe1a85d2954",
+      "id": "cf3770f3-0475-410f-a90d-bee3f102590c",
       "number": 5,
       "content": "Có nhiều việc phục vụ khác nhau, nhưng chỉ có một Chúa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.497Z",
-      "updatedAt": "2024-09-17T09:03:04.497Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.517Z",
+      "updatedAt": "2024-09-23T03:23:12.517Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "c73ed9e7-e67c-44ca-9138-b9a2365e37ba",
+      "id": "730d4fe5-f3ea-4685-b360-196ac8df041d",
       "number": 6,
       "content": "Có nhiều hoạt động khác nhau, nhưng vẫn chỉ có một Thiên Chúa làm mọi sự trong mọi người.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.499Z",
-      "updatedAt": "2024-09-17T09:03:04.499Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.521Z",
+      "updatedAt": "2024-09-23T03:23:12.521Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "f0df7d2f-be19-46a9-9284-7bb83cee5da8",
+      "id": "1fd61d16-df95-4931-8dd4-768b26fbc185",
       "number": 7,
       "content": "Thần Khí tỏ mình ra nơi mỗi người một cách, là vì ích chung.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.503Z",
-      "updatedAt": "2024-09-17T09:03:04.503Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.530Z",
+      "updatedAt": "2024-09-23T03:23:12.530Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "a62b9391-b55b-41e8-b482-3c2dab35d60d",
-      "number": 8,
-      "content": "Người thì được Thần Khí ban cho ơn khôn ngoan để giảng dạy, người thì được Thần Khí ban cho ơn hiểu biết để trình bày.",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 4,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.507Z",
-      "updatedAt": "2024-09-17T09:03:04.507Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
-    },
-    {
-      "id": "4dd12b28-f3d5-402f-a422-aa7ee69e26fc",
+      "id": "b3233421-6b71-46dc-9fce-8b1045146cb9",
       "number": 9,
       "content": "Kẻ thì được Thần Khí ban cho lòng tin ; kẻ thì cũng được chính Thần Khí duy nhất ấy ban cho những đặc sủng để chữa bệnh.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.515Z",
-      "updatedAt": "2024-09-17T09:03:04.515Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.539Z",
+      "updatedAt": "2024-09-23T03:23:12.539Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "8c2f146a-deaf-4fe7-8de3-ef9e8fbfad35",
+      "id": "caa7ab16-2bf6-46c0-a2c3-e304ffa95a99",
       "number": 10,
       "content": "Người thì được ơn làm phép lạ, người thì được ơn nói tiên tri ; kẻ thì được ơn phân định thần khí ; kẻ khác thì được ơn nói các thứ tiếng lạ ; kẻ khác nữa lại được ơn giải thích các tiếng lạ.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.521Z",
-      "updatedAt": "2024-09-17T09:03:04.521Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.547Z",
+      "updatedAt": "2024-09-23T03:23:12.547Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "25047e7b-ad95-4eb7-bd2e-a1f2cdfcaed3",
+      "id": "6264e51d-bd26-4500-9d34-a64a89e30688",
       "number": 11,
       "content": "Nhưng chính Thần Khí duy nhất ấy làm ra tất cả những điều đó và phân chia cho mỗi người mỗi cách, tuỳ theo ý của Người.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.532Z",
-      "updatedAt": "2024-09-17T09:03:04.532Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.562Z",
+      "updatedAt": "2024-09-23T03:23:12.562Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "a30835cd-eeed-49f7-893a-d3e5bf5a135c",
+      "id": "2ebaed4b-0d63-485d-9c8d-cf9f6bed9ef1",
       "number": 12,
-      "content": "Thật vậy, ví như thân thể người ta chỉ là một, nhưng lại có nhiều bộ phận, mà các bộ phận của thân thể tuy nhiều, nhưng vẫn là một thân thể, thì Đức Ki-tô cũng vậy.",
+      "content": "Thật vậy, ví như thân thể người ta chỉ là một, nhưng lại có nhiều bộ phận, mà các bộ phận của thân thể tuy nhiều, nhưng vẫn là một thân thể, thì Đức [Ki-tô]() cũng vậy.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.539Z",
-      "updatedAt": "2024-09-17T09:03:04.539Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.571Z",
+      "updatedAt": "2024-09-23T03:23:12.571Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "e3a74b87-c878-46a7-856f-963cea5a24e9",
+      "id": "8d247e5a-1b0f-47de-a036-f792939f721c",
       "number": 13,
-      "content": "Thật thế, tất cả chúng ta, dầu là Do-thái hay Hy-lạp, nô lệ hay tự do, chúng ta đều đã chịu phép rửa trong cùng một Thần Khí để trở nên một thân thể. Tất cả chúng ta đã được đầy tràn một Thần Khí duy nhất.",
+      "content": "Thật thế, tất cả chúng ta, dầu là Do-thái hay [Hy-lạp](), nô lệ hay tự do, chúng ta đều đã chịu phép rửa trong cùng một Thần Khí để trở nên một thân thể. Tất cả chúng ta đã được đầy tràn một Thần Khí duy nhất.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.557Z",
-      "updatedAt": "2024-09-17T09:03:04.557Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.589Z",
+      "updatedAt": "2024-09-23T03:23:12.589Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "1596436a-7a6d-4570-8f81-a7ffdec5ef2a",
+      "id": "c8a78769-f17c-4c84-bd6d-d8633f549216",
       "number": 14,
       "content": "Thật vậy, thân thể gồm nhiều bộ phận, chứ không phải chỉ có một mà thôi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.566Z",
-      "updatedAt": "2024-09-17T09:03:04.566Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.597Z",
+      "updatedAt": "2024-09-23T03:23:12.597Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "61dfc2e4-700e-4729-913f-5aa7d8fc161e",
+      "id": "486ed1e4-8d6c-4182-bf04-c4a9e0c2dfca",
       "number": 15,
       "content": "Giả như chân có nói : “Tôi không phải là tay, nên tôi không thuộc về thân thể”, thì cũng chẳng vì thế mà nó không thuộc về thân thể.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.570Z",
-      "updatedAt": "2024-09-17T09:03:04.570Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.601Z",
+      "updatedAt": "2024-09-23T03:23:12.601Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "f4580bd4-3700-42eb-82ba-8781a1d55765",
+      "id": "338d93ce-e787-4f15-be7d-a0b93e51d819",
       "number": 16,
       "content": "Giả như tai có nói : “Tôi không phải là mắt, vậy tôi không thuộc về thân thể”, thì cũng chẳng vì thế mà nó không thuộc về thân thể.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.575Z",
-      "updatedAt": "2024-09-17T09:03:04.575Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.606Z",
+      "updatedAt": "2024-09-23T03:23:12.606Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "0eeefb6d-c48b-4cd7-8fc7-35894409a9f2",
+      "id": "eb6b6bae-8360-4712-95ad-10109e0efd5c",
       "number": 17,
       "content": "Giả như toàn thân chỉ là mắt, thì lấy gì mà nghe ? Giả như toàn thân chỉ là tai, thì lấy gì mà ngửi ?",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.579Z",
-      "updatedAt": "2024-09-17T09:03:04.579Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.610Z",
+      "updatedAt": "2024-09-23T03:23:12.610Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "0ea15c16-cb6c-4d9d-86b1-0cf6d2eb05d6",
+      "id": "c80d9c62-9172-4b3d-959a-27b1da7c0beb",
       "number": 18,
       "content": "Nhưng Thiên Chúa đã đặt mỗi bộ phận vào một chỗ trong thân thể như ý Người muốn.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.583Z",
-      "updatedAt": "2024-09-17T09:03:04.583Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.615Z",
+      "updatedAt": "2024-09-23T03:23:12.615Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "9bc9602f-2557-454e-929f-588dd4f78789",
+      "id": "129417ed-1f58-453f-b4c3-4ca8b55bb5f0",
       "number": 19,
       "content": "Giả như tất cả chỉ là một thứ bộ phận, thì làm sao mà thành thân thể được ?",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.587Z",
-      "updatedAt": "2024-09-17T09:03:04.587Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.619Z",
+      "updatedAt": "2024-09-23T03:23:12.619Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "89346e9b-d16b-4d09-8ad5-9dde459a5a0d",
+      "id": "6708baf4-b9ed-40fc-9752-f5ddce94cb2e",
       "number": 20,
       "content": "Như thế, bộ phận tuy nhiều mà thân thể chỉ có một.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.591Z",
-      "updatedAt": "2024-09-17T09:03:04.591Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.623Z",
+      "updatedAt": "2024-09-23T03:23:12.623Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "fc7ac96a-ed3f-4fb1-a2d7-4024a70876ed",
+      "id": "9002614f-4ecf-4575-9de5-f08e04301349",
       "number": 21,
       "content": "Vậy mắt không có thể bảo tay : “Tao không cần đến mày” ; đầu cũng không thể bảo hai chân : “Tao không cần chúng mày.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.595Z",
-      "updatedAt": "2024-09-17T09:03:04.595Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.627Z",
+      "updatedAt": "2024-09-23T03:23:12.627Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "06391913-855e-4b2e-ab3a-d80d1a4f9693",
+      "id": "a50169a9-d803-46a3-a288-5c181497c16f",
       "number": 22,
       "content": "Hơn nữa, những bộ phận xem ra yếu đuối nhất thì lại là cần thiết nhất ;",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.600Z",
-      "updatedAt": "2024-09-17T09:03:04.600Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.632Z",
+      "updatedAt": "2024-09-23T03:23:12.632Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "ab437874-4e69-4175-a838-a40c13c69e8d",
+      "id": "22a89c5b-1e61-4a66-a5a7-1af756b64ddf",
       "number": 23,
       "content": "và những bộ phận ta coi là tầm thường nhất, thì ta lại tôn trọng hơn cả. Những bộ phận kém trang nhã, thì ta lại mặc cho chúng trang nhã hơn hết.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.603Z",
-      "updatedAt": "2024-09-17T09:03:04.603Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.636Z",
+      "updatedAt": "2024-09-23T03:23:12.636Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "728ec826-2921-4ee5-bd2f-ff6a7f0f7dfb",
+      "id": "80031992-187a-4f3b-8227-d901941a29c6",
       "number": 24,
       "content": "Còn những bộ phận trang nhã thì không cần gì cả. Nhưng Thiên Chúa đã khéo xếp đặt các bộ phận trong thân thể, để bộ phận nào kém thì được tôn trọng nhiều hơn.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.612Z",
-      "updatedAt": "2024-09-17T09:03:04.612Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.644Z",
+      "updatedAt": "2024-09-23T03:23:12.644Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "1ed05edc-b42d-4014-9468-9db6c45e9e44",
+      "id": "29708b55-269d-40d3-9c2b-2577e5c59a69",
       "number": 25,
       "content": "Như thế, không có chia rẽ trong thân thể, trái lại các bộ phận đều lo lắng cho nhau.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.616Z",
-      "updatedAt": "2024-09-17T09:03:04.616Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.649Z",
+      "updatedAt": "2024-09-23T03:23:12.649Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "b70a4cbc-7fdd-4864-9c44-e50fe2e3c5cf",
+      "id": "af94ed2d-f90d-4d1a-99fd-5e418716fbdc",
       "number": 26,
       "content": "Nếu một bộ phận nào đau, thì mọi bộ phận cùng đau. Nếu một bộ phận nào được vẻ vang, thì mọi bộ phận cũng vui chung.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.620Z",
-      "updatedAt": "2024-09-17T09:03:04.620Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.653Z",
+      "updatedAt": "2024-09-23T03:23:12.653Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "fc253213-5313-408a-a2fa-c504cab2e325",
+      "id": "dcf464f7-19ca-45da-9a3b-1cd8d5c5f504",
       "number": 27,
-      "content": "Vậy anh em, anh em là thân thể Đức Ki-tô, và mỗi người là một bộ phận.",
+      "content": "Vậy anh em, anh em là thân thể Đức [Ki-tô](), và mỗi người là một bộ phận.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.628Z",
-      "updatedAt": "2024-09-17T09:03:04.628Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.661Z",
+      "updatedAt": "2024-09-23T03:23:12.661Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "7abe7bd7-b69a-4193-b41b-1008e104852a",
+      "id": "420d9da9-5765-474c-977f-4224b159062c",
       "number": 28,
       "content": "Trong Hội Thánh, Thiên Chúa đã đặt một số người, thứ nhất là các Tông Đồ, thứ hai là các ngôn sứ, thứ ba là các thầy dạy, rồi đến những người được ơn làm phép lạ, được những đặc sủng để chữa bệnh, để giúp đỡ người khác, để quản trị, để nói các thứ tiếng lạ.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.636Z",
-      "updatedAt": "2024-09-17T09:03:04.636Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.669Z",
+      "updatedAt": "2024-09-23T03:23:12.669Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "9782ed08-af25-47a8-925e-2e1bded620a0",
+      "id": "4f2077ba-48d1-48b0-8700-f4d72af5f463",
       "number": 29,
       "content": "Chẳng lẽ ai cũng là tông đồ ? Chẳng lẽ ai cũng là ngôn sứ, ai cũng là thầy dạy sao ? Chẳng lẽ ai cũng được ơn làm phép lạ,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.654Z",
-      "updatedAt": "2024-09-17T09:03:04.654Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.690Z",
+      "updatedAt": "2024-09-23T03:23:12.690Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "9c3827c5-e0bd-4a74-8e65-6a329e06793e",
+      "id": "94b18569-1f59-4f07-9538-ca6b12f920a8",
       "number": 30,
       "content": "ai cũng được ơn chữa bệnh sao ? Chẳng lẽ ai cũng nói được các tiếng lạ, ai cũng giải thích được các tiếng lạ sao ?",
       "order": 0,
       "parNumber": 6,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.658Z",
-      "updatedAt": "2024-09-17T09:03:04.658Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.694Z",
+      "updatedAt": "2024-09-23T03:23:12.694Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "fd0bb66e-f006-4346-a029-3599a1f72bbc",
+      "id": "b10dd769-7280-46b2-b88e-5b58aaade1bb",
       "number": 31,
       "content": "Trong các ân huệ của Thiên Chúa, anh em cứ tha thiết tìm những ơn cao trọng nhất. Nhưng đây tôi xin chỉ cho anh em con đường trổi vượt hơn cả.",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:03:04.662Z",
-      "updatedAt": "2024-09-17T09:03:04.662Z",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.698Z",
+      "updatedAt": "2024-09-23T03:23:12.698Z",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     }
   ],
   "footnotes": [
     {
-      "id": "523f9b44-cd69-4a1f-96c2-c79778fbae72",
-      "content": "Các ch. 12-14 nói về việc sử dụng cho tốt các ân huệ của Thánh Thần gọi là <i>đặc sủng</i> (<i>kharisma</i>). Các đặc sủng được Thánh Thần ban cho cộng đoàn là để chứng minh cách cụ thể sự hiện diện của Người giữa cộng đoàn, và để trợ giúp các cộng đoàn hãy còn non trẻ chưa được đức tin thấm nhuần đủ để cải thiện nếp sống còn nặng ảnh hưởng ngoại giáo. Nhưng giáo dân Cô-rin-tô lại bị cám dỗ ưa chuộng những ân huệ rầm rộ bên ngoài hơn, và lạm dụng những ân huệ đó trong một bầu khí xô bồ thường hay gặp thấy trong những nghi lễ ngoại giáo. Vậy thánh Phao-lô phản đối, nói rõ chức năng của đặc sủng là xây dựng cộng đoàn, vì thế không nên lấy đó làm dịp cạnh tranh nhau (ch. 12). Tiếp theo, ngài cho thấy đức mến trổi vượt trên tất cả các đặc sủng (ch. 13). Cuối cùng, tiêu chuẩn để đánh giá đúng mức tầm quan trọng của mỗi đặc sủng là phần đóng góp của nó vào việc xây dựng cộng đoàn (ch. 14). Ngoài ra, không nên nghĩ rằng trong các đoạn này, thánh Phao-lô liệt kê toàn bộ các đặc sủng, hoặc xếp theo một thứ tự nào đó.",
+      "id": "43ba405a-7c07-42b1-9f37-a79ddc9210da",
+      "content": "Các ch. 12-14 nói về việc sử dụng cho tốt các ân huệ của Thánh Thần gọi là *đặc sủng* (*kharisma*). Các đặc sủng được Thánh Thần ban cho cộng đoàn là để chứng minh cách cụ thể sự hiện diện của Người giữa cộng đoàn, và để trợ giúp các cộng đoàn hãy còn non trẻ chưa được đức tin thấm nhuần đủ để cải thiện nếp sống còn nặng ảnh hưởng ngoại giáo. Nhưng giáo dân Cô-rin-tô lại bị cám dỗ ưa chuộng những ân huệ rầm rộ bên ngoài hơn, và lạm dụng những ân huệ đó trong một bầu khí xô bồ thường hay gặp thấy trong những nghi lễ ngoại giáo. Vậy thánh Phao-lô phản đối, nói rõ chức năng của đặc sủng là xây dựng cộng đoàn, vì thế không nên lấy đó làm dịp cạnh tranh nhau (ch. 12). Tiếp theo, ngài cho thấy đức mến trổi vượt trên tất cả các đặc sủng (ch. 13). Cuối cùng, tiêu chuẩn để đánh giá đúng mức tầm quan trọng của mỗi đặc sủng là phần đóng góp của nó vào việc xây dựng cộng đoàn (ch. 14). Ngoài ra, không nên nghĩ rằng trong các đoạn này, thánh Phao-lô liệt kê toàn bộ các đặc sủng, hoặc xếp theo một thứ tự nào đó.",
       "position": 32,
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.478Z",
-      "updatedAt": "2024-09-17T09:03:04.478Z",
-      "headingId": "071ba0cf-d435-40d7-94eb-b933f9fbbe4e",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.486Z",
+      "updatedAt": "2024-09-23T03:23:12.486Z",
+      "headingId": "57a8bd37-c0f3-4d5d-8c55-bb6efe795316",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "6980c42a-30ef-40ce-81ba-e814f6549a6a",
+      "id": "0c1f44f3-058f-4f4d-b402-b489aa76cfbc",
       "content": "C. 2 này, tuy không rõ ràng về mặt ngữ pháp, nhưng rõ ý. Thánh Phao-lô nhắc lại quá khứ còn rất gần của giáo dân Cô-rin-tô, để giúp họ phân biệt hai bầu khí khác nhau : hiếu động và thác loạn trong các nghi thức ngoại giáo, bác ái và bình an trong các buổi hội họp của những người Ki-tô hữu.",
       "position": 106,
       "order": 1,
-      "createdAt": "2024-09-17T09:03:04.482Z",
-      "updatedAt": "2024-09-17T09:03:04.482Z",
-      "verseId": "20d2abf3-bcd1-45c4-a326-d4a37fe42049",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.490Z",
+      "updatedAt": "2024-09-23T03:23:12.490Z",
+      "verseId": "349b2f30-4e03-4eca-af48-30e3acec80a0",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "25815d11-867c-44b9-a3f6-4cd72e423f40",
-      "content": "<i>Đồ khốn kiếp</i> dịch từ Hy-lạp <i>ảnathema</i>, đối xứng với từ Híp-ri <span class=\"hebrew-translit\">Hërem</span> trong Cựu Ước. Trong Cựu Ước, <span class=\"hebrew-translit\">Hërem</span> chỉ việc tru diệt kẻ thù để tế hiến cho Thiên Chúa, theo lệnh của Người. Trong Tân Ước, nghĩa thông thường của từ <i>ảnathema</i> chỉ lời nguyền rủa, hình phạt dành cho những người thất tín hoặc phạm tội trọng. X. Rm 9,3.",
-      "position": 113,
+      "id": "c2ab8095-4a62-46a0-8ee0-49c07c18b510",
+      "content": "*Đồ khốn kiếp* dịch từ Hy-lạp *ảnathema*, đối xứng với từ Híp-ri Hërem trong Cựu Ước. Trong Cựu Ước, Hërem chỉ việc tru diệt kẻ thù để tế hiến cho Thiên Chúa, theo lệnh của Người. Trong Tân Ước, nghĩa thông thường của từ *ảnathema* chỉ lời nguyền rủa, hình phạt dành cho những người thất tín hoặc phạm tội trọng. X. Rm 9,3.",
+      "position": 117,
       "order": 2,
-      "createdAt": "2024-09-17T09:03:04.486Z",
-      "updatedAt": "2024-09-17T09:03:04.486Z",
-      "verseId": "8fef4128-3dca-4b3d-95e3-ec1a349d6f49",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.497Z",
+      "updatedAt": "2024-09-23T03:23:12.497Z",
+      "verseId": "83e3941a-8e51-44a2-86dd-a3725b0e131e",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "f1f42a25-90ef-4cf1-be9e-2d105c55c3ff",
+      "id": "bde90abd-4b69-48a2-813e-e6c39be9753e",
       "content": "Lưu ý cách trình bày tư tưởng nhắc đến Ba Ngôi Thiên Chúa trong cc. 4-6.",
       "position": 88,
       "order": 3,
-      "createdAt": "2024-09-17T09:03:04.501Z",
-      "updatedAt": "2024-09-17T09:03:04.501Z",
-      "verseId": "c73ed9e7-e67c-44ca-9138-b9a2365e37ba",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.525Z",
+      "updatedAt": "2024-09-23T03:23:12.525Z",
+      "verseId": "730d4fe5-f3ea-4685-b360-196ac8df041d",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "0e19bd63-731c-4bc0-ada3-5ae4f7725570",
-      "content": "ds c. 8 : <i>lời khôn ngoan được ban cho người này qua Thần Khí, lời hiểu biết được ban cho người nọ cũng theo Thần Khí đó</i>.",
-      "position": 0,
-      "order": 4,
-      "createdAt": "2024-09-17T09:03:04.510Z",
-      "updatedAt": "2024-09-17T09:03:04.510Z",
-      "verseId": "a62b9391-b55b-41e8-b482-3c2dab35d60d",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
-    },
-    {
-      "id": "e0f99d25-f16a-49a9-aa18-55c6b9cac9bc",
-      "content": "<i>Khôn ngoan</i> và <i>hiểu biết</i> ở đây không phải là những đức tính cố định và thường hằng, mà là những ơn nhất thời Thần Khí ban cho. <i>Khôn ngoan</i> ở đây, có lẽ như ở 2,6-7, chỉ sự nhận biết sâu xa kế hoạch của Thiên Chúa ; còn <i>hiểu biết</i> thì không rõ có nội dung nào, có thể là để trình bày giáo lý của Đức Ki-tô. Phải chăng nên hiểu rằng cách nói <i>qua Thần Khí</i> và <i>theo Thần Khí</i> gợi ý một hoạt động của trí tuệ về mặt suy tư thần học mà Thần Khí phát huy, nhưng phát huy một cách không trực tiếp như trong ơn gọi ngôn sứ ?",
-      "position": 118,
-      "order": 5,
-      "createdAt": "2024-09-17T09:03:04.512Z",
-      "updatedAt": "2024-09-17T09:03:04.512Z",
-      "verseId": "a62b9391-b55b-41e8-b482-3c2dab35d60d",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
-    },
-    {
-      "id": "484a4eee-01ee-4abb-9591-dbd4853318b0",
-      "content": "Đây nói về lòng tin ở mức độ phi thường, có thể <i>chuyển núi dời non</i> (x. 13,2).",
+      "id": "c19ffdcb-895d-4340-bf81-72d029e6718e",
+      "content": "Đây nói về lòng tin ở mức độ phi thường, có thể *chuyển núi dời non* (x. 13,2).",
       "position": 37,
       "order": 6,
-      "createdAt": "2024-09-17T09:03:04.518Z",
-      "updatedAt": "2024-09-17T09:03:04.518Z",
-      "verseId": "4dd12b28-f3d5-402f-a422-aa7ee69e26fc",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.543Z",
+      "updatedAt": "2024-09-23T03:23:12.543Z",
+      "verseId": "b3233421-6b71-46dc-9fce-8b1045146cb9",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "62be2a76-4755-40d1-9e29-3e765f7a5c95",
+      "id": "24749ce5-ebbf-4b76-9388-1422179bd087",
       "content": "Đây là một khả năng mà mọi Ki-tô hữu phải có ở mức độ phi thường, khả năng được Thần Khí Chúa ban để xác định xem nguồn gốc của những hiện tượng lạ trong cộng đoàn là Thiên Chúa, tính tự nhiên, hay ma quỷ.",
       "position": 97,
       "order": 7,
-      "createdAt": "2024-09-17T09:03:04.524Z",
-      "updatedAt": "2024-09-17T09:03:04.524Z",
-      "verseId": "8c2f146a-deaf-4fe7-8de3-ef9e8fbfad35",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.552Z",
+      "updatedAt": "2024-09-23T03:23:12.552Z",
+      "verseId": "caa7ab16-2bf6-46c0-a2c3-e304ffa95a99",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "e60c47c1-3acb-4340-ad72-bc73e1ecce7f",
-      "content": "ds : <i>Các thứ tiếng</i>. <i>Ơn nói các thứ tiếng lạ</i> là ơn ca ngợi Chúa bằng cách phát ra những âm lạ thường không có ý nghĩa, trong nguồn cảm hứng của Thần Khí và một tình trạng xuất thần nhiều ít. Đặc sủng này đã gặp thấy từ thời Giáo Hội sơ khai, và được kể là hiện tượng người ta cảm nghiệm trước tiên, nhờ đó biết rằng Thần Khí đã ngự xuống lòng các tín hữu. X. Cv 2,3-4 ; 10,44-46...",
+      "id": "ff5e4a12-794a-4fe4-b2fc-42d0ff3c4421",
+      "content": "ds : *Các thứ tiếng*. *Ơn nói các thứ tiếng lạ* là ơn ca ngợi Chúa bằng cách phát ra những âm lạ thường không có ý nghĩa, trong nguồn cảm hứng của Thần Khí và một tình trạng xuất thần nhiều ít. Đặc sủng này đã gặp thấy từ thời Giáo Hội sơ khai, và được kể là hiện tượng người ta cảm nghiệm trước tiên, nhờ đó biết rằng Thần Khí đã ngự xuống lòng các tín hữu. X. Cv 2,3-4 ; 10,44-46...",
       "position": 140,
       "order": 8,
-      "createdAt": "2024-09-17T09:03:04.528Z",
-      "updatedAt": "2024-09-17T09:03:04.528Z",
-      "verseId": "8c2f146a-deaf-4fe7-8de3-ef9e8fbfad35",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.557Z",
+      "updatedAt": "2024-09-23T03:23:12.557Z",
+      "verseId": "caa7ab16-2bf6-46c0-a2c3-e304ffa95a99",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "4cd596fb-309e-4da3-a93a-88f150aa6fa5",
-      "content": "Thân thể không phải là tổng số các chi thể, mà là nguyên lý thống nhất các chi thể. Trong tư duy Sê-mít, <i>thân thể</i> đồng nghĩa với <i>con người</i> (x. Rm 6,6). Đức Ki-tô cũng vậy, bản thân Người là nguyên lý thống nhất, làm cho các Ki-tô hữu được hợp nhất nên một.",
-      "position": 163,
+      "id": "268a837f-1509-4238-afa1-28af02eb76e7",
+      "content": "Thân thể không phải là tổng số các chi thể, mà là nguyên lý thống nhất các chi thể. Trong tư duy Sê-mít, *thân thể* đồng nghĩa với *con người* (x. Rm 6,6). Đức Ki-tô cũng vậy, bản thân Người là nguyên lý thống nhất, làm cho các Ki-tô hữu được hợp nhất nên một.",
+      "position": 167,
       "order": 9,
-      "createdAt": "2024-09-17T09:03:04.548Z",
-      "updatedAt": "2024-09-17T09:03:04.548Z",
-      "verseId": "a30835cd-eeed-49f7-893a-d3e5bf5a135c",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.580Z",
+      "updatedAt": "2024-09-23T03:23:12.580Z",
+      "verseId": "2ebaed4b-0d63-485d-9c8d-cf9f6bed9ef1",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "02ec08b7-1304-4cf4-b7da-7a176b644ed8",
+      "id": "aa1b9b76-8dee-43aa-8042-b8822379f2e2",
       "content": "Có lẽ thánh Phao-lô ngụ ý rằng những ân huệ được trọng nhất tại Cô-rin-tô thật ra là những ân huệ ít quan trọng nhất. Vị trí của ơn nói các thứ tiếng lạ được nói rõ ở c. 28 : ở hạng chót.",
       "position": 71,
       "order": 10,
-      "createdAt": "2024-09-17T09:03:04.608Z",
-      "updatedAt": "2024-09-17T09:03:04.608Z",
-      "verseId": "ab437874-4e69-4175-a838-a40c13c69e8d",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.640Z",
+      "updatedAt": "2024-09-23T03:23:12.640Z",
+      "verseId": "22a89c5b-1e61-4a66-a5a7-1af756b64ddf",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "3446eea3-d239-4d9f-b347-f5f25446c2ab",
-      "content": "<i>Thầy dạy</i> là những người có trách nhiệm huấn giáo trong cộng đoàn Ki-tô hữu.",
+      "id": "b9263a9c-c7e0-4a53-997e-91a52c448048",
+      "content": "*Thầy dạy* là những người có trách nhiệm huấn giáo trong cộng đoàn Ki-tô hữu.",
       "position": 120,
       "order": 11,
-      "createdAt": "2024-09-17T09:03:04.640Z",
-      "updatedAt": "2024-09-17T09:03:04.640Z",
-      "verseId": "7abe7bd7-b69a-4193-b41b-1008e104852a",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.673Z",
+      "updatedAt": "2024-09-23T03:23:12.673Z",
+      "verseId": "420d9da9-5765-474c-977f-4224b159062c",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "22d2a7c5-8a06-4d48-a850-1a33704df51c",
+      "id": "bcb4e37a-b9e6-4932-a158-6ee283f635d7",
       "content": "Tức là làm công việc từ thiện bác ái.",
       "position": 218,
       "order": 12,
-      "createdAt": "2024-09-17T09:03:04.643Z",
-      "updatedAt": "2024-09-17T09:03:04.643Z",
-      "verseId": "7abe7bd7-b69a-4193-b41b-1008e104852a",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.678Z",
+      "updatedAt": "2024-09-23T03:23:12.678Z",
+      "verseId": "420d9da9-5765-474c-977f-4224b159062c",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "d039a1d2-fac6-4a58-b71e-658fa68764d5",
+      "id": "497f6f06-d65a-4582-9c11-cec22c5a220f",
       "content": "Tức là cai quản và lãnh đạo các giáo đoàn.",
       "position": 231,
       "order": 13,
-      "createdAt": "2024-09-17T09:03:04.647Z",
-      "updatedAt": "2024-09-17T09:03:04.647Z",
-      "verseId": "7abe7bd7-b69a-4193-b41b-1008e104852a",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.682Z",
+      "updatedAt": "2024-09-23T03:23:12.682Z",
+      "verseId": "420d9da9-5765-474c-977f-4224b159062c",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "998845d4-3645-4240-a0fd-7ccfa40c1ee7",
+      "id": "062293f1-6669-4359-af3b-152e2232c4b1",
       "content": "Bài ca đức mến là phần thứ hai của đoạn dài ba ch. 12-14 nói về việc sử dụng cho tốt các đặc sủng. Chính phần này cũng chia ra làm ba phần : tính ưu việt của đức mến (cc. 1-3), những công việc của đức mến (cc. 4-7) và tính trường tồn của đức mến (cc. 8-13). Trong toàn bộ chương này, đức mến chỉ tình yêu huynh đệ ; còn tình yêu đối với Thiên Chúa thì không được nói đến đích danh, nhưng luôn luôn bàng bạc dưới mỗi câu, nhứt là ở c. 13, đi chung với đức tin và đức cậy. Đây là một đoạn văn tuyệt vời, không phải ứng khẩu, nhưng đã được nghiền ngẫm, cân nhắc. Bút pháp và cảm hứng, hai mặt song toàn.",
       "position": 36,
       "order": 14,
-      "createdAt": "2024-09-17T09:03:04.670Z",
-      "updatedAt": "2024-09-17T09:03:04.670Z",
-      "headingId": "fc2c8f4a-c044-4cd1-97fb-c7374941fdf7",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.707Z",
+      "updatedAt": "2024-09-23T03:23:12.707Z",
+      "headingId": "5d955f2d-098f-40a7-82f8-e31d28ed0ee2",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     }
   ],
   "headings": [
     {
-      "id": "071ba0cf-d435-40d7-94eb-b933f9fbbe4e",
+      "id": "57a8bd37-c0f3-4d5d-8c55-bb6efe795316",
       "content": "Ân huệ của Thần Khí hay đặc sủng",
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.475Z",
-      "updatedAt": "2024-09-17T09:03:04.475Z",
-      "verseId": "d81e738c-7371-4ac9-a2c3-9bd53a9ba043",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.483Z",
+      "updatedAt": "2024-09-23T03:23:12.483Z",
+      "verseId": "eaa255a3-261f-4804-b080-a4bd64311378",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "98e421c3-1b7f-4c77-a8cf-a47f2b8bbd14",
+      "id": "3ffe1c37-b4b9-430b-a189-001693f49608",
       "content": "Đặc sủng tuy nhiều, nhưng chung một gốc.",
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.493Z",
-      "updatedAt": "2024-09-17T09:03:04.493Z",
-      "verseId": "b8947df9-2a90-4fae-a1f0-ef00896f9186",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.509Z",
+      "updatedAt": "2024-09-23T03:23:12.509Z",
+      "verseId": "b4f995d2-d6cd-4374-8555-bca8101ab9de",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "27b9189c-e66f-4098-bd47-775aaa909744",
+      "id": "7a354617-3bc6-47cd-b448-798f3b594035",
       "content": "So sánh với thân thể",
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.543Z",
-      "updatedAt": "2024-09-17T09:03:04.543Z",
-      "verseId": "a30835cd-eeed-49f7-893a-d3e5bf5a135c",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.575Z",
+      "updatedAt": "2024-09-23T03:23:12.575Z",
+      "verseId": "2ebaed4b-0d63-485d-9c8d-cf9f6bed9ef1",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "fc2c8f4a-c044-4cd1-97fb-c7374941fdf7",
+      "id": "5d955f2d-098f-40a7-82f8-e31d28ed0ee2",
       "content": "Thứ bậc các đặc sủng. Bài ca đức mến.",
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.666Z",
-      "updatedAt": "2024-09-17T09:03:04.666Z",
-      "verseId": "fd0bb66e-f006-4346-a029-3599a1f72bbc",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.703Z",
+      "updatedAt": "2024-09-23T03:23:12.703Z",
+      "verseId": "b10dd769-7280-46b2-b88e-5b58aaade1bb",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     }
   ],
   "references": [
     {
-      "id": "134eb907-7f4a-46aa-be07-17408b9ce383",
+      "id": "a87affb2-e6d7-46b2-aa74-5555a9df2005",
       "content": "Ga 14,26; 1 Ga 4,1-3",
       "position": 54,
       "order": 0,
-      "createdAt": "2024-09-17T09:03:04.488Z",
-      "updatedAt": "2024-09-17T09:03:04.488Z",
-      "verseId": "8fef4128-3dca-4b3d-95e3-ec1a349d6f49",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.501Z",
+      "updatedAt": "2024-09-23T03:23:12.501Z",
+      "verseId": "83e3941a-8e51-44a2-86dd-a3725b0e131e",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "9f0e266a-7cec-47bc-964f-724c62080951",
+      "id": "1d07d7ea-d4f1-4685-81c5-4fe9e2f63697",
       "content": "Rm 12,6",
       "position": 9,
       "order": 1,
-      "createdAt": "2024-09-17T09:03:04.494Z",
-      "updatedAt": "2024-09-17T09:03:04.494Z",
-      "verseId": "b8947df9-2a90-4fae-a1f0-ef00896f9186",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.513Z",
+      "updatedAt": "2024-09-23T03:23:12.513Z",
+      "verseId": "b4f995d2-d6cd-4374-8555-bca8101ab9de",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "687c5cef-0e48-4356-88f3-12134cb62542",
+      "id": "8a9fd632-d7ff-4069-8209-2b8308b5a360",
       "content": "Rm 12,6-8",
       "position": 0,
       "order": 2,
-      "createdAt": "2024-09-17T09:03:04.505Z",
-      "updatedAt": "2024-09-17T09:03:04.505Z",
-      "verseId": "f0df7d2f-be19-46a9-9284-7bb83cee5da8",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.535Z",
+      "updatedAt": "2024-09-23T03:23:12.535Z",
+      "verseId": "1fd61d16-df95-4931-8dd4-768b26fbc185",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "24518416-2269-4971-886a-f9e2515394d7",
+      "id": "7a87b63a-551c-4d40-a895-91b71bb496f8",
       "content": "Rm 12,3",
       "position": 64,
       "order": 3,
-      "createdAt": "2024-09-17T09:03:04.535Z",
-      "updatedAt": "2024-09-17T09:03:04.535Z",
-      "verseId": "25047e7b-ad95-4eb7-bd2e-a1f2cdfcaed3",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.566Z",
+      "updatedAt": "2024-09-23T03:23:12.566Z",
+      "verseId": "6264e51d-bd26-4500-9d34-a64a89e30688",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "0b8b16f0-bcb9-49c0-bfb5-73a313da86e1",
+      "id": "184939ce-4aec-48e7-a795-7c1aa1369103",
       "content": "Rm 12,4-5",
       "position": 82,
       "order": 4,
-      "createdAt": "2024-09-17T09:03:04.553Z",
-      "updatedAt": "2024-09-17T09:03:04.553Z",
-      "verseId": "a30835cd-eeed-49f7-893a-d3e5bf5a135c",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.584Z",
+      "updatedAt": "2024-09-23T03:23:12.584Z",
+      "verseId": "2ebaed4b-0d63-485d-9c8d-cf9f6bed9ef1",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "474331d8-2120-4a7c-9130-d7fe444d1054",
+      "id": "3efca8a6-f610-400a-b51c-08704d467c18",
       "content": "Gl 3,28; Ep 4,4-6; Cl 3,11; Plm 16",
-      "position": 132,
+      "position": 136,
       "order": 5,
-      "createdAt": "2024-09-17T09:03:04.561Z",
-      "updatedAt": "2024-09-17T09:03:04.561Z",
-      "verseId": "e3a74b87-c878-46a7-856f-963cea5a24e9",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.593Z",
+      "updatedAt": "2024-09-23T03:23:12.593Z",
+      "verseId": "8d247e5a-1b0f-47de-a036-f792939f721c",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "de791eb1-60dc-41f7-8fe7-69202995a5bb",
+      "id": "cbc6c084-f91f-4bc0-a40d-b35eee01c4c5",
       "content": "Rm 12,15",
       "position": 8,
       "order": 6,
-      "createdAt": "2024-09-17T09:03:04.624Z",
-      "updatedAt": "2024-09-17T09:03:04.624Z",
-      "verseId": "b70a4cbc-7fdd-4864-9c44-e50fe2e3c5cf",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.657Z",
+      "updatedAt": "2024-09-23T03:23:12.657Z",
+      "verseId": "af94ed2d-f90d-4d1a-99fd-5e418716fbdc",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "af62a34e-51b2-445e-92bb-fe5aaadc448a",
+      "id": "30517045-919b-432c-a6a9-3477c7b10239",
       "content": "Ep 1,23",
       "position": 22,
       "order": 7,
-      "createdAt": "2024-09-17T09:03:04.632Z",
-      "updatedAt": "2024-09-17T09:03:04.632Z",
-      "verseId": "fc253213-5313-408a-a2fa-c504cab2e325",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.665Z",
+      "updatedAt": "2024-09-23T03:23:12.665Z",
+      "verseId": "dcf464f7-19ca-45da-9a3b-1cd8d5c5f504",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     },
     {
-      "id": "998869a2-9cef-4867-8b73-deb833f08ff3",
+      "id": "41147575-3717-4e7b-9098-100252d1dd2e",
       "content": "Rm 12,6-8; Ep 4,11",
       "position": 31,
       "order": 8,
-      "createdAt": "2024-09-17T09:03:04.651Z",
-      "updatedAt": "2024-09-17T09:03:04.651Z",
-      "verseId": "7abe7bd7-b69a-4193-b41b-1008e104852a",
-      "chapterId": "879f5d14-b333-4aee-83db-acb753ad4ecd"
+      "createdAt": "2024-09-23T03:23:12.686Z",
+      "updatedAt": "2024-09-23T03:23:12.686Z",
+      "verseId": "420d9da9-5765-474c-977f-4224b159062c",
+      "chapterId": "52129588-5b9d-4c50-b627-6e0adb06932b"
     }
   ]
 }

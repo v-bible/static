@@ -1,283 +1,310 @@
 {
   "chapter": {
-    "id": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27",
+    "id": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3",
     "number": 8,
     "ref": "https://www.bible.com/bible/19/PSA.8.BD2011",
-    "createdAt": "2024-09-07T11:51:10.674Z",
-    "updatedAt": "2024-09-07T11:51:10.674Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.234Z",
+    "updatedAt": "2024-09-23T05:08:40.234Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "08d8bd0c-76b6-430f-8138-bb87d688bcdc",
+      "id": "e68f0d73-83ae-477f-9c67-406d150cdeff",
       "number": 1,
-      "content": "Lạy CHÚA, Chúa của chúng con,",
+      "content": "Lạy **CHÚA**, Chúa của chúng con,",
       "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:44:58.988Z",
+      "updatedAt": "2024-09-23T05:44:58.988Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
+    },
+    {
+      "id": "20834458-3f96-4911-952a-d1a9bb23fd9a",
+      "number": 9,
+      "content": "Lạy **CHÚA**, Chúa của chúng con,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:44:59.088Z",
+      "updatedAt": "2024-09-23T05:44:59.088Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
+    },
+    {
+      "id": "d1acb208-38c4-4636-a367-0efd2291b0a4",
+      "number": 9,
+      "content": "Danh Ngài thật uy nghi trên khắp đất biết bao!",
+      "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.796Z",
-      "updatedAt": "2024-09-07T13:56:01.796Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.091Z",
+      "updatedAt": "2024-09-23T05:44:59.091Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "640ceef5-d667-495b-bf9b-b4beef606882",
+      "id": "10ce0ac8-d32e-443c-9b85-d0a7e53659e4",
       "number": 1,
       "content": "Danh Ngài thật uy nghi trên khắp đất biết bao!",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.796Z",
-      "updatedAt": "2024-09-07T13:56:01.796Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.019Z",
+      "updatedAt": "2024-09-23T05:44:59.019Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "1c23dc2b-d9a8-4328-bd88-9c78bf0183d6",
+      "id": "e6ad9f66-424f-436f-8ecf-4db8fd5544cf",
       "number": 1,
       "content": "Ngài đã đặt vinh quang Ngài trên các tầng trời!",
       "order": 2,
-      "parNumber": 3,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.796Z",
-      "updatedAt": "2024-09-07T13:56:01.796Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.024Z",
+      "updatedAt": "2024-09-23T05:44:59.024Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "ab321b9a-1107-4e03-97a1-2fc5203f22a3",
+      "id": "5c4045a9-b709-4526-9e7d-c1eced65e388",
       "number": 2,
       "content": "Từ miệng các trẻ thơ và các ấu nhi Ngài đã biểu lộ quyền năng,",
       "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
+      "parNumber": 3,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.806Z",
-      "updatedAt": "2024-09-07T13:56:01.806Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.028Z",
+      "updatedAt": "2024-09-23T05:44:59.028Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "e8ff38ce-1ce4-43ae-be65-e1609039bf11",
+      "id": "0973077f-9915-4970-b5bf-c049aa857b7f",
       "number": 2,
       "content": "Để quân chống lại Ngài thấy rõ,",
       "order": 1,
-      "parNumber": 5,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.806Z",
-      "updatedAt": "2024-09-07T13:56:01.806Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.032Z",
+      "updatedAt": "2024-09-23T05:44:59.032Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "0ee25780-d597-48e6-8aad-851b56048473",
+      "id": "cf82b6cd-2f34-445b-b3a7-4a499f86a668",
       "number": 2,
       "content": "Để kẻ thù và kẻ báo thù phải im hơi bỏ cuộc.",
       "order": 2,
-      "parNumber": 6,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.806Z",
-      "updatedAt": "2024-09-07T13:56:01.806Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.037Z",
+      "updatedAt": "2024-09-23T05:44:59.037Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "b1796a83-98ec-4a91-bacd-56356e2c5711",
+      "id": "6d19ba15-064b-4aa2-b403-20eb54487dce",
       "number": 3,
       "content": "Khi con lặng ngắm cõi trời cao, công việc của ngón tay Ngài,",
       "order": 0,
-      "parNumber": 7,
-      "parIndex": 1,
+      "parNumber": 6,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.808Z",
-      "updatedAt": "2024-09-07T13:56:01.808Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.041Z",
+      "updatedAt": "2024-09-23T05:44:59.041Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "becfd109-822f-41df-acad-382fe3856dec",
+      "id": "7abce61f-0c87-41c3-b04f-de9ce9018bf1",
       "number": 3,
       "content": "Mặt trăng và các ngôi sao mà Ngài đã đặt trên không trung;",
       "order": 1,
-      "parNumber": 8,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.808Z",
-      "updatedAt": "2024-09-07T13:56:01.808Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.046Z",
+      "updatedAt": "2024-09-23T05:44:59.046Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "1dd95186-35c3-496f-ade6-b0f038341b68",
+      "id": "d41be862-6874-4560-9208-f1480083dc32",
       "number": 4,
       "content": "Loài người là gì mà Ngài phải quan tâm đến?",
       "order": 0,
-      "parNumber": 9,
-      "parIndex": 1,
+      "parNumber": 8,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.811Z",
-      "updatedAt": "2024-09-07T13:56:01.811Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.050Z",
+      "updatedAt": "2024-09-23T05:44:59.050Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "20e760ca-f957-41c2-9366-ca5398392f49",
+      "id": "2fec7409-28ec-41b4-89dd-f8061665ebbc",
       "number": 4,
       "content": "Con của loài người là chi mà Ngài phải bận lòng?",
       "order": 1,
-      "parNumber": 10,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.811Z",
-      "updatedAt": "2024-09-07T13:56:01.811Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.055Z",
+      "updatedAt": "2024-09-23T05:44:59.055Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "91a8d8cc-45aa-4150-acb9-60840156a099",
+      "id": "fbeb29cd-3214-4635-97a2-66841e523d44",
       "number": 5,
       "content": "Ngài đã dựng nên loài người thấp hơn các vị thần một chút;",
       "order": 0,
-      "parNumber": 11,
-      "parIndex": 1,
+      "parNumber": 10,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.813Z",
-      "updatedAt": "2024-09-07T13:56:01.813Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.059Z",
+      "updatedAt": "2024-09-23T05:44:59.059Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "b4691317-1f06-4548-a710-e3daf38fe01c",
+      "id": "ad577951-eafe-4960-be9f-14f7092180ef",
       "number": 5,
       "content": "Ngài đội trên đầu loài người vinh hiển và tôn trọng.",
       "order": 1,
-      "parNumber": 12,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.813Z",
-      "updatedAt": "2024-09-07T13:56:01.813Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.067Z",
+      "updatedAt": "2024-09-23T05:44:59.067Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "a22500d1-bc45-41d4-afc6-d1e0143ef587",
+      "id": "1d5e0992-3243-4d12-ad5e-8ba1507de482",
       "number": 6,
       "content": "Ngài cho loài người quản trị mọi vật do tay Ngài dựng nên;",
       "order": 0,
-      "parNumber": 13,
-      "parIndex": 1,
+      "parNumber": 12,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.816Z",
-      "updatedAt": "2024-09-07T13:56:01.816Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.071Z",
+      "updatedAt": "2024-09-23T05:44:59.071Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "aee90ec4-bd41-4031-a65d-02e3401f130b",
+      "id": "85b47038-239f-4250-8d46-04a8a0516242",
       "number": 6,
       "content": "Ngài bắt muôn vật phục dưới chân loài người,",
       "order": 1,
-      "parNumber": 14,
+      "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.816Z",
-      "updatedAt": "2024-09-07T13:56:01.816Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.073Z",
+      "updatedAt": "2024-09-23T05:44:59.073Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "cece206d-8435-43e6-90c7-d0be980d8e62",
+      "id": "668f22d1-91cf-48ea-9a59-bcb762bdbd60",
       "number": 7,
       "content": "Tức tất cả chiên và bò,",
       "order": 0,
-      "parNumber": 15,
-      "parIndex": 1,
+      "parNumber": 14,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.818Z",
-      "updatedAt": "2024-09-07T13:56:01.818Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.076Z",
+      "updatedAt": "2024-09-23T05:44:59.076Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "ad9e0c66-36a7-403a-8ab1-ec7da62efb1e",
+      "id": "6da788b0-5f76-427b-b1d7-92c614771f33",
       "number": 7,
       "content": "Cùng các thú vật ngoài đồng,",
       "order": 1,
-      "parNumber": 16,
+      "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.818Z",
-      "updatedAt": "2024-09-07T13:56:01.818Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.079Z",
+      "updatedAt": "2024-09-23T05:44:59.079Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "67183997-c130-4f2b-890d-9c85071cee16",
+      "id": "15c13e6a-9d74-4c2a-82bd-8b116d86aff5",
       "number": 8,
       "content": "Các loài chim trên trời và mọi loài cá dưới biển,",
       "order": 0,
-      "parNumber": 17,
-      "parIndex": 1,
+      "parNumber": 16,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.821Z",
-      "updatedAt": "2024-09-07T13:56:01.821Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.082Z",
+      "updatedAt": "2024-09-23T05:44:59.082Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     },
     {
-      "id": "a8a5c40f-b80b-494d-bc6c-ff026d03cc59",
+      "id": "8fc08a6a-4605-44c6-b48e-309702b59c88",
       "number": 8,
       "content": "Tức mọi vật bơi lội trong các dòng nước biển.",
       "order": 1,
-      "parNumber": 18,
+      "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.821Z",
-      "updatedAt": "2024-09-07T13:56:01.821Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
-    },
-    {
-      "id": "d25021e5-9666-4178-8f19-6b200b636dd5",
-      "number": 9,
-      "content": "Lạy CHÚA, Chúa của chúng con,",
-      "order": 0,
-      "parNumber": 19,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.824Z",
-      "updatedAt": "2024-09-07T13:56:01.824Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
-    },
-    {
-      "id": "581dae64-6e41-4f1b-8ff1-306f0583c2a5",
-      "number": 9,
-      "content": "Danh Ngài thật uy nghi trên khắp đất biết bao!",
-      "order": 1,
-      "parNumber": 20,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T13:56:01.824Z",
-      "updatedAt": "2024-09-07T13:56:01.824Z",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.085Z",
+      "updatedAt": "2024-09-23T05:44:59.085Z",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     }
   ],
   "footnotes": [
     {
-      "id": "2db60fcb-2a52-48e4-a52b-533dc4155a9f",
+      "id": "7291bddf-3c56-46e0-ab2b-2309f03954d6",
       "content": "Hebrew: Elohim; ctd: các thiên thần, hoặc Đức Chúa Trời",
       "position": 48,
       "order": 0,
-      "createdAt": "2024-09-07T13:56:10.988Z",
-      "updatedAt": "2024-09-07T13:56:10.988Z",
-      "verseId": "91a8d8cc-45aa-4150-acb9-60840156a099",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.064Z",
+      "updatedAt": "2024-09-23T05:44:59.064Z",
+      "verseId": "fbeb29cd-3214-4635-97a2-66841e523d44",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     }
   ],
   "headings": [
     {
-      "id": "0394c015-5679-4bb4-a94e-bb929b36fbec",
-      "content": "Vinh Hiển của CHÚA Biểu Lộ Qua Loài Thọ Tạo",
+      "id": "84fd7107-bab5-4b15-bb87-782daa34c606",
+      "content": "Vinh Hiển của",
       "order": 0,
-      "createdAt": "2024-09-07T13:56:21.078Z",
-      "updatedAt": "2024-09-07T13:56:21.078Z",
-      "verseId": "08d8bd0c-76b6-430f-8138-bb87d688bcdc",
-      "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+      "createdAt": "2024-09-23T05:44:59.001Z",
+      "updatedAt": "2024-09-23T05:44:59.001Z",
+      "verseId": "e68f0d73-83ae-477f-9c67-406d150cdeff",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
+    },
+    {
+      "id": "24a57737-a72e-4e8e-94ce-78167e394211",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:44:59.005Z",
+      "updatedAt": "2024-09-23T05:44:59.005Z",
+      "verseId": "e68f0d73-83ae-477f-9c67-406d150cdeff",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
+    },
+    {
+      "id": "3a609a5c-928b-4c1a-9524-e2c2136b8bc2",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:44:59.010Z",
+      "updatedAt": "2024-09-23T05:44:59.010Z",
+      "verseId": "e68f0d73-83ae-477f-9c67-406d150cdeff",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
+    },
+    {
+      "id": "8bfa7a5f-2026-4c47-bade-e0a0c2f82b30",
+      "content": "Biểu Lộ Qua Loài Thọ Tạo",
+      "order": 3,
+      "createdAt": "2024-09-23T05:44:59.015Z",
+      "updatedAt": "2024-09-23T05:44:59.015Z",
+      "verseId": "e68f0d73-83ae-477f-9c67-406d150cdeff",
+      "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "c78816c3-64e2-4d56-9940-a725d7f94431",
+    "id": "1d5b6198-bd46-4caf-a9c8-892f32a65ce5",
     "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu Ghi-tít",
-    "createdAt": "2024-09-07T13:56:23.951Z",
-    "updatedAt": "2024-09-07T13:56:23.951Z",
-    "chapterId": "15b0a23d-ff3d-4a01-9c70-6f6c09b54d27"
+    "createdAt": "2024-09-23T05:45:00.254Z",
+    "updatedAt": "2024-09-23T05:45:00.254Z",
+    "chapterId": "ddf5fc34-eecf-48bb-a5f0-3e4aff73ead3"
   }
 }

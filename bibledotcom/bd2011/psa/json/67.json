@@ -1,212 +1,230 @@
 {
   "chapter": {
-    "id": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf",
+    "id": "173427aa-f5ee-4597-a97b-5745638a34b1",
     "number": 67,
     "ref": "https://www.bible.com/bible/19/PSA.67.BD2011",
-    "createdAt": "2024-09-07T11:51:11.142Z",
-    "updatedAt": "2024-09-07T11:51:11.142Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.444Z",
+    "updatedAt": "2024-09-23T05:08:40.444Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "d6f50359-1d5a-4bfa-9c42-00748d6b5183",
+      "id": "4723fade-ba0b-4ff9-932d-07e595dbe7de",
       "number": 1,
       "content": "Cầu xin Đức Chúa Trời thương xót chúng con và ban phước cho chúng con,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.812Z",
-      "updatedAt": "2024-09-07T14:08:46.812Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.167Z",
+      "updatedAt": "2024-09-23T05:49:33.167Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "b7404c6e-4aaa-4460-9c26-f09ab93b88a4",
+      "id": "6ba56df9-3bd4-460f-a4c5-cda611448fe6",
       "number": 1,
       "content": "Cầu xin Ngài chiếu sáng mặt Ngài trên chúng con, (Sê-la)",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.812Z",
-      "updatedAt": "2024-09-07T14:08:46.812Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.195Z",
+      "updatedAt": "2024-09-23T05:49:33.195Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "18d3f2fc-d957-403a-96c2-7e3559e1027e",
+      "id": "b2ff2d4f-a21c-4e18-ae0f-87a468ef3442",
       "number": 2,
       "content": "Để đường lối Ngài được biết đến trên đất,",
       "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.822Z",
-      "updatedAt": "2024-09-07T14:08:46.822Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.200Z",
+      "updatedAt": "2024-09-23T05:49:33.200Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "225f7ab4-de5d-4407-925b-bdff82323a53",
+      "id": "24f8ba55-c324-4ad2-a63f-67f80fa2800b",
       "number": 2,
       "content": "Và ơn cứu rỗi Ngài được phổ cập giữa các dân.",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:49:33.205Z",
+      "updatedAt": "2024-09-23T05:49:33.205Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "0ded4019-5978-4977-addc-2a81d8897d31",
+      "number": 5,
+      "content": "Đức Chúa Trời ôi, nguyện muôn dân ca ngợi Ngài;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:49:33.235Z",
+      "updatedAt": "2024-09-23T05:49:33.235Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "70e53592-e6e9-48e1-af41-a284ba0a7e87",
+      "number": 3,
+      "content": "Đức Chúa Trời ôi, nguyện muôn dân ca ngợi Ngài;",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:49:33.210Z",
+      "updatedAt": "2024-09-23T05:49:33.210Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "4818f44f-b2e9-4f63-a398-cb841c343f37",
+      "number": 3,
+      "content": "Nguyện tất cả các dân ca ngợi Ngài.",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.822Z",
-      "updatedAt": "2024-09-07T14:08:46.822Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.214Z",
+      "updatedAt": "2024-09-23T05:49:33.214Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "a8b61fbd-fcef-405f-990d-767e76adf95e",
-      "number": 3,
-      "content": "Đức Chúa Trời ôi, nguyện muôn dân ca ngợi Ngài;",
+      "id": "d8d4050c-3199-48e9-bb1b-8b7243c3eb3e",
+      "number": 5,
+      "content": "Nguyện tất cả các dân ca ngợi Ngài.",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:49:33.240Z",
+      "updatedAt": "2024-09-23T05:49:33.240Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "e0d2bc38-54c9-40e9-8891-ae6583c1a656",
+      "number": 4,
+      "content": "Nguyện các dân các nước vui mừng và hân hoan ca hát,",
       "order": 0,
       "parNumber": 6,
-      "parIndex": 1,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.824Z",
-      "updatedAt": "2024-09-07T14:08:46.824Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.220Z",
+      "updatedAt": "2024-09-23T05:49:33.220Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "e325bddb-ed1b-461c-91f3-41df9b167e57",
-      "number": 3,
-      "content": "Nguyện tất cả các dân ca ngợi Ngài.",
+      "id": "0574cb4d-bb74-4855-b215-24a1d298a923",
+      "number": 4,
+      "content": "Vì Ngài xét đoán muôn dân cách công minh,",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.824Z",
-      "updatedAt": "2024-09-07T14:08:46.824Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.225Z",
+      "updatedAt": "2024-09-23T05:49:33.225Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "d3fd58a4-940f-4ef1-89b6-f3789da122e9",
-      "number": 4,
-      "content": "Nguyện các dân các nước vui mừng và hân hoan ca hát,",
-      "order": 0,
-      "parNumber": 8,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.827Z",
-      "updatedAt": "2024-09-07T14:08:46.827Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
-    },
-    {
-      "id": "e0fb2dd7-f3ae-4c2b-b362-0e335d759f17",
-      "number": 4,
-      "content": "Vì Ngài xét đoán muôn dân cách công minh,",
-      "order": 1,
-      "parNumber": 9,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.827Z",
-      "updatedAt": "2024-09-07T14:08:46.827Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
-    },
-    {
-      "id": "9b07e555-907c-4e6e-8512-183e63561da6",
+      "id": "028ec4e7-23a8-45fc-b07e-4dd387f3f281",
       "number": 4,
       "content": "Và lãnh đạo các quốc gia trên đất. (Sê-la)",
       "order": 2,
-      "parNumber": 10,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.827Z",
-      "updatedAt": "2024-09-07T14:08:46.827Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.230Z",
+      "updatedAt": "2024-09-23T05:49:33.230Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "433dd499-73e9-4770-a16d-1751efa672ca",
-      "number": 5,
-      "content": "Đức Chúa Trời ôi, nguyện muôn dân ca ngợi Ngài;",
-      "order": 0,
-      "parNumber": 12,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.829Z",
-      "updatedAt": "2024-09-07T14:08:46.829Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
-    },
-    {
-      "id": "70470872-8c0d-416b-990c-be9e315368b9",
-      "number": 5,
-      "content": "Nguyện tất cả các dân ca ngợi Ngài.",
-      "order": 1,
-      "parNumber": 13,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.829Z",
-      "updatedAt": "2024-09-07T14:08:46.829Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
-    },
-    {
-      "id": "0201ee8e-82bb-4e0b-964a-e733af1830ad",
+      "id": "f71b6d61-00de-4968-8132-da45e6af12cc",
       "number": 6,
       "content": "Đất sẽ sinh sản hoa màu;",
       "order": 0,
-      "parNumber": 14,
-      "parIndex": 1,
+      "parNumber": 11,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.831Z",
-      "updatedAt": "2024-09-07T14:08:46.831Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.244Z",
+      "updatedAt": "2024-09-23T05:49:33.244Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "a315d818-855a-463f-be9d-e6b1df760190",
+      "id": "89789af4-7131-43f1-af58-143dd3a78294",
       "number": 6,
       "content": "Đức Chúa Trời, chính Đức Chúa Trời của chúng ta, sẽ ban phước cho chúng ta.",
       "order": 1,
-      "parNumber": 15,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.831Z",
-      "updatedAt": "2024-09-07T14:08:46.831Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.249Z",
+      "updatedAt": "2024-09-23T05:49:33.249Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "8e0d2528-5fb7-4ccf-9a76-980b802b592b",
+      "id": "17bb3f1e-cd4c-46b9-9284-4720d9115635",
       "number": 7,
       "content": "Nguyện Đức Chúa Trời tiếp tục ban phước cho chúng ta,",
       "order": 0,
-      "parNumber": 16,
-      "parIndex": 1,
+      "parNumber": 13,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.833Z",
-      "updatedAt": "2024-09-07T14:08:46.833Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.254Z",
+      "updatedAt": "2024-09-23T05:49:33.254Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     },
     {
-      "id": "3d8c2ecb-e0c2-4992-b836-975920b82bd6",
+      "id": "054f6a41-5512-404f-9845-af63fbf71f6b",
       "number": 7,
       "content": "Để mọi người ở tận cùng trái đất kính sợ Ngài.",
       "order": 1,
-      "parNumber": 17,
+      "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T14:08:46.833Z",
-      "updatedAt": "2024-09-07T14:08:46.833Z",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.258Z",
+      "updatedAt": "2024-09-23T05:49:33.258Z",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "4d2ddcfe-7634-4aa1-9a44-d94fefadd7ed",
-      "content": "Kêu Gọi Các Dân Ca Ngợi CHÚA",
+      "id": "081aa20e-68ae-4157-a2ec-b279c126da55",
+      "content": "Kêu Gọi Các Dân Ca Ngợi",
       "order": 0,
-      "createdAt": "2024-09-07T14:09:07.145Z",
-      "updatedAt": "2024-09-07T14:09:07.145Z",
-      "verseId": "d6f50359-1d5a-4bfa-9c42-00748d6b5183",
-      "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+      "createdAt": "2024-09-23T05:49:33.181Z",
+      "updatedAt": "2024-09-23T05:49:33.181Z",
+      "verseId": "4723fade-ba0b-4ff9-932d-07e595dbe7de",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "c4c636f7-ff1b-44d4-8463-27e71b5c5bed",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:49:33.186Z",
+      "updatedAt": "2024-09-23T05:49:33.186Z",
+      "verseId": "4723fade-ba0b-4ff9-932d-07e595dbe7de",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
+    },
+    {
+      "id": "c488bd21-cff0-4c60-b0f6-c1cac5f389e7",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:49:33.190Z",
+      "updatedAt": "2024-09-23T05:49:33.190Z",
+      "verseId": "4723fade-ba0b-4ff9-932d-07e595dbe7de",
+      "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "6c5f938c-8d77-4b6d-a65d-755943af65f2",
+    "id": "bec8880c-df85-4ff3-9482-64ff05121891",
     "title": "Cho Trưởng Ban Nhạc: dùng với nhạc khí bằng dây",
-    "createdAt": "2024-09-07T14:09:25.048Z",
-    "updatedAt": "2024-09-07T14:09:25.048Z",
-    "chapterId": "00f3eead-a0fd-470e-82d5-dc6d04f25bbf"
+    "createdAt": "2024-09-23T05:49:34.444Z",
+    "updatedAt": "2024-09-23T05:49:34.444Z",
+    "chapterId": "173427aa-f5ee-4597-a97b-5745638a34b1"
   }
 }

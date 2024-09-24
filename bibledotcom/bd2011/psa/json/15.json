@@ -1,188 +1,206 @@
 {
   "chapter": {
-    "id": "cada9b9d-7876-47fb-a932-deca47a2d469",
+    "id": "2f21508e-bd0c-4aae-bf22-63ec09210c78",
     "number": 15,
     "ref": "https://www.bible.com/bible/19/PSA.15.BD2011",
-    "createdAt": "2024-09-07T11:51:10.732Z",
-    "updatedAt": "2024-09-07T11:51:10.732Z",
-    "bookId": "67614455-e41d-4311-bd36-6e33fe552385"
+    "createdAt": "2024-09-23T05:08:40.255Z",
+    "updatedAt": "2024-09-23T05:08:40.255Z",
+    "bookId": "1840e6a0-f360-4f40-9af5-0d79349280d4"
   },
   "verses": [
     {
-      "id": "79956c6d-d9fa-4ee9-b09e-955dcd284770",
+      "id": "4d2d0c95-fc60-44a3-94a4-fcaf799886a3",
       "number": 1,
-      "content": "CHÚA ôi, ai sẽ được ở trong đền tạm Ngài?",
+      "content": "**CHÚA** ôi, ai sẽ được ở trong đền tạm Ngài?",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.168Z",
-      "updatedAt": "2024-09-07T13:57:57.168Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.797Z",
+      "updatedAt": "2024-09-23T05:45:26.797Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "3825176d-5936-41fa-bbf0-c4b60b4d2776",
+      "id": "27e8a2e1-efb2-43fb-856e-2c73e754879e",
       "number": 1,
       "content": "Ai sẽ được cư ngụ trên núi thánh Ngài?",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.168Z",
-      "updatedAt": "2024-09-07T13:57:57.168Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.817Z",
+      "updatedAt": "2024-09-23T05:45:26.817Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "778e1af2-8a33-46ea-917e-4ff2aff1f13c",
+      "id": "ce8c36e3-8fac-4d0a-9b33-48021035085a",
       "number": 2,
       "content": "Ấy là người sống ngay thẳng, làm theo lẽ phải,",
       "order": 0,
-      "parNumber": 3,
-      "parIndex": 1,
+      "parNumber": 2,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.177Z",
-      "updatedAt": "2024-09-07T13:57:57.177Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.821Z",
+      "updatedAt": "2024-09-23T05:45:26.821Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "f513c372-977f-4364-9779-1c755b5c02a2",
+      "id": "ace2a5ea-d953-474d-911c-2785f9380c2f",
       "number": 2,
       "content": "Và nói sự thật trong lòng.",
       "order": 1,
-      "parNumber": 4,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.177Z",
-      "updatedAt": "2024-09-07T13:57:57.177Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.826Z",
+      "updatedAt": "2024-09-23T05:45:26.826Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "b2dc2e9d-3869-4bce-a9aa-f8d41fe69db1",
+      "id": "05dc6ed5-6d46-464f-98e1-bee70c312e94",
       "number": 3,
       "content": "Người ấy không dùng lưỡi mình vu khống,",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 1,
+      "parNumber": 4,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.180Z",
-      "updatedAt": "2024-09-07T13:57:57.180Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.831Z",
+      "updatedAt": "2024-09-23T05:45:26.831Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "563a7299-7a98-4cb2-a7f9-c63c640bef91",
+      "id": "ad22cb5e-eb6a-4943-90fd-f9d47c2fafc8",
       "number": 3,
       "content": "Không làm hại người khác,",
       "order": 1,
-      "parNumber": 6,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.180Z",
-      "updatedAt": "2024-09-07T13:57:57.180Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.835Z",
+      "updatedAt": "2024-09-23T05:45:26.835Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "b0418796-9c01-48ab-8704-3b334e9a68e8",
+      "id": "e53c7c89-bdbb-41dc-987e-4359335bc1b1",
       "number": 3,
       "content": "Và không gây sỉ nhục cho bạn bè.",
       "order": 2,
-      "parNumber": 7,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.180Z",
-      "updatedAt": "2024-09-07T13:57:57.180Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.840Z",
+      "updatedAt": "2024-09-23T05:45:26.840Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "c6d80d82-40ff-4d40-b0e2-acbdc8d8e984",
+      "id": "91368542-65a4-4fb1-b835-2ca375375f04",
       "number": 4,
       "content": "Trong mắt người ấy, kẻ gian ác bị khinh rẻ,",
       "order": 0,
-      "parNumber": 8,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.182Z",
-      "updatedAt": "2024-09-07T13:57:57.182Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
-    },
-    {
-      "id": "3a31c696-4400-433b-a065-bab226bb7d15",
-      "number": 4,
-      "content": "Nhưng người kính sợ CHÚA được tôn trọng.",
-      "order": 1,
-      "parNumber": 9,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.182Z",
-      "updatedAt": "2024-09-07T13:57:57.182Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.845Z",
+      "updatedAt": "2024-09-23T05:45:26.845Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "99611616-bf10-4c72-bc8a-ae34df18d4b5",
+      "id": "1e76189a-51d3-4366-ab63-b8662cfc74a0",
+      "number": 4,
+      "content": "Nhưng người kính sợ **CHÚA** được tôn trọng.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T05:45:26.849Z",
+      "updatedAt": "2024-09-23T05:45:26.849Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
+    },
+    {
+      "id": "c4dbfdfe-80f7-4b9a-bafc-f9d172315646",
       "number": 4,
       "content": "Người ấy giữ lời thệ hứa, dù bị thiệt hại cũng không nuốt lời.",
       "order": 2,
-      "parNumber": 10,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.182Z",
-      "updatedAt": "2024-09-07T13:57:57.182Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.854Z",
+      "updatedAt": "2024-09-23T05:45:26.854Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "946e5a39-d607-4eb5-b4ef-cab874ec3042",
+      "id": "f3bb26a8-d346-4d7d-be7b-1b99a04df76c",
       "number": 5,
       "content": "Người ấy cho mượn tiền chẳng để lấy lời;",
       "order": 0,
-      "parNumber": 11,
-      "parIndex": 1,
+      "parNumber": 10,
+      "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.184Z",
-      "updatedAt": "2024-09-07T13:57:57.184Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.858Z",
+      "updatedAt": "2024-09-23T05:45:26.858Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "72a7e041-17de-4cfe-90d8-2821a6ccc6e2",
+      "id": "f637acd7-d89a-455a-b504-2799e0a0e0cd",
       "number": 5,
       "content": "Người ấy cũng không nhận của hối lộ để hại người vô tội.",
       "order": 1,
-      "parNumber": 12,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.184Z",
-      "updatedAt": "2024-09-07T13:57:57.184Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.864Z",
+      "updatedAt": "2024-09-23T05:45:26.864Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     },
     {
-      "id": "ba23f618-f137-4c49-90b5-dd225ae489ca",
+      "id": "21487d5b-2828-4c4c-b37a-3b8e310066e3",
       "number": 5,
       "content": "Phàm ai làm những điều ấy sẽ không bao giờ bị rúng động.",
       "order": 2,
-      "parNumber": 13,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-07T13:57:57.184Z",
-      "updatedAt": "2024-09-07T13:57:57.184Z",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.868Z",
+      "updatedAt": "2024-09-23T05:45:26.868Z",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "0667316a-5a91-4c4e-9ee1-1cd8ae9f491d",
-      "content": "Đặc Điểm của Người Tin Thờ CHÚA",
+      "id": "fabf0a41-238f-468b-858c-e964ef125a6c",
+      "content": "Đặc Điểm của Người Tin Thờ",
       "order": 0,
-      "createdAt": "2024-09-07T13:58:11.068Z",
-      "updatedAt": "2024-09-07T13:58:11.068Z",
-      "verseId": "79956c6d-d9fa-4ee9-b09e-955dcd284770",
-      "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+      "createdAt": "2024-09-23T05:45:26.806Z",
+      "updatedAt": "2024-09-23T05:45:26.806Z",
+      "verseId": "4d2d0c95-fc60-44a3-94a4-fcaf799886a3",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
+    },
+    {
+      "id": "9f143bd4-a9b5-4ac9-8d04-470cb4dcc420",
+      "content": "****",
+      "order": 1,
+      "createdAt": "2024-09-23T05:45:26.809Z",
+      "updatedAt": "2024-09-23T05:45:26.809Z",
+      "verseId": "4d2d0c95-fc60-44a3-94a4-fcaf799886a3",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
+    },
+    {
+      "id": "42ce413c-1689-4f72-9bc0-aa65116ae800",
+      "content": "CHÚA",
+      "order": 2,
+      "createdAt": "2024-09-23T05:45:26.812Z",
+      "updatedAt": "2024-09-23T05:45:26.812Z",
+      "verseId": "4d2d0c95-fc60-44a3-94a4-fcaf799886a3",
+      "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
     }
   ],
   "references": [],
   "psalmMetadata": {
-    "id": "de4e9a46-a15a-4256-be7f-46af288a9478",
+    "id": "fdb29a77-9ce4-408f-b3f5-60c8c9592a3d",
     "title": "Thơ của Đa-vít",
-    "createdAt": "2024-09-07T13:58:28.598Z",
-    "updatedAt": "2024-09-07T13:58:28.598Z",
-    "chapterId": "cada9b9d-7876-47fb-a932-deca47a2d469"
+    "createdAt": "2024-09-23T05:45:27.940Z",
+    "updatedAt": "2024-09-23T05:45:27.940Z",
+    "chapterId": "2f21508e-bd0c-4aae-bf22-63ec09210c78"
   }
 }

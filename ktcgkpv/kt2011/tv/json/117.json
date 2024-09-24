@@ -1,95 +1,95 @@
 {
   "chapter": {
-    "id": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752",
+    "id": "31c04882-981b-4524-9b87-467316ed137e",
     "number": 117,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "79096e14-cb15-480d-847f-fc57465f8434",
+      "id": "28740186-e9de-4737-bc4f-bcb20fb09e6c",
       "number": 1,
       "content": "Muôn nước hỡi, nào ca ngợi CHÚA,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:35.912Z",
-      "updatedAt": "2024-09-17T09:59:35.912Z",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.975Z",
+      "updatedAt": "2024-09-23T04:19:51.975Z",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     },
     {
-      "id": "abe99b68-f77b-47a1-b1d0-caef0dc389cf",
+      "id": "534078f4-8b3b-41de-888a-24a9943d4e9e",
       "number": 1,
       "content": "ngàn dân ơi, hãy chúc tụng Người !",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:35.921Z",
-      "updatedAt": "2024-09-17T09:59:35.921Z",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.984Z",
+      "updatedAt": "2024-09-23T04:19:51.984Z",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     },
     {
-      "id": "c49eef3e-6151-4fa9-8d7d-1bb863908a9d",
+      "id": "94af829f-4be4-4d30-9919-63083125e7a4",
       "number": 2,
       "content": "Vì tình Chúa thương ta thật là mãnh liệt,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:35.923Z",
-      "updatedAt": "2024-09-17T09:59:35.923Z",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.986Z",
+      "updatedAt": "2024-09-23T04:19:51.986Z",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     },
     {
-      "id": "2b85fab0-89ee-434a-9131-322ee787a955",
+      "id": "374bb5ae-76fd-4246-b2d8-9d751c2380c6",
       "number": 2,
       "content": "lòng thành tín của Người bền vững muôn năm. Ha-lê-lui-a.",
       "order": 1,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:59:35.925Z",
-      "updatedAt": "2024-09-17T09:59:35.925Z",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.990Z",
+      "updatedAt": "2024-09-23T04:19:51.990Z",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     }
   ],
   "footnotes": [
     {
-      "id": "b7b3c530-fd4a-40ca-b031-6bfe01bf4dd1",
-      "content": "<i>Thánh thi</i> này khá giống Tv 100 về cấu trúc (<b>1</b>) Lời kêu gọi : c.1 ; <b>2</b>) Lý do : c.2) cũng như về những yếu tố cấu thành (<i>muôn nước, ngàn dân</i> ; <i>ca ngợi, chúc tụng</i> ; <i>tình thương của Chúa</i> (= <span class=\"hebrew-translit\">HeseD</span>), <i>lòng thành tín của Người</i> (= <span class=\"hebrew-translit\">´émet</span>).",
+      "id": "922b995a-573f-4218-be2c-02703f594ca9",
+      "content": "*Thánh thi* này khá giống Tv 100 về cấu trúc (**1**) Lời kêu gọi : c.1 ; **2**) Lý do : c.2) cũng như về những yếu tố cấu thành (*muôn nước, ngàn dân* ; *ca ngợi, chúc tụng* ; *tình thương của Chúa* (= HeseD), *lòng thành tín của Người* (= ´émet).",
       "position": 43,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:35.917Z",
-      "updatedAt": "2024-09-17T09:59:35.917Z",
-      "headingId": "f2d14244-45cc-496c-aea0-da7d875ce977",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.981Z",
+      "updatedAt": "2024-09-23T04:19:51.981Z",
+      "headingId": "84cc2f14-0d93-403b-84f0-a7ca95e1277f",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     }
   ],
   "headings": [
     {
-      "id": "f2d14244-45cc-496c-aea0-da7d875ce977",
+      "id": "84cc2f14-0d93-403b-84f0-a7ca95e1277f",
       "content": "Tv 117 (116) Kêu gọi mọi người ca tụng Chúa",
       "order": 0,
-      "createdAt": "2024-09-17T09:59:35.915Z",
-      "updatedAt": "2024-09-17T09:59:35.915Z",
-      "verseId": "79096e14-cb15-480d-847f-fc57465f8434",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.979Z",
+      "updatedAt": "2024-09-23T04:19:51.979Z",
+      "verseId": "28740186-e9de-4737-bc4f-bcb20fb09e6c",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     }
   ],
   "references": [
     {
-      "id": "3523ffc7-50d7-49d5-aaa9-8d7fe0dcf2bf",
+      "id": "605b71f4-ea40-4960-ad9d-23d8abe708c4",
       "content": "Rm 15,11",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-17T09:59:35.919Z",
-      "updatedAt": "2024-09-17T09:59:35.919Z",
-      "verseId": "79096e14-cb15-480d-847f-fc57465f8434",
-      "chapterId": "40ddfe0e-4acf-4bb5-8b12-1577dd07e752"
+      "createdAt": "2024-09-23T04:19:51.983Z",
+      "updatedAt": "2024-09-23T04:19:51.983Z",
+      "verseId": "28740186-e9de-4737-bc4f-bcb20fb09e6c",
+      "chapterId": "31c04882-981b-4524-9b87-467316ed137e"
     }
   ]
 }

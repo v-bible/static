@@ -1,352 +1,289 @@
 {
   "chapter": {
-    "id": "54442ba1-960b-45df-8d26-684d3c175dd1",
+    "id": "0468d76e-48b7-4334-b936-4f4546d8042f",
     "number": 21,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.608Z",
-    "updatedAt": "2024-09-17T08:41:12.608Z",
-    "bookId": "f4984594-3b59-4af8-a702-410e7d60c46f"
+    "createdAt": "2024-09-23T03:08:02.198Z",
+    "updatedAt": "2024-09-23T03:08:02.198Z",
+    "bookId": "1cbdf270-d55b-48d7-82d1-3f51d1d0981d"
   },
   "verses": [
     {
-      "id": "6b509395-7627-4f74-90f0-3168283fbdc9",
+      "id": "e8b1909d-b94a-4478-83ee-812cd803139c",
       "number": 1,
-      "content": "Ông Đa-vít đứng dậy và ra đi, còn ông Giô-na-than thì trở về thành.",
+      "content": "Ông [Đa-vít]() đứng dậy và ra đi, còn ông [Giô-na-than]() thì trở về thành.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.772Z",
-      "updatedAt": "2024-09-17T09:28:25.772Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.750Z",
+      "updatedAt": "2024-09-23T03:53:30.750Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "7378b79a-bac8-420f-8160-da384ebf89ac",
-      "number": 2,
-      "content": "Ông đến Nốp gặp tư tế A-khi-me-léc. Ông A-khi-me-léc run sợ ra đón ông Đa-vít và hỏi ông : “Sao ông chỉ có một mình, không ai đi theo ?”",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.775Z",
-      "updatedAt": "2024-09-17T09:28:25.775Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "bd4fd1dd-e7d9-41ff-b533-09060b5725e0",
+      "id": "376404d7-fde6-4a03-856b-5dceae04f573",
       "number": 3,
-      "content": "Ông Đa-vít nói với tư tế A-khi-me-léc : “Đức vua đã giao cho tôi một nhiệm vụ và bảo tôi : ‘Không ai được biết gì về sứ mạng và nhiệm vụ ta giao cho ngươi.’ Các đầy tớ thì tôi đã hẹn đến chỗ kia rồi.",
+      "content": "Ông [Đa-vít]() nói với tư tế [A-khi-me-léc]() : “Đức vua đã giao cho tôi một nhiệm vụ và bảo tôi : ‘Không ai được biết gì về sứ mạng và nhiệm vụ ta giao cho ngươi.’ Các đầy tớ thì tôi đã hẹn đến chỗ kia rồi.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.783Z",
-      "updatedAt": "2024-09-17T09:28:25.783Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.753Z",
+      "updatedAt": "2024-09-23T03:53:30.753Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "c62183d2-ba0a-4436-b58e-61040c778cfd",
+      "id": "69df2c3f-e72b-45f9-95e2-3c2b39265cee",
       "number": 4,
-      "content": "Bây giờ ông có sẵn gì không ? Xin ông cho tôi năm cái bánh hay có gì cũng được.”",
+      "content": "Bây giờ ông có sẵn gì không ? [Xin]() ông cho tôi năm cái bánh hay có gì cũng được.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.785Z",
-      "updatedAt": "2024-09-17T09:28:25.785Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.755Z",
+      "updatedAt": "2024-09-23T03:53:30.755Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "bfd086ae-aaa7-4efa-86ee-fe07208e744e",
-      "number": 5,
-      "content": "Tư tế trả lời ông Đa-vít rằng : “Tôi không có sẵn bánh thường, chỉ có bánh thánh hiến, miễn là các đầy tớ đã giữ mình, không gần gũi đàn bà.”",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 3,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.787Z",
-      "updatedAt": "2024-09-17T09:28:25.787Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "edf15848-4ca4-4676-b907-90ad083c8208",
+      "id": "cb7b6373-f50c-4c5f-b648-f0c6cf39e171",
       "number": 6,
-      "content": "Ông Đa-vít trả lời tư tế rằng : “Phải, chúng tôi bị cấm không được gần gũi đàn bà, như xưa nay, mỗi khi tôi ra trận : các đầy tớ đã giữ thân thể cho được thánh. Đây là một chuyến đi thường, nhưng quả thật hôm nay họ đã giữ thân thể cho được thánh.”",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.790Z",
-      "updatedAt": "2024-09-17T09:28:25.790Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "16bf246b-95eb-4f4a-8d0d-99e7ce95fc74",
-      "number": 7,
-      "content": "Bấy giờ tư tế cho ông của thánh, vì ở đó không có bánh nào khác ngoài bánh tiến, thứ bánh đặt trước nhan ĐỨC CHÚA, mà người ta lấy đi để đặt bánh nóng vào, trong ngày thay bánh.",
+      "content": "Ông [Đa-vít]() trả lời tư tế rằng : “Phải, chúng tôi bị cấm không được gần gũi đàn bà, như xưa nay, mỗi khi tôi ra trận : các đầy tớ đã giữ thân thể cho được thánh. Đây là một chuyến đi thường, nhưng quả thật hôm nay họ đã giữ thân thể cho được thánh.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.794Z",
-      "updatedAt": "2024-09-17T09:28:25.794Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.757Z",
+      "updatedAt": "2024-09-23T03:53:30.757Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "f22e2a96-943c-484c-8979-c9c0731847ad",
+      "id": "10647af3-984b-416d-b025-4846320b7f97",
+      "number": 7,
+      "content": "Bấy giờ tư tế cho ông của thánh, vì ở đó không có bánh nào khác ngoài bánh tiến, thứ bánh đặt trước nhan [ĐỨC CHÚA](), mà người ta lấy đi để đặt bánh nóng vào, trong ngày thay bánh.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:30.761Z",
+      "updatedAt": "2024-09-23T03:53:30.761Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
+    },
+    {
+      "id": "35c7502c-8b15-4d61-938b-e42753255584",
       "number": 8,
-      "content": "Chính hôm ấy, ở đó có một người trong các bề tôi vua Sa-un, bị giữ lại trước nhan ĐỨC CHÚA. Nó tên là Đô-ếch, người Ê-đôm, và đứng đầu các người chăn chiên của vua Sa-un.",
+      "content": "Chính hôm ấy, ở đó có một người trong các bề tôi vua [Sa-un](), bị giữ lại trước nhan [ĐỨC CHÚA](). Nó tên là [Đô-ếch](), người [Ê-đôm](), và đứng đầu các người chăn chiên của vua [Sa-un]().",
       "order": 0,
       "parNumber": 3,
-      "parIndex": 0,
+      "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.796Z",
-      "updatedAt": "2024-09-17T09:28:25.796Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.764Z",
+      "updatedAt": "2024-09-23T03:53:30.764Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "c1b4c7c4-433e-4c28-9461-18f0810492ac",
+      "id": "dd3408b9-181c-49c6-8707-aab8451e2e25",
       "number": 9,
-      "content": "Ông Đa-vít nói với ông A-khi-me-léc : “Ông không có sẵn ở đây một cây giáo hay một thanh gươm ư ? Tôi đã không mang theo cả gươm lẫn vũ khí của tôi, vì việc của đức vua quá khẩn cấp !”",
+      "content": "Ông [Đa-vít]() nói với ông [A-khi-me-léc]() : “Ông không có sẵn ở đây một cây giáo hay một thanh gươm ư ? Tôi đã không mang theo cả gươm lẫn vũ khí của tôi, vì việc của đức vua quá khẩn cấp !”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.800Z",
-      "updatedAt": "2024-09-17T09:28:25.800Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.767Z",
+      "updatedAt": "2024-09-23T03:53:30.767Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "fe389588-890f-4ac4-b041-45e6897b67c6",
+      "id": "400c54f0-6263-4d46-b59a-c4b42b05ce3d",
       "number": 10,
-      "content": "Tư tế nói : “Có thanh gươm của tên Go-li-át người Phi-li-tinh, ông đã hạ tại thung lũng Cây Vân Hương ; thanh gươm đó ở kia, bọc trong một áo choàng, đằng sau ê-phốt. Nếu ông muốn lấy, thì cứ lấy, vì ngoài nó ra, ở đây không có gươm nào khác.” Ông Đa-vít nói : “Đó là thanh gươm có một không hai. Ông hãy đưa cho tôi.”",
+      "content": "Tư tế nói : “Có thanh gươm của tên [Go-li-át]() người [Phi-li-tinh](), ông đã hạ tại thung lũng [Cây Vân Hương]() ; thanh gươm đó ở kia, bọc trong một áo choàng, đằng sau ê-phốt. Nếu ông muốn lấy, thì cứ lấy, vì ngoài nó ra, ở đây không có gươm nào khác.” Ông [Đa-vít]() nói : “Đó là thanh gươm có một không hai. Ông hãy đưa cho tôi.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.802Z",
-      "updatedAt": "2024-09-17T09:28:25.802Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.769Z",
+      "updatedAt": "2024-09-23T03:53:30.769Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "226c8c47-5d3f-4b88-8573-42d3cb53c7fd",
+      "id": "171a3c62-8b89-4f11-8f64-e0529a8c6a7d",
       "number": 11,
-      "content": "Ông Đa-vít lên đường và ngày hôm đó trốn vua Sa-un. Ông đến gặp A-khít, vua thành Gát.",
+      "content": "Ông [Đa-vít]() lên đường và ngày hôm đó trốn vua [Sa-un](). Ông đến gặp [A-khít](), vua thành [Gát]().",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.806Z",
-      "updatedAt": "2024-09-17T09:28:25.806Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.773Z",
+      "updatedAt": "2024-09-23T03:53:30.773Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "bfe8f302-3742-459c-9376-1b93a50b2211",
+      "id": "9bee47e2-28fe-4a1c-acd8-75b55692ffd7",
       "number": 12,
-      "content": "Triều thần vua A-khít thưa với vua : “Tên này chẳng phải là Đa-vít, vua xứ đó sao ? Người ta đã chẳng múa nhảy hát mừng nó rằng :",
+      "content": "Triều thần vua [A-khít]() thưa với vua : “Tên này chẳng phải là [Đa-vít](), vua xứ đó sao ? Người ta đã chẳng múa nhảy hát mừng nó rằng :",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.813Z",
-      "updatedAt": "2024-09-17T09:28:25.813Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.781Z",
+      "updatedAt": "2024-09-23T03:53:30.781Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "c53840a1-cabd-41cb-8e8c-19ccc4007b8b",
+      "id": "b5805359-560b-41d6-b1ed-d0e47c2e1ca5",
       "number": 12,
-      "content": "‘Vua Sa-un hạ được hàng ngàn,",
+      "content": "‘Vua [Sa-un]() hạ được hàng ngàn,",
       "order": 1,
-      "parNumber": 5,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:28:25.815Z",
-      "updatedAt": "2024-09-17T09:28:25.815Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "0c15ae66-bdc5-4d83-ae85-8664436c0137",
-      "number": 12,
-      "content": "ông Đa-vít hàng vạn’ ?”",
-      "order": 2,
-      "parNumber": 5,
-      "parIndex": 1,
-      "isPoetry": true,
-      "createdAt": "2024-09-17T09:28:25.819Z",
-      "updatedAt": "2024-09-17T09:28:25.819Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "4b3cef30-a356-4404-a57b-3814ea7e4ef1",
-      "number": 13,
-      "content": "Ông Đa-vít suy nghĩ về những lời ấy, và sợ A-khít, vua thành Gát lắm.",
-      "order": 0,
       "parNumber": 6,
       "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.822Z",
-      "updatedAt": "2024-09-17T09:28:25.822Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:53:30.783Z",
+      "updatedAt": "2024-09-23T03:53:30.783Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "e3631aeb-33ce-4131-bf3f-1ab7909f1ba8",
+      "id": "73bd403b-02c0-4634-938f-341f12ef2b0e",
+      "number": 12,
+      "content": "ông [Đa-vít]() hàng vạn’ ?”",
+      "order": 2,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:53:30.788Z",
+      "updatedAt": "2024-09-23T03:53:30.788Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
+    },
+    {
+      "id": "3b9fc7fa-d443-4f99-903b-ff1179db152f",
+      "number": 13,
+      "content": "Ông [Đa-vít]() suy nghĩ về những lời ấy, và sợ [A-khít](), vua thành [Gát]() lắm.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:30.790Z",
+      "updatedAt": "2024-09-23T03:53:30.790Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
+    },
+    {
+      "id": "6341dce2-e297-47ca-b04a-0352e855c063",
       "number": 14,
       "content": "Bấy giờ ông giả dại trước mắt chúng, và trong tay chúng, ông làm bộ khùng : ông viết nguệch ngoạc trên các cánh cửa và để dãi chảy xuống râu.",
       "order": 0,
-      "parNumber": 6,
+      "parNumber": 8,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.825Z",
-      "updatedAt": "2024-09-17T09:28:25.825Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.792Z",
+      "updatedAt": "2024-09-23T03:53:30.792Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "d6b0a470-c88b-4958-98bc-61cc517afca3",
+      "id": "86bcafd3-3ef5-4dc7-90e2-9fb6033e069c",
       "number": 15,
-      "content": "Vua A-khít bảo triều thần : “Đấy các ngươi thấy nó là một thằng điên. Tại sao các ngươi lại đưa nó đến với ta ?",
+      "content": "Vua [A-khít]() bảo triều thần : “Đấy các ngươi thấy nó là một thằng điên. Tại sao các ngươi lại đưa nó đến với ta ?",
       "order": 0,
-      "parNumber": 7,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.829Z",
-      "updatedAt": "2024-09-17T09:28:25.829Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.797Z",
+      "updatedAt": "2024-09-23T03:53:30.797Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "429532f2-faed-4d2c-92eb-b091b1631aa7",
+      "id": "e4939ba5-580f-4b4d-9a33-9c218de82d93",
       "number": 16,
       "content": "Ta đâu thiếu người điên mà các ngươi còn đưa tên này đến để nó làm thằng điên bên ta ? Tên này mà lại vào nhà ta ư ?”",
       "order": 0,
-      "parNumber": 7,
+      "parNumber": 9,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:28:25.831Z",
-      "updatedAt": "2024-09-17T09:28:25.831Z",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.800Z",
+      "updatedAt": "2024-09-23T03:53:30.800Z",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     }
   ],
   "footnotes": [
     {
-      "id": "bdcb1b08-2aa4-4721-b8a5-f5c71e3b4a80",
-      "content": "<i>Nốp</i> : việc định vị địa điểm này còn đang tranh cãi. Có thể Nốp nằm không xa Ghe-va (Is 10,32), trong đất Ben-gia-min, phía bắc Giê-ru-sa-lem. Các tư tế Si-lô đã dời về đây sau biến cố ghi ở ch. 4 (x. 1,3+). – <i>A-khi-me-léc</i> là dòng dõi tư tế Ê-li ở Si-lô (x. 14,3 và 22,9) ; thường bị tưởng lầm là ông A-khi-gia, nhưng có thể chỉ là anh em của ông ấy. – Lời của ông Đa-vít với tư tế cho thấy ông không thành thật, cũng lắm mưu mô. Sau này vì liên luỵ với Đa-vít mà các tư tế Si-lô sẽ bị vua Sa-un trừng phạt (x. 22,13tt).",
-      "position": 0,
-      "order": 0,
-      "createdAt": "2024-09-17T09:28:25.779Z",
-      "updatedAt": "2024-09-17T09:28:25.779Z",
-      "verseId": "7378b79a-bac8-420f-8160-da384ebf89ac",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "d2365eaf-22b4-41fa-afc3-ce972672cef9",
-      "content": "Lv 24,5-9 dành bánh thánh hiến cho các tư tế thôi. Nhưng vào thời Đa-vít, có thể cho người thường dùng, miễn là họ được sạch. – <i>Đầy tớ</i> : chỉ các chàng trai thủ hạ và tháp tùng Đa-vít.",
-      "position": 0,
-      "order": 1,
-      "createdAt": "2024-09-17T09:28:25.789Z",
-      "updatedAt": "2024-09-17T09:28:25.789Z",
-      "verseId": "bfd086ae-aaa7-4efa-86ee-fe07208e744e",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "fa10a617-3240-4f3c-b201-1a3f65049400",
-      "content": "C.6, Đa-vít trả lời lúng túng, và M rất khó dịch. Dịch ước đoán đại ý rằng : “Tuy đây không phải là ra trận (thánh chiến), <i>chỉ là chuyến đi thường</i>, nhưng tuỳ tùng của tôi đã giữ luật thanh sạch.” – <i>Giữ thân thể</i> : dịch bóng bẩy và khái quát một từ Híp-ri dị nghĩa. – <i>Bánh tiến</i> (c.7) : x. Xh 25,30 ; Lv 24,5-9 ; Mt 12,3-4.",
+      "id": "5d3d3174-0824-4a68-bf47-bdf567998e29",
+      "content": "C.6, Đa-vít trả lời lúng túng, và M rất khó dịch. Dịch ước đoán đại ý rằng : “Tuy đây không phải là ra trận (thánh chiến), *chỉ là chuyến đi thường*, nhưng tuỳ tùng của tôi đã giữ luật thanh sạch.” – *Giữ thân thể* : dịch bóng bẩy và khái quát một từ Híp-ri dị nghĩa. – *Bánh tiến* (c.7) : x. Xh 25,30 ; Lv 24,5-9 ; Mt 12,3-4.",
       "position": 0,
       "order": 2,
-      "createdAt": "2024-09-17T09:28:25.792Z",
-      "updatedAt": "2024-09-17T09:28:25.792Z",
-      "verseId": "edf15848-4ca4-4676-b907-90ad083c8208",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.759Z",
+      "updatedAt": "2024-09-23T03:53:30.759Z",
+      "verseId": "cb7b6373-f50c-4c5f-b648-f0c6cf39e171",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "213a6132-1f08-474e-a369-bac290bae28f",
+      "id": "dc4e7d05-e7ad-4562-a0d4-feab89518542",
       "content": "Câu này chuẩn bị cho 22,9-10.18.22.",
       "position": 0,
       "order": 3,
-      "createdAt": "2024-09-17T09:28:25.798Z",
-      "updatedAt": "2024-09-17T09:28:25.798Z",
-      "verseId": "f22e2a96-943c-484c-8979-c9c0731847ad",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.765Z",
+      "updatedAt": "2024-09-23T03:53:30.765Z",
+      "verseId": "35c7502c-8b15-4d61-938b-e42753255584",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "3e0ccd77-1a60-4029-a318-51f3e231e3e6",
-      "content": "<i>Thanh gươm</i> : nhắc lại câu chuyện với Go-li-át ghi ở ch. 17. – <i>Ê-phốt (túi đeo trước ngực)</i> : dụng cụ (bói toán và) thỉnh ý Chúa của tư tế. 22,10 sẽ cho thấy Đô-ếch tố cáo với vua rằng tư tế đã thỉnh ý Chúa cho Đa-vít.",
+      "id": "d92e263c-11e5-487c-8421-f3675bc301fb",
+      "content": "*Thanh gươm* : nhắc lại câu chuyện với Go-li-át ghi ở ch. 17. – *Ê-phốt (túi đeo trước ngực)* : dụng cụ (bói toán và) thỉnh ý Chúa của tư tế. 22,10 sẽ cho thấy Đô-ếch tố cáo với vua rằng tư tế đã thỉnh ý Chúa cho Đa-vít.",
       "position": 11,
       "order": 4,
-      "createdAt": "2024-09-17T09:28:25.804Z",
-      "updatedAt": "2024-09-17T09:28:25.804Z",
-      "verseId": "fe389588-890f-4ac4-b041-45e6897b67c6",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.771Z",
+      "updatedAt": "2024-09-23T03:53:30.771Z",
+      "verseId": "400c54f0-6263-4d46-b59a-c4b42b05ce3d",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "fe5ddab3-19e1-4452-a507-e8471abcdc16",
+      "id": "434fa205-de36-4a63-a1de-cc432c28339c",
       "content": "Phần này tiếp tục ca ngợi một Đa-vít xảo quyệt, với một mưu mẹo khác nữa (x. 23,22b). Giọng điệu khác hẳn văn phong các ch. 27 và 29 nói về liên hệ của Đa-vít với quân Phi-li-tinh.",
-      "position": 36,
+      "position": 44,
       "order": 5,
-      "createdAt": "2024-09-17T09:28:25.810Z",
-      "updatedAt": "2024-09-17T09:28:25.810Z",
-      "headingId": "aa82123a-b304-4500-9dd1-94eb3920f37e",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.777Z",
+      "updatedAt": "2024-09-23T03:53:30.777Z",
+      "headingId": "7bbe83c9-999b-4f85-b2a0-38f914714dff",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     }
   ],
   "headings": [
     {
-      "id": "2e72958f-6716-4fb1-9b6a-aad53c01e2d5",
-      "content": "Ông Đa-vít dừng lại ở Nốp",
+      "id": "7bbe83c9-999b-4f85-b2a0-38f914714dff",
+      "content": "Ông [Đa-vít]() đến với người [Phi-li-tinh]()",
       "order": 0,
-      "createdAt": "2024-09-17T09:28:25.777Z",
-      "updatedAt": "2024-09-17T09:28:25.777Z",
-      "verseId": "7378b79a-bac8-420f-8160-da384ebf89ac",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "aa82123a-b304-4500-9dd1-94eb3920f37e",
-      "content": "Ông Đa-vít đến với người Phi-li-tinh",
-      "order": 0,
-      "createdAt": "2024-09-17T09:28:25.808Z",
-      "updatedAt": "2024-09-17T09:28:25.808Z",
-      "verseId": "226c8c47-5d3f-4b88-8573-42d3cb53c7fd",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.775Z",
+      "updatedAt": "2024-09-23T03:53:30.775Z",
+      "verseId": "171a3c62-8b89-4f11-8f64-e0529a8c6a7d",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     }
   ],
   "references": [
     {
-      "id": "1232199a-108b-42a2-baaf-1e3158fdc871",
-      "content": "1 Sm 16,4",
-      "position": 53,
-      "order": 0,
-      "createdAt": "2024-09-17T09:28:25.781Z",
-      "updatedAt": "2024-09-17T09:28:25.781Z",
-      "verseId": "7378b79a-bac8-420f-8160-da384ebf89ac",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
-    },
-    {
-      "id": "6266b46c-7ce3-4fb4-b599-385a102701f3",
+      "id": "0dcdff6d-c91f-4bda-8ed8-84ee7dba190d",
       "content": "1 Sm 27,2",
-      "position": 64,
+      "position": 72,
       "order": 1,
-      "createdAt": "2024-09-17T09:28:25.811Z",
-      "updatedAt": "2024-09-17T09:28:25.811Z",
-      "verseId": "226c8c47-5d3f-4b88-8573-42d3cb53c7fd",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.779Z",
+      "updatedAt": "2024-09-23T03:53:30.779Z",
+      "verseId": "171a3c62-8b89-4f11-8f64-e0529a8c6a7d",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "dd53a183-8741-4461-ba26-272682c5e900",
+      "id": "3ac4ef74-51cf-424a-9e38-518872c7d7f2",
       "content": "1 Sm 18,7; 29,5",
       "position": 5,
       "order": 2,
-      "createdAt": "2024-09-17T09:28:25.817Z",
-      "updatedAt": "2024-09-17T09:28:25.817Z",
-      "verseId": "c53840a1-cabd-41cb-8e8c-19ccc4007b8b",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.786Z",
+      "updatedAt": "2024-09-23T03:53:30.786Z",
+      "verseId": "b5805359-560b-41d6-b1ed-d0e47c2e1ca5",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     },
     {
-      "id": "4c0cec72-c3f2-47a2-a4c1-685c9554f5a7",
+      "id": "77226330-bf35-4565-953f-924bcc6689bd",
       "content": "Tv 34,1",
       "position": 12,
       "order": 3,
-      "createdAt": "2024-09-17T09:28:25.827Z",
-      "updatedAt": "2024-09-17T09:28:25.827Z",
-      "verseId": "e3631aeb-33ce-4131-bf3f-1ab7909f1ba8",
-      "chapterId": "54442ba1-960b-45df-8d26-684d3c175dd1"
+      "createdAt": "2024-09-23T03:53:30.795Z",
+      "updatedAt": "2024-09-23T03:53:30.795Z",
+      "verseId": "6341dce2-e297-47ca-b04a-0352e855c063",
+      "chapterId": "0468d76e-48b7-4334-b936-4f4546d8042f"
     }
   ]
 }

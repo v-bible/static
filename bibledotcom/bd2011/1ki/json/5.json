@@ -1,293 +1,293 @@
 {
   "chapter": {
-    "id": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7",
+    "id": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64",
     "number": 5,
     "ref": "https://www.bible.com/bible/19/1KI.5.BD2011",
-    "createdAt": "2024-09-07T11:51:09.210Z",
-    "updatedAt": "2024-09-07T11:51:09.210Z",
-    "bookId": "376802b6-744d-4993-8426-18f838ae0b77"
+    "createdAt": "2024-09-23T05:08:39.522Z",
+    "updatedAt": "2024-09-23T05:08:39.522Z",
+    "bookId": "9e725fed-b2b5-477f-bba1-e5d98b1a965c"
   },
   "verses": [
     {
-      "id": "bd2f9473-d96e-48d3-b840-9acfab185649",
+      "id": "b298e2e7-7cb6-4b7a-beb1-c5454ef94f38",
       "number": 1,
       "content": "Khi Vua Hi-ram của Ty-rơ nghe rằng Sa-lô-môn đã được xức dầu làm vua kế vị cho vua cha là Đa-vít, ông sai các sứ giả đến triều kiến Sa-lô-môn, vì ông mến mộ Vua Đa-vít lúc sinh tiền.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:30:28.010Z",
+      "updatedAt": "2024-09-23T05:30:28.010Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "8946eb3d-4aaa-4031-9c99-788094623232",
+      "number": 2,
+      "content": "Sa-lô-môn gởi sứ điệp đến Vua Hi-ram, tâu rằng:",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:30:28.031Z",
+      "updatedAt": "2024-09-23T05:30:28.031Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "520baffe-f070-407c-a469-f19a9a6bd9b0",
+      "number": 3,
+      "content": "“Chắc ngài đã biết rằng vì chiến tranh giặc giã tứ phía nên Đa-vít thân phụ tôi đã không thể xây cất một Đền Thờ cho danh **CHÚA**, Đức Chúa Trời của người, cho đến khi **CHÚA** đã cho người đè bẹp các kẻ thù của người dưới chân.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.857Z",
-      "updatedAt": "2024-09-07T12:51:45.857Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.036Z",
+      "updatedAt": "2024-09-23T05:30:28.036Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "b7ebe336-713b-4283-be0f-2d1d7594b5ac",
-      "number": 2,
-      "content": "Sa-lô-môn gởi sứ điệp đến Vua Hi-ram, tâu rằng:",
+      "id": "35e867c9-4b8c-4dc1-b134-6e736433415b",
+      "number": 4,
+      "content": "Nhưng bây giờ **CHÚA**, Đức Chúa Trời của tôi, đã cho tôi được bình an tứ phía, không còn quân thù và cũng chẳng có tai họa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.867Z",
-      "updatedAt": "2024-09-07T12:51:45.867Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.041Z",
+      "updatedAt": "2024-09-23T05:30:28.041Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "8507c078-25fe-475d-b6b7-680ab3054bfc",
-      "number": 3,
-      "content": "“Chắc ngài đã biết rằng vì chiến tranh giặc giã tứ phía nên Đa-vít thân phụ tôi đã không thể xây cất một Đền Thờ cho danh CHÚA, Đức Chúa Trời của người, cho đến khi CHÚA đã cho người đè bẹp các kẻ thù của người dưới chân.",
+      "id": "34d7fadb-82b5-4263-81d2-fb23821d399c",
+      "number": 5,
+      "content": "Vì thế tôi muốn xây một Đền Thờ cho danh **CHÚA**, Đức Chúa Trời của tôi, như **CHÚA** đã phán với Đa-vít thân phụ tôi rằng, ‘Con trai ngươi, kẻ Ta sẽ đặt trên ngai kế vị ngươi, sẽ xây một Đền Thờ cho danh Ta.’",
       "order": 0,
-      "parNumber": 2,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.873Z",
-      "updatedAt": "2024-09-07T12:51:45.873Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "8f9c9f8a-96d9-4aac-930e-f53c46baef1d",
-      "number": 4,
-      "content": "Nhưng bây giờ CHÚA, Đức Chúa Trời của tôi, đã cho tôi được bình an tứ phía, không còn quân thù và cũng chẳng có tai họa.",
-      "order": 0,
-      "parNumber": 2,
+      "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.878Z",
-      "updatedAt": "2024-09-07T12:51:45.878Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.046Z",
+      "updatedAt": "2024-09-23T05:30:28.046Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "f5a59da6-2458-44bc-b3ec-bb6b587929ec",
-      "number": 5,
-      "content": "Vì thế tôi muốn xây một Đền Thờ cho danh CHÚA, Đức Chúa Trời của tôi, như CHÚA đã phán với Đa-vít thân phụ tôi rằng, ‘Con trai ngươi, kẻ Ta sẽ đặt trên ngai kế vị ngươi, sẽ xây một Đền Thờ cho danh Ta.’",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 3,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.884Z",
-      "updatedAt": "2024-09-07T12:51:45.884Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "0203f3c4-3abf-4236-a439-bacd351f7e36",
+      "id": "4276b1ae-c186-4d24-ba36-4ef471dfd7ba",
       "number": 6,
       "content": "Vậy xin ngài ban lịnh cho phép đốn những cây bá hương ở Li-băng cho tôi. Người của tôi sẽ làm việc với người của ngài. Tôi sẽ trả lương cho người của ngài theo giá do ngài ấn định, vì ngài biết rằng không ai trong chúng tôi thạo nghề đốn gỗ bằng người Si-đôn.”",
       "order": 0,
-      "parNumber": 2,
-      "parIndex": 4,
+      "parNumber": 1,
+      "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.889Z",
-      "updatedAt": "2024-09-07T12:51:45.889Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.051Z",
+      "updatedAt": "2024-09-23T05:30:28.051Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "d0fc13b1-42f4-49d4-8013-7e9956027907",
+      "id": "ddba1af9-e978-4dbb-87a8-d0a634f12155",
       "number": 7,
-      "content": "Khi Hi-ram nghe những lời của Sa-lô-môn, ông rất vui mừng và nói, “Chúc tụng CHÚA, vì ngày nay Ngài đã ban cho Đa-vít một con trai khôn ngoan để trị vì trên một nước lớn như thế.”",
+      "content": "Khi Hi-ram nghe những lời của Sa-lô-môn, ông rất vui mừng và nói, “Chúc tụng **CHÚA**, vì ngày nay Ngài đã ban cho Đa-vít một con trai khôn ngoan để trị vì trên một nước lớn như thế.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:30:28.057Z",
+      "updatedAt": "2024-09-23T05:30:28.057Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "a1a71362-39d5-40ee-8708-c931820ca409",
+      "number": 8,
+      "content": "Vậy Hi-ram sai người đến nói với Sa-lô-môn, “Tôi đã nhận được sứ điệp do ngài đã sai người đem đến tôi. Tôi sẽ làm cho ngài mọi điều ngài muốn về việc gỗ bá hương và gỗ tùng.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:30:28.062Z",
+      "updatedAt": "2024-09-23T05:30:28.062Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "70547690-bfea-48d9-9456-045874a58ce5",
+      "number": 9,
+      "content": "Người của tôi sẽ di chuyển các gỗ đó từ Li-băng xuống biển, rồi tôi sẽ cho đóng bè và đưa đến nơi ngài chỉ định. Tại đó, tôi sẽ rã bè, và ngài sẽ lấy đi. Còn ngài, xin ngài làm cho tôi điều tôi yêu cầu, ấy là cung cấp lương thực cho cả triều đình của tôi.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.894Z",
-      "updatedAt": "2024-09-07T12:51:45.894Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.067Z",
+      "updatedAt": "2024-09-23T05:30:28.067Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "c0efb5dc-cca1-4819-b168-5b4939aa22d1",
-      "number": 8,
-      "content": "Vậy Hi-ram sai người đến nói với Sa-lô-môn, “Tôi đã nhận được sứ điệp do ngài đã sai người đem đến tôi. Tôi sẽ làm cho ngài mọi điều ngài muốn về việc gỗ bá hương và gỗ tùng.",
-      "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.900Z",
-      "updatedAt": "2024-09-07T12:51:45.900Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "ea51d525-1f65-4e73-9cab-e577744318c2",
-      "number": 9,
-      "content": "Người của tôi sẽ di chuyển các gỗ đó từ Li-băng xuống biển, rồi tôi sẽ cho đóng bè và đưa đến nơi ngài chỉ định. Tại đó, tôi sẽ rã bè, và ngài sẽ lấy đi. Còn ngài, xin ngài làm cho tôi điều tôi yêu cầu, ấy là cung cấp lương thực cho cả triều đình của tôi.”",
-      "order": 0,
-      "parNumber": 4,
-      "parIndex": 2,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.905Z",
-      "updatedAt": "2024-09-07T12:51:45.905Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "fa9f91f4-033c-4a50-ba10-091d5845021d",
+      "id": "aa6d0f7f-0022-4711-a67a-983edf8fb1a0",
       "number": 10,
       "content": "Như thế Hi-ram cung cấp cho Sa-lô-môn tất cả gỗ bá hương và gỗ tùng ông muốn.",
       "order": 0,
-      "parNumber": 5,
-      "parIndex": 1,
+      "parNumber": 4,
+      "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.910Z",
-      "updatedAt": "2024-09-07T12:51:45.910Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.072Z",
+      "updatedAt": "2024-09-23T05:30:28.072Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "f9c8d28c-aede-489b-a599-355c372c973f",
+      "id": "eaef3f25-efab-407a-a741-f3a58d9342dd",
       "number": 11,
       "content": "Còn Sa-lô-môn cung cấp cho Hi-ram bốn ngàn bốn trăm tấn lúa mì làm lương thực cho triều đình của ông ấy. Ngoài ra ông còn cấp thêm cho Hi-ram bốn ngàn bốn trăm lít dầu ô-liu nguyên chất. Sa-lô-môn cung cấp như thế cho Hi-ram hằng năm.",
       "order": 0,
-      "parNumber": 5,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T05:30:28.077Z",
+      "updatedAt": "2024-09-23T05:30:28.077Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "308a538e-d7d6-4a05-8321-06482678eaf6",
+      "number": 12,
+      "content": "**CHÚA** ban cho Sa-lô-môn sự khôn ngoan như Ngài đã phán với ông. Giữa Hi-ram và Sa-lô-môn có mối giao hảo thân thiện, và hai vua đã kết ước với nhau.",
+      "order": 0,
+      "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.916Z",
-      "updatedAt": "2024-09-07T12:51:45.916Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.091Z",
+      "updatedAt": "2024-09-23T05:30:28.091Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "0b44967a-36e3-4961-8322-37d0fc8b6e25",
-      "number": 12,
-      "content": "CHÚA ban cho Sa-lô-môn sự khôn ngoan như Ngài đã phán với ông. Giữa Hi-ram và Sa-lô-môn có mối giao hảo thân thiện, và hai vua đã kết ước với nhau.",
-      "order": 0,
-      "parNumber": 5,
-      "parIndex": 3,
-      "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.921Z",
-      "updatedAt": "2024-09-07T12:51:45.921Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "4ac7a397-700d-4c0c-b5bd-b36153e3137a",
+      "id": "80e2563a-92ff-4512-94a5-8ae258db3fed",
       "number": 13,
       "content": "Vua Sa-lô-môn truyền lịnh trưng dụng dân công trong khắp I-sơ-ra-ên. Có ba mươi ngàn người nằm trong thành phần này.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 1,
+      "parNumber": 5,
+      "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.926Z",
-      "updatedAt": "2024-09-07T12:51:45.926Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.096Z",
+      "updatedAt": "2024-09-23T05:30:28.096Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "4283a5f8-00ea-4f5e-86e3-82a0e25ff2c8",
+      "id": "60ddfd04-4353-4883-ad00-579a7fb56580",
       "number": 14,
       "content": "Vua phái họ thay phiên nhau đến Li-băng, mỗi tháng mười ngàn người. Vậy họ ở Li-băng một tháng và ở nhà hai tháng. A-đô-ni-ram chỉ huy lực lượng dân công này.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 2,
+      "parNumber": 5,
+      "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.931Z",
-      "updatedAt": "2024-09-07T12:51:45.931Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.100Z",
+      "updatedAt": "2024-09-23T05:30:28.100Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "1ef5a5f6-7a2b-47f5-abbb-446a50d1f003",
+      "id": "aff3cd6a-613c-409a-a504-40c31e6caa47",
       "number": 15,
       "content": "Sa-lô-môn có bảy mươi ngàn người làm lao công và tám mươi ngàn người đục đá trên núi.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 3,
+      "parNumber": 5,
+      "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.936Z",
-      "updatedAt": "2024-09-07T12:51:45.936Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.105Z",
+      "updatedAt": "2024-09-23T05:30:28.105Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "13d978e9-2b76-4920-b636-1471fd2648ae",
+      "id": "6c1f1015-7d01-4951-b3ec-3bb6148d09e9",
       "number": 16,
       "content": "Ngoài ra, còn có ba ngàn ba trăm người do Sa-lô-môn bổ nhiệm để quản lý công trình xây cất và điều động nhân công.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 4,
+      "parNumber": 5,
+      "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.942Z",
-      "updatedAt": "2024-09-07T12:51:45.942Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.110Z",
+      "updatedAt": "2024-09-23T05:30:28.110Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "3b6c48ee-f4b9-4a1a-b6b5-b9c509df9a2f",
+      "id": "c3cda3a0-d57f-429a-b8ff-e15f092450f6",
       "number": 17,
       "content": "Theo lịnh vua, họ cho đục những tảng đá quý thành những phiến đá vuông vức và to lớn để làm nền Đền Thờ.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 5,
+      "parNumber": 5,
+      "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.947Z",
-      "updatedAt": "2024-09-07T12:51:45.947Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.121Z",
+      "updatedAt": "2024-09-23T05:30:28.121Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "0352e3f5-8de0-4c83-a46f-86e6523b8fcb",
+      "id": "705f64af-1315-49f3-9a36-02d2bec3127e",
       "number": 18,
       "content": "Những thợ khéo của Sa-lô-môn và Hi-ram cùng với người Ghê-banh lo việc đốn gỗ và đục đá để chuẩn bị xây cất Đền Thờ.",
       "order": 0,
-      "parNumber": 6,
-      "parIndex": 6,
+      "parNumber": 5,
+      "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-07T12:51:45.952Z",
-      "updatedAt": "2024-09-07T12:51:45.952Z",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.126Z",
+      "updatedAt": "2024-09-23T05:30:28.126Z",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     }
   ],
   "footnotes": [
     {
-      "id": "dfc84149-0db2-4630-b0a4-fc7bdb6d00c4",
+      "id": "07ff436e-9f7a-4287-8180-e78df03ef2db",
       "content": "nt: 20.000 cô-rơ",
       "position": 55,
       "order": 0,
-      "createdAt": "2024-09-07T12:51:47.142Z",
-      "updatedAt": "2024-09-07T12:51:47.142Z",
-      "verseId": "f9c8d28c-aede-489b-a599-355c372c973f",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.082Z",
+      "updatedAt": "2024-09-23T05:30:28.082Z",
+      "verseId": "eaef3f25-efab-407a-a741-f3a58d9342dd",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "dcd64a76-f999-4629-a13e-1475d7bf0331",
-      "content": "2 Sử 2:2, 18 ghi 3.600 người",
-      "position": 32,
-      "order": 1,
-      "createdAt": "2024-09-07T12:51:47.157Z",
-      "updatedAt": "2024-09-07T12:51:47.157Z",
-      "verseId": "13d978e9-2b76-4920-b636-1471fd2648ae",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
-    },
-    {
-      "id": "22e1956c-b752-4139-9291-4db5be057ca4",
+      "id": "9b438515-cfc6-4648-87b9-6a2cc8c482e1",
       "content": "2 Sử 2:10 chép 20,000 baths (440.000 lít)",
       "position": 163,
       "order": 1,
-      "createdAt": "2024-09-07T12:51:47.159Z",
-      "updatedAt": "2024-09-07T12:51:47.159Z",
-      "verseId": "f9c8d28c-aede-489b-a599-355c372c973f",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.087Z",
+      "updatedAt": "2024-09-23T05:30:28.087Z",
+      "verseId": "eaef3f25-efab-407a-a741-f3a58d9342dd",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     },
     {
-      "id": "98399517-27af-4869-99b6-3334dbb4e717",
+      "id": "d58c6042-7142-495a-ae5e-4967c0c0341e",
+      "content": "2 Sử 2:2, 18 ghi 3.600 người",
+      "position": 32,
+      "order": 2,
+      "createdAt": "2024-09-23T05:30:28.116Z",
+      "updatedAt": "2024-09-23T05:30:28.116Z",
+      "verseId": "6c1f1015-7d01-4951-b3ec-3bb6148d09e9",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
+    },
+    {
+      "id": "f13ae2f2-aeef-455a-b3ae-6fbcb8a8e8e9",
       "content": "ctd: những thợ đục đá vuông",
       "position": 62,
       "order": 3,
-      "createdAt": "2024-09-07T12:51:47.188Z",
-      "updatedAt": "2024-09-07T12:51:47.188Z",
-      "verseId": "0352e3f5-8de0-4c83-a46f-86e6523b8fcb",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.132Z",
+      "updatedAt": "2024-09-23T05:30:28.132Z",
+      "verseId": "705f64af-1315-49f3-9a36-02d2bec3127e",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     }
   ],
   "headings": [
     {
-      "id": "2df0f70d-d9cc-4670-91f9-4fef0f906046",
+      "id": "ea82cd35-91b8-4090-8f2c-2d83798f67d9",
       "content": "Sa-lô-môn Chuẩn Bị Xây Cất Đền Thờ",
       "order": 0,
-      "createdAt": "2024-09-07T12:51:51.771Z",
-      "updatedAt": "2024-09-07T12:51:51.771Z",
-      "verseId": "bd2f9473-d96e-48d3-b840-9acfab185649",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.021Z",
+      "updatedAt": "2024-09-23T05:30:28.021Z",
+      "verseId": "b298e2e7-7cb6-4b7a-beb1-c5454ef94f38",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     }
   ],
   "references": [
     {
-      "id": "d7dfa425-d0fc-4305-8f02-88d2455316bc",
+      "id": "74691e9c-d6e5-4da5-bf01-00ded37fb75c",
       "content": "(2 Sử 2:1-18)",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-07T12:51:56.432Z",
-      "updatedAt": "2024-09-07T12:51:56.432Z",
-      "verseId": "bd2f9473-d96e-48d3-b840-9acfab185649",
-      "chapterId": "d3cc0b28-53b9-4cfa-89e7-3f4c7f8a39e7"
+      "createdAt": "2024-09-23T05:30:28.026Z",
+      "updatedAt": "2024-09-23T05:30:28.026Z",
+      "verseId": "b298e2e7-7cb6-4b7a-beb1-c5454ef94f38",
+      "chapterId": "4a8b2056-c7ab-4011-ba7b-7c1a423edf64"
     }
   ]
 }

@@ -1,442 +1,315 @@
 {
   "chapter": {
-    "id": "c68c2562-0506-47a8-8348-be9e50c0940d",
+    "id": "d8b23b49-0ec5-4014-b0f1-b44f68684275",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.620Z",
-    "updatedAt": "2024-09-17T08:41:12.620Z",
-    "bookId": "3fe7a96f-a828-4873-abfd-94d3940fc09b"
+    "createdAt": "2024-09-23T03:08:02.200Z",
+    "updatedAt": "2024-09-23T03:08:02.200Z",
+    "bookId": "040ea815-73b5-442f-b06f-60db98b423f2"
   },
   "verses": [
     {
-      "id": "bcd191de-0e92-4da8-9014-ec6bf0597093",
-      "number": 1,
-      "content": "Sau đó, vua Đa-vít đánh bại người Phi-li-tinh, hạ nhục chúng và đoạt quyền bá chủ từ tay người Phi-li-tinh.",
-      "order": 0,
-      "parNumber": 0,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.654Z",
-      "updatedAt": "2024-09-17T09:36:12.654Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "acec92f6-e17c-470a-a9af-38a4275f45d6",
+      "id": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
       "number": 2,
-      "content": "Vua đánh bại người Mô-áp, bắt chúng nằm rạp xuống đất và lấy dây đo : vua đo hai dây để giết và đủ một dây để cho sống. Người Mô-áp phải làm nô lệ cho vua Đa-vít và triều cống vua.",
+      "content": "Vua đánh bại người [Mô-áp](), bắt chúng nằm rạp xuống đất và lấy dây đo : vua đo hai dây để giết và đủ một dây để cho sống. Người [Mô-áp]() phải làm nô lệ cho vua [Đa-vít]() và triều cống vua.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.675Z",
-      "updatedAt": "2024-09-17T09:36:12.675Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.916Z",
+      "updatedAt": "2024-09-23T03:55:48.916Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "84b080ad-fa65-4519-abf8-675946eb5f21",
+      "id": "e22ed7fa-ddcd-4cd1-a98d-959c493e083c",
       "number": 3,
-      "content": "Vua Đa-vít đánh bại vua nước Xô-va là Ha-đát-e-de, con ông Rơ-khốp, khi vua này đi tái lập chủ quyền trên vùng Sông Cả.",
+      "content": "Vua [Đa-vít]() đánh bại vua nước [Xô-va]() là [Ha-đát-e-de](), con ông [Rơ-khốp](), khi vua này đi tái lập chủ quyền trên vùng Sông Cả.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.681Z",
-      "updatedAt": "2024-09-17T09:36:12.681Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.937Z",
+      "updatedAt": "2024-09-23T03:55:48.937Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "7cf69451-59e3-47f6-b5c0-2bd5b7d1ab14",
+      "id": "09036366-7c3a-4a7f-a837-a04114a81e5f",
       "number": 4,
-      "content": "Vua Đa-vít bắt được của vua ấy một ngàn bảy trăm kỵ binh và hai mươi ngàn bộ binh ; và vua Đa-vít đã cắt gân chân tất cả những con ngựa kéo xe, chỉ chừa lại một trăm.",
+      "content": "Vua [Đa-vít]() bắt được của vua ấy một ngàn bảy trăm kỵ binh và hai mươi ngàn bộ binh ; và vua [Đa-vít]() đã cắt gân chân tất cả những con ngựa kéo xe, chỉ chừa lại một trăm.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.685Z",
-      "updatedAt": "2024-09-17T09:36:12.685Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.946Z",
+      "updatedAt": "2024-09-23T03:55:48.946Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "f0fbcc9a-6871-4697-a184-02769feeddb0",
+      "id": "6b31acb6-2d1b-4ce3-af7c-8951a3b26f95",
       "number": 5,
-      "content": "Người A-ram ở Đa-mát đến cứu viện Ha-đát-e-de, vua Xô-va, nhưng vua Đa-vít đã hạ của A-ram hai mươi ngàn người.",
+      "content": "Người [A-ram]() ở [Đa-mát]() đến cứu viện [Ha-đát-e-de](), vua [Xô-va](), nhưng vua [Đa-vít]() đã hạ của [A-ram]() hai mươi ngàn người.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.691Z",
-      "updatedAt": "2024-09-17T09:36:12.691Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.961Z",
+      "updatedAt": "2024-09-23T03:55:48.961Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "512ab51d-55d2-4d67-bd65-f60b3746783a",
+      "id": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
       "number": 6,
-      "content": "Vua Đa-vít đặt những trấn thủ cai trị người A-ram ở Đa-mát ; người A-ram phải làm nô lệ cho vua Đa-vít và triều cống vua. ĐỨC CHÚA đã cho vua Đa-vít đi đâu thắng đó.",
+      "content": "Vua [Đa-vít]() đặt những trấn thủ cai trị người [A-ram]() ở [Đa-mát]() ; người [A-ram]() phải làm nô lệ cho vua [Đa-vít]() và triều cống vua. [ĐỨC CHÚA]() đã cho vua [Đa-vít]() đi đâu thắng đó.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.693Z",
-      "updatedAt": "2024-09-17T09:36:12.693Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.965Z",
+      "updatedAt": "2024-09-23T03:55:48.965Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "8f69e4a7-78a5-4e59-88dd-8744b36a4c7e",
-      "number": 7,
-      "content": "Vua Đa-vít lấy các khiên vàng mà tôi tớ vua Ha-đát-e-de mang, và đưa về Giê-ru-sa-lem.",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 4,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.700Z",
-      "updatedAt": "2024-09-17T09:36:12.700Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "01831c1c-5f89-4672-967b-c15a78cddfb8",
+      "id": "b3ff6643-8419-46fc-97b2-50482bdff7af",
       "number": 8,
-      "content": "Tại Be-tác và Bê-rô-thai, các thành của vua Ha-đát-e-de, vua Đa-vít đã lấy được rất nhiều đồng.",
+      "content": "Tại [Be-tác]() và [Bê-rô-thai](), các thành của vua [Ha-đát-e-de](), vua [Đa-vít]() đã lấy được rất nhiều đồng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.705Z",
-      "updatedAt": "2024-09-17T09:36:12.705Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.979Z",
+      "updatedAt": "2024-09-23T03:55:48.979Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "e622a518-d9a4-4adb-a4ef-36df1a0c511b",
+      "id": "484a065c-3312-4fd8-9dd1-626e214c3eae",
       "number": 9,
-      "content": "Tô-i, vua Kha-mát, nghe tin vua Đa-vít đã đánh bại toàn thể quân đội vua Ha-đát-e-de.",
+      "content": "[Tô-i](), vua [Kha-mát](), nghe tin vua [Đa-vít]() đã đánh bại toàn thể quân đội vua [Ha-đát-e-de]().",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.707Z",
-      "updatedAt": "2024-09-17T09:36:12.707Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.984Z",
+      "updatedAt": "2024-09-23T03:55:48.984Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "68ca4383-ae94-4317-bf6e-a0eb564fd249",
-      "number": 10,
-      "content": "Vua Tô-i sai con là Giô-ram đến với vua Đa-vít để vấn an và chúc mừng vua vì đã chiến đấu với vua Ha-đát-e-de và đánh bại vua ấy, vì vua Ha-đát-e-de là kẻ thù của vua Tô-i. Giô-ram mang theo những đồ bạc, đồ vàng và đồ đồng.",
-      "order": 0,
-      "parNumber": 2,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.710Z",
-      "updatedAt": "2024-09-17T09:36:12.710Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "64dec078-622f-4d01-a5e5-8a4c3b90d8bb",
+      "id": "b9513761-b608-441b-9476-12b4a9fa2566",
       "number": 11,
-      "content": "Các đồ ấy, vua Đa-vít cũng đã thánh hiến cho ĐỨC CHÚA, cùng với bạc và vàng vua đã thánh hiến, bạc vàng của mọi dân tộc vua đã khuất phục,",
+      "content": "Các đồ ấy, vua [Đa-vít]() cũng đã thánh hiến cho [ĐỨC CHÚA](), cùng với bạc và vàng vua đã thánh hiến, bạc vàng của mọi dân tộc vua đã khuất phục,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.715Z",
-      "updatedAt": "2024-09-17T09:36:12.715Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.989Z",
+      "updatedAt": "2024-09-23T03:55:48.989Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "52d8e268-2e3a-4649-91b3-4a9d64f46090",
+      "id": "ca48924b-36c7-440f-b6c9-14330e29eec2",
       "number": 12,
-      "content": "là : A-ram, Mô-áp, con cái Am-mon, người Phi-li-tinh và A-ma-lếch, cũng như từ chiến lợi phẩm thu được của vua Xô-va là Ha-đát-e-de, con ông Rơ-khốp.",
+      "content": "là : [A-ram](), [Mô-áp](), con cái [Am-mon](), người [Phi-li-tinh]() và [A-ma-lếch](), cũng như từ chiến lợi phẩm thu được của vua [Xô-va]() là [Ha-đát-e-de](), con ông [Rơ-khốp]().",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.721Z",
-      "updatedAt": "2024-09-17T09:36:12.721Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.999Z",
+      "updatedAt": "2024-09-23T03:55:48.999Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "a54087c9-5241-4b69-a8fa-7ab860f99c80",
+      "id": "c55555c7-2150-4b09-b6cb-e8caaa44bb4f",
       "number": 13,
-      "content": "Vua Đa-vít làm cho danh mình lẫy lừng, lúc trở về sau khi đánh bại mười tám ngàn người Ê-đôm trong thung lũng Muối.",
+      "content": "Vua [Đa-vít]() làm cho danh mình lẫy lừng, lúc trở về sau khi đánh bại mười tám ngàn người [Ê-đôm]() trong thung lũng Muối.",
       "order": 0,
       "parNumber": 3,
-      "parIndex": 0,
+      "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.724Z",
-      "updatedAt": "2024-09-17T09:36:12.724Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.004Z",
+      "updatedAt": "2024-09-23T03:55:49.004Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "d6db2fdc-6a8b-4913-bf9d-b33e60809320",
+      "id": "005a55b5-8183-4d99-a9f8-b61b5a090307",
       "number": 14,
-      "content": "Vua Đa-vít đặt các trấn thủ tại Ê-đôm ; vua đặt các trấn thủ trong toàn xứ Ê-đôm, và toàn dân Ê-đôm phải làm nô lệ cho vua Đa-vít. ĐỨC CHÚA đã cho vua Đa-vít đi đâu thắng đó.",
+      "content": "Vua [Đa-vít]() đặt các trấn thủ tại [Ê-đôm]() ; vua đặt các trấn thủ trong toàn xứ [Ê-đôm](), và toàn dân [Ê-đôm]() phải làm nô lệ cho vua [Đa-vít](). [ĐỨC CHÚA]() đã cho vua [Đa-vít]() đi đâu thắng đó.",
       "order": 0,
       "parNumber": 3,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.733Z",
-      "updatedAt": "2024-09-17T09:36:12.733Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "897f4baa-9ced-4af3-bade-a5174ceec12b",
-      "number": 15,
-      "content": "Vua Đa-vít trị vì toàn thể Ít-ra-en. Vua Đa-vít thực hiện điều chính trực công minh cho toàn dân.",
-      "order": 0,
-      "parNumber": 4,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.737Z",
-      "updatedAt": "2024-09-17T09:36:12.737Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "0f801951-1516-458d-b5a4-eca873da2089",
-      "number": 16,
-      "content": "Ông Giô-áp, con bà Xơ-ru-gia, chỉ huy quân đội. Ông Giơ-hô-sa-phát, con ông A-khi-lút, làm quốc vụ khanh.",
-      "order": 0,
-      "parNumber": 4,
-      "parIndex": 1,
-      "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.748Z",
-      "updatedAt": "2024-09-17T09:36:12.748Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "8f225204-d594-4f4f-bae2-82ebf22c7cce",
-      "number": 17,
-      "content": "Ông Xa-đốc, con ông A-khi-túp, và ông A-khi-me-léc con ông Ép-gia-tha, làm tư tế. Ông Xơ-ra-gia làm ký lục.",
-      "order": 0,
-      "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.755Z",
-      "updatedAt": "2024-09-17T09:36:12.755Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.014Z",
+      "updatedAt": "2024-09-23T03:55:49.014Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "be9cce71-36c9-4df5-a5eb-cd988dcb234a",
+      "id": "dd966d20-2be8-42d9-8dce-dfeba567f595",
+      "number": 15,
+      "content": "Vua [Đa-vít]() trị vì toàn thể [Ít-ra-en](). Vua [Đa-vít]() thực hiện điều chính trực công minh cho toàn dân.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:55:49.019Z",
+      "updatedAt": "2024-09-23T03:55:49.019Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+    },
+    {
+      "id": "00e9a3a7-04db-4e9e-b846-434a2aa84768",
+      "number": 16,
+      "content": "Ông [Giô-áp](), con bà [Xơ-ru-gia](), chỉ huy quân đội. Ông [Giơ-hô-sa-phát](), con ông [A-khi-lút](), làm quốc vụ khanh.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:55:49.032Z",
+      "updatedAt": "2024-09-23T03:55:49.032Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+    },
+    {
+      "id": "aba279c3-0a8f-46fe-b2b2-0801b210f249",
       "number": 18,
-      "content": "Ông Bơ-na-gia-hu, con ông Giơ-hô-gia-đa, chỉ huy quân Cơ-rê-thi và quân Pơ-lê-thi. Các con trai vua Đa-vít làm tư tế.",
+      "content": "Ông [Bơ-na-gia-hu](), con ông [Giơ-hô-gia-đa](), chỉ huy quân [Cơ-rê-thi]() và quân [Pơ-lê-thi](). Các con trai vua [Đa-vít]() làm tư tế.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:36:12.767Z",
-      "updatedAt": "2024-09-17T09:36:12.767Z",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.041Z",
+      "updatedAt": "2024-09-23T03:55:49.041Z",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     }
   ],
   "footnotes": [
     {
-      "id": "20532b62-de33-43de-b9fc-5860fcd276f4",
-      "content": "Cùng với 5,13-25, ch. 8 đóng khung đoạn văn 5,13 – 8, bọc hai chương 6 và 7 là đỉnh cao của hai sách Sm. Ch. 8 phác hoạ chân dung của vị sáng lập một đế quốc, sau ch. 6 mô tả vị khởi xướng một lối phụng vụ, và ch. 7 cho thấy vị “cao tổ” của một vương triều. – Mặc dù được nêu ra cách cô đọng và với giọng điệu của một văn kiện vô tư, các biến cố ghi lại đây đều khả dĩ có thật tuy chưa được phối kiểm. Tất cả các cuộc chiến đều được nhắc tới, trừ cuộc chiến với Am-mon – sẽ được trình thuật riêng ở các ch. 10 – 12 với vụ bà Bát Se-va, có lẽ vì nó đồng thời với việc sinh hạ hoàng tử Sa-lô-môn (12,24). Quyền bá chủ của Ít-ra-en trên các dân tộc xung quanh là cơ sở cho sự thịnh vượng của triều đại Sa-lô-môn, và lý giải niềm kiêu hãnh của dân tộc này từ thời Đa-vít, cũng như nỗi tiếc nhớ về sau, khi vương quốc không còn nữa.",
-      "position": 36,
-      "order": 0,
-      "createdAt": "2024-09-17T09:36:12.666Z",
-      "updatedAt": "2024-09-17T09:36:12.666Z",
-      "headingId": "2f7ff365-696c-44dd-aa0b-44fd7376fdbe",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "bc171637-369a-4290-9a30-3a6d0979f335",
-      "content": "<i>Sau đó</i> : x. 2,1+. – <i>Người Phi-li-tinh</i> được liệt kê đầu tiên có lẽ vì là kẻ thù truyền kiếp và hung tợn nhất của Ít-ra-en, đặc biệt của Đa-vít (x. 1 Sm 17). Nhưng cũng có thể soạn giả liệt kê các quân thù Ít-ra-en theo thứ tự Tây, Đông, Bắc, Nam. – <i>Quyền bá chủ</i> : dịch ước đoán, vì cụm từ này chỉ dùng một lần ở đây, gợi hiểu nhiều cách.",
-      "position": 0,
-      "order": 1,
-      "createdAt": "2024-09-17T09:36:12.669Z",
-      "updatedAt": "2024-09-17T09:36:12.669Z",
-      "verseId": "bcd191de-0e92-4da8-9014-ec6bf0597093",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "42baaf4a-dd52-4799-a44b-23bc77a30d1c",
-      "content": "<i>Nước Xô-va</i> là vương quốc A-ram trên vùng núi Đối Li-băng, đối diện dãy núi Li-băng, đầu đàn các bộ tộc A-ram vùng đông bắc đất Pa-lét-tin thời vua Đa-vít. Cũng được nêu tên ở 10,6.8 ; 1 Sm 14,47 ; 1 V 11,23 ; Tv 60,2.",
-      "position": 118,
+      "id": "9dc2dc75-8012-41f0-a982-70dbec9d8baf",
+      "content": "*Nước Xô-va* là vương quốc A-ram trên vùng núi Đối Li-băng, đối diện dãy núi Li-băng, đầu đàn các bộ tộc A-ram vùng đông bắc đất Pa-lét-tin thời vua Đa-vít. Cũng được nêu tên ở 10,6.8 ; 1 Sm 14,47 ; 1 V 11,23 ; Tv 60,2.",
+      "position": 134,
       "order": 2,
-      "createdAt": "2024-09-17T09:36:12.683Z",
-      "updatedAt": "2024-09-17T09:36:12.683Z",
-      "verseId": "84b080ad-fa65-4519-abf8-675946eb5f21",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.941Z",
+      "updatedAt": "2024-09-23T03:55:48.941Z",
+      "verseId": "e22ed7fa-ddcd-4cd1-a98d-959c493e083c",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "1912df89-1768-4cb2-9f7a-21e50372dc65",
+      "id": "24a44215-e033-4676-accd-fbafab3a64e0",
       "content": "Một trong những đặc điểm của truyền thống Ít-ra-en là chê ghét những chiến mã và kỵ binh, thường là sức mạnh quân lực các nước láng giềng (x. Xh 15,1 ; Đnl 17,16 ; Is 31,1 ; Hs 1,7 ; Mk 5,9 ; Tv 20,8 ; v.v.). Nhưng ở đây, vua Đa-vít có vẻ để dành lại cho mình một trăm con ngựa kéo xe còn nguyên vẹn trong số chiến lợi phẩm : phải chăng ông đã bắt đầu dùng xa mã ? X. 15,1. Thật ra, việc sử dụng xa mã, chiến xa, chỉ thịnh hành dưới thời vua Sa-lô-môn (1 V 10,26-29).",
-      "position": 83,
+      "position": 87,
       "order": 3,
-      "createdAt": "2024-09-17T09:36:12.687Z",
-      "updatedAt": "2024-09-17T09:36:12.687Z",
-      "verseId": "7cf69451-59e3-47f6-b5c0-2bd5b7d1ab14",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.951Z",
+      "updatedAt": "2024-09-23T03:55:48.951Z",
+      "verseId": "09036366-7c3a-4a7f-a837-a04114a81e5f",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "17e2f4ae-96fa-4508-9dd5-5163e4155e9d",
-      "content": "Cc. 7-8 : <i>khiên vàng ... đồng</i> : vương quốc Xô-va có mỏ đồng thau. Có lẽ “khiên vàng” ở c.7 là khiên bằng đồng thau, có màu vàng.",
-      "position": 0,
-      "order": 4,
-      "createdAt": "2024-09-17T09:36:12.702Z",
-      "updatedAt": "2024-09-17T09:36:12.702Z",
-      "verseId": "8f69e4a7-78a5-4e59-88dd-8744b36a4c7e",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "af58dfd7-ab8d-4045-9aa3-979f382b8176",
-      "content": "<i>Tô-i</i> : trong 1 Sb 18,10 và LXX, cũng như LT, là <i>Tô-u</i>. – <i>Giô-ram</i> (là tên tắt của <i>Yahuram = Đức Chúa được tán dương</i>) : rất lạ là một hoàng tử ngoại giáo lại mang một tên Ít-ra-en. Trong 1 Sb 18,10 thì hoàng tử có tên là <i>Ha-đô-ram</i> : có thể tên nguyên thuỷ là Ha-đô-ram (tên A-ram), nhưng hoàng tử chọn thêm tên mới này hàm ý hội nhập Ít-ra-en, để tỏ lòng thần phục vua Ít-ra-en.",
-      "position": 0,
-      "order": 5,
-      "createdAt": "2024-09-17T09:36:12.712Z",
-      "updatedAt": "2024-09-17T09:36:12.712Z",
-      "verseId": "68ca4383-ae94-4317-bf6e-a0eb564fd249",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "e2cc3026-91b5-492b-99f3-30d8b2d24afe",
-      "content": "<i>Người Ê-đôm</i> (c.13) : theo một số bản HR, HL và XR ; cũng x. 1 Sb 18,12 ; Tv 60,2. M chép <i>người A-ram</i>. Vả lại c.14 nói đến <i>Ê-đôm</i> và <i>thung lũng Muối</i>, tức thung lũng A-ra-va, tiếp nối Biển Chết ở phía Nam. – <i>Sau khi đánh bại mười tám ngàn</i> : M bị hư hoại, được LT và 1 Sb 18,12 bổ sung. – C.14 : văn cường điệu cho thấy vua Đa-vít đã chinh phạt <i>toàn xứ Ê-đôm</i>. Sau này khi vua Đa-vít đã băng hà, Ê-đôm sẽ giành lại độc lập một thời gian (1 V 11,14-22.25b) trước khi bị các vua A-ma-xi-a và A-da-ri-a tái chiếm (2 V 14,7.22 ; cũng x. Am 9,12).",
+      "id": "632f2495-6086-4063-b187-1e51cd2902db",
+      "content": "*Người Ê-đôm* (c.13) : theo một số bản HR, HL và XR ; cũng x. 1 Sb 18,12 ; Tv 60,2. M chép *người A-ram*. Vả lại c.14 nói đến *Ê-đôm* và *thung lũng Muối*, tức thung lũng A-ra-va, tiếp nối Biển Chết ở phía Nam. – *Sau khi đánh bại mười tám ngàn* : M bị hư hoại, được LT và 1 Sb 18,12 bổ sung. – C.14 : văn cường điệu cho thấy vua Đa-vít đã chinh phạt *toàn xứ Ê-đôm*. Sau này khi vua Đa-vít đã băng hà, Ê-đôm sẽ giành lại độc lập một thời gian (1 V 11,14-22.25b) trước khi bị các vua A-ma-xi-a và A-da-ri-a tái chiếm (2 V 14,7.22 ; cũng x. Am 9,12).",
       "position": 0,
       "order": 6,
-      "createdAt": "2024-09-17T09:36:12.729Z",
-      "updatedAt": "2024-09-17T09:36:12.729Z",
-      "verseId": "a54087c9-5241-4b69-a8fa-7ab860f99c80",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.009Z",
+      "updatedAt": "2024-09-23T03:55:49.009Z",
+      "verseId": "c55555c7-2150-4b09-b6cb-e8caaa44bb4f",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "28f9b4a9-49fc-4bfe-b847-58eaefa45f3b",
-      "content": "<i>Ông Giô-áp</i> : x. 2,13+.",
-      "position": 10,
+      "id": "f80fec7e-cc34-4aeb-8963-cef5e98f1a4b",
+      "content": "*Ông Giô-áp* : x. 2,13+.",
+      "position": 14,
       "order": 7,
-      "createdAt": "2024-09-17T09:36:12.751Z",
-      "updatedAt": "2024-09-17T09:36:12.751Z",
-      "verseId": "0f801951-1516-458d-b5a4-eca873da2089",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.037Z",
+      "updatedAt": "2024-09-23T03:55:49.037Z",
+      "verseId": "00e9a3a7-04db-4e9e-b846-434a2aa84768",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "bf829582-4023-49dd-8440-87604a8764e5",
-      "content": "Cách sắp xếp các tên tư tế trong câu này không ổn. <i>Ông Xa-đốc</i> là người đến sau, không rõ gốc gác từ đâu. Còn theo 1 Sm 22,20 thì <i>ông Ép-gia-tha là con ông A-khi-me-léc và là cháu ông A-khi-túp</i>, người duy nhất sống sót sau cuộc tàn sát các tư tế tại Nốp (x. 1 Sm 22,23+). Mà ông Ép-gia-tha thuộc dòng dõi ông Ê-li, tư tế đền Si-lô (x. 1 Sm 1,9tt). Do đó nên đọc : <i>Ông Xa-đốc, và ông Ép-gia-tha là con ông A-khi-me-léc và là cháu ông A-khi-túp, làm tư tế</i>. Hơn nữa, vì có thể soạn giả muốn cho thấy lời sấm về dòng dõi ông Ê-li đã ứng nghiệm (x. 1 Sm 2,27-36), nên ở đây đặt liền ông Xa-đốc ngang hàng với ông Ép-gia-tha, để từ từ cho thấy ông Xa-đốc sẽ đánh bật ông Ép-gia-tha, kể từ đầu triều đại vua Sa-lô-môn (1 V 2,35) ; sau này, chỉ có <i>dòng dõi ông Xa-đốc</i> được coi là tư tế hợp pháp (Ed 40,46 ; 44,15 ; 48,11 ; cũng x. 1 Sm 2,35+). Rồi vì có luật trong Đnl buộc “một đền thờ duy nhất” là đền thờ Giê-ru-sa-lem, nên có những giả thuyết cho ông Xa-đốc là người gốc Giơ-vu-xi, Giê-ru-sa-lem cổ.",
-      "position": 0,
-      "order": 8,
-      "createdAt": "2024-09-17T09:36:12.760Z",
-      "updatedAt": "2024-09-17T09:36:12.760Z",
-      "verseId": "8f225204-d594-4f4f-bae2-82ebf22c7cce",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "0de404fe-7052-454e-9a04-3fa09afe4bbd",
-      "content": "<i>Xơ-ra-gia</i> sẽ trở thành <i>Si-sa</i> trong 1 V 4,3, nhưng <i>Si-sa</i> chỉ là phiên âm của chữ <i>ký lục</i> trong tiếng Ai-cập.",
-      "position": 82,
-      "order": 9,
-      "createdAt": "2024-09-17T09:36:12.764Z",
-      "updatedAt": "2024-09-17T09:36:12.764Z",
-      "verseId": "8f225204-d594-4f4f-bae2-82ebf22c7cce",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "a12be795-350c-4d69-93ff-9894431ecf70",
-      "content": "<i>Chỉ huy</i> : động từ được thêm vô M, theo các bản LT, AR và XR. – <i>Quân Cơ-rê-thi</i> : x. 1 Sm 30,14+. – <i>Pơ-lê-thi</i> có thể chỉ là một dạng khác của <i>Phi-li-tinh</i>. Cả hai loại người này là lính đánh thuê gốc Phi-li-tinh, làm cận vệ cho vua Đa-vít (x. 15,18 ; 20,7 ; 1 V 1,38.44). – <i>Các con trai vua Đa-vít làm tư tế</i> : hơi kỳ lạ, nhưng có thể là “giúp lễ”, “phó tế” bên cạnh vua, hoặc thay vua, vì vua cũng có những phần vụ trong phụng tự (x. 6,13-20). Nhưng 1 Sb 18,17 và vài bản dịch (HL, AR và XR) thì chỉ ghi những chức vụ “ngoài đời” của họ.",
-      "position": 117,
+      "id": "1d50ce9b-b34c-4475-900b-e1bdc70ed044",
+      "content": "*Chỉ huy* : động từ được thêm vô M, theo các bản LT, AR và XR. – *Quân Cơ-rê-thi* : x. 1 Sm 30,14+. – *Pơ-lê-thi* có thể chỉ là một dạng khác của *Phi-li-tinh*. Cả hai loại người này là lính đánh thuê gốc Phi-li-tinh, làm cận vệ cho vua Đa-vít (x. 15,18 ; 20,7 ; 1 V 1,38.44). – *Các con trai vua Đa-vít làm tư tế* : hơi kỳ lạ, nhưng có thể là “giúp lễ”, “phó tế” bên cạnh vua, hoặc thay vua, vì vua cũng có những phần vụ trong phụng tự (x. 6,13-20). Nhưng 1 Sb 18,17 và vài bản dịch (HL, AR và XR) thì chỉ ghi những chức vụ “ngoài đời” của họ.",
+      "position": 137,
       "order": 10,
-      "createdAt": "2024-09-17T09:36:12.771Z",
-      "updatedAt": "2024-09-17T09:36:12.771Z",
-      "verseId": "be9cce71-36c9-4df5-a5eb-cd988dcb234a",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.046Z",
+      "updatedAt": "2024-09-23T03:55:49.046Z",
+      "verseId": "aba279c3-0a8f-46fe-b2b2-0801b210f249",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     }
   ],
   "headings": [
     {
-      "id": "2f7ff365-696c-44dd-aa0b-44fd7376fdbe",
-      "content": "Các cuộc chiến tranh thời vua Đa-vít",
-      "order": 0,
-      "createdAt": "2024-09-17T09:36:12.663Z",
-      "updatedAt": "2024-09-17T09:36:12.663Z",
-      "verseId": "bcd191de-0e92-4da8-9014-ec6bf0597093",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "3f863305-1645-4224-9756-d16241173ad8",
+      "id": "6341c420-7b72-4f48-93f4-67cbe7df0305",
       "content": "Việc cai trị vương quốc",
       "order": 0,
-      "createdAt": "2024-09-17T09:36:12.740Z",
-      "updatedAt": "2024-09-17T09:36:12.740Z",
-      "verseId": "897f4baa-9ced-4af3-bade-a5174ceec12b",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.023Z",
+      "updatedAt": "2024-09-23T03:55:49.023Z",
+      "verseId": "dd966d20-2be8-42d9-8dce-dfeba567f595",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     }
   ],
   "references": [
     {
-      "id": "3d25bc26-e005-4428-8fc5-a644b03004e5",
-      "content": "2 Sm 5,25",
-      "position": 12,
-      "order": 0,
-      "createdAt": "2024-09-17T09:36:12.672Z",
-      "updatedAt": "2024-09-17T09:36:12.672Z",
-      "verseId": "bcd191de-0e92-4da8-9014-ec6bf0597093",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
-    },
-    {
-      "id": "a9812efb-3fb5-4f51-a29b-2ca766e46e0d",
+      "id": "698227ea-11c6-488a-92c3-59c77c02f9a2",
       "content": "2 Sm 23,20",
       "position": 19,
       "order": 1,
-      "createdAt": "2024-09-17T09:36:12.677Z",
-      "updatedAt": "2024-09-17T09:36:12.677Z",
-      "verseId": "acec92f6-e17c-470a-a9af-38a4275f45d6",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.927Z",
+      "updatedAt": "2024-09-23T03:55:48.927Z",
+      "verseId": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "dae94748-6881-4cd5-9b33-1b286ca0e928",
+      "id": "5b0ad25d-7d45-43c9-8581-0690a5ee2405",
       "content": "1 V 5,1",
-      "position": 165,
+      "position": 177,
       "order": 2,
-      "createdAt": "2024-09-17T09:36:12.679Z",
-      "updatedAt": "2024-09-17T09:36:12.679Z",
-      "verseId": "acec92f6-e17c-470a-a9af-38a4275f45d6",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.932Z",
+      "updatedAt": "2024-09-23T03:55:48.932Z",
+      "verseId": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "de90fb97-9a2a-4345-af08-bcad4399dffc",
+      "id": "76159dc8-856a-4fb9-98ad-084b20f5bc89",
       "content": "Gs 11,6.9; 10,18",
-      "position": 101,
+      "position": 109,
       "order": 3,
-      "createdAt": "2024-09-17T09:36:12.689Z",
-      "updatedAt": "2024-09-17T09:36:12.689Z",
-      "verseId": "7cf69451-59e3-47f6-b5c0-2bd5b7d1ab14",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.956Z",
+      "updatedAt": "2024-09-23T03:55:48.956Z",
+      "verseId": "09036366-7c3a-4a7f-a837-a04114a81e5f",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "9b41a570-d20e-4241-8263-5c32bd64cbe2",
+      "id": "02790a90-03db-419b-b764-09236495f24c",
       "content": "1 Sm 10,5",
-      "position": 21,
+      "position": 25,
       "order": 4,
-      "createdAt": "2024-09-17T09:36:12.696Z",
-      "updatedAt": "2024-09-17T09:36:12.696Z",
-      "verseId": "512ab51d-55d2-4d67-bd65-f60b3746783a",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.970Z",
+      "updatedAt": "2024-09-23T03:55:48.970Z",
+      "verseId": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "85efcfcf-8d13-4054-986c-9732432f9130",
+      "id": "b8d29107-cd76-4500-b202-0bf23605f561",
       "content": "2 Sm 7,1; 8,14",
-      "position": 156,
+      "position": 184,
       "order": 5,
-      "createdAt": "2024-09-17T09:36:12.698Z",
-      "updatedAt": "2024-09-17T09:36:12.698Z",
-      "verseId": "512ab51d-55d2-4d67-bd65-f60b3746783a",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.975Z",
+      "updatedAt": "2024-09-23T03:55:48.975Z",
+      "verseId": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "da4076bd-8e39-4291-bc60-c8c64bc69046",
+      "id": "a7bbcf52-31fd-461e-bd38-08bffc15c690",
       "content": "2 V 12,19",
-      "position": 30,
+      "position": 34,
       "order": 6,
-      "createdAt": "2024-09-17T09:36:12.718Z",
-      "updatedAt": "2024-09-17T09:36:12.718Z",
-      "verseId": "64dec078-622f-4d01-a5e5-8a4c3b90d8bb",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:48.994Z",
+      "updatedAt": "2024-09-23T03:55:48.994Z",
+      "verseId": "b9513761-b608-441b-9476-12b4a9fa2566",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     },
     {
-      "id": "5d811cae-b458-4b9c-8807-98d2b51e34df",
+      "id": "bf329e92-6bd6-4a50-b950-01d562ff14c1",
       "content": "1 V 3,28; 10,9",
-      "position": 63,
+      "position": 75,
       "order": 7,
-      "createdAt": "2024-09-17T09:36:12.744Z",
-      "updatedAt": "2024-09-17T09:36:12.744Z",
-      "verseId": "897f4baa-9ced-4af3-bade-a5174ceec12b",
-      "chapterId": "c68c2562-0506-47a8-8348-be9e50c0940d"
+      "createdAt": "2024-09-23T03:55:49.028Z",
+      "updatedAt": "2024-09-23T03:55:49.028Z",
+      "verseId": "dd966d20-2be8-42d9-8dce-dfeba567f595",
+      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
     }
   ]
 }

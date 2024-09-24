@@ -1,233 +1,233 @@
 {
   "chapter": {
-    "id": "17e1c22a-5046-43fc-8da8-aa7408cac867",
+    "id": "441e0ea6-578f-43b4-9b63-7079ada06999",
     "number": 123,
     "ref": "",
-    "createdAt": "2024-09-17T08:41:12.650Z",
-    "updatedAt": "2024-09-17T08:41:12.650Z",
-    "bookId": "d770eae8-a8d2-4a9b-89b0-d3fe47cc3846"
+    "createdAt": "2024-09-23T03:08:02.367Z",
+    "updatedAt": "2024-09-23T03:08:02.367Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
   },
   "verses": [
     {
-      "id": "e3254560-5a1c-4ab1-99f6-91359c6d35c3",
+      "id": "96c553cf-77ae-403e-af71-e4bd081789bf",
       "number": 1,
-      "content": "Ca khúc lên Đền.",
+      "content": "*Ca khúc lên Đền.*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-17T09:56:57.545Z",
-      "updatedAt": "2024-09-17T09:56:57.545Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.555Z",
+      "updatedAt": "2024-09-23T04:22:01.555Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "26c2e0e7-a942-4705-8c9f-2d1162d20818",
+      "id": "2b172a4c-ba47-483d-bf2b-6ef160df0511",
       "number": 1,
       "content": "Con ngước mắt hướng nhìn lên Chúa,",
       "order": 1,
-      "parNumber": 0,
+      "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.553Z",
-      "updatedAt": "2024-09-17T09:56:57.553Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.562Z",
+      "updatedAt": "2024-09-23T04:22:01.562Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "5c31dfaa-1232-4900-8064-b7d7021a5f86",
+      "id": "ba09cf35-6b0c-4017-8597-8b5413c03f0b",
       "number": 1,
       "content": "Đấng đang ngự trên trời.",
       "order": 2,
-      "parNumber": 0,
+      "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.557Z",
-      "updatedAt": "2024-09-17T09:56:57.557Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.566Z",
+      "updatedAt": "2024-09-23T04:22:01.566Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "b1b7e2c3-a8e4-4c4c-a05e-5552b8cec229",
+      "id": "f95a7296-6255-4384-bd41-d5664776c402",
       "number": 2,
       "content": "Quả thật như mắt của gia nhân hướng nhìn tay ông chủ,",
       "order": 0,
-      "parNumber": 1,
+      "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.561Z",
-      "updatedAt": "2024-09-17T09:56:57.561Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.570Z",
+      "updatedAt": "2024-09-23T04:22:01.570Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "cea762da-cd43-4100-ab7a-273878761266",
+      "id": "3c844cb8-cfa5-494d-8b16-d5e155cb3672",
       "number": 2,
       "content": "như mắt của nữ tỳ hướng nhìn tay bà chủ,",
       "order": 1,
-      "parNumber": 1,
+      "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.563Z",
-      "updatedAt": "2024-09-17T09:56:57.563Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.572Z",
+      "updatedAt": "2024-09-23T04:22:01.572Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "e83879ef-c374-4de4-b5f2-aebd27dd2bd0",
+      "id": "efdf0793-3e48-4ef4-b2b1-390ccde7513b",
       "number": 2,
       "content": "mắt chúng ta cũng hướng nhìn lên CHÚA",
       "order": 2,
-      "parNumber": 1,
+      "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.565Z",
-      "updatedAt": "2024-09-17T09:56:57.565Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.574Z",
+      "updatedAt": "2024-09-23T04:22:01.574Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "a4952a7c-8748-4ea0-bbff-a3ee6615f16c",
+      "id": "bcda326c-d1c0-497b-ab32-5dea4c66c56e",
       "number": 2,
       "content": "là Thiên Chúa chúng ta,",
       "order": 3,
-      "parNumber": 1,
+      "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.570Z",
-      "updatedAt": "2024-09-17T09:56:57.570Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.578Z",
+      "updatedAt": "2024-09-23T04:22:01.578Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "871a2118-3053-456b-bb73-cdb4b181dd56",
+      "id": "0d49c6e4-43c9-4ca4-8957-3587d6e05ae7",
       "number": 2,
       "content": "tới khi Người xót thương chút phận.",
       "order": 4,
-      "parNumber": 1,
+      "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.572Z",
-      "updatedAt": "2024-09-17T09:56:57.572Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.580Z",
+      "updatedAt": "2024-09-23T04:22:01.580Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "c7498b0c-c992-44b0-8eff-db557606b0d1",
+      "id": "cf32e704-c24a-4b4f-9b08-742a25f8d1b0",
       "number": 3,
       "content": "Rủ lòng thương, lạy CHÚA, xin rủ lòng thương,",
       "order": 0,
-      "parNumber": 2,
+      "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.574Z",
-      "updatedAt": "2024-09-17T09:56:57.574Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.583Z",
+      "updatedAt": "2024-09-23T04:22:01.583Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "b1fa935a-f366-455d-95c8-2cf1686483c7",
+      "id": "2f529062-9007-4ba0-94fa-1c78506e5fbf",
       "number": 3,
       "content": "bởi chúng con bị khinh miệt ê chề ;",
       "order": 1,
-      "parNumber": 2,
+      "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.576Z",
-      "updatedAt": "2024-09-17T09:56:57.576Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.585Z",
+      "updatedAt": "2024-09-23T04:22:01.585Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "641241b0-5def-4461-bbc1-a6c45ee5e619",
+      "id": "42b3efe4-9734-4ea7-a293-eca488511c1d",
       "number": 4,
       "content": "hồn thật quá ê chề vì hứng chịu",
       "order": 0,
-      "parNumber": 3,
+      "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.578Z",
-      "updatedAt": "2024-09-17T09:56:57.578Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.587Z",
+      "updatedAt": "2024-09-23T04:22:01.587Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "b91689be-77cd-4ea1-9d72-f55680a9e67f",
+      "id": "6aa966cd-88f8-4266-95a3-857b15ad75d2",
       "number": 4,
       "content": "lời nhạo báng của phường tự mãn,",
       "order": 1,
-      "parNumber": 3,
+      "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.580Z",
-      "updatedAt": "2024-09-17T09:56:57.580Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.589Z",
+      "updatedAt": "2024-09-23T04:22:01.589Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "8671e819-aa0f-45e2-b8e3-ebb37667f513",
+      "id": "d69ae9f1-93aa-4ae9-98c5-b41583ad06bd",
       "number": 4,
       "content": "giọng khinh người của bọn kiêu căng.",
       "order": 2,
-      "parNumber": 3,
+      "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-17T09:56:57.582Z",
-      "updatedAt": "2024-09-17T09:56:57.582Z",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.590Z",
+      "updatedAt": "2024-09-23T04:22:01.590Z",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     }
   ],
   "footnotes": [
     {
-      "id": "d4889423-b880-4520-8a69-99e929ccebef",
-      "content": "Có lẽ <i>ai ca này của tập thể</i> đã được soạn thảo sau thời lưu đày hoặc vào thời ông Nơ-khe-mi-a. Lúc đó, dân Ít-ra-en bị dân ngoại tấn công, khinh dể và nhục mạ.",
-      "position": 62,
+      "id": "2e75c7b9-13b8-4045-8801-95aba3ec7881",
+      "content": "Có lẽ *ai ca này của tập thể* đã được soạn thảo sau thời lưu đày hoặc vào thời ông Nơ-khe-mi-a. Lúc đó, dân Ít-ra-en bị dân ngoại tấn công, khinh dể và nhục mạ.",
+      "position": 66,
       "order": 0,
-      "createdAt": "2024-09-17T09:56:57.550Z",
-      "updatedAt": "2024-09-17T09:56:57.550Z",
-      "headingId": "fbd43b96-110c-4aae-8b98-ee023b7c47fa",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.560Z",
+      "updatedAt": "2024-09-23T04:22:01.560Z",
+      "headingId": "ba34f915-12ff-45dd-ad25-fc358058b0eb",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "e2451986-acda-4b79-8897-b829eeb131ce",
+      "id": "d38150ad-34fc-4a4d-8fd4-5e86817840a2",
       "content": "Đó là thái độ của cộng đoàn Ít-ra-en đợi chờ sự cứu giúp của Thiên Chúa với niềm tin tưởng cậy trông.",
       "position": 37,
       "order": 1,
-      "createdAt": "2024-09-17T09:56:57.567Z",
-      "updatedAt": "2024-09-17T09:56:57.567Z",
-      "verseId": "e83879ef-c374-4de4-b5f2-aebd27dd2bd0",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.576Z",
+      "updatedAt": "2024-09-23T04:22:01.576Z",
+      "verseId": "efdf0793-3e48-4ef4-b2b1-390ccde7513b",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "6c74a186-50d0-4545-b88f-afc89f53f969",
+      "id": "42596b86-ee4e-471b-94fa-60238f34c82d",
       "content": "Không rõ ở đây, tác giả muốn nói về những người trong cộng đoàn Ít-ra-en, về những kẻ thù ở ngoài cộng đoàn hay về những người ngoại xâm ?",
       "position": 35,
       "order": 2,
-      "createdAt": "2024-09-17T09:56:57.584Z",
-      "updatedAt": "2024-09-17T09:56:57.584Z",
-      "verseId": "8671e819-aa0f-45e2-b8e3-ebb37667f513",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.592Z",
+      "updatedAt": "2024-09-23T04:22:01.592Z",
+      "verseId": "d69ae9f1-93aa-4ae9-98c5-b41583ad06bd",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     }
   ],
   "headings": [
     {
-      "id": "fbd43b96-110c-4aae-8b98-ee023b7c47fa",
-      "content": "Tv 123 (122) Dân Ít-ra-en bị áp bức đặt hy vọng nơi Thiên Chúa",
+      "id": "ba34f915-12ff-45dd-ad25-fc358058b0eb",
+      "content": "Tv 123 (122) Dân [Ít-ra-en]() bị áp bức đặt hy vọng nơi Thiên Chúa",
       "order": 0,
-      "createdAt": "2024-09-17T09:56:57.548Z",
-      "updatedAt": "2024-09-17T09:56:57.548Z",
-      "verseId": "e3254560-5a1c-4ab1-99f6-91359c6d35c3",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.558Z",
+      "updatedAt": "2024-09-23T04:22:01.558Z",
+      "verseId": "96c553cf-77ae-403e-af71-e4bd081789bf",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     }
   ],
   "references": [
     {
-      "id": "4e6bda24-0865-47f6-8471-4fa8afda0e92",
+      "id": "f0193ea4-3908-4757-abf4-a203f2be4b95",
       "content": "Tv 25,15; 141,8",
       "position": 4,
       "order": 0,
-      "createdAt": "2024-09-17T09:56:57.555Z",
-      "updatedAt": "2024-09-17T09:56:57.555Z",
-      "verseId": "26c2e0e7-a942-4705-8c9f-2d1162d20818",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.564Z",
+      "updatedAt": "2024-09-23T04:22:01.564Z",
+      "verseId": "2b172a4c-ba47-483d-bf2b-6ef160df0511",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     },
     {
-      "id": "46808ece-f69e-4179-815d-8ceb47c367a8",
+      "id": "5e71219d-639a-42ee-91f8-acdde574fcf8",
       "content": "Mt 6,9",
       "position": 0,
       "order": 1,
-      "createdAt": "2024-09-17T09:56:57.559Z",
-      "updatedAt": "2024-09-17T09:56:57.559Z",
-      "verseId": "5c31dfaa-1232-4900-8064-b7d7021a5f86",
-      "chapterId": "17e1c22a-5046-43fc-8da8-aa7408cac867"
+      "createdAt": "2024-09-23T04:22:01.568Z",
+      "updatedAt": "2024-09-23T04:22:01.568Z",
+      "verseId": "ba09cf35-6b0c-4017-8597-8b5413c03f0b",
+      "chapterId": "441e0ea6-578f-43b4-9b63-7079ada06999"
     }
   ]
 }
