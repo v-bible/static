@@ -1,5 +1,6 @@
 import fsPromise from 'node:fs/promises';
 import path from 'node:path';
+import Fuse from 'fuse.js';
 
 const generateSearchIndex = async (
   baseUrl = 'http://localhost:8081/api',
@@ -34,12 +35,6 @@ const generateSearchIndex = async (
           return {
             content: verse.content,
             order: verse.order,
-            metadata: {
-              number: verse.number,
-              parNumber: verse.parNumber,
-              parIndex: verse.parIndex,
-              isPoetry: verse.isPoetry,
-            },
             bookCode: book.code,
             bookTitle: book.title,
             bookCanon: book.canon,
@@ -52,9 +47,6 @@ const generateSearchIndex = async (
           return {
             content: fn.content,
             order: fn.order,
-            metadata: {
-              position: fn.position,
-            },
             bookCode: book.code,
             bookTitle: book.title,
             bookCanon: book.canon,
@@ -67,7 +59,6 @@ const generateSearchIndex = async (
           return {
             content: heading.content,
             order: heading.order,
-            metadata: {},
             bookCode: book.code,
             bookTitle: book.title,
             bookCanon: book.canon,
@@ -80,7 +71,6 @@ const generateSearchIndex = async (
           return {
             content: ref.content,
             order: ref.order,
-            metadata: {},
             bookCode: book.code,
             bookTitle: book.title,
             bookCanon: book.canon,
@@ -101,9 +91,11 @@ const generateSearchIndex = async (
     idxList.push(...chapterData.flat());
   }
 
+  const contentIndex = Fuse.createIndex(['content'], idxList);
+
   await fsPromise.writeFile(
     path.resolve(rootDirName, versionCode.toLowerCase(), 'search-index.json'),
-    JSON.stringify(idxList),
+    JSON.stringify(contentIndex.toJSON()),
   );
 };
 
