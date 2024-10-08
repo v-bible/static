@@ -95,6 +95,15 @@ const generateSearchIndex = async (
 
   await fsPromise.writeFile(
     path.resolve(rootDirName, versionCode.toLowerCase(), 'search-index.json'),
+    JSON.stringify(idxList),
+  );
+
+  await fsPromise.writeFile(
+    path.resolve(
+      rootDirName,
+      versionCode.toLowerCase(),
+      'search-index-fuse-js.json',
+    ),
     JSON.stringify(contentIndex.toJSON()),
   );
 };
