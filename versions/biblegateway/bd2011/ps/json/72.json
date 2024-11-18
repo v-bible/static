@@ -605,11 +605,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "ac7015d4-2b72-4d36-b3eb-5ea78f3a080c",
-    "title": "Thơ của Sa-lô-môn",
-    "createdAt": "2024-09-24T02:02:57.233Z",
-    "updatedAt": "2024-09-24T02:02:57.233Z",
-    "chapterId": "c5272af2-061e-4c39-bf6a-ee7ec5890440"
-  }
+  "psalmMetadata": [
+    {
+      "id": "ac7015d4-2b72-4d36-b3eb-5ea78f3a080c",
+      "title": "Thơ của Sa-lô-môn",
+      "createdAt": "2024-09-24T02:02:57.233Z",
+      "updatedAt": "2024-09-24T02:02:57.233Z",
+      "chapterId": "c5272af2-061e-4c39-bf6a-ee7ec5890440"
+    }
+  ]
 }

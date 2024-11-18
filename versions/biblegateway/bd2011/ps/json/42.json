@@ -447,11 +447,13 @@
       "chapterId": "7b5f3bc5-177e-474a-95bc-ef54e15f63ce"
     }
   ],
-  "psalmMetadata": {
-    "id": "067b6df1-31ca-4449-bd40-0a80ec19cc67",
-    "title": "Cho Trưởng Ban Nhạc Giáo huấn ca của con cháu Cô-ra",
-    "createdAt": "2024-09-24T01:58:03.988Z",
-    "updatedAt": "2024-09-24T01:58:03.988Z",
-    "chapterId": "7b5f3bc5-177e-474a-95bc-ef54e15f63ce"
-  }
+  "psalmMetadata": [
+    {
+      "id": "067b6df1-31ca-4449-bd40-0a80ec19cc67",
+      "title": "Cho Trưởng Ban Nhạc Giáo huấn ca của con cháu Cô-ra",
+      "createdAt": "2024-09-24T01:58:03.988Z",
+      "updatedAt": "2024-09-24T01:58:03.988Z",
+      "chapterId": "7b5f3bc5-177e-474a-95bc-ef54e15f63ce"
+    }
+  ]
 }

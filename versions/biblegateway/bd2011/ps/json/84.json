@@ -425,11 +425,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "2b725a10-2a71-48ee-aadd-34dafd025768",
-    "title": "Thơ của con cháu Cô-ra Cho Trưởng Ban Nhạc Theo điệu Ghi-tít",
-    "createdAt": "2024-09-24T02:04:35.844Z",
-    "updatedAt": "2024-09-24T02:04:35.844Z",
-    "chapterId": "0b67b017-8a02-418c-9d5a-7795966de254"
-  }
+  "psalmMetadata": [
+    {
+      "id": "2b725a10-2a71-48ee-aadd-34dafd025768",
+      "title": "Thơ của con cháu Cô-ra Cho Trưởng Ban Nhạc Theo điệu Ghi-tít",
+      "createdAt": "2024-09-24T02:04:35.844Z",
+      "updatedAt": "2024-09-24T02:04:35.844Z",
+      "chapterId": "0b67b017-8a02-418c-9d5a-7795966de254"
+    }
+  ]
 }

@@ -1129,11 +1129,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "771c1642-fdac-4498-9d3a-f6dcfae8243f",
-    "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ”",
-    "createdAt": "2024-09-24T02:02:36.682Z",
-    "updatedAt": "2024-09-24T02:02:36.682Z",
-    "chapterId": "8121b34a-1292-4812-80c1-5fe8b298951c"
-  }
+  "psalmMetadata": [
+    {
+      "id": "771c1642-fdac-4498-9d3a-f6dcfae8243f",
+      "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ”",
+      "createdAt": "2024-09-24T02:02:36.682Z",
+      "updatedAt": "2024-09-24T02:02:36.682Z",
+      "chapterId": "8121b34a-1292-4812-80c1-5fe8b298951c"
+    }
+  ]
 }

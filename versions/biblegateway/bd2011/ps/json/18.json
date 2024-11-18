@@ -1409,11 +1409,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "f5cbc0de-0609-480e-8ca9-b9dd07f8b963",
-    "title": "Thơ của Ða-vít tôi tớ CHÚA Cho Trưởng Ban Nhạc Ông dâng lên Chúa những lời này trong ngày Chúa giải cứu ông khỏi tay quân thù của ông và khỏi tay của Sau-lơ. Ông nói:",
-    "createdAt": "2024-09-24T01:54:19.547Z",
-    "updatedAt": "2024-09-24T01:54:19.547Z",
-    "chapterId": "8d78892c-8cfa-4ce8-a372-d256207b1df8"
-  }
+  "psalmMetadata": [
+    {
+      "id": "f5cbc0de-0609-480e-8ca9-b9dd07f8b963",
+      "title": "Thơ của Ða-vít tôi tớ CHÚA Cho Trưởng Ban Nhạc Ông dâng lên Chúa những lời này trong ngày Chúa giải cứu ông khỏi tay quân thù của ông và khỏi tay của Sau-lơ. Ông nói:",
+      "createdAt": "2024-09-24T01:54:19.547Z",
+      "updatedAt": "2024-09-24T01:54:19.547Z",
+      "chapterId": "8d78892c-8cfa-4ce8-a372-d256207b1df8"
+    }
+  ]
 }

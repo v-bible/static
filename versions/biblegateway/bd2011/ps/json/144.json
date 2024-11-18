@@ -514,11 +514,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "5f3abc76-8645-4a64-9007-ed0c3316a88e",
-    "title": "Thơ của Ða-vít Thơ chúc tụng của Ða-vít",
-    "createdAt": "2024-09-24T02:12:59.664Z",
-    "updatedAt": "2024-09-24T02:12:59.664Z",
-    "chapterId": "ba1d12bb-34af-4ae5-bf8a-ff66711b93e9"
-  }
+  "psalmMetadata": [
+    {
+      "id": "5f3abc76-8645-4a64-9007-ed0c3316a88e",
+      "title": "Thơ của Ða-vít Thơ chúc tụng của Ða-vít",
+      "createdAt": "2024-09-24T02:12:59.664Z",
+      "updatedAt": "2024-09-24T02:12:59.664Z",
+      "chapterId": "ba1d12bb-34af-4ae5-bf8a-ff66711b93e9"
+    }
+  ]
 }

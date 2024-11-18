@@ -463,11 +463,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7617dc39-0866-44f1-bffc-a312666e469a",
-    "title": "Bài cầu nguyện của Ða-vít",
-    "createdAt": "2024-09-24T02:04:49.755Z",
-    "updatedAt": "2024-09-24T02:04:49.755Z",
-    "chapterId": "bcdcc265-31e6-4fe2-af62-8f553d29d3ab"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7617dc39-0866-44f1-bffc-a312666e469a",
+      "title": "Bài cầu nguyện của Ða-vít",
+      "createdAt": "2024-09-24T02:04:49.755Z",
+      "updatedAt": "2024-09-24T02:04:49.755Z",
+      "chapterId": "bcdcc265-31e6-4fe2-af62-8f553d29d3ab"
+    }
+  ]
 }

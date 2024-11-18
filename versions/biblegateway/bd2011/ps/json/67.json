@@ -225,11 +225,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "b31acf61-4c97-40a1-b795-ff0dfd783b50",
-    "title": "Cho Trưởng Ban Nhạc Dùng với nhạc khí bằng dây",
-    "createdAt": "2024-09-24T02:02:09.879Z",
-    "updatedAt": "2024-09-24T02:02:09.879Z",
-    "chapterId": "12ba4ac5-2519-4fff-b7e1-00fb8b9ea452"
-  }
+  "psalmMetadata": [
+    {
+      "id": "b31acf61-4c97-40a1-b795-ff0dfd783b50",
+      "title": "Cho Trưởng Ban Nhạc Dùng với nhạc khí bằng dây",
+      "createdAt": "2024-09-24T02:02:09.879Z",
+      "updatedAt": "2024-09-24T02:02:09.879Z",
+      "chapterId": "12ba4ac5-2519-4fff-b7e1-00fb8b9ea452"
+    }
+  ]
 }

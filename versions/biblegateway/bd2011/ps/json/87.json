@@ -221,11 +221,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "98dfe5ef-67ae-4d76-bb14-b95484ab8a13",
-    "title": "Một thi ca của con cháu Cô-ra",
-    "createdAt": "2024-09-24T02:04:56.855Z",
-    "updatedAt": "2024-09-24T02:04:56.855Z",
-    "chapterId": "beaf0531-89b4-4e3a-a421-8498b881a220"
-  }
+  "psalmMetadata": [
+    {
+      "id": "98dfe5ef-67ae-4d76-bb14-b95484ab8a13",
+      "title": "Một thi ca của con cháu Cô-ra",
+      "createdAt": "2024-09-24T02:04:56.855Z",
+      "updatedAt": "2024-09-24T02:04:56.855Z",
+      "chapterId": "beaf0531-89b4-4e3a-a421-8498b881a220"
+    }
+  ]
 }

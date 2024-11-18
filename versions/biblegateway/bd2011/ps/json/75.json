@@ -319,11 +319,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "a5c7343c-69d2-44af-b35a-3df8254f95d3",
-    "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Theo điệu “Xin Ðừng Hủy Phá”",
-    "createdAt": "2024-09-24T02:03:19.186Z",
-    "updatedAt": "2024-09-24T02:03:19.186Z",
-    "chapterId": "d682b911-f946-4867-94cc-6a267a337324"
-  }
+  "psalmMetadata": [
+    {
+      "id": "a5c7343c-69d2-44af-b35a-3df8254f95d3",
+      "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Theo điệu “Xin Ðừng Hủy Phá”",
+      "createdAt": "2024-09-24T02:03:19.186Z",
+      "updatedAt": "2024-09-24T02:03:19.186Z",
+      "chapterId": "d682b911-f946-4867-94cc-6a267a337324"
+    }
+  ]
 }

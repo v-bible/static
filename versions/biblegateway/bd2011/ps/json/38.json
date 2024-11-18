@@ -562,11 +562,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "02f0363d-8e93-49e6-b501-56c5d76f0ed5",
-    "title": "Thơ của Ða-vít Ðể làm một của lễ tưởng niệm",
-    "createdAt": "2024-09-24T01:57:29.041Z",
-    "updatedAt": "2024-09-24T01:57:29.041Z",
-    "chapterId": "ddc1024a-9add-4759-91c4-2afc964d817b"
-  }
+  "psalmMetadata": [
+    {
+      "id": "02f0363d-8e93-49e6-b501-56c5d76f0ed5",
+      "title": "Thơ của Ða-vít Ðể làm một của lễ tưởng niệm",
+      "createdAt": "2024-09-24T01:57:29.041Z",
+      "updatedAt": "2024-09-24T01:57:29.041Z",
+      "chapterId": "ddc1024a-9add-4759-91c4-2afc964d817b"
+    }
+  ]
 }

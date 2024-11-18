@@ -561,11 +561,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "065a8ae8-5ed5-42b3-85eb-5115cbda689f",
-    "title": "Thơ của Ða-vít Cảm tác khi ông giả điên trước mặt A-bi-mê-léc. Vua ấy đuổi ông đi, và ông đã thoát chết.",
-    "createdAt": "2024-09-24T01:56:47.231Z",
-    "updatedAt": "2024-09-24T01:56:47.231Z",
-    "chapterId": "5e6edac4-18b5-4d20-9a6b-9967ea39d4fb"
-  }
+  "psalmMetadata": [
+    {
+      "id": "065a8ae8-5ed5-42b3-85eb-5115cbda689f",
+      "title": "Thơ của Ða-vít Cảm tác khi ông giả điên trước mặt A-bi-mê-léc. Vua ấy đuổi ông đi, và ông đã thoát chết.",
+      "createdAt": "2024-09-24T01:56:47.231Z",
+      "updatedAt": "2024-09-24T01:56:47.231Z",
+      "chapterId": "5e6edac4-18b5-4d20-9a6b-9967ea39d4fb"
+    }
+  ]
 }

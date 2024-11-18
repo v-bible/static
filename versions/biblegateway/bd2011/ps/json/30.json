@@ -357,11 +357,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "ff37e490-9b5f-4bbc-8d6f-ae12e4810641",
-    "title": "Thơ của Ða-vít Bài ca trong Lễ Cung Hiến Nhà CHÚA",
-    "createdAt": "2024-09-24T01:56:10.948Z",
-    "updatedAt": "2024-09-24T01:56:10.948Z",
-    "chapterId": "f9df14ff-2b1e-4fbc-aacf-7cb749bd6769"
-  }
+  "psalmMetadata": [
+    {
+      "id": "ff37e490-9b5f-4bbc-8d6f-ae12e4810641",
+      "title": "Thơ của Ða-vít Bài ca trong Lễ Cung Hiến Nhà CHÚA",
+      "createdAt": "2024-09-24T01:56:10.948Z",
+      "updatedAt": "2024-09-24T01:56:10.948Z",
+      "chapterId": "f9df14ff-2b1e-4fbc-aacf-7cb749bd6769"
+    }
+  ]
 }

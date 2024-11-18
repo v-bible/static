@@ -310,11 +310,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "c7c4be2e-29fc-47e0-8aae-8d5359b370fb",
-    "title": "Thơ của Ða-vít Cảm tác khi ông ở trong đồng hoang vùng Giu-đê",
-    "createdAt": "2024-09-24T02:01:35.517Z",
-    "updatedAt": "2024-09-24T02:01:35.517Z",
-    "chapterId": "56b908b3-fcc1-4d7d-817b-dc304e04433c"
-  }
+  "psalmMetadata": [
+    {
+      "id": "c7c4be2e-29fc-47e0-8aae-8d5359b370fb",
+      "title": "Thơ của Ða-vít Cảm tác khi ông ở trong đồng hoang vùng Giu-đê",
+      "createdAt": "2024-09-24T02:01:35.517Z",
+      "updatedAt": "2024-09-24T02:01:35.517Z",
+      "chapterId": "56b908b3-fcc1-4d7d-817b-dc304e04433c"
+    }
+  ]
 }

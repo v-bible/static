@@ -310,11 +310,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "913ba68e-b258-455f-b451-e4bb75b95c82",
-    "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu “Xin Ðừng Hủy Diệt”",
-    "createdAt": "2024-09-24T02:00:34.237Z",
-    "updatedAt": "2024-09-24T02:00:34.237Z",
-    "chapterId": "de3558e5-ff60-49a6-8087-ff04553eac75"
-  }
+  "psalmMetadata": [
+    {
+      "id": "913ba68e-b258-455f-b451-e4bb75b95c82",
+      "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu “Xin Ðừng Hủy Diệt”",
+      "createdAt": "2024-09-24T02:00:34.237Z",
+      "updatedAt": "2024-09-24T02:00:34.237Z",
+      "chapterId": "de3558e5-ff60-49a6-8087-ff04553eac75"
+    }
+  ]
 }

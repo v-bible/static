@@ -273,11 +273,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7a4b6aa6-0ad5-4f68-9245-09985abdcd52",
-    "title": "Giáo huấn ca của Ða-vít Cho Trưởng Ban Nhạc Theo điệu Ma-ha-lát",
-    "createdAt": "2024-09-24T01:59:50.778Z",
-    "updatedAt": "2024-09-24T01:59:50.778Z",
-    "chapterId": "2933899c-1d7b-4e4a-9b84-c55629400e48"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7a4b6aa6-0ad5-4f68-9245-09985abdcd52",
+      "title": "Giáo huấn ca của Ða-vít Cho Trưởng Ban Nhạc Theo điệu Ma-ha-lát",
+      "createdAt": "2024-09-24T01:59:50.778Z",
+      "updatedAt": "2024-09-24T01:59:50.778Z",
+      "chapterId": "2933899c-1d7b-4e4a-9b84-c55629400e48"
+    }
+  ]
 }

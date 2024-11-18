@@ -394,11 +394,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "88c07c02-6f32-46e8-89bc-44bd395dda96",
-    "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Dùng với Ống Sáo",
-    "createdAt": "2024-09-24T01:52:05.973Z",
-    "updatedAt": "2024-09-24T01:52:05.973Z",
-    "chapterId": "aa504c56-d16e-44c4-a3ac-df62086f89c2"
-  }
+  "psalmMetadata": [
+    {
+      "id": "88c07c02-6f32-46e8-89bc-44bd395dda96",
+      "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Dùng với Ống Sáo",
+      "createdAt": "2024-09-24T01:52:05.973Z",
+      "updatedAt": "2024-09-24T01:52:05.973Z",
+      "chapterId": "aa504c56-d16e-44c4-a3ac-df62086f89c2"
+    }
+  ]
 }

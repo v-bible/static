@@ -357,11 +357,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "d1b015dc-1a86-45a8-acf5-21a86368d290",
-    "title": "Thơ của con cháu Cô-ra Cho Trưởng Ban Nhạc",
-    "createdAt": "2024-09-24T02:04:43.083Z",
-    "updatedAt": "2024-09-24T02:04:43.083Z",
-    "chapterId": "1f4c8955-7f8e-44c7-89f7-597e6c9dafdb"
-  }
+  "psalmMetadata": [
+    {
+      "id": "d1b015dc-1a86-45a8-acf5-21a86368d290",
+      "title": "Thơ của con cháu Cô-ra Cho Trưởng Ban Nhạc",
+      "createdAt": "2024-09-24T02:04:43.083Z",
+      "updatedAt": "2024-09-24T02:04:43.083Z",
+      "chapterId": "1f4c8955-7f8e-44c7-89f7-597e6c9dafdb"
+    }
+  ]
 }

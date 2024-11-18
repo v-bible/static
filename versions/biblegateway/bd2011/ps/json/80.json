@@ -535,11 +535,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "fc02d579-a4e8-4b29-a43b-ea9dee28dc56",
-    "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ của Giao Ước”",
-    "createdAt": "2024-09-24T02:03:56.252Z",
-    "updatedAt": "2024-09-24T02:03:56.252Z",
-    "chapterId": "d0b27b17-2b77-4b86-8252-123b660464f9"
-  }
+  "psalmMetadata": [
+    {
+      "id": "fc02d579-a4e8-4b29-a43b-ea9dee28dc56",
+      "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ của Giao Ước”",
+      "createdAt": "2024-09-24T02:03:56.252Z",
+      "updatedAt": "2024-09-24T02:03:56.252Z",
+      "chapterId": "d0b27b17-2b77-4b86-8252-123b660464f9"
+    }
+  ]
 }

@@ -345,11 +345,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "f3a84e4e-845d-47de-9f8c-c2ff11da691b",
-    "title": "Giáo huấn ca của Ða-vít",
-    "createdAt": "2024-09-24T01:56:27.862Z",
-    "updatedAt": "2024-09-24T01:56:27.862Z",
-    "chapterId": "fb92738b-8a34-4aed-ac19-f6e2e36f5570"
-  }
+  "psalmMetadata": [
+    {
+      "id": "f3a84e4e-845d-47de-9f8c-c2ff11da691b",
+      "title": "Giáo huấn ca của Ða-vít",
+      "createdAt": "2024-09-24T01:56:27.862Z",
+      "updatedAt": "2024-09-24T01:56:27.862Z",
+      "chapterId": "fb92738b-8a34-4aed-ac19-f6e2e36f5570"
+    }
+  ]
 }

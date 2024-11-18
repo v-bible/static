@@ -201,11 +201,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "f0ed1f3d-92fe-4e6e-b4e1-5fa62bf8bab5",
-    "title": "Bài ca cảm tạ",
-    "createdAt": "2024-09-24T02:06:43.027Z",
-    "updatedAt": "2024-09-24T02:06:43.027Z",
-    "chapterId": "03768f8d-1ff2-4aa6-8121-2f50f84ce812"
-  }
+  "psalmMetadata": [
+    {
+      "id": "f0ed1f3d-92fe-4e6e-b4e1-5fa62bf8bab5",
+      "title": "Bài ca cảm tạ",
+      "createdAt": "2024-09-24T02:06:43.027Z",
+      "updatedAt": "2024-09-24T02:06:43.027Z",
+      "chapterId": "03768f8d-1ff2-4aa6-8121-2f50f84ce812"
+    }
+  ]
 }

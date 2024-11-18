@@ -322,11 +322,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "e3e3009b-147e-4f05-a18f-f0098b15e452",
-    "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Dùng với nhạc khí bằng dây",
-    "createdAt": "2024-09-24T02:03:26.680Z",
-    "updatedAt": "2024-09-24T02:03:26.680Z",
-    "chapterId": "4ba97e42-02cc-4cd3-b339-bb7a5a9a8fb7"
-  }
+  "psalmMetadata": [
+    {
+      "id": "e3e3009b-147e-4f05-a18f-f0098b15e452",
+      "title": "Thơ của A-sáp Cho Trưởng Ban Nhạc Dùng với nhạc khí bằng dây",
+      "createdAt": "2024-09-24T02:03:26.680Z",
+      "updatedAt": "2024-09-24T02:03:26.680Z",
+      "chapterId": "4ba97e42-02cc-4cd3-b339-bb7a5a9a8fb7"
+    }
+  ]
 }

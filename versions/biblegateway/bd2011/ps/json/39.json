@@ -478,11 +478,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "b063fd8f-55b9-48a1-86c2-cec15dc7a91a",
-    "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu Giê-đu-thun",
-    "createdAt": "2024-09-24T01:57:36.834Z",
-    "updatedAt": "2024-09-24T01:57:36.834Z",
-    "chapterId": "86b54b00-9eb2-47e4-9983-a2f4a0053c8f"
-  }
+  "psalmMetadata": [
+    {
+      "id": "b063fd8f-55b9-48a1-86c2-cec15dc7a91a",
+      "title": "Thơ của Ða-vít Cho Trưởng Ban Nhạc Theo điệu Giê-đu-thun",
+      "createdAt": "2024-09-24T01:57:36.834Z",
+      "updatedAt": "2024-09-24T01:57:36.834Z",
+      "chapterId": "86b54b00-9eb2-47e4-9983-a2f4a0053c8f"
+    }
+  ]
 }

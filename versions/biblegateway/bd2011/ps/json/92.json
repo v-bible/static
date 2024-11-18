@@ -406,11 +406,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "240f8aa4-7b95-4430-a7b9-855f4d8519c6",
-    "title": "Bài ca trong ngày Sa-bát",
-    "createdAt": "2024-09-24T02:05:41.636Z",
-    "updatedAt": "2024-09-24T02:05:41.636Z",
-    "chapterId": "be02f94d-363a-4645-a27c-b94802b82747"
-  }
+  "psalmMetadata": [
+    {
+      "id": "240f8aa4-7b95-4430-a7b9-855f4d8519c6",
+      "title": "Bài ca trong ngày Sa-bát",
+      "createdAt": "2024-09-24T02:05:41.636Z",
+      "updatedAt": "2024-09-24T02:05:41.636Z",
+      "chapterId": "be02f94d-363a-4645-a27c-b94802b82747"
+    }
+  ]
 }

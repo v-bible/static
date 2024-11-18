@@ -202,11 +202,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "e74040c3-f8e8-45e1-89e0-846ad83f524d",
-    "title": "Bài ca đi lên đền thánh",
-    "createdAt": "2024-09-24T02:10:05.536Z",
-    "updatedAt": "2024-09-24T02:10:05.536Z",
-    "chapterId": "a62cd349-8e99-4079-90a6-9424630badf6"
-  }
+  "psalmMetadata": [
+    {
+      "id": "e74040c3-f8e8-45e1-89e0-846ad83f524d",
+      "title": "Bài ca đi lên đền thánh",
+      "createdAt": "2024-09-24T02:10:05.536Z",
+      "updatedAt": "2024-09-24T02:10:05.536Z",
+      "chapterId": "a62cd349-8e99-4079-90a6-9424630badf6"
+    }
+  ]
 }

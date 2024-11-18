@@ -605,11 +605,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "36f91e40-d86f-4bd7-8ccd-52eef60b8d51",
-    "title": "Giáo huấn ca của A-sáp",
-    "createdAt": "2024-09-24T02:03:11.205Z",
-    "updatedAt": "2024-09-24T02:03:11.205Z",
-    "chapterId": "592d4429-483a-40c7-b807-5afadb5e80aa"
-  }
+  "psalmMetadata": [
+    {
+      "id": "36f91e40-d86f-4bd7-8ccd-52eef60b8d51",
+      "title": "Giáo huấn ca của A-sáp",
+      "createdAt": "2024-09-24T02:03:11.205Z",
+      "updatedAt": "2024-09-24T02:03:11.205Z",
+      "chapterId": "592d4429-483a-40c7-b807-5afadb5e80aa"
+    }
+  ]
 }

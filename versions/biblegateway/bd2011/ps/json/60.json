@@ -418,11 +418,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "4e5b6162-2a1d-4c4f-8851-02eda47bcb4b",
-    "title": "Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ của Giao Ước” Giáo huấn ca của Ða-vít Cảm tác khi ông giao chiến với A-ram Na-ha-ra-im và A-ram Xô-ba, lúc Giô-áp trở lại đánh bại mười hai ngàn người Ê-đôm ở Thung Lũng Muối",
-    "createdAt": "2024-09-24T02:00:51.809Z",
-    "updatedAt": "2024-09-24T02:00:51.809Z",
-    "chapterId": "654eb9d0-377c-49d5-8e98-8b7a98bdf397"
-  }
+  "psalmMetadata": [
+    {
+      "id": "4e5b6162-2a1d-4c4f-8851-02eda47bcb4b",
+      "title": "Cho Trưởng Ban Nhạc Theo điệu “Hoa Huệ của Giao Ước” Giáo huấn ca của Ða-vít Cảm tác khi ông giao chiến với A-ram Na-ha-ra-im và A-ram Xô-ba, lúc Giô-áp trở lại đánh bại mười hai ngàn người Ê-đôm ở Thung Lũng Muối",
+      "createdAt": "2024-09-24T02:00:51.809Z",
+      "updatedAt": "2024-09-24T02:00:51.809Z",
+      "chapterId": "654eb9d0-377c-49d5-8e98-8b7a98bdf397"
+    }
+  ]
 }

@@ -1973,11 +1973,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "ab8b379a-4a4d-4fbd-b331-80408c4afa30",
-    "title": "Thơ của A-sáp Giáo huấn ca",
-    "createdAt": "2024-09-24T02:03:41.833Z",
-    "updatedAt": "2024-09-24T02:03:41.833Z",
-    "chapterId": "72f90b02-a221-4d01-a146-16e6ea8d995d"
-  }
+  "psalmMetadata": [
+    {
+      "id": "ab8b379a-4a4d-4fbd-b331-80408c4afa30",
+      "title": "Thơ của A-sáp Giáo huấn ca",
+      "createdAt": "2024-09-24T02:03:41.833Z",
+      "updatedAt": "2024-09-24T02:03:41.833Z",
+      "chapterId": "72f90b02-a221-4d01-a146-16e6ea8d995d"
+    }
+  ]
 }

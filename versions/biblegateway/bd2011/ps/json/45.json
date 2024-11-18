@@ -478,11 +478,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "1706b22b-3a09-48ca-acc1-255dc06baf98",
-    "title": "Giáo huấn ca của con cháu Cô-ra Một bản tình ca Cho Trưởng Ban Nhạc Theo điệu Sô-san-nim",
-    "createdAt": "2024-09-24T01:58:29.289Z",
-    "updatedAt": "2024-09-24T01:58:29.289Z",
-    "chapterId": "39ff3a89-2a15-4266-8a24-5a8e2907f104"
-  }
+  "psalmMetadata": [
+    {
+      "id": "1706b22b-3a09-48ca-acc1-255dc06baf98",
+      "title": "Giáo huấn ca của con cháu Cô-ra Một bản tình ca Cho Trưởng Ban Nhạc Theo điệu Sô-san-nim",
+      "createdAt": "2024-09-24T01:58:29.289Z",
+      "updatedAt": "2024-09-24T01:58:29.289Z",
+      "chapterId": "39ff3a89-2a15-4266-8a24-5a8e2907f104"
+    }
+  ]
 }
