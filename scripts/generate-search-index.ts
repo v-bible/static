@@ -94,12 +94,20 @@ const generateSearchIndex = async (
   const contentIndex = Fuse.createIndex(['content'], idxList);
 
   await fsPromise.writeFile(
-    path.resolve(rootDirName, versionCode.toLowerCase(), 'search-index.json'),
+    path.resolve(
+      import.meta.dirname,
+      '../versions',
+      rootDirName,
+      versionCode.toLowerCase(),
+      'search-index.json',
+    ),
     JSON.stringify(idxList),
   );
 
   await fsPromise.writeFile(
     path.resolve(
+      import.meta.dirname,
+      '../versions',
       rootDirName,
       versionCode.toLowerCase(),
       'search-index-fuse-js.json',

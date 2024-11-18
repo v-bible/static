@@ -1,0 +1,612 @@
+{
+  "chapter": {
+    "id": "0db66ce7-1025-415a-81a3-6d357401c52b",
+    "number": 10,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.761Z",
+    "updatedAt": "2024-09-23T03:08:01.761Z",
+    "bookId": "810ca004-17cb-44cf-aed0-5a846b5d154e"
+  },
+  "verses": [
+    {
+      "id": "bc214773-1712-44c6-9dc7-47b08380a860",
+      "number": 1,
+      "content": "Thưa anh em, lòng tôi những ước mong và tôi cầu xin cho dân Do-thái được cứu độ.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:16.984Z",
+      "updatedAt": "2024-09-23T03:21:16.984Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "07243f6d-9ba0-4388-b806-e30982936c80",
+      "number": 2,
+      "content": "Quả thế, tôi làm chứng cho họ là họ có lòng nhiệt thành đối với Thiên Chúa, nhưng lòng nhiệt thành đó không được sáng suốt",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:16.991Z",
+      "updatedAt": "2024-09-23T03:21:16.991Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "fac47f41-f7a8-4cae-a188-67ca3a8d99fd",
+      "number": 3,
+      "content": "họ không nhận biết rằng chính Thiên Chúa làm cho người ta nên công chính, và họ tìm cách nên công chính tự sức mình. Như vậy là họ không tuân theo đường lối Thiên Chúa làm cho người ta nên công chính.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.003Z",
+      "updatedAt": "2024-09-23T03:21:17.003Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "9f8bfd23-a9de-450b-81cb-dd4ff4d439c7",
+      "number": 4,
+      "content": "Quả thế, cứu cánh của Lề Luật là Đức [Ki-tô](), khiến bất cứ ai tin đều được nên công chính.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.007Z",
+      "updatedAt": "2024-09-23T03:21:17.007Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "abce81b7-3c22-4be5-bf5b-f8dfa9b7239e",
+      "number": 5,
+      "content": "Về việc người ta được nên công chính nhờ Lề Luật, ông [Mô-sê]() có viết : *Ai thực hành những điều Lề Luật dạy, thì nhờ đó sẽ được sống.*",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.015Z",
+      "updatedAt": "2024-09-23T03:21:17.015Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "418a6489-35f2-461f-8c46-95b01ad777c0",
+      "number": 6,
+      "content": "Còn về việc người ta được nên công chính nhờ đức tin, thì có lời nói : *Đừng tự hỏi : Ai sẽ lên trời ?* ngụ ý là : để đem Đức [Ki-tô]() xuống.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.032Z",
+      "updatedAt": "2024-09-23T03:21:17.032Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "5a1b6d70-b9d3-48ed-91ba-4cb389217ae3",
+      "number": 7,
+      "content": "Cũng đừng hỏi : *Ai sẽ xuống âm phủ ?* ngụ ý là : để đưa Đức [Ki-tô]() lên từ cõi chết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.040Z",
+      "updatedAt": "2024-09-23T03:21:17.040Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "a3e970ae-66cf-4f5d-8411-3de0c2bd186a",
+      "number": 8,
+      "content": "Vậy Kinh Thánh nói gì ? Thưa : *Lời Thiên Chúa ở gần bạn, ngay trên miệng, ngay trong lòng.* Lời đó chính là lời chúng tôi rao giảng để khơi dậy đức tin.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.044Z",
+      "updatedAt": "2024-09-23T03:21:17.044Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "a9d43f10-3652-4c0b-8e43-5448af1ca920",
+      "number": 9,
+      "content": "Nếu miệng bạn tuyên xưng Đức [Giê-su]() là Chúa, và lòng bạn tin rằng Thiên Chúa đã làm cho Người sống lại từ cõi chết, thì bạn sẽ được cứu độ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.053Z",
+      "updatedAt": "2024-09-23T03:21:17.053Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "9b986864-c01c-4421-9757-473c125fdc7b",
+      "number": 10,
+      "content": "Quả thế, có tin thật trong lòng, mới được nên công chính ; có xưng ra ngoài miệng, mới được ơn cứu độ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.061Z",
+      "updatedAt": "2024-09-23T03:21:17.061Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "f0e028e6-6770-4a63-961b-2668f5451bd6",
+      "number": 11,
+      "content": "Kinh Thánh nói : *Mọi kẻ tin vào Người sẽ không phải thất vọng.*",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.065Z",
+      "updatedAt": "2024-09-23T03:21:17.065Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "7c2a003a-3a06-4c1e-94d8-d17ede7b7688",
+      "number": 12,
+      "content": "Như vậy, không có sự khác biệt giữa người Do-thái và người [Hy-lạp](), vì tất cả đều có cùng một Chúa, là Đấng quảng đại đối với tất cả những ai kêu cầu Người.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.078Z",
+      "updatedAt": "2024-09-23T03:21:17.078Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "37230f65-a8b6-4be1-a822-736efe064897",
+      "number": 13,
+      "content": "Vì : *Tất cả những ai kêu cầu danh Đức Chúa sẽ được cứu thoát*.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.087Z",
+      "updatedAt": "2024-09-23T03:21:17.087Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "c6770f18-d642-4c48-8987-6d470292a6bd",
+      "number": 14,
+      "content": "Thế nhưng làm sao họ kêu cầu Đấng họ không tin ? Làm sao họ tin Đấng họ không được nghe ? Làm sao mà nghe, nếu không có ai rao giảng ?",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.097Z",
+      "updatedAt": "2024-09-23T03:21:17.097Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "41d77da2-9a3a-4c1e-8c7f-fea484f3ec42",
+      "number": 15,
+      "content": "Làm sao mà rao giảng, nếu không được sai đi ? Như có lời chép : *Đẹp thay bước chân những sứ giả loan báo tin mừng !*",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.107Z",
+      "updatedAt": "2024-09-23T03:21:17.107Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "0a5d2bee-f3a4-444c-a8ea-919df2ca3680",
+      "number": 16,
+      "content": "Nhưng không phải mọi người đều đã vâng theo Tin Mừng ; chính ngôn sứ [I-sai-a]() đã nói : *Lạy Đức Chúa, ai đã tin khi nghe chúng con giảng ?*",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.114Z",
+      "updatedAt": "2024-09-23T03:21:17.114Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "5d298c16-8696-4ba8-a56c-6f8ce2dd8fc3",
+      "number": 17,
+      "content": "Ấy vậy, có đức tin là nhờ nghe giảng, mà nghe giảng là nghe công bố lời Đức [Ki-tô]().",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.120Z",
+      "updatedAt": "2024-09-23T03:21:17.120Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "00574efd-9eb1-41c3-8701-162b5d6fed38",
+      "number": 18,
+      "content": "Nhưng tôi xin hỏi : Phải chăng họ đã không được nghe giảng ? Có chứ !",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.126Z",
+      "updatedAt": "2024-09-23T03:21:17.126Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "7c8402cc-fd17-43e5-af3f-917c62c6ced9",
+      "number": 18,
+      "content": "*Tiếng các ngài đã dội khắp hoàn cầu,*",
+      "order": 1,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.133Z",
+      "updatedAt": "2024-09-23T03:21:17.133Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "e96e73bb-8356-449b-b3b9-352657308df3",
+      "number": 18,
+      "content": "*và thông điệp loan đi*",
+      "order": 2,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.140Z",
+      "updatedAt": "2024-09-23T03:21:17.140Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "11b099e4-6c00-4d58-a13b-d4a83db51b74",
+      "number": 18,
+      "content": "*tới chân trời góc biển*.",
+      "order": 3,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.143Z",
+      "updatedAt": "2024-09-23T03:21:17.143Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "9480d9fa-0f59-4237-9d81-a7d2461df1b9",
+      "number": 19,
+      "content": "Tôi xin hỏi thêm : Phải chăng dân [Ít-ra-en]() đã không hiểu ? Trước hết, ông [Mô-sê]() nói : *Ta sẽ làm cho các ngươi ganh tị với một dân không đáng gọi là dân, tức giận một dân ngu đần.*",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.153Z",
+      "updatedAt": "2024-09-23T03:21:17.153Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "f686764a-3722-47df-b79d-c85e076c87a1",
+      "number": 20,
+      "content": "Ông [I-sai-a]() còn dám nói :",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.159Z",
+      "updatedAt": "2024-09-23T03:21:17.159Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "72a63e1a-22f3-4ea8-bb9c-3da9f1853682",
+      "number": 20,
+      "content": "*Những kẻ không tìm Ta,*",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.162Z",
+      "updatedAt": "2024-09-23T03:21:17.162Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "b5548aee-265f-4574-b9d1-6089887e15e1",
+      "number": 20,
+      "content": "*lại được gặp Ta ;*",
+      "order": 2,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.170Z",
+      "updatedAt": "2024-09-23T03:21:17.170Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "b506df56-3547-4de4-95ab-73f3b7f9e890",
+      "number": 20,
+      "content": "*những kẻ không hỏi Ta,*",
+      "order": 3,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.174Z",
+      "updatedAt": "2024-09-23T03:21:17.174Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "8ff36dd1-f6ef-4804-86ec-c161a7860013",
+      "number": 20,
+      "content": "*Ta đã xuất hiện cho chúng thấy.*",
+      "order": 4,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:21:17.178Z",
+      "updatedAt": "2024-09-23T03:21:17.178Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "ece6b20d-200c-4670-a13e-af6b43b06bab",
+      "number": 21,
+      "content": "Còn về dân [Ít-ra-en](), ông nói : *Suốt ngày Ta dang tay kêu gọi một dân không vâng lời và ngỗ nghịch*.",
+      "order": 0,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:21:17.182Z",
+      "updatedAt": "2024-09-23T03:21:17.182Z",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1480d09d-b952-4228-bea5-b55551e0800d",
+      "content": "Rm 10,1-4. Mở đầu ch. 10 là một mong ước trước thực tế Ít-ra-en không nhìn nhận ơn được nên công chính do Chúa Ki-tô, cứu cánh của Lề Luật, thực hiện.",
+      "position": 77,
+      "order": 0,
+      "createdAt": "2024-09-23T03:21:16.989Z",
+      "updatedAt": "2024-09-23T03:21:16.989Z",
+      "headingId": "60e71b4b-d1a0-4c9a-957c-e52829dc9af6",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "59fcff82-7867-41dd-8db7-aa5a2efa7490",
+      "content": "Thánh Phao-lô nói theo kinh nghiệm bản thân (x. Gl 1,13-14 ; Pl 3,9 ; Cv 22,3)... *không được sáng suốt*. ds : *không theo sự hiểu biết*, tức là không nhìn nhận rằng tương quan giữa nhân loại với Thiên Chúa hiện đã được mặc khải nơi Chúa Giê-su Ki-tô.",
+      "position": 122,
+      "order": 1,
+      "createdAt": "2024-09-23T03:21:16.994Z",
+      "updatedAt": "2024-09-23T03:21:16.994Z",
+      "verseId": "07243f6d-9ba0-4388-b806-e30982936c80",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "ec965762-f441-40f6-ab88-37c682627b66",
+      "content": "Đức Ki-tô đem lại cho Luật Mô-sê ý nghĩa đích thực. Luật Mô-sê chỉ có giá trị tạm thời : Đức Ki-tô đến để kết thúc giai đoạn con người tìm cách nên công chính qua Lề Luật Mô-sê. Cả hai nghĩa đều có thể chấp nhận được.",
+      "position": 91,
+      "order": 2,
+      "createdAt": "2024-09-23T03:21:17.011Z",
+      "updatedAt": "2024-09-23T03:21:17.011Z",
+      "verseId": "9f8bfd23-a9de-450b-81cb-dd4ff4d439c7",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "1f3d4dc5-a08a-4057-a270-9fe24797c75c",
+      "content": "Rm 9,5-13 : Kinh Thánh cho thấy con đường nên công chính mới, dễ dàng, mở ra cho hết thảy mọi người. Trong cc. 6-8, thánh Phao-lô trích dẫn Đnl 30,11-14 một cách thoáng. Người ứng dụng những lời ông Mô-sê nói về Lề Luật cũ vào chính Đức Ki-tô. Đại khái ý tưởng là : không cần phải tìm kiếm ơn cứu độ ở đâu xa, ơn ấy ở rất gần chúng ta, ở trong *Lời* Tin Mừng (= Chúa Ki-tô) ; chỉ cần đón nhận lời ấy bằng đức tin. Trong 10,6-7, thánh Phao-lô móc nối Đnl 30,13 với Tv 107,26, trình bày theo kiểu Mi-rát, thay thế *Lời* Lề Luật bằng Chúa Ki-tô.",
+      "position": 65,
+      "order": 3,
+      "createdAt": "2024-09-23T03:21:17.024Z",
+      "updatedAt": "2024-09-23T03:21:17.024Z",
+      "headingId": "9d58636d-aabc-44c6-aab4-67d64f486db6",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "6ee09c2b-1717-4af7-8122-48e974d77afc",
+      "content": "*Đức Giê-su là Chúa* : công thức tuyên xưng đức tin của Giáo Hội sơ khai (x. Mt 10,18 ; 1 Tx 2,2 ; 1 Pr 2,18-21 ; 3,14) cùng với niềm tin rằng Chúa Cha hoạt động trong việc phục sinh Đức Giê-su. Niềm tin này đòi hỏi phải dấn thân cả con người (c.10). Đối với người Do-thái, điều đó bao hàm một sự hy sinh lớn trong quan hệ gia đình và xã hội.",
+      "position": 142,
+      "order": 4,
+      "createdAt": "2024-09-23T03:21:17.057Z",
+      "updatedAt": "2024-09-23T03:21:17.057Z",
+      "verseId": "a9d43f10-3652-4c0b-8e43-5448af1ca920",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "cc14f6a9-fb18-426e-8012-dab3882f8bbf",
+      "content": "Trích dẫn Is 28,16. Thánh Phao-lô thêm *mọi* để chuẩn bị cho điều người sắp nói ở c.12, ứng dụng phổ quát cho mọi người.",
+      "position": 14,
+      "order": 5,
+      "createdAt": "2024-09-23T03:21:17.070Z",
+      "updatedAt": "2024-09-23T03:21:17.070Z",
+      "verseId": "f0e028e6-6770-4a63-961b-2668f5451bd6",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "e40e2e44-3dbb-4ebe-9b52-bb3f841d847d",
+      "content": "*... có cùng một Chúa* : Chúa Ki-tô, Chúa Phục Sinh của người Do-thái và người Hy-lạp (x. 9,5 ; Pl 2,9-11).",
+      "position": 101,
+      "order": 6,
+      "createdAt": "2024-09-23T03:21:17.082Z",
+      "updatedAt": "2024-09-23T03:21:17.082Z",
+      "verseId": "7c2a003a-3a06-4c1e-94d8-d17ede7b7688",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "18e199ce-d069-4105-ad7a-433f06ec0093",
+      "content": "*... những ai kêu cầu danh Đức Chúa.* Trong Cựu Ước, đó là những người Ít-ra-en đạo đức và chân thành ; thánh Phao-lô dùng kiểu nói này để chỉ các Ki-tô hữu, những người tin Chúa Giê-su Ki-tô (x. 1 Cr 1,2).",
+      "position": 62,
+      "order": 7,
+      "createdAt": "2024-09-23T03:21:17.090Z",
+      "updatedAt": "2024-09-23T03:21:17.090Z",
+      "verseId": "37230f65-a8b6-4be1-a822-736efe064897",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "de2f006b-cf47-4214-a5b5-6451adc04df4",
+      "content": "Rm 10,14-21. Ít-ra-en đã được các ngôn sứ và Tin Mừng mời gọi trước tiên, nhưng đã không biết lợi dụng mà nhận ra kế hoạch của Thiên Chúa. Vì thế họ không thể tự bào chữa. Thánh Phao-lô đưa ra bốn khó khăn để biện hộ cho người Do-thái, nhưng đàng khác người cũng trả lời dựa theo Kinh Thánh để cho thấy chính họ có lỗi : 1) Ít-ra-en đã không tin bởi vì Tin Mừng không được rao giảng một cách đầy đủ ? Vì thế làm sao Ít-ra-en tin được ? (10,14-17) ; 2) Đâu phải hết mọi người đều tin ! (10,16-17) ; 3) Có thể người Do-thái không được nghe (10,18) và 4) Có thể họ đã nghe nhưng không hiểu (10,19-21).",
+      "position": 30,
+      "order": 8,
+      "createdAt": "2024-09-23T03:21:17.104Z",
+      "updatedAt": "2024-09-23T03:21:17.104Z",
+      "headingId": "924a6f87-c223-4602-b5b8-59855274b8cc",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "f6ec0e04-a06b-4b58-980c-a8a401af63be",
+      "content": "*... nghe công bố lời Đức Ki-tô.* ds : *nghe qua lời Đức Ki-tô*. Kiểu nói mơ hồ, có thể hiểu theo nghĩa : lời do Đức Ki-tô đem đến.",
+      "position": 85,
+      "order": 9,
+      "createdAt": "2024-09-23T03:21:17.123Z",
+      "updatedAt": "2024-09-23T03:21:17.123Z",
+      "verseId": "5d298c16-8696-4ba8-a56c-6f8ce2dd8fc3",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "4d57b23e-29e2-4083-b894-2e66aec78e44",
+      "content": "Tv 19,5. Nguyên thuỷ tác giả Thánh vịnh ca ngợi thiên nhiên, vì thiên nhiên vẫn đang công bố vinh quang Thiên Chúa ở mọi nơi. Thánh Phao-lô áp dụng vào lời các Tông Đồ giảng để chứng minh rằng : thực tế không phải Ít-ra-en không có cơ hội được nghe giảng Tin Mừng.",
+      "position": 24,
+      "order": 10,
+      "createdAt": "2024-09-23T03:21:17.146Z",
+      "updatedAt": "2024-09-23T03:21:17.146Z",
+      "verseId": "11b099e4-6c00-4d58-a13b-d4a83db51b74",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "e97e8c9a-a2fe-4275-ac3a-8747e27fa0ee",
+      "content": "Trích dẫn Lề Luật (Đnl 32,21) và ngôn sứ (Is 65,1.2) để chứng minh không phải dân Ít-ra-en không hiểu sứ điệp Tin Mừng. Đồng thời thánh Phao-lô lại cho thấy sự tương phản giữa một bên là người Do-thái không tuân phục, một bên là dân ngoại, tin vào Chúa Ki-tô.",
+      "position": 103,
+      "order": 11,
+      "createdAt": "2024-09-23T03:21:17.187Z",
+      "updatedAt": "2024-09-23T03:21:17.187Z",
+      "verseId": "ece6b20d-200c-4670-a13e-af6b43b06bab",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    }
+  ],
+  "headings": [
+    {
+      "id": "60e71b4b-d1a0-4c9a-957c-e52829dc9af6",
+      "content": "[Ít-ra-en]() không nhận biết rằng Thiên Chúa làm cho con người nên công chính",
+      "order": 0,
+      "createdAt": "2024-09-23T03:21:16.987Z",
+      "updatedAt": "2024-09-23T03:21:16.987Z",
+      "verseId": "bc214773-1712-44c6-9dc7-47b08380a860",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "9d58636d-aabc-44c6-aab4-67d64f486db6",
+      "content": "Ông [Mô-sê]() báo trước con người được nên công chính nhờ đức tin",
+      "order": 0,
+      "createdAt": "2024-09-23T03:21:17.019Z",
+      "updatedAt": "2024-09-23T03:21:17.019Z",
+      "verseId": "abce81b7-3c22-4be5-bf5b-f8dfa9b7239e",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "924a6f87-c223-4602-b5b8-59855274b8cc",
+      "content": "[Ít-ra-en]() không tự bào chữa",
+      "order": 0,
+      "createdAt": "2024-09-23T03:21:17.100Z",
+      "updatedAt": "2024-09-23T03:21:17.100Z",
+      "verseId": "c6770f18-d642-4c48-8987-6d470292a6bd",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    }
+  ],
+  "references": [
+    {
+      "id": "9bbc900b-95d2-4f42-8f8f-387e7011f0c8",
+      "content": "Cv 22,3",
+      "position": 44,
+      "order": 0,
+      "createdAt": "2024-09-23T03:21:16.998Z",
+      "updatedAt": "2024-09-23T03:21:16.998Z",
+      "verseId": "07243f6d-9ba0-4388-b806-e30982936c80",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "23600d2d-c687-4d67-a2fe-db3434f15613",
+      "content": "Lv 18,5",
+      "position": 75,
+      "order": 1,
+      "createdAt": "2024-09-23T03:21:17.028Z",
+      "updatedAt": "2024-09-23T03:21:17.028Z",
+      "verseId": "abce81b7-3c22-4be5-bf5b-f8dfa9b7239e",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "851f4578-e02b-461b-977e-6c37b89eba16",
+      "content": "Đnl 9,4; 30,12-13",
+      "position": 72,
+      "order": 2,
+      "createdAt": "2024-09-23T03:21:17.036Z",
+      "updatedAt": "2024-09-23T03:21:17.036Z",
+      "verseId": "418a6489-35f2-461f-8c46-95b01ad777c0",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "be7e2950-7295-4290-a005-578f9bc7c83a",
+      "content": "Đnl 30,14",
+      "position": 32,
+      "order": 3,
+      "createdAt": "2024-09-23T03:21:17.048Z",
+      "updatedAt": "2024-09-23T03:21:17.048Z",
+      "verseId": "a3e970ae-66cf-4f5d-8411-3de0c2bd186a",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "e077a339-4e65-4c2c-9a34-4398d3eb6f63",
+      "content": "Is 28,16LXX",
+      "position": 18,
+      "order": 4,
+      "createdAt": "2024-09-23T03:21:17.074Z",
+      "updatedAt": "2024-09-23T03:21:17.074Z",
+      "verseId": "f0e028e6-6770-4a63-961b-2668f5451bd6",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "eecf633b-f636-474f-86ab-9fefff331343",
+      "content": "Ge 3,5LXX",
+      "position": 6,
+      "order": 5,
+      "createdAt": "2024-09-23T03:21:17.094Z",
+      "updatedAt": "2024-09-23T03:21:17.094Z",
+      "verseId": "37230f65-a8b6-4be1-a822-736efe064897",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "d63d5979-ebf4-45e8-a22b-5b6dfb3c9dd6",
+      "content": "Is 52,7",
+      "position": 65,
+      "order": 6,
+      "createdAt": "2024-09-23T03:21:17.110Z",
+      "updatedAt": "2024-09-23T03:21:17.110Z",
+      "verseId": "41d77da2-9a3a-4c1e-8c7f-fea484f3ec42",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "3a307189-84d6-4618-a35d-a673181a9440",
+      "content": "Is 53,1",
+      "position": 105,
+      "order": 7,
+      "createdAt": "2024-09-23T03:21:17.117Z",
+      "updatedAt": "2024-09-23T03:21:17.117Z",
+      "verseId": "0a5d2bee-f3a4-444c-a8ea-919df2ca3680",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "c0ac94e7-6ca1-4657-bb20-4614a9d8b6ac",
+      "content": "Tv 19,5",
+      "position": 1,
+      "order": 8,
+      "createdAt": "2024-09-23T03:21:17.136Z",
+      "updatedAt": "2024-09-23T03:21:17.136Z",
+      "verseId": "7c8402cc-fd17-43e5-af3f-917c62c6ced9",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "7f099bc9-d303-4b18-bc21-d40aebde4ab3",
+      "content": "Đnl 32,21",
+      "position": 95,
+      "order": 9,
+      "createdAt": "2024-09-23T03:21:17.156Z",
+      "updatedAt": "2024-09-23T03:21:17.156Z",
+      "verseId": "9480d9fa-0f59-4237-9d81-a7d2461df1b9",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    },
+    {
+      "id": "a6a15c60-7a0d-4315-a864-4e521d38f43d",
+      "content": "Is 65,1",
+      "position": 1,
+      "order": 10,
+      "createdAt": "2024-09-23T03:21:17.166Z",
+      "updatedAt": "2024-09-23T03:21:17.166Z",
+      "verseId": "72a63e1a-22f3-4ea8-bb9c-3da9f1853682",
+      "chapterId": "0db66ce7-1025-415a-81a3-6d357401c52b"
+    }
+  ],
+  "psalmMetadata": []
+}

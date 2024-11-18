@@ -1,0 +1,612 @@
+{
+  "chapter": {
+    "id": "7fdca828-1d57-48c0-9596-df5726e46a81",
+    "number": 31,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.194Z",
+    "updatedAt": "2024-09-23T03:08:02.194Z",
+    "bookId": "65497299-ffc2-4eb4-979b-5bef623bfc86"
+  },
+  "verses": [
+    {
+      "id": "5183d834-3983-4b71-9f41-522d16901cbe",
+      "number": 1,
+      "content": "Ông [Mô-sê]() đến nói những lời này với toàn thể [Ít-ra-en]().",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:34.984Z",
+      "updatedAt": "2024-09-23T03:47:34.984Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "fba71200-02e1-490b-b7ee-ce8e995edc77",
+      "number": 2,
+      "content": "Ông bảo họ : “Hôm nay tôi đã được một trăm hai mươi tuổi, tôi không thể đi ra đi vào được nữa, và [ĐỨC CHÚA]() đã bảo tôi : ‘Ngươi sẽ không được sang qua sông [Gio-đan]() kia.’",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.002Z",
+      "updatedAt": "2024-09-23T03:47:35.002Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "9c11df74-0222-4f1d-a1e8-7b6fb3bb5124",
+      "number": 3,
+      "content": "Chính [ĐỨC CHÚA](), Thiên Chúa của anh (em), sẽ dẫn đầu anh (em) sang qua sông, Người sẽ tiêu diệt các dân tộc ấy cho khuất mắt anh (em), để anh (em) chiếm đất của chúng. Chính ông [Giô-suê]() sẽ dẫn đầu anh (em) sang qua sông, như [ĐỨC CHÚA]() đã phán.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.004Z",
+      "updatedAt": "2024-09-23T03:47:35.004Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "0029d41f-95b7-48c0-91b6-f2f6c7d4990a",
+      "number": 4,
+      "content": "[ĐỨC CHÚA]() sẽ xử với chúng như đã xử với các vua người [E-mô-ri]() là [Xi-khôn]() và [Ốc](), và với đất nước của chúng : Người đã tiêu diệt chúng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.008Z",
+      "updatedAt": "2024-09-23T03:47:35.008Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "eadf1ddb-6bf6-4984-9f4b-5ec6f6c33ea3",
+      "number": 5,
+      "content": "[ĐỨC CHÚA]() sẽ trao các dân tộc ấy cho anh (em), và anh (em) sẽ xử với chúng theo như tất cả mệnh lệnh tôi đã truyền cho anh (em).",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.012Z",
+      "updatedAt": "2024-09-23T03:47:35.012Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "52ff1110-0394-4021-a620-2987577b1331",
+      "number": 6,
+      "content": "Mạnh bạo lên, can đảm lên ! Đừng sợ, đừng run khiếp trước mặt chúng, vì chính [ĐỨC CHÚA](), Thiên Chúa của anh (em), đi với anh (em) ; Người sẽ không để mặc, không bỏ rơi anh (em).”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.014Z",
+      "updatedAt": "2024-09-23T03:47:35.014Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "50117535-fd8b-4b9b-8df7-1ee5f082dbf5",
+      "number": 7,
+      "content": "Rồi ông [Mô-sê]() gọi ông [Giô-suê]() lại, và nói với ông trước mặt toàn thể [Ít-ra-en]() : “Mạnh bạo lên, can đảm lên ! Chính anh sẽ cùng với dân này vào đất [ĐỨC CHÚA]() đã thề với cha ông họ rằng Người sẽ ban cho họ ; chính anh sẽ cho họ hưởng đất ấy làm gia nghiệp.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.019Z",
+      "updatedAt": "2024-09-23T03:47:35.019Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "ee7af33b-9cb4-4ef9-af7a-b0b0e322dbcc",
+      "number": 8,
+      "content": "Chính [ĐỨC CHÚA]() đi phía trước anh, chính Người sẽ ở với anh ; Người sẽ không để mặc, không bỏ rơi anh. Đừng sợ, đừng hãi !”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.021Z",
+      "updatedAt": "2024-09-23T03:47:35.021Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "d2a00d15-2a46-4d62-95b8-30b3187c2754",
+      "number": 9,
+      "content": "Ông [Mô-sê]() viết luật này và trao cho các tư tế, con cái [Lê-vi](), là những người sẽ kiệu Hòm Bia Giao Ước của [ĐỨC CHÚA](), và cho tất cả các kỳ mục [Ít-ra-en]().",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.023Z",
+      "updatedAt": "2024-09-23T03:47:35.023Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "3988a11e-3f4b-46b1-8bfa-29a58d1e3b67",
+      "number": 10,
+      "content": "Ông [Mô-sê]() truyền cho họ rằng : “Sau bảy năm, vào thời kỳ có năm tha nợ, trong dịp lễ Lều,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.031Z",
+      "updatedAt": "2024-09-23T03:47:35.031Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "57ddabbc-6b9e-43ca-aee8-30b646f17885",
+      "number": 11,
+      "content": "khi toàn thể [Ít-ra-en]() đến để ra trình diện [ĐỨC CHÚA](), Thiên Chúa của anh (em), ở nơi Người chọn, anh (em) phải đọc luật này trước toàn thể [Ít-ra-en](), cho họ nghe.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.033Z",
+      "updatedAt": "2024-09-23T03:47:35.033Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "9c24fd9e-e061-47df-b980-4d7feb8fbfd0",
+      "number": 12,
+      "content": "Anh (em) hãy tập hợp dân, đàn ông, đàn bà, trẻ con và người ngoại kiều ở trong các thành của anh (em), để họ nghe và để họ học cho biết kính sợ [ĐỨC CHÚA](), Thiên Chúa của anh (em), và lo đem ra thực hành mọi lời của luật này.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.035Z",
+      "updatedAt": "2024-09-23T03:47:35.035Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "7723731f-67a4-442a-a5db-b571162765b3",
+      "number": 13,
+      "content": "Con cái họ, là những kẻ không biết, sẽ nghe và học cho biết kính sợ [ĐỨC CHÚA](), Thiên Chúa của anh em, mọi ngày anh em sống trên đất mà anh em sắp qua sông [Gio-đan]() để chiếm hữu.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.037Z",
+      "updatedAt": "2024-09-23T03:47:35.037Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "8d50a6b0-8bb9-41a8-be57-b7e7a68b24c2",
+      "number": 14,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() : “Đây sắp đến ngày ngươi phải lìa đời. Hãy gọi [Giô-suê]() đến, và các người hãy đứng ở Lều Hội Ngộ để Ta truyền lệnh cho nó.” Ông [Mô-sê]() và ông [Giô-suê]() ra đứng ở Lều Hội Ngộ.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.039Z",
+      "updatedAt": "2024-09-23T03:47:35.039Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "c297df35-a917-435a-acc0-4c46b3260645",
+      "number": 15,
+      "content": "[ĐỨC CHÚA]() xuất hiện trong Lều, trong cột mây và cột mây đứng ở cửa Lều.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.047Z",
+      "updatedAt": "2024-09-23T03:47:35.047Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "67eef801-2899-4310-9851-a288b7e3d973",
+      "number": 16,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() : “Đây ngươi sắp nằm xuống với cha ông ngươi, và dân này sẽ chạy theo các thần mà làm điếm, các thần của người ngoại bang ở trong đất nó sắp vào ; nó sẽ bỏ Ta và sẽ phá vỡ giao ước của Ta, giao ước Ta đã lập với nó.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.049Z",
+      "updatedAt": "2024-09-23T03:47:35.049Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "7cd10b76-c660-4b43-834d-3270da6cd3e5",
+      "number": 17,
+      "content": "Ngày ấy, Ta sẽ nổi cơn thịnh nộ với nó. Ta sẽ bỏ chúng và sẽ ẩn mặt đi không nhìn chúng. Bấy giờ nó sẽ bị thôn tính, và nhiều tai hoạ, nhiều cơn ngặt nghèo sẽ xảy ra cho nó. Ngày đó, nó sẽ nói : ‘Những tai hoạ này xảy ra cho tôi, phải chăng là vì Thiên Chúa không còn ở giữa tôi ?’",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.058Z",
+      "updatedAt": "2024-09-23T03:47:35.058Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "f6722180-bf13-462d-b9d8-16fa16845bfc",
+      "number": 18,
+      "content": "Phần Ta, ngày đó Ta sẽ cứ ẩn mặt đi, vì tất cả điều ác nó làm khi hướng về các thần khác.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.062Z",
+      "updatedAt": "2024-09-23T03:47:35.062Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "657c7eda-f308-4efe-a369-2c33c112341a",
+      "number": 19,
+      "content": "Bây giờ các ngươi hãy viết cho mình bài ca này, (các) ngươi hãy dạy cho con cái [Ít-ra-en](), hãy đặt vào miệng chúng, để Ta lấy bài ca ấy làm chứng cáo tội con cái [Ít-ra-en]().",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.066Z",
+      "updatedAt": "2024-09-23T03:47:35.066Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "a1bc6932-7184-40f6-b5a4-6596be6bf0a5",
+      "number": 20,
+      "content": "Thật vậy, Ta sẽ đưa nó vào đất Ta đã thề hứa với cha ông nó, đất tuôn chảy sữa và mật, nó sẽ được ăn, được no nê, sẽ béo mập, rồi sẽ hướng về các thần khác và phụng thờ chúng, nó sẽ khinh thị Ta và phá vỡ giao ước của Ta.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.077Z",
+      "updatedAt": "2024-09-23T03:47:35.077Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "c1396d2c-4a2d-475d-ba05-fb9b3adcea84",
+      "number": 21,
+      "content": "Khi nhiều tai hoạ, nhiều cơn ngặt nghèo xảy ra cho chúng, thì bài ca này sẽ làm chứng cáo tội nó, vì dòng dõi chúng sẽ không quên lặp lại bài ca này. Thật vậy, Ta biết ý định nó đang mưu tính hôm nay, ngay cả trước khi Ta đưa nó vào đất mà Ta đã thề hứa.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.085Z",
+      "updatedAt": "2024-09-23T03:47:35.085Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "342f6105-6fae-47e7-81c4-c1f04434b883",
+      "number": 22,
+      "content": "Hôm ấy, ông [Mô-sê]() đã viết bài ca này và dạy con cái [Ít-ra-en]().",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.089Z",
+      "updatedAt": "2024-09-23T03:47:35.089Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "102751e1-1095-4065-a8a7-26001910ab66",
+      "number": 23,
+      "content": "[ĐỨC CHÚA]() truyền lệnh cho ông [Giô-suê](), con ông [Nun](), Người phán : “Mạnh bạo lên, can đảm lên ! Chính ngươi sẽ đưa con cái [Ít-ra-en]() vào đất mà Ta đã thề hứa với chúng ; và Ta sẽ ở với ngươi.”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.093Z",
+      "updatedAt": "2024-09-23T03:47:35.093Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "5b54d0f1-f161-4237-8316-f08cad6655d6",
+      "number": 24,
+      "content": "Khi ông [Mô-sê]() đã viết xong các lời của luật này vào một cuốn sách, từ đầu chí cuối,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.097Z",
+      "updatedAt": "2024-09-23T03:47:35.097Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "6f4aa31c-e3c7-4f75-ab6a-12f0c457248a",
+      "number": 25,
+      "content": "thì ông truyền cho các thầy [Lê-vi](), những người kiệu Hòm Bia Giao Ước của [ĐỨC CHÚA](), rằng :",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.112Z",
+      "updatedAt": "2024-09-23T03:47:35.112Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "4924e602-aeca-46a9-ad06-3f1a60260d32",
+      "number": 26,
+      "content": "“Hãy đem sách luật này đặt bên Hòm Bia Giao Ước của [ĐỨC CHÚA](), Thiên Chúa của anh em ; ở đó sách ấy sẽ làm chứng cáo tội anh (em).",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.116Z",
+      "updatedAt": "2024-09-23T03:47:35.116Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "4913523d-202a-4ea6-878a-e7b47deb36ac",
+      "number": 27,
+      "content": "Vì tôi biết anh (em) hay phản nghịch và cứng cổ : hôm nay tôi còn sống với anh em, mà anh em đã phản nghịch chống lại [ĐỨC CHÚA](), huống chi là sau khi tôi chết !",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.120Z",
+      "updatedAt": "2024-09-23T03:47:35.120Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "1ee3b88a-8d92-4aee-bcba-0eb7f577d7d7",
+      "number": 28,
+      "content": "Hãy tập hợp lại chung quanh tôi hết mọi kỳ mục của các chi tộc anh em và các ký lục của anh em ; tôi sẽ nói cho họ nghe những lời này, và lấy trời đất làm chứng cáo tội họ.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.124Z",
+      "updatedAt": "2024-09-23T03:47:35.124Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "1786e00c-7577-419e-a960-fc54b0a48ac1",
+      "number": 29,
+      "content": "Vì tôi biết rằng, sau khi tôi chết, chắc chắn anh em sẽ ra hư hỏng, và sẽ đi ra ngoài con đường tôi đã truyền cho anh em ; và tai hoạ sẽ xảy đến cho anh em sau này, vì anh em sẽ làm điều dữ trái mắt [ĐỨC CHÚA](), để trêu giận Người bằng những việc tay anh em làm.”",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.137Z",
+      "updatedAt": "2024-09-23T03:47:35.137Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "84a24af0-081c-48be-be1f-b86d2b5f9beb",
+      "number": 30,
+      "content": "Rồi ông [Mô-sê]() nói cho toàn thể đại hội [Ít-ra-en]() nghe những lời của bài ca này, từ đầu chí cuối :",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:47:35.141Z",
+      "updatedAt": "2024-09-23T03:47:35.141Z",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "aecc675b-263a-41c5-bfe8-04fec38ddd44",
+      "content": "Các chương cuối của Đnl (31-34) được xem là kết luận tổng quát của cả bộ Ngũ Thư, đồng thời là phần chuyển tiếp qua sách Giô-suê. Đây là tác phẩm của lần biên soạn cuối cùng, thu thập nhiều tài liệu thuộc những thời đại khác nhau (từ thời kỳ trước vua Đa-vít đến thời kỳ các soạn giả tư tế – x. Dẫn Nhập, phần Công trình biên soạn, 5.), nhưng phần lớn thuộc truyền thống Đệ Nhị Luật.",
+      "position": 62,
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:34.996Z",
+      "updatedAt": "2024-09-23T03:47:34.996Z",
+      "headingId": "b5c33b21-9111-4b4b-b6d1-bc7dff303b66",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "ebf8e4e8-c430-458a-9f6c-6229e8727d2f",
+      "content": "Với những lời thiết tha của ông Mô-sê, cả đoạn này gợi nhớ 3,23-28. – *Toàn thể Ít-ra-en* (c.1) : x. 1,1+. – *Đi ra đi vào* (c.2) : lối nói có nghĩa là *chỉ huy, lãnh đạo*. – *Người E-mô-ri* (c.4) : x. 1,19+. – *Đừng sợ ...* (cc. 6.8) : x. 1,21+.",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-23T03:47:35Z",
+      "updatedAt": "2024-09-23T03:47:35Z",
+      "verseId": "5183d834-3983-4b71-9f41-522d16901cbe",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "c1a93746-a8a5-491f-8db9-148253e9f179",
+      "content": "Những hiệp ước giữa các nước phương Đông đều có việc công bố lời giao ước (xem các tuyên ngôn liên quốc gia thời nay). Đnl quy định việc công bố vào dịp lễ Lều trong năm ân xá, nhưng sau này, cộng đồng Ít-ra-en và Do-thái giáo nhiều nơi lại chọn lễ Ngũ Tuần để cử hành nghi thức đó (x. 2 Sb 15,10 và các tài liệu Cum-ran, vv...). – Lưu ý : ở đây và c.24, ông Mô-sê không *truyền* (miệng) nữa, mà *viết* luật, và chính vì thế mà phải *đọc* lên : cho đến ngày nay, “đọc luật” là một yếu tố cử hành phụng tự không thể thiếu trong cộng đồng Do-thái giáo, và cố nhiên, trọng tâm của đoạn này là động từ *nghe* (c.11), *nghe để học kính sợ* (cc. 12 và 13) : x. 6,4+ ; 5,29+.",
+      "position": 22,
+      "order": 2,
+      "createdAt": "2024-09-23T03:47:35.027Z",
+      "updatedAt": "2024-09-23T03:47:35.027Z",
+      "headingId": "4f64b9dc-0b26-469c-a52c-7f45b5f76869",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "9c8169a9-b75d-478e-9dcb-d20d500b6d5c",
+      "content": "Cho tới đây, ông Mô-sê thuật lại, truyền lại các huấn thị của Thiên Chúa ; ở đây, cc. 14-23, chính Chúa xuất hiện và ra huấn thị. Cc. 14-15 là chỗ duy nhất trong Đnl nói về Lều Hội Ngộ và sự hiện diện của Đức Chúa ; đây là chứng tích của truyền thống cổ xưa còn sót lại.",
+      "position": 136,
+      "order": 3,
+      "createdAt": "2024-09-23T03:47:35.043Z",
+      "updatedAt": "2024-09-23T03:47:35.043Z",
+      "verseId": "8d50a6b0-8bb9-41a8-be57-b7e7a68b24c2",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "c095c54c-11d6-460c-8111-4cdb94c5bb94",
+      "content": "*Làm điếm* : kiểu nói như nhân trong Kinh Thánh để ám chỉ Ít-ra-en phản bội Thiên Chúa của giao ước (x. Ed 6,9 ; 16,15 ... ; Hs 1,2 ...).",
+      "position": 126,
+      "order": 4,
+      "createdAt": "2024-09-23T03:47:35.051Z",
+      "updatedAt": "2024-09-23T03:47:35.051Z",
+      "verseId": "67eef801-2899-4310-9851-a288b7e3d973",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "6f00e57c-7cbc-467b-b337-f5797439fab3",
+      "content": "Kinh Thánh ghi lại rất kỹ những yếu tố gầy dựng và bảo tồn truyền thống Ít-ra-en ; đoạn này là một điển hình, nhấn mạnh *hãy dạy lại cho con cái* (cc. 19.22). X. 4,9+.",
+      "position": 16,
+      "order": 5,
+      "createdAt": "2024-09-23T03:47:35.073Z",
+      "updatedAt": "2024-09-23T03:47:35.073Z",
+      "headingId": "afc18701-2281-4b1e-a1f2-9667e34ddc64",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "6ae50b67-c541-4505-9ac3-41862077f0ca",
+      "content": "Đoạn cc. 24-29 lặp lại như bổ sung và đúc kết phần trên (cc. 9-22). Ít-ra-en không được tạc tượng Chúa, nhưng phải trân trọng những gì biểu trưng sự hiện diện và thánh ý của Người : ở đây là cái hòm đựng hai tấm bia đã ghi khắc mười lời răn dạy của Chúa, và bên cạnh là sách luật mà ông Mô-sê đã viết lại vào lúc cuối đời, theo lệnh của Người.",
+      "position": 20,
+      "order": 6,
+      "createdAt": "2024-09-23T03:47:35.104Z",
+      "updatedAt": "2024-09-23T03:47:35.104Z",
+      "headingId": "bbcb33e6-43ea-499b-bdf1-d85b726b3041",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "d2c9805f-6e36-4889-8be2-22428d929220",
+      "content": "*Đại hội* : x. 5,22+.",
+      "position": 55,
+      "order": 7,
+      "createdAt": "2024-09-23T03:47:35.145Z",
+      "updatedAt": "2024-09-23T03:47:35.145Z",
+      "verseId": "84a24af0-081c-48be-be1f-b86d2b5f9beb",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8e217e57-2da9-4c69-9715-66cb7f1e7bef",
+      "content": "Huấn thị của [ĐỨC CHÚA]()",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.041Z",
+      "updatedAt": "2024-09-23T03:47:35.041Z",
+      "verseId": "8d50a6b0-8bb9-41a8-be57-b7e7a68b24c2",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "1d114d7f-e7ba-4754-ad3a-95cab79bac0d",
+      "content": "Tập hợp dân để nghe bài ca",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.128Z",
+      "updatedAt": "2024-09-23T03:47:35.128Z",
+      "verseId": "1ee3b88a-8d92-4aee-bcba-0eb7f577d7d7",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "4f64b9dc-0b26-469c-a52c-7f45b5f76869",
+      "content": "Nghi thức công bố luật",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.025Z",
+      "updatedAt": "2024-09-23T03:47:35.025Z",
+      "verseId": "d2a00d15-2a46-4d62-95b8-30b3187c2754",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "b5c33b21-9111-4b4b-b6d1-bc7dff303b66",
+      "content": "IV. NHỮNG VIỆC LÀM CUỐI CÙNG CỦA ÔNG MÔ-SÊ. ÔNG MÔ-SÊ QUA ĐỜI.",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:34.994Z",
+      "updatedAt": "2024-09-23T03:47:34.994Z",
+      "verseId": "5183d834-3983-4b71-9f41-522d16901cbe",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "afc18701-2281-4b1e-a1f2-9667e34ddc64",
+      "content": "Bài ca làm chứng",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.070Z",
+      "updatedAt": "2024-09-23T03:47:35.070Z",
+      "verseId": "657c7eda-f308-4efe-a369-2c33c112341a",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "bbcb33e6-43ea-499b-bdf1-d85b726b3041",
+      "content": "Đặt Luật bên Hòm Bia",
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.100Z",
+      "updatedAt": "2024-09-23T03:47:35.100Z",
+      "verseId": "5b54d0f1-f161-4237-8316-f08cad6655d6",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "2bd147eb-e3d6-44c6-8f68-4bb30ea6a9f1",
+      "content": "Sứ mạng của ông [Giô-suê]()",
+      "order": 1,
+      "createdAt": "2024-09-23T03:47:34.998Z",
+      "updatedAt": "2024-09-23T03:47:34.998Z",
+      "verseId": "5183d834-3983-4b71-9f41-522d16901cbe",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    }
+  ],
+  "references": [
+    {
+      "id": "5e3443e4-57bf-4383-ac7b-3cbc27a9539a",
+      "content": "Đnl 3,21-28",
+      "position": 181,
+      "order": 0,
+      "createdAt": "2024-09-23T03:47:35.006Z",
+      "updatedAt": "2024-09-23T03:47:35.006Z",
+      "verseId": "9c11df74-0222-4f1d-a1e8-7b6fb3bb5124",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "a56ad750-962e-4b19-8f72-4f06c8f857fa",
+      "content": "Ds 21,24-35",
+      "position": 57,
+      "order": 1,
+      "createdAt": "2024-09-23T03:47:35.010Z",
+      "updatedAt": "2024-09-23T03:47:35.010Z",
+      "verseId": "0029d41f-95b7-48c0-91b6-f2f6c7d4990a",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "d3afb0da-f200-4eff-a2b9-76bcf9db5316",
+      "content": "Đnl 1,29-30; Gs 1,6.9",
+      "position": 28,
+      "order": 2,
+      "createdAt": "2024-09-23T03:47:35.017Z",
+      "updatedAt": "2024-09-23T03:47:35.017Z",
+      "verseId": "52ff1110-0394-4021-a620-2987577b1331",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "6400d2b2-d53c-4c94-8fbe-15d03780000f",
+      "content": "Gs 8,34-35; 2 V 23,1-2; Nkm 8",
+      "position": 10,
+      "order": 3,
+      "createdAt": "2024-09-23T03:47:35.029Z",
+      "updatedAt": "2024-09-23T03:47:35.029Z",
+      "headingId": "4f64b9dc-0b26-469c-a52c-7f45b5f76869",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "93b51b7f-f676-4f87-89c0-10f92da3975a",
+      "content": "Xh 25,22",
+      "position": 125,
+      "order": 4,
+      "createdAt": "2024-09-23T03:47:35.045Z",
+      "updatedAt": "2024-09-23T03:47:35.045Z",
+      "verseId": "8d50a6b0-8bb9-41a8-be57-b7e7a68b24c2",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "a61e7974-289b-4c37-b60b-a202f4b707cb",
+      "content": "Đnl 4,25-28",
+      "position": 96,
+      "order": 5,
+      "createdAt": "2024-09-23T03:47:35.054Z",
+      "updatedAt": "2024-09-23T03:47:35.054Z",
+      "verseId": "67eef801-2899-4310-9851-a288b7e3d973",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "97bed0bc-d974-428d-82da-9d3601be2d73",
+      "content": "Đnl 32,15",
+      "position": 182,
+      "order": 6,
+      "createdAt": "2024-09-23T03:47:35.081Z",
+      "updatedAt": "2024-09-23T03:47:35.081Z",
+      "verseId": "a1bc6932-7184-40f6-b5a4-6596be6bf0a5",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "7193391a-6ed7-40da-9e13-1e5f1ba60ecf",
+      "content": "Đnl 27,3",
+      "position": 21,
+      "order": 7,
+      "createdAt": "2024-09-23T03:47:35.108Z",
+      "updatedAt": "2024-09-23T03:47:35.108Z",
+      "verseId": "5b54d0f1-f161-4237-8316-f08cad6655d6",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    },
+    {
+      "id": "cf5c9ae8-05cc-4e14-8629-fb4303cb59d7",
+      "content": "Đnl 4,26",
+      "position": 138,
+      "order": 8,
+      "createdAt": "2024-09-23T03:47:35.133Z",
+      "updatedAt": "2024-09-23T03:47:35.133Z",
+      "verseId": "1ee3b88a-8d92-4aee-bcba-0eb7f577d7d7",
+      "chapterId": "7fdca828-1d57-48c0-9596-df5726e46a81"
+    }
+  ],
+  "psalmMetadata": []
+}

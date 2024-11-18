@@ -1,0 +1,502 @@
+{
+  "chapter": {
+    "id": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401",
+    "number": 8,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.786Z",
+    "updatedAt": "2024-09-23T03:08:01.786Z",
+    "bookId": "013ba10d-6841-402e-b5ac-e72f14b6e0ac"
+  },
+  "verses": [
+    {
+      "id": "82216a83-04f9-4ee7-9abe-f92e97a79896",
+      "number": 1,
+      "content": "Khi Con Chiên mở ấn thứ bảy, thì cả trời yên lặng chừng nửa giờ...",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.474Z",
+      "updatedAt": "2024-09-23T03:31:05.474Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "0c3990cf-5860-4294-8a8b-072c59e1c4d0",
+      "number": 2,
+      "content": "Rồi tôi thấy bảy thiên thần đứng chầu trước nhan Thiên Chúa ; các vị ấy lãnh nhận bảy chiếc kèn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.486Z",
+      "updatedAt": "2024-09-23T03:31:05.486Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "fbe78811-8167-4b22-b886-e76e4f0ea5aa",
+      "number": 3,
+      "content": "Một thiên thần khác đến đứng trước bàn thờ, tay cầm bình hương vàng. Thiên thần lãnh nhận nhiều hương thơm, để dâng trên bàn thờ bằng vàng trước ngai Thiên Chúa, cùng với những lời cầu nguyện của toàn thể dân thánh.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.494Z",
+      "updatedAt": "2024-09-23T03:31:05.494Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "b8ddb943-282e-4824-ba6e-c616406a1adc",
+      "number": 4,
+      "content": "Từ tay thiên thần, khói hương quyện theo lời cầu nguyện của dân thánh, bay lên trước nhan Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.504Z",
+      "updatedAt": "2024-09-23T03:31:05.504Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "75bcb055-67a0-4483-a933-2f8c9e98079c",
+      "number": 5,
+      "content": "Rồi thiên thần cầm bình hương, lấy lửa trên bàn thờ bỏ đầy vào và ném xuống đất. Liền có tiếng sấm, tiếng sét, ánh chớp và động đất.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.505Z",
+      "updatedAt": "2024-09-23T03:31:05.505Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "d7aa289e-3e8f-4278-8524-24a0af69698c",
+      "number": 6,
+      "content": "Bảy thiên thần cầm bảy kèn sửa soạn thổi.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.514Z",
+      "updatedAt": "2024-09-23T03:31:05.514Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "818be096-4841-4553-966c-879d31d50030",
+      "number": 7,
+      "content": "Tiếng kèn của vị thứ nhất nổi lên. Mưa đá và lửa, hoà với máu, trút xuống đất. Một phần ba mặt đất bị thiêu huỷ, một phần ba cây cối bị thiêu huỷ, và tất cả cỏ xanh bị thiêu huỷ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.537Z",
+      "updatedAt": "2024-09-23T03:31:05.537Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "93caa15e-a41b-4dda-a9d1-32fd8871fff0",
+      "number": 8,
+      "content": "Tiếng kèn của thiên thần thứ hai nổi lên. Có cái gì như quả núi lớn rực lửa bị ném xuống biển. Một phần ba biển hoá thành máu.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.550Z",
+      "updatedAt": "2024-09-23T03:31:05.550Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "d45c5139-1efa-4060-9105-d2d4a69ae405",
+      "number": 9,
+      "content": "Một phần ba các loài thụ tạo sống dưới biển bị chết, và một phần ba tàu bè bị phá huỷ.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.567Z",
+      "updatedAt": "2024-09-23T03:31:05.567Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "5a9ab0b7-4d3d-41eb-8471-7b921af4c247",
+      "number": 10,
+      "content": "Tiếng kèn của thiên thần thứ ba nổi lên. Từ trời rơi xuống một ngôi sao lớn cháy như đuốc. Sao rơi xuống một phần ba sông ngòi và xuống các nguồn nước.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.576Z",
+      "updatedAt": "2024-09-23T03:31:05.576Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "fa6c6be7-b82e-45e8-9d17-2ec5104a55b6",
+      "number": 11,
+      "content": "Tên ngôi sao là Ngải Đắng. Một phần ba nước hoá thành ngải đắng, và có nhiều người chết vì thứ nước đã hoá đắng ấy.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.590Z",
+      "updatedAt": "2024-09-23T03:31:05.590Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "53795d40-bf9a-4f01-b978-56297aa2c4b6",
+      "number": 12,
+      "content": "Tiếng kèn của thiên thần thứ bốn nổi lên. Một phần ba mặt trời, một phần ba mặt trăng và một phần ba các ngôi sao bị đánh trúng, khiến chúng tối đi một phần ba, ngày mất sáng một phần ba và đêm cũng thế.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.603Z",
+      "updatedAt": "2024-09-23T03:31:05.603Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "3dc956c9-5bcd-4bb0-a4fe-8b0bac86aed8",
+      "number": 13,
+      "content": "Tôi thấy, và tôi nghe một con đại bàng bay trên đỉnh vòm trời, kêu lớn tiếng : “Khốn thay ! Khốn thay ! Khốn thay những người sống trên mặt đất, vì sắp nổi lên những tiếng kèn còn lại của ba thiên thần !”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:31:05.616Z",
+      "updatedAt": "2024-09-23T03:31:05.616Z",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1b73e8eb-41a1-4b11-8bf1-768ee75817cc",
+      "content": "Chúng ta đang ở ngày lớn lao, ngày Thiên Chúa ngự đến. Tất cả trời đất chìm ngập trong bầu khí thinh lặng đầy oai nghiêm. Đó là giờ những người bị bách hại cầu nguyện, tượng trưng bằng hương thơm. Thiên Chúa nhậm lời (6,9-11) họ cầu xin, và sai bảy thiên thần thổi kèn loan báo Thiên Chúa ngự đến xét xử mọi người (x. 1 Tx 4,16). Lần lượt các thiên thần thổi kèn, từng cảnh tượng xảy đến.",
+      "position": 27,
+      "order": 0,
+      "createdAt": "2024-09-23T03:31:05.480Z",
+      "updatedAt": "2024-09-23T03:31:05.480Z",
+      "verseId": "82216a83-04f9-4ee7-9abe-f92e97a79896",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "fed42e79-c9dc-4958-927f-c87080692f5d",
+      "content": "Ấn thứ bảy chưa được mở. Vạn vật hồi hộp chờ đợi Thiên Chúa thi hành án xử (x. Kb 2,20 ; Xp 1,7 ; Dcr 2,17). Yên lặng bao trùm khắp trời đất, tạo nên mối căng thẳng, nặng nề, ngột ngạt.",
+      "position": 49,
+      "order": 1,
+      "createdAt": "2024-09-23T03:31:05.482Z",
+      "updatedAt": "2024-09-23T03:31:05.482Z",
+      "verseId": "82216a83-04f9-4ee7-9abe-f92e97a79896",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "df68513b-4125-4a69-aff4-0ca6a0017469",
+      "content": "Trong Cựu Ước, kèn được sử dụng trong phụng vụ hay trong chiến tranh. Từ Xi-nai, tiếng kèn luôn loan báo những lần Thiên Chúa can thiệp để tỏ quyền năng, và đức công chính của Người (Xh 19,13-16,19 ; Mt 24,31 ; 1 Tx 4,16 ; 1 Cr 15,52).",
+      "position": 95,
+      "order": 2,
+      "createdAt": "2024-09-23T03:31:05.490Z",
+      "updatedAt": "2024-09-23T03:31:05.490Z",
+      "verseId": "0c3990cf-5860-4294-8a8b-072c59e1c4d0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "a5f30981-1e9f-48d1-9f2f-e5050be90d37",
+      "content": "Thêm *Thiên Chúa* cho rõ nghĩa.",
+      "position": 160,
+      "order": 3,
+      "createdAt": "2024-09-23T03:31:05.496Z",
+      "updatedAt": "2024-09-23T03:31:05.496Z",
+      "verseId": "fbe78811-8167-4b22-b886-e76e4f0ea5aa",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "adb5faf5-de48-4884-989a-83e261c2a009",
+      "content": "Những người tử đạo.",
+      "position": 214,
+      "order": 4,
+      "createdAt": "2024-09-23T03:31:05.497Z",
+      "updatedAt": "2024-09-23T03:31:05.497Z",
+      "verseId": "fbe78811-8167-4b22-b886-e76e4f0ea5aa",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "7dad684d-6db1-4700-a689-a31650a90930",
+      "content": "Hành động của thiên thần diễn tả sự công bình của Thiên Chúa đối với thế giới thù nghịch.",
+      "position": 79,
+      "order": 5,
+      "createdAt": "2024-09-23T03:31:05.507Z",
+      "updatedAt": "2024-09-23T03:31:05.507Z",
+      "verseId": "75bcb055-67a0-4483-a933-2f8c9e98079c",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "08cf4a6f-ccfd-4174-8bf0-14cda070aa2f",
+      "content": "Trình thuật bảy kèn tương ứng với bảy ấn. Tác giả mượn trình thuật các tai ương ở Ai-cập trong sách Xuất Hành (ch. 7 – 10) để mô tả cảnh tượng ngày cánh chung. Đất, biển, sông, suối, tinh tú đều biến dạng, khi tiếng kèn được thổi vang.",
+      "position": 22,
+      "order": 6,
+      "createdAt": "2024-09-23T03:31:05.523Z",
+      "updatedAt": "2024-09-23T03:31:05.523Z",
+      "headingId": "ee22a793-45f7-4a9e-972c-4b0756216840",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "76ff1932-caae-4f8b-ac8a-c59a5e3249db",
+      "content": "Mưa đá (x. Xh 9,23-25 ; Ge 3,3 ; Kb 16,22) ; Ed 32,28 nói bão tố huỷ diệt nông nghiệp.",
+      "position": 33,
+      "order": 7,
+      "createdAt": "2024-09-23T03:31:05.541Z",
+      "updatedAt": "2024-09-23T03:31:05.541Z",
+      "verseId": "818be096-4841-4553-966c-879d31d50030",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "e49c587b-a4db-4e15-b1ed-c54a66ea3045",
+      "content": "Núi lửa (x. Gr 51,25) ; nước hoá thành máu (x. Xh 7,20-21).",
+      "position": 40,
+      "order": 8,
+      "createdAt": "2024-09-23T03:31:05.554Z",
+      "updatedAt": "2024-09-23T03:31:05.554Z",
+      "verseId": "93caa15e-a41b-4dda-a9d1-32fd8871fff0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "3c637827-7cc7-4f26-a6ac-51855a0bd2f8",
+      "content": "X. Tv 104,25 ; Xp 1,3 ; Hs 4,3. Tiếng kèn thứ hai huỷ diệt sinh vật dưới biển và các phương tiện giao thông đường biển.",
+      "position": 51,
+      "order": 9,
+      "createdAt": "2024-09-23T03:31:05.571Z",
+      "updatedAt": "2024-09-23T03:31:05.571Z",
+      "verseId": "d45c5139-1efa-4060-9105-d2d4a69ae405",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "21bd8836-6d50-4717-afd4-f0e31e1f3e13",
+      "content": "X. Is 14,12 ; Đn 8,10 ; Mc 13,35. Tiếng kèn thứ ba huỷ diệt nước uống trên sông ngòi.",
+      "position": 89,
+      "order": 10,
+      "createdAt": "2024-09-23T03:31:05.581Z",
+      "updatedAt": "2024-09-23T03:31:05.581Z",
+      "verseId": "5a9ab0b7-4d3d-41eb-8471-7b921af4c247",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "dee9b4b6-8bdb-406f-9ae3-260cab86d189",
+      "content": "X. Gr 9,14 ; 23,15 ; Xh 15,23-25. Ngải đắng là một thứ dược thảo có chất dầu đắng và độc hại. Hình phạt này giáng xuống những kẻ không thờ phượng Thiên Chúa.",
+      "position": 25,
+      "order": 11,
+      "createdAt": "2024-09-23T03:31:05.594Z",
+      "updatedAt": "2024-09-23T03:31:05.594Z",
+      "verseId": "fa6c6be7-b82e-45e8-9d17-2ec5104a55b6",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "b8084423-92ef-4e83-9591-c42a5dbf2c5b",
+      "content": "X. Xh 10,21-13 ; Am 8,9 ; Ge 4,15 ; Mt 25,29 ; Mc 13,24 ; Lc 23,45. Hình phạt này huỷ diệt các nguồn sáng cho con người.",
+      "position": 40,
+      "order": 12,
+      "createdAt": "2024-09-23T03:31:05.608Z",
+      "updatedAt": "2024-09-23T03:31:05.608Z",
+      "verseId": "53795d40-bf9a-4f01-b978-56297aa2c4b6",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "3708b07d-882d-4911-b7cf-4b2db8829d42",
+      "content": "Sứ giả của Thiên Chúa (x. Mt 24,28 ; Lc 17,37).",
+      "position": 38,
+      "order": 13,
+      "createdAt": "2024-09-23T03:31:05.621Z",
+      "updatedAt": "2024-09-23T03:31:05.621Z",
+      "verseId": "3dc956c9-5bcd-4bb0-a4fe-8b0bac86aed8",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "6ca1fe13-a461-4182-8ebc-15b2f5ea7b10",
+      "content": "Ba cái khốn sẽ được thực hiện trong các tiếng kèn thứ năm (9,1-12) ; tiếng kèn thứ sáu (9,13-21) ; tiếng kèn thứ bảy (11,14-19).",
+      "position": 113,
+      "order": 14,
+      "createdAt": "2024-09-23T03:31:05.625Z",
+      "updatedAt": "2024-09-23T03:31:05.625Z",
+      "verseId": "3dc956c9-5bcd-4bb0-a4fe-8b0bac86aed8",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    }
+  ],
+  "headings": [
+    {
+      "id": "1fbae1f8-31e7-48c9-a2c9-a8714c97b42c",
+      "content": "Mở ấn thứ bảy",
+      "order": 0,
+      "createdAt": "2024-09-23T03:31:05.477Z",
+      "updatedAt": "2024-09-23T03:31:05.477Z",
+      "verseId": "82216a83-04f9-4ee7-9abe-f92e97a79896",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "e09bf935-0885-4976-a1e7-3978a4fa0896",
+      "content": "Lời cầu nguyện của dân thánh",
+      "order": 0,
+      "createdAt": "2024-09-23T03:31:05.488Z",
+      "updatedAt": "2024-09-23T03:31:05.488Z",
+      "verseId": "0c3990cf-5860-4294-8a8b-072c59e1c4d0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "ee22a793-45f7-4a9e-972c-4b0756216840",
+      "content": "Bốn tiếng kèn đầu tiên",
+      "order": 0,
+      "createdAt": "2024-09-23T03:31:05.519Z",
+      "updatedAt": "2024-09-23T03:31:05.519Z",
+      "verseId": "d7aa289e-3e8f-4278-8524-24a0af69698c",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    }
+  ],
+  "references": [
+    {
+      "id": "33f78c9b-b2e2-4945-8d67-b69627011f6c",
+      "content": "Hs 2,20; Xp 1,7; Dcr 2,17",
+      "position": 41,
+      "order": 0,
+      "createdAt": "2024-09-23T03:31:05.484Z",
+      "updatedAt": "2024-09-23T03:31:05.484Z",
+      "verseId": "82216a83-04f9-4ee7-9abe-f92e97a79896",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "34e532d8-dee6-400b-864d-2b7431f50eba",
+      "content": "Kh 4,5",
+      "position": 13,
+      "order": 1,
+      "createdAt": "2024-09-23T03:31:05.492Z",
+      "updatedAt": "2024-09-23T03:31:05.492Z",
+      "verseId": "0c3990cf-5860-4294-8a8b-072c59e1c4d0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "baac4fe9-7647-42b0-993d-794a83de4a9f",
+      "content": "Kh 5,8; Xh 30,1-10",
+      "position": 52,
+      "order": 2,
+      "createdAt": "2024-09-23T03:31:05.500Z",
+      "updatedAt": "2024-09-23T03:31:05.500Z",
+      "verseId": "fbe78811-8167-4b22-b886-e76e4f0ea5aa",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "af10bebb-5903-44ea-85f1-798e57e8f838",
+      "content": "Tv 141,2",
+      "position": 177,
+      "order": 3,
+      "createdAt": "2024-09-23T03:31:05.502Z",
+      "updatedAt": "2024-09-23T03:31:05.502Z",
+      "verseId": "fbe78811-8167-4b22-b886-e76e4f0ea5aa",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "4d64fc98-c396-410f-9cea-bfd120cd876d",
+      "content": "Lv 16,12",
+      "position": 19,
+      "order": 4,
+      "createdAt": "2024-09-23T03:31:05.509Z",
+      "updatedAt": "2024-09-23T03:31:05.509Z",
+      "verseId": "75bcb055-67a0-4483-a933-2f8c9e98079c",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "62977ae3-57b0-48cd-9cd7-9b9507638f7d",
+      "content": "Ed 10,2",
+      "position": 35,
+      "order": 5,
+      "createdAt": "2024-09-23T03:31:05.511Z",
+      "updatedAt": "2024-09-23T03:31:05.511Z",
+      "verseId": "75bcb055-67a0-4483-a933-2f8c9e98079c",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "c2a35554-15a0-42ca-9809-2d146e159d14",
+      "content": "Kh 16,1-9",
+      "position": 0,
+      "order": 6,
+      "createdAt": "2024-09-23T03:31:05.528Z",
+      "updatedAt": "2024-09-23T03:31:05.528Z",
+      "headingId": "ee22a793-45f7-4a9e-972c-4b0756216840",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "77197cac-7bfd-4008-b831-f324cd4603f7",
+      "content": "Ge 2,1",
+      "position": 23,
+      "order": 7,
+      "createdAt": "2024-09-23T03:31:05.532Z",
+      "updatedAt": "2024-09-23T03:31:05.532Z",
+      "verseId": "d7aa289e-3e8f-4278-8524-24a0af69698c",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "11db02df-e7be-42c7-854e-1ae549b0ae72",
+      "content": "Xh 9,24; Ge 3,3",
+      "position": 35,
+      "order": 8,
+      "createdAt": "2024-09-23T03:31:05.546Z",
+      "updatedAt": "2024-09-23T03:31:05.546Z",
+      "verseId": "818be096-4841-4553-966c-879d31d50030",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "386b97b2-990e-46d5-b285-68468df09146",
+      "content": "Gr 51,25",
+      "position": 60,
+      "order": 9,
+      "createdAt": "2024-09-23T03:31:05.558Z",
+      "updatedAt": "2024-09-23T03:31:05.558Z",
+      "verseId": "93caa15e-a41b-4dda-a9d1-32fd8871fff0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "44908cf1-5e29-4c8e-a378-0dc0e67f29cd",
+      "content": "Xh 7,20",
+      "position": 107,
+      "order": 10,
+      "createdAt": "2024-09-23T03:31:05.563Z",
+      "updatedAt": "2024-09-23T03:31:05.563Z",
+      "verseId": "93caa15e-a41b-4dda-a9d1-32fd8871fff0",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "ef4c104c-6b76-4752-9f46-f16716086a2f",
+      "content": "Is 14,12",
+      "position": 63,
+      "order": 11,
+      "createdAt": "2024-09-23T03:31:05.586Z",
+      "updatedAt": "2024-09-23T03:31:05.586Z",
+      "verseId": "5a9ab0b7-4d3d-41eb-8471-7b921af4c247",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "50cfa3d0-13fd-47a6-8586-541aac559df8",
+      "content": "Gr 9,14",
+      "position": 16,
+      "order": 12,
+      "createdAt": "2024-09-23T03:31:05.599Z",
+      "updatedAt": "2024-09-23T03:31:05.599Z",
+      "verseId": "fa6c6be7-b82e-45e8-9d17-2ec5104a55b6",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "ebfef338-9b89-4b23-a90c-83f3f7cad623",
+      "content": "Xh 10,21-23",
+      "position": 141,
+      "order": 13,
+      "createdAt": "2024-09-23T03:31:05.612Z",
+      "updatedAt": "2024-09-23T03:31:05.612Z",
+      "verseId": "53795d40-bf9a-4f01-b978-56297aa2c4b6",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    },
+    {
+      "id": "a190e8d4-4939-4f9a-a8a9-d98765941b57",
+      "content": "Kh 9,12; 11,14; Ed 7,5.26",
+      "position": 80,
+      "order": 14,
+      "createdAt": "2024-09-23T03:31:05.629Z",
+      "updatedAt": "2024-09-23T03:31:05.629Z",
+      "verseId": "3dc956c9-5bcd-4bb0-a4fe-8b0bac86aed8",
+      "chapterId": "4d13cf92-88b6-49b7-b3d0-cd7a8e623401"
+    }
+  ],
+  "psalmMetadata": []
+}

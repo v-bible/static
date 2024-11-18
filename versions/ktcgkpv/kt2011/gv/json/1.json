@@ -1,0 +1,623 @@
+{
+  "chapter": {
+    "id": "b74bcbc1-e905-4ee1-8e84-57940e38ada6",
+    "number": 1,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.372Z",
+    "updatedAt": "2024-09-23T03:08:02.372Z",
+    "bookId": "dcb1932d-b879-41a5-93e0-fc02b40e01ca"
+  },
+  "verses": [
+    {
+      "id": "a486c78b-c4fb-4b72-9fdb-f8fd906eb20b",
+      "number": 1,
+      "content": "Đây là lời ông [Cô-he-lét](), làm vua ngự tại [Giê-ru-sa-lem](). Ông là con vua [Đa-vít]().",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.194Z",
+      "updatedAt": "2024-09-23T04:11:53.194Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "number": 2,
+      "content": "Ông [Cô-he-lét]() nói : “Phù vân, quả là phù vân. Phù vân, quả là phù vân. Tất cả chỉ là phù vân.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.210Z",
+      "updatedAt": "2024-09-23T04:11:53.210Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "961ab494-dea5-458c-8c1f-68c8fdc43dc8",
+      "number": 3,
+      "content": "Lợi lộc gì đâu khi con người phải chịu đựng bao gian lao vất vả dưới ánh nắng mặt trời ?",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.237Z",
+      "updatedAt": "2024-09-23T04:11:53.237Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "7ab04d98-af36-4103-a95f-382f645a0c22",
+      "number": 4,
+      "content": "Thế hệ này đi, thế hệ kia đến, nhưng trái đất mãi mãi trường tồn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.251Z",
+      "updatedAt": "2024-09-23T04:11:53.251Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "94e84ff1-8e05-44ba-b844-d69388d6cb0c",
+      "number": 5,
+      "content": "Mặt trời mọc rồi lặn ; mặt trời vội vã ngả xuống nơi nó đã mọc lên.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.259Z",
+      "updatedAt": "2024-09-23T04:11:53.259Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "ad9c133f-f14a-4088-8e86-adc5c660d023",
+      "number": 6,
+      "content": "Gió thổi xuống phía nam, rồi xoay về phía bắc : gió xoay lui xoay tới rồi gió đi ; gió trở qua trở lại lòng vòng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.263Z",
+      "updatedAt": "2024-09-23T04:11:53.263Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "0192afdd-1d95-4632-9b3f-3b370aa20ab7",
+      "number": 7,
+      "content": "Mọi khúc sông đều xuôi ra biển, nhưng biển cũng chẳng đầy. Sông chảy tới đâu thì từ đó sông lại tiếp tục.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.267Z",
+      "updatedAt": "2024-09-23T04:11:53.267Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "9c0e6173-85a1-442b-a3b7-8e5bb793f427",
+      "number": 8,
+      "content": "Chuyện gì cũng nhàm chán, chẳng thể nói gì hơn. Mắt có nhìn bao nhiêu cũng chẳng thấy gì lạ, tai có nghe đến mấy cũng chẳng thấy gì mới.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.280Z",
+      "updatedAt": "2024-09-23T04:11:53.280Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "38943db2-2dc2-40ff-8de7-708b5c5444a8",
+      "number": 9,
+      "content": "Điều đã có, rồi ra sẽ có,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.295Z",
+      "updatedAt": "2024-09-23T04:11:53.295Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "fd2a5dce-0aa8-4161-98aa-298d8ab6ad72",
+      "number": 9,
+      "content": "chuyện đã làm, rồi lại sẽ làm ra :",
+      "order": 1,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.304Z",
+      "updatedAt": "2024-09-23T04:11:53.304Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "08cdd40f-1f18-4cd7-8795-ea4341d72f67",
+      "number": 9,
+      "content": "dưới ánh mặt trời,",
+      "order": 2,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.308Z",
+      "updatedAt": "2024-09-23T04:11:53.308Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "2d8ab996-b0bf-443a-abe5-dd118a241d19",
+      "number": 9,
+      "content": "nào có chi mới lạ ?",
+      "order": 3,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.312Z",
+      "updatedAt": "2024-09-23T04:11:53.312Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "9238e546-3ac8-4e95-9962-f0e7b8c70fe5",
+      "number": 10,
+      "content": "Nếu có điều gì đáng cho người ta nói : “Coi đây, cái mới đây này !”, thì điều ấy đã có trước chúng ta từ bao thế hệ rồi.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.317Z",
+      "updatedAt": "2024-09-23T04:11:53.317Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "754912cc-ead3-408f-9d4b-5469f303ca88",
+      "number": 11,
+      "content": "Chẳng ai còn nhớ đến người xưa, và đối với những người đến sau thì cũng thế ; các thế hệ mai sau sẽ chẳng còn nhớ đến họ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.321Z",
+      "updatedAt": "2024-09-23T04:11:53.321Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "328fc070-bc95-4567-a0ec-1d3924997908",
+      "number": 12,
+      "content": "Tôi là [Cô-he-lét](), tôi đã làm vua cai trị [Ít-ra-en]() ở [Giê-ru-sa-lem]().",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.329Z",
+      "updatedAt": "2024-09-23T04:11:53.329Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "940a9016-b2ce-45ca-a5a6-6e1295502ef2",
+      "number": 13,
+      "content": "Tôi đã chú tâm tìm hiểu và dùng trí khôn ngoan mà khảo sát tất cả những gì xảy ra dưới bầu trời : đó là công việc nhọc nhằn Thiên Chúa bắt con cái loài người phải để tâm thực hiện.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.347Z",
+      "updatedAt": "2024-09-23T04:11:53.347Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "ce0ea8c3-2e52-4d76-a122-ba01669a1ccb",
+      "number": 14,
+      "content": "Sau khi nhìn thấy mọi công việc thực hiện dưới ánh mặt trời, tôi nhận ra : tất cả chỉ là phù vân, chỉ là công dã tràng xe cát.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.363Z",
+      "updatedAt": "2024-09-23T04:11:53.363Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "dd4757fe-40d9-4611-922c-e68f558b329c",
+      "number": 15,
+      "content": "Cái gì đã cong, uốn làm sao nổi, cái gì đã thiếu, đếm thế nào ra ?",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.376Z",
+      "updatedAt": "2024-09-23T04:11:53.376Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "a65d21b2-b040-480c-92de-cba0e8e0b742",
+      "number": 16,
+      "content": "Tôi tự nhủ : Này tôi đã gom góp, đã thu thập được nhiều điều khôn ngoan hơn tất cả những vị đã cai trị [Giê-ru-sa-lem]() trước tôi. Trí tôi đã học hỏi được nhiều điều khôn ngoan, tích luỹ được bao nhiêu kiến thức ;",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.385Z",
+      "updatedAt": "2024-09-23T04:11:53.385Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "3119f5f2-89ad-447b-ac73-54cf5ca4d94c",
+      "number": 17,
+      "content": "tôi đã chú tâm phân biệt đâu là khôn ngoan, tri thức, đâu là điên rồ, khờ dại. Ngay cả việc này nữa, tôi nhận thấy đó cũng chỉ là công dã tràng.",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:11:53.406Z",
+      "updatedAt": "2024-09-23T04:11:53.406Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "0f5ff873-50c1-4dd5-997b-e7a7db85f4e2",
+      "number": 18,
+      "content": "Càng nhiều khôn ngoan,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.410Z",
+      "updatedAt": "2024-09-23T04:11:53.410Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "768ccd18-bfbe-41a6-be99-224f1b46a608",
+      "number": 18,
+      "content": "càng nhiều phiền muộn,",
+      "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.414Z",
+      "updatedAt": "2024-09-23T04:11:53.414Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "804c3e0c-52b9-42a0-880b-9c5a5d7825ae",
+      "number": 18,
+      "content": "càng thêm hiểu biết,",
+      "order": 2,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.422Z",
+      "updatedAt": "2024-09-23T04:11:53.422Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "2b349720-00da-44fa-965e-4e9557756103",
+      "number": 18,
+      "content": "càng thêm khổ đau.",
+      "order": 3,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:11:53.426Z",
+      "updatedAt": "2024-09-23T04:11:53.426Z",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "b4b453fb-7f0e-4d91-8bd5-342830d5d5eb",
+      "content": "*Cô-he-lét* : một danh từ Híp-ri phát xuất từ động từ qähal, có nghĩa là *quy tụ, tụ họp*. LXX đã dịch là *’Ekklêsiastês*, PT đã chuyển dịch lại là Ecclesiastes. Bản dịch tiếng Việt này cũng như một số bản dịch tiếng Việt khác dịch là Giảng viên, có nghĩa là người đứng đầu hay là người giảng dạy trong một cộng đoàn. Cũng có ý kiến cho rằng Cô-he-lét có nghĩa là một vị thầy, một thầy giáo dạy học ở trường đời. Cách chung người ta cho rằng danh từ giống cái Cô-he-lét không phải là một tên riêng mà là một tên chỉ chức vụ hay nghề nghiệp.",
+      "position": 28,
+      "order": 0,
+      "createdAt": "2024-09-23T04:11:53.206Z",
+      "updatedAt": "2024-09-23T04:11:53.206Z",
+      "verseId": "a486c78b-c4fb-4b72-9fdb-f8fd906eb20b",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "e39bdf94-3a26-45d4-82a5-a73f9372a612",
+      "content": "*Làm vua* : M ; LXX : *làm vua Ít-ra-en*. Cô-he-lét được gián tiếp giới thiệu là chính vua Sa-lô-môn, một con người khôn ngoan mẫu mực và nổi tiếng. Có ý kiến cho rằng câu này được thêm vào sau, nhằm xếp loại và tạo cho tác phẩm có được “trọng lượng” để được nhận vào quy điển Kinh Thánh.",
+      "position": 90,
+      "order": 1,
+      "createdAt": "2024-09-23T04:11:53.208Z",
+      "updatedAt": "2024-09-23T04:11:53.208Z",
+      "verseId": "a486c78b-c4fb-4b72-9fdb-f8fd906eb20b",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "cf1955ff-ce0c-4d97-b953-b0bf92219896",
+      "content": "Sách Gv có thể tạm chia làm hai phần chính (1,2 – 6,12 và 7,1 – 12,8). Mỗi phần có một lời tựa như là lời giới thiệu vắn tắt cho các điều sẽ được triển khai ở sau.",
+      "position": 13,
+      "order": 2,
+      "createdAt": "2024-09-23T04:11:53.214Z",
+      "updatedAt": "2024-09-23T04:11:53.214Z",
+      "headingId": "e71fdd2e-0653-4115-9af5-cdb47422f899",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "a5c8c92e-5819-431a-b9a6-a427e692bdba",
+      "content": "Lời tựa phần thứ nhất bao hàm hai ý tưởng chính : *Tất cả chỉ là phù vân* (1,2) và vũ trụ cũng như đời người là một cái vòng xoay luẩn quẩn và nhàm chán (1,4-11). Ý tưởng thứ nhất là tư tưởng chính của tác phẩm, ý tưởng thứ hai là bối cảnh và lý do giải thích tư tưởng chính ở trên.",
+      "position": 7,
+      "order": 3,
+      "createdAt": "2024-09-23T04:11:53.220Z",
+      "updatedAt": "2024-09-23T04:11:53.220Z",
+      "headingId": "d7e84edb-df9d-4c26-b773-ab59e05064e1",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "9d192255-1743-4a49-9786-4503ad541769",
+      "content": "*Phù vân, quả là phù vân*, ds : *Phù vân của những phù vân*. Đây là cách nói nhằm diễn tả việc so sánh ở cấp cao nhất : rất phù vân, vô cùng phù vân, phù vân nhất. *Phù vân* được dịch từ một danh từ Híp-ri “heBel” có nghĩa là *làn gió, làn khói*. Vì thế nó được dùng như một hình ảnh để chỉ những gì là phù vân, không bền chắc và chóng qua. Trong toàn bộ Kinh Thánh, từ này được dùng 70 lần thì sách Gv đã dùng đến 37 lần.",
+      "position": 73,
+      "order": 4,
+      "createdAt": "2024-09-23T04:11:53.225Z",
+      "updatedAt": "2024-09-23T04:11:53.225Z",
+      "verseId": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "4a63a8b0-45bb-4fbf-b3f6-69b7c7e20422",
+      "content": "*Tất cả chỉ là phù vân* hay *chỉ là công dã tràng xe cát* (x. 1,14) ... là những cách diễn tả khác nhau, nói cách này cách khác, để diễn tả cùng một trực giác chính yếu của Cô-he-lét : *Phù vân, quả là phù vân*.",
+      "position": 96,
+      "order": 5,
+      "createdAt": "2024-09-23T04:11:53.229Z",
+      "updatedAt": "2024-09-23T04:11:53.229Z",
+      "verseId": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "e4948d8e-8a0e-4cdc-b834-e6d283902dfa",
+      "content": "*Chịu đựng bao gian lao vất vả* (\\`ämal) : Đây là động từ thường gặp trong sách Gv (x. 1,3 ; 2,10.11.18.19.20.21.22.24 ; 3,9.13 ; 4,4.6.8.9 ; 5,14.15.17.18 ; 6,7 ; 8,15.17 ; 9,9 ; 10,15). Các từ *vất vả* (\\`ämal), *lợi lộc* (yitürôn), và *phù vân* (heBel) làm thành ba trục chính cho những suy tư của Cô-he-lét. Dưới ánh mặt trời con người phải chịu đựng *bao gian lao vất vả* (\\`ämal), nhưng cuối cùng con người đâu *còn lại* được điều chi, đâu được *lợi lộc* gì (yitürôn) ; vì thế mọi sự chỉ là *phù vân* (heBel).",
+      "position": 63,
+      "order": 6,
+      "createdAt": "2024-09-23T04:11:53.242Z",
+      "updatedAt": "2024-09-23T04:11:53.242Z",
+      "verseId": "961ab494-dea5-458c-8c1f-68c8fdc43dc8",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "ca24ee69-bb4a-4595-9e1e-3bafa0f0d4f8",
+      "content": "ds : *dưới mặt trời* (x. 1,9.14 ; 2,11.17.18.19.20.22 ; 3,16 ; 4,1.3.7.15 ; 5,12.17 ; 6,1.12 ; 8,9.15.17 ; 9,3.6.9.11.13 ; 10,5). Thành ngữ này luôn được Cô-he-lét lặp đi lặp lại. Điều này cho thấy Cô-he-lét không phải là một con người đi bàn những chuyện viển vông, nhưng là những chuyện rất cụ thể xảy ra ngay trong cuộc sống đời thường.",
+      "position": 86,
+      "order": 7,
+      "createdAt": "2024-09-23T04:11:53.246Z",
+      "updatedAt": "2024-09-23T04:11:53.246Z",
+      "verseId": "961ab494-dea5-458c-8c1f-68c8fdc43dc8",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "7cdcc672-639e-422d-8372-667a6ed3cca9",
+      "content": "C.7b là một câu văn Híp-ri tối nghĩa. ds : *Các dòng sông chảy tới chỗ, ở đó chúng quay trở lại để chảy*. Quan niệm về nguồn gốc của dòng sông của Cô-he-lét chắc chắn không giống hiểu biết của chúng ta ngày nay. Có lẽ Cô-he-lét cho rằng mọi dòng sông đều xuôi ra biển, và một cách nào đó nước từ biển lại quay về thượng nguồn để cho dòng sông tiếp tục chảy. Dù sao ở đây tác giả cũng chỉ muốn diễn tả cái vòng xoay chuyển nhàm chán của vũ trụ.",
+      "position": 104,
+      "order": 8,
+      "createdAt": "2024-09-23T04:11:53.272Z",
+      "updatedAt": "2024-09-23T04:11:53.272Z",
+      "verseId": "0192afdd-1d95-4632-9b3f-3b370aa20ab7",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "7f7ad641-dcc7-40b1-9f85-133c8b89b38b",
+      "content": "ds : *Mắt không thoả để nhìn, và tai không đầy từ việc nghe*. Thật khó hiểu ! Ý nghĩa có lẽ là : dưới ánh mặt trời chẳng có gì mới lạ, vì thế dù có nhìn bao nhiêu, dù có nghe đến mấy cũng chẳng có gì làm thoả mãn, làm đầy tâm trí.",
+      "position": 135,
+      "order": 9,
+      "createdAt": "2024-09-23T04:11:53.288Z",
+      "updatedAt": "2024-09-23T04:11:53.288Z",
+      "verseId": "9c0e6173-85a1-442b-a3b7-8e5bb793f427",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "c3d7b6a2-7951-494f-b363-f6d9fbc22971",
+      "content": "X. 2,16. Con người cũng nằm trong cái vòng xoay chuyển không ngừng và cũ kỹ đó của vũ trụ. Thế hệ này đi, thế hệ kia đến (x. 1,4), nhưng thế hệ qua đi còn lại gì ? Chẳng còn gì cả, ngay cả những hoài niệm về họ.",
+      "position": 120,
+      "order": 10,
+      "createdAt": "2024-09-23T04:11:53.325Z",
+      "updatedAt": "2024-09-23T04:11:53.325Z",
+      "verseId": "754912cc-ead3-408f-9d4b-5469f303ca88",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "14438ef6-e1a1-45fb-8683-53e45a505ecb",
+      "content": "Vũ trụ và con người xoay chuyển đến nhàm chán. Nhưng điều ấy không làm Cô-he-lét thất vọng. Ông đích thân lên đường đi tìm kiếm ý nghĩa cuộc đời qua các thử nghiệm khác nhau. Về đời sống vật chất, ông thử để cho thân xác được hưởng dùng và thoả mãn mọi sự ; về đời sống tinh thần, ông đi tìm hiểu lẽ khôn ngoan và sự điên dại. Cuối cùng ông thấy rằng : tất cả là phù vân. Cái chết sẽ chấm dứt mọi sự. Kết luận thực tiễn mà ông rút ra là : vui hưởng cái hiện tại trong tầm tay như là ân huệ của Thiên Chúa ban cho.",
+      "position": 30,
+      "order": 11,
+      "createdAt": "2024-09-23T04:11:53.338Z",
+      "updatedAt": "2024-09-23T04:11:53.338Z",
+      "headingId": "7ec2b5ea-0d39-4ff5-bd3a-9bbb9aad6723",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "8fc04d3e-c371-459e-abe8-947ddd542bee",
+      "content": "Khởi từ đây cho đến 12,7 Cô-he-lét tự xưng ở ngôi thứ nhất, trong tư cách một ông vua khôn ngoan đi tìm kiếm chân lý.",
+      "position": 20,
+      "order": 12,
+      "createdAt": "2024-09-23T04:11:53.342Z",
+      "updatedAt": "2024-09-23T04:11:53.342Z",
+      "verseId": "328fc070-bc95-4567-a0ec-1d3924997908",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "edbec931-b571-4a54-afa0-8e3cb08e0fa8",
+      "content": "ds : *Trong sự khôn ngoan, tôi đã chú tâm để tìm hiểu và khảo sát*.",
+      "position": 58,
+      "order": 13,
+      "createdAt": "2024-09-23T04:11:53.351Z",
+      "updatedAt": "2024-09-23T04:11:53.351Z",
+      "verseId": "940a9016-b2ce-45ca-a5a6-6e1295502ef2",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "1c91bfbb-8801-4c20-aea0-069265118174",
+      "content": "*Thiên Chúa bắt*, ds : *Thiên Chúa cho*.",
+      "position": 138,
+      "order": 14,
+      "createdAt": "2024-09-23T04:11:53.355Z",
+      "updatedAt": "2024-09-23T04:11:53.355Z",
+      "verseId": "940a9016-b2ce-45ca-a5a6-6e1295502ef2",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "76c906be-d740-4016-a9af-ab04a3d45a09",
+      "content": "*Chỉ là công dã tràng xe cát*, ds : *là việc đuổi theo (chăn dắt) gió*. Đuổi theo gió là một công việc vô bổ, chẳng đến đâu, như “Dã tràng xe cát biển Đông, nhọc nhằn mà chẳng nên công cán gì.”",
+      "position": 125,
+      "order": 15,
+      "createdAt": "2024-09-23T04:11:53.368Z",
+      "updatedAt": "2024-09-23T04:11:53.368Z",
+      "verseId": "ce0ea8c3-2e52-4d76-a122-ba01669a1ccb",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "fb36fefa-d749-4fc1-9498-4fae1792289c",
+      "content": "Những gì Thiên Chúa đã xếp đặt an bài, con người chẳng thể thay đổi được. Làm lụng vất vả là định mệnh của con người mà Thiên Chúa đã đặt cho họ.",
+      "position": 64,
+      "order": 16,
+      "createdAt": "2024-09-23T04:11:53.381Z",
+      "updatedAt": "2024-09-23T04:11:53.381Z",
+      "verseId": "dd4757fe-40d9-4611-922c-e68f558b329c",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "304586f4-71d8-4877-be75-6cd2163f3ec9",
+      "content": "*Đã cai trị ... trước tôi*, ds : *trước tôi ở Giê-ru-sa-lem*.",
+      "position": 130,
+      "order": 17,
+      "createdAt": "2024-09-23T04:11:53.389Z",
+      "updatedAt": "2024-09-23T04:11:53.389Z",
+      "verseId": "a65d21b2-b040-480c-92de-cba0e8e0b742",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "da1686ed-793a-4057-a22a-ee918d60e764",
+      "content": "*Trí tôi... kiến thức*, ds : *tim tôi đã thấy nhiều điều khôn ngoan và kiến thức*. Với người Do-thái, con tim không chỉ là cái nôi của tình cảm mà còn là cái nôi của lý trí và ý chí.",
+      "position": 212,
+      "order": 18,
+      "createdAt": "2024-09-23T04:11:53.393Z",
+      "updatedAt": "2024-09-23T04:11:53.393Z",
+      "verseId": "a65d21b2-b040-480c-92de-cba0e8e0b742",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "6e55975e-8a12-48dd-a406-8bcd0f0932f0",
+      "content": "*Phiền muộn* : M ; LXX : *hiểu biết*. Quan niệm về vấn đề này nơi sách Gv có phần khác với quan niệm của một số sách khác (x. Cn 2,10 ; Hc 4,12 ; 14,25).",
+      "position": 21,
+      "order": 19,
+      "createdAt": "2024-09-23T04:11:53.418Z",
+      "updatedAt": "2024-09-23T04:11:53.418Z",
+      "verseId": "768ccd18-bfbe-41a6-be99-224f1b46a608",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    }
+  ],
+  "headings": [
+    {
+      "id": "60f14b0d-06cc-4bea-b87f-9dcf7c936fdc",
+      "content": "SÁCH GIẢNG VIÊN",
+      "order": 0,
+      "createdAt": "2024-09-23T04:11:53.204Z",
+      "updatedAt": "2024-09-23T04:11:53.204Z",
+      "verseId": "a486c78b-c4fb-4b72-9fdb-f8fd906eb20b",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "e71fdd2e-0653-4115-9af5-cdb47422f899",
+      "content": "PHẦN THỨ NHẤT",
+      "order": 0,
+      "createdAt": "2024-09-23T04:11:53.212Z",
+      "updatedAt": "2024-09-23T04:11:53.212Z",
+      "verseId": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "7ec2b5ea-0d39-4ff5-bd3a-9bbb9aad6723",
+      "content": "Đời sống của vua [Sa-lô-môn]()",
+      "order": 0,
+      "createdAt": "2024-09-23T04:11:53.333Z",
+      "updatedAt": "2024-09-23T04:11:53.333Z",
+      "verseId": "328fc070-bc95-4567-a0ec-1d3924997908",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "d7e84edb-df9d-4c26-b773-ab59e05064e1",
+      "content": "Lời tựa",
+      "order": 1,
+      "createdAt": "2024-09-23T04:11:53.217Z",
+      "updatedAt": "2024-09-23T04:11:53.217Z",
+      "verseId": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    }
+  ],
+  "references": [
+    {
+      "id": "5aade7dc-eaaf-44ad-b08d-8f9a431b94c1",
+      "content": "Tv 62,10; Rm 8,20",
+      "position": 25,
+      "order": 0,
+      "createdAt": "2024-09-23T04:11:53.233Z",
+      "updatedAt": "2024-09-23T04:11:53.233Z",
+      "verseId": "0adc34a0-a573-4c5c-bbf9-af2085ad3b67",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "f5ebb963-cbd9-4952-bba8-69615bfd2abd",
+      "content": "Hc 14,18",
+      "position": 0,
+      "order": 1,
+      "createdAt": "2024-09-23T04:11:53.255Z",
+      "updatedAt": "2024-09-23T04:11:53.255Z",
+      "verseId": "7ab04d98-af36-4103-a95f-382f645a0c22",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "30aeaf7d-dd13-457a-bff4-074f3cfd2081",
+      "content": "Hc 40,11",
+      "position": 26,
+      "order": 2,
+      "createdAt": "2024-09-23T04:11:53.276Z",
+      "updatedAt": "2024-09-23T04:11:53.276Z",
+      "verseId": "0192afdd-1d95-4632-9b3f-3b370aa20ab7",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "11bb6a61-b5c2-4750-b29e-de04975ae8b3",
+      "content": "Gv 2,12; 3,15",
+      "position": 5,
+      "order": 3,
+      "createdAt": "2024-09-23T04:11:53.300Z",
+      "updatedAt": "2024-09-23T04:11:53.300Z",
+      "verseId": "38943db2-2dc2-40ff-8de7-708b5c5444a8",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "758e1efd-f24b-4bad-af9b-edde5a70869d",
+      "content": "St 3,17-19",
+      "position": 104,
+      "order": 4,
+      "createdAt": "2024-09-23T04:11:53.359Z",
+      "updatedAt": "2024-09-23T04:11:53.359Z",
+      "verseId": "940a9016-b2ce-45ca-a5a6-6e1295502ef2",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "4c8291bb-d557-4402-95ee-0d46a53d62ba",
+      "content": "Hs 12,2",
+      "position": 105,
+      "order": 5,
+      "createdAt": "2024-09-23T04:11:53.372Z",
+      "updatedAt": "2024-09-23T04:11:53.372Z",
+      "verseId": "ce0ea8c3-2e52-4d76-a122-ba01669a1ccb",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "e10b7bc2-c93f-4279-aeba-52b784030587",
+      "content": "1 V 3,12",
+      "position": 61,
+      "order": 6,
+      "createdAt": "2024-09-23T04:11:53.398Z",
+      "updatedAt": "2024-09-23T04:11:53.398Z",
+      "verseId": "a65d21b2-b040-480c-92de-cba0e8e0b742",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    },
+    {
+      "id": "8481eb23-d6b2-45e7-ba95-a115aabb2029",
+      "content": "1 V 5,9-10; 10,1-13.23-24; Hc 47,14-17",
+      "position": 156,
+      "order": 7,
+      "createdAt": "2024-09-23T04:11:53.402Z",
+      "updatedAt": "2024-09-23T04:11:53.402Z",
+      "verseId": "a65d21b2-b040-480c-92de-cba0e8e0b742",
+      "chapterId": "b74bcbc1-e905-4ee1-8e84-57940e38ada6"
+    }
+  ],
+  "psalmMetadata": []
+}

@@ -1,0 +1,642 @@
+{
+  "chapter": {
+    "id": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.773Z",
+    "updatedAt": "2024-09-23T03:08:01.773Z",
+    "bookId": "b5a3246f-0274-49ca-8d5d-d3d1b855a7ab"
+  },
+  "verses": [
+    {
+      "id": "dc7bbc6d-f512-4125-8ffc-bf877da909a8",
+      "number": 1,
+      "content": "Anh em thân mến, đây đã là thư thứ hai tôi viết cho anh em ; trong cả hai thư, tôi đều nhắc nhở anh em để gợi lên nơi anh em sự hiểu biết chân thành.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.811Z",
+      "updatedAt": "2024-09-23T03:28:19.811Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "85cf42ae-975a-40df-bbce-6c39fa1b7bca",
+      "number": 2,
+      "content": "Anh em hãy nhớ lại những điều các thánh ngôn sứ đã nói trước kia, và điều răn của Chúa, Đấng Cứu Độ, mà các Tông Đồ của anh em đã truyền lại.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.816Z",
+      "updatedAt": "2024-09-23T03:28:19.816Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "6da64204-4b87-43e8-b577-33bcdbe25a2f",
+      "number": 3,
+      "content": "Trước tiên, anh em hãy biết điều này : trong những ngày sau hết, sẽ xuất hiện những kẻ nhạo báng chê cười, sống theo những đam mê riêng của họ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.823Z",
+      "updatedAt": "2024-09-23T03:28:19.823Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "0a0677d8-d8aa-4d74-8253-48a9ef20fe04",
+      "number": 4,
+      "content": "Họ nói : “Đâu rồi lời Người hứa sẽ quang lâm ? Vì từ ngày các bậc cha ông an nghỉ, mọi sự vẫn y nguyên như khi trời đất mới được tạo thành.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.841Z",
+      "updatedAt": "2024-09-23T03:28:19.841Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "47bae6b7-2762-4993-a6e7-9e68d6c620c2",
+      "number": 5,
+      "content": "Thật vậy, họ không muốn biết rằng từ lâu đã có trời và đất, và đất từ nước mà ra và nhờ nước mà đứng vững do lời của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.853Z",
+      "updatedAt": "2024-09-23T03:28:19.853Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "2c9d7a04-2273-438a-be29-cc0331745bcc",
+      "number": 6,
+      "content": "Cũng vì các nguyên cớ ấy, thế gian thời đó đã tiêu vong trong cơn hồng thuỷ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.866Z",
+      "updatedAt": "2024-09-23T03:28:19.866Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "12718b4c-bf3b-4669-85e3-ae919376e148",
+      "number": 7,
+      "content": "Còn trời và đất hiện nay, cũng chính lời ấy giữ lại, dành cho lửa trong ngày phán xét, ngày những kẻ vô luân phải diệt vong.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.879Z",
+      "updatedAt": "2024-09-23T03:28:19.879Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "718ada95-234b-4ca7-a85b-d116689f195d",
+      "number": 8,
+      "content": "Anh em thân mến, một điều duy nhất, xin anh em đừng quên : đối với Chúa, một ngày ví thể ngàn năm, ngàn năm cũng tựa một ngày.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.893Z",
+      "updatedAt": "2024-09-23T03:28:19.893Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "8ed0a029-e34a-4293-bd5e-c02e7503bfa6",
+      "number": 9,
+      "content": "Chúa không chậm trễ thực hiện lời hứa, như có kẻ cho là Người chậm trễ. Kỳ thực, Người kiên nhẫn đối với anh em, vì Người không muốn cho ai phải diệt vong, nhưng muốn cho mọi người đi tới chỗ ăn năn hối cải.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.906Z",
+      "updatedAt": "2024-09-23T03:28:19.906Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "bee28f77-b324-4f4c-a2ce-651ddeefbecf",
+      "number": 10,
+      "content": "Nhưng ngày của Chúa sẽ đến như kẻ trộm. Ngày đó, các tầng trời sẽ ầm ầm sụp đổ, ngũ hành bốc cháy tiêu tan, mặt đất và các công trình trên đó sẽ bị thiêu huỷ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.930Z",
+      "updatedAt": "2024-09-23T03:28:19.930Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "e74c61e5-c997-4ffe-9081-28d851f15658",
+      "number": 11,
+      "content": "Muôn vật phải tiêu tan như thế, thì anh em phải là những người tốt dường nào, phải sống đạo đức và thánh thiện biết bao,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.954Z",
+      "updatedAt": "2024-09-23T03:28:19.954Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "f68013ab-896f-4f48-86dc-643ffb0c4679",
+      "number": 12,
+      "content": "trong khi mong đợi ngày của Thiên Chúa và làm cho ngày đó mau đến, ngày mà các tầng trời sẽ bị thiêu huỷ và ngũ hành sẽ chảy tan ra trong lửa hồng.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.973Z",
+      "updatedAt": "2024-09-23T03:28:19.973Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "aa6e74d2-6c76-409c-9f89-6098772118d4",
+      "number": 13,
+      "content": "Nhưng, theo lời Thiên Chúa hứa, *chúng ta mong đợi trời mới đất mới, nơi công lý ngự trị*.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.984Z",
+      "updatedAt": "2024-09-23T03:28:19.984Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "101e92f1-03de-49d4-ba6a-ffd72b88fe71",
+      "number": 14,
+      "content": "Vì thế, anh em thân mến, trong khi mong đợi ngày đó, anh em phải cố gắng sao cho Người thấy anh em tinh tuyền, không chi đáng trách và sống bình an.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:19.995Z",
+      "updatedAt": "2024-09-23T03:28:19.995Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "638e0f7c-e60c-4285-8af9-1b8882a52e0b",
+      "number": 15,
+      "content": "Và anh em hãy biết rằng Chúa chúng ta tỏ lòng kiên nhẫn chính là để anh em được cứu độ, như ông [Phao-lô](), người anh em thân mến của chúng ta, đã viết cho anh em, theo ơn khôn ngoan Thiên Chúa đã ban cho ông.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:20.002Z",
+      "updatedAt": "2024-09-23T03:28:20.002Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "c02aea32-b249-49c8-8a29-b6c9a7884489",
+      "number": 16,
+      "content": "Ông cũng nói như vậy trong tất cả các thư của ông, khi bàn đến các vấn đề này. Trong các thư ấy, có những chỗ khó hiểu ; những chỗ ấy cũng như những chỗ khác trong Kinh Thánh, bị những kẻ vô học và nông nổi xuyên tạc, khiến chúng phải chuốc lấy hoạ diệt vong.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:20.008Z",
+      "updatedAt": "2024-09-23T03:28:20.008Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "e143c6ac-564e-4507-8cb7-7d35e18d7a4a",
+      "number": 17,
+      "content": "Vậy, anh em thân mến, biết trước như thế, anh em hãy coi chừng kẻo bị những kẻ phạm pháp và lầm lạc lôi cuốn, mà không còn đứng vững nữa chăng.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:20.014Z",
+      "updatedAt": "2024-09-23T03:28:20.014Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "227113a0-e86d-4ec4-bc63-f1a9aa6c831a",
+      "number": 18,
+      "content": "Nhưng anh em hãy lớn lên trong ân sủng và trong sự hiểu biết Đức [Giê-su]() Ki-tô là Chúa và là Đấng cứu độ chúng ta. [Xin]() kính dâng Người vinh quang, bây giờ và cho đến muôn đời. A-men.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:28:20.019Z",
+      "updatedAt": "2024-09-23T03:28:20.019Z",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "baf9c128-c2fe-49e3-b496-27324ab9be39",
+      "content": "Những điều báo trước nói ở đây thuộc về giáo huấn Tông Đồ hơn là Cựu Ước (x. Cv 20,29 ; 2 Tm 3,1-5). Thư Giu-đa 17-18 nói : lời báo trước của các Tông Đồ. Trong câu này, các Tông Đồ được đặt song song với các ngôn sứ và tác giả nói như thể mình không thuộc về hàng ngũ các Tông Đồ nữa : một dấu hiệu cho thấy không phải chính thánh Phê-rô viết thư này.",
+      "position": 64,
+      "order": 0,
+      "createdAt": "2024-09-23T03:28:19.818Z",
+      "updatedAt": "2024-09-23T03:28:19.818Z",
+      "verseId": "85cf42ae-975a-40df-bbce-6c39fa1b7bca",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "2a3ae9b7-7b6f-48a1-8706-4ffd3a217d45",
+      "content": "X. Giu-đa. Sự xuất hiện của những người rối đạo là dấu hiệu thời sau hết đã gần (x. Mt 24,24 ; Cv 20,29-31 ; 2 Tx 2,3-4.9 ; 1 Tm 4,1...). Thời ấy đã bắt đầu (x. 1 Tm 2,6 ; Mc 1,15 ; Rm 3,26 ; 1 Cr 7,26 ; Ep 5,16 ; 6,13 ; Gc 5,3 ; 1 Ga 2,18 ; 4,1 ; 2 Ga 7).",
+      "position": 63,
+      "order": 1,
+      "createdAt": "2024-09-23T03:28:19.832Z",
+      "updatedAt": "2024-09-23T03:28:19.832Z",
+      "verseId": "6da64204-4b87-43e8-b577-33bcdbe25a2f",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "891b17ce-4881-46ac-b507-2e2023a12fb8",
+      "content": "*Các bậc cha ông* : Thế hệ Ki-tô hữu đầu tiên. Một bằng chứng nữa cho thấy tác giả thư 2 Phê-rô không hẳn là chính thánh Phê-rô.",
+      "position": 81,
+      "order": 2,
+      "createdAt": "2024-09-23T03:28:19.845Z",
+      "updatedAt": "2024-09-23T03:28:19.845Z",
+      "verseId": "0a0677d8-d8aa-4d74-8253-48a9ef20fe04",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "e727d4ed-c045-44ef-b6ad-f75580fe2e89",
+      "content": "X. St 1,2.6-9.",
+      "position": 105,
+      "order": 3,
+      "createdAt": "2024-09-23T03:28:19.858Z",
+      "updatedAt": "2024-09-23T03:28:19.858Z",
+      "verseId": "47bae6b7-2762-4993-a6e7-9e68d6c620c2",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "d985af2c-0c49-4532-913f-d039236144cb",
+      "content": "X. St 7-9 ; Mt 24,38-39.",
+      "position": 75,
+      "order": 4,
+      "createdAt": "2024-09-23T03:28:19.871Z",
+      "updatedAt": "2024-09-23T03:28:19.871Z",
+      "verseId": "2c9d7a04-2273-438a-be29-cc0331745bcc",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "b71998c2-a731-4265-9a29-ca3165b63669",
+      "content": "*Lửa phán xét* : x. Mt 3,12 ; 18,9 ; Is 66,24 ; Gđt 16,17 ; Hc 7,17 ; Xp 1,18 ; Tv 20,10.",
+      "position": 123,
+      "order": 5,
+      "createdAt": "2024-09-23T03:28:19.884Z",
+      "updatedAt": "2024-09-23T03:28:19.884Z",
+      "verseId": "12718b4c-bf3b-4669-85e3-ae919376e148",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "f4dbc682-2e0e-4b21-bca1-6f85af1d36d5",
+      "content": "X. Tv 90,4 Chúa là chủ thời gian.",
+      "position": 125,
+      "order": 6,
+      "createdAt": "2024-09-23T03:28:19.897Z",
+      "updatedAt": "2024-09-23T03:28:19.897Z",
+      "verseId": "718ada95-234b-4ca7-a85b-d116689f195d",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "78529b90-7693-42fd-b55f-ce48c76c90c6",
+      "content": "Chúa có vẻ chậm trễ : Lc 18,7 ; Kh 6,9-11 ; Mt 24,48 ; 25,5.13.",
+      "position": 70,
+      "order": 7,
+      "createdAt": "2024-09-23T03:28:19.910Z",
+      "updatedAt": "2024-09-23T03:28:19.910Z",
+      "verseId": "8ed0a029-e34a-4293-bd5e-c02e7503bfa6",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "4e1f08d0-bdfd-4ac8-94ca-5b30e7d2132d",
+      "content": "Chúa kiên nhẫn muốn người ta hối cải : Rm 2,4-5 ; 1 Pr 3,20 ; x. Kn 11,23...",
+      "position": 206,
+      "order": 8,
+      "createdAt": "2024-09-23T03:28:19.916Z",
+      "updatedAt": "2024-09-23T03:28:19.916Z",
+      "verseId": "8ed0a029-e34a-4293-bd5e-c02e7503bfa6",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "b5672ae6-1e05-4f53-bb1c-20e26e3161c8",
+      "content": "X. Mt 24,43... ; 1 Tx 5,2.",
+      "position": 38,
+      "order": 9,
+      "createdAt": "2024-09-23T03:28:19.935Z",
+      "updatedAt": "2024-09-23T03:28:19.935Z",
+      "verseId": "bee28f77-b324-4f4c-a2ce-651ddeefbecf",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "30cbf2f5-770b-4a78-a8e8-316c80634afa",
+      "content": "*Trời sụp đổ* : Mt 24,29. Bốc cháy thiêu huỷ : trong thế giới La-Hy, cũng như truyền thống khải huyền Do-thái, người ta nói nhiều về lửa tận thế (x. Is 66,24 ; Gđt 16,17 ; Hc 7,17 ; Mt 3,10 ; 7,19 ; 13,42 ; 18,8-9 ; Ga 15,6 ; Kh 14,10 ; 20,10.14 ; 21,8). Núi lửa với động đất là hình ảnh tận thế đối với họ. Đối với thế giới Nô-ê thì là lụt. Ở đây, tất cả những kiểu nói khải huyền ấy được dùng để diễn tả Ngày của Thiên Chúa.",
+      "position": 157,
+      "order": 10,
+      "createdAt": "2024-09-23T03:28:19.940Z",
+      "updatedAt": "2024-09-23T03:28:19.940Z",
+      "verseId": "bee28f77-b324-4f4c-a2ce-651ddeefbecf",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "b5d72e92-80f0-465c-89eb-b0555d36c16f",
+      "content": "Đối với mỗi người, giờ chết cũng là giờ Chúa đến, giờ tận thế, giờ phán xét.",
+      "position": 119,
+      "order": 11,
+      "createdAt": "2024-09-23T03:28:19.963Z",
+      "updatedAt": "2024-09-23T03:28:19.963Z",
+      "verseId": "e74c61e5-c997-4ffe-9081-28d851f15658",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "78eb641e-2496-41af-9281-8e6870922d45",
+      "content": "X. Cv 3,19-20. Người tín hữu nên thánh và thánh hoá thế gian là góp phần cho ngày Chúa thống trị mau đến, ngày chấm dứt thế giới cũ và khánh thành trời mới đất mới. X. Kinh Lạy Cha ; Kh 21,1-3 ; 22,12-21.",
+      "position": 65,
+      "order": 12,
+      "createdAt": "2024-09-23T03:28:19.977Z",
+      "updatedAt": "2024-09-23T03:28:19.977Z",
+      "verseId": "f68013ab-896f-4f48-86dc-643ffb0c4679",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "1a4f1f76-50f7-40a7-a474-2082222e5a05",
+      "content": "X. Is 65,17 ; 66,22 ; Kh 21,1. Thế giới cũ của tội lỗi đang qua đi, và Chúa Ki-tô đang xây dựng thế giới mới : 2 Cr 5,17 ; Gl 6,15 ; Cl 3,10 ; Mt 19,28 ; Mc 13,24-31.",
+      "position": 89,
+      "order": 13,
+      "createdAt": "2024-09-23T03:28:19.987Z",
+      "updatedAt": "2024-09-23T03:28:19.987Z",
+      "verseId": "aa6e74d2-6c76-409c-9f89-6098772118d4",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "991e04aa-3a0b-4077-8f27-4b872849795e",
+      "content": "X. Gđ 24.",
+      "position": 147,
+      "order": 14,
+      "createdAt": "2024-09-23T03:28:19.997Z",
+      "updatedAt": "2024-09-23T03:28:19.997Z",
+      "verseId": "101e92f1-03de-49d4-ba6a-ffd72b88fe71",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "6d67f36d-8d78-469d-95dd-d4dd2dd37347",
+      "content": "X. 1 Tm 1,15-16 ; Rm 2,4-5 ; 1 Tx 5,1-11.",
+      "position": 209,
+      "order": 15,
+      "createdAt": "2024-09-23T03:28:20.004Z",
+      "updatedAt": "2024-09-23T03:28:20.004Z",
+      "verseId": "638e0f7c-e60c-4285-8af9-1b8882a52e0b",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "104142e5-9fde-4a82-a0b0-1f79662ca992",
+      "content": "Chỉ dấu bấy giờ đã có một tập thư của thánh Phao-lô ; hơn nữa 2 Phê-rô và Giáo Hội tiên khởi coi tập thư của thánh Phao-lô là thành phần Kinh Thánh.",
+      "position": 174,
+      "order": 16,
+      "createdAt": "2024-09-23T03:28:20.010Z",
+      "updatedAt": "2024-09-23T03:28:20.010Z",
+      "verseId": "c02aea32-b249-49c8-8a29-b6c9a7884489",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "4ef2d05d-b917-4b91-b17d-003cf586c364",
+      "content": "Nhắc lại 1,19-21 : Người thì nói Chúa đâu có đến (3,4) ; người thì bảo Chúa đến rồi (2 Tx 2,1-3).",
+      "position": 258,
+      "order": 17,
+      "createdAt": "2024-09-23T03:28:20.012Z",
+      "updatedAt": "2024-09-23T03:28:20.012Z",
+      "verseId": "c02aea32-b249-49c8-8a29-b6c9a7884489",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "717b6ea9-a537-4021-a4d1-07564da7fc21",
+      "content": "Vinh tụng ca dâng lên Thiên Chúa (Rm 11,33-36 ; Gl 1,5 ; Pl 4,20 ; 1 Tm 1,17) ; nhờ Đức Ki-tô (Rm 16,27 ; 1 Pr 4,11a ; Gđ 25) ; cũng được dâng lên Đức Ki-tô (1 Tm 6,16 ; 2 Tm 4,18 ; Hr 13,21 ; 1 Pr 4,11 ; Kh 1,6) ; vì Người cũng là Thiên Chúa (Rm 9,5). Xem các câu kết lời nguyện phụng vụ.",
+      "position": 181,
+      "order": 18,
+      "createdAt": "2024-09-23T03:28:20.021Z",
+      "updatedAt": "2024-09-23T03:28:20.021Z",
+      "verseId": "227113a0-e86d-4ec4-bc63-f1a9aa6c831a",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    }
+  ],
+  "headings": [
+    {
+      "id": "a7648e36-8963-4bad-8d81-d74245676d86",
+      "content": "Ngày của Chúa : các ngôn sứ và Tông Đồ",
+      "order": 0,
+      "createdAt": "2024-09-23T03:28:19.814Z",
+      "updatedAt": "2024-09-23T03:28:19.814Z",
+      "verseId": "dc7bbc6d-f512-4125-8ffc-bf877da909a8",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "faaf4ed2-8b9c-4357-98bc-5f39c9b02ae8",
+      "content": "Các thầy dạy giả hiệu",
+      "order": 0,
+      "createdAt": "2024-09-23T03:28:19.828Z",
+      "updatedAt": "2024-09-23T03:28:19.828Z",
+      "verseId": "6da64204-4b87-43e8-b577-33bcdbe25a2f",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "e42a6726-87fc-4e41-9498-7c71096af454",
+      "content": "Lời kêu gọi sống thánh thiện. Vinh tụng ca.",
+      "order": 0,
+      "createdAt": "2024-09-23T03:28:19.958Z",
+      "updatedAt": "2024-09-23T03:28:19.958Z",
+      "verseId": "e74c61e5-c997-4ffe-9081-28d851f15658",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    }
+  ],
+  "references": [
+    {
+      "id": "0041dd62-2949-4643-ae49-e73db8d73fc5",
+      "content": "2 Pr 1,19-21; Gđ 17",
+      "position": 25,
+      "order": 0,
+      "createdAt": "2024-09-23T03:28:19.820Z",
+      "updatedAt": "2024-09-23T03:28:19.820Z",
+      "verseId": "85cf42ae-975a-40df-bbce-6c39fa1b7bca",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "307732c5-455b-4c1f-8948-802f7849236f",
+      "content": "1 Tm 4,1; Gđ 8",
+      "position": 39,
+      "order": 1,
+      "createdAt": "2024-09-23T03:28:19.836Z",
+      "updatedAt": "2024-09-23T03:28:19.836Z",
+      "verseId": "6da64204-4b87-43e8-b577-33bcdbe25a2f",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "24087c68-e589-4406-a1fc-5c6b9a94ae3d",
+      "content": "2 Pr 1,16; 2,1; Is 5,19",
+      "position": 35,
+      "order": 2,
+      "createdAt": "2024-09-23T03:28:19.849Z",
+      "updatedAt": "2024-09-23T03:28:19.849Z",
+      "verseId": "0a0677d8-d8aa-4d74-8253-48a9ef20fe04",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "2cbef0d9-5a1a-458e-9dc2-9cf47b1a90c4",
+      "content": "St 1,2.6-9",
+      "position": 47,
+      "order": 3,
+      "createdAt": "2024-09-23T03:28:19.862Z",
+      "updatedAt": "2024-09-23T03:28:19.862Z",
+      "verseId": "47bae6b7-2762-4993-a6e7-9e68d6c620c2",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "7d79dac0-6368-4cb2-ae73-1ca5005a32ea",
+      "content": "St 7–9; Mt 24,38-39",
+      "position": 66,
+      "order": 4,
+      "createdAt": "2024-09-23T03:28:19.875Z",
+      "updatedAt": "2024-09-23T03:28:19.875Z",
+      "verseId": "2c9d7a04-2273-438a-be29-cc0331745bcc",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "6688fb0e-b483-4bbf-a9d5-b14e45a1c641",
+      "content": "Mt 3,12; Rm 2,6",
+      "position": 62,
+      "order": 5,
+      "createdAt": "2024-09-23T03:28:19.888Z",
+      "updatedAt": "2024-09-23T03:28:19.888Z",
+      "verseId": "12718b4c-bf3b-4669-85e3-ae919376e148",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "22affaea-e670-47ff-bbd0-72685775fe97",
+      "content": "Tv 90,4",
+      "position": 73,
+      "order": 6,
+      "createdAt": "2024-09-23T03:28:19.901Z",
+      "updatedAt": "2024-09-23T03:28:19.901Z",
+      "verseId": "718ada95-234b-4ca7-a85b-d116689f195d",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "2ccb4d7a-f272-464e-8e76-9e25863f16f5",
+      "content": "Hc 35,19; Lc 18,7; Kh 2,2-3",
+      "position": 11,
+      "order": 7,
+      "createdAt": "2024-09-23T03:28:19.921Z",
+      "updatedAt": "2024-09-23T03:28:19.921Z",
+      "verseId": "8ed0a029-e34a-4293-bd5e-c02e7503bfa6",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "8fbb4db5-c005-4f03-be40-fc56f3fa1f2e",
+      "content": "Rm 2,4-5; 1 Pr 3,20",
+      "position": 87,
+      "order": 8,
+      "createdAt": "2024-09-23T03:28:19.925Z",
+      "updatedAt": "2024-09-23T03:28:19.925Z",
+      "verseId": "8ed0a029-e34a-4293-bd5e-c02e7503bfa6",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "c7e25d24-272b-4f49-9236-04c0abedd5fe",
+      "content": "Mt 24,43; 1 Tx 5,2",
+      "position": 23,
+      "order": 9,
+      "createdAt": "2024-09-23T03:28:19.945Z",
+      "updatedAt": "2024-09-23T03:28:19.945Z",
+      "verseId": "bee28f77-b324-4f4c-a2ce-651ddeefbecf",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "6c3fce60-9eb8-4a78-8618-447afee6d8b1",
+      "content": "Mt 24,29; Kh 20,11; 21,1",
+      "position": 108,
+      "order": 10,
+      "createdAt": "2024-09-23T03:28:19.949Z",
+      "updatedAt": "2024-09-23T03:28:19.949Z",
+      "verseId": "bee28f77-b324-4f4c-a2ce-651ddeefbecf",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "c0ffc16f-064b-440e-9786-f3d393ce8cea",
+      "content": "Cv 3,19-20",
+      "position": 83,
+      "order": 11,
+      "createdAt": "2024-09-23T03:28:19.968Z",
+      "updatedAt": "2024-09-23T03:28:19.968Z",
+      "verseId": "e74c61e5-c997-4ffe-9081-28d851f15658",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "72f66190-11a5-4352-b999-ccf2560cd25f",
+      "content": "Is 34,4",
+      "position": 79,
+      "order": 12,
+      "createdAt": "2024-09-23T03:28:19.981Z",
+      "updatedAt": "2024-09-23T03:28:19.981Z",
+      "verseId": "f68013ab-896f-4f48-86dc-643ffb0c4679",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "787e5a4f-10c8-4669-b910-717eb4636f25",
+      "content": "Is 65,17; 66,22; Kh 21,1.2.7",
+      "position": 51,
+      "order": 13,
+      "createdAt": "2024-09-23T03:28:19.990Z",
+      "updatedAt": "2024-09-23T03:28:19.990Z",
+      "verseId": "aa6e74d2-6c76-409c-9f89-6098772118d4",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "6c44d40f-7bf8-44ea-8757-9b3e49e36a9f",
+      "content": "Is 60,21; Rm 8,19",
+      "position": 73,
+      "order": 14,
+      "createdAt": "2024-09-23T03:28:19.992Z",
+      "updatedAt": "2024-09-23T03:28:19.992Z",
+      "verseId": "aa6e74d2-6c76-409c-9f89-6098772118d4",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "372a1e7b-11b4-4368-b6bc-90b049154d77",
+      "content": "Gđ 24",
+      "position": 99,
+      "order": 15,
+      "createdAt": "2024-09-23T03:28:19.999Z",
+      "updatedAt": "2024-09-23T03:28:19.999Z",
+      "verseId": "101e92f1-03de-49d4-ba6a-ffd72b88fe71",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "30598a19-ae17-47ca-890c-18b1f07fe81f",
+      "content": "1 Tm 1,15-16",
+      "position": 80,
+      "order": 16,
+      "createdAt": "2024-09-23T03:28:20.006Z",
+      "updatedAt": "2024-09-23T03:28:20.006Z",
+      "verseId": "638e0f7c-e60c-4285-8af9-1b8882a52e0b",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "1e3e4e02-6aec-4bf6-9796-6cdc900e40af",
+      "content": "Hr 2,1",
+      "position": 100,
+      "order": 17,
+      "createdAt": "2024-09-23T03:28:20.017Z",
+      "updatedAt": "2024-09-23T03:28:20.017Z",
+      "verseId": "e143c6ac-564e-4507-8cb7-7d35e18d7a4a",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    },
+    {
+      "id": "edae179a-4d1d-4fd7-a081-65be69585ada",
+      "content": "Rm 16,27",
+      "position": 126,
+      "order": 18,
+      "createdAt": "2024-09-23T03:28:20.023Z",
+      "updatedAt": "2024-09-23T03:28:20.023Z",
+      "verseId": "227113a0-e86d-4ec4-bc63-f1a9aa6c831a",
+      "chapterId": "fb9308ce-cf14-4be7-87ad-b7707f60d5f7"
+    }
+  ],
+  "psalmMetadata": []
+}

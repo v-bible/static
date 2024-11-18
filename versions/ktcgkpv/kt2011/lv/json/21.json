@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00",
+    "number": 21,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.188Z",
+    "updatedAt": "2024-09-23T03:08:02.188Z",
+    "bookId": "9590527f-f01b-475f-91ef-af1b0b73c8df"
+  },
+  "verses": [
+    {
+      "id": "c27305ca-7ad5-4f7f-bd33-b673821392fb",
+      "number": 1,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:34.998Z",
+      "updatedAt": "2024-09-23T03:42:34.998Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "f98e3cc3-de2d-495f-a02d-f5ecf116c74d",
+      "number": 3,
+      "content": "Một người chị em còn trinh, vẫn là người gần nhất với nó, vì chưa thuộc về một người đàn ông, thì nó có thể làm cho mình ra ô uế vì người ấy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.022Z",
+      "updatedAt": "2024-09-23T03:42:35.022Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "e5be1aaa-3ebe-4585-a70a-b384719f4d79",
+      "number": 4,
+      "content": "Vì là người đứng đầu trong dòng họ mình, nó không được làm cho mình ra ô uế mà trở nên phàm tục.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.031Z",
+      "updatedAt": "2024-09-23T03:42:35.031Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "48e3bcba-5449-4472-bef4-d2f6dbed8233",
+      "number": 5,
+      "content": "Các tư tế không được cạo đầu và cắt riềm râu, không được rạch mình.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.040Z",
+      "updatedAt": "2024-09-23T03:42:35.040Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "70879800-0342-49bc-bd8f-7d5881fdd179",
+      "number": 6,
+      "content": "Chúng sẽ được thánh hiến cho Thiên Chúa của chúng và không được xúc phạm đến danh Thiên Chúa của chúng, vì chúng là những người tiến dâng lên [ĐỨC CHÚA]() các lễ hoả tế, là thức ăn dành cho Thiên Chúa của chúng ; chúng phải sống thánh thiện.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.049Z",
+      "updatedAt": "2024-09-23T03:42:35.049Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "70ee1350-6b5c-4f77-b42c-4ff08ee03274",
+      "number": 7,
+      "content": "Chúng không được lấy một gái điếm hay một người đàn bà bị làm nhục, chúng không được lấy một người đàn bà bị chồng bỏ, vì tư tế được thánh hiến cho Thiên Chúa của mình.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.058Z",
+      "updatedAt": "2024-09-23T03:42:35.058Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "94dee0ee-499e-4367-9890-cc0a45b47be9",
+      "number": 8,
+      "content": "Ngươi phải coi nó là thánh, vì nó là người tiến dâng thức ăn dành cho Thiên Chúa của ngươi : đối với ngươi, nó sẽ là thánh, vì Ta là Đấng Thánh, Ta, [ĐỨC CHÚA](), Đấng thánh hoá các ngươi.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.071Z",
+      "updatedAt": "2024-09-23T03:42:35.071Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "0e617bcc-5d2a-46e1-854c-a8d369b71ee0",
+      "number": 9,
+      "content": "Nếu con gái của một tư tế làm nhục chính mình mà đi làm điếm, thì nó làm nhục chính cha nó ; nó phải bị bỏ vào lửa mà thiêu.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.081Z",
+      "updatedAt": "2024-09-23T03:42:35.081Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "028eae6e-ff3f-48dc-8d51-70bcebe0ef71",
+      "number": 10,
+      "content": "Tư tế lớn nhất trong hàng anh em nó, người đã được đổ dầu tấn phong lên đầu và được trao quyền khi mặc phẩm phục, thì không được xoã tóc và xé áo,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.085Z",
+      "updatedAt": "2024-09-23T03:42:35.085Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "b760152e-f304-43fe-b0ad-344d9233cbd2",
+      "number": 11,
+      "content": "không được đến gần người chết nào, và không được làm cho mình ra ô uế, dù vì cha hay vì mẹ mình.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.097Z",
+      "updatedAt": "2024-09-23T03:42:35.097Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "c4b68d53-b09b-4f17-9255-b754addb6134",
+      "number": 12,
+      "content": "Nó không được ra khỏi thánh điện và không được xúc phạm đến thánh điện của Thiên Chúa nó, vì nó đã được dầu tấn phong của Thiên Chúa nó ghi dấu trên mình. Ta là [ĐỨC CHÚA]().",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.101Z",
+      "updatedAt": "2024-09-23T03:42:35.101Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "e0be5993-268f-4fc6-8b18-4712a303733a",
+      "number": 13,
+      "content": "Nó sẽ cưới một người nữ còn trinh.",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.106Z",
+      "updatedAt": "2024-09-23T03:42:35.106Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "83a101cb-877e-4f3a-aa7f-18e2d4d2d1ff",
+      "number": 14,
+      "content": "Đàn bà goá hay bị chồng bỏ, người bị làm nhục hay làm điếm, những người đó nó không được lấy, mà chỉ được lấy một trinh nữ trong gia tộc mình làm vợ ;",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.110Z",
+      "updatedAt": "2024-09-23T03:42:35.110Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "4596a01a-e952-403b-bdf4-30ca09e72150",
+      "number": 15,
+      "content": "như vậy, nó sẽ không làm nhục dòng dõi nó trong gia tộc nó, vì Ta là [ĐỨC CHÚA](), Đấng thánh hoá nó.”",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.114Z",
+      "updatedAt": "2024-09-23T03:42:35.114Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "9b335147-f5e2-4604-87c5-576c145cd7ba",
+      "number": 16,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() rằng :",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.123Z",
+      "updatedAt": "2024-09-23T03:42:35.123Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "807ef5e1-de7e-4d9b-baa8-b079ec50aba1",
+      "number": 17,
+      "content": "“Hãy nói với [A-ha-ron]() : Qua các thế hệ, người đàn ông nào trong dòng dõi ngươi có tật, thì không được lại gần để tiến dâng thức ăn dành cho Thiên Chúa của nó.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.135Z",
+      "updatedAt": "2024-09-23T03:42:35.135Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "685183ad-f1f9-44d8-b59c-0eeeb0aeed36",
+      "number": 18,
+      "content": "Thật vậy, bất cứ người nào có tật không được lại gần : người đui mù, què quặt, dị tướng, dị hình,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.142Z",
+      "updatedAt": "2024-09-23T03:42:35.142Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "92c9d5ee-ea66-461c-a30b-dddafb582223",
+      "number": 19,
+      "content": "người bị gãy chân gãy tay,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.145Z",
+      "updatedAt": "2024-09-23T03:42:35.145Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "3bdd911b-7ea5-4ba6-861b-f87672a04f73",
+      "number": 20,
+      "content": "gù, còi, bị đốm ở mắt, ghẻ, hắc lào, hay bị giập tinh hoàn.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.148Z",
+      "updatedAt": "2024-09-23T03:42:35.148Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "5f34da7c-607e-4327-a3a0-27fbc26bba5e",
+      "number": 21,
+      "content": "Bất cứ người đàn ông nào trong dòng dõi tư tế [A-ha-ron]() có tật, thì không được đến gần để tiến dâng các lễ hoả tế lên [ĐỨC CHÚA]() ; nó có tật, nó không được đến gần để tiến dâng thức ăn dành cho Thiên Chúa của nó.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.150Z",
+      "updatedAt": "2024-09-23T03:42:35.150Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "e31d4122-8b35-41d5-9462-76cfb6c493ce",
+      "number": 22,
+      "content": "Thức ăn dành cho Thiên Chúa của nó, những của rất thánh, và những của thánh, nó được ăn,",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.153Z",
+      "updatedAt": "2024-09-23T03:42:35.153Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "c424f86e-a0fa-468e-8fe4-0e51d0513d18",
+      "number": 23,
+      "content": "nhưng nó không được tới chỗ màn trướng, không được đến gần bàn thờ, vì nó có tật ; như vậy nó sẽ không xúc phạm đến các nơi thánh của Ta, vì Ta là [ĐỨC CHÚA](), Đấng thánh hoá những nơi ấy.”",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.156Z",
+      "updatedAt": "2024-09-23T03:42:35.156Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "34e57fc9-8689-4d71-967c-cbe9cb6760e4",
+      "number": 24,
+      "content": "Ông [Mô-sê]() nói thế với ông [A-ha-ron](), với các con ông này và toàn thể con cái [Ít-ra-en]().",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:42:35.158Z",
+      "updatedAt": "2024-09-23T03:42:35.158Z",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "f6493897-0bf9-40c9-bd78-6e670be73cf5",
+      "content": "Nhiệm vụ của hàng tư tế là làm trung gian giữa dân và Thiên Chúa hằng sống và thánh thiện. Vì thế họ phải tránh tối đa những gì liên quan đến sự chết (x. 10,6+), kể cả những cái trần tục hoặc đã bị tục hoá (21,1-15). Cũng vì thế, một phần tử bệnh hoạn trong gia đình tư tế sẽ vĩnh viễn không được thi hành chức vụ thánh (21,16-24) ; và khi một tư tế đang mắc dơ cũng bị cấm không được ăn của thánh (22,1-16).",
+      "position": 29,
+      "order": 0,
+      "createdAt": "2024-09-23T03:42:35.013Z",
+      "updatedAt": "2024-09-23T03:42:35.013Z",
+      "headingId": "d28a0a1a-d3f1-47b1-ad05-c3732cbaf300",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "eb92d6eb-fb8c-4765-a8b3-58fad9bab89a",
+      "content": "Xuất giá tòng phu, người vợ nên xương thịt của chồng (St 2,23), nên cắt đứt liên hệ pháp lý với gia đình bố mẹ ruột.",
+      "position": 56,
+      "order": 1,
+      "createdAt": "2024-09-23T03:42:35.026Z",
+      "updatedAt": "2024-09-23T03:42:35.026Z",
+      "verseId": "f98e3cc3-de2d-495f-a02d-f5ecf116c74d",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "ebc7d685-e646-476e-a178-5517d09bb1ab",
+      "content": "Thay vì “là người đứng đầu”, có bản dịch “vì người phụ nữ có chồng”. Ý nghĩa câu này không rõ ; bản văn đã thất truyền.",
+      "position": 20,
+      "order": 2,
+      "createdAt": "2024-09-23T03:42:35.036Z",
+      "updatedAt": "2024-09-23T03:42:35.036Z",
+      "verseId": "e5be1aaa-3ebe-4585-a70a-b384719f4d79",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "831efce2-f265-4611-9f1e-d46cc262c326",
+      "content": "Ở đây tư tế được phép cưới một quả phụ, trong khi Ed 44,22 ngặt hơn, chỉ cho phép cưới quả phụ của một tư tế khác.",
+      "position": 167,
+      "order": 3,
+      "createdAt": "2024-09-23T03:42:35.063Z",
+      "updatedAt": "2024-09-23T03:42:35.063Z",
+      "verseId": "70ee1350-6b5c-4f77-b42c-4ff08ee03274",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "38155595-a865-4e26-af2b-1daea2d7c45e",
+      "content": "Về nghi thức tấn phong, x. ch. 8. Vì nên một xương thịt với người vợ không thuộc về chi tộc được tuyển chọn, vị thượng tế có thể tục hoá thánh điện và di truyền một dòng máu phàm tục trong dòng họ mình. Như thế, vì địa vị của mình, thượng tế phải tránh cả những trường hợp luật cho phép các tư tế như là luật trừ.",
+      "position": 100,
+      "order": 4,
+      "createdAt": "2024-09-23T03:42:35.119Z",
+      "updatedAt": "2024-09-23T03:42:35.119Z",
+      "verseId": "4596a01a-e952-403b-bdf4-30ca09e72150",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "2b18e0a3-5d58-4580-8969-372de38edfc9",
+      "content": "Bệnh tật của người tư tế như là trái nghịch với sự nguyên tuyền và thánh thiện của Thiên Chúa, Đấng đã tạo thành vũ trụ vật chất này nguyên là tốt đẹp (x. 21,1tđ).",
+      "position": 161,
+      "order": 5,
+      "createdAt": "2024-09-23T03:42:35.139Z",
+      "updatedAt": "2024-09-23T03:42:35.139Z",
+      "verseId": "807ef5e1-de7e-4d9b-baa8-b079ec50aba1",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    }
+  ],
+  "headings": [
+    {
+      "id": "d28a0a1a-d3f1-47b1-ad05-c3732cbaf300",
+      "content": "Sự thánh thiện của hàng tư tế",
+      "order": 0,
+      "createdAt": "2024-09-23T03:42:35.008Z",
+      "updatedAt": "2024-09-23T03:42:35.008Z",
+      "verseId": "c27305ca-7ad5-4f7f-bd33-b673821392fb",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "e3d27c40-b13e-4727-b2eb-2ce3ccbaab4f",
+      "content": "B. Thượng tế",
+      "order": 0,
+      "createdAt": "2024-09-23T03:42:35.089Z",
+      "updatedAt": "2024-09-23T03:42:35.089Z",
+      "verseId": "028eae6e-ff3f-48dc-8d51-70bcebe0ef71",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "b8bda1fa-b870-4766-93e8-2a4d348d8508",
+      "content": "C. Những trường hợp không được làm tư tế",
+      "order": 0,
+      "createdAt": "2024-09-23T03:42:35.131Z",
+      "updatedAt": "2024-09-23T03:42:35.131Z",
+      "verseId": "9b335147-f5e2-4604-87c5-576c145cd7ba",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "86ad4a22-1f58-40de-80f8-5f5bbb977c52",
+      "content": "A. Các tư tế",
+      "order": 1,
+      "createdAt": "2024-09-23T03:42:35.018Z",
+      "updatedAt": "2024-09-23T03:42:35.018Z",
+      "verseId": "c27305ca-7ad5-4f7f-bd33-b673821392fb",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    }
+  ],
+  "references": [
+    {
+      "id": "f1dc6995-0b25-4bdf-8c36-51b60d1dc26e",
+      "content": "Lv 19,27-28",
+      "position": 21,
+      "order": 1,
+      "createdAt": "2024-09-23T03:42:35.044Z",
+      "updatedAt": "2024-09-23T03:42:35.044Z",
+      "verseId": "48e3bcba-5449-4472-bef4-d2f6dbed8233",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "1286ac55-1ad0-49cb-9de3-b3c44e0e4ecd",
+      "content": "Lv 1,9",
+      "position": 162,
+      "order": 2,
+      "createdAt": "2024-09-23T03:42:35.053Z",
+      "updatedAt": "2024-09-23T03:42:35.053Z",
+      "verseId": "70879800-0342-49bc-bd8f-7d5881fdd179",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "6d01cab2-9b41-405f-8218-22af062fffd8",
+      "content": "Ed 44,22",
+      "position": 109,
+      "order": 3,
+      "createdAt": "2024-09-23T03:42:35.067Z",
+      "updatedAt": "2024-09-23T03:42:35.067Z",
+      "verseId": "70ee1350-6b5c-4f77-b42c-4ff08ee03274",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "8883455e-56f3-4600-8a2c-84d2be4650f1",
+      "content": "Lv 11,44; 17,1+",
+      "position": 117,
+      "order": 4,
+      "createdAt": "2024-09-23T03:42:35.076Z",
+      "updatedAt": "2024-09-23T03:42:35.076Z",
+      "verseId": "94dee0ee-499e-4367-9890-cc0a45b47be9",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    },
+    {
+      "id": "40a25591-8d1a-4e85-bfd4-03c6168de484",
+      "content": "Lv 8,7-12",
+      "position": 51,
+      "order": 5,
+      "createdAt": "2024-09-23T03:42:35.093Z",
+      "updatedAt": "2024-09-23T03:42:35.093Z",
+      "verseId": "028eae6e-ff3f-48dc-8d51-70bcebe0ef71",
+      "chapterId": "2cc157a3-63fe-4bb9-8568-bfb0b7b7ef00"
+    }
+  ],
+  "psalmMetadata": []
+}

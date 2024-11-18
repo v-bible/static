@@ -1,0 +1,356 @@
+{
+  "chapter": {
+    "id": "855f581e-706f-4add-b072-a55e3a698d31",
+    "number": 64,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.366Z",
+    "updatedAt": "2024-09-23T03:08:02.366Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+  },
+  "verses": [
+    {
+      "id": "259645e9-9371-4491-bd2f-3cc6015eeb95",
+      "number": 1,
+      "content": "*Phần ca trưởng. Thánh vịnh. Của vua [Đa-vít]().*",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:16:31.794Z",
+      "updatedAt": "2024-09-23T04:16:31.794Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "1fc1f2a4-6ecf-42a2-ab01-231a53a1628f",
+      "number": 2,
+      "content": "Lạy Chúa Trời, xin nghe tiếng thở than,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.802Z",
+      "updatedAt": "2024-09-23T04:16:31.802Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "174f68ca-4b7c-44f2-8a13-48218a683f98",
+      "number": 2,
+      "content": "gìn giữ mạng con khỏi quân thù khủng bố,",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.804Z",
+      "updatedAt": "2024-09-23T04:16:31.804Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "f16386fe-e80c-4888-9763-a52d728cfca5",
+      "number": 3,
+      "content": "Này kẻ ác mưu đồ, chúng ồn ào tác hại, xin giấu kỹ con đi.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.806Z",
+      "updatedAt": "2024-09-23T04:16:31.806Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "e6f7bd23-0d75-40c7-b09c-e08d50af356f",
+      "number": 4,
+      "content": "Chúng mài lưỡi như mài gươm sắc,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.808Z",
+      "updatedAt": "2024-09-23T04:16:31.808Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "28cc4068-f111-43d1-9a08-78438f5295a8",
+      "number": 4,
+      "content": "lời thâm độc tựa tên lắp vào cung,",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.811Z",
+      "updatedAt": "2024-09-23T04:16:31.811Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "99af7201-99df-4df5-91e8-866c69047dc6",
+      "number": 5,
+      "content": "bắn trộm người vô tội,",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.819Z",
+      "updatedAt": "2024-09-23T04:16:31.819Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "633d4e1d-ae59-437f-aa35-914bed3c340c",
+      "number": 5,
+      "content": "bắn thình lình mà chẳng sợ chi.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.823Z",
+      "updatedAt": "2024-09-23T04:16:31.823Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "d630f078-d62f-4c76-b723-3fb61aea7180",
+      "number": 6,
+      "content": "Chúng quyết tâm làm điều độc dữ,",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.830Z",
+      "updatedAt": "2024-09-23T04:16:31.830Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "764549fd-907c-487c-93ac-18c247319aad",
+      "number": 6,
+      "content": "bàn luận xem gài bẫy thế nào,",
+      "order": 1,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.833Z",
+      "updatedAt": "2024-09-23T04:16:31.833Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "ddfdc4d2-eab8-4537-ad75-89373c435818",
+      "number": 6,
+      "content": "rồi nhỏ to : “Ai mà thấy được ?”",
+      "order": 2,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.838Z",
+      "updatedAt": "2024-09-23T04:16:31.838Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "0f386c9a-2dff-47de-9137-f090fdf6e154",
+      "number": 7,
+      "content": "Bày kế lập mưu làm điều ác,",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.840Z",
+      "updatedAt": "2024-09-23T04:16:31.840Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "1509208d-a68e-4d5a-afa1-2cb741ec1528",
+      "number": 7,
+      "content": "chúng hoàn thành kế hoạch đã mưu toan.",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.843Z",
+      "updatedAt": "2024-09-23T04:16:31.843Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "6f24d197-92c1-4fcf-91c3-3655f1027ca5",
+      "number": 7,
+      "content": "Thâm hiểm biết bao lòng dạ người đời !",
+      "order": 2,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.845Z",
+      "updatedAt": "2024-09-23T04:16:31.845Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "f6f11cc6-2cee-4bbf-8c8b-01a76ab28499",
+      "number": 8,
+      "content": "Nhưng Thiên Chúa lại bắn tên vào chúng,",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.847Z",
+      "updatedAt": "2024-09-23T04:16:31.847Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "2764f383-6de3-496b-a767-ad29e9c81881",
+      "number": 8,
+      "content": "thình lình chúng đã bị trúng thương.",
+      "order": 1,
+      "parNumber": 15,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.849Z",
+      "updatedAt": "2024-09-23T04:16:31.849Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "32d63f68-8cc4-4ecf-8e14-c4ded048e7df",
+      "number": 9,
+      "content": "Tấc lưỡi mình hại mình là thế !",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.851Z",
+      "updatedAt": "2024-09-23T04:16:31.851Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "a6fd1971-a07d-4294-8155-dd0dcb57dd63",
+      "number": 9,
+      "content": "Thiên hạ xem, ai cũng lắc đầu.",
+      "order": 1,
+      "parNumber": 17,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.853Z",
+      "updatedAt": "2024-09-23T04:16:31.853Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "358c03bf-c9e8-4e31-abb6-14a764f13f9b",
+      "number": 10,
+      "content": "Hết thảy mọi người đều kính sợ,",
+      "order": 0,
+      "parNumber": 18,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.857Z",
+      "updatedAt": "2024-09-23T04:16:31.857Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "da168ccd-bd16-45f8-b3c9-4750d2f9df40",
+      "number": 10,
+      "content": "họ sẽ loan truyền hành động của Thiên Chúa",
+      "order": 1,
+      "parNumber": 19,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.861Z",
+      "updatedAt": "2024-09-23T04:16:31.861Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "ddf22bca-cf9c-4497-9be7-c80298f329b4",
+      "number": 10,
+      "content": "và hiểu ngay những việc Người làm.",
+      "order": 2,
+      "parNumber": 20,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.866Z",
+      "updatedAt": "2024-09-23T04:16:31.866Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "22ec2116-d1a5-4faf-ae5d-7db51f8460ae",
+      "number": 11,
+      "content": "Người công chính sẽ vui mừng trong CHÚA",
+      "order": 0,
+      "parNumber": 21,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.870Z",
+      "updatedAt": "2024-09-23T04:16:31.870Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "c3679121-9ef1-4b4a-8aa1-ec571e1cb833",
+      "number": 11,
+      "content": "và ẩn náu bên Người.",
+      "order": 1,
+      "parNumber": 22,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.874Z",
+      "updatedAt": "2024-09-23T04:16:31.874Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "54fbd559-e579-436c-81d0-4428ee279dd4",
+      "number": 11,
+      "content": "Mọi tấm lòng chính trực đều lấy thế làm vinh.",
+      "order": 2,
+      "parNumber": 23,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:31.879Z",
+      "updatedAt": "2024-09-23T04:16:31.879Z",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "14a8aa60-e8b8-442a-a2bd-963a4f7c58db",
+      "content": "*Ai ca này của cá nhân* bắt đầu với lời tác giả khẩn nài Thiên Chúa bảo vệ tính mạng mình khỏi quân thù tìm cách làm hại (cc. 2-3). Rồi sau khi miêu tả ý đồ và những hành động độc ác của họ (cc. 4-7), tác giả cho thấy Thiên Chúa ra tay can thiệp để chống lại họ (cc. 8-10). Thánh vịnh kết thúc bằng một câu diễn tả niềm vui của người công chính (c.11).",
+      "position": 53,
+      "order": 0,
+      "createdAt": "2024-09-23T04:16:31.800Z",
+      "updatedAt": "2024-09-23T04:16:31.800Z",
+      "headingId": "0484b70a-8187-446f-a3c5-987e05333bf1",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "630b2d25-8af7-44e7-95c3-9628282ff80c",
+      "content": "*Lưỡi* ác nhân được ví như *gươm sắc* : *Chúng mài lưỡi như mài gươm sắc* (c.4) : x. Tv 55,22 ; 57,5 ; 59,8. *Lời* của ác nhân cũng tựa mũi *tên* (c.4b). Ác nhân bắn tên vào người vô tội, nghĩa là đưa ra những lời độc địa chống lại người công chính (cc. 4-5). Nhưng mũi tên Thiên Chúa bắn vào chúng làm chúng phải bị thương (cc. 8-9). Đó là cách diễn tả ý tưởng *gậy ông lại đập lưng ông* (x. Tv 7,16-17 ; 35,8 ; 141,10). Ý tưởng này cũng nằm trong một vài cuốn Sách Thánh thuộc văn chương giáo huấn : Cn 26,27 ; Gv 10,8-9 ; Hc 27,25-27 ; Kn 11,16.",
+      "position": 30,
+      "order": 1,
+      "createdAt": "2024-09-23T04:16:31.827Z",
+      "updatedAt": "2024-09-23T04:16:31.827Z",
+      "verseId": "633d4e1d-ae59-437f-aa35-914bed3c340c",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    }
+  ],
+  "headings": [
+    {
+      "id": "0484b70a-8187-446f-a3c5-987e05333bf1",
+      "content": "Tv 64 (63) Cầu xin Thiên Chúa giúp đối phó với kẻ thù",
+      "order": 0,
+      "createdAt": "2024-09-23T04:16:31.798Z",
+      "updatedAt": "2024-09-23T04:16:31.798Z",
+      "verseId": "259645e9-9371-4491-bd2f-3cc6015eeb95",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    }
+  ],
+  "references": [
+    {
+      "id": "8a1cd1a8-4856-4503-b352-696f1caf83e0",
+      "content": "Tv 11,2; Gr 9,2",
+      "position": 21,
+      "order": 0,
+      "createdAt": "2024-09-23T04:16:31.815Z",
+      "updatedAt": "2024-09-23T04:16:31.815Z",
+      "verseId": "28cc4068-f111-43d1-9a08-78438f5295a8",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    },
+    {
+      "id": "72cfeace-b0a4-4118-bd9e-27bda600c0c9",
+      "content": "Is 29,15",
+      "position": 13,
+      "order": 1,
+      "createdAt": "2024-09-23T04:16:31.835Z",
+      "updatedAt": "2024-09-23T04:16:31.835Z",
+      "verseId": "764549fd-907c-487c-93ac-18c247319aad",
+      "chapterId": "855f581e-706f-4add-b072-a55e3a698d31"
+    }
+  ],
+  "psalmMetadata": []
+}

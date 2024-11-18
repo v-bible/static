@@ -1,0 +1,275 @@
+{
+  "chapter": {
+    "id": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.366Z",
+    "updatedAt": "2024-09-23T03:08:02.366Z",
+    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+  },
+  "verses": [
+    {
+      "id": "7311a0d5-1022-458c-84ce-f04f953ecdd7",
+      "number": 1,
+      "content": "*Thánh vịnh. Của vua [Đa-vít](), khi vua chạy trốn con mình là [Áp-sa-lôm]().*",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:16:34.191Z",
+      "updatedAt": "2024-09-23T04:16:34.191Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "c93c88f4-a27c-4357-94d9-0442b10409c1",
+      "number": 2,
+      "content": "Lạy CHÚA, thù địch con đông vô kể,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.204Z",
+      "updatedAt": "2024-09-23T04:16:34.204Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "223a25ba-ef09-4ab2-bcd2-6a101b451026",
+      "number": 2,
+      "content": "người nổi dậy chống con thật quá nhiều !",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.207Z",
+      "updatedAt": "2024-09-23T04:16:34.207Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "83c9a4c8-d601-4fd9-8713-d4663a3b6a4a",
+      "number": 3,
+      "content": "Quá nhiều kẻ đang nói về con : “Chúa Trời đâu cứu hắn !”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.209Z",
+      "updatedAt": "2024-09-23T04:16:34.209Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "37a80bbf-be8a-4c2b-b891-75facb60651d",
+      "number": 4,
+      "content": "Nhưng lạy CHÚA, chính Ngài là khiên che thuẫn đỡ,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.214Z",
+      "updatedAt": "2024-09-23T04:16:34.214Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "ab66bacf-5fe7-45f2-8826-a5c2806e3d7b",
+      "number": 4,
+      "content": "là vinh dự của con,",
+      "order": 1,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.216Z",
+      "updatedAt": "2024-09-23T04:16:34.216Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "20808a2e-1c72-4d4d-b29a-99e14417ef32",
+      "number": 4,
+      "content": "là Đấng cho con được ngẩng đầu bất khuất.",
+      "order": 2,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.218Z",
+      "updatedAt": "2024-09-23T04:16:34.218Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "68383ccf-7937-4b3f-937b-45462adf3c7a",
+      "number": 5,
+      "content": "Tôi vừa cất tiếng kêu lên cùng CHÚA,",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.220Z",
+      "updatedAt": "2024-09-23T04:16:34.220Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "ddd69401-4e66-48f6-931a-a4aa22535703",
+      "number": 5,
+      "content": "Chúa liền đáp lại từ núi thánh của Người.",
+      "order": 1,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.222Z",
+      "updatedAt": "2024-09-23T04:16:34.222Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "44f670ce-395e-4c71-adfe-460b04255959",
+      "number": 6,
+      "content": "Tôi nằm xuống và tôi thiếp ngủ,",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.224Z",
+      "updatedAt": "2024-09-23T04:16:34.224Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "96173036-0dec-4de9-a9fb-a7c4fb10c81c",
+      "number": 6,
+      "content": "rồi thức dậy, vì CHÚA đỡ nâng tôi.",
+      "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.226Z",
+      "updatedAt": "2024-09-23T04:16:34.226Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "5d591fa2-a309-49de-ac0f-b94f90a5aa44",
+      "number": 7,
+      "content": "Tôi chẳng còn phải sợ",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.231Z",
+      "updatedAt": "2024-09-23T04:16:34.231Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "f57fd2bb-1d9b-4eca-aa90-bf63609bbabb",
+      "number": 7,
+      "content": "lũ người đông vô số đang vây bọc quanh tôi.",
+      "order": 1,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.233Z",
+      "updatedAt": "2024-09-23T04:16:34.233Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "f11ad620-8681-4237-95a3-2cb825606b50",
+      "number": 8,
+      "content": "Lạy CHÚA, xin trỗi dậy,",
+      "order": 0,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.235Z",
+      "updatedAt": "2024-09-23T04:16:34.235Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "47159571-be68-47b8-bc61-ec16ff07776e",
+      "number": 8,
+      "content": "cứu lấy con, lạy Thiên Chúa con thờ.",
+      "order": 1,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.237Z",
+      "updatedAt": "2024-09-23T04:16:34.237Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "f895abf9-7e94-40fd-9c65-af2f66db3fb4",
+      "number": 8,
+      "content": "Mọi kẻ thù con, Ngài đánh vỡ mặt,",
+      "order": 2,
+      "parNumber": 15,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.241Z",
+      "updatedAt": "2024-09-23T04:16:34.241Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "836c7eac-36b9-45c7-9aa4-ad28f7a526ee",
+      "number": 8,
+      "content": "bọn gian ác, Ngài đập gẫy răng.",
+      "order": 3,
+      "parNumber": 16,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.244Z",
+      "updatedAt": "2024-09-23T04:16:34.244Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "5c60b38d-7c19-4774-97b1-ceeed29baeff",
+      "number": 9,
+      "content": "CHÚA chính là nguồn ơn cứu độ,",
+      "order": 0,
+      "parNumber": 17,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.246Z",
+      "updatedAt": "2024-09-23T04:16:34.246Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "353a4a33-5cf7-47b1-8d6a-a0930775e0f3",
+      "number": 9,
+      "content": "xin ban phúc lộc cho dân Ngài.",
+      "order": 1,
+      "parNumber": 18,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:16:34.249Z",
+      "updatedAt": "2024-09-23T04:16:34.249Z",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1dcba61a-27db-42cd-8574-640d173db484",
+      "content": "Tv 3 nằm trong số những *Thánh vịnh tín nhiệm*. Bố cục : **1**) Lời phàn nàn kêu ca về những thù địch nổi dậy chống đối tác giả Tv (cc. 2-3) ; **2**) Lòng tin tưởng vào Thiên Chúa (c.4) ; **3**) Lòng trông cậy tuyệt đối vào Thiên Chúa luôn nâng đỡ (cc. 5-7) ; **4**) Lời cầu nguyện kết thúc : xin ơn giải cứu (cc. 8-9). – Trong Tv 3 này, câu nào cũng nói đến *Chúa*, trừ c.7 ; trong mọi câu, tác giả đều dùng ngôi thứ nhất, trừ c.9 (*dân Ngài*).",
+      "position": 49,
+      "order": 0,
+      "createdAt": "2024-09-23T04:16:34.202Z",
+      "updatedAt": "2024-09-23T04:16:34.202Z",
+      "headingId": "cf681d0c-ea2f-496a-8255-f112ebc73304",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    },
+    {
+      "id": "1955c21a-277f-44e5-9a2d-bcc84d37e557",
+      "content": "Suốt đêm, tác giả ngủ bình an, rồi *thức dậy*. Như thế, sự kiện này có nghĩa là tác giả nhận thấy không có chuyện gì đã xảy ra ban đêm, không có sự gì đã đến quấy nhiễu hay đe doạ mình. Lý do : Thiên Chúa đã nâng đỡ, gìn giữ chở che cho tác giả được an toàn. Nhiều Giáo phụ áp dụng c.6 này cho Đức Giê-su trong mầu nhiệm Vượt Qua : Người cũng bị bao kẻ thù bủa vây ; nhưng Thiên Chúa luôn phù trợ Người, cách riêng trong đêm thương khó, kết thúc bằng sự sống lại.",
+      "position": 33,
+      "order": 1,
+      "createdAt": "2024-09-23T04:16:34.228Z",
+      "updatedAt": "2024-09-23T04:16:34.228Z",
+      "verseId": "96173036-0dec-4de9-a9fb-a7c4fb10c81c",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    }
+  ],
+  "headings": [
+    {
+      "id": "cf681d0c-ea2f-496a-8255-f112ebc73304",
+      "content": "Tv 3 [ĐỨC CHÚA]() là Đấng bảo vệ người công chính",
+      "order": 0,
+      "createdAt": "2024-09-23T04:16:34.200Z",
+      "updatedAt": "2024-09-23T04:16:34.200Z",
+      "verseId": "7311a0d5-1022-458c-84ce-f04f953ecdd7",
+      "chapterId": "2fc1dd9c-ca7f-46db-b7bf-a75793936cd5"
+    }
+  ],
+  "references": [],
+  "psalmMetadata": []
+}

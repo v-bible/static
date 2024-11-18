@@ -1,0 +1,599 @@
+{
+  "chapter": {
+    "id": "de9f99b6-908d-4757-9a55-a651e4b17857",
+    "number": 6,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.190Z",
+    "updatedAt": "2024-09-23T03:08:02.190Z",
+    "bookId": "298a093d-7767-4d51-aae8-532d00f0a187"
+  },
+  "verses": [
+    {
+      "id": "438b4abc-de00-48b3-ba1f-8886f661a4d6",
+      "number": 1,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() rằng :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.225Z",
+      "updatedAt": "2024-09-23T03:43:36.225Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "2ba09222-fbdd-4e53-9a73-3982bf004201",
+      "number": 2,
+      "content": "“Ngươi hãy nói với con cái [Ít-ra-en]() và bảo chúng :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.239Z",
+      "updatedAt": "2024-09-23T03:43:36.239Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "2fab9b4e-6561-4ea9-9848-4227bf1f68d2",
+      "number": 4,
+      "content": "Suốt thời gian nó bị ràng buộc bởi lời khấn đó, thì bất cứ thứ gì chiết xuất tự cây nho, từ hột nho cho đến vỏ nho, nó cũng không được ăn.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.241Z",
+      "updatedAt": "2024-09-23T03:43:36.241Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "ff2d293e-c7f7-4a1b-a49a-c1c63dc1bae4",
+      "number": 5,
+      "content": "Suốt thời gian nó bị ràng buộc bởi lời khấn, dao cạo không được đụng đến đầu nó ; bao lâu chưa mãn thời kỳ khấn đặc biệt để kính [ĐỨC CHÚA](), thì nó sẽ là người được thánh hiến : nó phải để cho tóc trên đầu mọc tự nhiên.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.245Z",
+      "updatedAt": "2024-09-23T03:43:36.245Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "59650369-2dcd-4cd2-9645-f60be2668c47",
+      "number": 6,
+      "content": "Suốt thời kỳ khấn đặc biệt để kính [ĐỨC CHÚA](), nó không được tới gần xác chết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.251Z",
+      "updatedAt": "2024-09-23T03:43:36.251Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "af171f18-1f89-40d6-b66a-b8c5262bd586",
+      "number": 7,
+      "content": "Dù là cha mẹ hay anh chị em nó chết, nó cũng không được để cho mình nhiễm uế, bởi vì nó mang trên đầu lời khấn na-dia kính Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.254Z",
+      "updatedAt": "2024-09-23T03:43:36.254Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f594c166-d8f4-4c72-b285-c2be997a1eae",
+      "number": 8,
+      "content": "Suốt thời kỳ khấn đặc biệt, nó sẽ là người được thánh hiến cho [ĐỨC CHÚA]().",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.258Z",
+      "updatedAt": "2024-09-23T03:43:36.258Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "1aa43e58-3d93-4b59-8fac-43176a4c3464",
+      "number": 9,
+      "content": "Nếu có ai chết bất ngờ bên cạnh nó, khiến cho đầu na-dia của nó bị nhiễm uế, thì nó phải cạo đầu trong ngày tẩy uế ; ngày thứ bảy nó sẽ cạo đầu.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.262Z",
+      "updatedAt": "2024-09-23T03:43:36.262Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "0bd92ae9-7c97-4087-93a7-e0d3801c7a3c",
+      "number": 10,
+      "content": "Ngày thứ tám nó sẽ mang một cặp chim gáy hay một cặp bồ câu trao cho tư tế ở cửa Lều Hội Ngộ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.268Z",
+      "updatedAt": "2024-09-23T03:43:36.268Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "d199b97e-5380-42d2-976f-1878ccebacd5",
+      "number": 11,
+      "content": "Tư tế sẽ dâng một con làm lễ tạ tội, một con làm lễ toàn thiêu, và sẽ làm nghi thức xá tội ô uế nó mắc phải vì người chết. Chính hôm đó nó sẽ thánh hiến đầu mình,",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.272Z",
+      "updatedAt": "2024-09-23T03:43:36.272Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "84111b05-5b2a-431d-8041-0a7b1b956f3b",
+      "number": 12,
+      "content": "nó sẽ lại khấn đặc biệt kiêng giữ để kính [ĐỨC CHÚA]() và đưa một con chiên một tuổi tới làm lễ vật đền tội. Thời gian trước đó không được kể vì lời khấn na-dia đã bị vi phạm.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.276Z",
+      "updatedAt": "2024-09-23T03:43:36.276Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "cad35d2b-89c0-4386-bd1f-778716f7d16a",
+      "number": 13,
+      "content": "Và đây là luật về người khấn na-dia : trong ngày mãn thời kỳ khấn na-dia, nó sẽ vào cửa Lều Hội Ngộ",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.281Z",
+      "updatedAt": "2024-09-23T03:43:36.281Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "34dcbf57-29c1-492b-a550-259a1550b6a9",
+      "number": 14,
+      "content": "và đem lễ tiến dâng [ĐỨC CHÚA]() : một chiên đực một tuổi, toàn vẹn, làm lễ toàn thiêu, một chiên cái một tuổi, toàn vẹn, làm lễ tạ tội, một con dê đực toàn vẹn làm lễ kỳ an,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.283Z",
+      "updatedAt": "2024-09-23T03:43:36.283Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "d52f1bd0-ebeb-4151-90a5-b6bca63b56ca",
+      "number": 15,
+      "content": "một rổ bánh không men làm bằng tinh bột nhào dầu, bánh tráng không men tẩm dầu, cùng với các lễ phẩm ngũ cốc và rượu tế kèm theo.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.288Z",
+      "updatedAt": "2024-09-23T03:43:36.288Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "1fbe21be-dec9-4050-bd34-0e793afdf82f",
+      "number": 16,
+      "content": "Tư tế sẽ đưa những lễ vật ấy tới trước nhan [ĐỨC CHÚA]() để dâng lễ tạ tội và lễ toàn thiêu của nó.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.290Z",
+      "updatedAt": "2024-09-23T03:43:36.290Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "72ae8309-860c-4a0b-a22a-4a29fe6bdf34",
+      "number": 17,
+      "content": "Con chiên đực, ông sẽ sát tế để làm lễ kỳ an kính [ĐỨC CHÚA]() cùng với rổ bánh không men, đồng thời tư tế cũng dâng lễ phẩm ngũ cốc và rượu tế.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.293Z",
+      "updatedAt": "2024-09-23T03:43:36.293Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "981154ab-96ec-4e4a-beda-64f7ed8ec124",
+      "number": 18,
+      "content": "Người na-dia sẽ cạo đầu trước cửa Lều Hội Ngộ theo lời khấn, và lấy tóc đã được thánh hiến của mình mà bỏ vào lửa đang cháy dưới của lễ kỳ an.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.296Z",
+      "updatedAt": "2024-09-23T03:43:36.296Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f149d7ed-a7ac-4c20-b3dd-528486da72f9",
+      "number": 19,
+      "content": "Khi bả vai của con dê đã chín, thì tư tế lấy bả vai đó, cùng với một chiếc bánh không men trong rổ và một bánh tráng không men, và đặt các thứ đó vào tay người na-dia, sau khi người này đã cạo đầu theo lời khấn.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.302Z",
+      "updatedAt": "2024-09-23T03:43:36.302Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "3b6b725a-bd2b-442b-8394-7831e19f3cfb",
+      "number": 20,
+      "content": "Rồi tư tế tiến dâng các thứ ấy trước nhan [ĐỨC CHÚA](), theo nghi thức : đó là của thánh dành cho tư tế, không kể cái ức đã được tiến dâng theo nghi thức và phần đùi được giữ lại. Từ đó, người na-dia được phép uống rượu.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.306Z",
+      "updatedAt": "2024-09-23T03:43:36.306Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "d822cfc6-76d7-4019-846e-5100d8244c3d",
+      "number": 21,
+      "content": "Đó là luật về người khấn na-dia. Lễ tiến của nó dâng cho [ĐỨC CHÚA]() phải theo đúng lời khấn na-dia, ngoài ra nó có thể tuỳ khả năng mình mà dâng thêm. Nó đã khấn theo luật na-dia thế nào, thì phải giữ như vậy.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.313Z",
+      "updatedAt": "2024-09-23T03:43:36.313Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "0fffef81-5fc4-429f-ae7c-cdb512eece79",
+      "number": 22,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() :",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.317Z",
+      "updatedAt": "2024-09-23T03:43:36.317Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "2caf15db-c56d-4df7-85b8-4da2c3f5feeb",
+      "number": 23,
+      "content": "“Hãy nói với [A-ha-ron]() và các con nó rằng : Khi chúc lành cho con cái [Ít-ra-en](), anh em hãy nói thế này :",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.329Z",
+      "updatedAt": "2024-09-23T03:43:36.329Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "8110e471-c240-47b9-8757-4b54c4946bf0",
+      "number": 24,
+      "content": "‘Nguyện [ĐỨC CHÚA]() chúc lành và gìn giữ anh (em) !",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.333Z",
+      "updatedAt": "2024-09-23T03:43:36.333Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f3693ef6-7bf2-498b-a8d4-347b93951030",
+      "number": 25,
+      "content": "Nguyện [ĐỨC CHÚA]() tươi nét mặt nhìn đến anh (em) và rủ lòng thương anh (em) !",
+      "order": 0,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.348Z",
+      "updatedAt": "2024-09-23T03:43:36.348Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "34d7c695-cf8c-48b3-b575-7987df186060",
+      "number": 26,
+      "content": "Nguyện [ĐỨC CHÚA]() ghé mắt nhìn và ban bình an cho anh (em) !’",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.359Z",
+      "updatedAt": "2024-09-23T03:43:36.359Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "98dc9af7-4b3a-4e76-9099-9250c01e79cb",
+      "number": 27,
+      "content": "Chúc như thế là đặt con cái [Ít-ra-en]() dưới quyền bảo trợ của danh Ta, và Ta, Ta sẽ chúc lành cho chúng.”",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:43:36.378Z",
+      "updatedAt": "2024-09-23T03:43:36.378Z",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "44a0934d-2ad2-4028-88ed-942e49cd6358",
+      "content": "Lời khấn na-dia có lẽ nguyên thuỷ liên can đến cuộc thánh chiến. Sau thời lưu đày, bộ luật tư tế đã sửa đổi thành quy chế dành cho bất cứ người nào muốn dâng hiến đặc biệt kính Đức Chúa khi tuân giữ một số điều cấm kỵ. Có trường hợp dâng hiến cả đời như Sam-sôn (Tl 13,5-7 ; 16,17). Có trường hợp dâng hiến tạm thời như trong Am 2,11-12 ; 1 Mcb 3,49. Ở đây, bản văn không nói đến thời gian giữ lời khấn na-dia, mà chỉ đưa ra ba điều cấm kỵ, mô tả ngày mãn lời khấn phải dâng tiến lễ toàn thiêu, lễ tạ tội và lễ kỳ an. Trong Tân Ước, có hai lần nói đến khấn na-dia (Cv 18,18 và 21,23-27) ; nhưng đó lại là khấn tạm thời, vì nhắc đến ngày mãn hạn. Chỉ có thánh Gio-an Tẩy Giả được kể như khấn trọn đời, cho dù ông không hề được gán cho danh hiệu na-dia.",
+      "position": 23,
+      "order": 0,
+      "createdAt": "2024-09-23T03:43:36.237Z",
+      "updatedAt": "2024-09-23T03:43:36.237Z",
+      "headingId": "beac1ea2-5716-4167-92a8-b164d26156a3",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f10e479e-133e-427d-b8fc-1e7b02c7e022",
+      "content": "Đầu tóc mọc dài là dấu chỉ người khấn na-dia dâng hiến cho Thiên Chúa (x. Tl 13,5 ; 16,17 ; 1 Sm 1,11). Lời khấn này xuất phát từ phong tục sê-mít thời xưa liên quan đến chiến tranh : các chiến sĩ buông xoã tóc (x. Tl 5,2), như dấu chỉ sức mạnh (Đnl 32,42). Nhưng ở đây không liên quan đến chiến tranh, vì lời khấn dành cho cả nữ giới.",
+      "position": 220,
+      "order": 2,
+      "createdAt": "2024-09-23T03:43:36.247Z",
+      "updatedAt": "2024-09-23T03:43:36.247Z",
+      "verseId": "ff2d293e-c7f7-4a1b-a49a-c1c63dc1bae4",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "5e2339cb-752f-40b0-9eac-b95147b76f6c",
+      "content": "Việc kiêng cữ này cũng không liên hệ đến chiến tranh (x. 31,19), vì người ta đòi các chiến sĩ phải thanh tẩy ở ngoài trại. Điều kiêng cữ này nhắm đến sự thánh thiện của toàn dân, bởi dân đã thuộc về Thiên Chúa.",
+      "position": 79,
+      "order": 3,
+      "createdAt": "2024-09-23T03:43:36.253Z",
+      "updatedAt": "2024-09-23T03:43:36.253Z",
+      "verseId": "59650369-2dcd-4cd2-9645-f60be2668c47",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "4dcf2807-b958-4a9f-afa1-fcaef91c1203",
+      "content": "Tóc dài tượng trưng cho sự dâng hiến, nhưng cũng có nghĩa là triều thiên như của vua hay của thượng tế (x. Xh 29,6 ; 39,30 ; Lv 8,19 ; 21,12).",
+      "position": 101,
+      "order": 4,
+      "createdAt": "2024-09-23T03:43:36.256Z",
+      "updatedAt": "2024-09-23T03:43:36.256Z",
+      "verseId": "af171f18-1f89-40d6-b66a-b8c5262bd586",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "65c4139d-1274-4d32-b0bd-8c86e0c407c8",
+      "content": "Nhiễm uế vì vô ý được nêu lên ở đây, còn trường hợp cố ý thì luật không nói đến.",
+      "position": 75,
+      "order": 5,
+      "createdAt": "2024-09-23T03:43:36.264Z",
+      "updatedAt": "2024-09-23T03:43:36.264Z",
+      "verseId": "1aa43e58-3d93-4b59-8fac-43176a4c3464",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "da94ac87-d94f-42dd-bff4-00ee5e63b086",
+      "content": "Cạo đầu là dấu thanh tẩy.",
+      "position": 143,
+      "order": 6,
+      "createdAt": "2024-09-23T03:43:36.266Z",
+      "updatedAt": "2024-09-23T03:43:36.266Z",
+      "verseId": "1aa43e58-3d93-4b59-8fac-43176a4c3464",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "79dcd7b1-db90-42f9-be8e-191f4a559067",
+      "content": "Về các lễ dâng để thanh tẩy x. Lv 12,6-8 ; 14,19.22.30-31 ; 15,14-15.29-30.",
+      "position": 59,
+      "order": 7,
+      "createdAt": "2024-09-23T03:43:36.270Z",
+      "updatedAt": "2024-09-23T03:43:36.270Z",
+      "verseId": "0bd92ae9-7c97-4087-93a7-e0d3801c7a3c",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "a8af4640-d55a-48ed-a2a3-d23f708dbf63",
+      "content": "Khi đầu đã được thanh tẩy, người khấn na-dia bắt đầu lại lời hứa của mình.",
+      "position": 156,
+      "order": 8,
+      "createdAt": "2024-09-23T03:43:36.274Z",
+      "updatedAt": "2024-09-23T03:43:36.274Z",
+      "verseId": "d199b97e-5380-42d2-976f-1878ccebacd5",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "66dcc0c7-3fdb-4a21-8b2d-f0405a993996",
+      "content": "Về các lễ tiến x. Lv 1,10 ; 3,1.6 ; 4,32 ; 5,6 ; 7,11-12.",
+      "position": 19,
+      "order": 9,
+      "createdAt": "2024-09-23T03:43:36.285Z",
+      "updatedAt": "2024-09-23T03:43:36.285Z",
+      "verseId": "34dcbf57-29c1-492b-a550-259a1550b6a9",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "c30f72e4-55c5-4b8e-bcd0-c8d9b67cff34",
+      "content": "Tóc của na-dia đã được thánh hiến, nên người ta phải đốt đi tránh mọi xúc phạm.",
+      "position": 123,
+      "order": 10,
+      "createdAt": "2024-09-23T03:43:36.299Z",
+      "updatedAt": "2024-09-23T03:43:36.299Z",
+      "verseId": "981154ab-96ec-4e4a-beda-64f7ed8ec124",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "5fee3055-1c25-4369-994f-e4e641b2187c",
+      "content": "Chúc lành không phải chỉ dành cho giới tư tế. Tất cả những ai có quyền đều có thể chúc lành cho kẻ dưới quyền ; chẳng hạn : người cha chúc lành cho con cái (St 27), anh em trai chúc lành cho chị em gái (St 24,60), nhà vua chúc lành cho bề tôi (2 Sm 6,18 ; 1 V 8,55). Tư tế có vai trò quan trọng trong truyền thống Tư Tế, thường chúc lành cho dân chúng (Lv 9,22). Nhưng người ta cũng không quy định rõ tư tế phải chúc lành vào lúc nào. Có lẽ khi dân chúng tụ họp ở thánh điện (x. Tv 115,12-15 và 118,26). Ở đây, dân chúng giữ luật thanh sạch, nên Đức Chúa đáp lại tấm lòng tinh tuyền của họ mà ban phúc lành cho họ qua ông A-ha-ron và các con ông. Bản văn này có thể do truyền thống truyền khẩu trước thời lưu đày, nhưng được chải chuốt cho thi vị hơn (x. Tv 67,1 ; Hc 50,20-21).",
+      "position": 19,
+      "order": 11,
+      "createdAt": "2024-09-23T03:43:36.325Z",
+      "updatedAt": "2024-09-23T03:43:36.325Z",
+      "headingId": "f5804846-e2cb-4575-95e3-26ec990e46fa",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f2198c04-d083-4579-b624-68d067a8b08f",
+      "content": "Danh Đức Chúa được kêu cầu ba lần bảo đảm với Ít-ra-en rằng Thiên Chúa hiện diện ở giữa họ và gìn giữ họ. Đây cũng là một truyền thống xưa được thực hành sau thời lưu đày (x. 2 Sm 6,18 ; 1 V 8,14 ; Đnl 10,8 ; 21,5).",
+      "position": 20,
+      "order": 12,
+      "createdAt": "2024-09-23T03:43:36.337Z",
+      "updatedAt": "2024-09-23T03:43:36.337Z",
+      "verseId": "8110e471-c240-47b9-8757-4b54c4946bf0",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "605cc69b-e792-4f21-9335-9eb6b3f3fff7",
+      "content": "Truyền thống văn chương phụng vụ luôn đặt Ít-ra-en ở ngôi thứ hai số ít, nhất là trong Đệ nhị luật. Bản dịch của chúng tôi để ở số nhiều cho hợp với tâm tình người Việt Nam hơn.",
+      "position": 50,
+      "order": 13,
+      "createdAt": "2024-09-23T03:43:36.340Z",
+      "updatedAt": "2024-09-23T03:43:36.340Z",
+      "verseId": "8110e471-c240-47b9-8757-4b54c4946bf0",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "c6cd33ee-e1b5-4ec3-a4af-980d66b2e61a",
+      "content": "Biểu tượng lòng nhân từ của Đức Chúa. Quan niệm này có lẽ xuất phát từ cuộc thần hiện khi cử hành phụng vụ.",
+      "position": 32,
+      "order": 14,
+      "createdAt": "2024-09-23T03:43:36.352Z",
+      "updatedAt": "2024-09-23T03:43:36.352Z",
+      "verseId": "f3693ef6-7bf2-498b-a8d4-347b93951030",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "e00f3405-2296-4a7d-88ab-4aca44e81165",
+      "content": "Đó là thái độ ban ơn của Đức Chúa (x. Tv 33,18 ; 34,16). Khi gặp cơn khốn quẫn, người ta tưởng rằng Thiên Chúa che giấu mặt đi và bỏ rơi dân Người (x. Đnl 31,18 ; Tv 30,8 ; 44,25 ; 104,29). Từ “bình an” trong tiếng Híp-ri có nghĩa mạnh hơn : “Tràn đầy hạnh phúc.”",
+      "position": 32,
+      "order": 15,
+      "createdAt": "2024-09-23T03:43:36.363Z",
+      "updatedAt": "2024-09-23T03:43:36.363Z",
+      "verseId": "34d7c695-cf8c-48b3-b575-7987df186060",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "756063cf-0351-47c1-9c48-0b1c7d78a71c",
+      "content": "Nhờ lặp lại danh Đức Chúa ba lần, dân ý thức rằng mình là dân Giao Ước mang danh Đức Chúa (x. Is 43,7 ; Gr 15,16). Nhờ có giao ước, phúc lành được hứa ban cho dân (x. Đnl 7,13-14 ; 28,1-14).",
+      "position": 71,
+      "order": 16,
+      "createdAt": "2024-09-23T03:43:36.383Z",
+      "updatedAt": "2024-09-23T03:43:36.383Z",
+      "verseId": "98dc9af7-4b3a-4e76-9099-9250c01e79cb",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    }
+  ],
+  "headings": [
+    {
+      "id": "beac1ea2-5716-4167-92a8-b164d26156a3",
+      "content": "Luật về lời khấn na-dia",
+      "order": 0,
+      "createdAt": "2024-09-23T03:43:36.234Z",
+      "updatedAt": "2024-09-23T03:43:36.234Z",
+      "verseId": "438b4abc-de00-48b3-ba1f-8886f661a4d6",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "f5804846-e2cb-4575-95e3-26ec990e46fa",
+      "content": "Công thức chúc lành",
+      "order": 0,
+      "createdAt": "2024-09-23T03:43:36.321Z",
+      "updatedAt": "2024-09-23T03:43:36.321Z",
+      "verseId": "0fffef81-5fc4-429f-ae7c-cdb512eece79",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    }
+  ],
+  "references": [
+    {
+      "id": "d89d7e00-cae4-4f71-b015-32d71fa2eb97",
+      "content": "Gr 35,2-6; Am 2,12",
+      "position": 80,
+      "order": 1,
+      "createdAt": "2024-09-23T03:43:36.243Z",
+      "updatedAt": "2024-09-23T03:43:36.243Z",
+      "verseId": "2fab9b4e-6561-4ea9-9848-4227bf1f68d2",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "c9c4b79d-f440-407b-9a55-23e4367f320d",
+      "content": "Tl 13,5; 16,17",
+      "position": 45,
+      "order": 2,
+      "createdAt": "2024-09-23T03:43:36.249Z",
+      "updatedAt": "2024-09-23T03:43:36.249Z",
+      "verseId": "ff2d293e-c7f7-4a1b-a49a-c1c63dc1bae4",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "7d224f85-05b1-4c0f-8997-f779404fae71",
+      "content": "Lv 21,12; Cv 21,23-26",
+      "position": 13,
+      "order": 3,
+      "createdAt": "2024-09-23T03:43:36.260Z",
+      "updatedAt": "2024-09-23T03:43:36.260Z",
+      "verseId": "f594c166-d8f4-4c72-b285-c2be997a1eae",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "79f9144a-2749-4b13-9688-4b8ad0174338",
+      "content": "Lv 14,21-31",
+      "position": 93,
+      "order": 4,
+      "createdAt": "2024-09-23T03:43:36.278Z",
+      "updatedAt": "2024-09-23T03:43:36.278Z",
+      "verseId": "84111b05-5b2a-431d-8041-0a7b1b956f3b",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "712ad052-5b78-42bc-a7f5-de2179b1e749",
+      "content": "Lv 7,34; 10,14",
+      "position": 118,
+      "order": 5,
+      "createdAt": "2024-09-23T03:43:36.310Z",
+      "updatedAt": "2024-09-23T03:43:36.310Z",
+      "verseId": "3b6b725a-bd2b-442b-8394-7831e19f3cfb",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "eaf74193-cbfa-4dc9-9ae0-3901761753ac",
+      "content": "Xh 23,20; Tv 121,7-8; Ga 17,11-12",
+      "position": 34,
+      "order": 6,
+      "createdAt": "2024-09-23T03:43:36.344Z",
+      "updatedAt": "2024-09-23T03:43:36.344Z",
+      "verseId": "8110e471-c240-47b9-8757-4b54c4946bf0",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "2d23d1a5-fa02-454b-a146-e31251ba7530",
+      "content": "Tv 4,7; 31,17",
+      "position": 20,
+      "order": 7,
+      "createdAt": "2024-09-23T03:43:36.355Z",
+      "updatedAt": "2024-09-23T03:43:36.355Z",
+      "verseId": "f3693ef6-7bf2-498b-a8d4-347b93951030",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "c08db252-0d1b-4da4-91fc-47ca8d748c4f",
+      "content": "Tv 122,6tt; Ga 14,27",
+      "position": 40,
+      "order": 8,
+      "createdAt": "2024-09-23T03:43:36.370Z",
+      "updatedAt": "2024-09-23T03:43:36.370Z",
+      "verseId": "34d7c695-cf8c-48b3-b575-7987df186060",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    },
+    {
+      "id": "235dffcc-2d8a-42c2-a608-4702a6146a0b",
+      "content": "Đnl 28,10; Hc 50,20-21",
+      "position": 64,
+      "order": 9,
+      "createdAt": "2024-09-23T03:43:36.388Z",
+      "updatedAt": "2024-09-23T03:43:36.388Z",
+      "verseId": "98dc9af7-4b3a-4e76-9099-9250c01e79cb",
+      "chapterId": "de9f99b6-908d-4757-9a55-a651e4b17857"
+    }
+  ],
+  "psalmMetadata": []
+}

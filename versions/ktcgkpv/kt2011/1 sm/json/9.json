@@ -1,0 +1,578 @@
+{
+  "chapter": {
+    "id": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8",
+    "number": 9,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.198Z",
+    "updatedAt": "2024-09-23T03:08:02.198Z",
+    "bookId": "1cbdf270-d55b-48d7-82d1-3f51d1d0981d"
+  },
+  "verses": [
+    {
+      "id": "322eef35-8836-430d-b0fe-6d4b7d62d378",
+      "number": 1,
+      "content": "Có một người thuộc chi tộc [Ben-gia-min]() tên là [Kít](), con ông [A-vi-ên]() ; ông [A-vi-ên]() là con ông [Xơ-ro]() ; ông [Xơ-ro]() là con ông [Bơ-khô-rát]() ; ông [Bơ-khô-rát]() là con ông [A-phi-ác]() ; ông [A-phi-ác]() là con một người [Ben-gia-min](). Ông [Kít]() là một người có thế giá.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.224Z",
+      "updatedAt": "2024-09-23T03:53:16.224Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "fcbafbec-3c64-4c33-8a24-e41e2f3bc9e4",
+      "number": 2,
+      "content": "Ông có một người con trai tên là [Sa-un](), một người trẻ và đẹp trai ; trong số con cái [Ít-ra-en](), không có người nào đẹp trai hơn ông. Ông cao hơn toàn dân từ vai trở lên.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.241Z",
+      "updatedAt": "2024-09-23T03:53:16.241Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "5ff2be84-5935-4cd4-b20d-118d334182cc",
+      "number": 3,
+      "content": "Các con lừa cái của ông [Kít](), cha ông [Sa-un](), bị lạc ; ông [Kít]() bảo ông [Sa-un](), con ông : “Con hãy đem một trong các người đầy tớ đi với con và lên đường đi tìm lừa.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.247Z",
+      "updatedAt": "2024-09-23T03:53:16.247Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "e2a46a3b-1c9a-42e6-94d7-f9620a673520",
+      "number": 4,
+      "content": "Ông [Sa-un]() đi qua miền núi [Ép-ra-im](), rồi đi qua đất [Sa-li-sa](), mà không tìm thấy. Họ đi qua đất [Sa-a-lim]() : cũng không thấy gì. Ông đi qua đất [Ben-gia-min](), mà không tìm thấy.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.249Z",
+      "updatedAt": "2024-09-23T03:53:16.249Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "18879b49-95a0-4a46-a43a-1b063cdbdaab",
+      "number": 5,
+      "content": "Khi họ đến đất [Xúp](), ông [Sa-un]() nói với người đầy tớ đi với mình : “Nào, chúng ta hãy trở về, kẻo cha tôi không còn nghĩ đến lừa mà lại lo cho chúng ta.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.251Z",
+      "updatedAt": "2024-09-23T03:53:16.251Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "00033a11-7dd0-4202-93e2-345128169c1b",
+      "number": 6,
+      "content": "Người đầy tớ nói với ông : “Này, trong thành kia có một người của Thiên Chúa ; ông là người có uy tín : tất cả những gì ông nói đều chắc chắn xảy ra. Bây giờ chúng ta hãy đi đến đó. May ra ông ấy sẽ chỉ cho chúng ta phải đi đường nào.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.253Z",
+      "updatedAt": "2024-09-23T03:53:16.253Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "d977b426-28f9-48b7-b8d7-48881a8de86a",
+      "number": 7,
+      "content": "Ông [Sa-un]() nói với người đầy tớ : “Được, chúng ta đi ! Nhưng chúng ta sẽ đem gì đến biếu ông ấy ? Bị chúng ta hết bánh rồi, chúng ta không có quà đem biếu người của Thiên Chúa. Chúng ta có gì nào ?”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.259Z",
+      "updatedAt": "2024-09-23T03:53:16.259Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "9b66d2ce-9a3c-415e-93e7-bf0b6cfb731e",
+      "number": 8,
+      "content": "Người đầy tớ lại trả lời ông [Sa-un]() : “Đây tôi có sẵn trong tay một chỉ bạc. Tôi sẽ tặng người của Thiên Chúa và ông ấy sẽ chỉ cho chúng ta con đường của chúng ta.”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.264Z",
+      "updatedAt": "2024-09-23T03:53:16.264Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "b8550a45-b6b3-4f5e-b24a-78c8061977f4",
+      "number": 10,
+      "content": "Ông [Sa-un]() nói với đầy tớ : “Anh nói phải. Nào chúng ta đi !” Rồi họ đi đến thành trong đó có người của Thiên Chúa.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.266Z",
+      "updatedAt": "2024-09-23T03:53:16.266Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "4b0ddab8-a694-489d-ba3c-9c795f235c1c",
+      "number": 11,
+      "content": "Họ đang lên dốc dẫn đến thành thì gặp những cô gái đi ra múc nước ; họ hỏi các cô : “Thầy thị kiến có ở đây không ?”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.268Z",
+      "updatedAt": "2024-09-23T03:53:16.268Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "c2fba331-cf41-41bf-b697-71e8896f5645",
+      "number": 12,
+      "content": "Các cô trả lời họ rằng : “Có, ngay trước mặt ông kia kìa, ông đi mau lên, vì hôm nay ông ấy đến thành, và hôm nay có hy lễ cho dân ở nơi cao.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.276Z",
+      "updatedAt": "2024-09-23T03:53:16.276Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "0e255afd-c070-46bb-b879-5e9c664a02d8",
+      "number": 13,
+      "content": "Vào thành là các ông sẽ gặp ông ấy trước khi ông ấy lên nơi cao để dùng bữa : dân sẽ không dùng bữa trước khi ông ấy đến, vì ông ấy là người chúc phúc cho hy lễ ; sau đó các khách mời sẽ dùng bữa. Vậy bây giờ các ông lên đi, các ông sẽ gặp ông ấy ngay lập tức.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.287Z",
+      "updatedAt": "2024-09-23T03:53:16.287Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "4c31eddf-997d-4cc5-8ddf-2736dcb97a74",
+      "number": 14,
+      "content": "Họ lên thành. Khi họ vào trong thành, thì thấy ông [Sa-mu-en]() đang đi ra đón họ để lên nơi cao.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.290Z",
+      "updatedAt": "2024-09-23T03:53:16.290Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "31742ad2-4578-4c71-9737-d1cc85089049",
+      "number": 15,
+      "content": "Một ngày trước khi ông [Sa-un]() đến, [ĐỨC CHÚA]() đã mặc khải cho ông [Sa-mu-en]() rằng :",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.294Z",
+      "updatedAt": "2024-09-23T03:53:16.294Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "74043553-b831-443b-9bf5-e19b5d910cba",
+      "number": 16,
+      "content": "“Ngày mai, vào giờ này, Ta sẽ sai một người xứ [Ben-gia-min]() đến với ngươi, ngươi sẽ xức dầu tấn phong nó làm người lãnh đạo dân Ta là [Ít-ra-en](), và nó sẽ cứu dân Ta khỏi tay người [Phi-li-tinh](), vì Ta đã nhìn thấy dân Ta, và tiếng rên siết của nó đã thấu tới Ta.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.307Z",
+      "updatedAt": "2024-09-23T03:53:16.307Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "fe3c204a-5a49-4f8d-aaee-856a22db2ffc",
+      "number": 17,
+      "content": "Khi ông [Sa-mu-en]() thấy ông [Sa-un]() thì [ĐỨC CHÚA]() mách bảo ông : “Đây là người mà Ta đã nói với ngươi : chính nó sẽ cai trị dân Ta.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.324Z",
+      "updatedAt": "2024-09-23T03:53:16.324Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "afae5f35-b709-4cd4-860c-25155ef1cd96",
+      "number": 18,
+      "content": "Ông [Sa-un]() lại gần ông [Sa-mu-en]() ở giữa cửa thành và nói : “[Xin]() ông làm ơn cho tôi biết nhà thầy thị kiến ở đâu.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.332Z",
+      "updatedAt": "2024-09-23T03:53:16.332Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "9b60adcf-1412-4725-9e83-d40175fba47e",
+      "number": 19,
+      "content": "Ông [Sa-mu-en]() trả lời ông [Sa-un]() rằng : “Tôi là thầy thị kiến đây. Ông hãy lên nơi cao, trước mặt tôi. Các ông sẽ dùng bữa với tôi hôm nay. Sáng mai tôi sẽ để cho ông đi và sẽ nói cho ông biết tất cả những gì đang làm ông bận tâm.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.336Z",
+      "updatedAt": "2024-09-23T03:53:16.336Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "8a0e3062-8422-41ae-b729-3b17acc2891d",
+      "number": 20,
+      "content": "Còn những con lừa cái của ông đã lạc ba ngày nay, ông đừng để tâm, vì đã tìm thấy rồi. Vả lại, mọi cái quý nhất trong [Ít-ra-en]() thuộc về ai ? Chẳng phải là thuộc về ông và nhà cha ông hay sao ?”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.340Z",
+      "updatedAt": "2024-09-23T03:53:16.340Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "55782f5f-e91d-47a9-a2d7-6998733ee2ce",
+      "number": 21,
+      "content": "Ông [Sa-un]() trả lời rằng : “Tôi chẳng phải là một người [Ben-gia-min](), chi tộc nhỏ nhất trong [Ít-ra-en]() sao ? Thị tộc tôi chẳng phải là hèn mọn nhất trong các thị tộc của chi tộc [Ben-gia-min]() sao ? Sao ông lại nói với tôi như thế ?”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.344Z",
+      "updatedAt": "2024-09-23T03:53:16.344Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "6ce44a17-b91e-422e-a49b-e9585468aa25",
+      "number": 22,
+      "content": "Ông [Sa-mu-en]() dẫn ông [Sa-un]() và người đầy tớ ông này, đưa vào phòng và cho họ một chỗ ở hàng đầu những khách mời, khoảng ba mươi người.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.357Z",
+      "updatedAt": "2024-09-23T03:53:16.357Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "32b580cc-060f-427e-a9ef-362ba79f31e1",
+      "number": 23,
+      "content": "Ông [Sa-mu-en]() bảo người đầu bếp : “Hãy dọn phần tôi đã trao cho anh, khi bảo anh để riêng ra.”",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.365Z",
+      "updatedAt": "2024-09-23T03:53:16.365Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "bee8a8aa-bc23-4e21-a7d7-8c5473b18506",
+      "number": 24,
+      "content": "Người đầu bếp mang cái đùi và cái đuôi ra đặt trước mặt ông [Sa-un](). Ông [Sa-mu-en]() nói : “Đây là phần để lại, dọn ra cho ông. Mời ông ăn, vì nó được giữ lại cho ông nhân dịp này là dịp tôi mời dân.” Ngày hôm đó, ông [Sa-un]() dùng bữa với ông [Sa-mu-en]().",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.369Z",
+      "updatedAt": "2024-09-23T03:53:16.369Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "80aac1d8-3895-4cd1-a34d-2db81677f4c1",
+      "number": 25,
+      "content": "Sau đó, từ nơi cao, họ xuống thành, và ông [Sa-mu-en]() nói chuyện với ông [Sa-un]() trên sân thượng.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.382Z",
+      "updatedAt": "2024-09-23T03:53:16.382Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "c9696abf-dcbf-47ce-a902-a5d2868168d6",
+      "number": 26,
+      "content": "Hôm sau, họ dậy sớm. Khi hừng đông ló rạng, ông [Sa-mu-en]() gọi ông [Sa-un]() đang ở trên sân thượng và nói : “Mời ông dậy, tôi sẽ tiễn ông đi.” Ông [Sa-un]() dậy, rồi cả hai người, ông và ông [Sa-mu-en](), ra ngoài.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.386Z",
+      "updatedAt": "2024-09-23T03:53:16.386Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "2d2dc65f-de5f-4400-9498-f5cb6a9a33af",
+      "number": 27,
+      "content": "Khi họ đang xuống đến cuối thành thì ông [Sa-mu-en]() nói với ông [Sa-un]() : “[Xin]() ông bảo người đầy tớ đi qua trước chúng ta.” –Người ấy đi qua– “Còn ông, bây giờ xin ông đứng lại để tôi nói cho ông nghe lời của Thiên Chúa.”",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:53:16.396Z",
+      "updatedAt": "2024-09-23T03:53:16.396Z",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "5747b6a5-3076-4534-8696-4ed063cb564b",
+      "content": "Phần 9,1 – 10,16 nói về cuộc gặp gỡ và hợp tác giữa ông Sa-mu-en với ông Sa-un, và khác với các ch. 8 và 12, phần này thuận với chế độ quân chủ hơn. Nguồn gốc là một câu chuyện cổ xưa nói về những tài năng kỳ bí của *thầy thị kiến* Sa-mu-en, soi sáng cho ông Sa-un dẹp được quân xâm lược Phi-li-tinh và Am-mon. Nhưng về sau, có thể câu chuyện này được tăng cường với hai giai thoại : trình thuật về việc ông Sa-un được xức dầu tấn phong (9,15-17.20-21 ; 10,1) và đoạn diễn giải một câu ngạn ngữ cổ (10,10-13). Vậy đây không phải là một câu chuyện kể lại thôi, mà nó có ý nghĩa minh hoạ ý định của Chúa đã tạo cơ duyên cho cuộc gặp gỡ giữa hai nhân vật này.",
+      "position": 32,
+      "order": 0,
+      "createdAt": "2024-09-23T03:53:16.236Z",
+      "updatedAt": "2024-09-23T03:53:16.236Z",
+      "headingId": "2868d675-1483-41f2-a5bb-c2b58e3ec0e6",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "ce63f103-4eaf-4f60-b55b-faf5877b82ab",
+      "content": "*Sa-un* có nghĩa là *được xin (Chúa), cầu được*.",
+      "position": 42,
+      "order": 1,
+      "createdAt": "2024-09-23T03:53:16.243Z",
+      "updatedAt": "2024-09-23T03:53:16.243Z",
+      "verseId": "fcbafbec-3c64-4c33-8a24-e41e2f3bc9e4",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "96b9d9ab-859f-4808-babe-e297f968a1ab",
+      "content": "Theo 7,17, thành này là Ra-ma. Có lẽ từ đây mà xuất phát các câu chuyện xưa nhất về ông Sa-mu-en. Nhưng không chắc ở đây phải theo 7,17.",
+      "position": 48,
+      "order": 2,
+      "createdAt": "2024-09-23T03:53:16.255Z",
+      "updatedAt": "2024-09-23T03:53:16.255Z",
+      "verseId": "00033a11-7dd0-4202-93e2-345128169c1b",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "86cb6433-668c-4b25-8aea-f3072353fd9a",
+      "content": "*Người của Thiên Chúa* cũng nhận quà cáp : x. Ds 22,7 ; 1 V 14,3 ; 2 V 4,42 ; 5,15 ; cũng x. Am 7,12 ; Mk 3,11 ; Ed 13,19. Tuy trong M, ở vế thứ hai, từ Híp-ri tối nghĩa, nhưng cũng dịch *quà*, vì ý là như vậy.",
+      "position": 178,
+      "order": 3,
+      "createdAt": "2024-09-23T03:53:16.261Z",
+      "updatedAt": "2024-09-23T03:53:16.261Z",
+      "verseId": "d977b426-28f9-48b7-b8d7-48881a8de86a",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "4f4bb280-3f89-4df7-95db-d6af43ee57bd",
+      "content": "*Nơi cao* là khuôn viên để thờ phượng, nằm bên ngoài làng hay thành, trên một nơi cao, gồm những gian phòng trong đó có phòng dọn bữa sau nghi thức tế lễ (c.22). Nguyên thuỷ đó là những đền cổ xưa, nơi người Ca-na-an thờ thần Ba-an, sau đó dân Ít-ra-en đến trưng dụng để thờ Thiên Chúa (x. Tl 6,25tt). Cho đến khi có luật về đền thờ duy nhất (Đnl 12,2tt) thì các nơi cao này mới bị loại.",
+      "position": 140,
+      "order": 5,
+      "createdAt": "2024-09-23T03:53:16.280Z",
+      "updatedAt": "2024-09-23T03:53:16.280Z",
+      "verseId": "c2fba331-cf41-41bf-b697-71e8896f5645",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "c4d7998e-deae-49d6-bddc-880d85fcc6bc",
+      "content": "ds : *vạch lỗ tai (cho ông nghe)*. Lối nói tượng hình này rất thường được dùng trong Kinh Thánh, đặc biệt trong sách Sa-mu-en (20,2.12.13 ; 22,8.17 ; 2 Sm 7,27 ...).",
+      "position": 62,
+      "order": 6,
+      "createdAt": "2024-09-23T03:53:16.298Z",
+      "updatedAt": "2024-09-23T03:53:16.298Z",
+      "verseId": "31742ad2-4578-4c71-9737-d1cc85089049",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "56f62b05-9498-4575-b49a-4a44179aea30",
+      "content": "Từ Híp-ri dùng ở đây rất chung chung, có thể hiểu nhiều cách, nhưng tựu trung là *lãnh đạo, thủ lãnh* ... Từ này rất thân thương đối với dân Ít-ra-en miền Bắc (2 Sm 5,2-3 ; 6,21 ; 1 V 1,35 ; 14,7 ; 16,2).",
+      "position": 126,
+      "order": 7,
+      "createdAt": "2024-09-23T03:53:16.311Z",
+      "updatedAt": "2024-09-23T03:53:16.311Z",
+      "verseId": "74043553-b831-443b-9bf5-e19b5d910cba",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "dafc87c3-da6e-4cba-b305-ccbd4b8ca0c5",
+      "content": "*Ông Sa-mu-en nói* : theo các bản HL và LT, còn HR thì không cho chủ từ khác cho động từ *nói*, làm có thể hiểu là ông đầu bếp nói, và vế cuối mới dẫn lời của ông Sa-mu-en. HR ở đây lủng củng, có thể do đã biến chất, khiến có người hiểu là ông đầu bếp nói vụng (*đây là phần còn dư* thay vì *đây là phần để lại*), nên sau đó tiếp tục nói để chữa lời ...",
+      "position": 91,
+      "order": 8,
+      "createdAt": "2024-09-23T03:53:16.374Z",
+      "updatedAt": "2024-09-23T03:53:16.374Z",
+      "verseId": "bee8a8aa-bc23-4e21-a7d7-8c5473b18506",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "938d9e56-085c-439f-bc36-888fae438c17",
+      "content": "Việc xức dầu phong vương là một lễ nghi đã có từ thời xưa trong các dân Ai-cập và Ca-na-an. Nhưng ở Ít-ra-en thì việc này là do tay một “người của Thiên Chúa” : x. 16,13 ; 1 V 1,39 ; 2 V 9,6 ; 11,12. Nghi thức này làm cho vua được xem là bất khả xâm phạm, là “người được (như chính Thiên Chúa) xức dầu tấn phong”, trở nên như một chư hầu của Thiên Chúa là vị lãnh đạo tối cao của Ít-ra-en : x. 24,7.11 ; 26,9.16, với Xh 30,22tt.29.",
+      "position": 38,
+      "order": 9,
+      "createdAt": "2024-09-23T03:53:16.393Z",
+      "updatedAt": "2024-09-23T03:53:16.393Z",
+      "headingId": "32065ae7-ab24-40a5-bb9b-f687715ea38a",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    }
+  ],
+  "headings": [
+    {
+      "id": "2868d675-1483-41f2-a5bb-c2b58e3ec0e6",
+      "content": "Ông [Sa-un]() đi tìm lừa của cha",
+      "order": 0,
+      "createdAt": "2024-09-23T03:53:16.234Z",
+      "updatedAt": "2024-09-23T03:53:16.234Z",
+      "verseId": "322eef35-8836-430d-b0fe-6d4b7d62d378",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "ba225b93-afbe-4e63-a01f-d422c99d18a2",
+      "content": "Ông [Sa-un]() gặp ông [Sa-mu-en]()",
+      "order": 0,
+      "createdAt": "2024-09-23T03:53:16.270Z",
+      "updatedAt": "2024-09-23T03:53:16.270Z",
+      "verseId": "4b0ddab8-a694-489d-ba3c-9c795f235c1c",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "32065ae7-ab24-40a5-bb9b-f687715ea38a",
+      "content": "Ông [Sa-un]() được xức dầu phong vương",
+      "order": 0,
+      "createdAt": "2024-09-23T03:53:16.390Z",
+      "updatedAt": "2024-09-23T03:53:16.390Z",
+      "verseId": "c9696abf-dcbf-47ce-a902-a5d2868168d6",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    }
+  ],
+  "references": [
+    {
+      "id": "f517cb75-4f31-4885-a6ab-5df57bd988e7",
+      "content": "1 Sm 1,1; 1 Sb 8,33",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-23T03:53:16.239Z",
+      "updatedAt": "2024-09-23T03:53:16.239Z",
+      "verseId": "322eef35-8836-430d-b0fe-6d4b7d62d378",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "0addcfd7-409c-4b7c-9194-d32b633beebc",
+      "content": "1 Sm 10,23; 16,12",
+      "position": 144,
+      "order": 1,
+      "createdAt": "2024-09-23T03:53:16.245Z",
+      "updatedAt": "2024-09-23T03:53:16.245Z",
+      "verseId": "fcbafbec-3c64-4c33-8a24-e41e2f3bc9e4",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "6c1ef783-a942-4437-8fe8-64ebd8911046",
+      "content": "Tl 18,5",
+      "position": 221,
+      "order": 2,
+      "createdAt": "2024-09-23T03:53:16.257Z",
+      "updatedAt": "2024-09-23T03:53:16.257Z",
+      "verseId": "00033a11-7dd0-4202-93e2-345128169c1b",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "cb46379f-fbd3-498c-9ef6-35f58c9f0a1a",
+      "content": "St 24,11",
+      "position": 44,
+      "order": 3,
+      "createdAt": "2024-09-23T03:53:16.273Z",
+      "updatedAt": "2024-09-23T03:53:16.273Z",
+      "verseId": "4b0ddab8-a694-489d-ba3c-9c795f235c1c",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "6119ee75-4ed4-4de6-a99d-1633cd1df8ac",
+      "content": "1 V 3,4",
+      "position": 133,
+      "order": 4,
+      "createdAt": "2024-09-23T03:53:16.283Z",
+      "updatedAt": "2024-09-23T03:53:16.283Z",
+      "verseId": "c2fba331-cf41-41bf-b697-71e8896f5645",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "b9017b28-3aca-4977-a216-3d3486bd19d2",
+      "content": "Cv 9,10-16",
+      "position": 54,
+      "order": 5,
+      "createdAt": "2024-09-23T03:53:16.302Z",
+      "updatedAt": "2024-09-23T03:53:16.302Z",
+      "verseId": "31742ad2-4578-4c71-9737-d1cc85089049",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "8795ae23-26ae-44e1-8d5d-f856f7baadee",
+      "content": "1 Sm 16,3.13",
+      "position": 87,
+      "order": 6,
+      "createdAt": "2024-09-23T03:53:16.316Z",
+      "updatedAt": "2024-09-23T03:53:16.316Z",
+      "verseId": "74043553-b831-443b-9bf5-e19b5d910cba",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "e2edd7e6-cc96-4784-bf82-447149aa8c96",
+      "content": "Tl 13,5; 2 Sm 3,18",
+      "position": 171,
+      "order": 7,
+      "createdAt": "2024-09-23T03:53:16.320Z",
+      "updatedAt": "2024-09-23T03:53:16.320Z",
+      "verseId": "74043553-b831-443b-9bf5-e19b5d910cba",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "074d6cba-6bd4-49b6-af70-9f26d14cbf9d",
+      "content": "1 Sm 16,3",
+      "position": 80,
+      "order": 8,
+      "createdAt": "2024-09-23T03:53:16.328Z",
+      "updatedAt": "2024-09-23T03:53:16.328Z",
+      "verseId": "fe3c204a-5a49-4f8d-aaee-856a22db2ffc",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "32232267-5f33-4076-87a8-4bf58857348f",
+      "content": "Xh 3,11; 4,1",
+      "position": 30,
+      "order": 9,
+      "createdAt": "2024-09-23T03:53:16.349Z",
+      "updatedAt": "2024-09-23T03:53:16.349Z",
+      "verseId": "55782f5f-e91d-47a9-a2d7-6998733ee2ce",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "5e6f201c-661c-441d-940c-ccb70740191f",
+      "content": "1 Sm 18,18; Tl 6,15",
+      "position": 117,
+      "order": 10,
+      "createdAt": "2024-09-23T03:53:16.353Z",
+      "updatedAt": "2024-09-23T03:53:16.353Z",
+      "verseId": "55782f5f-e91d-47a9-a2d7-6998733ee2ce",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "dc2fddfe-c991-4e9d-a884-09a8b9a46a4c",
+      "content": "Tl 14,11",
+      "position": 127,
+      "order": 11,
+      "createdAt": "2024-09-23T03:53:16.361Z",
+      "updatedAt": "2024-09-23T03:53:16.361Z",
+      "verseId": "6ce44a17-b91e-422e-a49b-e9585468aa25",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    },
+    {
+      "id": "fc7f9907-48b0-46d3-87d2-6d66b7801d2e",
+      "content": "1 V 1,25",
+      "position": 186,
+      "order": 12,
+      "createdAt": "2024-09-23T03:53:16.378Z",
+      "updatedAt": "2024-09-23T03:53:16.378Z",
+      "verseId": "bee8a8aa-bc23-4e21-a7d7-8c5473b18506",
+      "chapterId": "70e578b3-77a5-4b17-8cb6-8ca1bd9557f8"
+    }
+  ],
+  "psalmMetadata": []
+}

@@ -1,0 +1,591 @@
+{
+  "chapter": {
+    "id": "687ce510-0025-495d-9ef2-a2a511fd43d1",
+    "number": 25,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.760Z",
+    "updatedAt": "2024-09-23T03:08:01.760Z",
+    "bookId": "5fca8dc8-0809-4cff-8bad-b589e64a33a5"
+  },
+  "verses": [
+    {
+      "id": "dbf0f1fd-a372-479d-aec3-cac1d5493e13",
+      "number": 1,
+      "content": "Ba ngày sau khi nhậm chức, tổng trấn [Phét-tô]() từ [Xê-da-rê]() lên [Giê-ru-sa-lem]().",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.052Z",
+      "updatedAt": "2024-09-23T03:19:13.052Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "5c14be25-8908-4e56-b298-49af4dac46fc",
+      "number": 2,
+      "content": "Các thượng tế và thân hào Do-thái đến kiện ông [Phao-lô](). Họ khẩn khoản",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.076Z",
+      "updatedAt": "2024-09-23T03:19:13.076Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "009281ee-2337-4dd7-8585-657ffd6cbd2c",
+      "number": 3,
+      "content": "xin tổng trấn một ân huệ để hại ông [Phao-lô](), là đưa ông về [Giê-ru-sa-lem](), vì họ đang chuẩn bị một cuộc mai phục để giết ông dọc đường.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.080Z",
+      "updatedAt": "2024-09-23T03:19:13.080Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "b1f3dff2-0f17-4fc5-922d-43a895984ae8",
+      "number": 4,
+      "content": "Nhưng ông [Phét-tô]() đáp rằng ông [Phao-lô]() đang bị giam giữ ở [Xê-da-rê](), còn chính ông cũng sắp sửa về đó ngay.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.089Z",
+      "updatedAt": "2024-09-23T03:19:13.089Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "1e61fe60-caaf-4fac-b5a8-1a1165b2bc3e",
+      "number": 5,
+      "content": "Ông lại thêm : “Những ai trong các ông có đủ tư cách, hãy cùng xuống đó với tôi, và nếu đương sự có gì sai trái thì cứ việc tố.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.097Z",
+      "updatedAt": "2024-09-23T03:19:13.097Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "cc8b96ef-1fb7-456d-bb1e-86bb6ac860e9",
+      "number": 6,
+      "content": "Sau khi ở lại [Giê-ru-sa-lem]() không quá tám hay mười ngày, ông xuống [Xê-da-rê](). Hôm sau ông ra ngồi toà và truyền điệu ông [Phao-lô]() đến.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.101Z",
+      "updatedAt": "2024-09-23T03:19:13.101Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "32a259f4-57f7-4ace-b8bb-d6526614350e",
+      "number": 7,
+      "content": "Ông [Phao-lô]() vừa tới, thì những người Do-thái từ [Giê-ru-sa-lem]() xuống đã vây quanh ông : họ tố cáo ông nhiều tội, mà toàn là tội nặng, nhưng họ không thể minh chứng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.105Z",
+      "updatedAt": "2024-09-23T03:19:13.105Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "a5f23e25-7b60-4c66-8063-099830e29bd5",
+      "number": 8,
+      "content": "Ông [Phao-lô]() tự biện hộ : “Tôi không có tội gì đối với Lề Luật Do-thái, đối với Đền Thờ hay hoàng đế [Xê-da]().”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.113Z",
+      "updatedAt": "2024-09-23T03:19:13.113Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "fb67cf86-372f-4a7c-9479-794d42e0300d",
+      "number": 9,
+      "content": "Ông [Phét-tô]() muốn được lòng người Do-thái nên đề nghị với ông [Phao-lô]() : “Ông có muốn lên [Giê-ru-sa-lem]() để được xử tại đó trước mặt tôi về những lời tố cáo này không ?”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.117Z",
+      "updatedAt": "2024-09-23T03:19:13.117Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "8165bc6c-08a2-4308-a0ae-18c38de0f8a2",
+      "number": 10,
+      "content": "Nhưng ông [Phao-lô]() đáp : “Tôi đang đứng trước toà án của hoàng đế [Xê-da](), tôi phải được xử tại đó. Tôi đã không làm gì hại người Do-thái, như chính ngài thừa biết.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.130Z",
+      "updatedAt": "2024-09-23T03:19:13.130Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "ffad4df5-7313-401e-bfb4-1dcfd75c9276",
+      "number": 11,
+      "content": "Nếu quả thật tôi có tội, nếu tôi đã làm điều gì đáng chết, thì tôi không xin tha chết. Nhưng nếu những điều tố cáo của các người này là vô căn cứ, thì không ai có quyền nộp tôi cho họ. Tôi kháng cáo lên hoàng đế [Xê-da]() !”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.138Z",
+      "updatedAt": "2024-09-23T03:19:13.138Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "c143b766-a22e-4ac9-ba52-beeca742a746",
+      "number": 12,
+      "content": "Bấy giờ ông [Phét-tô]() bàn với hội đồng tư vấn, rồi trả lời : “Ông đã kháng cáo lên hoàng đế [Xê-da](), thì ông sẽ lên hoàng đế [Xê-da]().”",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.155Z",
+      "updatedAt": "2024-09-23T03:19:13.155Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "f531d123-0e1a-4dab-b58a-e461bdf156c5",
+      "number": 13,
+      "content": "Ít ngày sau, vua [Ác-ríp-pa]() và bà [Béc-ni-kê]() đến [Xê-da-rê]() chào mừng ông [Phét-tô]().",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.163Z",
+      "updatedAt": "2024-09-23T03:19:13.163Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "f8bdbaa1-9023-4584-834c-059b838b2cac",
+      "number": 14,
+      "content": "Vì hai người ở lại đó nhiều ngày, ông [Phét-tô]() mới đem vụ ông [Phao-lô]() ra trình bày với nhà vua. Ông nói : “Ở đây có một người tù ông [Phê-lích]() để lại.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.179Z",
+      "updatedAt": "2024-09-23T03:19:13.179Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "e5e33ae6-129b-4685-bbfa-8f84bc513b35",
+      "number": 15,
+      "content": "Khi tôi tới [Giê-ru-sa-lem](), các thượng tế và các kỳ mục Do-thái đến kiện và xin tôi kết án người ấy.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.187Z",
+      "updatedAt": "2024-09-23T03:19:13.187Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "224435cc-79aa-44db-9c0f-10f3d28b81dc",
+      "number": 16,
+      "content": "Tôi đã trả lời họ rằng người [Rô-ma]() không có lệ nộp bị cáo nào, trước khi đương sự ra đối chất với nguyên cáo, và được cơ hội biện hộ về lời tố cáo.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.196Z",
+      "updatedAt": "2024-09-23T03:19:13.196Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "e8932c90-7000-4afa-ae88-0b02d0a6e779",
+      "number": 17,
+      "content": "Vậy họ cùng đến đây với tôi, và không chút trì hoãn, ngày hôm sau tôi ra ngồi toà và truyền điệu đương sự đến.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.200Z",
+      "updatedAt": "2024-09-23T03:19:13.200Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "7b4be4ba-02f2-4533-ac7a-b5f9436e5830",
+      "number": 18,
+      "content": "Đứng quanh đương sự, các nguyên cáo đã không đưa ra một tội trạng nào như tôi tưởng.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.204Z",
+      "updatedAt": "2024-09-23T03:19:13.204Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "c0ba1b7e-ed04-4d37-bebd-aea047f32f7c",
+      "number": 19,
+      "content": "Họ chỉ tranh luận với ông ta về một số vấn đề liên quan đến tôn giáo riêng của họ, và liên quan đến một ông [Giê-su]() nào đó đã chết, mà [Phao-lô]() quả quyết là vẫn sống.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.209Z",
+      "updatedAt": "2024-09-23T03:19:13.209Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "5ef09824-e55f-482a-8158-78d4d854ab1c",
+      "number": 20,
+      "content": "Phần tôi, phân vân trước cuộc tranh luận về những chuyện ấy, tôi hỏi xem ông ta có muốn đi [Giê-ru-sa-lem]() để được xử tại đó về vụ này không.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.221Z",
+      "updatedAt": "2024-09-23T03:19:13.221Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "ae19f318-1f49-44ed-967e-4a6e0cd73833",
+      "number": 21,
+      "content": "Nhưng [Phao-lô]() đã kháng cáo, xin dành vụ này cho thánh thượng xét xử, nên tôi đã ra lệnh giữ ông ta lại cho đến khi giải lên hoàng đế.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.226Z",
+      "updatedAt": "2024-09-23T03:19:13.226Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "f35d6221-7050-43a1-ace8-d5f5bc0f2e21",
+      "number": 22,
+      "content": "Bấy giờ vua [Ác-ríp-pa]() nói với ông [Phét-tô]() : “Tôi cũng muốn được nghe ông ta nói.” Ông [Phét-tô]() trả lời : “Ngày mai ngài sẽ được nghe.”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.235Z",
+      "updatedAt": "2024-09-23T03:19:13.235Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "3a74430c-98cf-49e0-ae43-ba3dbb7af013",
+      "number": 23,
+      "content": "Vậy hôm sau, vua [Ác-ríp-pa]() và bà [Béc-ni-kê]() tiến vào công đường cách rất long trọng, cùng với các sĩ quan chỉ huy cơ đội và các người có chức vị trong thành phố. Theo lệnh của ông [Phét-tô](), người ta điệu ông [Phao-lô]() đến.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.239Z",
+      "updatedAt": "2024-09-23T03:19:13.239Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "350077a5-739b-46e8-83fe-5e11e2725184",
+      "number": 24,
+      "content": "Ông [Phét-tô]() nói : “Kính thưa đức vua [Ác-ríp-pa]() và toàn thể quý vị có mặt ở đây với chúng tôi, quý vị thấy người này : toàn thể cộng đồng Do-thái đã đến gặp tôi, ở [Giê-ru-sa-lem]() cũng như ở đây, về việc của đương sự. Họ la lên rằng đương sự không được phép sống nữa.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.252Z",
+      "updatedAt": "2024-09-23T03:19:13.252Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "f30bea76-0287-41f4-8263-50ac692368c7",
+      "number": 25,
+      "content": "Phần tôi, tôi không thấy đương sự đã làm gì đáng chết ; nhưng vì chính đương sự đã kháng cáo lên thánh thượng, nên tôi đã quyết định giải về kinh.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.260Z",
+      "updatedAt": "2024-09-23T03:19:13.260Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "f83e6279-a19a-4022-9675-2698ed9b9986",
+      "number": 26,
+      "content": "Về vụ của đương sự, tôi không có gì chắc chắn để tâu lên chúa thượng. Vì thế tôi đã đưa đương sự ra trình diện quý vị, và nhất là ngài, kính thưa đức vua [Ác-ríp-pa](), để sau lần tra hỏi này, tôi sẽ có gì để tâu.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.265Z",
+      "updatedAt": "2024-09-23T03:19:13.265Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "cd397ea8-88bc-4028-aaae-4f3ef0958e8a",
+      "number": 27,
+      "content": "Vì thiết tưởng giải tù nhân lên, mà không nói rõ đương sự bị tố cáo về những tội gì, thì thật là vô lý.”",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:19:13.273Z",
+      "updatedAt": "2024-09-23T03:19:13.273Z",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "8d22ead5-5ecb-4fe9-b74c-9f0f588d5c25",
+      "content": "Ông Phao-lô lại ra toà án lần thứ ba. Thượng Hội Đồng âm mưu đưa ông về Giê-ru-sa-lem để xử, nhưng thực ra họ muốn giết ông dọc đường. Nhờ tổng trấn Phét-tô sáng suốt và cương quyết, ông Phao-lô thoát được âm mưu. Ông được xử và đã tự biện hộ. Sau cùng ông muốn đi Rô-ma để được xét xử ở đó. Thánh Thần đã thúc đẩy ông đi Rô-ma (19,21).",
+      "position": 48,
+      "order": 0,
+      "createdAt": "2024-09-23T03:19:13.067Z",
+      "updatedAt": "2024-09-23T03:19:13.067Z",
+      "headingId": "c3251f17-682a-4083-b27b-494b87ac2163",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "ae88d384-eb9e-4eda-8eb3-ab6c4bd44507",
+      "content": "ds : *đến tỉnh*.",
+      "position": 25,
+      "order": 1,
+      "createdAt": "2024-09-23T03:19:13.072Z",
+      "updatedAt": "2024-09-23T03:19:13.072Z",
+      "verseId": "dbf0f1fd-a372-479d-aec3-cac1d5493e13",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "a777f9cc-3ed8-4413-b9d1-1e8057da7f85",
+      "content": "Thái độ của ông Phét-tô rất nghiêm túc. Nếu ông Phao-lô phạm tội về chính trị, chính ông Phét-tô phải xử ở Xê-da-rê. Còn nếu vi phạm tôn giáo, Thượng Hội Đồng xét xử theo luật nhà nước Rô-ma cho phép.",
+      "position": 117,
+      "order": 2,
+      "createdAt": "2024-09-23T03:19:13.093Z",
+      "updatedAt": "2024-09-23T03:19:13.093Z",
+      "verseId": "b1f3dff2-0f17-4fc5-922d-43a895984ae8",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "5c8bfa7a-a9df-4b4d-b165-b861973b65f5",
+      "content": "Ông Phét-tô xác định tội trạng của ông Phao-lô, nếu có, là tội vi phạm tôn giáo. Ông không có quyền xét xử. Ông chỉ giữ vai trò chứng nhân.",
+      "position": 175,
+      "order": 3,
+      "createdAt": "2024-09-23T03:19:13.122Z",
+      "updatedAt": "2024-09-23T03:19:13.122Z",
+      "verseId": "fb67cf86-372f-4a7c-9479-794d42e0300d",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "1ae4b96a-eab3-4478-b01e-76c4df47a0cb",
+      "content": "Không phải tên riêng, nhưng có nghĩa là hoàng đế.",
+      "position": 78,
+      "order": 4,
+      "createdAt": "2024-09-23T03:19:13.134Z",
+      "updatedAt": "2024-09-23T03:19:13.134Z",
+      "verseId": "8165bc6c-08a2-4308-a0ae-18c38de0f8a2",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "0c9de0ae-2eb4-42c7-b6ab-d4fb6fd46293",
+      "content": "Tính trung thực của ông Phao-lô. Lập trường cứng rắn và lý luận chặt chẽ này khiến ông Phét-tô không thể thoái thác trách nhiệm.",
+      "position": 85,
+      "order": 5,
+      "createdAt": "2024-09-23T03:19:13.142Z",
+      "updatedAt": "2024-09-23T03:19:13.142Z",
+      "verseId": "ffad4df5-7313-401e-bfb4-1dcfd75c9276",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "8235d2e7-8e80-4e4f-a91e-835bec538d31",
+      "content": "Ông Phao-lô kháng cáo với tư cách là công dân Rô-ma.",
+      "position": 221,
+      "order": 6,
+      "createdAt": "2024-09-23T03:19:13.146Z",
+      "updatedAt": "2024-09-23T03:19:13.146Z",
+      "verseId": "ffad4df5-7313-401e-bfb4-1dcfd75c9276",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "5b12a999-102b-4c2a-a7cf-f48d77305c73",
+      "content": "Làm đúng theo ý muốn của Thánh Thần (x. 23,11).",
+      "position": 138,
+      "order": 7,
+      "createdAt": "2024-09-23T03:19:13.159Z",
+      "updatedAt": "2024-09-23T03:19:13.159Z",
+      "verseId": "c143b766-a22e-4ac9-ba52-beeca742a746",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "3ac340cd-171e-4229-813b-88d0b56361ff",
+      "content": "Ông Phét-tô và vua Ác-ríp-pa biết rõ người Do-thái muốn làm hại ông Phao-lô, vì ghen ghét ông. Hai ông đều thích nghe ông Phao-lô nói về niềm tin vào Đức Giê-su phục sinh.",
+      "position": 47,
+      "order": 8,
+      "createdAt": "2024-09-23T03:19:13.171Z",
+      "updatedAt": "2024-09-23T03:19:13.171Z",
+      "headingId": "871aa056-7be7-4c64-9e74-a7c9378ec3cb",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "37e25fd9-09ec-4d2f-9693-543a523a0ac4",
+      "content": "Vua Ác-ríp-pa, hai bà Béc-ni-kê và Đơ-ru-xi-la là các con của vua Hê-rô-đê Ác-ríp-pa I (x. 12,1). Ác-ríp-pa làm vua xứ Can-xít năm 50 ; từ năm 52 làm tiểu vương miền Bê-ta-nê, Tra-kho-nít, I-tu-rê, Ô-ra-nít, Gô-la-nít, A-bi-len. Ông chống lại cộng đoàn tín hữu Giê-ru-sa-lem (x. 12,1-19). Còn bà Béc-ni-kê nổi tiếng về sắc đẹp và mối quan hệ với Ti-tô.",
+      "position": 50,
+      "order": 9,
+      "createdAt": "2024-09-23T03:19:13.175Z",
+      "updatedAt": "2024-09-23T03:19:13.175Z",
+      "verseId": "f531d123-0e1a-4dab-b58a-e461bdf156c5",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "c523facd-404a-4523-b44b-d6cba0c7fdf1",
+      "content": "Tránh huý vua đang cai trị là Nê-rô. Tất cả các hoàng đế kế vị Ốc-ta-vô đều mang danh hiệu Au-gút-tô hoặc Xê-da. – ds : *Xê-bát-tô* hoặc theo La-tinh *Au-gút-tô*.",
+      "position": 64,
+      "order": 10,
+      "createdAt": "2024-09-23T03:19:13.231Z",
+      "updatedAt": "2024-09-23T03:19:13.231Z",
+      "verseId": "ae19f318-1f49-44ed-967e-4a6e0cd73833",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "97f9af2d-5b30-494c-9fa7-20b4aaf2d868",
+      "content": "ds : *Sĩ quan chỉ huy 1.000 người*.",
+      "position": 127,
+      "order": 11,
+      "createdAt": "2024-09-23T03:19:13.244Z",
+      "updatedAt": "2024-09-23T03:19:13.244Z",
+      "verseId": "3a74430c-98cf-49e0-ae43-ba3dbb7af013",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "777f23a0-df96-46ba-92b3-7b668746d2b3",
+      "content": "Từ hoàng đế Ca-li-gu-la, danh hiệu thần linh được gán cho các hoàng đế.",
+      "position": 68,
+      "order": 12,
+      "createdAt": "2024-09-23T03:19:13.269Z",
+      "updatedAt": "2024-09-23T03:19:13.269Z",
+      "verseId": "f83e6279-a19a-4022-9675-2698ed9b9986",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    }
+  ],
+  "headings": [
+    {
+      "id": "c3251f17-682a-4083-b27b-494b87ac2163",
+      "content": "Ông [Phao-lô]() kháng cáo lên hoàng đế [Xê-da]()",
+      "order": 0,
+      "createdAt": "2024-09-23T03:19:13.063Z",
+      "updatedAt": "2024-09-23T03:19:13.063Z",
+      "verseId": "dbf0f1fd-a372-479d-aec3-cac1d5493e13",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "871aa056-7be7-4c64-9e74-a7c9378ec3cb",
+      "content": "Ông [Phao-lô]() ra trình diện vua [Ác-ríp-pa]()",
+      "order": 0,
+      "createdAt": "2024-09-23T03:19:13.167Z",
+      "updatedAt": "2024-09-23T03:19:13.167Z",
+      "verseId": "f531d123-0e1a-4dab-b58a-e461bdf156c5",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    }
+  ],
+  "references": [
+    {
+      "id": "4d4552e1-2750-4612-aad3-d34b233c8523",
+      "content": "Cv 23,12-15",
+      "position": 123,
+      "order": 0,
+      "createdAt": "2024-09-23T03:19:13.084Z",
+      "updatedAt": "2024-09-23T03:19:13.084Z",
+      "verseId": "009281ee-2337-4dd7-8585-657ffd6cbd2c",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "1a7aec57-ee29-496b-9594-c6ae1781650d",
+      "content": "Lc 23,10",
+      "position": 98,
+      "order": 1,
+      "createdAt": "2024-09-23T03:19:13.109Z",
+      "updatedAt": "2024-09-23T03:19:13.109Z",
+      "verseId": "32a259f4-57f7-4ace-b8bb-d6526614350e",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "6f82b826-8066-4235-a861-27665fd3ff78",
+      "content": "Cv 24,27",
+      "position": 21,
+      "order": 2,
+      "createdAt": "2024-09-23T03:19:13.125Z",
+      "updatedAt": "2024-09-23T03:19:13.125Z",
+      "verseId": "fb67cf86-372f-4a7c-9479-794d42e0300d",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "ce547d8b-fd36-4fb8-80ea-34b38f27d945",
+      "content": "Cv 26,32; 28,19",
+      "position": 189,
+      "order": 3,
+      "createdAt": "2024-09-23T03:19:13.151Z",
+      "updatedAt": "2024-09-23T03:19:13.151Z",
+      "verseId": "ffad4df5-7313-401e-bfb4-1dcfd75c9276",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "51bc8bf5-8030-495b-84ec-be393c99a76b",
+      "content": "Cv 24,27",
+      "position": 140,
+      "order": 4,
+      "createdAt": "2024-09-23T03:19:13.183Z",
+      "updatedAt": "2024-09-23T03:19:13.183Z",
+      "verseId": "f8bdbaa1-9023-4584-834c-059b838b2cac",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "4a792664-0bf9-4c21-aba0-e084af05467d",
+      "content": "Cv 25,2",
+      "position": 71,
+      "order": 5,
+      "createdAt": "2024-09-23T03:19:13.192Z",
+      "updatedAt": "2024-09-23T03:19:13.192Z",
+      "verseId": "e5e33ae6-129b-4685-bbfa-8f84bc513b35",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "eab055eb-42df-4242-af1c-4026b63cf505",
+      "content": "Cv 18,15; 23,29",
+      "position": 7,
+      "order": 6,
+      "createdAt": "2024-09-23T03:19:13.213Z",
+      "updatedAt": "2024-09-23T03:19:13.213Z",
+      "verseId": "c0ba1b7e-ed04-4d37-bebd-aea047f32f7c",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "05bdea08-ec83-44c8-8679-e16f62bbbdb1",
+      "content": "Lc 24,5-23; 1 Cr 15,12-20; 2  Cr 13,4",
+      "position": 108,
+      "order": 7,
+      "createdAt": "2024-09-23T03:19:13.217Z",
+      "updatedAt": "2024-09-23T03:19:13.217Z",
+      "verseId": "c0ba1b7e-ed04-4d37-bebd-aea047f32f7c",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "fd195de9-7c8d-4633-934d-2493d869f6e2",
+      "content": "Mt 10,18",
+      "position": 209,
+      "order": 8,
+      "createdAt": "2024-09-23T03:19:13.248Z",
+      "updatedAt": "2024-09-23T03:19:13.248Z",
+      "verseId": "3a74430c-98cf-49e0-ae43-ba3dbb7af013",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    },
+    {
+      "id": "3ff5b110-04b7-431b-b073-ab5f634ebb46",
+      "content": "Cv 21,36",
+      "position": 230,
+      "order": 9,
+      "createdAt": "2024-09-23T03:19:13.256Z",
+      "updatedAt": "2024-09-23T03:19:13.256Z",
+      "verseId": "350077a5-739b-46e8-83fe-5e11e2725184",
+      "chapterId": "687ce510-0025-495d-9ef2-a2a511fd43d1"
+    }
+  ],
+  "psalmMetadata": []
+}

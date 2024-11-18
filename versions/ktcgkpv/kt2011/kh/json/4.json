@@ -1,0 +1,536 @@
+{
+  "chapter": {
+    "id": "72b66c10-45aa-47ec-917d-44cf194e2252",
+    "number": 4,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.786Z",
+    "updatedAt": "2024-09-23T03:08:01.786Z",
+    "bookId": "013ba10d-6841-402e-b5ac-e72f14b6e0ac"
+  },
+  "verses": [
+    {
+      "id": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "number": 1,
+      "content": "Sau đó, tôi được một thị kiến. Kìa một cái cửa mở ra ở trên trời, và tiếng mà trước đây tôi nghe nói với tôi như thể tiếng kèn, bảo tôi rằng : “Lên đây, Ta sẽ chỉ cho ngươi thấy những điều phải xảy ra sau đó.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.614Z",
+      "updatedAt": "2024-09-23T03:30:45.614Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "736dad3e-87b5-4c2d-b1a0-5321c658b3d9",
+      "number": 2,
+      "content": "Lập tức tôi xuất thần. Kìa một cái ngai đặt ở trên trời và có một Đấng ngự trên ngai.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.653Z",
+      "updatedAt": "2024-09-23T03:30:45.653Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "4b4ed27a-4c1e-4751-909a-992c9b41a48b",
+      "number": 3,
+      "content": "Đấng ngự đó trông giống như ngọc thạch và xích não. Chung quanh ngai có cầu vồng trông giống như bích ngọc.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.667Z",
+      "updatedAt": "2024-09-23T03:30:45.667Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "956be063-0975-45f3-84f0-11753c51fa7e",
+      "number": 4,
+      "content": "Chung quanh ngai có hai mươi bốn ngai khác, và trên những ngai đó có hai mươi bốn vị Kỳ Mục ; các vị đang ngồi, mình mặc áo trắng, đầu đội triều thiên vàng.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.682Z",
+      "updatedAt": "2024-09-23T03:30:45.682Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "0220da47-0134-4220-94de-abf4ae15885c",
+      "number": 5,
+      "content": "Từ ngai phát ra ánh chớp, tiếng sấm tiếng sét. Bảy ngọn đuốc, tức là bảy thần khí của Thiên Chúa cháy sáng trước ngai.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.691Z",
+      "updatedAt": "2024-09-23T03:30:45.691Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d12d9aeb-a264-4cc2-8e28-918259af1753",
+      "number": 6,
+      "content": "Trước ngai có cái gì như biển trong vắt tựa pha lê. Ở giữa ngai và chung quanh ngai có bốn Con Vật, đằng trước và đằng sau đầy những mắt.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.695Z",
+      "updatedAt": "2024-09-23T03:30:45.695Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "3a0e2070-7b9a-4ecb-8a8b-41555d6ec65b",
+      "number": 7,
+      "content": "Con Vật thứ nhất giống như sư tử, Con Vật thứ hai giống như bò tơ, Con Vật thứ ba có mặt như mặt người, Con Vật thứ bốn giống như đại bàng đang bay.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.702Z",
+      "updatedAt": "2024-09-23T03:30:45.702Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "e045c3b4-00e9-4730-a283-e04b6acb4e52",
+      "number": 8,
+      "content": "Bốn Con Vật ấy, mỗi con có sáu cánh, chung quanh và bên trong đầy những mắt. Ngày đêm chúng không ngừng hô lên rằng :",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.704Z",
+      "updatedAt": "2024-09-23T03:30:45.704Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "fa97fdb5-24c4-40b9-b467-577207893de5",
+      "number": 8,
+      "content": "*Thánh ! Thánh ! Chí Thánh !*",
+      "order": 1,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.708Z",
+      "updatedAt": "2024-09-23T03:30:45.708Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d46da329-f86b-4df9-b26d-01f152351f94",
+      "number": 8,
+      "content": "*Đức Chúa, Thiên Chúa toàn năng,*",
+      "order": 2,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.714Z",
+      "updatedAt": "2024-09-23T03:30:45.714Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "9f9c95e9-5c27-417f-a85e-2a80904e33cc",
+      "number": 8,
+      "content": "Đấng đã có, hiện có và đang đến !",
+      "order": 3,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.717Z",
+      "updatedAt": "2024-09-23T03:30:45.717Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "cfa423ac-0f7b-4032-96cd-7cba29f8b9d0",
+      "number": 9,
+      "content": "Mỗi khi những Con Vật ấy kính dâng vinh quang, danh dự và lời tạ ơn lên Đấng ngự trên ngai, Đấng hằng sống đến muôn thuở muôn đời,",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.722Z",
+      "updatedAt": "2024-09-23T03:30:45.722Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "0caa5dbd-9592-4e92-a95e-8468fe548821",
+      "number": 10,
+      "content": "thì hai mươi bốn vị Kỳ Mục phủ phục xuống trước mặt Đấng ngự trên ngai mà thờ lạy Người, Đấng hằng sống đến muôn thuở muôn đời, rồi đặt triều thiên của mình xuống trước ngai mà nói :",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:30:45.724Z",
+      "updatedAt": "2024-09-23T03:30:45.724Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "cc47121d-ec71-45cd-8fe0-e7e04979f908",
+      "number": 11,
+      "content": "“Lạy Chúa",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.730Z",
+      "updatedAt": "2024-09-23T03:30:45.730Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "8cef3517-87e8-4aee-8396-35036e8ad986",
+      "number": 11,
+      "content": "là Thiên Chúa chúng con,",
+      "order": 1,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.732Z",
+      "updatedAt": "2024-09-23T03:30:45.732Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d1dbca6c-6de5-4744-8a46-c36c22376df6",
+      "number": 11,
+      "content": "Ngài xứng đáng lãnh nhận",
+      "order": 2,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.736Z",
+      "updatedAt": "2024-09-23T03:30:45.736Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "eb43c0dd-edc9-4a10-8b03-bde9d432bbe6",
+      "number": 11,
+      "content": "vinh quang, danh dự và uy quyền,",
+      "order": 3,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.738Z",
+      "updatedAt": "2024-09-23T03:30:45.738Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "5417a070-ef8c-4ffa-9c50-3ba8b4cb3193",
+      "number": 11,
+      "content": "vì Ngài đã dựng nên muôn vật,",
+      "order": 4,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.740Z",
+      "updatedAt": "2024-09-23T03:30:45.740Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "21529c7b-a53c-4018-86f7-83e0c347464f",
+      "number": 11,
+      "content": "và do ý Ngài muốn,",
+      "order": 5,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.745Z",
+      "updatedAt": "2024-09-23T03:30:45.745Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d4aa3615-fbd9-48a4-8ab2-c3a35140ffd6",
+      "number": 11,
+      "content": "mọi loài liền có và được dựng nên.”",
+      "order": 6,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:30:45.750Z",
+      "updatedAt": "2024-09-23T03:30:45.750Z",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "a1327d16-a6cc-4687-bcbb-f60a34e35369",
+      "content": "Ch. 2 – 3 gồm những sấm ngôn thuộc văn thể ngôn sứ hơn là thuộc văn thể khải huyền. Từ ch. 4 trở đi mới là văn chương khải huyền đúng nghĩa. Như dàn bài cho thấy tác giả đã xuất thần và nhìn thấy rất nhiều thị kiến khác nhau. Qua đó, tác giả hiểu được Hội Thánh phải đương đầu với Ít-ra-en (ch. 4 – 11) và với đế quốc Rô-ma (ch. 12 – 21) như thế nào để có thể tồn tại. Thảm kịch chấm dứt. Hội Thánh sống trong một thế giới mới (21,1 – 22,15).",
+      "position": 16,
+      "order": 0,
+      "createdAt": "2024-09-23T03:30:45.625Z",
+      "updatedAt": "2024-09-23T03:30:45.625Z",
+      "headingId": "2e283f15-bee5-4e19-8de7-180dee0fbb49",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "417b23dc-5b25-448f-9ed0-cd99133485e8",
+      "content": "Sau thị kiến về cái ngai (ch. 4 – 5) là một chuỗi biến cố (ch. 6 – 11). Đó là lịch sử Ít-ra-en. Ít-ra-en sụp đổ vì bị quân Rô-ma tấn công. Việc này được coi như là Thiên Chúa phán xét dân Người. Hội Thánh thay thế Ít-ra-en. *Số sót* của Ít-ra-en nay trở thành rường cột cho Hội Thánh. Hội Thánh khai sinh từ Do-thái giáo, nhưng lại phát triển cho các dân tộc.",
+      "position": 41,
+      "order": 1,
+      "createdAt": "2024-09-23T03:30:45.630Z",
+      "updatedAt": "2024-09-23T03:30:45.630Z",
+      "headingId": "e3bde906-efaf-4487-9384-e357c8fe3f53",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "0dbe7777-1823-458f-8ebf-dbd87e0ce620",
+      "content": "Hoàng đế Rô-ma buộc mọi người trong đế quốc phải tôn thờ ông như một vị thần sống. Thực ra, người ta chỉ thờ phượng một mình Thiên Chúa là Thiên Chúa của các tổ phụ Áp-ra-ham, I-xa-ác và Gia-cóp. Để diễn tả đúng quan niệm về Thiên Chúa uy linh cao cả, tác giả vay mượn những hình ảnh các thị kiến của I-sai-a trong Đền Thờ (x. Is 6), đặc biệt là những hình ảnh rất khó diễn tả của Ed 1 và 10. Kèm theo những khúc thánh ca ngợi khen Đấng Tạo Hoá, và tuyên xưng Đức Giê-su là Con Chiên gánh tội trần gian, ban ơn cứu độ cho nhân loại. Tất cả hình ảnh, ngôn ngữ của hai ch. 4 – 5 mang sắc thái và bầu khí phụng vụ không phải ở Đền Thờ, mà là trong Hội Thánh.",
+      "position": 47,
+      "order": 2,
+      "createdAt": "2024-09-23T03:30:45.635Z",
+      "updatedAt": "2024-09-23T03:30:45.635Z",
+      "headingId": "828042da-6b57-4d08-8061-07a4ed6869d4",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "8a96b4f7-d021-456b-8ec9-33c2faa4ecf5",
+      "content": "Theo quan niệm vũ trụ của người Do-thái, bầu trời như một cái vòm chắc chắn (x. St 1,6 ; Am 9,6). Muốn vào bầu trời phải đi qua các cửa. Tác giả được mời vào nơi bí nhiệm để nhìn ngắm Thiên Chúa và Đức Giê-su. Điều này mô tả tính siêu việt của Thiên Chúa và của Đức Giê-su.",
+      "position": 64,
+      "order": 3,
+      "createdAt": "2024-09-23T03:30:45.640Z",
+      "updatedAt": "2024-09-23T03:30:45.640Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "477696af-c66c-4a69-afc3-7c70401089f9",
+      "content": "Mượn hình ảnh của Ed 1 và 10. Ngai tượng trưng cho quyền bính của Thiên Chúa trên các thụ tạo. Tác giả dùng từ *ngai* bốn mươi lần. Ông không dám mô tả Thiên Chúa hoặc hình dung Thiên Chúa. Ông dùng từ *Đấng ngự trên ngai* để chỉ Thiên Chúa. Ánh sáng, vinh quang Thiên Chúa chiếu toả tượng trưng sự hiện diện của Thiên Chúa.",
+      "position": 39,
+      "order": 4,
+      "createdAt": "2024-09-23T03:30:45.658Z",
+      "updatedAt": "2024-09-23T03:30:45.658Z",
+      "verseId": "736dad3e-87b5-4c2d-b1a0-5321c658b3d9",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "3ff34f77-7075-4828-a336-cc43a4afa41f",
+      "content": "Đây là hai thứ đá quý, tượng trưng cho vẻ huy hoàng (x. Ed 1,26-28 ; 10,1).",
+      "position": 50,
+      "order": 5,
+      "createdAt": "2024-09-23T03:30:45.672Z",
+      "updatedAt": "2024-09-23T03:30:45.672Z",
+      "verseId": "4b4ed27a-4c1e-4751-909a-992c9b41a48b",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "e3045cbb-3b47-4c24-84bf-5e4ea99f5900",
+      "content": "X. St 9,13.16. Biểu tượng lòng nhân từ.",
+      "position": 80,
+      "order": 6,
+      "createdAt": "2024-09-23T03:30:45.676Z",
+      "updatedAt": "2024-09-23T03:30:45.676Z",
+      "verseId": "4b4ed27a-4c1e-4751-909a-992c9b41a48b",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "7d4f0a6a-8ba0-4137-92c5-74873e082701",
+      "content": "Cách phục sức chứng tỏ hai mươi bốn Kỳ Mục này vừa là tư tế (áo trắng) vừa là vua (triều thiên). Con số hai mươi bốn dựa vào 1 Sb 24,1-9, nói về cách tổ chức phụng vụ ở Đền Thờ : hai mươi bốn phiên tư tế. Đây ám chỉ mười hai chi tộc Ít-ra-en và mười hai Tông Đồ.",
+      "position": 91,
+      "order": 7,
+      "createdAt": "2024-09-23T03:30:45.685Z",
+      "updatedAt": "2024-09-23T03:30:45.685Z",
+      "verseId": "956be063-0975-45f3-84f0-11753c51fa7e",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "60c0ea42-83bb-495a-8095-3e38528b974a",
+      "content": "Theo kiểu Cựu Ước mô tả những cuộc thần hiện hay hoạt động của Thiên Chúa (x. Xh 19,16 ; Ed 1,13).",
+      "position": 45,
+      "order": 8,
+      "createdAt": "2024-09-23T03:30:45.693Z",
+      "updatedAt": "2024-09-23T03:30:45.693Z",
+      "verseId": "0220da47-0134-4220-94de-abf4ae15885c",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "36ff9429-03e6-4d14-8184-7cbe6561a641",
+      "content": "C. 6-8 giống thị kiến cái xe trong Ed 1,4-28 ; 10,1.12.14. Ám chỉ toàn bộ hoạt động của Thiên Chúa khắp mọi nơi. Nhiều mắt biểu tượng sự hiểu biết sâu rộng và quan phòng của Thiên Chúa. Hình dáng chúng tượng trưng sự cao quý, sức mạnh khôn ngoan và hoạt bát.",
+      "position": 98,
+      "order": 9,
+      "createdAt": "2024-09-23T03:30:45.698Z",
+      "updatedAt": "2024-09-23T03:30:45.698Z",
+      "verseId": "d12d9aeb-a264-4cc2-8e28-918259af1753",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "62024cbf-686d-4ced-8e23-376e03ff4f50",
+      "content": "X. Is 6,3. Thánh ca này chống lại việc tôn thờ hoàng đế Rô-ma, và tuyên xưng Thiên Chúa là Đấng Thánh (x. 1,8).",
+      "position": 29,
+      "order": 10,
+      "createdAt": "2024-09-23T03:30:45.710Z",
+      "updatedAt": "2024-09-23T03:30:45.710Z",
+      "verseId": "fa97fdb5-24c4-40b9-b467-577207893de5",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "747e2565-1f6a-4463-9a6b-011ed462eb00",
+      "content": "Cử chỉ tôn thờ Thiên Chúa toàn năng. Các Kỳ Mục từ chối tôn thờ các vua chúa trần gian (x. 17,2).",
+      "position": 147,
+      "order": 11,
+      "createdAt": "2024-09-23T03:30:45.726Z",
+      "updatedAt": "2024-09-23T03:30:45.726Z",
+      "verseId": "0caa5dbd-9592-4e92-a95e-8468fe548821",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "7b73d05e-6480-4f6e-9658-40c984b7fb1c",
+      "content": "X. 14,7. Kiểu thánh ca này quen dùng trong phụng vụ hội đường, nay được anh em tín hữu sử dụng trong các buổi cầu nguyện. Đây cũng là bản tuyên xưng đức tin trước thế giới ngoại giáo.",
+      "position": 23,
+      "order": 12,
+      "createdAt": "2024-09-23T03:30:45.734Z",
+      "updatedAt": "2024-09-23T03:30:45.734Z",
+      "verseId": "8cef3517-87e8-4aee-8396-35036e8ad986",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    }
+  ],
+  "headings": [
+    {
+      "id": "2e283f15-bee5-4e19-8de7-180dee0fbb49",
+      "content": "II. CÁC THỊ KIẾN",
+      "order": 0,
+      "createdAt": "2024-09-23T03:30:45.623Z",
+      "updatedAt": "2024-09-23T03:30:45.623Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "e3bde906-efaf-4487-9384-e357c8fe3f53",
+      "content": "1. CHUẨN BỊ “NGÀY LỚN LAO” CỦA THIÊN CHÚA",
+      "order": 1,
+      "createdAt": "2024-09-23T03:30:45.628Z",
+      "updatedAt": "2024-09-23T03:30:45.628Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "828042da-6b57-4d08-8061-07a4ed6869d4",
+      "content": "Thiên Chúa trao vận mệnh thế giới cho Con Chiên",
+      "order": 2,
+      "createdAt": "2024-09-23T03:30:45.632Z",
+      "updatedAt": "2024-09-23T03:30:45.632Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    }
+  ],
+  "references": [
+    {
+      "id": "1a87098f-3ad4-47be-9b75-71e3c972b7e1",
+      "content": "Kh 1,10; Xh 19,16",
+      "position": 109,
+      "order": 0,
+      "createdAt": "2024-09-23T03:30:45.644Z",
+      "updatedAt": "2024-09-23T03:30:45.644Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "9fb75801-53b0-4478-a157-a642447f1c74",
+      "content": "Đn 2,28",
+      "position": 184,
+      "order": 1,
+      "createdAt": "2024-09-23T03:30:45.649Z",
+      "updatedAt": "2024-09-23T03:30:45.649Z",
+      "verseId": "e54e4f44-e2c6-4f0e-8760-d40e7d21dd78",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "a83a8458-5c2d-4d33-a8c7-56a24855ae11",
+      "content": "Is 6,1; Ed 1,26-28",
+      "position": 35,
+      "order": 2,
+      "createdAt": "2024-09-23T03:30:45.663Z",
+      "updatedAt": "2024-09-23T03:30:45.663Z",
+      "verseId": "736dad3e-87b5-4c2d-b1a0-5321c658b3d9",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "4cc9dd71-f90d-4c4b-90c9-394225ba66c9",
+      "content": "Kh 10,1; St 9,12-17",
+      "position": 72,
+      "order": 3,
+      "createdAt": "2024-09-23T03:30:45.679Z",
+      "updatedAt": "2024-09-23T03:30:45.679Z",
+      "verseId": "4b4ed27a-4c1e-4751-909a-992c9b41a48b",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d4ef07b9-8518-4a43-b1ab-0d7c796574ad",
+      "content": "Is 24,23",
+      "position": 85,
+      "order": 4,
+      "createdAt": "2024-09-23T03:30:45.688Z",
+      "updatedAt": "2024-09-23T03:30:45.688Z",
+      "verseId": "956be063-0975-45f3-84f0-11753c51fa7e",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "ab44ff1f-46fe-4605-a538-abdcba31c169",
+      "content": "Xh 24,10",
+      "position": 30,
+      "order": 5,
+      "createdAt": "2024-09-23T03:30:45.700Z",
+      "updatedAt": "2024-09-23T03:30:45.700Z",
+      "verseId": "d12d9aeb-a264-4cc2-8e28-918259af1753",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "9e974eb4-01d5-49a1-aafa-d9e3c13ce4ab",
+      "content": "Is 6,2; Ed 10,12",
+      "position": 27,
+      "order": 6,
+      "createdAt": "2024-09-23T03:30:45.706Z",
+      "updatedAt": "2024-09-23T03:30:45.706Z",
+      "verseId": "e045c3b4-00e9-4730-a283-e04b6acb4e52",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "03975b09-bdb0-4849-8f2d-42a06e80d130",
+      "content": "Is 6,3",
+      "position": 1,
+      "order": 7,
+      "createdAt": "2024-09-23T03:30:45.712Z",
+      "updatedAt": "2024-09-23T03:30:45.712Z",
+      "verseId": "fa97fdb5-24c4-40b9-b467-577207893de5",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "d8e66a0b-9ba4-400f-8b13-9d241b066ac5",
+      "content": "Kh 1,4.8",
+      "position": 0,
+      "order": 8,
+      "createdAt": "2024-09-23T03:30:45.719Z",
+      "updatedAt": "2024-09-23T03:30:45.719Z",
+      "verseId": "9f9c95e9-5c27-417f-a85e-2a80904e33cc",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "72dc4a1a-0dfe-4e4a-abdc-cdf3cded3f98",
+      "content": "Đn 4,31",
+      "position": 89,
+      "order": 9,
+      "createdAt": "2024-09-23T03:30:45.728Z",
+      "updatedAt": "2024-09-23T03:30:45.728Z",
+      "verseId": "0caa5dbd-9592-4e92-a95e-8468fe548821",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "ceb7c540-9072-4563-9f43-01a2b1f55ce0",
+      "content": "Rm 4,17",
+      "position": 11,
+      "order": 10,
+      "createdAt": "2024-09-23T03:30:45.742Z",
+      "updatedAt": "2024-09-23T03:30:45.742Z",
+      "verseId": "5417a070-ef8c-4ffa-9c50-3ba8b4cb3193",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    },
+    {
+      "id": "af57f670-d67d-47b1-8912-f94b39096c23",
+      "content": "Tv 115,3",
+      "position": 6,
+      "order": 11,
+      "createdAt": "2024-09-23T03:30:45.747Z",
+      "updatedAt": "2024-09-23T03:30:45.747Z",
+      "verseId": "21529c7b-a53c-4018-86f7-83e0c347464f",
+      "chapterId": "72b66c10-45aa-47ec-917d-44cf194e2252"
+    }
+  ],
+  "psalmMetadata": []
+}

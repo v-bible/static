@@ -1,0 +1,385 @@
+{
+  "chapter": {
+    "id": "e489a336-1530-425c-acfb-8a3b84c6bccf",
+    "number": 4,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.404Z",
+    "updatedAt": "2024-09-23T03:08:02.404Z",
+    "bookId": "66285342-de19-4d4f-9b20-ae9ce3164b85"
+  },
+  "verses": [
+    {
+      "id": "924d74f5-0888-4fa6-91a1-adffca15f512",
+      "number": 1,
+      "content": "Vị thần sứ đã nói với tôi trở lại và đánh thức tôi như đánh thức một người đang ngủ.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.859Z",
+      "updatedAt": "2024-09-23T04:57:31.859Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "5710f6a9-f7c1-4fb4-8139-e0baad935b97",
+      "number": 2,
+      "content": "Vị ấy nói với tôi : “Ngươi thấy gì ?” Tôi thưa : “Tôi thấy một trụ đèn toàn bằng vàng, trên đầu có một phao dầu. Trụ ấy có bảy ngọn đèn và trên các ngọn đèn ở đầu trụ có bảy tim đèn.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.869Z",
+      "updatedAt": "2024-09-23T04:57:31.869Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "b128eee9-e838-4f4f-8b1c-33d518205d65",
+      "number": 3,
+      "content": "Bên cạnh trụ đèn, có hai cây ô-liu, một ở bên phải phao dầu và một ở bên trái.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.881Z",
+      "updatedAt": "2024-09-23T04:57:31.881Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "83a8cf83-e30e-4c3b-8272-8814a3728f85",
+      "number": 4,
+      "content": "Tôi cất tiếng thưa với vị thần sứ đã nói với tôi : “Thưa ngài, những cái đó có nghĩa là gì ?”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.890Z",
+      "updatedAt": "2024-09-23T04:57:31.890Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "c4664833-27e0-40e8-8117-38ee74263372",
+      "number": 5,
+      "content": "Thần sứ đã nói với tôi lên tiếng trả lời : “Chẳng lẽ ngươi không biết những thứ ấy nghĩa là gì sao ?” Tôi thưa : “Không, thưa ngài.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.898Z",
+      "updatedAt": "2024-09-23T04:57:31.898Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "fe974e5c-e65c-4985-a34b-b68bb29f9446",
+      "number": 11,
+      "content": "Bấy giờ tôi lên tiếng hỏi vị ấy : “Thưa ngài, hai cây ô-liu ở bên phải bên trái trụ đèn ấy có nghĩa là gì ?”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.919Z",
+      "updatedAt": "2024-09-23T04:57:31.919Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "e6096c51-f2b4-447c-a1a1-02c4daa4d503",
+      "number": 12,
+      "content": "Một lần nữa tôi lại lên tiếng hỏi vị ấy : “Thưa ngài, hai cành ô-liu ở bên hai ống thông dầu bằng vàng, tuôn xuống dầu vàng óng ánh có nghĩa là gì ?”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.923Z",
+      "updatedAt": "2024-09-23T04:57:31.923Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "f3ec4fd1-7b35-4c19-9c92-1e3706ac2a3c",
+      "number": 13,
+      "content": "Vị ấy trả lời tôi rằng : “Chẳng lẽ ngươi không biết những thứ ấy nghĩa là gì sao ?” Tôi thưa : “Không, thưa ngài.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.927Z",
+      "updatedAt": "2024-09-23T04:57:31.927Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "4dea29a1-2f8b-4a59-a61f-dd3b5038b4eb",
+      "number": 14,
+      "content": "Vị ấy bảo : “Đó là hai người được xức dầu đứng phục vụ bên Chúa Tể toàn cõi đất.”",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.931Z",
+      "updatedAt": "2024-09-23T04:57:31.931Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "228f67f2-59ed-47ba-85b7-6085cf779375",
+      "number": 6,
+      "content": "Đây là lời của [ĐỨC CHÚA]() liên quan đến ông [Dơ-rúp-ba-ven]() : Không phải nhờ thế lực, cũng chẳng phải nhờ sức mạnh mà nó hoàn thành công việc Ta giao phó, nhưng là nhờ thần khí của Ta, [ĐỨC CHÚA]() các đạo binh phán.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.902Z",
+      "updatedAt": "2024-09-23T04:57:31.948Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "3dbb13d3-9e24-49f7-ac1f-99dca53b0ed3",
+      "number": 7,
+      "content": "Ngươi là ai, hỡi núi lớn kia ? Trước mặt [Dơ-rúp-ba-ven](), ngươi hãy trở nên đồng bằng. Nó sẽ lấy ra viên đá chóp đỉnh giữa tiếng reo hò : “Đẹp ! Đẹp quá !”",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.968Z",
+      "updatedAt": "2024-09-23T04:57:31.968Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "9a3bf662-1184-4d5c-b9d0-71c9218ac49f",
+      "number": 8,
+      "content": "Có lời [ĐỨC CHÚA]() phán với tôi rằng :",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.985Z",
+      "updatedAt": "2024-09-23T04:57:31.985Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "c52a2fef-16f6-452c-baf0-13897591bb17",
+      "number": 9,
+      "content": "Chính tay [Dơ-rúp-ba-ven]() đã đặt nền móng cho Đền Thờ này và cũng chính tay nó sẽ hoàn tất. Và các người sẽ nhận biết rằng [ĐỨC CHÚA]() các đạo binh đã phái tôi đến với các người.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.989Z",
+      "updatedAt": "2024-09-23T04:57:31.989Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "ba924885-1d9b-42b0-9993-39c0edd00c29",
+      "number": 10,
+      "content": "Vậy ai dám khinh thường bước khởi đầu khiêm tốn của công việc này ? Người ta sẽ hân hoan khi nhìn thấy viên đá được tuyển lựa trong tay [Dơ-rúp-ba-ven]().",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:57:31.906Z",
+      "updatedAt": "2024-09-23T04:57:31.999Z",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "edfa1924-585d-460d-a974-119b589edc8f",
+      "content": "Thị kiến thứ năm xem ra tối nghĩa. Cc. 4,1-5 thị kiến về trụ đèn và hai cây ô-liu. Trụ đèn, được đặt trong Đền Thờ, ở đây ám chỉ Đền Thờ. Cây ô-liu ám chỉ ông Giô-suê và ông Dơ-rúp-ba-ven. Các ông có nhiệm vụ xây dựng Đền Thờ cũng như bảo vệ Đền Thờ. Cc. 4,10b-14 : giải thích trụ đèn và hai cây ô-liu. Thị kiến này nhấn mạnh vai trò lãnh đạo xã hội và tôn giáo liên quan chặt chẽ với nhau, nhưng không nói đến tái lập vương triều Đa-vít ngay tức thời.",
+      "position": 46,
+      "order": 0,
+      "createdAt": "2024-09-23T04:57:31.864Z",
+      "updatedAt": "2024-09-23T04:57:31.864Z",
+      "headingId": "500c5458-6c8c-4949-89bb-c06570bcb794",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "3483bc69-d334-4c50-8763-4cea1183edb9",
+      "content": "Các thị kiến diễn ra liên tục, nhưng vì tầm quan trọng của thị kiến sắp diễn ra, vị thần sứ gây chú ý hơn cho ngôn sứ.",
+      "position": 83,
+      "order": 1,
+      "createdAt": "2024-09-23T04:57:31.866Z",
+      "updatedAt": "2024-09-23T04:57:31.866Z",
+      "verseId": "924d74f5-0888-4fa6-91a1-adffca15f512",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "6d1b53f8-d125-432e-a692-c4eae2210db3",
+      "content": "Số *bảy* chỉ sự toàn hảo.",
+      "position": 181,
+      "order": 2,
+      "createdAt": "2024-09-23T04:57:31.873Z",
+      "updatedAt": "2024-09-23T04:57:31.873Z",
+      "verseId": "5710f6a9-f7c1-4fb4-8139-e0baad935b97",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "740603fe-3fa5-4a4b-ada5-93a8c541e110",
+      "content": "Theo 4,14, đó là hai người được xức dầu : ông Giô-suê và ông Dơ-rúp-ba-ven.",
+      "position": 34,
+      "order": 3,
+      "createdAt": "2024-09-23T04:57:31.886Z",
+      "updatedAt": "2024-09-23T04:57:31.886Z",
+      "verseId": "b128eee9-e838-4f4f-8b1c-33d518205d65",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "4eb3d969-8628-4980-a398-9add0f74e1ae",
+      "content": "Cc. 4-5 được lặp lại trong cc. 11.13.",
+      "position": 90,
+      "order": 4,
+      "createdAt": "2024-09-23T04:57:31.894Z",
+      "updatedAt": "2024-09-23T04:57:31.894Z",
+      "verseId": "83a8cf83-e30e-4c3b-8272-8814a3728f85",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "56bdb344-7546-417c-9483-9ae952e95c56",
+      "content": "Tượng trưng Thiên Chúa quan phòng thông biết mọi sự.",
+      "position": 32,
+      "order": 5,
+      "createdAt": "2024-09-23T04:57:31.910Z",
+      "updatedAt": "2024-09-23T04:57:31.910Z",
+      "verseId": "ba924885-1d9b-42b0-9993-39c0edd00c29",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "324caaf3-7d03-49d6-997e-3465490aed67",
+      "content": "ds : *Con của dầu*. Đó là ông Giô-suê và ông Dơ-rúp-ba-ven. Ông Giô-suê đại diện cho quyền hành tôn giáo. Ông được xức dầu tấn phong làm tư tế (x. Lv 4,3 ; 5,16). Còn ông Dơ-rúp-ba-ven, đại diện cho quyền hành thế tục, ông sẽ được xức dầu phong vương. Như thế ứng nghiệm lời ngôn sứ Giê-rê-mi-a (x. Gr 33,14-18) : hai quyền hành liên kết với nhau trong thời cứu độ. Tư tế cũng như nhà vua đều thi hành nhiệm vụ Chúa uỷ thác cho. Các ông phục vụ nhân danh Chúa hay đúng hơn phục vụ Chúa qua anh em đồng bào của mình.",
+      "position": 41,
+      "order": 6,
+      "createdAt": "2024-09-23T04:57:31.938Z",
+      "updatedAt": "2024-09-23T04:57:31.938Z",
+      "verseId": "4dea29a1-2f8b-4a59-a61f-dd3b5038b4eb",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "b9a61fc3-a574-48d0-8f5e-68af8e8c67c8",
+      "content": "Những lời sấm này nói về ông Dơ-rúp-ba-ven. Chính Thiên Chúa chọn ông làm người chỉ huy tái thiết Đền Thờ (c.6b) ; Người sẽ giúp cho ông vượt qua mọi khó khăn trở ngại (c.7). Ông sẽ hoàn tất công trình này (c.9).",
+      "position": 46,
+      "order": 7,
+      "createdAt": "2024-09-23T04:57:31.955Z",
+      "updatedAt": "2024-09-23T04:57:31.955Z",
+      "headingId": "bf5d8e83-946d-4967-a15b-8078e61aaf75",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "c9f81154-11ad-471b-b654-867755fbdc90",
+      "content": "Ông Dơ-rúp-ba-ven là con ông Sơ-an-ti-en (x. Er 3,2 ; 5,2 ; Nkm 12,1 ; Kg 1,1.12.14 ; 2,2.23 ; x. Mt 1,12 ; Lc 3,27), là cháu vua Giô-gia-khin, miêu duệ vua Đa-vít. Ông sinh ra ở Ba-by-lon. Sau sắc chỉ năm 538 tCN của vua Ky-rô, ông trở thành viên khâm sai của hoàng đế, cùng với ông Giô-suê trở về Giu-đa lo công việc tái thiết Đền Thờ. Ông đã vất vả chống lại sự phản đối của dân cư trong xứ và người Sa-ma-ri chiếm ngụ, cũng như phải đương đầu với dân hồi hương nản chí và biếng nhác. Nhưng thần khí Đức Chúa giúp ông vượt mọi trở ngại đó.",
+      "position": 63,
+      "order": 8,
+      "createdAt": "2024-09-23T04:57:31.959Z",
+      "updatedAt": "2024-09-23T04:57:31.959Z",
+      "verseId": "228f67f2-59ed-47ba-85b7-6085cf779375",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "d2ad0678-0be8-44f8-8a25-ea04a1275423",
+      "content": "*Núi lớn* tượng trưng cho những chướng ngại vật chất và tinh thần đối với công trình tái thiết Đền Thờ.",
+      "position": 24,
+      "order": 9,
+      "createdAt": "2024-09-23T04:57:31.972Z",
+      "updatedAt": "2024-09-23T04:57:31.972Z",
+      "verseId": "3dbb13d3-9e24-49f7-ac1f-99dca53b0ed3",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "32d6c024-6f90-493f-b91d-c716ea28e635",
+      "content": "X. Is 28,16 ; Gr 51,26 ; G 38,6. *Viên đá* này là rường cột của kiến trúc xưa. Người ta đặt viên đá đỉnh trên chỗ nối của các viên đá nóc giáp nhau để nối kết các viên đá lại cho vững chắc.",
+      "position": 119,
+      "order": 10,
+      "createdAt": "2024-09-23T04:57:31.976Z",
+      "updatedAt": "2024-09-23T04:57:31.976Z",
+      "verseId": "3dbb13d3-9e24-49f7-ac1f-99dca53b0ed3",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "3ea54b20-e564-4d48-b639-d9a8f9d6f197",
+      "content": "Đền Thờ được đặt nền móng năm 537 tCN, tái thiết từ năm 520 tCN và hoàn tất năm 515 tCN.",
+      "position": 92,
+      "order": 11,
+      "createdAt": "2024-09-23T04:57:31.993Z",
+      "updatedAt": "2024-09-23T04:57:31.993Z",
+      "verseId": "c52a2fef-16f6-452c-baf0-13897591bb17",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    }
+  ],
+  "headings": [
+    {
+      "id": "500c5458-6c8c-4949-89bb-c06570bcb794",
+      "content": "Thị kiến thứ năm : chân đèn và những cây ô-liu",
+      "order": 0,
+      "createdAt": "2024-09-23T04:57:31.862Z",
+      "updatedAt": "2024-09-23T04:57:31.862Z",
+      "verseId": "924d74f5-0888-4fa6-91a1-adffca15f512",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "bf5d8e83-946d-4967-a15b-8078e61aaf75",
+      "content": "Ba lời nói liên quan đến ông [Dơ-rúp-ba-ven]()",
+      "order": 0,
+      "createdAt": "2024-09-23T04:57:31.951Z",
+      "updatedAt": "2024-09-23T04:57:31.951Z",
+      "verseId": "228f67f2-59ed-47ba-85b7-6085cf779375",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    }
+  ],
+  "references": [
+    {
+      "id": "31cd2019-6813-4b61-9162-382d4907c312",
+      "content": "Xh 25,31; 1 V 7,49; Kh 2,1",
+      "position": 63,
+      "order": 0,
+      "createdAt": "2024-09-23T04:57:31.877Z",
+      "updatedAt": "2024-09-23T04:57:31.877Z",
+      "verseId": "5710f6a9-f7c1-4fb4-8139-e0baad935b97",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "9f3734a2-c3d6-4ce9-855b-d8451f7ba752",
+      "content": "Dcr 3,9; Kh 5,6",
+      "position": 25,
+      "order": 1,
+      "createdAt": "2024-09-23T04:57:31.914Z",
+      "updatedAt": "2024-09-23T04:57:31.914Z",
+      "verseId": "ba924885-1d9b-42b0-9993-39c0edd00c29",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "cca0ef88-6200-41cd-ae42-44c3c84aa7b6",
+      "content": "Dcr 6,5; Gs 3,11; Mk 4,13; Kh 11,4",
+      "position": 59,
+      "order": 2,
+      "createdAt": "2024-09-23T04:57:31.943Z",
+      "updatedAt": "2024-09-23T04:57:31.943Z",
+      "verseId": "4dea29a1-2f8b-4a59-a61f-dd3b5038b4eb",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "a6fd40d8-9cea-4768-9c4d-ddf8f1c17090",
+      "content": "1 Sm 17,47; Tv 33,16; Is 31,1; Hs 1,7",
+      "position": 66,
+      "order": 3,
+      "createdAt": "2024-09-23T04:57:31.964Z",
+      "updatedAt": "2024-09-23T04:57:31.964Z",
+      "verseId": "228f67f2-59ed-47ba-85b7-6085cf779375",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "5812593d-b347-4124-8943-15009d2cfb35",
+      "content": "Is 28,16; 1 Pr 2,4-8",
+      "position": 102,
+      "order": 4,
+      "createdAt": "2024-09-23T04:57:31.980Z",
+      "updatedAt": "2024-09-23T04:57:31.980Z",
+      "verseId": "3dbb13d3-9e24-49f7-ac1f-99dca53b0ed3",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    },
+    {
+      "id": "ff8c920f-05d6-4c63-82e9-d66ff9f8d894",
+      "content": "Kg 2,3-5",
+      "position": 136,
+      "order": 5,
+      "createdAt": "2024-09-23T04:57:32.002Z",
+      "updatedAt": "2024-09-23T04:57:32.002Z",
+      "verseId": "ba924885-1d9b-42b0-9993-39c0edd00c29",
+      "chapterId": "e489a336-1530-425c-acfb-8a3b84c6bccf"
+    }
+  ],
+  "psalmMetadata": []
+}

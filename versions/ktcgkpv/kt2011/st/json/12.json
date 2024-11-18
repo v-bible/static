@@ -1,0 +1,460 @@
+{
+  "chapter": {
+    "id": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1",
+    "number": 12,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.211Z",
+    "updatedAt": "2024-09-23T03:08:02.211Z",
+    "bookId": "4052a4bf-8fd5-4d2e-bebe-300d27c4e084"
+  },
+  "verses": [
+    {
+      "id": "a0a00075-d746-40b6-a58d-9c67a1bc3bee",
+      "number": 1,
+      "content": "[ĐỨC CHÚA]() phán với ông [Áp-ram]() : “Hãy rời bỏ xứ sở, họ hàng và nhà cha ngươi, mà đi tới đất Ta sẽ chỉ cho ngươi.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.183Z",
+      "updatedAt": "2024-09-23T03:34:30.183Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "aa4a8b37-dca2-41c1-b4f5-b802559a3331",
+      "number": 2,
+      "content": "Ta sẽ làm cho ngươi thành một dân lớn, sẽ chúc phúc cho ngươi. Ta sẽ cho tên tuổi ngươi được lừng lẫy, và ngươi sẽ là một mối phúc lành.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.203Z",
+      "updatedAt": "2024-09-23T03:34:30.203Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "247f845a-ffe9-4632-b244-534600b60868",
+      "number": 3,
+      "content": "Ta sẽ chúc phúc cho những ai chúc phúc cho ngươi ;",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:34:30.205Z",
+      "updatedAt": "2024-09-23T03:34:30.205Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "4c2880a2-9551-48d2-97b3-5e6bb0f9f59f",
+      "number": 3,
+      "content": "Ai nhục mạ ngươi, Ta sẽ nguyền rủa.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:34:30.209Z",
+      "updatedAt": "2024-09-23T03:34:30.209Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "90b38c7c-90aa-4767-bcc3-ea45a7006d9d",
+      "number": 3,
+      "content": "Nhờ ngươi, mọi gia tộc trên mặt đất sẽ được chúc phúc.”",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:34:30.211Z",
+      "updatedAt": "2024-09-23T03:34:30.211Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "3b6764f8-451d-4619-a2c0-f18f3532ca0e",
+      "number": 4,
+      "content": "Ông [Áp-ram]() ra đi, như [ĐỨC CHÚA]() đã phán với ông. Ông [Áp-ram]() được bảy mươi lăm tuổi khi ông rời [Kha-ran]().",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.216Z",
+      "updatedAt": "2024-09-23T03:34:30.216Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "f57cb252-e74c-456a-8164-6092fd247865",
+      "number": 5,
+      "content": "Ông [Áp-ram]() đem theo vợ là bà [Xa-rai](), cháu là ông [Lót](), và mọi tài sản họ đã gầy dựng được, cùng với gia nhân họ đã có tại [Kha-ran](). Họ ra đi về phía đất [Ca-na-an]() và đã tới đất đó.",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.220Z",
+      "updatedAt": "2024-09-23T03:34:30.220Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "e8f3647f-49ef-4870-b48e-8993e0a815a9",
+      "number": 6,
+      "content": "Ông [Áp-ram]() đi qua đất ấy, đến nơi gọi là [Si-khem](), đến cây Sồi [Mô-re](). Thời bấy giờ, người [Ca-na-an]() đang ở trong đất ấy.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.222Z",
+      "updatedAt": "2024-09-23T03:34:30.222Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "e1eeb1bb-3228-4998-9f92-8687e79b697e",
+      "number": 7,
+      "content": "[ĐỨC CHÚA]() hiện ra với ông [Áp-ram]() và phán : “Ta sẽ ban đất này cho dòng dõi ngươi.” Tại đây ông dựng một bàn thờ để kính [ĐỨC CHÚA](), Đấng đã hiện ra với ông.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.226Z",
+      "updatedAt": "2024-09-23T03:34:30.226Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "b25db0c0-2c95-4f1f-a438-b7cf567a8c75",
+      "number": 8,
+      "content": "Từ chỗ ấy, ông sang miền núi, ở phía đông Bết Ên. Ông cắm lều giữa Bết Ên ở phía tây và Ai ở phía đông. Tại đây ông dựng một bàn thờ để kính [ĐỨC CHÚA]() và ông kêu cầu danh [ĐỨC CHÚA]().",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.232Z",
+      "updatedAt": "2024-09-23T03:34:30.232Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "c0453530-34b4-4f8e-ae3a-93a461b7aad7",
+      "number": 9,
+      "content": "Rồi ông đi từ chặng nọ qua chặng kia đến miền [Ne-ghép]().",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.239Z",
+      "updatedAt": "2024-09-23T03:34:30.239Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "9e7078ac-b4e2-48ae-a54d-040af53b2e79",
+      "number": 10,
+      "content": "Một nạn đói xảy ra trong xứ ấy, và ông [Áp-ram]() xuống trú ngụ ở [Ai-cập](), vì nạn đói hoành hành trong xứ.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.242Z",
+      "updatedAt": "2024-09-23T03:34:30.242Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "0494e25c-bfa5-475b-a578-b9b73d658030",
+      "number": 11,
+      "content": "Vậy khi gần vào [Ai-cập](), ông nói với vợ là bà [Xa-rai]() : “Bà coi, tôi biết bà là một người phụ nữ có nhan sắc.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.259Z",
+      "updatedAt": "2024-09-23T03:34:30.259Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "c98a0876-03f2-4b84-a5c7-28fdb3ae9cac",
+      "number": 12,
+      "content": "Khi người [Ai-cập]() thấy bà, họ sẽ nói : ‘Vợ hắn đấy !’, họ sẽ giết tôi và để cho bà sống.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.263Z",
+      "updatedAt": "2024-09-23T03:34:30.263Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "22c03b09-2eaf-4055-9848-feafe109e813",
+      "number": 13,
+      "content": "Vậy xin bà cứ nói bà là em tôi, để vì bà, người ta xử tốt với tôi, và nhờ bà, tôi được sống.”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.273Z",
+      "updatedAt": "2024-09-23T03:34:30.273Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "e380a57c-7d19-4456-9124-6c9bdded2f9d",
+      "number": 14,
+      "content": "Khi ông [Áp-ram]() đến [Ai-cập](), người [Ai-cập]() thấy vợ ông rất xinh đẹp.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.277Z",
+      "updatedAt": "2024-09-23T03:34:30.277Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "5ce6d650-9993-475f-8ed5-f64346d67309",
+      "number": 15,
+      "content": "Quan lại của [Pha-ra-ô]() thấy bà thì ca tụng bà trước mặt [Pha-ra-ô](), và bà bị đưa vào đền [Pha-ra-ô]().",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 5,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.281Z",
+      "updatedAt": "2024-09-23T03:34:30.281Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "98eb037a-d7f7-4f73-aba0-d0f086e451d2",
+      "number": 16,
+      "content": "Vì bà, người ta xử tốt với ông [Áp-ram]() ; ông được chiên, dê, bò, lừa, tôi trai tớ gái, lừa cái, lạc đà.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 6,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.289Z",
+      "updatedAt": "2024-09-23T03:34:30.289Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "5483f663-6896-400f-b764-7ad51ce0b2ba",
+      "number": 17,
+      "content": "Tại vì bà [Xa-rai](), vợ ông [Áp-ram](), [ĐỨC CHÚA]() giáng những tai ương lớn xuống [Pha-ra-ô]() và gia đình vua.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 7,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.294Z",
+      "updatedAt": "2024-09-23T03:34:30.294Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "454abdf3-4a19-426d-ba19-a8c4a2611dae",
+      "number": 18,
+      "content": "[Pha-ra-ô]() bèn cho gọi ông [Áp-ram]() đến và nói : “Ngươi làm gì ta thế ? Tại sao ngươi đã không khai với ta rằng : nàng là vợ ngươi ?",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 8,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.298Z",
+      "updatedAt": "2024-09-23T03:34:30.298Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "3cc65b67-7640-44d5-b66f-090e6cd91097",
+      "number": 19,
+      "content": "Tại sao ngươi lại nói với ta : ‘Nàng là em tôi’, khiến ta đã lấy nàng làm vợ ? Bây giờ, vợ ngươi đấy, hãy nhận lấy và đi đi !”",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 9,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.303Z",
+      "updatedAt": "2024-09-23T03:34:30.303Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "eadc2ddf-a6ee-4ce3-b2b8-074d785cc4a7",
+      "number": 20,
+      "content": "[Pha-ra-ô]() ra lệnh cho người của vua tống ông [Áp-ram]() đi, cùng với vợ ông và tất cả những gì ông có.",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 10,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:34:30.307Z",
+      "updatedAt": "2024-09-23T03:34:30.307Z",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "6d15df2c-1144-4e01-968d-22b65bab61f2",
+      "content": "Từ sự tích các dân tộc (St 1,1 – 11,26), Sáng thế giờ đây chuyển qua lịch sử dân Ít-ra-en, cụ thể là lịch sử các tổ phụ của họ (St 11,27 – 50,26) bắt đầu bằng gia phả của ông Te-rác. Các ch. 12-13 cũng như 11,27-30 thuộc nguồn Gia-vít (J), chỉ trừ 12,4b-5 của nguồn tư tế (P).",
+      "position": 29,
+      "order": 0,
+      "createdAt": "2024-09-23T03:34:30.197Z",
+      "updatedAt": "2024-09-23T03:34:30.197Z",
+      "headingId": "03c01135-c2aa-4e26-b229-4e843f6e3b6f",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "b2746f27-e0d5-4ee1-8ec6-0d90dce25840",
+      "content": "Sự kiện Thiên Chúa mặc khải cho ông Áp-ram thật là đột ngột. Đối với tác giả, hẳn đây là một đạo lý truyền thống của Ít-ra-en, nên chỉ cần nhắc lại vắn tắt là đủ. Dầu sao, trong bối cảnh đa thần phiếm thần của thế giới thời ấy, sự kiện này quả là một cuộc “cách mạng” thiêng liêng tuyệt diệu ; lời tuyên xưng đức tin đầu tiên trong lịch sử về một Thiên Chúa duy nhất, nền tảng cho tổ chức luân lý và xã hội sau này. – Về phía ông Áp-ram, câu truyện xem ra chủ ý tránh đưa ra bất cứ một điều gì đặc sắc khả dĩ khiến Thiên Chúa chiếu cố đến ông. Tất cả là do ý muốn tự do chọn lựa của Thiên Chúa ; lời Người là lý do duy nhất tạo nên lòng tin nơi ông và thúc đẩy ông hành động.",
+      "position": 36,
+      "order": 1,
+      "createdAt": "2024-09-23T03:34:30.201Z",
+      "updatedAt": "2024-09-23T03:34:30.201Z",
+      "verseId": "a0a00075-d746-40b6-a58d-9c67a1bc3bee",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "f5ab1f26-50e4-4fd0-bb16-14b756832f9e",
+      "content": "Thay vì “sẽ được chúc phúc”, có thể dịch “sẽ chúc phúc cho nhau”, nghĩa là chúc cho nhau được phúc như Áp-ram. Tuy nhiên, theo Hc 44,21 ; LXX và Tân Ước, phải hiểu nghĩa thứ nhất mới đúng : tác giả trình thuật muốn cho thấy rằng nhờ ông Áp-ram và dòng dõi ông, toàn thể các dân trên thế giới, sẽ được Thiên Chúa ban phúc lành. Dầu sao, điều rất đáng để ý là : lịch sử của tổ phụ và dòng dõi ông mở đầu bằng một lời Thiên Chúa hứa ban phúc lành, sau này còn được nhắc lại nhiều lần (x. 18,18 ; 22,18 ; 26,4 ; 28,14 ; Cv 3,25 ; Gl 3,8).",
+      "position": 53,
+      "order": 2,
+      "createdAt": "2024-09-23T03:34:30.213Z",
+      "updatedAt": "2024-09-23T03:34:30.213Z",
+      "verseId": "90b38c7c-90aa-4767-bcc3-ea45a7006d9d",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "9880f7ba-6cd9-4eda-8bf1-338a0deacd41",
+      "content": "Áp-ram già nua bỏ lại tất cả, dứt khoát ra đi cùng với bà vợ vô sinh, hoàn toàn vì tin và chấp nhận lời Thiên Chúa, dù không hề biết mục tiêu của cuộc hành trình là đâu. Nhưng kể từ đấy ông đã trở thành “cha của những kẻ tin” (x. Rm 4 ; Gl 3,7). Nhân loại đang chìm sâu trong lầm lạc và tan rã, nay bắt đầu được phục hồi, tuy còn phải trải qua một tiến trình lịch sử rất dài nữa trước khi sự thống nhất được vãn hồi trọn vẹn. – Về mặt xã hội, cuộc ra đi này của gia đình ông Áp-ram không đơn độc. Từ nửa đầu của thiên niên kỷ II tCN, đã có những đợt di dân quy mô từ miền Nam Lưỡng Hà Địa về hướng Tây Bắc, rồi sau đó về vùng Ca-na-an.",
+      "position": 54,
+      "order": 3,
+      "createdAt": "2024-09-23T03:34:30.218Z",
+      "updatedAt": "2024-09-23T03:34:30.218Z",
+      "verseId": "3b6764f8-451d-4619-a2c0-f18f3532ca0e",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "d26cff42-20c1-4a18-8f09-5027044a78ff",
+      "content": "Vào quãng giữa thiên niên kỷ II, Si-khem là thủ phủ của một tiểu vương quốc. Các công trình khảo cổ quan trọng thực hiện tại khu vực này đã cho thấy điều đó. Tại đây, thời ông Áp-ram đã có một nơi thờ phượng của người dân trong xứ ; bằng chứng là Cây Sồi kia, một trong những cây được sùng bái nhất ở Ca-na-an. Sồi Mô-re (x. Đnl 11,30) có lẽ cũng là Sồi Thầy Bói (Tl 9,37), vì Mô-re có nghĩa là “chỉ dạy”.",
+      "position": 56,
+      "order": 4,
+      "createdAt": "2024-09-23T03:34:30.224Z",
+      "updatedAt": "2024-09-23T03:34:30.224Z",
+      "verseId": "e8f3647f-49ef-4870-b48e-8993e0a815a9",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "78b8a52f-c97c-4bfc-8235-35279540be47",
+      "content": "Thiên Chúa là chủ cả trái đất, lần đầu tiên hứa trao đất Ca-na-an cho con cháu ông Áp-ram. Từ “Đất Hứa” bắt đầu có từ đây (x. 13,15 ; 15,18 ; 26,3-4 ; 28,13 ; v.v.).",
+      "position": 89,
+      "order": 5,
+      "createdAt": "2024-09-23T03:34:30.228Z",
+      "updatedAt": "2024-09-23T03:34:30.228Z",
+      "verseId": "e1eeb1bb-3228-4998-9f92-8687e79b697e",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "97073aab-af3c-46e1-981f-3fd56c09eae1",
+      "content": "*Bết Ên* (Nhà của Thiên Chúa) : một nơi thờ phượng quan trọng nằm ở phía bắc Giê-ru-sa-lem, sau này dưới thời quân chủ Ít-ra-en sẽ là trung tâm tôn giáo sầm uất bậc nhất (x. 28,10-22).",
+      "position": 73,
+      "order": 6,
+      "createdAt": "2024-09-23T03:34:30.234Z",
+      "updatedAt": "2024-09-23T03:34:30.234Z",
+      "verseId": "b25db0c0-2c95-4f1f-a438-b7cf567a8c75",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "de0b8f6e-646d-4d0c-86b3-56c52ed30ba8",
+      "content": "Trong xã hội đa thần, dân Ca-na-an ở đâu thì kêu cầu thần nơi ấy. Qua các địa phương với các nơi thờ phượng khác nhau ấy, tổ phụ Áp-ram chỉ kêu cầu một mình Đức Chúa của ông mà thôi.",
+      "position": 186,
+      "order": 7,
+      "createdAt": "2024-09-23T03:34:30.236Z",
+      "updatedAt": "2024-09-23T03:34:30.236Z",
+      "verseId": "b25db0c0-2c95-4f1f-a438-b7cf567a8c75",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "0c79c721-00df-4fef-af68-ef554c2c8d71",
+      "content": "Câu truyện này hẳn đã gây ấn tượng mạnh cho người Ít-ra-en ; sự việc còn được kể lại hai lần nữa (ch. 20 và 26). Ý tác giả muốn cho thấy những nguy cơ cụ thể bộ tộc của tổ phụ có thể gặp phải ở một xứ xa lạ ; đồng thời đề cao sự phù trợ rõ rệt của Thiên Chúa trong những hoàn cảnh éo le ấy. Ngoài ra, sự tích cũng hàm ý ca ngợi sắc đẹp của bà Xa-rai và sự nhanh trí của ông Áp-ram.",
+      "position": 31,
+      "order": 8,
+      "createdAt": "2024-09-23T03:34:30.250Z",
+      "updatedAt": "2024-09-23T03:34:30.250Z",
+      "headingId": "947f1940-af1e-4c4e-acfa-360ec0af8dc0",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "958f23ea-4b40-41ec-8a44-8cd0ddb012aa",
+      "content": "Vợ của Pha-ra-ô thời xa xưa thường được gọi là em gái. Khảo cổ cũng cho thấy rằng tại một số dân tộc miền Trung Đông cổ thời, bà vợ được đặc biệt ưu đãi cũng có thể được mang danh hiệu em gái. Nói cho cùng, hai ông bà Áp-ram và Xa-rai cũng là anh em ruột cùng cha khác mẹ (x. 20,12). Dầu sao, cách xử sự của tổ phụ trong vụ việc này cũng cho thấy trình độ luân lý của thời đại ấy : chồng sẵn sàng hy sinh danh dự và sự trinh tiết của vợ, để cứu lấy mạng sống của chính mình.",
+      "position": 90,
+      "order": 9,
+      "createdAt": "2024-09-23T03:34:30.268Z",
+      "updatedAt": "2024-09-23T03:34:30.268Z",
+      "verseId": "c98a0876-03f2-4b84-a5c7-28fdb3ae9cac",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "20b50245-445f-41e8-b9ee-4d0e576aa8eb",
+      "content": "*Pha-ra-ô*, ds : “Nhà lớn” là tước hiệu chung của các vua Ai-cập từ tk XV tCN.",
+      "position": 25,
+      "order": 10,
+      "createdAt": "2024-09-23T03:34:30.285Z",
+      "updatedAt": "2024-09-23T03:34:30.285Z",
+      "verseId": "5ce6d650-9993-475f-8ed5-f64346d67309",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    }
+  ],
+  "headings": [
+    {
+      "id": "5e3262e5-7daf-4cb8-a7ac-f9c2f2a05313",
+      "content": "II.- SỰ TÍCH ÔNG ÁP-RA-HAM",
+      "order": 0,
+      "createdAt": "2024-09-23T03:34:30.193Z",
+      "updatedAt": "2024-09-23T03:34:30.193Z",
+      "verseId": "a0a00075-d746-40b6-a58d-9c67a1bc3bee",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "947f1940-af1e-4c4e-acfa-360ec0af8dc0",
+      "content": "Ông [Áp-ram]() ở bên [Ai-cập]()",
+      "order": 0,
+      "createdAt": "2024-09-23T03:34:30.246Z",
+      "updatedAt": "2024-09-23T03:34:30.246Z",
+      "verseId": "9e7078ac-b4e2-48ae-a54d-040af53b2e79",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "03c01135-c2aa-4e26-b229-4e843f6e3b6f",
+      "content": "Thiên Chúa gọi ông [Áp-ram]()",
+      "order": 1,
+      "createdAt": "2024-09-23T03:34:30.195Z",
+      "updatedAt": "2024-09-23T03:34:30.195Z",
+      "verseId": "a0a00075-d746-40b6-a58d-9c67a1bc3bee",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    }
+  ],
+  "references": [
+    {
+      "id": "48bd9a24-1b47-4edf-8e67-983ee20d5341",
+      "content": "Cv 7,2-3; Hr 11,8tt",
+      "position": 0,
+      "order": 0,
+      "createdAt": "2024-09-23T03:34:30.199Z",
+      "updatedAt": "2024-09-23T03:34:30.199Z",
+      "headingId": "03c01135-c2aa-4e26-b229-4e843f6e3b6f",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "94d46150-58ce-4069-af5c-b2d28e495695",
+      "content": "Hc 44,21; Cv 3,25; Gl 3,8",
+      "position": 6,
+      "order": 1,
+      "createdAt": "2024-09-23T03:34:30.207Z",
+      "updatedAt": "2024-09-23T03:34:30.207Z",
+      "verseId": "247f845a-ffe9-4632-b244-534600b60868",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "c7d4198a-8a0a-4a49-a375-6e11b53edb5f",
+      "content": "St 13,15; 15,18; 26,3-4; 28,13; Cv 7,5",
+      "position": 73,
+      "order": 2,
+      "createdAt": "2024-09-23T03:34:30.230Z",
+      "updatedAt": "2024-09-23T03:34:30.230Z",
+      "verseId": "e1eeb1bb-3228-4998-9f92-8687e79b697e",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    },
+    {
+      "id": "3fb09bdc-56e8-4720-99b2-5ef0dc8539c3",
+      "content": "St 26,1-11",
+      "position": 4,
+      "order": 3,
+      "createdAt": "2024-09-23T03:34:30.255Z",
+      "updatedAt": "2024-09-23T03:34:30.255Z",
+      "verseId": "9e7078ac-b4e2-48ae-a54d-040af53b2e79",
+      "chapterId": "00f1e63d-9ae1-4ea9-afe6-eba051fc37c1"
+    }
+  ],
+  "psalmMetadata": []
+}

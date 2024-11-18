@@ -1,0 +1,604 @@
+{
+  "chapter": {
+    "id": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3",
+    "number": 4,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:02.372Z",
+    "updatedAt": "2024-09-23T03:08:02.372Z",
+    "bookId": "dcb1932d-b879-41a5-93e0-fc02b40e01ca"
+  },
+  "verses": [
+    {
+      "id": "f729e17f-ed36-4678-b92b-046f0d0cbbc3",
+      "number": 1,
+      "content": "Tôi lại nhìn thấy mọi chuyện áp bức diễn ra dưới ánh mặt trời : kìa những người bị áp bức đang khóc than mà không người an ủi.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.121Z",
+      "updatedAt": "2024-09-23T04:12:11.121Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "cd662fb0-1dd6-428c-b991-5fd229b8fa7e",
+      "number": 2,
+      "content": "Họ không được một lời an ủi khi những người áp bức họ ra tay hành hạ.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.137Z",
+      "updatedAt": "2024-09-23T04:12:11.137Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "a735dd89-2d44-4737-b7ff-f153d11d3904",
+      "number": 2,
+      "content": "Đối với tôi những người đã chết, những người xưa đã chết có phúc hơn những người còn sống, những người còn đang sống.",
+      "order": 1,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.141Z",
+      "updatedAt": "2024-09-23T04:12:11.141Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "c5c4cd4c-bef6-40fe-92a0-5cc0ced2ae46",
+      "number": 3,
+      "content": "Nhưng còn có phúc hơn cả hai hạng người ấy, đó là kẻ hiện chưa chào đời, kẻ không nhìn thấy việc xấu xa dưới ánh mặt trời.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.147Z",
+      "updatedAt": "2024-09-23T04:12:11.147Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "e671cc2f-d845-4b54-9286-d50472e4fc47",
+      "number": 4,
+      "content": "Tôi nhận thấy rằng trong công việc, con người chấp nhận mọi gian khổ và vận dụng hết tài năng chỉ vì muốn ganh đua với nhau. Nhưng việc đó cũng chỉ là phù vân, là công dã tràng xe cát !",
+      "order": 0,
+      "parNumber": 4,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.152Z",
+      "updatedAt": "2024-09-23T04:12:11.152Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "ce60ac22-b5c9-4b85-89a1-f6532fc487e7",
+      "number": 5,
+      "content": "Kẻ ngu si thì tay quai miệng trễ.",
+      "order": 0,
+      "parNumber": 5,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.154Z",
+      "updatedAt": "2024-09-23T04:12:11.154Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "18e18943-c98c-4b28-a5cf-23e7357fa697",
+      "number": 6,
+      "content": "Làm một tay mà được nhàn hạ",
+      "order": 0,
+      "parNumber": 6,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.160Z",
+      "updatedAt": "2024-09-23T04:12:11.160Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "2f29b9fa-985d-4511-a536-04185e06fed5",
+      "number": 6,
+      "content": "hơn vất vả làm cả hai tay công việc của dã tràng xe cát.",
+      "order": 1,
+      "parNumber": 7,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.163Z",
+      "updatedAt": "2024-09-23T04:12:11.163Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "42f107d8-f7cf-46cd-bad7-6ac1c860710c",
+      "number": 7,
+      "content": "Tôi lại thấy một sự phù vân khác nữa dưới ánh mặt trời :",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.168Z",
+      "updatedAt": "2024-09-23T04:12:11.168Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "0a15f666-f6dd-4ec4-b0d2-56b84fa8585b",
+      "number": 8,
+      "content": "có kẻ sống đơn chiếc, không ai ở với mình, không con cái, không anh em, thế mà cứ không ngừng chịu đựng mọi gian lao ; mắt nhìn của cải, lòng không ngớt thèm muốn : “Vì ai mà tôi phải làm việc cực khổ và sống không thoải mái ?”",
+      "order": 0,
+      "parNumber": 8,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.174Z",
+      "updatedAt": "2024-09-23T04:12:11.174Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "14226c08-26a5-4b33-a8be-e4c2b241b389",
+      "number": 9,
+      "content": "Điều ấy cũng chỉ là phù vân, chỉ là công việc nhọc nhằn vô bổ.",
+      "order": 0,
+      "parNumber": 9,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.188Z",
+      "updatedAt": "2024-09-23T04:12:11.188Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "bd615f70-f6ee-4bb0-8764-2bd26dfbec25",
+      "number": 9,
+      "content": "Hai người thì hơn một, vì hai người làm việc cực khổ sẽ thu nhập khá hơn.",
+      "order": 1,
+      "parNumber": 10,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.193Z",
+      "updatedAt": "2024-09-23T04:12:11.193Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "6089ed79-18f5-4706-82de-12f575b36e6a",
+      "number": 10,
+      "content": "Người này ngã đã có người kia nâng dậy. Nhưng khi chỉ có một mình mà bị ngã thì thật là khốn, vì chẳng có ai nâng dậy cả !”",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.201Z",
+      "updatedAt": "2024-09-23T04:12:11.201Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "87af48bb-fa2a-40ce-bdaa-198c6c9bafcf",
+      "number": 11,
+      "content": "Cũng vậy, hai người nằm chung thì ấm ; một mình làm sao mà ấm được ?”",
+      "order": 0,
+      "parNumber": 10,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.222Z",
+      "updatedAt": "2024-09-23T04:12:11.222Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "f2911541-2065-4fe1-832f-45dee85e2691",
+      "number": 12,
+      "content": "Một mình dễ bị tấn công, có hai người, ắt sẽ đương đầu nổi ; dây chập ba đâu dễ gì đứt ?",
+      "order": 0,
+      "parNumber": 11,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.235Z",
+      "updatedAt": "2024-09-23T04:12:11.235Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "9c55e22f-39ba-471c-8888-aa836e8d79f8",
+      "number": 13,
+      "content": "Người trẻ nghèo mà khôn thì hơn ông vua già mà dại",
+      "order": 0,
+      "parNumber": 12,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.243Z",
+      "updatedAt": "2024-09-23T04:12:11.243Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "65b75679-4e28-4db7-84c1-a85551907365",
+      "number": 13,
+      "content": "vì không còn biết đón nhận lời khuyên ;",
+      "order": 1,
+      "parNumber": 13,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.256Z",
+      "updatedAt": "2024-09-23T04:12:11.256Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "db702c83-9991-4969-9d5c-7e44e1275cba",
+      "number": 14,
+      "content": "mặc dầu chàng trai đó có ra khỏi nhà tù để cai trị,",
+      "order": 0,
+      "parNumber": 14,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.260Z",
+      "updatedAt": "2024-09-23T04:12:11.260Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "20ec5579-27e4-428e-91c1-5690981b0649",
+      "number": 14,
+      "content": "hoặc đã sinh ra bần cùng trong vương quốc.",
+      "order": 1,
+      "parNumber": 15,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:12:11.268Z",
+      "updatedAt": "2024-09-23T04:12:11.268Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "0155318e-1dc9-4b1a-967b-a1a3300a2c90",
+      "number": 15,
+      "content": "Tôi đã thấy hết thảy những ai bước đi dưới ánh mặt trời đều theo nhân vật thứ hai là chàng trai ấy, người sẽ đứng lên thay thế vua kia.",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.277Z",
+      "updatedAt": "2024-09-23T04:12:11.277Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "2ec7217d-670a-411d-86bd-d9bfdfe9234e",
+      "number": 16,
+      "content": "Đoàn dân gồm tất cả những người được chàng trai cai trị, con số họ đông không kể xiết.",
+      "order": 0,
+      "parNumber": 16,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.285Z",
+      "updatedAt": "2024-09-23T04:12:11.285Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "4bcba4ba-4552-489c-bd7e-5de2344ce79f",
+      "number": 17,
+      "content": "Tuy vậy, các thế hệ tiếp theo sẽ chẳng thấy phấn khởi gì vì người đó. Điều ấy cũng chỉ là phù vân, chỉ là công dã tràng xe cát.",
+      "order": 0,
+      "parNumber": 17,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.293Z",
+      "updatedAt": "2024-09-23T04:12:11.293Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "2da6dd30-cc9c-4752-9d25-8f3b3fd8927f",
+      "number": 17,
+      "content": "Hãy cẩn thận khi bạn đưa chân tiến về nhà Thiên Chúa. Đến mà nghe hơn là dâng hy lễ theo kiểu của đứa ngu chỉ biết làm điều xấu.",
+      "order": 1,
+      "parNumber": 18,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T04:12:11.298Z",
+      "updatedAt": "2024-09-23T04:12:11.298Z",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "b26c51e1-b458-4890-9e44-38dffaf24066",
+      "content": "ds : *Tôi quay lại và được thấy*.",
+      "position": 17,
+      "order": 0,
+      "createdAt": "2024-09-23T04:12:11.133Z",
+      "updatedAt": "2024-09-23T04:12:11.133Z",
+      "verseId": "f729e17f-ed36-4678-b92b-046f0d0cbbc3",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "a3859f9b-efb3-4ce7-8e2c-0962ccba3d72",
+      "content": "ds : *kìa, nước mắt của những người bị áp bức*.",
+      "position": 104,
+      "order": 1,
+      "createdAt": "2024-09-23T04:12:11.135Z",
+      "updatedAt": "2024-09-23T04:12:11.135Z",
+      "verseId": "f729e17f-ed36-4678-b92b-046f0d0cbbc3",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "8539cb8d-ec19-451a-897b-460d876f5df1",
+      "content": "Thay vì *an ủi* (näHam), người ta phỏng đoán là *báo thù* (näqam).",
+      "position": 27,
+      "order": 2,
+      "createdAt": "2024-09-23T04:12:11.139Z",
+      "updatedAt": "2024-09-23T04:12:11.139Z",
+      "verseId": "cd662fb0-1dd6-428c-b991-5fd229b8fa7e",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "517004f7-de2a-4c12-b436-5ea68127f950",
+      "content": "ds : *Tôi chúc mừng (ca ngợi) những người đã chết, những người xưa đã chết* (x. 7,1).",
+      "position": 64,
+      "order": 3,
+      "createdAt": "2024-09-23T04:12:11.143Z",
+      "updatedAt": "2024-09-23T04:12:11.143Z",
+      "verseId": "a735dd89-2d44-4737-b7ff-f153d11d3904",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "ef10b7a5-2c5e-4e4d-901a-b79a4856158f",
+      "content": "Cc. 4-6 cho thấy các thái độ làm việc khác nhau của con người. Thường là vì muốn ganh đua, muốn hơn người (c.4). Thái cực ngược lại là lười biếng (c.5), thái độ trung dung được diễn tả ở c.6. ds : *Kẻ ngu si khoanh tay (nó) lại và ăn thịt mình*. Kẻ ngu si ở đây được đồng hoá với kẻ lười biếng, không chịu làm việc (x. Cn 6,10 ; 19,15 ; 21,25).",
+      "position": 32,
+      "order": 4,
+      "createdAt": "2024-09-23T04:12:11.156Z",
+      "updatedAt": "2024-09-23T04:12:11.156Z",
+      "verseId": "ce60ac22-b5c9-4b85-89a1-f6532fc487e7",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "34290b04-5ea4-42d6-8744-5a4e229d111f",
+      "content": "ds : *một tay mà đầy sự nhàn hạ thì tốt hơn hai tay mà đầy sự vất vả nhọc nhằn*.",
+      "position": 25,
+      "order": 5,
+      "createdAt": "2024-09-23T04:12:11.165Z",
+      "updatedAt": "2024-09-23T04:12:11.165Z",
+      "verseId": "2f29b9fa-985d-4511-a536-04185e06fed5",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "7f5932ee-488a-4247-affa-e7bb91d810fc",
+      "content": "Cc. 7-12 diễn tả cuộc sống cô đơn và đời sống tập thể, cái lợi tương đối của đời sống tập thể. Đời sống tập thể có lợi hơn vì một số lý do : hiệu quả cao hơn (c.9), nâng đỡ nhau về mặt vật chất cũng như tinh thần (cc. 10-11), có được sức mạnh (c.12). Tuy thế, vẫn có những người chỉ sống một mình mà lại đầy lòng tham, để rồi phải vất vả làm việc và sống không hạnh phúc.",
+      "position": 54,
+      "order": 6,
+      "createdAt": "2024-09-23T04:12:11.171Z",
+      "updatedAt": "2024-09-23T04:12:11.171Z",
+      "verseId": "42f107d8-f7cf-46cd-bad7-6ac1c860710c",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "15b62bdd-23b2-4136-b542-f8f939e5c9e6",
+      "content": "*Mắt nhìn ... thèm muốn*, ds : *cả mắt của nó cũng không thoả mãn với của cải*.",
+      "position": 162,
+      "order": 7,
+      "createdAt": "2024-09-23T04:12:11.177Z",
+      "updatedAt": "2024-09-23T04:12:11.177Z",
+      "verseId": "0a15f666-f6dd-4ec4-b0d2-56b84fa8585b",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "c7c30642-5333-4e97-b42f-29ff0192bfb5",
+      "content": "ds : *và tước đi hạnh phúc khỏi hồn tôi*.",
+      "position": 224,
+      "order": 8,
+      "createdAt": "2024-09-23T04:12:11.181Z",
+      "updatedAt": "2024-09-23T04:12:11.181Z",
+      "verseId": "0a15f666-f6dd-4ec4-b0d2-56b84fa8585b",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "7d7f3a7d-0ea6-425a-a68c-851dfefe46a6",
+      "content": "ds : *một người*.",
+      "position": 9,
+      "order": 9,
+      "createdAt": "2024-09-23T04:12:11.205Z",
+      "updatedAt": "2024-09-23T04:12:11.205Z",
+      "verseId": "6089ed79-18f5-4706-82de-12f575b36e6a",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "9d8fd1fa-0e53-462d-b374-e51fb34ed104",
+      "content": "ds : *bạn của nó*.",
+      "position": 29,
+      "order": 10,
+      "createdAt": "2024-09-23T04:12:11.209Z",
+      "updatedAt": "2024-09-23T04:12:11.209Z",
+      "verseId": "6089ed79-18f5-4706-82de-12f575b36e6a",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "969a1edc-c3b6-41c6-9923-37547b713304",
+      "content": "ds : *chẳng có người thứ hai để nâng nó dậy*.",
+      "position": 108,
+      "order": 11,
+      "createdAt": "2024-09-23T04:12:11.214Z",
+      "updatedAt": "2024-09-23T04:12:11.214Z",
+      "verseId": "6089ed79-18f5-4706-82de-12f575b36e6a",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "9c3e1e31-e19f-4283-b9ab-3e303871fa61",
+      "content": "Có người cho rằng ở đây tác giả so sánh giữa những người lập gia đình và kẻ sống độc thân không lập gia đình, nhưng cũng có thể đây chỉ là cách nói để so sánh kẻ sống và làm việc riêng lẻ với những người sống và làm việc tập thể (x. 1 V 1-4).",
+      "position": 66,
+      "order": 12,
+      "createdAt": "2024-09-23T04:12:11.226Z",
+      "updatedAt": "2024-09-23T04:12:11.226Z",
+      "verseId": "87af48bb-fa2a-40ce-bdaa-198c6c9bafcf",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "d36bddc3-8efb-4b1e-9d1f-415209a258c3",
+      "content": "ds : *dây chập ba không đứt nhanh*.",
+      "position": 86,
+      "order": 13,
+      "createdAt": "2024-09-23T04:12:11.239Z",
+      "updatedAt": "2024-09-23T04:12:11.239Z",
+      "verseId": "f2911541-2065-4fe1-832f-45dee85e2691",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "89928d76-83da-437b-b7bf-79e54d3f1e55",
+      "content": "X. 9,15. Cc. 13-16 cho thấy cái lợi của sự khôn ngoan so với sự ngu dại ; ở nơi đây cũng trình bày đặc tính của quần chúng : nô nức đón chào những gì mới mẻ, trẻ trung, nhưng rồi cũng mau quên.",
+      "position": 23,
+      "order": 14,
+      "createdAt": "2024-09-23T04:12:11.248Z",
+      "updatedAt": "2024-09-23T04:12:11.248Z",
+      "verseId": "9c55e22f-39ba-471c-8888-aa836e8d79f8",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "8f945478-c620-459b-b088-3e138bab50f4",
+      "content": "*Mặc dầu* hoặc *vì*.",
+      "position": 7,
+      "order": 15,
+      "createdAt": "2024-09-23T04:12:11.264Z",
+      "updatedAt": "2024-09-23T04:12:11.264Z",
+      "verseId": "db702c83-9991-4969-9d5c-7e44e1275cba",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "13faa58d-702c-4917-aad8-cf20c0b19ac1",
+      "content": "X. St 39-41. Ở đây có lẽ tác giả ám chỉ một nền quân chủ già nua nào đó, được kế tục bởi một vị vua xuất thân từ quần chúng, nhưng lại trẻ trung và khôn ngoan, được nhân dân phấn khởi chào đón.",
+      "position": 41,
+      "order": 16,
+      "createdAt": "2024-09-23T04:12:11.272Z",
+      "updatedAt": "2024-09-23T04:12:11.272Z",
+      "verseId": "20ec5579-27e4-428e-91c1-5690981b0649",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "c49fba3f-15d5-4f39-8298-690e5c8d6669",
+      "content": "*Chàng trai* hay *người trẻ* (x. c.13).",
+      "position": 98,
+      "order": 17,
+      "createdAt": "2024-09-23T04:12:11.281Z",
+      "updatedAt": "2024-09-23T04:12:11.281Z",
+      "verseId": "0155318e-1dc9-4b1a-967b-a1a3300a2c90",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "4974785e-9c12-48d8-878e-febcce48c2b3",
+      "content": "C.16a là một câu văn tối nghĩa và khó hiểu. ds : *Không có cùng tận (giới hạn) cho tất cả dân này, tất cả những người ở trước mặt chúng* (lẽ ra phải là *trước mặt nó* : vua). Ở đây có lẽ muốn diễn tả số thần dân của vị vua này thật là đông.",
+      "position": 85,
+      "order": 18,
+      "createdAt": "2024-09-23T04:12:11.289Z",
+      "updatedAt": "2024-09-23T04:12:11.289Z",
+      "verseId": "2ec7217d-670a-411d-86bd-d9bfdfe9234e",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "3c7be573-be98-4c4a-abf4-355cf5553040",
+      "content": "Cc. 4,17 – 5,8 : sau khi đề cập đến đời sống xã hội và chính trị, tác giả đề cập đến đời sống tôn giáo. Một số bản dịch thấy c. 4,17 nằm trong văn mạch sau, nên đã chuyển nó thành 5,1 và lùi dần các câu của đoạn 5 xuống một số.",
+      "position": 52,
+      "order": 19,
+      "createdAt": "2024-09-23T04:12:11.302Z",
+      "updatedAt": "2024-09-23T04:12:11.302Z",
+      "verseId": "2da6dd30-cc9c-4752-9d25-8f3b3fd8927f",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "fc9a3082-16f1-4480-ad32-14740df57ad0",
+      "content": "X. Đnl 5,1.27 ; 6,4 ; 1 Sm 15,22. C.17b là một câu văn Híp-ri tối nghĩa. Vì thế người ta đã suy đoán và dịch nhiều cách khác nhau. ds : *Đến gần mà nghe hơn là dâng hy lễ của đứa ngu, vì chúng chẳng biết để làm điều xấu*. Có thể là chúng không biết làm điều xấu ; điều này khó hiểu ! Vì thế một số bản lại dịch *chúng không biết mình làm điều xấu*, đứa ngu làm điều xấu nhưng không ý thức được đó là điều xấu, việc mình làm là việc xấu. Một số bản dịch khác phỏng đoán và cho rằng M đã viết lộn, họ sửa lại một chút và dịch : *Chúng chẳng biết gì ngoài việc làm điều xấu*.",
+      "position": 127,
+      "order": 20,
+      "createdAt": "2024-09-23T04:12:11.307Z",
+      "updatedAt": "2024-09-23T04:12:11.307Z",
+      "verseId": "2da6dd30-cc9c-4752-9d25-8f3b3fd8927f",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    }
+  ],
+  "headings": [
+    {
+      "id": "5209ee04-f469-4ff3-99b0-f72d8789bfc4",
+      "content": "Đời sống tập thể",
+      "order": 0,
+      "createdAt": "2024-09-23T04:12:11.131Z",
+      "updatedAt": "2024-09-23T04:12:11.131Z",
+      "verseId": "f729e17f-ed36-4678-b92b-046f0d0cbbc3",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    }
+  ],
+  "references": [
+    {
+      "id": "838906e5-54f6-4b8a-a482-da859b84b8df",
+      "content": "G 3,11-23; 10,18-22",
+      "position": 52,
+      "order": 0,
+      "createdAt": "2024-09-23T04:12:11.145Z",
+      "updatedAt": "2024-09-23T04:12:11.145Z",
+      "verseId": "a735dd89-2d44-4737-b7ff-f153d11d3904",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "cfcf3690-aa3f-494e-b240-985918ce5bf6",
+      "content": "Gr 20,17-18",
+      "position": 58,
+      "order": 1,
+      "createdAt": "2024-09-23T04:12:11.149Z",
+      "updatedAt": "2024-09-23T04:12:11.149Z",
+      "verseId": "c5c4cd4c-bef6-40fe-92a0-5cc0ced2ae46",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "3e144656-bc62-4bbb-8406-b788e03308ae",
+      "content": "Cn 6,10-11",
+      "position": 14,
+      "order": 2,
+      "createdAt": "2024-09-23T04:12:11.158Z",
+      "updatedAt": "2024-09-23T04:12:11.158Z",
+      "verseId": "ce60ac22-b5c9-4b85-89a1-f6532fc487e7",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "ed4c3fc5-4144-42c1-a68f-99fe971cf9c0",
+      "content": "Hc 14,4",
+      "position": 184,
+      "order": 3,
+      "createdAt": "2024-09-23T04:12:11.184Z",
+      "updatedAt": "2024-09-23T04:12:11.184Z",
+      "verseId": "0a15f666-f6dd-4ec4-b0d2-56b84fa8585b",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "5b38f3a8-d348-4f39-a07d-d4bac98fdfd1",
+      "content": "Lc 10,1",
+      "position": 0,
+      "order": 4,
+      "createdAt": "2024-09-23T04:12:11.197Z",
+      "updatedAt": "2024-09-23T04:12:11.197Z",
+      "verseId": "bd615f70-f6ee-4bb0-8764-2bd26dfbec25",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "d8e283be-dd84-4240-9937-1d1f88154d6e",
+      "content": "Hc 6,14",
+      "position": 20,
+      "order": 5,
+      "createdAt": "2024-09-23T04:12:11.218Z",
+      "updatedAt": "2024-09-23T04:12:11.218Z",
+      "verseId": "6089ed79-18f5-4706-82de-12f575b36e6a",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "2cc1eeca-3e2d-407c-954f-6c4bd42e2418",
+      "content": "1 V 1,1-2",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2024-09-23T04:12:11.231Z",
+      "updatedAt": "2024-09-23T04:12:11.231Z",
+      "verseId": "87af48bb-fa2a-40ce-bdaa-198c6c9bafcf",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "126b9ec5-4935-46e6-a07d-994bdb6da615",
+      "content": "Gv 9,15",
+      "position": 10,
+      "order": 7,
+      "createdAt": "2024-09-23T04:12:11.252Z",
+      "updatedAt": "2024-09-23T04:12:11.252Z",
+      "verseId": "9c55e22f-39ba-471c-8888-aa836e8d79f8",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    },
+    {
+      "id": "6283eccb-d34f-4858-859d-a471b39acd7b",
+      "content": "Cn 19,2",
+      "position": 25,
+      "order": 8,
+      "createdAt": "2024-09-23T04:12:11.311Z",
+      "updatedAt": "2024-09-23T04:12:11.311Z",
+      "verseId": "2da6dd30-cc9c-4752-9d25-8f3b3fd8927f",
+      "chapterId": "ce92d6ab-6978-4bbf-ab30-c0f3610380e3"
+    }
+  ],
+  "psalmMetadata": []
+}

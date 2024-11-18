@@ -1,0 +1,392 @@
+{
+  "chapter": {
+    "id": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3",
+    "number": 3,
+    "ref": "",
+    "createdAt": "2024-09-23T03:08:01.772Z",
+    "updatedAt": "2024-09-23T03:08:01.772Z",
+    "bookId": "0727149b-8f74-4bbf-9fd8-2d0be7e49a1b"
+  },
+  "verses": [
+    {
+      "id": "68d20a8e-4b19-41b9-8b3e-153e65b525ca",
+      "number": 1,
+      "content": "Anh hãy biết điều này : Vào những ngày sau hết sẽ có những lúc gay go.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.027Z",
+      "updatedAt": "2024-09-23T03:26:59.027Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "63b41885-760c-40f9-aa71-29bb95a7fae3",
+      "number": 2,
+      "content": "Quả thế, người ta sẽ ra ích kỷ, ham tiền bạc, khoác lác, kiêu ngạo, nói lộng ngôn, không vâng lời cha mẹ, vô ân bạc nghĩa, phạm thượng,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.034Z",
+      "updatedAt": "2024-09-23T03:26:59.034Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "0b387bb1-785d-4b7f-bdb8-0386463e4c03",
+      "number": 3,
+      "content": "vô tâm vô tình, tàn nhẫn, nói xấu, thiếu tiết độ, hung dữ, ghét điều thiện,",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.038Z",
+      "updatedAt": "2024-09-23T03:26:59.038Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "7a6e551c-86b8-40f4-850e-41f55f5922f0",
+      "number": 4,
+      "content": "phản trắc, nông nổi, lên mặt kiêu căng, yêu khoái lạc hơn yêu Thiên Chúa ;",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.041Z",
+      "updatedAt": "2024-09-23T03:26:59.041Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "950aaa47-90d2-4bad-820a-5734d2c57488",
+      "number": 5,
+      "content": "hình thức của đạo thánh thì họ còn giữ, nhưng cái chính yếu thì đã chối bỏ. Anh hãy xa lánh cả những người ấy.",
+      "order": 0,
+      "parNumber": 0,
+      "parIndex": 4,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.045Z",
+      "updatedAt": "2024-09-23T03:26:59.045Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "d7bbdb52-7959-4b3c-9434-dc73d6d126ad",
+      "number": 6,
+      "content": "Thuộc bọn đó là những kẻ lẻn vào nhà người ta chinh phục thứ đàn bà nhẹ dạ, đầy những tội lỗi và bị đủ thứ đam mê lôi cuốn,",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.059Z",
+      "updatedAt": "2024-09-23T03:26:59.059Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "770d2002-3576-435c-a1f6-1eb009bf5d0f",
+      "number": 7,
+      "content": "học mãi mà chẳng bao giờ nhận biết được chân lý.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.063Z",
+      "updatedAt": "2024-09-23T03:26:59.063Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "f6cffd19-06c0-41b1-834b-d958636ee52d",
+      "number": 8,
+      "content": "Cũng như [Gian-nê]() và [Giam-rê]() xưa chống lại ông [Mô-sê](), thì nay họ cũng chống lại chân lý ; họ là hạng người đầu óc lệch lạc, lòng tin không có gì vững chắc.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.071Z",
+      "updatedAt": "2024-09-23T03:26:59.071Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "001f4199-80a7-4a0e-b57c-3a93ec3dcd35",
+      "number": 9,
+      "content": "Nhưng họ sẽ không đi xa hơn được, vì như trường hợp hai tên kia, mọi người sẽ thấy rõ là họ điên khùng.",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.084Z",
+      "updatedAt": "2024-09-23T03:26:59.084Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "e61e5c41-6482-4b60-8a9f-2e531579a714",
+      "number": 10,
+      "content": "Phần anh, anh đã theo sát đạo lý, cách sống, dự định của tôi ; anh đã thấy lòng tin, sự nhẫn nại, lòng yêu mến, sự kiên trì của tôi ;",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.088Z",
+      "updatedAt": "2024-09-23T03:26:59.088Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "d19c253f-c245-44c4-87ac-a0e5fcf565e6",
+      "number": 11,
+      "content": "anh đã biết những cơn bắt bớ, những sự đau khổ tôi đã gặp ở [An-ti-ô-khi-a](), [I-cô-ni-ô](), [Lýt-ra](), đã biết tôi chịu bắt bớ như thế nào. Nhưng Chúa đã giải thoát tôi khỏi tất cả.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.096Z",
+      "updatedAt": "2024-09-23T03:26:59.096Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "bc9fadee-05f1-43f5-86d6-daa7fc5ba23f",
+      "number": 12,
+      "content": "Vả lại, những ai muốn sống đạo đức trong Đức [Ki-tô]() Giê-su, đều sẽ bị bắt bớ.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.104Z",
+      "updatedAt": "2024-09-23T03:26:59.104Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "679df994-e772-4b93-862d-aecb77d40852",
+      "number": 13,
+      "content": "Còn hạng người xấu xa và bịp bợm sẽ ngày càng xấu hơn, họ vừa lừa dối, vừa bị lừa dối.",
+      "order": 0,
+      "parNumber": 2,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.112Z",
+      "updatedAt": "2024-09-23T03:26:59.112Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "0babc416-6763-4e04-bb79-14bae802e295",
+      "number": 14,
+      "content": "Phần anh, hãy giữ vững những gì anh đã học được và đã tin chắc. Anh biết anh đã học với những ai.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.117Z",
+      "updatedAt": "2024-09-23T03:26:59.117Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "26ef7bdb-62e5-4943-a112-32d6337063b8",
+      "number": 15,
+      "content": "Và từ thời thơ ấu, anh đã biết Sách Thánh, sách có thể dạy anh nên người khôn ngoan để được ơn cứu độ, nhờ lòng tin vào Đức [Ki-tô]() Giê-su.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 1,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.125Z",
+      "updatedAt": "2024-09-23T03:26:59.125Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "12343486-5b1a-4361-abaf-5b94a1610453",
+      "number": 16,
+      "content": "Tất cả những gì viết trong Sách Thánh đều do Thiên Chúa linh hứng, và có ích cho việc giảng dạy, biện bác, sửa dạy, giáo dục để trở nên công chính.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 2,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.133Z",
+      "updatedAt": "2024-09-23T03:26:59.133Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "9ea7628c-f754-41d2-966c-98968d549f44",
+      "number": 17,
+      "content": "Nhờ vậy, người của Thiên Chúa nên thập toàn, và được trang bị đầy đủ để làm mọi việc lành.",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 3,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:26:59.149Z",
+      "updatedAt": "2024-09-23T03:26:59.149Z",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "9ca7d825-8b62-4d9c-b44b-d34e9a861988",
+      "content": "Đó là sức mạnh nhờ sống kết hợp mật thiết với Đức Ki-tô.",
+      "position": 59,
+      "order": 0,
+      "createdAt": "2024-09-23T03:26:59.050Z",
+      "updatedAt": "2024-09-23T03:26:59.050Z",
+      "verseId": "950aaa47-90d2-4bad-820a-5734d2c57488",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "aa80336a-b80a-4602-b983-7ea913d567b0",
+      "content": "Theo truyền thống Do-thái, hai người này đứng đầu nhóm phù thuỷ Ai-cập, thi thố tài nghệ để làm bẽ mặt ông Mô-sê. Sách Xuất hành không nêu rõ tên của họ (Xh 7,11.22).",
+      "position": 35,
+      "order": 1,
+      "createdAt": "2024-09-23T03:26:59.076Z",
+      "updatedAt": "2024-09-23T03:26:59.076Z",
+      "verseId": "f6cffd19-06c0-41b1-834b-d958636ee52d",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "f6fbf45b-f88e-42f9-b85c-e5c2323e5cd1",
+      "content": "Có ý nói về Cựu Ước nhưng có lẽ cả mấy bản văn trong Tân Ước nữa (x. 1 Tm 5,18).",
+      "position": 65,
+      "order": 2,
+      "createdAt": "2024-09-23T03:26:59.137Z",
+      "updatedAt": "2024-09-23T03:26:59.137Z",
+      "verseId": "12343486-5b1a-4361-abaf-5b94a1610453",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    }
+  ],
+  "headings": [
+    {
+      "id": "8d1a47b6-251d-4d0f-a435-6c79c9908cec",
+      "content": "Đề phòng các nguy hiểm của những thời cuối cùng",
+      "order": 0,
+      "createdAt": "2024-09-23T03:26:59.030Z",
+      "updatedAt": "2024-09-23T03:26:59.030Z",
+      "verseId": "68d20a8e-4b19-41b9-8b3e-153e65b525ca",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    }
+  ],
+  "references": [
+    {
+      "id": "8906c75b-c07d-40fa-82bb-c22b8afc711f",
+      "content": "1 Tm 4,1; 2 Pr 3,3",
+      "position": 34,
+      "order": 0,
+      "createdAt": "2024-09-23T03:26:59.032Z",
+      "updatedAt": "2024-09-23T03:26:59.032Z",
+      "verseId": "68d20a8e-4b19-41b9-8b3e-153e65b525ca",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "0986493b-22d5-45cd-8f87-fc101b043100",
+      "content": "Rm 1,29-31",
+      "position": 24,
+      "order": 1,
+      "createdAt": "2024-09-23T03:26:59.036Z",
+      "updatedAt": "2024-09-23T03:26:59.036Z",
+      "verseId": "63b41885-760c-40f9-aa71-29bb95a7fae3",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "81a85a15-1dc8-484a-a3dc-0893abcb5ade",
+      "content": "Mt 7,15-21; Tt 1,16",
+      "position": 0,
+      "order": 2,
+      "createdAt": "2024-09-23T03:26:59.054Z",
+      "updatedAt": "2024-09-23T03:26:59.054Z",
+      "verseId": "950aaa47-90d2-4bad-820a-5734d2c57488",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "440c610c-1f11-4e05-b925-50ca2ff82e2e",
+      "content": "2 Tm 2,25",
+      "position": 25,
+      "order": 3,
+      "createdAt": "2024-09-23T03:26:59.067Z",
+      "updatedAt": "2024-09-23T03:26:59.067Z",
+      "verseId": "770d2002-3576-435c-a1f6-1eb009bf5d0f",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "ac0c0ddf-5e31-4fa0-bed6-b59e4c359109",
+      "content": "1 Tm 6,5",
+      "position": 118,
+      "order": 4,
+      "createdAt": "2024-09-23T03:26:59.080Z",
+      "updatedAt": "2024-09-23T03:26:59.080Z",
+      "verseId": "f6cffd19-06c0-41b1-834b-d958636ee52d",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "48ed3f9f-a736-4115-b5de-c5885b5e80db",
+      "content": "1 Cr 13,13",
+      "position": 80,
+      "order": 5,
+      "createdAt": "2024-09-23T03:26:59.092Z",
+      "updatedAt": "2024-09-23T03:26:59.092Z",
+      "verseId": "e61e5c41-6482-4b60-8a9f-2e531579a714",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "626aead0-094f-4a15-be45-eab1587b4c96",
+      "content": "Cv 13,50; 14,5.19",
+      "position": 118,
+      "order": 6,
+      "createdAt": "2024-09-23T03:26:59.100Z",
+      "updatedAt": "2024-09-23T03:26:59.100Z",
+      "verseId": "d19c253f-c245-44c4-87ac-a0e5fcf565e6",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "188839a2-8600-4c5c-8a91-1e1515c7da4a",
+      "content": "Ga 15,20; Cv 14,22",
+      "position": 73,
+      "order": 7,
+      "createdAt": "2024-09-23T03:26:59.108Z",
+      "updatedAt": "2024-09-23T03:26:59.108Z",
+      "verseId": "bc9fadee-05f1-43f5-86d6-daa7fc5ba23f",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "6a7fcb5a-565e-4265-9487-58248eaeb2ee",
+      "content": "2 Tm 2,2",
+      "position": 39,
+      "order": 8,
+      "createdAt": "2024-09-23T03:26:59.121Z",
+      "updatedAt": "2024-09-23T03:26:59.121Z",
+      "verseId": "0babc416-6763-4e04-bb79-14bae802e295",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "4ae781c6-1366-43fc-803e-511008134869",
+      "content": "Ga 5,39",
+      "position": 92,
+      "order": 9,
+      "createdAt": "2024-09-23T03:26:59.129Z",
+      "updatedAt": "2024-09-23T03:26:59.129Z",
+      "verseId": "26ef7bdb-62e5-4943-a112-32d6337063b8",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "52307c62-ce50-4af3-89e7-e311cfcfff32",
+      "content": "2 Pr 1,20-21",
+      "position": 0,
+      "order": 10,
+      "createdAt": "2024-09-23T03:26:59.141Z",
+      "updatedAt": "2024-09-23T03:26:59.141Z",
+      "verseId": "12343486-5b1a-4361-abaf-5b94a1610453",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "3ca72ae2-8ea5-4488-bcd0-fd75dfc68963",
+      "content": "Rm 15,4",
+      "position": 70,
+      "order": 11,
+      "createdAt": "2024-09-23T03:26:59.145Z",
+      "updatedAt": "2024-09-23T03:26:59.145Z",
+      "verseId": "12343486-5b1a-4361-abaf-5b94a1610453",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    },
+    {
+      "id": "62cf17d8-9ce2-4fe1-9f53-3106ae3af30a",
+      "content": "2 Tm 2,21",
+      "position": 72,
+      "order": 12,
+      "createdAt": "2024-09-23T03:26:59.153Z",
+      "updatedAt": "2024-09-23T03:26:59.153Z",
+      "verseId": "9ea7628c-f754-41d2-966c-98968d549f44",
+      "chapterId": "2443ee41-be34-44a3-83d0-d9ed00cc2ec3"
+    }
+  ],
+  "psalmMetadata": []
+}

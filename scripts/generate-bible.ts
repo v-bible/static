@@ -17,7 +17,9 @@ const generateBible = async (
 
   const baseFolder = path.join(
     import.meta.dirname,
-    `../${rootDirName}/${versionCode.toLocaleLowerCase()}`,
+    '../versions',
+    rootDirName,
+    versionCode.toLocaleLowerCase(),
   );
   if (!fs.existsSync(baseFolder)) {
     fs.mkdirSync(baseFolder, {
