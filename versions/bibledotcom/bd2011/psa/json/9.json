@@ -586,11 +586,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "18a68a3a-c308-490f-8729-b38cee559502",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu Mút La-bên",
-    "createdAt": "2024-09-23T05:45:04.040Z",
-    "updatedAt": "2024-09-23T05:45:04.040Z",
-    "chapterId": "30e5afc4-e22b-4447-bac0-fe77fb62d81f"
-  }
+  "psalmMetadata": [
+    {
+      "id": "18a68a3a-c308-490f-8729-b38cee559502",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu Mút La-bên",
+      "createdAt": "2024-09-23T05:45:04.040Z",
+      "updatedAt": "2024-09-23T05:45:04.040Z",
+      "chapterId": "30e5afc4-e22b-4447-bac0-fe77fb62d81f"
+    }
+  ]
 }

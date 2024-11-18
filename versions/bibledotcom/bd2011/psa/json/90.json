@@ -490,11 +490,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "66edb956-dd9d-411c-bafe-ed30aa61d95f",
-    "title": "Bài cầu nguyện của Môi-se, người của Đức Chúa Trời",
-    "createdAt": "2024-09-23T05:51:52.899Z",
-    "updatedAt": "2024-09-23T05:51:52.899Z",
-    "chapterId": "026b1e88-e87d-497e-9d6e-2f4dbd228a38"
-  }
+  "psalmMetadata": [
+    {
+      "id": "66edb956-dd9d-411c-bafe-ed30aa61d95f",
+      "title": "Bài cầu nguyện của Môi-se, người của Đức Chúa Trời",
+      "createdAt": "2024-09-23T05:51:52.899Z",
+      "updatedAt": "2024-09-23T05:51:52.899Z",
+      "chapterId": "026b1e88-e87d-497e-9d6e-2f4dbd228a38"
+    }
+  ]
 }

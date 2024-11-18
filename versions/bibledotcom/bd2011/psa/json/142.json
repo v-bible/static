@@ -325,11 +325,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7d596e86-0215-4841-80c4-809d4484d4c7",
-    "title": "Thơ giáo huấn của Đa-vít khi ông trốn trong hang đá. Đây là lời cầu nguyện của ông:",
-    "createdAt": "2024-09-23T05:43:27.454Z",
-    "updatedAt": "2024-09-23T05:43:27.454Z",
-    "chapterId": "de203e0b-e4e4-442e-8f36-e484603b782c"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7d596e86-0215-4841-80c4-809d4484d4c7",
+      "title": "Thơ giáo huấn của Đa-vít khi ông trốn trong hang đá. Đây là lời cầu nguyện của ông:",
+      "createdAt": "2024-09-23T05:43:27.454Z",
+      "updatedAt": "2024-09-23T05:43:27.454Z",
+      "chapterId": "de203e0b-e4e4-442e-8f36-e484603b782c"
+    }
+  ]
 }

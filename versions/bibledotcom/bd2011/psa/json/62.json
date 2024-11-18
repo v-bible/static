@@ -418,11 +418,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "81af1c34-b599-4c1f-a6ea-3d4ab49de8f6",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu Giê-đu-thun",
-    "createdAt": "2024-09-23T05:49:06.829Z",
-    "updatedAt": "2024-09-23T05:49:06.829Z",
-    "chapterId": "11c46274-fbd5-4b5a-be90-e807cb4d28d7"
-  }
+  "psalmMetadata": [
+    {
+      "id": "81af1c34-b599-4c1f-a6ea-3d4ab49de8f6",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu Giê-đu-thun",
+      "createdAt": "2024-09-23T05:49:06.829Z",
+      "updatedAt": "2024-09-23T05:49:06.829Z",
+      "chapterId": "11c46274-fbd5-4b5a-be90-e807cb4d28d7"
+    }
+  ]
 }

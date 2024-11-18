@@ -451,11 +451,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "09e462e0-6889-417d-a1a5-f0434ce6b7bb",
-    "title": "Thơ của Đa-vít, cảm tác khi dân Phi-li-tin bắt ông ở Gát. Cho Trưởng Ban Nhạc: theo điệu “Bồ Câu Yên Lặng Ở Cây Sồi Phương Xa”",
-    "createdAt": "2024-09-23T05:48:32.407Z",
-    "updatedAt": "2024-09-23T05:48:32.407Z",
-    "chapterId": "f849cfec-a998-4a3f-8981-a0093473cd10"
-  }
+  "psalmMetadata": [
+    {
+      "id": "09e462e0-6889-417d-a1a5-f0434ce6b7bb",
+      "title": "Thơ của Đa-vít, cảm tác khi dân Phi-li-tin bắt ông ở Gát. Cho Trưởng Ban Nhạc: theo điệu “Bồ Câu Yên Lặng Ở Cây Sồi Phương Xa”",
+      "createdAt": "2024-09-23T05:48:32.407Z",
+      "updatedAt": "2024-09-23T05:48:32.407Z",
+      "chapterId": "f849cfec-a998-4a3f-8981-a0093473cd10"
+    }
+  ]
 }

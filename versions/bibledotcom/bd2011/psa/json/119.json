@@ -4276,11 +4276,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "39feea08-15db-4d01-bfa5-be73c3068fd1",
-    "title": "(Theo mẫu tự Hê-bơ-rơ)",
-    "createdAt": "2024-09-23T05:54:33.560Z",
-    "updatedAt": "2024-09-23T05:54:33.560Z",
-    "chapterId": "1bf21eb4-47ed-4a60-bc76-8b0be48b1055"
-  }
+  "psalmMetadata": [
+    {
+      "id": "39feea08-15db-4d01-bfa5-be73c3068fd1",
+      "title": "(Theo mẫu tự Hê-bơ-rơ)",
+      "createdAt": "2024-09-23T05:54:33.560Z",
+      "updatedAt": "2024-09-23T05:54:33.560Z",
+      "chapterId": "1bf21eb4-47ed-4a60-bc76-8b0be48b1055"
+    }
+  ]
 }

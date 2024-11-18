@@ -1160,11 +1160,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "6982c55b-e2bc-4e5c-b896-a790f82ad151",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu “Hoa Huệ”",
-    "createdAt": "2024-09-23T05:49:46.063Z",
-    "updatedAt": "2024-09-23T05:49:46.063Z",
-    "chapterId": "e61eabfc-c5c8-437a-a84b-dc760c288a9b"
-  }
+  "psalmMetadata": [
+    {
+      "id": "6982c55b-e2bc-4e5c-b896-a790f82ad151",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu “Hoa Huệ”",
+      "createdAt": "2024-09-23T05:49:46.063Z",
+      "updatedAt": "2024-09-23T05:49:46.063Z",
+      "chapterId": "e61eabfc-c5c8-437a-a84b-dc760c288a9b"
+    }
+  ]
 }

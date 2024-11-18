@@ -540,11 +540,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "48c1afce-ea59-4bb3-9fdc-e38a3ae58fdd",
-    "title": "Thánh thi của con cháu Cô-ra. Theo điệu “Ai Ca”. Do Hê-man trong dòng họ Ê-xơ-ra soạn cho Trưởng Ban Nhạc để giáo huấn",
-    "createdAt": "2024-09-23T05:51:41.499Z",
-    "updatedAt": "2024-09-23T05:51:41.499Z",
-    "chapterId": "351a1f3c-4b3f-4f8f-b0b5-fbc2acfa4e1a"
-  }
+  "psalmMetadata": [
+    {
+      "id": "48c1afce-ea59-4bb3-9fdc-e38a3ae58fdd",
+      "title": "Thánh thi của con cháu Cô-ra. Theo điệu “Ai Ca”. Do Hê-man trong dòng họ Ê-xơ-ra soạn cho Trưởng Ban Nhạc để giáo huấn",
+      "createdAt": "2024-09-23T05:51:41.499Z",
+      "updatedAt": "2024-09-23T05:51:41.499Z",
+      "chapterId": "351a1f3c-4b3f-4f8f-b0b5-fbc2acfa4e1a"
+    }
+  ]
 }

@@ -229,11 +229,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "70c60ac0-570b-4d1c-93e5-d30d6fd7d420",
-    "title": "Giáo huấn ca của Đa-vít. Cho Trưởng Ban Nhạc: dùng với nhạc khí bằng dây. Cảm tác khi dân Xíp đến báo với Sau-lơ, “Há chẳng phải Đa-vít đang trốn giữa chúng tôi sao?”",
-    "createdAt": "2024-09-23T05:48:20.163Z",
-    "updatedAt": "2024-09-23T05:48:20.163Z",
-    "chapterId": "f9cb0054-e7d1-46c8-b42d-36a7583beeb1"
-  }
+  "psalmMetadata": [
+    {
+      "id": "70c60ac0-570b-4d1c-93e5-d30d6fd7d420",
+      "title": "Giáo huấn ca của Đa-vít. Cho Trưởng Ban Nhạc: dùng với nhạc khí bằng dây. Cảm tác khi dân Xíp đến báo với Sau-lơ, “Há chẳng phải Đa-vít đang trốn giữa chúng tôi sao?”",
+      "createdAt": "2024-09-23T05:48:20.163Z",
+      "updatedAt": "2024-09-23T05:48:20.163Z",
+      "chapterId": "f9cb0054-e7d1-46c8-b42d-36a7583beeb1"
+    }
+  ]
 }

@@ -331,11 +331,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "0b0a13da-08b0-4d63-9c9b-748179a9be4c",
-    "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu “Xin Đừng Hủy Phá”",
-    "createdAt": "2024-09-23T05:50:20.020Z",
-    "updatedAt": "2024-09-23T05:50:20.020Z",
-    "chapterId": "f406442e-95d9-4399-a148-abf925cd043b"
-  }
+  "psalmMetadata": [
+    {
+      "id": "0b0a13da-08b0-4d63-9c9b-748179a9be4c",
+      "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu “Xin Đừng Hủy Phá”",
+      "createdAt": "2024-09-23T05:50:20.020Z",
+      "updatedAt": "2024-09-23T05:50:20.020Z",
+      "chapterId": "f406442e-95d9-4399-a148-abf925cd043b"
+    }
+  ]
 }

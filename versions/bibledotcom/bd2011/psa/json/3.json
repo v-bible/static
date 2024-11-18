@@ -265,11 +265,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "9507dd77-6ec1-4b65-b714-d7dece0a58db",
-    "title": "Thơ của Đa-vít. Cảm tác khi ông chạy trốn Áp-sa-lôm con trai ông",
-    "createdAt": "2024-09-23T05:44:41.429Z",
-    "updatedAt": "2024-09-23T05:44:41.429Z",
-    "chapterId": "289b1072-68a7-4114-bf54-479a5958db6b"
-  }
+  "psalmMetadata": [
+    {
+      "id": "9507dd77-6ec1-4b65-b714-d7dece0a58db",
+      "title": "Thơ của Đa-vít. Cảm tác khi ông chạy trốn Áp-sa-lôm con trai ông",
+      "createdAt": "2024-09-23T05:44:41.429Z",
+      "updatedAt": "2024-09-23T05:44:41.429Z",
+      "chapterId": "289b1072-68a7-4114-bf54-479a5958db6b"
+    }
+  ]
 }

@@ -622,11 +622,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "cc8baed8-e6b4-4309-b257-5d0a03e78739",
-    "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu Giê-đu-thun",
-    "createdAt": "2024-09-23T05:50:33.413Z",
-    "updatedAt": "2024-09-23T05:50:33.413Z",
-    "chapterId": "b87cdcbe-05ed-49eb-9187-39928906abfa"
-  }
+  "psalmMetadata": [
+    {
+      "id": "cc8baed8-e6b4-4309-b257-5d0a03e78739",
+      "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu Giê-đu-thun",
+      "createdAt": "2024-09-23T05:50:33.413Z",
+      "updatedAt": "2024-09-23T05:50:33.413Z",
+      "chapterId": "b87cdcbe-05ed-49eb-9187-39928906abfa"
+    }
+  ]
 }

@@ -2009,11 +2009,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7fe1fe60-4332-4de6-b930-85a747de380b",
-    "title": "Thơ của A-sáp. Giáo huấn ca",
-    "createdAt": "2024-09-23T05:50:41.747Z",
-    "updatedAt": "2024-09-23T05:50:41.747Z",
-    "chapterId": "7c7818e9-8e36-4d06-86c4-0aa624e325fa"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7fe1fe60-4332-4de6-b930-85a747de380b",
+      "title": "Thơ của A-sáp. Giáo huấn ca",
+      "createdAt": "2024-09-23T05:50:41.747Z",
+      "updatedAt": "2024-09-23T05:50:41.747Z",
+      "chapterId": "7c7818e9-8e36-4d06-86c4-0aa624e325fa"
+    }
+  ]
 }

@@ -487,11 +487,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "e3dfd799-be96-452d-b86a-41bd1034330e",
-    "title": "Một thánh thi do con cháu Cô-ra cảm tác",
-    "createdAt": "2024-09-23T05:47:48.210Z",
-    "updatedAt": "2024-09-23T05:47:48.210Z",
-    "chapterId": "2df5566d-72b0-49bc-97dd-88d402800a97"
-  }
+  "psalmMetadata": [
+    {
+      "id": "e3dfd799-be96-452d-b86a-41bd1034330e",
+      "title": "Một thánh thi do con cháu Cô-ra cảm tác",
+      "createdAt": "2024-09-23T05:47:48.210Z",
+      "updatedAt": "2024-09-23T05:47:48.210Z",
+      "chapterId": "2df5566d-72b0-49bc-97dd-88d402800a97"
+    }
+  ]
 }

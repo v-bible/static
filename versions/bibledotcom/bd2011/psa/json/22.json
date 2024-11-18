@@ -939,11 +939,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "4a1ec118-a350-4331-9527-5791e4e555ad",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc",
-    "createdAt": "2024-09-23T05:45:58.726Z",
-    "updatedAt": "2024-09-23T05:45:58.726Z",
-    "chapterId": "d4e04d2e-8a3a-4b7e-84e1-a1b4aae5fa40"
-  }
+  "psalmMetadata": [
+    {
+      "id": "4a1ec118-a350-4331-9527-5791e4e555ad",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc",
+      "createdAt": "2024-09-23T05:45:58.726Z",
+      "updatedAt": "2024-09-23T05:45:58.726Z",
+      "chapterId": "d4e04d2e-8a3a-4b7e-84e1-a1b4aae5fa40"
+    }
+  ]
 }

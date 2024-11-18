@@ -754,11 +754,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "81b84463-6dd9-4fcd-818d-29ba64c2cd9d",
-    "title": "Lời cầu nguyện của người gặp khốn khó, trong lúc ngã lòng người ấy dốc đổ lòng mình kêu van trước mặt CHÚA",
-    "createdAt": "2024-09-23T05:52:59.309Z",
-    "updatedAt": "2024-09-23T05:52:59.309Z",
-    "chapterId": "62d07994-ce91-4827-9851-0248387875ef"
-  }
+  "psalmMetadata": [
+    {
+      "id": "81b84463-6dd9-4fcd-818d-29ba64c2cd9d",
+      "title": "Lời cầu nguyện của người gặp khốn khó, trong lúc ngã lòng người ấy dốc đổ lòng mình kêu van trước mặt CHÚA",
+      "createdAt": "2024-09-23T05:52:59.309Z",
+      "updatedAt": "2024-09-23T05:52:59.309Z",
+      "chapterId": "62d07994-ce91-4827-9851-0248387875ef"
+    }
+  ]
 }

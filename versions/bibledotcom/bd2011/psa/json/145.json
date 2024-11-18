@@ -589,11 +589,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "9d84b7dc-9485-46a9-a19e-ddd8412035bb",
-    "title": "Thơ chúc tụng của Đa-vít. (Theo mẫu tự Hê-bơ-rơ)",
-    "createdAt": "2024-09-23T05:43:51.680Z",
-    "updatedAt": "2024-09-23T05:43:51.680Z",
-    "chapterId": "2d5df5c9-7ea6-4d7b-8182-044df74e248b"
-  }
+  "psalmMetadata": [
+    {
+      "id": "9d84b7dc-9485-46a9-a19e-ddd8412035bb",
+      "title": "Thơ chúc tụng của Đa-vít. (Theo mẫu tự Hê-bơ-rơ)",
+      "createdAt": "2024-09-23T05:43:51.680Z",
+      "updatedAt": "2024-09-23T05:43:51.680Z",
+      "chapterId": "2d5df5c9-7ea6-4d7b-8182-044df74e248b"
+    }
+  ]
 }

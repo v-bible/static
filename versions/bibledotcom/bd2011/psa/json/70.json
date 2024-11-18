@@ -241,11 +241,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "19f5590e-6803-48e2-b5ed-40697a34b7b2",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc. Bài cầu nguyện để tưởng nhớ",
-    "createdAt": "2024-09-23T05:49:51.703Z",
-    "updatedAt": "2024-09-23T05:49:51.703Z",
-    "chapterId": "7fa1ecc2-de3b-4fe9-b9b5-a4d6f3a8af8e"
-  }
+  "psalmMetadata": [
+    {
+      "id": "19f5590e-6803-48e2-b5ed-40697a34b7b2",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc. Bài cầu nguyện để tưởng nhớ",
+      "createdAt": "2024-09-23T05:49:51.703Z",
+      "updatedAt": "2024-09-23T05:49:51.703Z",
+      "chapterId": "7fa1ecc2-de3b-4fe9-b9b5-a4d6f3a8af8e"
+    }
+  ]
 }

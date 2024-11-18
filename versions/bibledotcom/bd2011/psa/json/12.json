@@ -238,11 +238,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "62ee28cc-db5a-4891-8064-512520d894e8",
-    "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu nhạc buồn",
-    "createdAt": "2024-09-23T05:45:16.170Z",
-    "updatedAt": "2024-09-23T05:45:16.170Z",
-    "chapterId": "e881b37b-cde0-4e2e-962c-c95e09e231cc"
-  }
+  "psalmMetadata": [
+    {
+      "id": "62ee28cc-db5a-4891-8064-512520d894e8",
+      "title": "Thơ của Đa-vít. Cho Trưởng Ban Nhạc: theo điệu nhạc buồn",
+      "createdAt": "2024-09-23T05:45:16.170Z",
+      "updatedAt": "2024-09-23T05:45:16.170Z",
+      "chapterId": "e881b37b-cde0-4e2e-962c-c95e09e231cc"
+    }
+  ]
 }

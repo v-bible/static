@@ -667,11 +667,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "a563b06a-9cfc-4473-8475-4d4bfead86fe",
-    "title": "Thơ của A-sáp",
-    "createdAt": "2024-09-23T05:47:56.970Z",
-    "updatedAt": "2024-09-23T05:47:56.970Z",
-    "chapterId": "61b65d23-9485-48a8-a60c-f94fb56b74a7"
-  }
+  "psalmMetadata": [
+    {
+      "id": "a563b06a-9cfc-4473-8475-4d4bfead86fe",
+      "title": "Thơ của A-sáp",
+      "createdAt": "2024-09-23T05:47:56.970Z",
+      "updatedAt": "2024-09-23T05:47:56.970Z",
+      "chapterId": "61b65d23-9485-48a8-a60c-f94fb56b74a7"
+    }
+  ]
 }

@@ -336,11 +336,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "182af613-f57f-4c74-9247-b7fb5569fbe0",
-    "title": "Thơ của Đa-vít",
-    "createdAt": "2024-09-23T05:46:28.117Z",
-    "updatedAt": "2024-09-23T05:46:28.117Z",
-    "chapterId": "2104027b-14b2-41d3-bf8c-ccaac2223ec6"
-  }
+  "psalmMetadata": [
+    {
+      "id": "182af613-f57f-4c74-9247-b7fb5569fbe0",
+      "title": "Thơ của Đa-vít",
+      "createdAt": "2024-09-23T05:46:28.117Z",
+      "updatedAt": "2024-09-23T05:46:28.117Z",
+      "chapterId": "2104027b-14b2-41d3-bf8c-ccaac2223ec6"
+    }
+  ]
 }

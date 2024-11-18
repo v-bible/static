@@ -387,11 +387,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "0428e748-69d2-47fb-9e83-be4e05f6b74b",
-    "title": "Giáo huấn ca của Đa-vít",
-    "createdAt": "2024-09-23T05:46:40.717Z",
-    "updatedAt": "2024-09-23T05:46:40.717Z",
-    "chapterId": "862d96b3-d129-4e55-aecd-104e131f82b5"
-  }
+  "psalmMetadata": [
+    {
+      "id": "0428e748-69d2-47fb-9e83-be4e05f6b74b",
+      "title": "Giáo huấn ca của Đa-vít",
+      "createdAt": "2024-09-23T05:46:40.717Z",
+      "updatedAt": "2024-09-23T05:46:40.717Z",
+      "chapterId": "862d96b3-d129-4e55-aecd-104e131f82b5"
+    }
+  ]
 }

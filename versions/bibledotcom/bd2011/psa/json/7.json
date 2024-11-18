@@ -529,11 +529,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7ec5a6b9-7209-48cd-bc9f-9af0d4c5085f",
-    "title": "Thơ của Đa-vít. Dùng để ca ngợi CHÚA về việc Cút người Bên-gia-min",
-    "createdAt": "2024-09-23T05:44:56.633Z",
-    "updatedAt": "2024-09-23T05:44:56.633Z",
-    "chapterId": "ce21f76f-deb9-409a-ac4c-d925ad6d0712"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7ec5a6b9-7209-48cd-bc9f-9af0d4c5085f",
+      "title": "Thơ của Đa-vít. Dùng để ca ngợi CHÚA về việc Cút người Bên-gia-min",
+      "createdAt": "2024-09-23T05:44:56.633Z",
+      "updatedAt": "2024-09-23T05:44:56.633Z",
+      "chapterId": "ce21f76f-deb9-409a-ac4c-d925ad6d0712"
+    }
+  ]
 }

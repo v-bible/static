@@ -550,11 +550,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "dbf2a0bc-efbd-4424-9390-fac94d927d05",
-    "title": "Cho Trưởng Ban Nhạc. Giáo huấn ca của con cháu Cô-ra",
-    "createdAt": "2024-09-23T05:47:23.068Z",
-    "updatedAt": "2024-09-23T05:47:23.068Z",
-    "chapterId": "ce1985f5-953b-4f05-b572-68020da23223"
-  }
+  "psalmMetadata": [
+    {
+      "id": "dbf2a0bc-efbd-4424-9390-fac94d927d05",
+      "title": "Cho Trưởng Ban Nhạc. Giáo huấn ca của con cháu Cô-ra",
+      "createdAt": "2024-09-23T05:47:23.068Z",
+      "updatedAt": "2024-09-23T05:47:23.068Z",
+      "chapterId": "ce1985f5-953b-4f05-b572-68020da23223"
+    }
+  ]
 }

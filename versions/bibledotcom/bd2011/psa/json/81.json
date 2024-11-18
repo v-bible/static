@@ -473,11 +473,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "4752bb32-fad9-441b-8113-00f1384c0102",
-    "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu Ghi-tít",
-    "createdAt": "2024-09-23T05:50:59.994Z",
-    "updatedAt": "2024-09-23T05:50:59.994Z",
-    "chapterId": "2b7e7924-d858-4c07-a106-329df5613a58"
-  }
+  "psalmMetadata": [
+    {
+      "id": "4752bb32-fad9-441b-8113-00f1384c0102",
+      "title": "Thơ của A-sáp. Cho Trưởng Ban Nhạc: theo điệu Ghi-tít",
+      "createdAt": "2024-09-23T05:50:59.994Z",
+      "updatedAt": "2024-09-23T05:50:59.994Z",
+      "chapterId": "2b7e7924-d858-4c07-a106-329df5613a58"
+    }
+  ]
 }

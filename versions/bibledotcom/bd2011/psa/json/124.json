@@ -288,11 +288,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "c4ce6d5d-32b8-4834-9a50-b4d97d097073",
-    "title": "Bài ca đi lên đền thánh của Đa-vít",
-    "createdAt": "2024-09-23T05:54:55.281Z",
-    "updatedAt": "2024-09-23T05:54:55.281Z",
-    "chapterId": "cbb9244d-13ea-4c74-9a34-1d04b93558d1"
-  }
+  "psalmMetadata": [
+    {
+      "id": "c4ce6d5d-32b8-4834-9a50-b4d97d097073",
+      "title": "Bài ca đi lên đền thánh của Đa-vít",
+      "createdAt": "2024-09-23T05:54:55.281Z",
+      "updatedAt": "2024-09-23T05:54:55.281Z",
+      "chapterId": "cbb9244d-13ea-4c74-9a34-1d04b93558d1"
+    }
+  ]
 }

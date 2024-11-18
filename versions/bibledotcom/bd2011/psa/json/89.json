@@ -1332,11 +1332,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "ce649098-190a-4527-b6e9-e2388b46525a",
-    "title": "Giáo huấn ca của Ê-than, con cháu của Ê-xơ-ra",
-    "createdAt": "2024-09-23T05:51:47.272Z",
-    "updatedAt": "2024-09-23T05:51:47.272Z",
-    "chapterId": "c28395c8-7b45-4b53-8c22-3541097eb577"
-  }
+  "psalmMetadata": [
+    {
+      "id": "ce649098-190a-4527-b6e9-e2388b46525a",
+      "title": "Giáo huấn ca của Ê-than, con cháu của Ê-xơ-ra",
+      "createdAt": "2024-09-23T05:51:47.272Z",
+      "updatedAt": "2024-09-23T05:51:47.272Z",
+      "chapterId": "c28395c8-7b45-4b53-8c22-3541097eb577"
+    }
+  ]
 }

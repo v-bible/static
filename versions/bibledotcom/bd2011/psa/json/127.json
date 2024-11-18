@@ -232,11 +232,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "8632abb7-71a3-40b9-a3da-03a18aa4e96c",
-    "title": "Bài ca đi lên đền thánh của Sa-lô-môn",
-    "createdAt": "2024-09-23T05:55:07.950Z",
-    "updatedAt": "2024-09-23T05:55:07.950Z",
-    "chapterId": "52b4d024-2648-47b9-96e3-b3797d3b8fca"
-  }
+  "psalmMetadata": [
+    {
+      "id": "8632abb7-71a3-40b9-a3da-03a18aa4e96c",
+      "title": "Bài ca đi lên đền thánh của Sa-lô-môn",
+      "createdAt": "2024-09-23T05:55:07.950Z",
+      "updatedAt": "2024-09-23T05:55:07.950Z",
+      "chapterId": "52b4d024-2648-47b9-96e3-b3797d3b8fca"
+    }
+  ]
 }

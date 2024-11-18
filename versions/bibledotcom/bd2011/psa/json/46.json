@@ -310,11 +310,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "6ab32df6-5c96-4980-aaea-1f55761b5f00",
-    "title": "Một thi ca do con cháu Cô-ra cảm tác theo điệu A-la-mốt. Cho Trưởng Ban Nhạc",
-    "createdAt": "2024-09-23T05:47:39.950Z",
-    "updatedAt": "2024-09-23T05:47:39.950Z",
-    "chapterId": "22092168-9881-477c-94ff-bee50fc6514a"
-  }
+  "psalmMetadata": [
+    {
+      "id": "6ab32df6-5c96-4980-aaea-1f55761b5f00",
+      "title": "Một thi ca do con cháu Cô-ra cảm tác theo điệu A-la-mốt. Cho Trưởng Ban Nhạc",
+      "createdAt": "2024-09-23T05:47:39.950Z",
+      "updatedAt": "2024-09-23T05:47:39.950Z",
+      "chapterId": "22092168-9881-477c-94ff-bee50fc6514a"
+    }
+  ]
 }

@@ -1096,11 +1096,13 @@
     }
   ],
   "references": [],
-  "psalmMetadata": {
-    "id": "7850bdcb-262d-4bfa-ac49-233127150820",
-    "title": "Thơ của Đa-vít. (Theo mẫu tự Hê-bơ-rơ)",
-    "createdAt": "2024-09-23T05:47:01.772Z",
-    "updatedAt": "2024-09-23T05:47:01.772Z",
-    "chapterId": "dc2bd60f-e722-4379-91e5-ec415ed8a59e"
-  }
+  "psalmMetadata": [
+    {
+      "id": "7850bdcb-262d-4bfa-ac49-233127150820",
+      "title": "Thơ của Đa-vít. (Theo mẫu tự Hê-bơ-rơ)",
+      "createdAt": "2024-09-23T05:47:01.772Z",
+      "updatedAt": "2024-09-23T05:47:01.772Z",
+      "chapterId": "dc2bd60f-e722-4379-91e5-ec415ed8a59e"
+    }
+  ]
 }
