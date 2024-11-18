@@ -57,18 +57,6 @@
       "chapterId": "28a32e90-1338-43db-b7c0-26729dd787ce"
     },
     {
-      "id": "844f1842-28f0-4dcc-aed5-ebe0f56bda94",
-      "number": 3,
-      "content": "vì [Nước]() Trời là của họ.",
-      "order": 2,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-23T03:09:26.402Z",
-      "updatedAt": "2024-09-23T03:09:26.402Z",
-      "chapterId": "28a32e90-1338-43db-b7c0-26729dd787ce"
-    },
-    {
       "id": "90714eff-96aa-460c-81bc-26fc0084252f",
       "number": 10,
       "content": "vì [Nước]() Trời là của họ.",
@@ -78,6 +66,18 @@
       "isPoetry": true,
       "createdAt": "2024-09-23T03:09:26.496Z",
       "updatedAt": "2024-09-23T03:09:26.496Z",
+      "chapterId": "28a32e90-1338-43db-b7c0-26729dd787ce"
+    },
+    {
+      "id": "844f1842-28f0-4dcc-aed5-ebe0f56bda94",
+      "number": 3,
+      "content": "vì [Nước]() Trời là của họ.",
+      "order": 2,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:09:26.402Z",
+      "updatedAt": "2024-09-23T03:09:26.402Z",
       "chapterId": "28a32e90-1338-43db-b7c0-26729dd787ce"
     },
     {
@@ -1553,5 +1553,6 @@
       "verseId": "ea8e156e-e758-4e4b-9ae6-f12531d8d7e9",
       "chapterId": "28a32e90-1338-43db-b7c0-26729dd787ce"
     }
-  ]
+  ],
+  "psalmMetadata": []
 }

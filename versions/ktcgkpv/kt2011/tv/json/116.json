@@ -285,18 +285,6 @@
       "chapterId": "51d0a0c1-3d34-4005-b89e-8ee7a4535691"
     },
     {
-      "id": "270b9b56-9ab8-4f3c-b314-75e242fb6db8",
-      "number": 18,
-      "content": "Lời khấn nguyền với CHÚA, tôi xin giữ trọn,",
-      "order": 0,
-      "parNumber": 23,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-23T04:19:01.958Z",
-      "updatedAt": "2024-09-23T04:19:01.958Z",
-      "chapterId": "51d0a0c1-3d34-4005-b89e-8ee7a4535691"
-    },
-    {
       "id": "3aadf311-985d-4035-bd6d-bdee1bd401b8",
       "number": 14,
       "content": "Lời khấn nguyền với CHÚA, tôi xin giữ trọn,",
@@ -306,6 +294,18 @@
       "isPoetry": true,
       "createdAt": "2024-09-23T04:19:01.916Z",
       "updatedAt": "2024-09-23T04:19:01.916Z",
+      "chapterId": "51d0a0c1-3d34-4005-b89e-8ee7a4535691"
+    },
+    {
+      "id": "270b9b56-9ab8-4f3c-b314-75e242fb6db8",
+      "number": 18,
+      "content": "Lời khấn nguyền với CHÚA, tôi xin giữ trọn,",
+      "order": 0,
+      "parNumber": 23,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:19:01.958Z",
+      "updatedAt": "2024-09-23T04:19:01.958Z",
       "chapterId": "51d0a0c1-3d34-4005-b89e-8ee7a4535691"
     },
     {
@@ -493,5 +493,6 @@
       "verseId": "7d9c07dc-0e6c-4a97-bec5-293ac5a351ce",
       "chapterId": "51d0a0c1-3d34-4005-b89e-8ee7a4535691"
     }
-  ]
+  ],
+  "psalmMetadata": []
 }

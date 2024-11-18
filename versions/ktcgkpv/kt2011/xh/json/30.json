@@ -129,18 +129,6 @@
       "chapterId": "859a862c-fcc0-40c0-8cf2-a535ce62aa74"
     },
     {
-      "id": "1f96180e-b09f-433e-b94c-d5932b91f3fe",
-      "number": 22,
-      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() :",
-      "order": 0,
-      "parNumber": 1,
-      "parIndex": 0,
-      "isPoetry": false,
-      "createdAt": "2024-09-23T03:37:30.882Z",
-      "updatedAt": "2024-09-23T03:37:30.882Z",
-      "chapterId": "859a862c-fcc0-40c0-8cf2-a535ce62aa74"
-    },
-    {
       "id": "95e3de15-1ea2-486e-9de8-ea93d56cf566",
       "number": 11,
       "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() :",
@@ -150,6 +138,18 @@
       "isPoetry": false,
       "createdAt": "2024-09-23T03:37:30.812Z",
       "updatedAt": "2024-09-23T03:37:30.812Z",
+      "chapterId": "859a862c-fcc0-40c0-8cf2-a535ce62aa74"
+    },
+    {
+      "id": "1f96180e-b09f-433e-b94c-d5932b91f3fe",
+      "number": 22,
+      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() :",
+      "order": 0,
+      "parNumber": 1,
+      "parIndex": 0,
+      "isPoetry": false,
+      "createdAt": "2024-09-23T03:37:30.882Z",
+      "updatedAt": "2024-09-23T03:37:30.882Z",
       "chapterId": "859a862c-fcc0-40c0-8cf2-a535ce62aa74"
     },
     {
@@ -665,5 +665,6 @@
       "verseId": "9238f122-b758-40ff-a747-9998f60d13e5",
       "chapterId": "859a862c-fcc0-40c0-8cf2-a535ce62aa74"
     }
-  ]
+  ],
+  "psalmMetadata": []
 }

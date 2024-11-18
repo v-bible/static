@@ -93,18 +93,6 @@
       "chapterId": "f79bdeca-761b-4733-a26d-d7501d77e4de"
     },
     {
-      "id": "d91456bd-6b01-4ca0-b594-903af46e9624",
-      "number": 16,
-      "content": "Sấm ngôn của người nghe các lời Thiên Chúa,",
-      "order": 0,
-      "parNumber": 3,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-23T03:43:41Z",
-      "updatedAt": "2024-09-23T03:43:41Z",
-      "chapterId": "f79bdeca-761b-4733-a26d-d7501d77e4de"
-    },
-    {
       "id": "5dcc2446-96bd-4bae-8d2c-06addfe9d43a",
       "number": 4,
       "content": "Sấm ngôn của người nghe các lời Thiên Chúa,",
@@ -114,6 +102,18 @@
       "isPoetry": true,
       "createdAt": "2024-09-23T03:43:40.852Z",
       "updatedAt": "2024-09-23T03:43:40.852Z",
+      "chapterId": "f79bdeca-761b-4733-a26d-d7501d77e4de"
+    },
+    {
+      "id": "d91456bd-6b01-4ca0-b594-903af46e9624",
+      "number": 16,
+      "content": "Sấm ngôn của người nghe các lời Thiên Chúa,",
+      "order": 0,
+      "parNumber": 3,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T03:43:41Z",
+      "updatedAt": "2024-09-23T03:43:41Z",
       "chapterId": "f79bdeca-761b-4733-a26d-d7501d77e4de"
     },
     {
@@ -1045,5 +1045,6 @@
       "verseId": "9f36bdc6-9f00-415d-8268-1d597246bbc2",
       "chapterId": "f79bdeca-761b-4733-a26d-d7501d77e4de"
     }
-  ]
+  ],
+  "psalmMetadata": []
 }

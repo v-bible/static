@@ -477,18 +477,6 @@
       "chapterId": "655f65d7-8684-4feb-8e8b-6c261ab2ac3f"
     },
     {
-      "id": "26c0f8d2-8cf7-44ca-975b-0486cf06528b",
-      "number": 18,
-      "content": "Đến ngày đó,",
-      "order": 0,
-      "parNumber": 36,
-      "parIndex": 0,
-      "isPoetry": true,
-      "createdAt": "2024-09-23T04:44:02.561Z",
-      "updatedAt": "2024-09-23T04:44:02.561Z",
-      "chapterId": "655f65d7-8684-4feb-8e8b-6c261ab2ac3f"
-    },
-    {
       "id": "93a11bc5-a06a-4c32-9395-decac1ead513",
       "number": 21,
       "content": "Đến ngày đó,",
@@ -498,6 +486,18 @@
       "isPoetry": true,
       "createdAt": "2024-09-23T04:44:02.635Z",
       "updatedAt": "2024-09-23T04:44:02.635Z",
+      "chapterId": "655f65d7-8684-4feb-8e8b-6c261ab2ac3f"
+    },
+    {
+      "id": "26c0f8d2-8cf7-44ca-975b-0486cf06528b",
+      "number": 18,
+      "content": "Đến ngày đó,",
+      "order": 0,
+      "parNumber": 36,
+      "parIndex": 0,
+      "isPoetry": true,
+      "createdAt": "2024-09-23T04:44:02.561Z",
+      "updatedAt": "2024-09-23T04:44:02.561Z",
       "chapterId": "655f65d7-8684-4feb-8e8b-6c261ab2ac3f"
     },
     {
@@ -1124,5 +1124,6 @@
       "verseId": "44b0e2b8-77ae-4450-96dc-36c06f34d5c8",
       "chapterId": "655f65d7-8684-4feb-8e8b-6c261ab2ac3f"
     }
-  ]
+  ],
+  "psalmMetadata": []
 }
