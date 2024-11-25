@@ -1,10 +1,11 @@
-import { generateSearchIndex } from '@/scripts/generate-search-index';
-import { presets } from '@/src/constant';
+// eslint-disable-next-line import/extensions
+import { generateBible } from '../scripts/generate-bible.js';
+import { presets } from './constant.js';
 
 (async () => {
   const preset = presets.ktcgkpv;
 
-  await generateSearchIndex(
+  await generateBible(
     preset.baseUrl,
     preset.versionCode,
     preset.langCode,
