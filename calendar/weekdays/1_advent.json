@@ -7,7 +7,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "monday",
+    "weekdayType": "monday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -19,7 +19,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "tuesday",
+    "weekdayType": "tuesday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -31,7 +31,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "wednesday",
+    "weekdayType": "wednesday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -43,7 +43,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "thursday",
+    "weekdayType": "thursday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -55,7 +55,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "friday",
+    "weekdayType": "friday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -67,7 +67,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "saturday",
+    "weekdayType": "saturday",
     "weekOrder": "1",
     "periodOfDay": ""
   },
@@ -79,7 +79,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "monday",
+    "weekdayType": "monday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -91,7 +91,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "tuesday",
+    "weekdayType": "tuesday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -103,7 +103,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "wednesday",
+    "weekdayType": "wednesday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -115,7 +115,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "thursday",
+    "weekdayType": "thursday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -127,7 +127,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "friday",
+    "weekdayType": "friday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -139,7 +139,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "saturday",
+    "weekdayType": "saturday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -151,7 +151,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "monday",
+    "weekdayType": "monday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -163,7 +163,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "tuesday",
+    "weekdayType": "tuesday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -175,7 +175,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "wednesday",
+    "weekdayType": "wednesday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -187,7 +187,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "thursday",
+    "weekdayType": "thursday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -199,19 +199,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "friday",
-    "weekOrder": "3",
-    "periodOfDay": ""
-  },
-  {
-    "firstReading": "",
-    "psalm": "",
-    "secondReading": "",
-    "gospel": "",
-    "yearCycle": "",
-    "yearNumber": "",
-    "season": "advent",
-    "weekday": "saturday",
+    "weekdayType": "friday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -223,7 +211,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "17/12",
+    "weekdayType": "17/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -235,7 +223,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "18/12",
+    "weekdayType": "18/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -247,7 +235,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "19/12",
+    "weekdayType": "19/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -259,7 +247,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "20/12",
+    "weekdayType": "20/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -271,7 +259,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "21/12",
+    "weekdayType": "21/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -283,7 +271,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "22/12",
+    "weekdayType": "22/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -295,7 +283,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "23/12",
+    "weekdayType": "23/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   },
@@ -307,7 +295,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "advent",
-    "weekday": "24/12",
+    "weekdayType": "24/12",
     "weekOrder": "preChristmas",
     "periodOfDay": ""
   }

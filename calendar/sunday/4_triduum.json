@@ -7,7 +7,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "holyThursday",
     "periodOfDay": ""
   },
@@ -19,13 +19,13 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "goodFriday",
     "periodOfDay": ""
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1, 26-31a"],
-    "firstPsalm": [
+    "psalm": [
       "Ps 104:1-2, 5-6, 10+12, 13-14, 24+35",
       "Ps 33:4-5, 6-7, 12-13, 20-22"
     ],
@@ -47,13 +47,13 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "easter",
     "periodOfDay": "theEasterVirgil"
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1, 26-31a"],
-    "firstPsalm": [
+    "psalm": [
       "Ps 104:1-2, 5-6, 10+12, 13-14, 24+35",
       "Ps 33:4-5, 6-7, 12-13, 20-22"
     ],
@@ -75,13 +75,13 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "easter",
     "periodOfDay": "theEasterVirgil"
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1, 26-31a"],
-    "firstPsalm": [
+    "psalm": [
       "Ps 104:1-2, 5-6, 10+12, 13-14, 24+35",
       "Ps 33:4-5, 6-7, 12-13, 20-22"
     ],
@@ -103,7 +103,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "easter",
     "periodOfDay": "theEasterVirgil"
   },
@@ -115,7 +115,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "easter",
     "periodOfDay": "day"
   },
@@ -127,7 +127,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -139,7 +139,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -151,7 +151,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "2",
     "periodOfDay": ""
   },
@@ -163,7 +163,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -175,7 +175,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -187,7 +187,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "3",
     "periodOfDay": ""
   },
@@ -199,7 +199,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "4",
     "periodOfDay": ""
   },
@@ -211,7 +211,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "4",
     "periodOfDay": ""
   },
@@ -223,7 +223,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "4",
     "periodOfDay": ""
   },
@@ -235,7 +235,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "5",
     "periodOfDay": ""
   },
@@ -247,7 +247,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "5",
     "periodOfDay": ""
   },
@@ -259,7 +259,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "5",
     "periodOfDay": ""
   },
@@ -271,7 +271,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "6",
     "periodOfDay": ""
   },
@@ -283,7 +283,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "6",
     "periodOfDay": ""
   },
@@ -295,7 +295,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "6",
     "periodOfDay": ""
   },
@@ -307,7 +307,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
     "periodOfDay": ""
   },
@@ -319,7 +319,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
     "periodOfDay": ""
   },
@@ -331,7 +331,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
     "periodOfDay": ""
   },
@@ -343,7 +343,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "7",
     "periodOfDay": ""
   },
@@ -355,7 +355,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "7",
     "periodOfDay": ""
   },
@@ -367,7 +367,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "7",
     "periodOfDay": ""
   },
@@ -384,13 +384,13 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "pentecost",
     "periodOfDay": "virgilMass"
   },
   {
     "firstReading": "Gen 11:1-9",
-    "firstPsalm": "Ps 33:10-11, 12-13, 14-15",
+    "psalm": "Ps 33:10-11, 12-13, 14-15",
     "secondReading": "Exod 19:3-8a, 16-20b",
     "secondPsalm": ["Daniel 3:52, 53, 54, 55, 56", "Ps 19:8, 9, 10, 11"],
     "thirdReading": "Ezek 37:1-14",
@@ -402,7 +402,7 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "pentecost",
     "periodOfDay": "virgilMassExtended"
   },
@@ -414,7 +414,7 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "pentecost",
     "periodOfDay": "day"
   },
@@ -426,7 +426,7 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "pentecost",
     "periodOfDay": "day"
   },
@@ -438,7 +438,7 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "weekday": "sunday",
+    "weekdayType": "sunday",
     "weekOrder": "pentecost",
     "periodOfDay": "day"
   }
