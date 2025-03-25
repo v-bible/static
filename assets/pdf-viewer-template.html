@@ -1,0 +1,58 @@
+<!--Get the samples from https://www.adobe.com/go/pdfembedapi_samples-->
+<!doctype html>
+<html>
+  <head>
+    <title>Adobe Acrobat Services PDF Embed API Sample</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      id="viewport"
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+  </head>
+  <body style="margin: 0px">
+    <div id="adobe-dc-view"></div>
+    <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+    <script type="text/javascript">
+      window.onload = (event) => {
+        let DEFAULT_URL = '';
+        let DEFAULT_FILENAME = 'Untitled';
+        let DEFAULT_MODE = 'FULL_WINDOW';
+        let DEFAULT_CLIENT_ID = '';
+
+        if (window.ReactNativeWebView.injectedObjectJson()) {
+          const obj = JSON.parse(
+            window.ReactNativeWebView.injectedObjectJson(),
+          );
+
+          DEFAULT_MODE = obj.embedMode;
+          DEFAULT_FILENAME = obj.fileName;
+          DEFAULT_URL = obj.fileUrl;
+          DEFAULT_CLIENT_ID = obj.clientId;
+        }
+      };
+    </script>
+    <script type="text/javascript">
+      document.addEventListener('adobe_dc_view_sdk.ready', function () {
+        var adobeDCView = new AdobeDC.View({
+          clientId: 'e11a56067bc646fcbbf5b6486f14283c',
+          divId: 'adobe-dc-view',
+        });
+        adobeDCView.previewFile(
+          {
+            content: {
+              location: {
+                url: DEFAULT_URL,
+              },
+            },
+            metaData: { fileName: 'Untitled' },
+          },
+          {
+            embedMode: 'FULL_WINDOW',
+          },
+        );
+      });
+    </script>
+  </body>
+</html>
