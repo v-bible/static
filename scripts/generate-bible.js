@@ -17,7 +17,7 @@ const generateBible = async (
 
   const baseFolder = path.join(
     import.meta.dirname,
-    '../versions',
+    '../books/bible/versions',
     rootDirName,
     versionCode.toLocaleLowerCase(),
   );
