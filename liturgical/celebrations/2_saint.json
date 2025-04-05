@@ -6,10 +6,12 @@
     "gospel": "Matt 23:8-12",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "02/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Basil the Great & Gregory Nazianzen, bishops and doctors of the Church"
   },
   {
@@ -20,9 +22,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "03/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Most Holy Name of Jesus"
   },
   {
@@ -33,9 +37,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "07/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Raymond of Peñafort, priest"
   },
   {
@@ -46,9 +52,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "13/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Hilary, bishop and doctor of the Church"
   },
   {
@@ -58,10 +66,12 @@
     "gospel": "Matt 19:16-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "17/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Anthony, abbot"
   },
   {
@@ -72,9 +82,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "20/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Fabian, pope and martyr"
   },
   {
@@ -85,9 +97,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "20/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Sebastian, martyr"
   },
   {
@@ -97,10 +111,12 @@
     "gospel": "Matt 13:44-46",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "21/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Agnes, virgin and martyr"
   },
   {
@@ -111,9 +127,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "22/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Vincent, deacon and martyr"
   },
   {
@@ -123,36 +141,42 @@
     "gospel": "John 15:9-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "24/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Francis de Sales, bishop and doctor of the Church"
   },
   {
-    "firstReading": "Acts 22:3-16 or Acts 9:1-22",
+    "firstReading": ["Acts 22:3-16", "Acts 9:1-22"],
     "psalm": "Ps 117:1bc, 2",
     "secondReading": "",
     "gospel": "Mark 16:15-18",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "25/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Conversion of St. Paul, Apostle"
   },
   {
-    "firstReading": "2 Tim 1:1-8 or Titus 1:1-5",
+    "firstReading": ["2 Tim 1:1-8", "Titus 1:1-5"],
     "psalm": "Ps 96:1-2a, 2b-3, 7-8a, 10",
     "secondReading": "",
     "gospel": "Luke 10:1-9",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "26/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Timothy and Titus, bishops"
   },
   {
@@ -163,9 +187,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "27/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Angela Merici, virgin"
   },
   {
@@ -175,10 +201,12 @@
     "gospel": "Matt 23:8-12",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "28/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Thomas Aquinas, priest and doctor of the Church"
   },
   {
@@ -188,23 +216,27 @@
     "gospel": "Matt 18:1-5",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "31/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Bosco, priest"
   },
   {
     "firstReading": "Mal 3:1-4",
     "psalm": "Ps 24:7, 8, 9, 10",
     "secondReading": "Heb 2:14-18",
-    "gospel": "Luke 2:22-40 or 2:22-32",
+    "gospel": ["Luke 2:22-40", "Luke 2:22-32"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "02/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Presentation of the Lord"
   },
   {
@@ -215,9 +247,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "03/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Blaise, bishop and martyr"
   },
   {
@@ -228,9 +262,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "03/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Ansgar, bishop"
   },
   {
@@ -240,10 +276,12 @@
     "gospel": "Luke 9:23-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "05/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Agatha, virgin and martyr"
   },
   {
@@ -253,23 +291,27 @@
     "gospel": "Matt 28:16-20",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "06/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Paul Miki, priest and martyr, and Companions, martyrs"
   },
   {
     "firstReading": "Tob 12:6-13",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
-    "gospel": "Mark 10:17-30 or 10:17-27",
+    "gospel": ["Mark 10:17-30", "Mark 10:17-27"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "08/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Jerome Emiliani, priest"
   },
   {
@@ -280,9 +322,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "08/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Josephine Bakhita, virgin (also \"International Day of Prayer and Awareness Against Human Trafficking\")"
   },
   {
@@ -292,10 +336,12 @@
     "gospel": "Luke 10:38-42",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "10/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Scholastica, virgin"
   },
   {
@@ -306,9 +352,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "11/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Lourdes"
   },
   {
@@ -318,10 +366,12 @@
     "gospel": "Luke 10:1-9",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "14/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Cyril, monk, and Methodius, bishop"
   },
   {
@@ -332,9 +382,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "17/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Seven Founders of the Order of Servites"
   },
   {
@@ -345,9 +397,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "21/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Peter Damian, bishop and doctor of the Church"
   },
   {
@@ -357,10 +411,12 @@
     "gospel": "Matt 16:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "22/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Chair of St. Peter, Apostle"
   },
   {
@@ -370,10 +426,12 @@
     "gospel": "John 15:18-21",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "23/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Polycarp, bishop and martyr"
   },
   {
@@ -384,9 +442,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "27/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Gregory of Narek, abbot and doctor of the Church"
   },
   {
@@ -397,9 +457,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "04/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Casimir"
   },
   {
@@ -409,10 +471,12 @@
     "gospel": "Matt 10:34-39",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "07/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Perpetua and Felicity, martyrs"
   },
   {
@@ -423,9 +487,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "08/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of God, religious"
   },
   {
@@ -436,9 +502,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Frances of Rome, religious"
   },
   {
@@ -449,9 +517,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "17/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Patrick, bishop"
   },
   {
@@ -462,22 +532,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "18/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Cyril of Jerusalem, bishop and doctor of the Church"
   },
   {
     "firstReading": "2 Sam 7:4-5a, 12-14a, 16",
     "psalm": "Ps 89:2-3, 4-5, 27+29",
     "secondReading": "Rom 4:13, 16-18, 22",
-    "gospel": "Matt 1:16, 18-21, 24a or Luke 2:41-51a",
+    "gospel": ["Matt 1:16, 18-21, 24a", "Luke 2:41-51a"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "19/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph, husband of the Blessed Virgin Mary"
   },
   {
@@ -488,9 +562,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Turibius of Mongrovejo, bishop"
   },
   {
@@ -500,10 +576,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "25/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Annunciation of the Lord"
   },
   {
@@ -514,9 +592,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "02/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Francis of Paola, hermit"
   },
   {
@@ -527,9 +607,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "04/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Isidore, bishop and doctor of the Church"
   },
   {
@@ -540,9 +622,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "05/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Vincent Ferrer, priest"
   },
   {
@@ -552,10 +636,12 @@
     "gospel": "Matt 18:1-5",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "07/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Baptist de la Salle, priest"
   },
   {
@@ -565,10 +651,12 @@
     "gospel": "John 17:11b-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "11/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Stanislaus, bishop and martyr"
   },
   {
@@ -579,9 +667,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "13/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Martin I, pope and martyr"
   },
   {
@@ -592,9 +682,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "21/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Anselm, bishop and doctor of the Church"
   },
   {
@@ -605,9 +697,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. George, martyr"
   },
   {
@@ -618,9 +712,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Adalbert, bishop and martyr"
   },
   {
@@ -631,9 +727,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "24/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Fidelis of Sigmaringen, priest and martyr"
   },
   {
@@ -643,10 +741,12 @@
     "gospel": "Mark 16:15-20",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "25/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Mark, evangelist"
   },
   {
@@ -657,9 +757,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "28/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Peter Chanel, priest and martyr"
   },
   {
@@ -670,22 +772,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "28/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Louis Grignion de Montfort, priest"
   },
   {
-    "firstReading": "1 John 1:5—2:2",
+    "firstReading": "1 John 1:5--2:2",
     "psalm": "Ps 103:1-2, 3-4, 8-9, 13-14, 17-18",
     "secondReading": "",
     "gospel": "Matt 11:25-30",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "29/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Catherine of Siena, virgin and doctor of the Church"
   },
   {
@@ -696,22 +802,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "30/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Pius V, pope, religious"
   },
   {
-    "firstReading": "Gen 1:26—2:3 or Col 3:14-15, 17, 23-24",
+    "firstReading": ["Gen 1:26--2:3", "Col 3:14-15, 17, 23-24"],
     "psalm": "Ps 90:2, 3-4, 12-13, 14+16",
     "secondReading": "",
     "gospel": "Matt 13:54-58",
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "01/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph the Worker"
   },
   {
@@ -721,10 +831,12 @@
     "gospel": "Matt 10:22-25",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "02/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Athanasius, bishop and doctor of the Church"
   },
   {
@@ -734,10 +846,12 @@
     "gospel": "John 14:6-14",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "03/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Philip and James, Apostles"
   },
   {
@@ -748,9 +862,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "10/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of Avila, priest and doctor of the Church"
   },
   {
@@ -761,9 +877,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "12/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Nereus and Achilleus, martyrs"
   },
   {
@@ -774,9 +892,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "12/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Pancras, martyr"
   },
   {
@@ -787,9 +907,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "13/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Fatima"
   },
   {
@@ -799,10 +921,12 @@
     "gospel": "John 15:9-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "14/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Matthias, Apostle"
   },
   {
@@ -813,9 +937,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "18/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John I, pope and martyr"
   },
   {
@@ -826,9 +952,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "20/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bernardine of Siena, priest"
   },
   {
@@ -839,9 +967,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "21/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Christopher Magallanes, priest, and Companions, martyrs"
   },
   {
@@ -852,9 +982,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "22/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Rita of Cascia, religious"
   },
   {
@@ -865,9 +997,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bede the Venerable, priest and doctor of the Church"
   },
   {
@@ -878,9 +1012,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Gregory VII, pope, religious"
   },
   {
@@ -891,9 +1027,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Mary Magdalene de' Pazzi, virgin"
   },
   {
@@ -903,10 +1041,12 @@
     "gospel": "John 17:20-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "26/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Philip Neri, priest"
   },
   {
@@ -917,9 +1057,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "27/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Augustine of Canterbury, bishop"
   },
   {
@@ -930,22 +1072,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "29/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Paul VI, pope"
   },
   {
-    "firstReading": "Zeph 3:14-18a or Rom 12:9-16",
+    "firstReading": ["Zeph 3:14-18a", "Rom 12:9-16"],
     "psalm": "Isa 12:2-3, 4bcd, 5-6",
     "secondReading": "",
     "gospel": "Luke 1:39-56",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "31/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Visitation of the Blessed Virgin Mary"
   },
   {
@@ -955,10 +1101,12 @@
     "gospel": "Matt 5:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "01/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Justin, martyr"
   },
   {
@@ -969,9 +1117,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "02/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Marcellinus and Peter, martyrs"
   },
   {
@@ -981,10 +1131,12 @@
     "gospel": "Matt 5:1-12a",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "03/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Charles Lwanga and companions, martyrs"
   },
   {
@@ -994,10 +1146,12 @@
     "gospel": "John 10:11-16",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "05/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Boniface, bishop and martyr"
   },
   {
@@ -1008,9 +1162,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "06/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Norbert, bishop"
   },
   {
@@ -1021,9 +1177,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Ephrem, deacon and doctor of the Church"
   },
   {
@@ -1033,10 +1191,12 @@
     "gospel": "Matt 10:7-13",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "11/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Barnabas, Apostle"
   },
   {
@@ -1046,10 +1206,12 @@
     "gospel": "Luke 10:1-9",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "13/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Anthony of Padua, priest and doctor of the Church"
   },
   {
@@ -1060,9 +1222,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "19/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Romuald, abbot"
   },
   {
@@ -1072,10 +1236,12 @@
     "gospel": "Matt 22:34-40",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "21/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Aloysius Gonzaga, religious"
   },
   {
@@ -1086,9 +1252,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "22/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Paulinus of Nola, bishop"
   },
   {
@@ -1099,9 +1267,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "22/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Fisher, bishop and martyr, and St. Thomas More, martyr"
   },
   {
@@ -1111,10 +1281,12 @@
     "gospel": "Luke 1:5-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "24/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist, Vigil"
   },
   {
@@ -1124,10 +1296,12 @@
     "gospel": "Luke 1:57-66, 80",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "24/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist, Mass during the Day"
   },
   {
@@ -1138,9 +1312,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "27/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Cyril of Alexandria, bishop and doctor of the Church"
   },
   {
@@ -1150,10 +1326,12 @@
     "gospel": "John 17:20-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "28/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Irenaeus, bishop and martyr, and doctor of the Church"
   },
   {
@@ -1163,10 +1341,12 @@
     "gospel": "John 21:15-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "29/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Peter and Paul, Apostles, Vigil"
   },
   {
@@ -1176,10 +1356,12 @@
     "gospel": "Matt 16:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "29/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Peter and Paul, Apostles, Mass during the Day"
   },
   {
@@ -1190,9 +1372,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "30/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The First Martyrs of Holy Roman Church"
   },
   {
@@ -1202,23 +1386,27 @@
     "gospel": "John 20:24-29",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "03/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Thomas, Apostle"
   },
   {
     "firstReading": "1 John 3:14-18",
     "psalm": "Ps 112:1-2, 3-4, 5-6,7-8, 9",
     "secondReading": "",
-    "gospel": "Matt 25:31-46 or 25:31-40",
+    "gospel": ["Matt 25:31-46", "Matt 25:31-40"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "04/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Elizabeth of Portugal"
   },
   {
@@ -1229,22 +1417,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "05/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Anthony Mary Zaccaria, priest"
   },
   {
-    "firstReading": "Est C:12, 14-15, 25-30 or Eph 2:4-10",
-    "psalm": "_",
+    "firstReading": ["Est C:12, 14-15, 25-30", "Eph 2:4-10"],
+    "psalm": "",
     "secondReading": "",
-    "gospel": "John 2:1-11 or Luke 1:39-55",
+    "gospel": ["John 2:1-11", "Luke 1:39-55"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "calif. proper",
+    "massType": "ordinary",
     "weekdayType": "05/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Refuge: Patroness of the Californias"
   },
   {
@@ -1255,9 +1447,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "06/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Maria Goretti, virgin and martyr"
   },
   {
@@ -1268,9 +1462,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Augustine Zhao Rong, priest, and Companions, Chinese martyrs"
   },
   {
@@ -1280,10 +1476,12 @@
     "gospel": "Matt 19:27-29",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "11/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Benedict, abbot"
   },
   {
@@ -1294,9 +1492,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "13/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Henry"
   },
   {
@@ -1306,10 +1506,12 @@
     "gospel": "Matt 23:8-12",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "15/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bonaventure, bishop and doctor of the Church"
   },
   {
@@ -1320,9 +1522,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Mount Carmel"
   },
   {
@@ -1333,9 +1537,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "20/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Apollinaris, bishop and martyr"
   },
   {
@@ -1346,22 +1552,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "21/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Lawrence of Brindisi, priest and doctor of the Church"
   },
   {
-    "firstReading": "Cant 3:1-4b or 2 Cor 5:14-17",
+    "firstReading": ["Cant 3:1-4b", "2 Cor 5:14-17"],
     "psalm": "Ps 63:2, 3-4, 5-6, 8-9",
     "secondReading": "",
     "gospel": "John 20:1-2, 11-18",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "22/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Mary Magdalene*"
   },
   {
@@ -1372,9 +1582,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bridget of Sweden, religious"
   },
   {
@@ -1385,9 +1597,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "24/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Sharbel Makhluf, priest"
   },
   {
@@ -1397,10 +1611,12 @@
     "gospel": "Matt 20:20-28",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "25/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. James, Apostle"
   },
   {
@@ -1410,23 +1626,27 @@
     "gospel": "Matt 13:16-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "26/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Joachim and Anne, parents of the Blessed Virgin Mary"
   },
   {
     "firstReading": "1 John 4:7-16",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
-    "gospel": "John 11:19-27 or Luke 10:38-42",
+    "gospel": ["John 11:19-27", "Luke 10:38-42"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "29/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Martha, Mary, and Lazarus*"
   },
   {
@@ -1437,22 +1657,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "30/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Peter Chrysologus, bishop and doctor of the Church"
   },
   {
-    "firstReading": "1 Cor 10:31—11:1",
+    "firstReading": "1 Cor 10:31--11:1",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
     "gospel": "Luke 14:25-33",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "31/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Ignatius of Loyola, priest"
   },
   {
@@ -1462,10 +1686,12 @@
     "gospel": "Matt 5:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "01/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Alphonsus Liguori, bishop and doctor of the Church"
   },
   {
@@ -1476,9 +1702,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "02/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Eusebius of Vercelli, bishop"
   },
   {
@@ -1489,22 +1717,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "02/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Peter Julian Eymard, priest"
   },
   {
     "firstReading": "Ezek 3:17-21",
     "psalm": "Ps 117:1bc, 2",
     "secondReading": "",
-    "gospel": "Matt 9:35—10:1",
+    "gospel": "Matt 9:35--10:1",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "04/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Mary Vianney, priest"
   },
   {
@@ -1515,9 +1747,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "05/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Dedication of the Basilica of St. Mary Major in Rome"
   },
   {
@@ -1527,10 +1761,12 @@
     "gospel": "A: Matt 17:1-9 B: Mark 9:2-10 C: Luke 9:28b-36",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -1541,9 +1777,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "07/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Sixtus II, pope and martyr, and his companions, martyrs"
   },
   {
@@ -1554,9 +1792,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "07/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Cajetan, priest"
   },
   {
@@ -1566,10 +1806,12 @@
     "gospel": "Luke 9:57-62",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "08/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Dominic, priest"
   },
   {
@@ -1580,9 +1822,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Teresa Benedicta of the Cross, virgin and martyr"
   },
   {
@@ -1592,10 +1836,12 @@
     "gospel": "John 12:24-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "10/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Lawrence, deacon and martyr"
   },
   {
@@ -1605,10 +1851,12 @@
     "gospel": "Matt 19:27-29",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "11/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Clare, virgin"
   },
   {
@@ -1619,9 +1867,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "12/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Jane Frances de Chantal, religious [previously Dec. 12 or Aug. 18]"
   },
   {
@@ -1632,22 +1882,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "13/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Pontian, pope and martyr, and St. Hippolytus, priest and martyr"
   },
   {
-    "firstReading": "Wis 3:1-9, or 1 John 3:14-18",
+    "firstReading": ["Wis 3:1-9", "1 John 3:14-18"],
     "psalm": "Ps 116:10-11, 12-13, 16ac-17",
     "secondReading": "",
     "gospel": "John 15:12-16",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "14/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Maximilian Mary Kolbe, priest and martyr"
   },
   {
@@ -1657,10 +1911,12 @@
     "gospel": "Luke 11:27-28",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "15/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary, Vigil"
   },
   {
@@ -1670,23 +1926,27 @@
     "gospel": "Luke 1:39-56",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "15/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary, Mass during the Day"
   },
   {
     "firstReading": "Deut 6:3-9",
     "psalm": "Ps 112:1bc-2, 3-4, 5-6, 7-8, 9",
     "secondReading": "",
-    "gospel": "Matt 25:14-30 or 25:14-23",
+    "gospel": ["Matt 25:14-30", "Matt 25:14-23"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Stephen of Hungary"
   },
   {
@@ -1697,9 +1957,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "19/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Eudes, priest"
   },
   {
@@ -1709,10 +1971,12 @@
     "gospel": "John 17:20-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "20/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bernard, abbot and doctor of the Church"
   },
   {
@@ -1722,10 +1986,12 @@
     "gospel": "John 21:15-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "21/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Pius X, pope"
   },
   {
@@ -1735,23 +2001,27 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "22/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Queenship of the Blessed Virgin Mary"
   },
   {
-    "firstReading": "2 Cor 10:17—11:2",
+    "firstReading": "2 Cor 10:17--11:2",
     "psalm": "Ps 148:1bc-2, 11-13a, 13c-14",
     "secondReading": "",
     "gospel": "Matt 13:44-46",
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Rose of Lima, virgin"
   },
   {
@@ -1761,10 +2031,12 @@
     "gospel": "John 1:45-51",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "24/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bartholomew, Apostle"
   },
   {
@@ -1775,22 +2047,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Louis of France"
   },
   {
-    "firstReading": "1 Cor 12:31—13:13 or 13:4-13",
+    "firstReading": ["1 Cor 12:31--13:13", "1 Cor 13:4-13"],
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
     "gospel": "Matt 18:1-5",
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph Calasanz, priest"
   },
   {
@@ -1800,10 +2076,12 @@
     "gospel": "Luke 7:11-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "27/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Monica"
   },
   {
@@ -1813,10 +2091,12 @@
     "gospel": "Matt 23:8-12",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "28/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Augustine, bishop and doctor of the Church"
   },
   {
@@ -1826,10 +2106,12 @@
     "gospel": "Mark 6:17-29",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "29/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Passion/Martyrdom of St. John the Baptist"
   },
   {
@@ -1839,23 +2121,27 @@
     "gospel": "Luke 22:24-30",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "03/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Gregory the Great, pope and doctor of the Church"
   },
   {
-    "firstReading": "Micah 5:1-4a or Rom 8:28-30",
+    "firstReading": ["Micah 5:1-4a", "Rom 8:28-30"],
     "psalm": "Ps 13:6ab, 6c",
     "secondReading": "",
-    "gospel": "Matt 1:1-16, 18-23 or 1:18-23",
+    "gospel": ["Matt 1:1-16, 18-23", "Matt 1:18-23"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "08/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of the Blessed Virgin Mary"
   },
   {
@@ -1866,22 +2152,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "12/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Most Holy Name of the Blessed Virgin Mary"
   },
   {
     "firstReading": "Eph 4:1-7, 11-13",
     "psalm": "Ps 40:2+4, 7-8a, 8b-9, 10",
     "secondReading": "",
-    "gospel": "Mark 4:1-10, 13-20 or 4:1-9",
+    "gospel": ["Mark 4:1-10, 13-20", "Mark 4:1-9"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "13/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Chrysostom, bishop and doctor of the Church"
   },
   {
@@ -1891,23 +2181,27 @@
     "gospel": "John 3:13-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "14/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Exaltation of the Holy Cross"
   },
   {
     "firstReading": "Heb 5:7-9",
     "psalm": "Ps 31:2-3b, 3cd-4, 5-6, 15-16, 20",
     "secondReading": "[opt. Sequence: Stabat Mater]",
-    "gospel": "John 19:25-27 or Luke 2:33-35",
+    "gospel": ["John 19:25-27", "Luke 2:33-35"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "15/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Sorrows"
   },
   {
@@ -1917,10 +2211,12 @@
     "gospel": "John 17:11b-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "16/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Cornelius, pope and martyr, and St. Cyprian, bishop and martyr"
   },
   {
@@ -1931,9 +2227,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "17/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Robert Bellarmine, bishop and doctor of the Church"
   },
   {
@@ -1944,9 +2242,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "17/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Hildegard of Bingen, virgin and doctor of the Church"
   },
   {
@@ -1957,22 +2257,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "19/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Januarius, bishop and martyr"
   },
   {
-    "firstReading": "Wis 3:1-9, or Rom 8:31b-39",
+    "firstReading": ["Wis 3:1-9", "Rom 8:31b-39"],
     "psalm": "Ps 126:1bc-2ab, 2cd-3, 4-5, 6",
     "secondReading": "",
     "gospel": "Luke 9:23-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "20/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Andrew Kim Taegon, priest and martyr, St. Paul Chong Hasang, catechist and martyr, and their companions, martyrs"
   },
   {
@@ -1982,10 +2286,12 @@
     "gospel": "Matt 9:9-13",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "21/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Matthew, Apostle and evangelist"
   },
   {
@@ -1995,10 +2301,12 @@
     "gospel": "Matt 16:24-27",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "23/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Pius of Pietrelcina, priest"
   },
   {
@@ -2009,9 +2317,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "26/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Cosmas and Damian, martyrs"
   },
   {
@@ -2021,10 +2331,12 @@
     "gospel": "Matt 9:35-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "27/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Vincent de Paul, priest"
   },
   {
@@ -2035,9 +2347,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "28/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Lawrence Ruiz, martyr, and his companions, martyrs"
   },
   {
@@ -2048,22 +2362,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "28/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Wenceslaus, martyr"
   },
   {
-    "firstReading": "Dan 7:9-10, 13-14 or Rev 12:7-12a",
+    "firstReading": ["Dan 7:9-10, 13-14", "Rev 12:7-12a"],
     "psalm": "Ps 138:1-2ab, 2cde-3, 4-5",
     "secondReading": "",
     "gospel": "John 1:47-51",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "29/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Michael, Gabriel, and Raphael, archangels"
   },
   {
@@ -2073,10 +2391,12 @@
     "gospel": "Matt 13:47-52",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "30/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Jerome, priest and doctor of the Church"
   },
   {
@@ -2086,10 +2406,12 @@
     "gospel": "Matt 18:1-5",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "01/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Thérèse of the Child Jesus, virgin and doctor of the Church"
   },
   {
@@ -2099,10 +2421,12 @@
     "gospel": "Matt 18:1-5, 10",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "02/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Holy Guardian Angels"
   },
   {
@@ -2112,10 +2436,12 @@
     "gospel": "Matt 11:25-30",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "04/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Francis of Assisi, religious"
   },
   {
@@ -2126,9 +2452,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "05/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Maria Faustina Kowalska, virgin"
   },
   {
@@ -2139,9 +2467,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "06/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Bruno, priest"
   },
   {
@@ -2151,10 +2481,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "07/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of the Rosary"
   },
   {
@@ -2165,9 +2497,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Denis, bishop and martyr, and his companions, martyrs"
   },
   {
@@ -2178,9 +2512,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Leonardi, priest"
   },
   {
@@ -2191,9 +2527,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "11/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John XXIII, pope"
   },
   {
@@ -2204,9 +2542,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "14/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Callistus I, pope and martyr"
   },
   {
@@ -2216,10 +2556,12 @@
     "gospel": "John 15:1-8",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "15/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Teresa of Jesus, virgin and doctor of the Church"
   },
   {
@@ -2230,9 +2572,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Hedwig, religious"
   },
   {
@@ -2243,22 +2587,26 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Margaret Mary Alacoque, virgin"
   },
   {
-    "firstReading": "Phil 3:17—4:1",
+    "firstReading": "Phil 3:17--4:1",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9",
     "secondReading": "",
     "gospel": "John 12:24-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "17/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Ignatius of Antioch, bishop and martyr"
   },
   {
@@ -2268,10 +2616,12 @@
     "gospel": "Luke 10:1-9",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "18/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Luke, evangelist"
   },
   {
@@ -2282,9 +2632,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "22/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John Paul II, pope"
   },
   {
@@ -2295,9 +2647,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of Capistrano, priest"
   },
   {
@@ -2308,9 +2662,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "24/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Anthony Mary Claret, bishop"
   },
   {
@@ -2320,10 +2676,12 @@
     "gospel": "Luke 6:12-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "28/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Sts. Simon and Jude, Apostles"
   },
   {
@@ -2333,10 +2691,12 @@
     "gospel": "Matt 5:1-12a",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "01/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "All Saints"
   },
   {
@@ -2346,10 +2706,12 @@
     "gospel": "[12 options]",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "02/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Commemoration of all the Faithful Departed"
   },
   {
@@ -2360,9 +2722,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "03/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Martin de Porres, religious"
   },
   {
@@ -2372,10 +2736,12 @@
     "gospel": "John 10:11-16",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "04/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Charles Borromeo, bishop"
   },
   {
@@ -2385,10 +2751,12 @@
     "gospel": "John 2:13-22",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "09/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Dedication of the Lateran Basilica in Rome"
   },
   {
@@ -2398,10 +2766,12 @@
     "gospel": "Matt 16:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "10/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Leo the Great, pope and doctor of the Church"
   },
   {
@@ -2411,10 +2781,12 @@
     "gospel": "Matt 25:31-40",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "11/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Martin of Tours, bishop"
   },
   {
@@ -2424,10 +2796,12 @@
     "gospel": "John 17:20-26",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "12/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Josaphat, bishop and martyr"
   },
   {
@@ -2438,9 +2812,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "15/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Albert the Great, bishop and doctor of the Church"
   },
   {
@@ -2451,9 +2827,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Margaret of Scotland"
   },
   {
@@ -2464,9 +2842,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "16/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Gertrude, virgin"
   },
   {
@@ -2476,10 +2856,12 @@
     "gospel": "Luke 6:27-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "17/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Elizabeth of Hungary, religious"
   },
   {
@@ -2490,9 +2872,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "18/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Dedication of the Basilicas of Sts. Peter and Paul, Apostles"
   },
   {
@@ -2502,10 +2886,12 @@
     "gospel": "Matt 12:46-50",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "21/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Presentation of the Blessed Virgin Mary"
   },
   {
@@ -2515,10 +2901,12 @@
     "gospel": "Matt 25:1-13",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "22/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Cecilia, virgin and martyr"
   },
   {
@@ -2529,9 +2917,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Clement I, pope and martyr"
   },
   {
@@ -2542,9 +2932,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Columban, abbot"
   },
   {
@@ -2554,10 +2946,12 @@
     "gospel": "Matt 10:17-22",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "24/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Andrew Dung-Lac, priest and martyr, and Companions, martyrs"
   },
   {
@@ -2568,9 +2962,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "25/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Catherine of Alexandria, virgin and martyr"
   },
   {
@@ -2580,10 +2976,12 @@
     "gospel": "Matt 4:18-22",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "30/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Andrew, Apostle"
   },
   {
@@ -2593,10 +2991,12 @@
     "gospel": "Mark 16:15-20",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "03/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Francis Xavier, priest"
   },
   {
@@ -2607,9 +3007,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "04/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of Damascus, priest, religious, doctor of the Church"
   },
   {
@@ -2620,9 +3022,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "06/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Nicholas, bishop"
   },
   {
@@ -2632,10 +3036,12 @@
     "gospel": "John 10:11-16",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "07/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Ambrose, bishop and doctor of the Church"
   },
   {
@@ -2645,10 +3051,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "08/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Immaculate Conception of the Blessed Virgin Mary [2024: transferred to Monday, Dec. 9]"
   },
   {
@@ -2659,9 +3067,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "09/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Juan Diego Cuauhtlatoatzin"
   },
   {
@@ -2672,9 +3082,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "10/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "Our Lady of Loreto"
   },
   {
@@ -2685,9 +3097,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "11/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Damasus I, pope"
   },
   {
@@ -2697,10 +3111,12 @@
     "gospel": "Matt 25:1-13",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "13/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Lucy, virgin and martyr"
   },
   {
@@ -2710,10 +3126,12 @@
     "gospel": "Luke 14:25-33",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "memorial",
+    "season": "",
+    "massType": "memorial",
     "weekdayType": "14/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of the Cross, priest and doctor of the Church"
   },
   {
@@ -2724,9 +3142,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "21/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Peter Canisius, priest and doctor of the Church"
   },
   {
@@ -2737,9 +3157,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "23/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John of Kanty, priest"
   },
   {
@@ -2749,10 +3171,12 @@
     "gospel": "Matt 10:17-22",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "26/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Stephen, the first martyr"
   },
   {
@@ -2762,23 +3186,27 @@
     "gospel": "John 20:1a+2-8",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "27/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. John, Apostle and evangelist"
   },
   {
-    "firstReading": "1 John 1:5—2:2",
+    "firstReading": "1 John 1:5--2:2",
     "psalm": "Ps 124:2-3, 4-5, 7b-8",
     "secondReading": "",
     "gospel": "Matt 2:13-18",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "28/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Holy Innocents, martyrs"
   },
   {
@@ -2789,9 +3217,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "29/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Thomas Becket, bishop and martyr"
   },
   {
@@ -2802,9 +3232,11 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
+    "massType": "ordinary",
     "weekdayType": "31/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Sylvester I, pope"
   }
 ]

@@ -6,10 +6,12 @@
     "gospel": "John 3:16-18",
     "yearCycle": "A",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "trinitySunday",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "trinitySunday",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -19,10 +21,12 @@
     "gospel": "Matt 28:16-20",
     "yearCycle": "B",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "trinitySunday",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "trinitySunday",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -32,10 +36,12 @@
     "gospel": "John 16:12-15",
     "yearCycle": "C",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "trinitySunday",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "trinitySunday",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -45,10 +51,12 @@
     "gospel": "John 6:51-58",
     "yearCycle": "A",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "bodyAndBloodOfChrist",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "bodyAndBloodOfChrist",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -58,10 +66,12 @@
     "gospel": "Mark 14:12-16, 22-26",
     "yearCycle": "B",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "bodyAndBloodOfChrist",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "bodyAndBloodOfChrist",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -71,10 +81,12 @@
     "gospel": "Luke 9:11b-17",
     "yearCycle": "C",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "bodyAndBloodOfChrist",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "sunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "bodyAndBloodOfChrist",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -84,10 +96,12 @@
     "gospel": "Matt 11:25-30",
     "yearCycle": "A",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "sacredHeart",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "weekday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "sacredHeart",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -97,10 +111,12 @@
     "gospel": "John 19:31-37",
     "yearCycle": "B",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "sacredHeart",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "weekday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "sacredHeart",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -110,10 +126,12 @@
     "gospel": "Luke 15:3-7",
     "yearCycle": "C",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "sacredHeart",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "weekday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "sacredHeart",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -123,10 +141,12 @@
     "gospel": ["Luke 2:22-40", "Luke 2:22-32"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "02/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Presentation of the Lord"
   },
   {
@@ -136,10 +156,12 @@
     "gospel": ["Matt 1:16, 18-21, 24a", "Luke 2:41-51a"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "19/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary"
   },
   {
@@ -149,10 +171,12 @@
     "gospel": ["Matt 1:16, 18-21, 24a", "Luke 2:41-51a"],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "20/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary (transferred to Monday 3/20 if 3/19 is a Sunday)"
   },
   {
@@ -162,10 +186,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
-    "weekdayType": "annunciationOfTheLord",
+    "season": "",
+    "massType": "solemnity",
+    "weekdayType": "weekday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "annunciationOfTheLord",
     "description": "The Annunciation of the Lord"
   },
   {
@@ -175,10 +201,12 @@
     "gospel": "Luke 1:5-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "23/06",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist"
   },
   {
@@ -188,10 +216,12 @@
     "gospel": "Luke 1:57-66, 80",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "24/06",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist"
   },
   {
@@ -201,10 +231,12 @@
     "gospel": "John 21:15-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "28/06",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "SS. Peter and Paul, Apostles"
   },
   {
@@ -214,10 +246,12 @@
     "gospel": "Matt 16:13-19",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "29/06",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "SS. Peter and Paul, Apostles"
   },
   {
@@ -227,10 +261,12 @@
     "gospel": "Matt 17:1-9",
     "yearCycle": "A",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -240,10 +276,12 @@
     "gospel": "Mark 9:2-10",
     "yearCycle": "B",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -253,10 +291,12 @@
     "gospel": "Luke 9:28b-36",
     "yearCycle": "C",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -266,10 +306,12 @@
     "gospel": "Luke 11:27-28",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "14/08",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary"
   },
   {
@@ -279,10 +321,12 @@
     "gospel": "Luke 1:39-56",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "15/08",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary"
   },
   {
@@ -292,10 +336,12 @@
     "gospel": "John 3:13-17",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "14/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Exaltation of the Cross"
   },
   {
@@ -305,10 +351,12 @@
     "gospel": "Matt 5:1-12a",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "01/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "All Saints"
   },
   {
@@ -349,10 +397,12 @@
     ],
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "02/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Commemoration of All the Faithful Departed (All Souls)"
   },
   {
@@ -362,10 +412,12 @@
     "gospel": "John 2:13-22",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "feast",
+    "season": "",
+    "massType": "feast",
     "weekdayType": "09/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Dedication of the Lateran Basilica"
   },
   {
@@ -375,10 +427,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "08/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Immaculate Conception of the Blessed Virgin Mary"
   },
   {
@@ -388,10 +442,12 @@
     "gospel": "Luke 1:26-38",
     "yearCycle": "",
     "yearNumber": "",
-    "season": "solemnity",
+    "season": "",
+    "massType": "solemnity",
     "weekdayType": "09/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": "The Immaculate Conception of the Blessed Virgin Mary (transferred to Monday 12/9 if 12/8 is a Sunday of Advent)"
   }
 ]

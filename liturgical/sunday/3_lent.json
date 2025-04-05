@@ -7,9 +7,11 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -20,9 +22,11 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -33,9 +37,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -46,9 +52,11 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -59,9 +67,11 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -72,9 +82,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -85,9 +97,11 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -98,9 +112,11 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -111,9 +127,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -124,9 +142,11 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -137,9 +157,11 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -150,9 +172,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -163,9 +187,11 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -176,9 +202,11 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   },
   {
@@ -189,87 +217,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
+    "massType": "ordinary",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
-    "description": ""
-  },
-  {
-    "firstReading": "",
-    "psalm": "",
-    "secondReading": "",
-    "gospel": "Matt 21:1-11",
-    "yearCycle": "A",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "description": ""
-  },
-  {
-    "firstReading": "",
-    "psalm": "",
-    "secondReading": "",
-    "gospel": ["Mark 11:1-10", "John 12:12-16"],
-    "yearCycle": "B",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "description": ""
-  },
-  {
-    "firstReading": "",
-    "psalm": "",
-    "secondReading": "",
-    "gospel": "Luke 19:28-40",
-    "yearCycle": "C",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "description": ""
-  },
-  {
-    "firstReading": "Isa 50:4-7",
-    "psalm": "Ps 22:8-9, 17-18, 19-20, 23-24",
-    "secondReading": "Phil 2:6-11",
-    "gospel": ["Matt 26:14--27:66", "Matt 27:11-54"],
-    "yearCycle": "A",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "mass",
-    "description": ""
-  },
-  {
-    "firstReading": "Isa 50:4-7",
-    "psalm": "Ps 22:8-9, 17-18, 19-20, 23-24",
-    "secondReading": "Phil 2:6-11",
-    "gospel": ["Mark 14:1--15:47", "Mark 15:1-39"],
-    "yearCycle": "B",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "mass",
-    "description": ""
-  },
-  {
-    "firstReading": "Isa 50:4-7",
-    "psalm": "Ps 22:8-9, 17-18, 19-20, 23-24",
-    "secondReading": "Phil 2:6-11",
-    "gospel": ["Luke 22:14--23:56", "Luke 23:1-49"],
-    "yearCycle": "C",
-    "yearNumber": "",
-    "season": "lent",
-    "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "mass",
+    "periodOfDay": "day",
+    "slug": "",
     "description": ""
   }
 ]
