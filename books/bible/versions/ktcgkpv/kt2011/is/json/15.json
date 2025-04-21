@@ -1,421 +1,552 @@
 {
   "chapter": {
-    "id": "eccf1e83-572c-42b5-8860-b05042e04698",
+    "id": "54d62b98-95ea-4e65-8969-56e97ffb23d4",
     "number": 15,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.385Z",
-    "updatedAt": "2024-09-23T03:08:02.385Z",
-    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
+    "createdAt": "2025-04-22T00:48:32.209Z",
+    "updatedAt": "2025-04-22T00:48:32.209Z",
+    "bookId": "60b7a09b-afb6-41c3-8441-2d0936fa1d5e"
   },
   "verses": [
     {
-      "id": "948e7fe5-9cb2-42df-af22-754420d8fc5d",
+      "id": "82a97326-fa76-442d-8165-69a354121399",
       "number": 1,
-      "content": "Lời sấm hạch tội [Mô-áp]().",
+      "content": "Lời sấm hạch tội Mô-áp.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.640Z",
-      "updatedAt": "2024-09-23T04:42:07.640Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.399Z",
+      "updatedAt": "2025-04-22T06:22:07.399Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "31d6a5c0-88ac-4244-bdd8-9cdf648e2574",
+      "id": "c11a49f0-45ce-4604-aac7-be8c41157e9a",
       "number": 1,
-      "content": "Phải, giữa đêm khuya, thành A [Mô-áp]()",
+      "content": "Phải, giữa đêm khuya, thành A Mô-áp",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.656Z",
-      "updatedAt": "2024-09-23T04:42:07.656Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.455Z",
+      "updatedAt": "2025-04-22T06:22:07.455Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "fa829c17-f4a6-4619-8daf-4a644551017e",
+      "id": "3d5e9794-8a06-4e87-8e4d-00989ee45e0f",
       "number": 1,
       "content": "bị tàn phá và phải tiêu vong.",
       "order": 2,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.660Z",
-      "updatedAt": "2024-09-23T04:42:07.660Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.484Z",
+      "updatedAt": "2025-04-22T06:22:07.484Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "fcef340c-caf1-46c3-8dc3-0981ec6183d2",
+      "id": "206e318c-bfc4-4882-925c-7a7ccafab80d",
       "number": 1,
       "content": "bị tàn phá và phải tiêu vong.",
       "order": 4,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.664Z",
-      "updatedAt": "2024-09-23T04:42:07.664Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.530Z",
+      "updatedAt": "2025-04-22T06:22:07.530Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "f0620f88-ff03-43c5-9835-8c98ee6d8505",
+      "id": "c649deab-91dc-41cf-acfb-4d17300feee6",
       "number": 1,
-      "content": "Phải, giữa đêm khuya, thành [Kia Mô-áp]()",
+      "content": "Phải, giữa đêm khuya, thành Kia Mô-áp",
       "order": 3,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.662Z",
-      "updatedAt": "2024-09-23T04:42:07.662Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.498Z",
+      "updatedAt": "2025-04-22T06:22:07.498Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "56a60fa9-00b8-468b-bd76-bb8dfa419c8d",
+      "id": "a3065595-f99a-42f1-840b-5ad2b81cc484",
       "number": 2,
-      "content": "[Mô-áp]() rên siết tại [Nơ-vô]() và [Mê-đơ-va]().",
+      "content": "Mô-áp rên siết tại Nơ-vô và Mê-đơ-va.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.666Z",
-      "updatedAt": "2024-09-23T04:42:07.666Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.544Z",
+      "updatedAt": "2025-04-22T06:22:07.544Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "fab0f697-6246-4e42-80cb-775336d82baf",
+      "id": "c818838a-b3b6-4d37-bdf5-093b8630dbfa",
       "number": 2,
       "content": "Người nào cũng để đầu trọc và râu cạo nhẵn.",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.668Z",
-      "updatedAt": "2024-09-23T04:42:07.668Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.572Z",
+      "updatedAt": "2025-04-22T06:22:07.572Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "de98dd86-6a9a-404f-89ce-5519b813b595",
+      "id": "ba417733-9b12-408c-b2a5-e9e3f84194d5",
       "number": 3,
       "content": "Ngoài phố phường, người ta mặc áo vải thô ;",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.672Z",
-      "updatedAt": "2024-09-23T04:42:07.672Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.600Z",
+      "updatedAt": "2025-04-22T06:22:07.600Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "77b35102-eb45-419a-924b-8524eb41cbf7",
+      "id": "e8e179b7-189b-417e-8dc3-60fd41a6b567",
       "number": 3,
       "content": "trên mái nhà và tại các quảng trường,",
       "order": 1,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.674Z",
-      "updatedAt": "2024-09-23T04:42:07.674Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.614Z",
+      "updatedAt": "2025-04-22T06:22:07.614Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "6f0ab971-a1ee-4e9d-a400-79a329eb1ea4",
+      "id": "03c85efb-75f4-4af3-a18e-91cb1d60c45c",
       "number": 3,
       "content": "mọi người đều rên siết và khóc lóc thảm thương.",
       "order": 2,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.676Z",
-      "updatedAt": "2024-09-23T04:42:07.676Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.627Z",
+      "updatedAt": "2025-04-22T06:22:07.627Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "78966d0b-e7dd-4f3d-89e1-32ade69d7692",
+      "id": "b894a8c7-95cf-4aee-a7ed-be823c27a5cc",
       "number": 4,
-      "content": "[Khét-bôn]() và [En-a-lê]() kêu la, tiếng chúng thấu đến tận [Gia-hát]().",
+      "content": "Khét-bôn và En-a-lê kêu la, tiếng chúng thấu đến tận Gia-hát.",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.678Z",
-      "updatedAt": "2024-09-23T04:42:07.678Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.642Z",
+      "updatedAt": "2025-04-22T06:22:07.642Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "fa0dd940-fa30-4935-b148-e0c462c4e78a",
+      "id": "c7a82ff8-fe31-4036-8db7-14327b786d20",
       "number": 4,
-      "content": "Vì thế, lòng dạ [Mô-áp]() run rẩy,",
+      "content": "Vì thế, lòng dạ Mô-áp run rẩy,",
       "order": 1,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.684Z",
-      "updatedAt": "2024-09-23T04:42:07.684Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.711Z",
+      "updatedAt": "2025-04-22T06:22:07.711Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "984c8859-fe64-4b66-b506-c3f46678153f",
+      "id": "71b9d4ef-1e0e-44a5-a4a5-e72e9883e139",
       "number": 4,
-      "content": "hồn [Mô-áp]() cũng run rẩy cho số phận mình.",
+      "content": "hồn Mô-áp cũng run rẩy cho số phận mình.",
       "order": 2,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.686Z",
-      "updatedAt": "2024-09-23T04:42:07.686Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.725Z",
+      "updatedAt": "2025-04-22T06:22:07.725Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "307921cd-ee61-414e-8aad-f4960d2a4b84",
+      "id": "6bc94bd9-736c-468e-a600-57b18c4849ae",
       "number": 5,
-      "content": "những người dân tị nạn đã đến tận [Xô-a]() và [Éc-lát Sơ-li-si-gia]().",
+      "content": "những người dân tị nạn đã đến tận Xô-a và Éc-lát Sơ-li-si-gia.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.689Z",
-      "updatedAt": "2024-09-23T04:42:07.689Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.739Z",
+      "updatedAt": "2025-04-22T06:22:07.739Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "55cfa8eb-e7c5-45a0-ad6e-d4d6b9ba04de",
+      "id": "7c326a7f-3217-42da-8a44-bee800fd1bf7",
       "number": 5,
-      "content": "Thật vậy, tại dốc [Lu-khít](), họ vừa trèo vừa khóc ;",
+      "content": "Thật vậy, tại dốc Lu-khít, họ vừa trèo vừa khóc ;",
       "order": 1,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.694Z",
-      "updatedAt": "2024-09-23T04:42:07.694Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.800Z",
+      "updatedAt": "2025-04-22T06:22:07.800Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "64aa8859-7606-47d0-b836-1d716b876c19",
+      "id": "5cfaa3dc-8ea0-4853-b7f7-72bc8d1eaf30",
       "number": 5,
-      "content": "quả thế, trên đường [Khô-rô-na-gim](),",
+      "content": "quả thế, trên đường Khô-rô-na-gim,",
       "order": 2,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.696Z",
-      "updatedAt": "2024-09-23T04:42:07.696Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.828Z",
+      "updatedAt": "2025-04-22T06:22:07.828Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "d39976c8-c532-4388-8c58-ce259b5b8645",
+      "id": "7c6410da-f887-45f3-961f-1d2822eb27bf",
       "number": 5,
       "content": "họ thốt lên những tiếng kêu than thảm bại.",
       "order": 3,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.698Z",
-      "updatedAt": "2024-09-23T04:42:07.698Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.857Z",
+      "updatedAt": "2025-04-22T06:22:07.857Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "4a388766-8a51-49c2-a294-d8e4e7f584e5",
+      "id": "48d3d76a-1645-44bc-91dd-f1e2ee4b053c",
       "number": 6,
-      "content": "Thật vậy, dòng nước [Nim-rim]() thành nơi hoang tàn ;",
+      "content": "Thật vậy, dòng nước Nim-rim thành nơi hoang tàn ;",
       "order": 0,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.701Z",
-      "updatedAt": "2024-09-23T04:42:07.701Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.871Z",
+      "updatedAt": "2025-04-22T06:22:07.871Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "4424f8e6-bce1-42bd-aaac-5d19f5301848",
+      "id": "a406530a-6724-41b9-a0bc-5b534449f176",
       "number": 6,
       "content": "thật vậy, cỏ úa khô, cây chết héo, màu xanh cũng chẳng còn.",
       "order": 1,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.704Z",
-      "updatedAt": "2024-09-23T04:42:07.704Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.898Z",
+      "updatedAt": "2025-04-22T06:22:07.898Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "61ec7659-e3eb-4f67-a6d3-4c384447c326",
+      "id": "91f023cd-f5b9-4380-b611-0c427405bec4",
       "number": 7,
       "content": "Vì thế, những gì đã kiếm được hay để dành,",
       "order": 0,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.706Z",
-      "updatedAt": "2024-09-23T04:42:07.706Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.912Z",
+      "updatedAt": "2025-04-22T06:22:07.912Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "44b40237-3faa-4037-835c-caaa3016d853",
+      "id": "0d2d999d-81a3-4bf9-82d2-58c4a86bfada",
       "number": 7,
-      "content": "họ đều phải chuyển qua bên kia [Thác Liễu]().",
+      "content": "họ đều phải chuyển qua bên kia Thác Liễu.",
       "order": 1,
       "parNumber": 22,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.710Z",
-      "updatedAt": "2024-09-23T04:42:07.710Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.925Z",
+      "updatedAt": "2025-04-22T06:22:07.925Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "46ee0609-c86d-4770-a847-48272607e337",
+      "id": "f987d62d-1e77-4952-9e17-0751b9c6c2aa",
       "number": 8,
-      "content": "Thật vậy, tiếng kêu la vọng khắp lãnh thổ [Mô-áp](),",
+      "content": "Thật vậy, tiếng kêu la vọng khắp lãnh thổ Mô-áp,",
       "order": 0,
       "parNumber": 23,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.713Z",
-      "updatedAt": "2024-09-23T04:42:07.713Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.954Z",
+      "updatedAt": "2025-04-22T06:22:07.954Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "5e8ce37e-363a-40f2-a817-ab9484c68336",
+      "id": "c334558f-3cc4-4f39-9ac7-846d37b5db19",
       "number": 8,
-      "content": "tiếng rên siết vang đến tận [Éc-la-gim](),",
+      "content": "tiếng rên siết vang đến tận Éc-la-gim,",
       "order": 1,
       "parNumber": 24,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.717Z",
-      "updatedAt": "2024-09-23T04:42:07.717Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.968Z",
+      "updatedAt": "2025-04-22T06:22:07.968Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "d9527ecf-51bf-4817-9499-ac6e7959b4e1",
+      "id": "781d70e0-68fb-4045-9a33-b15eac4ee94d",
       "number": 8,
-      "content": "tiếng rên siết thấu đến tận [Bơ-e Ê-lim]().",
+      "content": "tiếng rên siết thấu đến tận Bơ-e Ê-lim.",
       "order": 2,
       "parNumber": 25,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.721Z",
-      "updatedAt": "2024-09-23T04:42:07.721Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.996Z",
+      "updatedAt": "2025-04-22T06:22:07.996Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "97f1813a-54b1-4cf4-af64-b74018443784",
+      "id": "a9992ca6-8a13-4b35-b692-96c0a1b368b2",
       "number": 9,
-      "content": "Ta sẽ giáng thêm cho [Đi-môn]() những tai hoạ khác nữa",
+      "content": "Ta sẽ giáng thêm cho Đi-môn những tai hoạ khác nữa",
       "order": 0,
       "parNumber": 27,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.726Z",
-      "updatedAt": "2024-09-23T04:42:07.726Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:08.025Z",
+      "updatedAt": "2025-04-22T06:22:08.025Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "db120a7d-ead9-4020-ad82-dbf3a956868a",
+      "id": "3f8d1631-525a-450d-96a6-040ca0348660",
       "number": 9,
-      "content": "là cho sư tử đuổi theo những người [Mô-áp]() thoát nạn",
+      "content": "là cho sư tử đuổi theo những người Mô-áp thoát nạn",
       "order": 1,
       "parNumber": 28,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.730Z",
-      "updatedAt": "2024-09-23T04:42:07.730Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:08.053Z",
+      "updatedAt": "2025-04-22T06:22:08.053Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "3a65a3b4-37c6-42aa-9868-871d0cf6174a",
+      "id": "d9cb7d6d-dd4e-4be5-b22c-2e6f1cca895d",
       "number": 9,
       "content": "và những kẻ còn sót lại trên đất.",
       "order": 2,
       "parNumber": 29,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:42:07.735Z",
-      "updatedAt": "2024-09-23T04:42:07.735Z",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:08.067Z",
+      "updatedAt": "2025-04-22T06:22:08.067Z",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     }
   ],
   "footnotes": [
     {
-      "id": "a8eee940-158e-4b08-8e55-60e5c2d5f7f3",
+      "id": "a6a4d2f5-0429-40c7-bced-69838cc71c09",
       "content": "15,1 – 16,14 : Hai chương này có nhiều vấn đề tranh cãi : Có phải của I-sai-a hay không ? Các biến cố ám chỉ trong hai chương này xảy ra thời nào ? Có người cho là những lời loan báo này có trước thời I-sai-a, có người cho là sau. Không ai chứng minh được dứt khoát. Dù sao có nhiều tương đồng với Gr 48. Mối quan hệ giữa Ít-ra-en và Mô-áp chẳng tốt đẹp ngay từ khi Ít-ra-en tiến vào Đất Hứa (x. Ds 22), nên có nhiều lời loan báo chống Mô-áp : Ds 21,27-30 ; Am 2,1-3 ; Xp 2,8-11 ; Ed 25,8-11 ; Is 25,10b-11. 15,1-9 : Một khúc ai ca về Mô-áp bị tàn phá.",
-      "position": 18,
+      "position": 14,
       "order": 0,
-      "createdAt": "2024-09-23T04:42:07.651Z",
-      "updatedAt": "2024-09-23T04:42:07.651Z",
-      "headingId": "65b4ee56-0192-4b56-aaba-913bc1a382cc",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.431Z",
+      "updatedAt": "2025-04-22T06:22:07.431Z",
+      "headingId": "70d1237f-17cd-4f9f-87f7-55b06125e911",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "7b2e79a5-4873-498c-9907-3a60fe5ee273",
+      "id": "de73e191-2cfa-4333-b7fe-07ccf00432b6",
       "content": "A Mô-áp và Kia Mô-áp là hai thành ở phía nam thung lũng Ác-nôn.",
-      "position": 39,
+      "position": 35,
       "order": 1,
-      "createdAt": "2024-09-23T04:42:07.658Z",
-      "updatedAt": "2024-09-23T04:42:07.658Z",
-      "verseId": "31d6a5c0-88ac-4244-bdd8-9cdf648e2574",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.470Z",
+      "updatedAt": "2025-04-22T06:22:07.470Z",
+      "verseId": "c11a49f0-45ce-4604-aac7-be8c41157e9a",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "8a1f4b9d-9dfd-4965-af16-b3b05dce5660",
+      "content": "English: Kir-Moab - French: Qir-Moab - Latin: Cirmoab - Origin: &#1511;&#1460;&#1497;&#1512;&#1470;&#1502;&#64331;&#1488;&#1489; - Vietnamese: Kia Mô-áp Is 15,1",
+      "position": 37,
+      "order": 7,
+      "createdAt": "2025-04-22T06:22:07.512Z",
+      "updatedAt": "2025-04-22T06:22:07.512Z",
+      "verseId": "c649deab-91dc-41cf-acfb-4d17300feee6",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "35d354f2-810b-4346-a125-22117b64c3a6",
+      "content": "English: Medeba - French: Madaba - Latin: Medaba - Origin: &#1502;&#1461;&#1497;&#1491;&#1456;&#1489;&#1464;&#1488; - Vietnamese: Mê-đơ-va Ds 21,30 ; Gs 13,9",
+      "position": 36,
+      "order": 13,
+      "createdAt": "2025-04-22T06:22:07.558Z",
+      "updatedAt": "2025-04-22T06:22:07.558Z",
+      "verseId": "a3065595-f99a-42f1-840b-5ad2b81cc484",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "81b2b6a5-5835-450b-a100-22046ae2fecb",
+      "content": "English: Elealeh - French: Eléalé - Latin: Eleale - Origin: &#1488;&#1462;&#1500;&#1506;&#1464;&#1500;&#1461;&#1492; - Vietnamese: En-a-lê Ds 32,37 ; Is 15,4",
+      "position": 19,
+      "order": 17,
+      "createdAt": "2025-04-22T06:22:07.656Z",
+      "updatedAt": "2025-04-22T06:22:07.656Z",
+      "verseId": "b894a8c7-95cf-4aee-a7ed-be823c27a5cc",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "44e7e03a-447c-4719-9446-bd4d2836e7b8",
+      "content": "English: Jahaz - French: Yaha&#231; - Latin: Iasa - Origin: &#1497;&#1463;&#1492;&#1461;&#1463;&#1509; - Vietnamese: Gia-hát thành thuộc Mô-áp, Is 15,4 ; Gr 48,34",
+      "position": 60,
+      "order": 19,
+      "createdAt": "2025-04-22T06:22:07.670Z",
+      "updatedAt": "2025-04-22T06:22:07.670Z",
+      "verseId": "b894a8c7-95cf-4aee-a7ed-be823c27a5cc",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "5d9e8759-8f49-4f75-ade4-1d9acf6a9971",
+      "content": "English: Zoar - French: &#199;oar - Latin: Segor - Origin: &#1510;&#64331;&#1506;&#1463;&#1512; - Vietnamese: Xô-a St 19,22",
+      "position": 38,
+      "order": 21,
+      "createdAt": "2025-04-22T06:22:07.757Z",
+      "updatedAt": "2025-04-22T06:22:07.757Z",
+      "verseId": "6bc94bd9-736c-468e-a600-57b18c4849ae",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "78024fd6-7613-4fd4-9313-e9e551df8dc7",
+      "content": "English: Eglath-Shelishiya - French: Eglath-Shelishiya - Latin: Eglatselisia - Origin: &#1506;&#1462;&#1490;&#1456;&#1500;&#1463;&#1514; &#64298;&#1456;&#1500;&#1460;&#64298;&#1460;&#1497;&#1468;&#1464;&#1492; - Vietnamese: Éc-lát Sơ-li-si-gia Is 15,5",
+      "position": 61,
+      "order": 23,
+      "createdAt": "2025-04-22T06:22:07.772Z",
+      "updatedAt": "2025-04-22T06:22:07.772Z",
+      "verseId": "6bc94bd9-736c-468e-a600-57b18c4849ae",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "5b5beba0-e064-47e3-9c9a-cc956c08e34f",
+      "content": "English: Luhith - French: Louhith - Latin: Luith - Origin: &#1500;&#64309;&#1495;&#1460;&#1497;&#1514; - Vietnamese: Lu-khít Is 15,5 ; Gr 48,5",
+      "position": 25,
+      "order": 25,
+      "createdAt": "2025-04-22T06:22:07.814Z",
+      "updatedAt": "2025-04-22T06:22:07.814Z",
+      "verseId": "7c326a7f-3217-42da-8a44-bee800fd1bf7",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "c60481a8-30a0-407b-8c46-026f3eded3bb",
+      "content": "English: Horonaim - French: Horonaim - Latin: Oronaim - Origin: &#1495;&#64331;&#1512;&#1465;&#1504;&#1463;&#1497;&#1477;&#1501; - Vietnamese: Khô-rô-na-gim Is 15,5 ; Gr 48,3.5.34",
+      "position": 33,
+      "order": 27,
+      "createdAt": "2025-04-22T06:22:07.843Z",
+      "updatedAt": "2025-04-22T06:22:07.843Z",
+      "verseId": "5cfaa3dc-8ea0-4853-b7f7-72bc8d1eaf30",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "1ba248f0-6bb4-4c58-808d-29bd53d24e21",
+      "content": "English: Nimrim - French: Nimrim - Latin: Nemrim - Origin: &#1504;&#1460;&#1502;&#1456;&#1512;&#1460;&#1497;&#1501; - Vietnamese: Nim-rim Is 15,6",
+      "position": 27,
+      "order": 29,
+      "createdAt": "2025-04-22T06:22:07.885Z",
+      "updatedAt": "2025-04-22T06:22:07.885Z",
+      "verseId": "48d3d76a-1645-44bc-91dd-f1e2ee4b053c",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "a97326fb-e0bb-46fd-85da-735622f0dd6e",
+      "content": "English: Willows (Ravine of the) - French: Saules (torrent des) - Latin: Salicum (torrentem) - Origin: &#1504;&#1463;&#1495;&#1463;&#1500; &#1492;&#1464;&#1506;&#1458;&#1512;&#1464;&#1489;&#1460;&#1497;&#1501; - Vietnamese: Thác Liễu Is 15,7",
+      "position": 40,
+      "order": 31,
+      "createdAt": "2025-04-22T06:22:07.940Z",
+      "updatedAt": "2025-04-22T06:22:07.940Z",
+      "verseId": "0d2d999d-81a3-4bf9-82d2-58c4a86bfada",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "97abb9fb-5e16-48ee-b97f-74a1aaf4f7a4",
+      "content": "English: Eglaim - French: Eglaim - Latin: Eglaim - Origin: &#1488;&#1462;&#1490;&#1456;&#1500;&#1463;&#1497;&#1477;&#1501; - Vietnamese: Éc-la-gim Is 15,8",
+      "position": 37,
+      "order": 33,
+      "createdAt": "2025-04-22T06:22:07.982Z",
+      "updatedAt": "2025-04-22T06:22:07.982Z",
+      "verseId": "c334558f-3cc4-4f39-9ac7-846d37b5db19",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "555a84b4-c6a4-49d0-a1c8-1b0919074244",
+      "content": "English: Beer-Elim - French: Puits d'Elim - Latin: Beerelim - Origin: &#64305;&#1456;&#1488;&#1461;&#1512; &#1488;&#1461;&#1497;&#1500;&#1460;&#1497;&#1501; - Vietnamese: Bơ-e Ê-lim Is 15,8",
+      "position": 38,
+      "order": 35,
+      "createdAt": "2025-04-22T06:22:08.010Z",
+      "updatedAt": "2025-04-22T06:22:08.010Z",
+      "verseId": "781d70e0-68fb-4045-9a33-b15eac4ee94d",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
+    },
+    {
+      "id": "417ec1ee-0c61-4811-82bd-f4aea2e77e3d",
+      "content": "English: Dimon - French: Divôn - Latin: Dimon - Origin: &#1491;&#1460;&#1497;&#1502;&#64331;&#1503; - Vietnamese: Đi-môn Is 15,9",
+      "position": 27,
+      "order": 37,
+      "createdAt": "2025-04-22T06:22:08.039Z",
+      "updatedAt": "2025-04-22T06:22:08.039Z",
+      "verseId": "a9992ca6-8a13-4b35-b692-96c0a1b368b2",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     }
   ],
   "headings": [
     {
-      "id": "65b4ee56-0192-4b56-aaba-913bc1a382cc",
-      "content": "Hạch tội [Mô-áp]()",
+      "id": "70d1237f-17cd-4f9f-87f7-55b06125e911",
+      "content": "Hạch tội Mô-áp",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:42:07.649Z",
-      "updatedAt": "2024-09-23T04:42:07.649Z",
-      "verseId": "948e7fe5-9cb2-42df-af22-754420d8fc5d",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.419Z",
+      "updatedAt": "2025-04-22T06:22:07.419Z",
+      "verseId": "82a97326-fa76-442d-8165-69a354121399",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     }
   ],
   "references": [
     {
-      "id": "3294db5e-ba94-4964-b4f5-29d34ecf5b72",
+      "id": "36877587-7b69-4d2b-bff7-4f853e605ea0",
       "content": "Gr 48ss; Ed 25,8-11; Am 2,1-3",
       "position": 17,
       "order": 0,
-      "createdAt": "2024-09-23T04:42:07.654Z",
-      "updatedAt": "2024-09-23T04:42:07.654Z",
-      "verseId": "948e7fe5-9cb2-42df-af22-754420d8fc5d",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.442Z",
+      "updatedAt": "2025-04-22T06:22:07.442Z",
+      "verseId": "82a97326-fa76-442d-8165-69a354121399",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "6202a4f4-cc0c-433a-a415-fb695f404a61",
+      "id": "8d7b3c20-3f89-4fd6-b13c-ad2ccbd6b4ba",
       "content": "Gr 48,37-38ss",
       "position": 18,
       "order": 1,
-      "createdAt": "2024-09-23T04:42:07.670Z",
-      "updatedAt": "2024-09-23T04:42:07.670Z",
-      "verseId": "fab0f697-6246-4e42-80cb-775336d82baf",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.586Z",
+      "updatedAt": "2025-04-22T06:22:07.586Z",
+      "verseId": "c818838a-b3b6-4d37-bdf5-093b8630dbfa",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "c1827127-6eb6-4dcd-8843-3e7e5ccfcfe5",
+      "id": "954708cc-a688-47d4-aade-fc40da4a8c33",
       "content": "Gr 48,34ss",
       "position": 0,
       "order": 2,
-      "createdAt": "2024-09-23T04:42:07.680Z",
-      "updatedAt": "2024-09-23T04:42:07.680Z",
-      "verseId": "78966d0b-e7dd-4f3d-89e1-32ade69d7692",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.683Z",
+      "updatedAt": "2025-04-22T06:22:07.683Z",
+      "verseId": "b894a8c7-95cf-4aee-a7ed-be823c27a5cc",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "5ea7af15-e72f-4d71-ad00-afeb21531a09",
+      "id": "eaf2926d-f8cf-4197-891c-b7f2e99bcbe0",
       "content": "Ds 21,23",
-      "position": 61,
+      "position": 53,
       "order": 3,
-      "createdAt": "2024-09-23T04:42:07.682Z",
-      "updatedAt": "2024-09-23T04:42:07.682Z",
-      "verseId": "78966d0b-e7dd-4f3d-89e1-32ade69d7692",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.697Z",
+      "updatedAt": "2025-04-22T06:22:07.697Z",
+      "verseId": "b894a8c7-95cf-4aee-a7ed-be823c27a5cc",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     },
     {
-      "id": "98b1d220-4cb0-4f68-8013-c93838d743db",
+      "id": "27376f45-54bf-4890-8cd9-2aceb6d39796",
       "content": "St 19,22; Gr 48,34ss",
       "position": 34,
       "order": 5,
-      "createdAt": "2024-09-23T04:42:07.691Z",
-      "updatedAt": "2024-09-23T04:42:07.691Z",
-      "verseId": "307921cd-ee61-414e-8aad-f4960d2a4b84",
-      "chapterId": "eccf1e83-572c-42b5-8860-b05042e04698"
+      "createdAt": "2025-04-22T06:22:07.786Z",
+      "updatedAt": "2025-04-22T06:22:07.786Z",
+      "verseId": "6bc94bd9-736c-468e-a600-57b18c4849ae",
+      "chapterId": "54d62b98-95ea-4e65-8969-56e97ffb23d4"
     }
   ],
   "psalmMetadata": []

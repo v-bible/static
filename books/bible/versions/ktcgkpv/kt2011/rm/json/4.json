@@ -1,645 +1,750 @@
 {
   "chapter": {
-    "id": "67b00b1f-143e-4f2c-987d-74b07ef99925",
+    "id": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40",
     "number": 4,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:01.761Z",
-    "updatedAt": "2024-09-23T03:08:01.761Z",
-    "bookId": "810ca004-17cb-44cf-aed0-5a846b5d154e"
+    "createdAt": "2025-04-22T00:48:26.584Z",
+    "updatedAt": "2025-04-22T00:48:26.584Z",
+    "bookId": "0960255a-ad11-4573-89e9-adb52b83097f"
   },
   "verses": [
     {
-      "id": "b21610d4-8ab3-4c33-9660-a8513d1f4faf",
+      "id": "011c6b0d-4a0b-4b23-b1a3-d9ab1ae4cba3",
       "number": 1,
-      "content": "Vậy phải nói sao về ông [Áp-ra-ham](), tổ phụ dân tộc chúng tôi ? Ông đã được gì ?",
+      "content": "Vậy phải nói sao về ông Áp-ra-ham, tổ phụ dân tộc chúng tôi ? Ông đã được gì ?",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.224Z",
-      "updatedAt": "2024-09-23T03:21:27.224Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.470Z",
+      "updatedAt": "2025-04-22T01:37:39.470Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "2b4feef8-c8a4-411b-a496-a1220af6f3f5",
+      "id": "6047092b-9eac-4933-a2a2-b4eb7e85cfca",
       "number": 2,
-      "content": "Giả như ông [Áp-ra-ham]() được nên công chính vì những việc ông đã làm, thì ông có lý do để hãnh diện ; nhưng không phải là hãnh diện trước mặt Thiên Chúa.",
+      "content": "Giả như ông Áp-ra-ham được nên công chính vì những việc ông đã làm, thì ông có lý do để hãnh diện ; nhưng không phải là hãnh diện trước mặt Thiên Chúa.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.241Z",
-      "updatedAt": "2024-09-23T03:21:27.241Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.549Z",
+      "updatedAt": "2025-04-22T01:37:39.549Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "670da9d4-52fc-410a-bdb7-fa894b53b35b",
+      "id": "b6359dd8-dfc8-45d2-9632-b52ac1ae13a7",
       "number": 3,
-      "content": "Thật vậy, Kinh Thánh nói gì ? *Ông [Áp-ra-ham]() đã tin Thiên Chúa, và vì thế được kể là người công chính*.",
+      "content": "Thật vậy, Kinh Thánh nói gì ? *Ông Áp-ra-ham đã tin Thiên Chúa, và vì thế được kể là người công chính*.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.246Z",
-      "updatedAt": "2024-09-23T03:21:27.246Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.586Z",
+      "updatedAt": "2025-04-22T01:37:39.586Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "d5aa7ff3-cdf5-426e-bc1e-9c244b1df9bd",
+      "id": "a8c180c8-6862-4da6-a2d2-e04fbabbd9dd",
       "number": 4,
       "content": "Người nào làm việc, thì lương trả cho người ấy không được kể là ân huệ, mà là nợ.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.251Z",
-      "updatedAt": "2024-09-23T03:21:27.251Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.630Z",
+      "updatedAt": "2025-04-22T01:37:39.630Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "1067d667-c227-4d96-9eef-f0f97740e751",
+      "id": "d3bf7b55-dbee-4389-93cc-156ed5b131af",
       "number": 5,
       "content": "Trái lại người nào không dựa vào việc làm nhưng tin vào Thiên Chúa, Đấng làm cho kẻ vô đạo nên công chính, thì lòng tin làm cho người ấy được Thiên Chúa kể là công chính.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.253Z",
-      "updatedAt": "2024-09-23T03:21:27.253Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.643Z",
+      "updatedAt": "2025-04-22T01:37:39.643Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "19753ec7-8ddd-42ce-8ed5-5948a7708277",
+      "id": "7d3f2df1-0577-430f-bef8-c7823fd324a2",
       "number": 6,
-      "content": "Đó là điều vua [Đa-vít]() nói khi ca tụng hạnh phúc của người được Thiên Chúa kể là công chính mà không xét đến việc làm :",
+      "content": "Đó là điều vua Đa-vít nói khi ca tụng hạnh phúc của người được Thiên Chúa kể là công chính mà không xét đến việc làm :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.257Z",
-      "updatedAt": "2024-09-23T03:21:27.257Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.663Z",
+      "updatedAt": "2025-04-22T01:37:39.663Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "6149f3a2-d55d-4ab7-8428-edca3e056c0c",
+      "id": "3be73a42-962b-4d69-898f-d388698ac690",
       "number": 7,
       "content": "*Hạnh phúc thay kẻ lỗi lầm mà được tha thứ,*",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:21:27.259Z",
-      "updatedAt": "2024-09-23T03:21:27.259Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.686Z",
+      "updatedAt": "2025-04-22T01:37:39.686Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "03644604-1540-4c91-82f4-85d4a7a254ba",
+      "id": "8e46d356-0155-45ee-86f0-011688e36fd2",
       "number": 7,
       "content": "*người có tội mà được khoan dung !*",
       "order": 1,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:21:27.263Z",
-      "updatedAt": "2024-09-23T03:21:27.263Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.706Z",
+      "updatedAt": "2025-04-22T01:37:39.706Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "938ddf86-f848-43ef-805d-61621504f3a7",
+      "id": "7d99332d-60be-4d25-8a8f-05d12c49883f",
       "number": 8,
       "content": "*Hạnh phúc thay người Chúa không kể là có tội !*",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:21:27.268Z",
-      "updatedAt": "2024-09-23T03:21:27.268Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.733Z",
+      "updatedAt": "2025-04-22T01:37:39.733Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "385b8755-52ab-400f-8f60-df5fa7b088aa",
+      "id": "c43f34d7-52e7-4777-a55d-df3df2bfe40f",
       "number": 9,
-      "content": "Lời ca tụng hạnh phúc này chỉ áp dụng cho những người được cắt bì, hay cho cả những người không được cắt bì nữa ? Quả vậy, như chúng ta vừa nói : *Ông [Áp-ra-ham]() đã tin, và vì thế được kể là người công chính.*",
+      "content": "Lời ca tụng hạnh phúc này chỉ áp dụng cho những người được cắt bì, hay cho cả những người không được cắt bì nữa ? Quả vậy, như chúng ta vừa nói : *Ông Áp-ra-ham đã tin, và vì thế được kể là người công chính.*",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.270Z",
-      "updatedAt": "2024-09-23T03:21:27.270Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.744Z",
+      "updatedAt": "2025-04-22T01:37:39.744Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "49362ccf-07a0-455e-b478-7d6ee208bf10",
+      "id": "1cef7556-8914-40b7-b426-8df9b9d2e3ba",
       "number": 10,
       "content": "Ông được kể là người công chính khi nào ? Trước hay sau khi ông được cắt bì ? Không phải sau, mà là trước khi ông được cắt bì !",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.277Z",
-      "updatedAt": "2024-09-23T03:21:27.277Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.785Z",
+      "updatedAt": "2025-04-22T01:37:39.785Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "b370ee98-ff23-48a0-9367-6bd3dea26835",
+      "id": "48fa62f4-2e74-4292-97b7-fc671080d24f",
       "number": 11,
       "content": "Ông nhận được phép cắt bì như dấu hiệu chứng thật rằng : nhờ tin mà ông được trở nên công chính, trước khi được cắt bì. Như vậy, ông là cha của mọi kẻ tin mà không được cắt bì, và vì tin nên được kể là công chính.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.282Z",
-      "updatedAt": "2024-09-23T03:21:27.282Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.805Z",
+      "updatedAt": "2025-04-22T01:37:39.805Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "747fd72b-8ce8-4a46-b369-57752ee263af",
+      "id": "4792f23b-5a54-4ba6-a986-fcfcf92fddb2",
       "number": 12,
-      "content": "Ông cũng là cha của những người được cắt bì, nhưng không phải chỉ được cắt bì, mà còn dõi bước tổ phụ chúng ta là ông [Áp-ra-ham](), trên đường đức tin, đức tin ông đã có trước khi được cắt bì.",
+      "content": "Ông cũng là cha của những người được cắt bì, nhưng không phải chỉ được cắt bì, mà còn dõi bước tổ phụ chúng ta là ông Áp-ra-ham, trên đường đức tin, đức tin ông đã có trước khi được cắt bì.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.293Z",
-      "updatedAt": "2024-09-23T03:21:27.293Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.847Z",
+      "updatedAt": "2025-04-22T01:37:39.847Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "248e070f-8c8b-4111-83d7-f39f1f9b49cf",
+      "id": "36d9544f-d5a1-48cc-984b-e752b07f371f",
       "number": 13,
-      "content": "Thật vậy, không phải chiếu theo Lề Luật, mà Thiên Chúa đã hứa cho ông [Áp-ra-ham]() và dòng dõi ông được thế gian làm gia nghiệp ; nhưng ông được lời hứa đó, vì đã trở nên công chính nhờ lòng tin.",
+      "content": "Thật vậy, không phải chiếu theo Lề Luật, mà Thiên Chúa đã hứa cho ông Áp-ra-ham và dòng dõi ông được thế gian làm gia nghiệp ; nhưng ông được lời hứa đó, vì đã trở nên công chính nhờ lòng tin.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.300Z",
-      "updatedAt": "2024-09-23T03:21:27.300Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.881Z",
+      "updatedAt": "2025-04-22T01:37:39.881Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "229874cf-c1b3-4b74-af1f-d6d50ce471ec",
+      "id": "abb24352-5598-41d0-8904-1dd9631ed1fb",
       "number": 14,
       "content": "Nếu gia nghiệp được dành cho những kẻ lệ thuộc vào Lề Luật, thì đức tin trở nên vô nghĩa, và lời Thiên Chúa hứa bị huỷ bỏ.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.320Z",
-      "updatedAt": "2024-09-23T03:21:27.320Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.943Z",
+      "updatedAt": "2025-04-22T01:37:39.943Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "ae70c311-5b7c-484b-be53-b6aa81592c90",
+      "id": "cb2553cc-4c23-4f28-86d4-af104e09b425",
       "number": 15,
       "content": "Quả thế, Luật gây nên cơn thịnh nộ của Thiên Chúa, còn ở đâu không có Lề Luật, thì cũng không có vi phạm.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.324Z",
-      "updatedAt": "2024-09-23T03:21:27.324Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.953Z",
+      "updatedAt": "2025-04-22T01:37:39.953Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "801d5aad-ca75-40ac-ae7d-1e8fa3aa180e",
+      "id": "c517bd2f-bd36-4e02-be20-f8c86e9c9e26",
       "number": 16,
-      "content": "Bởi vậy, vì tin mà người ta được thừa hưởng lời Thiên Chúa hứa ; như thế lời hứa là ân huệ Thiên Chúa ban không, và có giá trị cho toàn thể dòng dõi ông [Áp-ra-ham](), nghĩa là không phải chỉ cho những ai giữ Lề Luật, mà còn cho những ai có lòng tin như ông. Ông là tổ phụ chúng ta hết thảy,",
+      "content": "Bởi vậy, vì tin mà người ta được thừa hưởng lời Thiên Chúa hứa ; như thế lời hứa là ân huệ Thiên Chúa ban không, và có giá trị cho toàn thể dòng dõi ông Áp-ra-ham, nghĩa là không phải chỉ cho những ai giữ Lề Luật, mà còn cho những ai có lòng tin như ông. Ông là tổ phụ chúng ta hết thảy,",
       "order": 0,
       "parNumber": 5,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.328Z",
-      "updatedAt": "2024-09-23T03:21:27.328Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.963Z",
+      "updatedAt": "2025-04-22T01:37:39.963Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "11ec5f92-bc03-4fe0-b7b8-4d59033fc816",
+      "id": "c484651f-c9a2-4dd1-93e3-175a6008bd25",
       "number": 17,
       "content": "như có lời chép : *Ta đã đặt ngươi làm tổ phụ nhiều dân tộc.* Ông là tổ phụ chúng ta trước mặt Thiên Chúa, Đấng ông tin tưởng, Đấng làm cho kẻ chết được sống và khiến những gì không có hoá có.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.342Z",
-      "updatedAt": "2024-09-23T03:21:27.342Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.003Z",
+      "updatedAt": "2025-04-22T01:37:40.003Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "8803e0f7-c6ec-4d06-ae5b-629918fc6e45",
+      "id": "a7b1e94a-cac8-4366-b2a9-444d8c62c4f9",
       "number": 18,
       "content": "Mặc dầu không còn gì để trông cậy, ông vẫn trông cậy và vững tin, do đó ông đã trở thành tổ phụ nhiều dân tộc, như lời Thiên Chúa phán : *Dòng dõi ngươi sẽ đông đảo như thế.*",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.354Z",
-      "updatedAt": "2024-09-23T03:21:27.354Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.037Z",
+      "updatedAt": "2025-04-22T01:37:40.037Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "dcd62b6c-4035-4d72-a888-f420e415c628",
+      "id": "fc8e3439-33b7-436e-a8c3-b8e75018d988",
       "number": 19,
-      "content": "Ông đã gần một trăm tuổi, nhưng ông vẫn vững tin không nao núng, khi nghĩ rằng thân xác ông cũng như dạ bà [Xa-ra]() đều đã chết.",
+      "content": "Ông đã gần một trăm tuổi, nhưng ông vẫn vững tin không nao núng, khi nghĩ rằng thân xác ông cũng như dạ bà Xa-ra đều đã chết.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.370Z",
-      "updatedAt": "2024-09-23T03:21:27.370Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.090Z",
+      "updatedAt": "2025-04-22T01:37:40.090Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "fc2e170b-8fa2-448a-a036-8f75dae72775",
+      "id": "fd36e37c-4434-4b73-8b52-22e38c558dae",
       "number": 20,
       "content": "Ông đã chẳng mất niềm tin, chẳng chút nghi ngờ lời Thiên Chúa hứa ; trái lại, nhờ niềm tin, ông đã nên vững mạnh và tôn vinh Thiên Chúa,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.378Z",
-      "updatedAt": "2024-09-23T03:21:27.378Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.110Z",
+      "updatedAt": "2025-04-22T01:37:40.110Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "fda1cdc7-8583-4a31-8597-966b759925a4",
+      "id": "16905a5d-1ee6-4b7c-9c7a-0dfbdae507a3",
       "number": 21,
       "content": "vì ông hoàn toàn xác tín rằng : điều gì Thiên Chúa đã hứa thì Người cũng có đủ quyền năng thực hiện.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.387Z",
-      "updatedAt": "2024-09-23T03:21:27.387Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.130Z",
+      "updatedAt": "2025-04-22T01:37:40.130Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "d256db39-604b-4875-83ff-4e86457efc52",
+      "id": "cf444a4b-02e1-4b77-ae6f-d9c75b9c03d8",
       "number": 22,
       "content": "Bởi thế, *ông được kể là người công chính.*",
       "order": 0,
       "parNumber": 6,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.391Z",
-      "updatedAt": "2024-09-23T03:21:27.391Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.140Z",
+      "updatedAt": "2025-04-22T01:37:40.140Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "3ca64f17-cbce-42a8-8aeb-69f67f75ad11",
+      "id": "708d864e-061e-4230-8f80-b92126967ca3",
       "number": 23,
       "content": "Nhưng khi viết *ông được kể là người công chính,* thì không phải chỉ nói về ông,",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.395Z",
-      "updatedAt": "2024-09-23T03:21:27.395Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.150Z",
+      "updatedAt": "2025-04-22T01:37:40.150Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "4522b895-dc7f-44ce-ba48-7aaa11757c61",
+      "id": "ffef8de1-7168-4a4e-ad10-cf6286db8aa6",
       "number": 24,
-      "content": "mà còn nói về cả chúng ta nữa : chúng ta sẽ được kể là công chính, vì tin vào Đấng đã làm cho Đức [Giê-su](), Chúa chúng ta, sống lại từ cõi chết ;",
+      "content": "mà còn nói về cả chúng ta nữa : chúng ta sẽ được kể là công chính, vì tin vào Đấng đã làm cho Đức Giê-su, Chúa chúng ta, sống lại từ cõi chết ;",
       "order": 0,
       "parNumber": 7,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.403Z",
-      "updatedAt": "2024-09-23T03:21:27.403Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.170Z",
+      "updatedAt": "2025-04-22T01:37:40.170Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "7e5f77a8-2964-4a11-a281-7203e1d0fba2",
+      "id": "9225d3a7-eaeb-4cd2-8575-b25a6a22d556",
       "number": 25,
-      "content": "Đức [Giê-su]() chính là Đấng đã bị trao nộp vì tội lỗi chúng ta và đã được Thiên Chúa làm cho sống lại để chúng ta được nên công chính.",
+      "content": "Đức Giê-su chính là Đấng đã bị trao nộp vì tội lỗi chúng ta và đã được Thiên Chúa làm cho sống lại để chúng ta được nên công chính.",
       "order": 0,
       "parNumber": 7,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:21:27.407Z",
-      "updatedAt": "2024-09-23T03:21:27.407Z",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.183Z",
+      "updatedAt": "2025-04-22T01:37:40.183Z",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     }
   ],
   "footnotes": [
     {
-      "id": "bb337d7e-ba0d-481f-87bd-cefdcf4e405b",
+      "id": "24144e74-5910-4f90-a130-9c5da1634cc8",
       "content": "Thánh Phao-lô nêu gương của ông Áp-ra-ham như là một dẫn chứng Kinh Thánh để chứng minh chủ đề người ta được Thiên Chúa làm cho nên công chính nhờ họ tin. Câu chuyện ông Áp-ra-ham ở đây không những không nghịch với chủ đề thánh Phao-lô đang trình bày nhưng còn là một đề tài căn bản. Cũng qua đó, thánh Phao-lô cho thấy sự thống nhất giữa hai Giao Ước. – Lập luận mở rộng dần dần : c.1 : tổ phụ chúng tôi. c.12 : cắt bì không đủ mà còn cần có đức tin. Cc. 16-18 : không những là tổ phụ mà còn là gương mẫu của mọi kẻ tin.",
-      "position": 47,
+      "position": 43,
       "order": 0,
-      "createdAt": "2024-09-23T03:21:27.237Z",
-      "updatedAt": "2024-09-23T03:21:27.237Z",
-      "headingId": "3f6e3260-352e-4c40-b5ec-17a4e90e206f",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.518Z",
+      "updatedAt": "2025-04-22T01:37:39.518Z",
+      "headingId": "543423ab-1352-48df-9934-e7e71127dd89",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "9afab2e4-ee7d-49c7-bfbe-dfa424ca7f39",
+      "id": "1e5221a8-39a8-486f-b27a-e139dabccf20",
       "content": "... *tổ phụ dân tộc chúng tôi*. ds : *tổ phụ chúng tôi xét về xác thịt (huyết thống)*.",
-      "position": 80,
+      "position": 76,
       "order": 1,
-      "createdAt": "2024-09-23T03:21:27.240Z",
-      "updatedAt": "2024-09-23T03:21:27.240Z",
-      "verseId": "b21610d4-8ab3-4c33-9660-a8513d1f4faf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.539Z",
+      "updatedAt": "2025-04-22T01:37:39.539Z",
+      "verseId": "011c6b0d-4a0b-4b23-b1a3-d9ab1ae4cba3",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "fa1d02a9-6487-4a53-83b9-88e0bb2f0deb",
+      "id": "bbf5dfe2-7b80-4d45-8703-3c347e40fa59",
       "content": "Truyền thống Do-thái vẫn coi tổ phụ Áp-ra-ham là điển hình việc Thiên Chúa làm cho ông nên công chính nhờ các việc ông làm, nhất là vì ông trung tín và kiên trì chịu thử thách (x. Kn 10,5 ; Hc 44,20 tt ; 1 Mcb 2,52 ...). Nhưng thánh Phao-lô còn đi xa hơn, trở về tận đức tin của ông Áp-ra-ham (St 12,1 tt ; 15,6 tt) và cho đó mới là nền tảng việc ông Áp-ra-ham được Thiên Chúa làm cho nên công chính, các việc ông làm về sau cũng phát xuất từ đó (x. Hr 11,8 tt). – *Hãnh diện*. Từ ngữ được thánh Phao-lô dùng nhiều lần trong các thư (đặc biệt Rm 2,17.23 ; 3,27 ; 5,2.3.11 ; 15,17). Bản LXX dùng để chỉ thái độ của những người cậy vào sức lực riêng mình, cho mình độc lập với Thiên Chúa (Tv 52,2 ; 74,84 ...). Thánh Phao-lô cho rằng chỉ có một sự hãnh diện đáng kể, đó là hãnh diện trong Chúa (x. Rm 5,11 ; 1 Cr 1,3 ; Pl 3,3).",
-      "position": 101,
+      "position": 97,
       "order": 2,
-      "createdAt": "2024-09-23T03:21:27.244Z",
-      "updatedAt": "2024-09-23T03:21:27.244Z",
-      "verseId": "2b4feef8-c8a4-411b-a496-a1220af6f3f5",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.573Z",
+      "updatedAt": "2025-04-22T01:37:39.573Z",
+      "verseId": "6047092b-9eac-4933-a2a2-b4eb7e85cfca",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "287ea4cc-4847-44c2-a58e-98753c190794",
+      "id": "21e9c4d7-4823-479a-beb5-34b9e1cc263c",
       "content": "St 15,6. Có thể có nhiều cách giải thích : 1) Nhờ đức tin, Thiên Chúa coi ông Áp-ra-ham là công chính, trong khi thực tế ông không công chính ; 2) Nhờ đức tin, Thiên Chúa ban không cho ông Áp-ra-ham ơn được nên công chính mà cho tới khi tin ông vẫn chưa có ; 3) Theo cách nhìn của Thiên Chúa : đức tin hoà nhập với sự công chính. Nhưng cũng không thể coi đức tin của ông Áp-ra-ham như thể một việc làm đáng Thiên Chúa ban cho ông ơn được nên công chính. Từ ngữ cho phép hiểu đó là tác động của Thiên Chúa chấp nhận một người hoàn toàn không có chút công chính nào riêng của mình (Rm 9,22-23 ; Gl 3,6 ; Gc 2,23).",
-      "position": 106,
+      "position": 102,
       "order": 3,
-      "createdAt": "2024-09-23T03:21:27.248Z",
-      "updatedAt": "2024-09-23T03:21:27.248Z",
-      "verseId": "670da9d4-52fc-410a-bdb7-fa894b53b35b",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.607Z",
+      "updatedAt": "2025-04-22T01:37:39.607Z",
+      "verseId": "b6359dd8-dfc8-45d2-9632-b52ac1ae13a7",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "92b88375-cbfb-42e4-9fd3-a7228653823a",
+      "id": "d9d7a531-d759-4a98-b252-1224f4e47df2",
       "content": "*Người nào không dựa vào việc làm*, ds : *người không làm, nhưng tin* ... không làm không có nghĩa là hoàn toàn thụ động. Nhưng chỉ có ý xét về mặt pháp lý : việc làm chẳng có giá trị gì đáng đòi ơn của Thiên Chúa.",
       "position": 41,
       "order": 4,
-      "createdAt": "2024-09-23T03:21:27.255Z",
-      "updatedAt": "2024-09-23T03:21:27.255Z",
-      "verseId": "1067d667-c227-4d96-9eef-f0f97740e751",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.653Z",
+      "updatedAt": "2025-04-22T01:37:39.653Z",
+      "verseId": "d3bf7b55-dbee-4389-93cc-156ed5b131af",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "a0aa2053-1836-4a24-a58f-2aedabf33910",
+      "id": "2bfcd55c-d076-4067-a09c-55cccc537c8b",
       "content": "*Khoan dung*. ds : *che phủ,* không hiểu theo nghĩa che cho khỏi thấy, nhưng hiểu là Thiên Chúa phá huỷ, tiêu diệt tội lỗi (x. Tv 85,3 ; Cn 10,12 ; Gc 5,20 ; 1 Pr 4,8). Thánh Phao-lô dẫn Tv 32,1 theo kiểu của người : nêu trường hợp của một cá nhân được hưởng ơn tha tội để thành một nguyên tắc chung cho mọi người : Thiên Chúa làm cho con người nên công chính (= tha thứ tội lỗi) mà không xét đến việc làm của con người.",
       "position": 32,
       "order": 5,
-      "createdAt": "2024-09-23T03:21:27.265Z",
-      "updatedAt": "2024-09-23T03:21:27.265Z",
-      "verseId": "03644604-1540-4c91-82f4-85d4a7a254ba",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.720Z",
+      "updatedAt": "2025-04-22T01:37:39.720Z",
+      "verseId": "8e46d356-0155-45ee-86f0-011688e36fd2",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "ac7a1b8e-222d-4136-91a4-bb905c5eb1c1",
+      "id": "3327ac38-bfd1-4652-aa7d-2d5a1409370d",
       "content": "ds : *đã cắt bì hay còn chưa cắt bì* ? *Không phải là đã cắt bì, nhưng là còn chưa cắt bì.*",
       "position": 125,
       "order": 6,
-      "createdAt": "2024-09-23T03:21:27.279Z",
-      "updatedAt": "2024-09-23T03:21:27.279Z",
-      "verseId": "49362ccf-07a0-455e-b478-7d6ee208bf10",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.795Z",
+      "updatedAt": "2025-04-22T01:37:39.795Z",
+      "verseId": "1cef7556-8914-40b7-b426-8df9b9d2e3ba",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "5b42b856-c400-4c09-81e6-a1fdb2190fed",
+      "id": "83f16378-f968-4605-8cd1-308040e62282",
       "content": "*Ông nhận được phép cắt bì như dấu hiệu chứng thực ...* ds : *ông đã nhận lấy dấu cắt bì, ấn tín của sự công chính bởi đức tin, ngay khi còn chưa cắt bì.* Thánh Phao-lô giải thích phép cắt bì của ông Áp-ra-ham như là một dấu hiệu chứng thực ông đã được Thiên Chúa cho trở nên công chính, chứ không phải là điều kiện.",
       "position": 38,
       "order": 7,
-      "createdAt": "2024-09-23T03:21:27.284Z",
-      "updatedAt": "2024-09-23T03:21:27.284Z",
-      "verseId": "b370ee98-ff23-48a0-9367-6bd3dea26835",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.818Z",
+      "updatedAt": "2025-04-22T01:37:39.818Z",
+      "verseId": "48fa62f4-2e74-4292-97b7-fc671080d24f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "375c2372-016e-468d-b1c6-7e69158f26ab",
+      "id": "4dcec96e-ee50-4766-aaa5-f27d035d0bbe",
       "content": "*Nhờ tin mà ông được trở nên công chính ...* ds : *sự công chính của đức tin ngay khi còn chưa cắt bì*.",
       "position": 118,
       "order": 8,
-      "createdAt": "2024-09-23T03:21:27.287Z",
-      "updatedAt": "2024-09-23T03:21:27.287Z",
-      "verseId": "b370ee98-ff23-48a0-9367-6bd3dea26835",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.828Z",
+      "updatedAt": "2025-04-22T01:37:39.828Z",
+      "verseId": "48fa62f4-2e74-4292-97b7-fc671080d24f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "c24f35c5-4f29-4d2e-bb61-e6f5dd692895",
+      "id": "d55dcae8-6375-4d5d-972b-82b0008631d3",
       "content": "ds : *để ông trở nên cha của mọi kẻ tin mà không được cắt bì, để họ được kể là công chính.*",
       "position": 212,
       "order": 9,
-      "createdAt": "2024-09-23T03:21:27.290Z",
-      "updatedAt": "2024-09-23T03:21:27.290Z",
-      "verseId": "b370ee98-ff23-48a0-9367-6bd3dea26835",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.837Z",
+      "updatedAt": "2025-04-22T01:37:39.837Z",
+      "verseId": "48fa62f4-2e74-4292-97b7-fc671080d24f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "cce606a9-240b-43d7-8547-6bf7daeea979",
+      "id": "1393c61b-34d0-4d77-8f10-d914b0342891",
       "content": "ds : *ông cũng là cha của giới cắt bì, những kẻ không phải chỉ thuộc giới cắt bì mà thôi, nhưng còn dõi bước đức tin khi chưa được cắt bì của ông Áp-ra-ham, tổ phụ chúng ta.* – Cc. 11-12 : cả người ngoại lẫn người Do-thái đều thuộc dòng dõi của ông Áp-ra-ham không phải vì đã chịu phép cắt bì hay không, nhưng trên hết và căn bản nhất là vì đã tin.",
-      "position": 192,
+      "position": 188,
       "order": 10,
-      "createdAt": "2024-09-23T03:21:27.296Z",
-      "updatedAt": "2024-09-23T03:21:27.296Z",
-      "verseId": "747fd72b-8ce8-4a46-b369-57752ee263af",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.871Z",
+      "updatedAt": "2025-04-22T01:37:39.871Z",
+      "verseId": "4792f23b-5a54-4ba6-a986-fcfcf92fddb2",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "3f98b93c-7aab-4ace-b192-c31179204f67",
+      "id": "70497274-5f8a-4460-8f01-84e5a21107cb",
       "content": "Việc ông Áp-ra-ham được trở nên công chính đi liền với việc Thiên Chúa hứa cho dòng dõi ông được đông đảo như sao trên trời (St 15,1-6). Lời hứa của Thiên Chúa và việc ông Áp-ra-ham trở nên công chính có trước khi ông được cắt bì và độc lập với phép cắt bì, và như vậy cũng độc lập với Luật Mô-sê (Gl 3,17).",
-      "position": 128,
+      "position": 124,
       "order": 11,
-      "createdAt": "2024-09-23T03:21:27.307Z",
-      "updatedAt": "2024-09-23T03:21:27.307Z",
-      "verseId": "248e070f-8c8b-4111-83d7-f39f1f9b49cf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.911Z",
+      "updatedAt": "2025-04-22T01:37:39.911Z",
+      "verseId": "36d9544f-d5a1-48cc-984b-e752b07f371f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "97d4d420-b392-4158-bbd0-e82f6654cb37",
+      "id": "bb099e43-1ac2-40f3-a641-ad106756da4e",
       "content": "*Nhưng ông được lời hứa đó* : thêm vào.",
-      "position": 156,
+      "position": 152,
       "order": 12,
-      "createdAt": "2024-09-23T03:21:27.312Z",
-      "updatedAt": "2024-09-23T03:21:27.312Z",
-      "verseId": "248e070f-8c8b-4111-83d7-f39f1f9b49cf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.921Z",
+      "updatedAt": "2025-04-22T01:37:39.921Z",
+      "verseId": "36d9544f-d5a1-48cc-984b-e752b07f371f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "a7b70ebb-da12-4dc4-b65b-94c510043d16",
+      "id": "88784b10-1ce1-4eb6-ba10-5bad8804f0f3",
       "content": "C. 16 trong bản văn, khó ; ds : *Bởi vậy, nhờ đức tin, để trở nên ân huệ (nhưng không), lời hứa trở nên vững chắc cho tất cả dòng dõi, không chỉ cho dòng dõi theo Lề Luật, nhưng cho cả dòng dõi theo đức tin của ông Áp-ra-ham.*",
-      "position": 257,
+      "position": 253,
       "order": 13,
-      "createdAt": "2024-09-23T03:21:27.332Z",
-      "updatedAt": "2024-09-23T03:21:27.332Z",
-      "verseId": "801d5aad-ca75-40ac-ae7d-1e8fa3aa180e",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.983Z",
+      "updatedAt": "2025-04-22T01:37:39.983Z",
+      "verseId": "c517bd2f-bd36-4e02-be20-f8c86e9c9e26",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "fab509d3-6199-444b-8ec5-e18bdf553036",
+      "id": "da69e2c8-e3e4-4d19-a7d7-7be221d013dd",
       "content": "Kết luận phần chứng minh và chuẩn bị cho phần sau (cc. 18-25) nói về ông Áp-ra-ham, không những ông là tổ phụ của chúng ta mà đức tin của ông còn là hình ảnh đức tin của chúng ta.",
-      "position": 290,
+      "position": 286,
       "order": 14,
-      "createdAt": "2024-09-23T03:21:27.338Z",
-      "updatedAt": "2024-09-23T03:21:27.338Z",
-      "verseId": "801d5aad-ca75-40ac-ae7d-1e8fa3aa180e",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.993Z",
+      "updatedAt": "2025-04-22T01:37:39.993Z",
+      "verseId": "c517bd2f-bd36-4e02-be20-f8c86e9c9e26",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "c0fea317-b968-41ae-bc77-30ed12a1f35a",
+      "id": "05c86cb4-628c-48f4-b6de-f2be272d97d9",
       "content": "Ám chỉ việc Thiên Chúa sáng tạo và chuẩn bị cho ý tưởng chính Đấng đã sáng tạo vũ trụ cũng là Đấng đã cho Đức Giê-su Ki-tô phục sinh (x. c.24).",
       "position": 191,
       "order": 15,
-      "createdAt": "2024-09-23T03:21:27.346Z",
-      "updatedAt": "2024-09-23T03:21:27.346Z",
-      "verseId": "11ec5f92-bc03-4fe0-b7b8-4d59033fc816",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.014Z",
+      "updatedAt": "2025-04-22T01:37:40.014Z",
+      "verseId": "c484651f-c9a2-4dd1-93e3-175a6008bd25",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "231260d5-6c74-44f5-8233-cc7bba10184b",
+      "id": "dbb18ca6-72f7-4b58-94f3-1567bfe3c9f1",
       "content": "Nghĩa là xét theo phương diện loài người thì không còn lý do gì khiến ông Áp-ra-ham có thể hy vọng, nhưng ông vẫn hoàn toàn hy vọng vì lời Thiên Chúa đã hứa (x. cc.19-22).",
       "position": 64,
       "order": 16,
-      "createdAt": "2024-09-23T03:21:27.362Z",
-      "updatedAt": "2024-09-23T03:21:27.362Z",
-      "verseId": "8803e0f7-c6ec-4d06-ae5b-629918fc6e45",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.070Z",
+      "updatedAt": "2025-04-22T01:37:40.070Z",
+      "verseId": "a7b1e94a-cac8-4366-b2a9-444d8c62c4f9",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "bcf88205-d23a-460c-8d46-cab6970e6bf1",
+      "id": "76f1bb22-0d8f-4ce8-a2d6-e0975db9f778",
       "content": "ds : *ông không yếu tin khi thấy rằng thân xác của ông đã chết – vì ông đã gần một trăm tuổi – và dạ của bà Xa-ra cũng đã chết.* Không hiểu chết theo nghĩa thông thường, nhưng ngụ ý nói hai ông bà tổ phụ không thể sinh con được nữa, thế mà vẫn vững tin lời Thiên Chúa hứa sẽ ban cho mình một dòng dõi đông đảo (x. c.18).",
-      "position": 128,
+      "position": 124,
       "order": 17,
-      "createdAt": "2024-09-23T03:21:27.374Z",
-      "updatedAt": "2024-09-23T03:21:27.374Z",
-      "verseId": "dcd62b6c-4035-4d72-a888-f420e415c628",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.100Z",
+      "updatedAt": "2025-04-22T01:37:40.100Z",
+      "verseId": "fc8e3439-33b7-436e-a8c3-b8e75018d988",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "9fa0a464-ba60-4bbd-bb49-5b56f0b4a6f0",
+      "id": "d1ff55c9-5d31-44d7-bc7a-96a880c0e3f6",
       "content": "ds : ... *ông không vì bất tín mà do dự, nhưng đã nên vững mạnh nhờ đức tin.* – *Tôn vinh Thiên Chúa* : thái độ của người cậy trông Thiên Chúa, nhìn nhận rằng những gì mình có đều là do Người.",
       "position": 135,
       "order": 18,
-      "createdAt": "2024-09-23T03:21:27.383Z",
-      "updatedAt": "2024-09-23T03:21:27.383Z",
-      "verseId": "fc2e170b-8fa2-448a-a036-8f75dae72775",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.120Z",
+      "updatedAt": "2025-04-22T01:37:40.120Z",
+      "verseId": "fd36e37c-4434-4b73-8b52-22e38c558dae",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "6565e4af-75ee-4cbb-92df-e11df10cb33e",
+      "id": "55bda63a-f7b3-4f3f-b932-15a05b069ab4",
       "content": "Ý tưởng mở rộng ra : ông Áp-ra-ham được Thiên Chúa kể là công chính vì ông đã tin và vì tin ông nhận được lời Thiên Chúa hứa, trước khi có Lề Luật. Như vậy phép cắt bì mà Lề Luật dạy cũng có sau khi ông Áp-ra-ham đã tin, và chỉ là dấu hiệu chứng tỏ ông đã được nên công chính và được hưởng lời hứa. Ông trở thành tổ phụ của tất cả những người tin – thuộc giới cắt bì hay không thuộc giới cắt bì – vì ông tin lời Thiên Chúa, Đấng đã cho Đức Giê-su Ki-tô phục sinh. Và trong công trình đó, Thiên Chúa làm cho chúng ta nên công chính.",
-      "position": 134,
+      "position": 130,
       "order": 19,
-      "createdAt": "2024-09-23T03:21:27.412Z",
-      "updatedAt": "2024-09-23T03:21:27.412Z",
-      "verseId": "7e5f77a8-2964-4a11-a281-7203e1d0fba2",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.193Z",
+      "updatedAt": "2025-04-22T01:37:40.193Z",
+      "verseId": "9225d3a7-eaeb-4cd2-8575-b25a6a22d556",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "97a13e8f-6027-4fe3-9c43-81a26fbade65",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 33,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.529Z",
+      "updatedAt": "2025-04-22T01:37:39.529Z",
+      "verseId": "011c6b0d-4a0b-4b23-b1a3-d9ab1ae4cba3",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "d0803a3e-0164-439e-883d-4f0b9c42ed1c",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 21,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.562Z",
+      "updatedAt": "2025-04-22T01:37:39.562Z",
+      "verseId": "6047092b-9eac-4933-a2a2-b4eb7e85cfca",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "2fb6c919-6a94-4fb2-b3e6-2fd2d695b8bf",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 44,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.596Z",
+      "updatedAt": "2025-04-22T01:37:39.596Z",
+      "verseId": "b6359dd8-dfc8-45d2-9632-b52ac1ae13a7",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "ca3f2797-739a-427b-9d51-dbffae4929ba",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 160,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.764Z",
+      "updatedAt": "2025-04-22T01:37:39.764Z",
+      "verseId": "c43f34d7-52e7-4777-a55d-df3df2bfe40f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "d240e4a3-6333-4b9d-82a9-e5ccdcdd67b1",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 127,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.861Z",
+      "updatedAt": "2025-04-22T01:37:39.861Z",
+      "verseId": "4792f23b-5a54-4ba6-a986-fcfcf92fddb2",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "bb1f0b37-14d4-43b6-8d2a-c59646f9b984",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 79,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.901Z",
+      "updatedAt": "2025-04-22T01:37:39.901Z",
+      "verseId": "36d9544f-d5a1-48cc-984b-e752b07f371f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "ea86be18-dc6d-42c7-8cb0-025187f9ff7e",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 162,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.973Z",
+      "updatedAt": "2025-04-22T01:37:39.973Z",
+      "verseId": "c517bd2f-bd36-4e02-be20-f8c86e9c9e26",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "7037815d-4123-4034-aa1f-3489b6f7b4c0",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 26,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:40.060Z",
+      "updatedAt": "2025-04-22T01:37:40.060Z",
+      "headingId": "35fb6ac0-969f-4e46-a304-4670549287de",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "66e44314-e8a2-4732-8254-7db7177e6499",
+      "content": "English: Abraham - French: Abraham - Latin: Abraham - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1492;&#1464;&#1501; - Vietnamese: Áp-ra-ham St 17,5",
+      "position": 13,
+      "order": 20,
+      "createdAt": "2025-04-22T01:37:39.508Z",
+      "updatedAt": "2025-04-22T01:37:39.508Z",
+      "headingId": "543423ab-1352-48df-9934-e7e71127dd89",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "d846081d-6060-4f94-9a25-a104dd556009",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 21,
+      "order": 22,
+      "createdAt": "2025-04-22T01:37:39.673Z",
+      "updatedAt": "2025-04-22T01:37:39.673Z",
+      "verseId": "7d3f2df1-0577-430f-bef8-c7823fd324a2",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     }
   ],
   "headings": [
     {
-      "id": "13859195-824f-4661-9e88-efaf2fbd78d6",
+      "id": "2fcd8fbe-8fe5-4a3a-91d1-ca08565ab637",
       "content": "C. GƯƠNG TỔ PHỤ ÁP-RA-HAM",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:21:27.233Z",
-      "updatedAt": "2024-09-23T03:21:27.233Z",
-      "verseId": "b21610d4-8ab3-4c33-9660-a8513d1f4faf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.488Z",
+      "updatedAt": "2025-04-22T01:37:39.488Z",
+      "verseId": "011c6b0d-4a0b-4b23-b1a3-d9ab1ae4cba3",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "b89e831d-30e8-43cc-b677-4adc13d598e4",
-      "content": "Không phải vì chịu phép cắt bì",
-      "order": 0,
-      "createdAt": "2024-09-23T03:21:27.272Z",
-      "updatedAt": "2024-09-23T03:21:27.272Z",
-      "verseId": "385b8755-52ab-400f-8f60-df5fa7b088aa",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
-    },
-    {
-      "id": "8b2da8c0-84b0-4e37-a097-62bdc81898b9",
+      "id": "be80d306-abc5-4dcf-9840-9335b45f86a8",
       "content": "Không phải vì giữ Lề Luật",
+      "level": 2,
       "order": 0,
-      "createdAt": "2024-09-23T03:21:27.303Z",
-      "updatedAt": "2024-09-23T03:21:27.303Z",
-      "verseId": "248e070f-8c8b-4111-83d7-f39f1f9b49cf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.891Z",
+      "updatedAt": "2025-04-22T01:37:39.891Z",
+      "verseId": "36d9544f-d5a1-48cc-984b-e752b07f371f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "c524b133-9416-404d-9f8b-bb588a1e7ddb",
-      "content": "Lòng tin của ông [Áp-ra-ham]() và lòng tin của chúng ta",
+      "id": "35fb6ac0-969f-4e46-a304-4670549287de",
+      "content": "Lòng tin của ông Áp-ra-ham và lòng tin của chúng ta",
+      "level": 2,
       "order": 0,
-      "createdAt": "2024-09-23T03:21:27.358Z",
-      "updatedAt": "2024-09-23T03:21:27.358Z",
-      "verseId": "8803e0f7-c6ec-4d06-ae5b-629918fc6e45",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.050Z",
+      "updatedAt": "2025-04-22T01:37:40.050Z",
+      "verseId": "a7b1e94a-cac8-4366-b2a9-444d8c62c4f9",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "3f6e3260-352e-4c40-b5ec-17a4e90e206f",
-      "content": "Ông [Áp-ra-ham]() được nên công chính vì đã tin",
+      "id": "43a15cee-08fd-484f-a77a-efa5314e244b",
+      "content": "Không phải vì chịu phép cắt bì",
+      "level": 2,
+      "order": 0,
+      "createdAt": "2025-04-22T01:37:39.754Z",
+      "updatedAt": "2025-04-22T01:37:39.754Z",
+      "verseId": "c43f34d7-52e7-4777-a55d-df3df2bfe40f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
+    },
+    {
+      "id": "543423ab-1352-48df-9934-e7e71127dd89",
+      "content": "Ông Áp-ra-ham được nên công chính vì đã tin",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T03:21:27.235Z",
-      "updatedAt": "2024-09-23T03:21:27.235Z",
-      "verseId": "b21610d4-8ab3-4c33-9660-a8513d1f4faf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.498Z",
+      "updatedAt": "2025-04-22T01:37:39.498Z",
+      "verseId": "011c6b0d-4a0b-4b23-b1a3-d9ab1ae4cba3",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     }
   ],
   "references": [
     {
-      "id": "95ff864d-1337-4192-acb9-5e4f2ed86af3",
+      "id": "59e7e0c7-a38c-4a24-80b8-243d2020dde1",
       "content": "St 15,6; Gl 3,6; Gc 2,14.20-24",
       "position": 35,
       "order": 0,
-      "createdAt": "2024-09-23T03:21:27.249Z",
-      "updatedAt": "2024-09-23T03:21:27.249Z",
-      "verseId": "670da9d4-52fc-410a-bdb7-fa894b53b35b",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.620Z",
+      "updatedAt": "2025-04-22T01:37:39.620Z",
+      "verseId": "b6359dd8-dfc8-45d2-9632-b52ac1ae13a7",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "4bcc5fe7-c29f-4621-b627-2250dc3cab30",
+      "id": "89f6aa45-0aff-4eaf-b500-a6911009d4c4",
       "content": "Tv 32,1-2",
       "position": 1,
       "order": 1,
-      "createdAt": "2024-09-23T03:21:27.261Z",
-      "updatedAt": "2024-09-23T03:21:27.261Z",
-      "verseId": "6149f3a2-d55d-4ab7-8428-edca3e056c0c",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.696Z",
+      "updatedAt": "2025-04-22T01:37:39.696Z",
+      "verseId": "3be73a42-962b-4d69-898f-d388698ac690",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "618ed6b6-ff0b-4f08-99ea-0cad013689ed",
+      "id": "c99f90fa-baee-49c1-93c2-ebc7d72fe5bd",
       "content": "St 15,6; Gl 3,6",
       "position": 151,
       "order": 2,
-      "createdAt": "2024-09-23T03:21:27.275Z",
-      "updatedAt": "2024-09-23T03:21:27.275Z",
-      "verseId": "385b8755-52ab-400f-8f60-df5fa7b088aa",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.774Z",
+      "updatedAt": "2025-04-22T01:37:39.774Z",
+      "verseId": "c43f34d7-52e7-4777-a55d-df3df2bfe40f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "742251ca-f532-4727-be8a-b418aec81819",
+      "id": "ff1e1038-ce51-4c5e-8029-4159f435e508",
       "content": "St 12,7",
       "position": 58,
       "order": 3,
-      "createdAt": "2024-09-23T03:21:27.316Z",
-      "updatedAt": "2024-09-23T03:21:27.316Z",
-      "verseId": "248e070f-8c8b-4111-83d7-f39f1f9b49cf",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:39.934Z",
+      "updatedAt": "2025-04-22T01:37:39.934Z",
+      "verseId": "36d9544f-d5a1-48cc-984b-e752b07f371f",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "5f2f2b5e-78ce-4e46-b839-d9f9dcca713a",
+      "id": "0aee3c2f-f461-4881-b2d7-2bb2c10e4667",
       "content": "St 17,5",
       "position": 19,
       "order": 4,
-      "createdAt": "2024-09-23T03:21:27.350Z",
-      "updatedAt": "2024-09-23T03:21:27.350Z",
-      "verseId": "11ec5f92-bc03-4fe0-b7b8-4d59033fc816",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.024Z",
+      "updatedAt": "2025-04-22T01:37:40.024Z",
+      "verseId": "c484651f-c9a2-4dd1-93e3-175a6008bd25",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "5cbf4c0b-bd85-418e-aaea-0ef32f3a901f",
+      "id": "ddb32726-995b-4d29-8c72-d5dc10c2ea4a",
       "content": "St 15,5",
       "position": 138,
       "order": 5,
-      "createdAt": "2024-09-23T03:21:27.366Z",
-      "updatedAt": "2024-09-23T03:21:27.366Z",
-      "verseId": "8803e0f7-c6ec-4d06-ae5b-629918fc6e45",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.080Z",
+      "updatedAt": "2025-04-22T01:37:40.080Z",
+      "verseId": "a7b1e94a-cac8-4366-b2a9-444d8c62c4f9",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     },
     {
-      "id": "dc92ee71-a6a2-41ee-8d21-685a6990bcd5",
+      "id": "0a8d4669-2d87-44fe-aed4-eff3dd479b83",
       "content": "St 15,6",
       "position": 16,
       "order": 6,
-      "createdAt": "2024-09-23T03:21:27.399Z",
-      "updatedAt": "2024-09-23T03:21:27.399Z",
-      "verseId": "3ca64f17-cbce-42a8-8aeb-69f67f75ad11",
-      "chapterId": "67b00b1f-143e-4f2c-987d-74b07ef99925"
+      "createdAt": "2025-04-22T01:37:40.160Z",
+      "updatedAt": "2025-04-22T01:37:40.160Z",
+      "verseId": "708d864e-061e-4230-8f80-b92126967ca3",
+      "chapterId": "c334a1d5-4ec7-40bd-85f9-68c84b29ac40"
     }
   ],
   "psalmMetadata": []

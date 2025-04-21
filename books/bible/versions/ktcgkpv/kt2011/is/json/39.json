@@ -1,183 +1,274 @@
 {
   "chapter": {
-    "id": "d5b14b96-a338-4fec-ad00-9fd37348292c",
+    "id": "6344b9d5-2f21-4545-b8cb-0e6640ee0924",
     "number": 39,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.386Z",
-    "updatedAt": "2024-09-23T03:08:02.386Z",
-    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
+    "createdAt": "2025-04-22T00:48:32.213Z",
+    "updatedAt": "2025-04-22T00:48:32.213Z",
+    "bookId": "60b7a09b-afb6-41c3-8441-2d0936fa1d5e"
   },
   "verses": [
     {
-      "id": "eb867aae-37bc-4faf-8224-fef15b392c5b",
+      "id": "2a775ad0-cd17-4bf0-82d9-7f16079bb727",
       "number": 1,
-      "content": "Khi ấy vua [Ba-by-lon]() là [Mơ-rô-đác Ba-la-đan](), con ông [Ba-la-đan](), sai người đem thư và quà tặng cho vua [Khít-ki-gia](), vì nghe tin vua bị bệnh và đã bình phục.",
+      "content": "Khi ấy vua Ba-by-lon là Mơ-rô-đác Ba-la-đan, con ông Ba-la-đan, sai người đem thư và quà tặng cho vua Khít-ki-gia, vì nghe tin vua bị bệnh và đã bình phục.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.760Z",
-      "updatedAt": "2024-09-23T04:44:48.760Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.871Z",
+      "updatedAt": "2025-04-22T06:27:15.871Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "6328b04d-5977-443f-a1d4-4cd2d723d0d6",
+      "id": "95a55d05-a1ae-49d3-8711-5266f3c79120",
       "number": 2,
-      "content": "Vua [Khít-ki-gia]() vui mừng tiếp đón họ và cho xem kho tàng của vua : vàng bạc, hương liệu, dầu quý, kho vũ khí và tất cả những gì có trong các nơi dự trữ của vua ; không có gì trong cung điện và trong toàn lãnh thổ mà vua [Khít-ki-gia]() không cho họ xem.",
+      "content": "Vua Khít-ki-gia vui mừng tiếp đón họ và cho xem kho tàng của vua : vàng bạc, hương liệu, dầu quý, kho vũ khí và tất cả những gì có trong các nơi dự trữ của vua ; không có gì trong cung điện và trong toàn lãnh thổ mà vua Khít-ki-gia không cho họ xem.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.781Z",
-      "updatedAt": "2024-09-23T04:44:48.781Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.982Z",
+      "updatedAt": "2025-04-22T06:27:15.982Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "f107ecc1-445e-41c5-8376-abc6faa99404",
+      "id": "1db8b6e2-b683-4e97-a0ca-b394be71920a",
       "number": 3,
-      "content": "Ngôn sứ [I-sai-a]() vào gặp vua [Khít-ki-gia]() và nói : “Những người ấy đã nói gì với vua, và họ từ đâu tới ?” Vua [Khít-ki-gia]() đáp : “Họ từ một xứ xa xôi, mãi tận [Ba-by-lon]() đến đây.”",
+      "content": "Ngôn sứ I-sai-a vào gặp vua Khít-ki-gia và nói : “Những người ấy đã nói gì với vua, và họ từ đâu tới ?” Vua Khít-ki-gia đáp : “Họ từ một xứ xa xôi, mãi tận Ba-by-lon đến đây.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.790Z",
-      "updatedAt": "2024-09-23T04:44:48.790Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.010Z",
+      "updatedAt": "2025-04-22T06:27:16.010Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "bcb2dddd-497e-4799-90fb-1c8e437967de",
+      "id": "a563c200-07aa-4ea0-afb8-4ae0229df3ed",
       "number": 4,
       "content": "Ông hỏi : “Họ thấy gì trong cung điện của ngài ?” Vua đáp : “Trong cung điện của tôi có gì, họ thấy hết cả. Không có gì trong các kho dự trữ mà tôi không cho họ xem.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.799Z",
-      "updatedAt": "2024-09-23T04:44:48.799Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.053Z",
+      "updatedAt": "2025-04-22T06:27:16.053Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "acb0669c-03a7-4852-adaa-1fba62eec9d9",
+      "id": "5412c76d-109b-44e6-ad21-23bb4fffa7b4",
       "number": 5,
-      "content": "Bấy giờ ông [I-sai-a]() nói với vua [Khít-ki-gia]() : “[Xin]() vua nghe lời [ĐỨC CHÚA]() các đạo binh phán :",
+      "content": "Bấy giờ ông I-sai-a nói với vua Khít-ki-gia : “Xin vua nghe lời ĐỨC CHÚA các đạo binh phán :",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.802Z",
-      "updatedAt": "2024-09-23T04:44:48.802Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.067Z",
+      "updatedAt": "2025-04-22T06:27:16.067Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "2a54a660-1aee-493b-908e-b38e2866b201",
+      "id": "4cf23bf2-567e-4ab8-815b-51b3633b8ead",
       "number": 6,
-      "content": "Này, sẽ đến những ngày mọi sự trong cung điện ngươi, tất cả những gì xưa nay tổ tiên ngươi đã tích trữ, đều bị đem đi [Ba-by-lon](), không còn lại một thứ gì – [ĐỨC CHÚA]() phán.",
+      "content": "Này, sẽ đến những ngày mọi sự trong cung điện ngươi, tất cả những gì xưa nay tổ tiên ngươi đã tích trữ, đều bị đem đi Ba-by-lon, không còn lại một thứ gì – ĐỨC CHÚA phán.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.806Z",
-      "updatedAt": "2024-09-23T04:44:48.806Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.110Z",
+      "updatedAt": "2025-04-22T06:27:16.110Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "f357a83a-6029-47df-906d-a50ada6264f2",
+      "id": "736a0423-4120-484a-9875-9d9f80778c36",
       "number": 7,
-      "content": "Một số con cái ngươi, xuất thân từ ngươi, do chính ngươi sinh ra, sẽ bị bắt đi làm thái giám trong hoàng cung của vua [Ba-by-lon]().”",
+      "content": "Một số con cái ngươi, xuất thân từ ngươi, do chính ngươi sinh ra, sẽ bị bắt đi làm thái giám trong hoàng cung của vua Ba-by-lon.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.811Z",
-      "updatedAt": "2024-09-23T04:44:48.811Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.153Z",
+      "updatedAt": "2025-04-22T06:27:16.153Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "8258b584-44d7-4aad-a408-82f80df0b793",
+      "id": "776c6374-43eb-4390-8cca-909ef5d48393",
       "number": 8,
-      "content": "Vua [Khít-ki-gia]() nói với ông [I-sai-a]() : “Lời [ĐỨC CHÚA]() ông vừa truyền lại quả là tốt.” Vua tự nhủ : “Miễn sao có hoà bình và yên ổn bao lâu ta còn sống !”",
+      "content": "Vua Khít-ki-gia nói với ông I-sai-a : “Lời ĐỨC CHÚA ông vừa truyền lại quả là tốt.” Vua tự nhủ : “Miễn sao có hoà bình và yên ổn bao lâu ta còn sống !”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:44:48.814Z",
-      "updatedAt": "2024-09-23T04:44:48.814Z",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.167Z",
+      "updatedAt": "2025-04-22T06:27:16.167Z",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     }
   ],
   "footnotes": [
     {
-      "id": "a5676499-2230-41ff-875a-e98dcf2888f4",
+      "id": "e99e0342-b091-489c-8cd7-e66178546630",
       "content": "Chương này tương ứng với 2 V 20,12-19.",
-      "position": 36,
+      "position": 28,
       "order": 0,
-      "createdAt": "2024-09-23T04:44:48.771Z",
-      "updatedAt": "2024-09-23T04:44:48.771Z",
-      "headingId": "d2df69b3-9a60-4056-8f61-5bcc34b47ab9",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.913Z",
+      "updatedAt": "2025-04-22T06:27:15.913Z",
+      "headingId": "2c02fd4f-86f0-4520-b8f2-b8554f406571",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "19f23d41-9042-4b39-9b18-003314854cfb",
+      "id": "7416d8db-c2c5-4678-87b3-29d507e05052",
       "content": "*Vua Ba-by-lon* : ông này mới giành được độc lập, mưu tính kéo vua Giu-đa vào phe mình để chống Át-sua.",
-      "position": 24,
+      "position": 20,
       "order": 1,
-      "createdAt": "2024-09-23T04:44:48.776Z",
-      "updatedAt": "2024-09-23T04:44:48.776Z",
-      "verseId": "eb867aae-37bc-4faf-8224-fef15b392c5b",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.941Z",
+      "updatedAt": "2025-04-22T06:27:15.941Z",
+      "verseId": "2a775ad0-cd17-4bf0-82d9-7f16079bb727",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "9cda76e7-aa36-4628-b17a-93559c40f594",
+      "id": "ff3e36f4-f456-4b38-bfb8-8140d090ed43",
       "content": "*Cho xem kho tàng* : như vậy phái đoàn này đến trước khi xảy ra việc Khít-ki-gia phải nộp vàng bạc cho Xan-khê-ríp (2 V 18,15-16).",
-      "position": 60,
+      "position": 56,
       "order": 2,
-      "createdAt": "2024-09-23T04:44:48.785Z",
-      "updatedAt": "2024-09-23T04:44:48.785Z",
-      "verseId": "6328b04d-5977-443f-a1d4-4cd2d723d0d6",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.996Z",
+      "updatedAt": "2025-04-22T06:27:15.996Z",
+      "verseId": "95a55d05-a1ae-49d3-8711-5266f3c79120",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "09a0acc3-bd93-4760-b22e-3399b580f99e",
+      "id": "4184cb1a-d58a-464c-bbf0-8acc386689c1",
       "content": "*I-sai-a* : ngôn sứ đã phản kháng việc tích luỹ của cải (x. 2,7), bây giờ lại phản kháng việc toan liên minh với một vương quốc thay vì trông cậy vào Thiên Chúa.",
-      "position": 19,
+      "position": 15,
       "order": 3,
-      "createdAt": "2024-09-23T04:44:48.794Z",
-      "updatedAt": "2024-09-23T04:44:48.794Z",
-      "verseId": "f107ecc1-445e-41c5-8376-abc6faa99404",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.039Z",
+      "updatedAt": "2025-04-22T06:27:16.039Z",
+      "verseId": "1db8b6e2-b683-4e97-a0ca-b394be71920a",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     },
     {
-      "id": "00341851-2da2-4dea-9027-1717e9f5c3ed",
+      "id": "299c6816-de84-4d18-8dc1-db17401aaba8",
       "content": "*Bị đem đi Ba-by-lon ...* : tội đâu hình phạt đấy, cậy dựa vào Ba-by-lon thì sẽ bị Ba-by-lon áp bức. Chuyện này xảy ra hai lần : năm 597 và năm 587.",
-      "position": 131,
+      "position": 127,
       "order": 4,
-      "createdAt": "2024-09-23T04:44:48.808Z",
-      "updatedAt": "2024-09-23T04:44:48.808Z",
-      "verseId": "2a54a660-1aee-493b-908e-b38e2866b201",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:16.125Z",
+      "updatedAt": "2025-04-22T06:27:16.125Z",
+      "verseId": "4cf23bf2-567e-4ab8-815b-51b3633b8ead",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "296aa773-e5ef-4e22-a6ae-cb7aa8780763",
+      "content": "English: Babel - French: Babel - Latin: Babel - Origin: &#64305;&#1464;&#1489;&#1462;&#1500; - Vietnamese: Ba-ben St 11,2-9",
+      "position": 27,
+      "order": 7,
+      "createdAt": "2025-04-22T06:27:15.901Z",
+      "updatedAt": "2025-04-22T06:27:15.901Z",
+      "headingId": "2c02fd4f-86f0-4520-b8f2-b8554f406571",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "d4df4c08-86db-43e0-b4a6-5f3dbef5ccd6",
+      "content": "English: Merodach-Baladan - French: Mérodak-Baladân - Latin: Merodachbaladan - Origin: &#1502;&#1456;&#1512;&#1465;&#1491;&#1463;&#1498;&#1456; &#64305;&#1463;&#1500;&#1456;&#1488;&#1458;&#1491;&#1464;&#1503; - Vietnamese: Mơ-rô-đác Ba-la-đan 2 V 20,12 ; Is 39,1-8",
+      "position": 43,
+      "order": 9,
+      "createdAt": "2025-04-22T06:27:15.955Z",
+      "updatedAt": "2025-04-22T06:27:15.955Z",
+      "verseId": "2a775ad0-cd17-4bf0-82d9-7f16079bb727",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "6eed0b41-8c25-4b91-a8a1-1e4e8a582507",
+      "content": "English: Baladan - French: Baladân - Latin: Baladan - Origin: &#64305;&#1463;&#1500;&#1456;&#1488;&#1458;&#1491;&#1464;&#1503; - Vietnamese: Ba-la-đan 2 V 20,12",
+      "position": 62,
+      "order": 11,
+      "createdAt": "2025-04-22T06:27:15.969Z",
+      "updatedAt": "2025-04-22T06:27:15.969Z",
+      "verseId": "2a775ad0-cd17-4bf0-82d9-7f16079bb727",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "a80cc4fe-d410-4da3-bc95-f0e70df0aeeb",
+      "content": "English: Isaiah - French: Esai - Latin: Isaia - Origin: &#1497;&#1456;&#64298;&#1463;&#1506;&#1456;&#1497;&#1464;&#1492;&#64309; - Vietnamese: I-sai-a Is 1,1",
+      "position": 15,
+      "order": 15,
+      "createdAt": "2025-04-22T06:27:16.024Z",
+      "updatedAt": "2025-04-22T06:27:16.024Z",
+      "verseId": "1db8b6e2-b683-4e97-a0ca-b394be71920a",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "4299f64d-aa63-4d6e-9660-7d95c4a79c22",
+      "content": "English: Isaiah - French: Esai - Latin: Isaia - Origin: &#1497;&#1456;&#64298;&#1463;&#1506;&#1456;&#1497;&#1464;&#1492;&#64309; - Vietnamese: I-sai-a Is 1,1",
+      "position": 19,
+      "order": 15,
+      "createdAt": "2025-04-22T06:27:16.081Z",
+      "updatedAt": "2025-04-22T06:27:16.081Z",
+      "verseId": "5412c76d-109b-44e6-ad21-23bb4fffa7b4",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "788e8fbc-bd82-450d-939d-eab18f1b5b32",
+      "content": "English: Isaiah - French: Esai - Latin: Isaia - Origin: &#1497;&#1456;&#64298;&#1463;&#1506;&#1456;&#1497;&#1464;&#1492;&#64309; - Vietnamese: I-sai-a Is 1,1",
+      "position": 35,
+      "order": 15,
+      "createdAt": "2025-04-22T06:27:16.182Z",
+      "updatedAt": "2025-04-22T06:27:16.182Z",
+      "verseId": "776c6374-43eb-4390-8cca-909ef5d48393",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "2319f8f6-51fb-40da-8b5c-b8d1093ee597",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 72,
+      "order": 19,
+      "createdAt": "2025-04-22T06:27:16.095Z",
+      "updatedAt": "2025-04-22T06:27:16.095Z",
+      "verseId": "5412c76d-109b-44e6-ad21-23bb4fffa7b4",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "15df6ee7-e0dc-4816-b67b-87162a289e17",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 164,
+      "order": 19,
+      "createdAt": "2025-04-22T06:27:16.139Z",
+      "updatedAt": "2025-04-22T06:27:16.139Z",
+      "verseId": "4cf23bf2-567e-4ab8-815b-51b3633b8ead",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
+    },
+    {
+      "id": "c67849c8-7f2b-4019-8d97-e32d44adfb4d",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 51,
+      "order": 19,
+      "createdAt": "2025-04-22T06:27:16.196Z",
+      "updatedAt": "2025-04-22T06:27:16.196Z",
+      "verseId": "776c6374-43eb-4390-8cca-909ef5d48393",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     }
   ],
   "headings": [
     {
-      "id": "d2df69b3-9a60-4056-8f61-5bcc34b47ab9",
-      "content": "Phái đoàn [Ba-by-lon]() ([Ba-ben]())",
+      "id": "2c02fd4f-86f0-4520-b8f2-b8554f406571",
+      "content": "Phái đoàn Ba-by-lon (Ba-ben)",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:44:48.769Z",
-      "updatedAt": "2024-09-23T04:44:48.769Z",
-      "verseId": "eb867aae-37bc-4faf-8224-fef15b392c5b",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.889Z",
+      "updatedAt": "2025-04-22T06:27:15.889Z",
+      "verseId": "2a775ad0-cd17-4bf0-82d9-7f16079bb727",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     }
   ],
   "references": [
     {
-      "id": "ff5ef4f5-51d7-4a1a-a0da-c48a4646320e",
+      "id": "38c1abc8-05b6-4ee7-978e-e5a3705d8ac9",
       "content": "2 V 20,12-19ss",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:44:48.773Z",
-      "updatedAt": "2024-09-23T04:44:48.773Z",
-      "headingId": "d2df69b3-9a60-4056-8f61-5bcc34b47ab9",
-      "chapterId": "d5b14b96-a338-4fec-ad00-9fd37348292c"
+      "createdAt": "2025-04-22T06:27:15.927Z",
+      "updatedAt": "2025-04-22T06:27:15.927Z",
+      "headingId": "2c02fd4f-86f0-4520-b8f2-b8554f406571",
+      "chapterId": "6344b9d5-2f21-4545-b8cb-0e6640ee0924"
     }
   ],
   "psalmMetadata": []

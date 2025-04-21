@@ -1,656 +1,688 @@
 {
   "chapter": {
-    "id": "406e6399-93ee-4139-947f-301c0e58fee1",
+    "id": "9e595e48-77cb-4563-9a86-a6e26bb739e5",
     "number": 3,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.373Z",
-    "updatedAt": "2024-09-23T03:08:02.373Z",
-    "bookId": "670577cb-985e-4eea-8f43-658b283ccf65"
+    "createdAt": "2025-04-22T00:48:31.766Z",
+    "updatedAt": "2025-04-22T00:48:31.766Z",
+    "bookId": "32955ff6-afa9-42a4-b44b-fec30e03648f"
   },
   "verses": [
     {
-      "id": "c204268d-2291-48e5-ad13-84fdfc7dcb01",
+      "id": "f4438221-ffcb-44f7-b6a8-cf79bd51fcd9",
       "number": 1,
       "content": "Suốt đêm, trên giường ngủ, tôi tìm người lòng tôi yêu dấu.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.667Z",
-      "updatedAt": "2024-09-23T04:12:43.667Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.470Z",
+      "updatedAt": "2025-04-22T05:59:13.470Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "5f59afaf-39fe-4c3b-abf8-613a003b5747",
+      "id": "2ebc0dfc-329c-46cb-9003-eae3e34b3fa8",
       "number": 1,
       "content": "Tôi đi tìm chàng mà đâu có gặp !",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.679Z",
-      "updatedAt": "2024-09-23T04:12:43.679Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.493Z",
+      "updatedAt": "2025-04-22T05:59:13.493Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "4faa6126-1a98-45dc-ad6c-fa5eae2422d7",
+      "id": "16c4f257-f780-4b73-9e10-2b78527d9281",
       "number": 2,
       "content": "Tôi đi tìm chàng mà đâu có gặp !",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.692Z",
-      "updatedAt": "2024-09-23T04:12:43.692Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.530Z",
+      "updatedAt": "2025-04-22T05:59:13.530Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "0272d5ee-59b8-4c3f-b0e9-c5d1ac045ac2",
+      "id": "4b8bb04f-61c1-439e-9c88-7e7a6eff078c",
       "number": 2,
       "content": "nơi đầu đường cuối phố, để tìm người yêu dấu của lòng tôi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.688Z",
-      "updatedAt": "2024-09-23T04:12:43.688Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.517Z",
+      "updatedAt": "2025-04-22T05:59:13.517Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "dfd39b8b-2c64-4109-9e12-8836082a6d8d",
+      "id": "ac6a55da-924f-4f7d-a198-49423265bf38",
       "number": 3,
       "content": "Đang tuần tiễu trong thành, bọn lính gác gặp tôi.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.701Z",
-      "updatedAt": "2024-09-23T04:12:43.701Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.562Z",
+      "updatedAt": "2025-04-22T05:59:13.562Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "c1a4ec6c-e77c-43b9-b1e4-ba21fa4e2825",
+      "id": "3b087481-1abb-4ab3-81b6-67e8e8d93987",
       "number": 3,
       "content": "Tôi hỏi họ : “Các anh có thấy chăng",
       "order": 1,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.715Z",
-      "updatedAt": "2024-09-23T04:12:43.715Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.604Z",
+      "updatedAt": "2025-04-22T05:59:13.604Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "a0b27ffa-bb6d-4632-9ec0-e6427981ad7b",
+      "id": "5694ceda-2035-4796-a9ea-ee8e2230fcd5",
       "number": 3,
       "content": "người lòng tôi yêu dấu ?”",
       "order": 2,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.723Z",
-      "updatedAt": "2024-09-23T04:12:43.723Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.630Z",
+      "updatedAt": "2025-04-22T05:59:13.630Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "ce63f468-584e-4d89-9d30-789567b9c5d3",
+      "id": "bfeb8b7e-efe0-4462-8a4b-9a6f600de6dc",
       "number": 4,
       "content": "Vừa rời họ mà đi, tôi đã gặp người lòng tôi yêu dấu.",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.728Z",
-      "updatedAt": "2024-09-23T04:12:43.728Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.644Z",
+      "updatedAt": "2025-04-22T05:59:13.644Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "c6d604ff-1481-461b-b9c9-84c551911e19",
+      "id": "13286af0-6d9b-40bc-95a6-9ca501d31322",
       "number": 4,
       "content": "Tôi vội níu lấy chàng",
       "order": 1,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.732Z",
-      "updatedAt": "2024-09-23T04:12:43.732Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.658Z",
+      "updatedAt": "2025-04-22T05:59:13.658Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "7230b2ea-0422-4150-a034-49575bf7f700",
+      "id": "252a587b-b6a3-4855-8c38-67cf4bf2dc07",
       "number": 4,
       "content": "và chẳng chịu buông ra",
       "order": 2,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.743Z",
-      "updatedAt": "2024-09-23T04:12:43.743Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.686Z",
+      "updatedAt": "2025-04-22T05:59:13.686Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "25dd524c-afbf-4d7c-94cd-27dbccac1618",
+      "id": "79265479-7af7-43e7-b5dd-891ae8988c66",
       "number": 4,
       "content": "cho đến khi đưa vào nhà thân mẫu,",
       "order": 3,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.747Z",
-      "updatedAt": "2024-09-23T04:12:43.747Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.700Z",
+      "updatedAt": "2025-04-22T05:59:13.700Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "daf28816-a5d5-43db-993b-84cdfb48a44e",
+      "id": "c9924ea3-45f7-4227-9e4e-87761abad016",
       "number": 4,
       "content": "tới khuê phòng người đã cưu mang tôi.",
       "order": 4,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.756Z",
-      "updatedAt": "2024-09-23T04:12:43.756Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.730Z",
+      "updatedAt": "2025-04-22T05:59:13.730Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "fadf13b9-adc7-49f4-91e2-b68370c1ac1d",
+      "id": "5781e340-dd3c-41f7-b048-6dab27c83bd0",
       "number": 5,
       "content": "vì đàn linh dương với bầy nai ngoài đồng,",
       "order": 0,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.766Z",
-      "updatedAt": "2024-09-23T04:12:43.766Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.760Z",
+      "updatedAt": "2025-04-22T05:59:13.760Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "cd1700b2-cb05-4738-a1a1-d17b61d22433",
+      "id": "971f454f-4d5e-4ad6-8bf3-2ead59970fe9",
       "number": 5,
       "content": "xin đừng lay vội, đừng đánh thức tình yêu,",
       "order": 1,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.771Z",
-      "updatedAt": "2024-09-23T04:12:43.771Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.775Z",
+      "updatedAt": "2025-04-22T05:59:13.775Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "dbc60c41-ed2b-4473-85d6-573763194b6a",
+      "id": "fa561750-248c-43ec-888e-ff1b21eaa54c",
       "number": 5,
       "content": "cho đến khi tình yêu ưng thuận.",
       "order": 2,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.775Z",
-      "updatedAt": "2024-09-23T04:12:43.775Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.789Z",
+      "updatedAt": "2025-04-22T05:59:13.789Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "466ef362-af4c-4d16-b26d-089b1929e131",
+      "id": "715f7e15-b26c-45f3-a004-a3671586b096",
       "number": 6,
       "content": "Kìa ai đang tiến lên từ sa mạc, tựa hồ những cột mây,",
       "order": 0,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.780Z",
-      "updatedAt": "2024-09-23T04:12:43.780Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.803Z",
+      "updatedAt": "2025-04-22T05:59:13.803Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "2c4abd02-da4b-4be4-bf03-744ee33bb4e2",
+      "id": "26d52e34-5625-4c38-9c7a-a2e04f19d1c5",
       "number": 6,
       "content": "thơm ngát mùi nhũ hương một dược,",
       "order": 1,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.810Z",
-      "updatedAt": "2024-09-23T04:12:43.810Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.903Z",
+      "updatedAt": "2025-04-22T05:59:13.903Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "aa73db49-6311-4c5b-97d8-27421c3025d1",
+      "id": "51e4d830-03e6-41e7-a958-d098acafbcc7",
       "number": 6,
       "content": "ngạt ngào hương phấn xứ lạ phương xa ?",
       "order": 2,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.815Z",
-      "updatedAt": "2024-09-23T04:12:43.815Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.917Z",
+      "updatedAt": "2025-04-22T05:59:13.917Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "47e0850b-c00d-4c48-93b6-8ef06dc8b184",
+      "id": "49dba679-df3e-4cdd-916e-62bce035e855",
       "number": 7,
-      "content": "Kìa loan giá vua [Sa-lô-môn](),",
+      "content": "Kìa loan giá vua Sa-lô-môn,",
       "order": 0,
       "parNumber": 20,
       "parIndex": 1,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.824Z",
-      "updatedAt": "2024-09-23T04:12:43.824Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.946Z",
+      "updatedAt": "2025-04-22T05:59:13.946Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "969a4748-d54b-4dce-9ef5-feb95f64c118",
+      "id": "2a3d77bd-7100-453c-b297-69474df3beb4",
       "number": 7,
       "content": "vây quanh hộ tống là sáu mươi dũng sĩ",
       "order": 1,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.833Z",
-      "updatedAt": "2024-09-23T04:12:43.833Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.975Z",
+      "updatedAt": "2025-04-22T05:59:13.975Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "6e673959-148f-45d3-ad0d-8336691141fc",
+      "id": "79d6ef61-4a61-414b-bfef-dfad594cdfd0",
       "number": 7,
-      "content": "tuyển trong hàng dũng sĩ [Ít-ra-en]().",
+      "content": "tuyển trong hàng dũng sĩ Ít-ra-en.",
       "order": 2,
       "parNumber": 22,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.838Z",
-      "updatedAt": "2024-09-23T04:12:43.838Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.989Z",
+      "updatedAt": "2025-04-22T05:59:13.989Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "1c86b991-585f-4d8a-86b3-861a5a1280c1",
+      "id": "01d11792-7665-43ba-977f-4a0a8123a0e0",
       "number": 8,
       "content": "Tất cả đều thạo phép binh đao,",
       "order": 0,
       "parNumber": 23,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.842Z",
-      "updatedAt": "2024-09-23T04:12:43.842Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.004Z",
+      "updatedAt": "2025-04-22T05:59:14.004Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "03697b2d-d637-44b5-819d-30d85f5fe661",
+      "id": "29db87d5-961b-4bfc-a13a-2d874fadf839",
       "number": 8,
       "content": "đều rành nghề chinh chiến.",
       "order": 1,
       "parNumber": 24,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.847Z",
-      "updatedAt": "2024-09-23T04:12:43.847Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.019Z",
+      "updatedAt": "2025-04-22T05:59:14.019Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "9f06e5fb-c4be-4b75-a2e8-935e43c50a27",
+      "id": "a3e1092b-c4b5-455b-86fc-1c82d376bab1",
       "number": 8,
       "content": "Ai ai cũng gươm giáo bên mình,",
       "order": 2,
       "parNumber": 25,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.852Z",
-      "updatedAt": "2024-09-23T04:12:43.852Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.033Z",
+      "updatedAt": "2025-04-22T05:59:14.033Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "ad683b59-0ee7-4a8e-a6ec-b74cc3d3704d",
+      "id": "bc9b4e9c-9ea1-4d6c-a33a-b6f59c7ae277",
       "number": 8,
       "content": "phòng khi gặp hãi hùng đêm tối.",
       "order": 3,
       "parNumber": 26,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.856Z",
-      "updatedAt": "2024-09-23T04:12:43.856Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.048Z",
+      "updatedAt": "2025-04-22T05:59:14.048Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "a60b2bda-d311-4523-958e-781070538abc",
+      "id": "9de9b115-bab9-4ecc-9930-47d6654e6341",
       "number": 9,
-      "content": "Vua [Sa-lô-môn]() đã truyền lấy gỗ [Li-băng]()",
+      "content": "Vua Sa-lô-môn đã truyền lấy gỗ Li-băng",
       "order": 0,
       "parNumber": 27,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.865Z",
-      "updatedAt": "2024-09-23T04:12:43.865Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.076Z",
+      "updatedAt": "2025-04-22T05:59:14.076Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "24555a7b-1678-4d92-a145-ec1b55220b6d",
+      "id": "e453feba-64d8-4cbc-a3e6-431a87d5d0b7",
       "number": 9,
       "content": "đóng cho vua một cỗ kiệu :",
       "order": 1,
       "parNumber": 28,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.874Z",
-      "updatedAt": "2024-09-23T04:12:43.874Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.118Z",
+      "updatedAt": "2025-04-22T05:59:14.118Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "2d04b64e-4ead-4ce6-8cac-47dab552a0a6",
+      "id": "dda9b02c-b31f-4796-bd66-bf885426c33b",
       "number": 10,
       "content": "cột kiệu bằng bạc, lưng kiệu bằng vàng,",
       "order": 0,
       "parNumber": 29,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.883Z",
-      "updatedAt": "2024-09-23T04:12:43.883Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.154Z",
+      "updatedAt": "2025-04-22T05:59:14.154Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "18cbc076-5774-43dc-bd25-71eed39a31d3",
+      "id": "b5d54637-02e3-4a46-b5d4-80448099532e",
       "number": 10,
       "content": "mặt kiệu bọc vải điều quý giá,",
       "order": 1,
       "parNumber": 30,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.888Z",
-      "updatedAt": "2024-09-23T04:12:43.888Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.168Z",
+      "updatedAt": "2025-04-22T05:59:14.168Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "95242eb3-62f9-4365-a377-a551ed391512",
+      "id": "429572df-d423-4316-9e17-d87a8b4cb60d",
       "number": 10,
       "content": "phía trong kiệu dệt gấm thêu hoa",
       "order": 2,
       "parNumber": 31,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.892Z",
-      "updatedAt": "2024-09-23T04:12:43.892Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.182Z",
+      "updatedAt": "2025-04-22T05:59:14.182Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "e5821d15-539d-4dd7-9a40-b85a2143f9e9",
+      "id": "2c551ab3-2536-40ea-b0e3-c45e140c51ab",
       "number": 10,
       "content": "do đôi tay ân cần trìu mến",
       "order": 3,
       "parNumber": 32,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.896Z",
-      "updatedAt": "2024-09-23T04:12:43.896Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.196Z",
+      "updatedAt": "2025-04-22T05:59:14.196Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "9c51279f-aeac-41d3-8506-a6999fad0f73",
+      "id": "3b0729e9-0259-4dbb-a717-18c9d0a3f044",
       "number": 10,
-      "content": "của những nàng thiếu nữ [Giê-ru-sa-lem]().",
+      "content": "của những nàng thiếu nữ Giê-ru-sa-lem.",
       "order": 4,
       "parNumber": 33,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.901Z",
-      "updatedAt": "2024-09-23T04:12:43.901Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.211Z",
+      "updatedAt": "2025-04-22T05:59:14.211Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "b08483de-2f66-4783-8f36-7615c0b151a5",
+      "id": "fd871c7f-b0a7-493c-a857-b9a733a9a4b7",
       "number": 11,
-      "content": "Thiếu nữ [Xi-on]() hỡi, hãy ra chiêm ngưỡng vua [Sa-lô-môn]() :",
+      "content": "Thiếu nữ Xi-on hỡi, hãy ra chiêm ngưỡng vua Sa-lô-môn :",
       "order": 0,
       "parNumber": 34,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.910Z",
-      "updatedAt": "2024-09-23T04:12:43.910Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.260Z",
+      "updatedAt": "2025-04-22T05:59:14.260Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "fd4281c5-85fd-45a5-8396-b2df528cf44f",
+      "id": "3328c895-f6b1-4f12-9353-58e7284b3331",
       "number": 11,
       "content": "hoàng thái hậu đã đội cho người ngày hôn lễ,",
       "order": 1,
       "parNumber": 36,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.914Z",
-      "updatedAt": "2024-09-23T04:12:43.914Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.287Z",
+      "updatedAt": "2025-04-22T05:59:14.287Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "dbf9c533-f811-4507-98c8-5322666077e7",
+      "id": "c418b060-e686-4615-bfd4-e2b864fed37d",
       "number": 11,
       "content": "ngày vui nhất của lòng người.",
       "order": 2,
       "parNumber": 37,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:12:43.918Z",
-      "updatedAt": "2024-09-23T04:12:43.918Z",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.298Z",
+      "updatedAt": "2025-04-22T05:59:14.298Z",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     }
   ],
   "footnotes": [
     {
-      "id": "419dae3a-aa66-4bc8-be01-0a349ea4de61",
+      "id": "bd691ef3-5a2c-4180-b774-de985c6a660f",
       "content": "Cc. 1-4 xoay quanh chủ đề “đi tìm – gặp thấy”, biện chứng pháp gắn liền với mọi cuộc tình cũng như với đời sống thiêng liêng và lịch sử dân Chúa. Thời điểm là ban *đêm* – cũng là một cái mốc quan trọng cho trào lưu chú giải theo phép phúng dụ : đi tìm Chúa trong đêm tối của đức tin. Do đó, đoạn này cũng được chọn dùng trong lễ thánh hiến tu sĩ.",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:12:43.676Z",
-      "updatedAt": "2024-09-23T04:12:43.676Z",
-      "verseId": "c204268d-2291-48e5-ad13-84fdfc7dcb01",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.482Z",
+      "updatedAt": "2025-04-22T05:59:13.482Z",
+      "verseId": "f4438221-ffcb-44f7-b6a8-cf79bd51fcd9",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "5747b109-395c-4a3c-b97a-cfc03aaa5d3f",
+      "id": "d531c1dd-693b-4579-b077-77eaeb5df688",
       "content": "LXX thêm : “Tôi mãi gọi chàng, không một tiếng đáp !” Nhưng có lẽ đây chỉ là do ảnh hưởng của 5,6 thôi.",
       "position": 30,
       "order": 2,
-      "createdAt": "2024-09-23T04:12:43.697Z",
-      "updatedAt": "2024-09-23T04:12:43.697Z",
-      "verseId": "4faa6126-1a98-45dc-ad6c-fa5eae2422d7",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.548Z",
+      "updatedAt": "2025-04-22T05:59:13.548Z",
+      "verseId": "16c4f257-f780-4b73-9e10-2b78527d9281",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "3394a55d-1111-4f0a-9aae-d0f03f7a9f79",
+      "id": "c2a6c4bd-4073-479b-afc3-fe825c0f0908",
       "content": "*Lính gác*, lính *tuần tiễu* là những nhân vật luôn có mặt trong thể loại thơ tình của Phương Đông. Xem các bài ca Việt Nam (“lính vua, lính chúa, lính làng ...”) và truyện Kiều (bọn sai nha) : họ đóng những vai đối nghịch với tình yêu và là những công cụ gây ra cảnh chia ly.",
       "position": 48,
       "order": 3,
-      "createdAt": "2024-09-23T04:12:43.706Z",
-      "updatedAt": "2024-09-23T04:12:43.706Z",
-      "verseId": "dfd39b8b-2c64-4109-9e12-8836082a6d8d",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.576Z",
+      "updatedAt": "2025-04-22T05:59:13.576Z",
+      "verseId": "ac6a55da-924f-4f7d-a198-49423265bf38",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "79350c9a-df5f-42c7-a5dd-4d2914267675",
+      "id": "a845d00f-700e-4d0b-89bf-755a17421efb",
       "content": "*Tôi hỏi họ* : thêm cho dễ hiểu.",
       "position": 10,
       "order": 4,
-      "createdAt": "2024-09-23T04:12:43.719Z",
-      "updatedAt": "2024-09-23T04:12:43.719Z",
-      "verseId": "c1a4ec6c-e77c-43b9-b1e4-ba21fa4e2825",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.617Z",
+      "updatedAt": "2025-04-22T05:59:13.617Z",
+      "verseId": "3b087481-1abb-4ab3-81b6-67e8e8d93987",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "75f117f0-303e-4b89-93a0-487a53e29d25",
+      "id": "f068595d-2d44-417c-af4a-dcd5006209af",
       "content": "Lại hai lần nhắc đến người mẹ, và thêm hai yếu tố *khuê phòng* và *cưu mang*, do đó càng thêm tối nghĩa. Nơi chốn người con gái sinh ra có vai trò gì trong câu chuyện tình này ? Thật ra, chính hai yếu tố nói trên lại có thể soi sáng chúng ta : nó liên quan đến thời kỳ con người còn là bào thai trong dạ mẹ, như ở Tv 51,7 ; Tv 139,13-16 ; Gr 1,5 và nhiều đoạn Kinh Thánh khác. Trong tất cả các đoạn này, “bào thai trong dạ mẹ” đều gắn liền với động từ “thấy” và “biết” (Thiên Chúa biết rõ), với trọn ý nghĩa thân thiết -như trong tình vợ chồng- mà Kinh Thánh mặc cho động từ “biết”. Dc 3,4 cho ta thấy NÀNG bị thôi thúc muốn đi tới chỗ được thân thiết với người yêu : *níu lấy, chẳng chịu buông ra*. C.4 này còn cho ta liên tưởng đến những kiểu nói như “yêu nhau từ thuở mẹ về với cha” và “nơi chôn nhau cắt rốn” trong ngôn ngữ Việt Nam. Phải chăng những tâm tình căn bản của con người (tình yêu đôi lứa, tình yêu quê hương cũng như tâm thức về mặt tôn giáo) sâu sắc đến nỗi, một cách tự nhiên, phải tìm về cội nguồn của nó mãi tận thời kỳ hãy “còn là bào thai trong dạ mẹ” ? – Cũng không thể nghĩ hai yếu tố trên tình cờ mà được viết ra, vì sẽ lại xuất hiện ở 8,2.5, như một hằng số của bản thể con người. Vậy có thể nhận ra đây hiện tượng “trở về bụng mẹ” mà khoa tâm lý học hiện đại nêu lên như một nhu cầu cố hữu của lòng người.",
       "position": 36,
       "order": 5,
-      "createdAt": "2024-09-23T04:12:43.761Z",
-      "updatedAt": "2024-09-23T04:12:43.761Z",
-      "verseId": "daf28816-a5d5-43db-993b-84cdfb48a44e",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.745Z",
+      "updatedAt": "2025-04-22T05:59:13.745Z",
+      "verseId": "c9924ea3-45f7-4227-9e4e-87761abad016",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "ec448546-d75f-46d6-96d9-8e56964e3ba6",
+      "id": "a432c9c6-5ba6-439f-ab06-4f088e435f15",
       "content": "Bài ca này gồm hai phần : **1**. một đám rước sang trọng, linh đình, hùng tráng (3,6-11) ; **2**. một bài tình ca CHÀNG tặng cho NÀNG (4,1 – 5,1), khen ngợi sắc đẹp của NÀNG và nói lên tác động của nhan sắc ấy trên tâm hồn CHÀNG.",
       "position": 13,
       "order": 7,
-      "createdAt": "2024-09-23T04:12:43.788Z",
-      "updatedAt": "2024-09-23T04:12:43.788Z",
-      "headingId": "fa7a5599-f900-4682-b69f-753bbf92e6a3",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.832Z",
+      "updatedAt": "2025-04-22T05:59:13.832Z",
+      "headingId": "f265ec27-a8d8-4036-8802-4269f8f52197",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "534aa29a-331e-4b7a-86e6-297b8f6710c6",
+      "id": "4e3556ec-889d-4330-8a48-71d7c69dd14f",
       "content": "Người xướng cc. 6-11 này không thể là CHÀNG hoặc NÀNG, cũng không thể là các thiếu nữ Giê-ru-sa-lem, vì các cô sẽ được gọi ra ở c.11. Nên có thể hiểu đây là tiếng của THI NHÂN, đóng vai tương tự ban ĐỒNG CA (x. 1,8+) và, đặc biệt ở đây, tạo cho bài ca một bầu khí bí ẩn, siêu nhiên. Tuy vậy, hai vế cuối cho hiểu đây là câu dẫn nhập cho ch. 4 sau đó.",
       "position": 8,
       "order": 8,
-      "createdAt": "2024-09-23T04:12:43.797Z",
-      "updatedAt": "2024-09-23T04:12:43.797Z",
-      "headingId": "a4b06062-75cc-43da-8c57-582b11c653d6",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.861Z",
+      "updatedAt": "2025-04-22T05:59:13.861Z",
+      "headingId": "a5b50dfb-8e15-4dea-8606-0fbc5bc3b315",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "62941356-9a3f-417c-a0e4-1681dfc12abf",
+      "id": "d3fb0ba3-d8e6-4958-a7bd-482c6e775ba3",
       "content": "ds : *Kìa cái chi*, một cảnh tượng lạ thường, có dáng dấp một vật linh thiêng, nhất là được tả như *đang tiến lên từ sa mạc, tựa hồ những cột mây* : toàn là những nét gợi nhớ sự hiện diện của Đức Chúa đồng hành với dân Người trong sa mạc, trong cuộc xuất hành. Nhưng theo thể văn và mạch ý, nhiều bản nhận ra ở đây một gương mặt phụ nữ huyền bí, hấp dẫn (x. 6,4.10 ; 8,5). Độc giả sẽ dần dần nhận ra đó là NÀNG.",
       "position": 6,
       "order": 9,
-      "createdAt": "2024-09-23T04:12:43.801Z",
-      "updatedAt": "2024-09-23T04:12:43.801Z",
-      "verseId": "466ef362-af4c-4d16-b26d-089b1929e131",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.874Z",
+      "updatedAt": "2025-04-22T05:59:13.874Z",
+      "verseId": "715f7e15-b26c-45f3-a004-a3671586b096",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "6e9da03d-7e4b-44ed-91d3-65bcb1847ff0",
+      "id": "a6d69cc4-538b-4cf6-b0fa-8900298aa922",
       "content": "ds : *loại hương phấn thị trường*. Tân nương được coi như từ phương xa đến, và ở 4,14, tất cả các hương liệu đều là ngoại nhập.",
       "position": 36,
       "order": 10,
-      "createdAt": "2024-09-23T04:12:43.819Z",
-      "updatedAt": "2024-09-23T04:12:43.819Z",
-      "verseId": "aa73db49-6311-4c5b-97d8-27421c3025d1",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.932Z",
+      "updatedAt": "2025-04-22T05:59:13.932Z",
+      "verseId": "51e4d830-03e6-41e7-a958-d098acafbcc7",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "89c1e779-b25d-4317-a155-5bb1799af67b",
+      "id": "779b3f4c-bb8a-4cc8-a66b-bf0c9d7b19bd",
       "content": "Đoạn tả đám rước này làm cho các nhà chú giải thắc mắc : đây là đám cưới đi rước một cô dâu hay là đám rước *loan giá vua Sa-lô-môn* ? Hoặc là đám cưới của vua Sa-lô-môn ? Các nhà chú giải hiểu nhiều cách khác nhau. Dù sao có thể gút lại ở hai điểm : **1**. Đây có thể là một bài ca rất cổ xưa, mừng hôn lễ vua Sa-lô-môn với một công chúa Ai-cập, được rước về từ miền sa mạc (c.6) – x. Tv 45,14-16 ; **2**. Trong thi ca, mọi tân lang, mọi vai “CHÀNG” đều là “vua” (x. 1,4+), nên đây cũng có thể là một đám cưới “thường dân” (x. 1 Mcb 9,37-39), trong đó các nhân vật được gọi bằng chính tước hiệu của các nhân vật trong hôn lễ vua Sa-lô-môn. Hoặc trong đám cưới này, người ta dùng lại bài ca đã được kính dâng để mừng hôn lễ vua Sa-lô-môn. *Vua Sa-lô-môn* sẽ là tôn hiệu vinh dự của tân lang, trong mọi hôn lễ.",
       "position": 0,
       "order": 11,
-      "createdAt": "2024-09-23T04:12:43.829Z",
-      "updatedAt": "2024-09-23T04:12:43.829Z",
-      "verseId": "47e0850b-c00d-4c48-93b6-8ef06dc8b184",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.961Z",
+      "updatedAt": "2025-04-22T05:59:13.961Z",
+      "verseId": "49dba679-df3e-4cdd-916e-62bce035e855",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "9fb8ed48-f750-4f6f-86be-0e2e556a6c68",
+      "id": "1c1a0bbe-1d58-4dc3-919b-c3937e9d6327",
       "content": "Các hôn lễ sang trọng ở Phương Đông đều có một đội hộ tống, phần vì đường sá không an toàn ban đêm, phần vì sợ ma vương quỷ lực theo quấy phá (x. Tb 3,7-8).",
       "position": 30,
       "order": 12,
-      "createdAt": "2024-09-23T04:12:43.861Z",
-      "updatedAt": "2024-09-23T04:12:43.861Z",
-      "verseId": "ad683b59-0ee7-4a8e-a6ec-b74cc3d3704d",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.062Z",
+      "updatedAt": "2025-04-22T05:59:14.062Z",
+      "verseId": "bc9b4e9c-9ea1-4d6c-a33a-b6f59c7ae277",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "e6b04015-40fb-41d1-8615-f79c4c66560f",
+      "id": "5201dc43-a56d-498d-9c00-2c044c58789f",
       "content": "*Cỗ kiệu* : từ Híp-ri chỉ được dùng một lần ở đây, nên khó xác định ý nghĩa ; bản dịch này theo LXX.",
       "position": 24,
       "order": 13,
-      "createdAt": "2024-09-23T04:12:43.879Z",
-      "updatedAt": "2024-09-23T04:12:43.879Z",
-      "verseId": "24555a7b-1678-4d92-a145-ec1b55220b6d",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.139Z",
+      "updatedAt": "2025-04-22T05:59:14.139Z",
+      "verseId": "e453feba-64d8-4cbc-a3e6-431a87d5d0b7",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "5a30dcaa-d292-4075-aca9-ef3dc5d64a00",
+      "id": "203ca5c4-d107-473a-96e7-ab299cb13001",
       "content": "*Của ... thiếu nữ Giê-ru-sa-lem* : không có trong LXX.",
-      "position": 41,
+      "position": 37,
       "order": 14,
-      "createdAt": "2024-09-23T04:12:43.905Z",
-      "updatedAt": "2024-09-23T04:12:43.905Z",
-      "verseId": "9c51279f-aeac-41d3-8506-a6999fad0f73",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.245Z",
+      "updatedAt": "2025-04-22T05:59:14.245Z",
+      "verseId": "3b0729e9-0259-4dbb-a717-18c9d0a3f044",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "4b675161-02c4-4b8f-ab7f-2d101ef1c856",
+      "id": "f1535b85-dd2e-4b05-99f4-13aae5b3730d",
       "content": "*Ngày vui nhất của lòng người* : những bản tình ca cổ Ai-cập có đề tựa “khúc ca niềm vui lớn của tâm hồn”, đều dùng ngôn ngữ rất gần và tương tự ngôn ngữ của Dc (x. 1,5+).",
       "position": 28,
       "order": 16,
-      "createdAt": "2024-09-23T04:12:43.923Z",
-      "updatedAt": "2024-09-23T04:12:43.923Z",
-      "verseId": "dbf9c533-f811-4507-98c8-5322666077e7",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.310Z",
+      "updatedAt": "2025-04-22T05:59:14.310Z",
+      "verseId": "c418b060-e686-4615-bfd4-e2b864fed37d",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
+    },
+    {
+      "id": "a321dbf6-9359-40da-b2b4-d08c801fb902",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 37,
+      "order": 17,
+      "createdAt": "2025-04-22T05:59:14.228Z",
+      "updatedAt": "2025-04-22T05:59:14.228Z",
+      "verseId": "3b0729e9-0259-4dbb-a717-18c9d0a3f044",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
+    },
+    {
+      "id": "8ff2bef8-6a5e-4f66-88c8-5a296914fcb0",
+      "content": "English: Libanon - French: Liban - Latin: Libanus - Origin: &#1500;&#1468;&#1456;&#1489;&#1464;&#1504;&#64331;&#1503; - Vietnamese: Li-băng Gs 9,1 ; Tl 3,3",
+      "position": 38,
+      "order": 23,
+      "createdAt": "2025-04-22T05:59:14.090Z",
+      "updatedAt": "2025-04-22T05:59:14.090Z",
+      "verseId": "9de9b115-bab9-4ecc-9930-47d6654e6341",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
+    },
+    {
+      "id": "e616ccc6-4cf1-46ba-863f-fbdd8aa77a36",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 14,
+      "order": 25,
+      "createdAt": "2025-04-22T05:59:14.275Z",
+      "updatedAt": "2025-04-22T05:59:14.275Z",
+      "verseId": "fd871c7f-b0a7-493c-a857-b9a733a9a4b7",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     }
   ],
   "headings": [
     {
-      "id": "fa7a5599-f900-4682-b69f-753bbf92e6a3",
+      "id": "f265ec27-a8d8-4036-8802-4269f8f52197",
       "content": "BÀI CA THỨ BA",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:12:43.784Z",
-      "updatedAt": "2024-09-23T04:12:43.784Z",
-      "verseId": "466ef362-af4c-4d16-b26d-089b1929e131",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.818Z",
+      "updatedAt": "2025-04-22T05:59:13.818Z",
+      "verseId": "715f7e15-b26c-45f3-a004-a3671586b096",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "a4b06062-75cc-43da-8c57-582b11c653d6",
+      "id": "a5b50dfb-8e15-4dea-8606-0fbc5bc3b315",
       "content": "THI NHÂN",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T04:12:43.792Z",
-      "updatedAt": "2024-09-23T04:12:43.792Z",
-      "verseId": "466ef362-af4c-4d16-b26d-089b1929e131",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.846Z",
+      "updatedAt": "2025-04-22T05:59:13.846Z",
+      "verseId": "715f7e15-b26c-45f3-a004-a3671586b096",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     }
   ],
   "references": [
     {
-      "id": "293cb8a6-e205-407e-8ada-7594a71e1d62",
+      "id": "48e00867-ee29-45d9-a4a2-bbaf80b493d7",
       "content": "Dc 5,6; Ga 20,13",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:12:43.683Z",
-      "updatedAt": "2024-09-23T04:12:43.683Z",
-      "verseId": "5f59afaf-39fe-4c3b-abf8-613a003b5747",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.504Z",
+      "updatedAt": "2025-04-22T05:59:13.504Z",
+      "verseId": "2ebc0dfc-329c-46cb-9003-eae3e34b3fa8",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "4a8cdf73-688f-4c8b-86ce-83c7718da897",
+      "id": "db1b1e53-cbfa-401a-a566-7b226b550f58",
       "content": "Dc 5,7",
       "position": 0,
       "order": 1,
-      "createdAt": "2024-09-23T04:12:43.710Z",
-      "updatedAt": "2024-09-23T04:12:43.710Z",
-      "verseId": "dfd39b8b-2c64-4109-9e12-8836082a6d8d",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.590Z",
+      "updatedAt": "2025-04-22T05:59:13.590Z",
+      "verseId": "ac6a55da-924f-4f7d-a198-49423265bf38",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "2295444d-3f5f-40d5-87da-cee2f4b3df45",
+      "id": "561b5ce8-8972-4cc7-8921-8dc26bb3be8f",
       "content": "Ga 20,17",
       "position": 8,
       "order": 2,
-      "createdAt": "2024-09-23T04:12:43.737Z",
-      "updatedAt": "2024-09-23T04:12:43.737Z",
-      "verseId": "c6d604ff-1481-461b-b9c9-84c551911e19",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.672Z",
+      "updatedAt": "2025-04-22T05:59:13.672Z",
+      "verseId": "13286af0-6d9b-40bc-95a6-9ca501d31322",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "9c305050-84d3-4994-87aa-b8a99a43cb77",
+      "id": "affce009-84b6-47df-bd9e-15041e70421f",
       "content": "Dc 8,2.5",
       "position": 24,
       "order": 3,
-      "createdAt": "2024-09-23T04:12:43.752Z",
-      "updatedAt": "2024-09-23T04:12:43.752Z",
-      "verseId": "25dd524c-afbf-4d7c-94cd-27dbccac1618",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.715Z",
+      "updatedAt": "2025-04-22T05:59:13.715Z",
+      "verseId": "79265479-7af7-43e7-b5dd-891ae8988c66",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "bbe4eb05-a5c5-408d-95e1-55b33521b6f4",
+      "id": "0b555923-669e-4508-ad10-503f7f3a1fe0",
       "content": "Dc 6,10; 8,5",
       "position": 0,
       "order": 5,
-      "createdAt": "2024-09-23T04:12:43.806Z",
-      "updatedAt": "2024-09-23T04:12:43.806Z",
-      "verseId": "466ef362-af4c-4d16-b26d-089b1929e131",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:13.889Z",
+      "updatedAt": "2025-04-22T05:59:13.889Z",
+      "verseId": "715f7e15-b26c-45f3-a004-a3671586b096",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     },
     {
-      "id": "1e8d2ee8-051e-4e11-8a9c-8727dceb2649",
+      "id": "ac281d63-0ca9-463e-b758-e85e33ab9c1f",
       "content": "Dc 1,17",
-      "position": 32,
+      "position": 28,
       "order": 6,
-      "createdAt": "2024-09-23T04:12:43.870Z",
-      "updatedAt": "2024-09-23T04:12:43.870Z",
-      "verseId": "a60b2bda-d311-4523-958e-781070538abc",
-      "chapterId": "406e6399-93ee-4139-947f-301c0e58fee1"
+      "createdAt": "2025-04-22T05:59:14.104Z",
+      "updatedAt": "2025-04-22T05:59:14.104Z",
+      "verseId": "9de9b115-bab9-4ecc-9930-47d6654e6341",
+      "chapterId": "9e595e48-77cb-4563-9a86-a6e26bb739e5"
     }
   ],
   "psalmMetadata": []

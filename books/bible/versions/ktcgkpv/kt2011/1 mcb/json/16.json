@@ -1,424 +1,556 @@
 {
   "chapter": {
-    "id": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1",
+    "id": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48",
     "number": 16,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.340Z",
-    "updatedAt": "2024-09-23T03:08:02.340Z",
-    "bookId": "c8b8b03b-1c4c-4747-8f70-131af24be678"
+    "createdAt": "2025-04-22T00:48:31.661Z",
+    "updatedAt": "2025-04-22T00:48:31.661Z",
+    "bookId": "260d1b36-3f24-4e25-818e-b9eb9b890aa7"
   },
   "verses": [
     {
-      "id": "0fef34da-1356-44da-8b3c-86df03bdb0f3",
+      "id": "471bc804-0bc3-46f5-b6c7-0edd35db8b97",
       "number": 1,
-      "content": "Từ [Ghe-de](), ông [Gio-an]() lên báo cho cha là ông [Si-môn]() những việc [Ken-đê-bai-ô]() đã làm.",
+      "content": "Từ Ghe-de, ông Gio-an lên báo cho cha là ông Si-môn những việc Ken-đê-bai-ô đã làm.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.260Z",
-      "updatedAt": "2024-09-23T04:25:30.260Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.201Z",
+      "updatedAt": "2025-04-22T05:04:32.201Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "3a172a43-b422-4c5a-8a0d-455f0b1af8e7",
+      "id": "0ca077a4-79a1-476f-9d4f-4f357b7b8d3a",
       "number": 2,
-      "content": "Ông [Si-môn]() gọi hai người con trai lớn là [Giu-đa]() và [Gio-an]() lại mà bảo : “Cha đây cũng như các anh em cha và nhà thân phụ cha đã lãnh đạo các cuộc kháng chiến của [Ít-ra-en]() từ hồi niên thiếu cho đến ngày nay. Công cuộc giải phóng [Ít-ra-en]() đã bao lần nhờ tay chúng ta mà được trôi chảy.",
+      "content": "Ông Si-môn gọi hai người con trai lớn là Giu-đa và Gio-an lại mà bảo : “Cha đây cũng như các anh em cha và nhà thân phụ cha đã lãnh đạo các cuộc kháng chiến của Ít-ra-en từ hồi niên thiếu cho đến ngày nay. Công cuộc giải phóng Ít-ra-en đã bao lần nhờ tay chúng ta mà được trôi chảy.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.265Z",
-      "updatedAt": "2024-09-23T04:25:30.265Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.265Z",
+      "updatedAt": "2025-04-22T05:04:32.265Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "3002c520-7b79-480c-a399-db1427e8557f",
+      "id": "7edf21a9-dea5-4e7b-b265-0147a09e81a5",
       "number": 3,
-      "content": "Bây giờ, cha đã già ; còn các con, nhờ lòng Trời thương xót, các con đã khôn lớn, các con hãy thay cha và các anh em của cha đi chiến đấu để bảo vệ dân tộc chúng ta. [Xin]() ơn trợ giúp từ Trời hằng ở với các con !”",
+      "content": "Bây giờ, cha đã già ; còn các con, nhờ lòng Trời thương xót, các con đã khôn lớn, các con hãy thay cha và các anh em của cha đi chiến đấu để bảo vệ dân tộc chúng ta. Xin ơn trợ giúp từ Trời hằng ở với các con !”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.267Z",
-      "updatedAt": "2024-09-23T04:25:30.267Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.279Z",
+      "updatedAt": "2025-04-22T05:04:32.279Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "c12c59c8-263e-4967-8e7b-bb4de5154c4b",
+      "id": "09ad0f6b-9d92-410b-b0bd-bd74a9b9268b",
       "number": 4,
-      "content": "Ông [Gio-an]() đã tuyển trong xứ một đạo quân gồm hai mươi ngàn người có khả năng chiến đấu và các kỵ binh, rồi lên đường đi chống lại [Ken-đê-bai-ô]() ; họ đã ngủ đêm ở [Mô-đin]().",
+      "content": "Ông Gio-an đã tuyển trong xứ một đạo quân gồm hai mươi ngàn người có khả năng chiến đấu và các kỵ binh, rồi lên đường đi chống lại Ken-đê-bai-ô ; họ đã ngủ đêm ở Mô-đin.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.274Z",
-      "updatedAt": "2024-09-23T04:25:30.274Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.306Z",
+      "updatedAt": "2025-04-22T05:04:32.306Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "d108935d-fd7c-4fb7-9f9d-ae4c97a1987f",
+      "id": "0b486994-8440-4c39-a812-34ab10c4089c",
       "number": 5,
       "content": "Rồi họ dậy sớm, lên đường đi tới đồng bằng và kìa, một đạo quân đông đảo gồm bộ binh và kỵ binh ra nghênh chiến với họ. Ở giữa đôi bên có con suối.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.278Z",
-      "updatedAt": "2024-09-23T04:25:30.278Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.345Z",
+      "updatedAt": "2025-04-22T05:04:32.345Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "f5a87a0a-62e5-410d-9d09-8e78a91594f8",
+      "id": "f3aeec24-f508-4a04-a7c8-4fb2841fcd31",
       "number": 6,
-      "content": "Ông [Gio-an]() cùng với quân binh đóng trại đối diện với chúng. Thấy quân của mình sợ không dám băng qua suối, ông đã băng qua trước. Nhìn thấy thế, họ cũng băng qua theo ông.",
+      "content": "Ông Gio-an cùng với quân binh đóng trại đối diện với chúng. Thấy quân của mình sợ không dám băng qua suối, ông đã băng qua trước. Nhìn thấy thế, họ cũng băng qua theo ông.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.282Z",
-      "updatedAt": "2024-09-23T04:25:30.282Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.358Z",
+      "updatedAt": "2025-04-22T05:04:32.358Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "a7d18e05-0646-4e63-a772-f6a2b95d960f",
+      "id": "d5982bf1-7cfd-49a3-bf42-b7cbc9d6cc31",
       "number": 7,
       "content": "Ông bố trí quân binh : xếp kỵ binh vào giữa bộ binh, vì kỵ binh của đối phương rất đông.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.286Z",
-      "updatedAt": "2024-09-23T04:25:30.286Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.372Z",
+      "updatedAt": "2025-04-22T05:04:32.372Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "3eb88cb4-a28a-4936-bc7f-19f634f9e15a",
+      "id": "d9675635-9be9-48f8-a6da-97f8e3a58334",
       "number": 8,
-      "content": "Họ thổi kèn và [Ken-đê-bai-ô]() cùng với đạo quân của ông ta bị thảm hại. Nhiều người trong bọn chúng bị tử thương ; số còn lại thì trốn vào pháo đài.",
+      "content": "Họ thổi kèn và Ken-đê-bai-ô cùng với đạo quân của ông ta bị thảm hại. Nhiều người trong bọn chúng bị tử thương ; số còn lại thì trốn vào pháo đài.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.294Z",
-      "updatedAt": "2024-09-23T04:25:30.294Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.399Z",
+      "updatedAt": "2025-04-22T05:04:32.399Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "d259c682-108b-4a28-b32a-d35efe620261",
+      "id": "650c1e05-859f-4e83-b06a-e156456d218b",
       "number": 9,
-      "content": "Bấy giờ ông [Giu-đa](), anh ông [Gio-an](), bị thương, nhưng ông [Gio-an]() vẫn đuổi theo chúng cho đến [Kít-rôn](), một thành do [Ken-đê-bai-ô]() tái thiết.",
+      "content": "Bấy giờ ông Giu-đa, anh ông Gio-an, bị thương, nhưng ông Gio-an vẫn đuổi theo chúng cho đến Kít-rôn, một thành do Ken-đê-bai-ô tái thiết.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.299Z",
-      "updatedAt": "2024-09-23T04:25:30.299Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.426Z",
+      "updatedAt": "2025-04-22T05:04:32.426Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "a2a04ca8-7c8d-48ea-927c-e96cbea3c2da",
+      "id": "93253c75-ec9b-490e-9346-215fda62a12a",
       "number": 10,
-      "content": "Chúng trốn vào các tháp canh ở trong những cánh đồng miền [Át-đốt](). Ông [Gio-an]() đã phóng hoả đốt các tháp đó. Có khoảng hai ngàn người trong bọn chúng đã ngã gục ; còn ông [Gio-an]() thì trở về miền [Giu-đê]() an toàn.",
+      "content": "Chúng trốn vào các tháp canh ở trong những cánh đồng miền Át-đốt. Ông Gio-an đã phóng hoả đốt các tháp đó. Có khoảng hai ngàn người trong bọn chúng đã ngã gục ; còn ông Gio-an thì trở về miền Giu-đê an toàn.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.303Z",
-      "updatedAt": "2024-09-23T04:25:30.303Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.457Z",
+      "updatedAt": "2025-04-22T05:04:32.457Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "4c9be9db-774c-4b79-b3be-ca26f9eb2cf8",
+      "id": "d904a418-7178-4db8-8a8d-bb13f73ce022",
       "number": 11,
-      "content": "[Pơ-tô-lê-mai](), con ông [A-bu-bô](), được đặt làm quân sư trông coi miền đồng bằng [Giê-ri-khô](). Ông ta có rất nhiều vàng bạc,",
+      "content": "Pơ-tô-lê-mai, con ông A-bu-bô, được đặt làm quân sư trông coi miền đồng bằng Giê-ri-khô. Ông ta có rất nhiều vàng bạc,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.307Z",
-      "updatedAt": "2024-09-23T04:25:30.307Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.471Z",
+      "updatedAt": "2025-04-22T05:04:32.471Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "e436e0e9-7c62-4712-83c8-4d196fd6afea",
+      "id": "b8a64395-0794-484b-9ca6-6b0e7dd79687",
       "number": 12,
       "content": "vì là con rể của thượng tế.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.319Z",
-      "updatedAt": "2024-09-23T04:25:30.319Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.553Z",
+      "updatedAt": "2025-04-22T05:04:32.553Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "2625dc7a-d0cd-4967-9313-892a504a6d5c",
+      "id": "38d635d8-9b06-45dc-8f10-2b4019cc7fe8",
       "number": 13,
-      "content": "Ông ta sinh lòng tự cao, muốn chiếm lấy xứ và quyết định dùng mưu gian để tiêu diệt cha con ông [Si-môn]().",
+      "content": "Ông ta sinh lòng tự cao, muốn chiếm lấy xứ và quyết định dùng mưu gian để tiêu diệt cha con ông Si-môn.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.323Z",
-      "updatedAt": "2024-09-23T04:25:30.323Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.566Z",
+      "updatedAt": "2025-04-22T05:04:32.566Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "c24b9fa9-0a8a-4c8e-ad93-911ba56c1d67",
+      "id": "a609e158-c8ba-4058-b2bd-ac9306d22171",
       "number": 14,
-      "content": "Khi ấy, ông [Si-môn]() rảo qua các thành trong xứ, lo sắp xếp công việc quản trị các thành ấy ; ông xuống [Giê-ri-khô]() cùng với các con là [Mát-tít-gia]() và [Giu-đa](). Bấy giờ là năm một trăm bảy mươi bảy, tháng mười một, tức là tháng [Sơ-vát]().",
+      "content": "Khi ấy, ông Si-môn rảo qua các thành trong xứ, lo sắp xếp công việc quản trị các thành ấy ; ông xuống Giê-ri-khô cùng với các con là Mát-tít-gia và Giu-đa. Bấy giờ là năm một trăm bảy mươi bảy, tháng mười một, tức là tháng Sơ-vát.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.327Z",
-      "updatedAt": "2024-09-23T04:25:30.327Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.579Z",
+      "updatedAt": "2025-04-22T05:04:32.579Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "f47839cd-bdb1-4711-8b64-70c6bca3d37e",
+      "id": "c6ee0ac9-f5d7-4d62-a3a8-9413c4afcb38",
       "number": 15,
-      "content": "Với dụng tâm gian giảo, con trai ông [A-bu-bô]() đón tiếp họ ở một pháo đài nhỏ, gọi là [Đốc](), do ông ta tái thiết. Ông ta mở đại tiệc thết đãi họ, nhưng lại cho người ẩn núp ở đó.",
+      "content": "Với dụng tâm gian giảo, con trai ông A-bu-bô đón tiếp họ ở một pháo đài nhỏ, gọi là Đốc, do ông ta tái thiết. Ông ta mở đại tiệc thết đãi họ, nhưng lại cho người ẩn núp ở đó.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.335Z",
-      "updatedAt": "2024-09-23T04:25:30.335Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.619Z",
+      "updatedAt": "2025-04-22T05:04:32.619Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "060056fe-9a4a-4e88-b6d5-07bc091cc56a",
+      "id": "c9fa0360-7c85-46da-b671-8f45c8b15bbf",
       "number": 16,
-      "content": "Khi cha con ông [Si-môn]() đã say, [Pơ-tô-lê-mai]() và những người thuộc phe ông ta xuất đầu lộ diện, vũ khí lăm lăm, xông vào ông [Si-môn]() đang ở trong phòng tiệc. Chúng giết chết ông và hai người con trai cùng với một số lính hầu.",
+      "content": "Khi cha con ông Si-môn đã say, Pơ-tô-lê-mai và những người thuộc phe ông ta xuất đầu lộ diện, vũ khí lăm lăm, xông vào ông Si-môn đang ở trong phòng tiệc. Chúng giết chết ông và hai người con trai cùng với một số lính hầu.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.343Z",
-      "updatedAt": "2024-09-23T04:25:30.343Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.672Z",
+      "updatedAt": "2025-04-22T05:04:32.672Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "382e8a6c-ba5b-425e-8dc1-61097b31abb2",
+      "id": "7dd37671-d9b2-4c1b-96a5-49f812d82f28",
       "number": 17,
       "content": "Thế là ông ta đã phản bội trắng trợn, và đã lấy ác báo thiện.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.346Z",
-      "updatedAt": "2024-09-23T04:25:30.346Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.686Z",
+      "updatedAt": "2025-04-22T05:04:32.686Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "fec7189a-8754-4cb9-9beb-550d2b2f8319",
+      "id": "836b28cd-d7f4-43f3-85e1-584b104c6d8d",
       "number": 18,
-      "content": "[Pơ-tô-lê-mai]() làm bản báo cáo gửi về cho vua, để xin vua phái quân tiếp viện và trao miền đất cũng như các thành phố người Do-thái cho ông ta.",
+      "content": "Pơ-tô-lê-mai làm bản báo cáo gửi về cho vua, để xin vua phái quân tiếp viện và trao miền đất cũng như các thành phố người Do-thái cho ông ta.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.350Z",
-      "updatedAt": "2024-09-23T04:25:30.350Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.699Z",
+      "updatedAt": "2025-04-22T05:04:32.699Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "2c40ff28-d456-4e1a-a653-52dfc7ec08f6",
+      "id": "7dcc1f33-8e93-44df-a00e-7b45c005d37b",
       "number": 19,
-      "content": "Ông ta còn phái một số người khác đến [Ghe-de]() để tiêu diệt ông [Gio-an]() ; ông ta cũng gửi thư cho các người chỉ huy một ngàn quân, khuyên họ đứng về phe ông ta, để được bạc, vàng và tặng phẩm.",
+      "content": "Ông ta còn phái một số người khác đến Ghe-de để tiêu diệt ông Gio-an ; ông ta cũng gửi thư cho các người chỉ huy một ngàn quân, khuyên họ đứng về phe ông ta, để được bạc, vàng và tặng phẩm.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.354Z",
-      "updatedAt": "2024-09-23T04:25:30.354Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.715Z",
+      "updatedAt": "2025-04-22T05:04:32.715Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "52b45697-d7e8-413b-bac5-353742dabe9b",
+      "id": "4e0616e2-3a52-4dce-a6c4-de01b815c0b3",
       "number": 20,
-      "content": "Ông ta còn phái một số người khác nữa đến chiếm [Giê-ru-sa-lem]() và Núi Đền Thờ.",
+      "content": "Ông ta còn phái một số người khác nữa đến chiếm Giê-ru-sa-lem và Núi Đền Thờ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.358Z",
-      "updatedAt": "2024-09-23T04:25:30.358Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.731Z",
+      "updatedAt": "2025-04-22T05:04:32.731Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "52142bc0-7f7b-4e49-b0b0-11901a21ec2e",
+      "id": "e16d4be8-e220-48ea-af14-2273d0a66102",
       "number": 21,
-      "content": "Nhưng có một người đã mau lẹ về [Ghe-de]() báo cho ông [Gio-an]() biết rằng cha ông và các anh em ông đã chết ; người ấy còn nói thêm : “Ông ta còn sai người đến giết cả ông nữa !”",
+      "content": "Nhưng có một người đã mau lẹ về Ghe-de báo cho ông Gio-an biết rằng cha ông và các anh em ông đã chết ; người ấy còn nói thêm : “Ông ta còn sai người đến giết cả ông nữa !”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.366Z",
-      "updatedAt": "2024-09-23T04:25:30.366Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.771Z",
+      "updatedAt": "2025-04-22T05:04:32.771Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "56d6debc-7264-46cf-afc7-00db8b694e86",
+      "id": "7c380166-ed21-4546-b123-391506b674cf",
       "number": 22,
-      "content": "Nghe tin ấy, ông [Gio-an]() rất đỗi bàng hoàng ; ông bắt những người đến định giết ông và đem giết đi, vì ông đã biết là chúng tìm cách giết ông.",
+      "content": "Nghe tin ấy, ông Gio-an rất đỗi bàng hoàng ; ông bắt những người đến định giết ông và đem giết đi, vì ông đã biết là chúng tìm cách giết ông.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.370Z",
-      "updatedAt": "2024-09-23T04:25:30.370Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.784Z",
+      "updatedAt": "2025-04-22T05:04:32.784Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "c8472d70-235b-42b6-b082-560cf497269e",
+      "id": "4a8ccf90-1458-4425-93f0-9923e42dcba7",
       "number": 23,
-      "content": "Còn những chuyện khác liên quan đến ông [Gio-an](), đến các cuộc giao tranh, các chiến công mà ông đã lập, cũng như việc tái thiết các tường luỹ do ông thực hiện và các công trình khác,",
+      "content": "Còn những chuyện khác liên quan đến ông Gio-an, đến các cuộc giao tranh, các chiến công mà ông đã lập, cũng như việc tái thiết các tường luỹ do ông thực hiện và các công trình khác,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.377Z",
-      "updatedAt": "2024-09-23T04:25:30.377Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.811Z",
+      "updatedAt": "2025-04-22T05:04:32.811Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "db8b578d-4829-421d-ae13-26f39646d79a",
+      "id": "6febd73b-9948-4a8c-afcf-4d9f535df90d",
       "number": 24,
       "content": "thì tất cả những điều ấy đã được ghi chép trong cuốn sách Sử biên niên thời ông làm thượng tế, bắt đầu từ khi ông giữ chức thượng tế thay cho thân phụ ông.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:25:30.385Z",
-      "updatedAt": "2024-09-23T04:25:30.385Z",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.837Z",
+      "updatedAt": "2025-04-22T05:04:32.837Z",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     }
   ],
   "footnotes": [
     {
-      "id": "ca82f5c6-89a5-45ab-ba94-7ef0c4ea6a5c",
+      "id": "5359a660-1d9f-444d-a71c-6d9a013c1170",
       "content": "Lần đầu tiên nói đến chuyện nhà Hát-mo-nê có kỵ binh.",
       "position": 34,
       "order": 0,
-      "createdAt": "2024-09-23T04:25:30.290Z",
-      "updatedAt": "2024-09-23T04:25:30.290Z",
-      "verseId": "a7d18e05-0646-4e63-a772-f6a2b95d960f",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.385Z",
+      "updatedAt": "2025-04-22T05:04:32.385Z",
+      "verseId": "d5982bf1-7cfd-49a3-bf42-b7cbc9d6cc31",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "d3d7f6ea-c14d-4e32-b96b-b019727de2c9",
+      "id": "b50b63c2-b496-4b9e-bc8a-77166a0eccaa",
       "content": "*Pơ-tô-lê-mai* là con rể thượng tế Si-môn, có lẽ đã được ông này đặt làm quân sư (stratêgos) của vùng Giê-ri-khô. Pơ-tô-lê-mai muốn chiếm địa vị của Si-môn và trở nên đồng minh của An-ti-ô-khô VII.",
-      "position": 16,
+      "position": 12,
       "order": 1,
-      "createdAt": "2024-09-23T04:25:30.315Z",
-      "updatedAt": "2024-09-23T04:25:30.315Z",
-      "verseId": "4c9be9db-774c-4b79-b3be-ca26f9eb2cf8",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.514Z",
+      "updatedAt": "2025-04-22T05:04:32.514Z",
+      "verseId": "d904a418-7178-4db8-8a8d-bb13f73ce022",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "82372877-10a1-4b8f-a0c0-7c39b83db113",
+      "id": "0a9d3c7a-4110-469b-8365-44be7e218251",
       "content": "Năm 177 tháng Sơ-vát (theo lịch Đền Thờ) nhằm tháng 2 năm 134 tCN.",
-      "position": 249,
+      "position": 229,
       "order": 2,
-      "createdAt": "2024-09-23T04:25:30.331Z",
-      "updatedAt": "2024-09-23T04:25:30.331Z",
-      "verseId": "c24b9fa9-0a8a-4c8e-ad93-911ba56c1d67",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.606Z",
+      "updatedAt": "2025-04-22T05:04:32.606Z",
+      "verseId": "a609e158-c8ba-4058-b2bd-ac9306d22171",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "d326c16b-f46f-4662-b880-4d74feaa4f2b",
+      "id": "d358bcc4-22b7-460c-b3fe-4b0b737bea0a",
       "content": "Pháo đài này được xây trên đỉnh một ngọn núi cách Giê-ri-khô khoảng 5 km về hướng tây bắc.",
-      "position": 95,
+      "position": 87,
       "order": 3,
-      "createdAt": "2024-09-23T04:25:30.339Z",
-      "updatedAt": "2024-09-23T04:25:30.339Z",
-      "verseId": "f47839cd-bdb1-4711-8b64-70c6bca3d37e",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.658Z",
+      "updatedAt": "2025-04-22T05:04:32.658Z",
+      "verseId": "c6ee0ac9-f5d7-4d62-a3a8-9413c4afcb38",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "1d5006f8-7a3c-47a0-9823-6f5fd196e1cc",
+      "id": "99edca32-eecf-4949-9d76-dfe1f4fc6a6f",
       "content": "Gio-an đã giết những người định ám sát ông mà không cần đưa ra xử. Theo luật Do-thái, ông được phép làm như vậy.",
-      "position": 144,
+      "position": 140,
       "order": 4,
-      "createdAt": "2024-09-23T04:25:30.374Z",
-      "updatedAt": "2024-09-23T04:25:30.374Z",
-      "verseId": "56d6debc-7264-46cf-afc7-00db8b694e86",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.798Z",
+      "updatedAt": "2025-04-22T05:04:32.798Z",
+      "verseId": "7c380166-ed21-4546-b123-391506b674cf",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "8b160586-c091-43bf-a2cf-8df2d711689e",
+      "id": "76d173b7-1549-4c28-afc4-3f745063432f",
       "content": "Ít nhất Gio-an phải xây lại tường luỹ của Giê-ru-sa-lem bị phá đổ bởi vua An-ti-ô-khô VII.",
-      "position": 161,
+      "position": 157,
       "order": 5,
-      "createdAt": "2024-09-23T04:25:30.381Z",
-      "updatedAt": "2024-09-23T04:25:30.381Z",
-      "verseId": "c8472d70-235b-42b6-b082-560cf497269e",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.824Z",
+      "updatedAt": "2025-04-22T05:04:32.824Z",
+      "verseId": "4a8ccf90-1458-4425-93f0-9923e42dcba7",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "ae51f561-2356-4dcf-a916-0831dd83490b",
+      "id": "690b42a7-211e-451b-95ee-2a6864d33a7f",
       "content": "ds : *sách của các ngày*, đây là hình thức rút gọn của lối nói Híp-ri : *sách của những sự kiện của các ngày* (1 V 14,29). Ta thấy sách 1 Mcb đã kết thúc theo kiểu sách các Vua (2 V 20,20).",
       "position": 70,
       "order": 6,
-      "createdAt": "2024-09-23T04:25:30.389Z",
-      "updatedAt": "2024-09-23T04:25:30.389Z",
-      "verseId": "db8b578d-4829-421d-ae13-26f39646d79a",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.851Z",
+      "updatedAt": "2025-04-22T05:04:32.851Z",
+      "verseId": "6febd73b-9948-4a8c-afcf-4d9f535df90d",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "8bc909de-70b4-48ae-bc95-143fb43914fb",
+      "id": "d2d905ff-24d6-41a6-839c-20a7d1fbb2be",
       "content": "Gio-an nắm quyền và làm thượng tế từ năm 134 đến 104 tCN. Ta không thấy có dấu vết nào về cuốn Sử biên niên thời ông làm thượng tế. Những gì ta biết về Gio-an là nhờ sử liệu của sử gia Giô-xếp. Hai câu cuối của sách 1 Mcb cho thấy sách này chỉ được viết, hay ít nhất chỉ được viết xong, sau khi ông Gio-an qua đời.",
       "position": 154,
       "order": 7,
-      "createdAt": "2024-09-23T04:25:30.393Z",
-      "updatedAt": "2024-09-23T04:25:30.393Z",
-      "verseId": "db8b578d-4829-421d-ae13-26f39646d79a",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.864Z",
+      "updatedAt": "2025-04-22T05:04:32.864Z",
+      "verseId": "6febd73b-9948-4a8c-afcf-4d9f535df90d",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "6e1a9775-78d3-460c-a5de-27125a6b4c4e",
+      "content": "English: Cendebaeus - French: Kendébée - Latin: Cendebaeus - Origin: &#922;&#949;&#957;&#948;&#949;&#946;&#945;&#953;&#959;&#962; - Vietnamese: Ken-đê-bai-ô 1 Mcb 15,38-41 ; 16,1.4-10",
+      "position": 75,
+      "order": 10,
+      "createdAt": "2025-04-22T05:04:32.248Z",
+      "updatedAt": "2025-04-22T05:04:32.248Z",
+      "verseId": "471bc804-0bc3-46f5-b6c7-0edd35db8b97",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "df255976-88ac-475e-bd99-345ae2e812c3",
+      "content": "English: Cendebaeus - French: Kendébée - Latin: Cendebaeus - Origin: &#922;&#949;&#957;&#948;&#949;&#946;&#945;&#953;&#959;&#962; - Vietnamese: Ken-đê-bai-ô 1 Mcb 15,38-41 ; 16,1.4-10",
+      "position": 143,
+      "order": 10,
+      "createdAt": "2025-04-22T05:04:32.319Z",
+      "updatedAt": "2025-04-22T05:04:32.319Z",
+      "verseId": "09ad0f6b-9d92-410b-b0bd-bd74a9b9268b",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "15da31bd-ecdf-40d7-afc2-38b6fca70a6d",
+      "content": "English: Cendebaeus - French: Kendébée - Latin: Cendebaeus - Origin: &#922;&#949;&#957;&#948;&#949;&#946;&#945;&#953;&#959;&#962; - Vietnamese: Ken-đê-bai-ô 1 Mcb 15,38-41 ; 16,1.4-10",
+      "position": 27,
+      "order": 10,
+      "createdAt": "2025-04-22T05:04:32.412Z",
+      "updatedAt": "2025-04-22T05:04:32.412Z",
+      "verseId": "d9675635-9be9-48f8-a6da-97f8e3a58334",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "37575ba1-b8e7-4913-a58a-6790b30009fb",
+      "content": "English: Cendebaeus - French: Kendébée - Latin: Cendebaeus - Origin: &#922;&#949;&#957;&#948;&#949;&#946;&#945;&#953;&#959;&#962; - Vietnamese: Ken-đê-bai-ô 1 Mcb 15,38-41 ; 16,1.4-10",
+      "position": 126,
+      "order": 10,
+      "createdAt": "2025-04-22T05:04:32.439Z",
+      "updatedAt": "2025-04-22T05:04:32.439Z",
+      "verseId": "650c1e05-859f-4e83-b06a-e156456d218b",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "d86e1247-17bb-4181-b48c-b8044e7b395b",
+      "content": "English: Cendebaeus - French: Kendébée - Latin: Cendebaeus - Origin: &#922;&#949;&#957;&#948;&#949;&#946;&#945;&#953;&#959;&#962; - Vietnamese: Ken-đê-bai-ô 1 Mcb 15,38-41 ; 16,1.4-10",
+      "position": 48,
+      "order": 10,
+      "createdAt": "2025-04-22T05:04:32.235Z",
+      "updatedAt": "2025-04-22T05:04:32.235Z",
+      "headingId": "a6feb0e6-92a5-4dfd-bd52-9aba3e1f28b5",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "b7be5d77-231c-4d23-a540-0d301bb240ca",
+      "content": "English: Modein - French: Modin - Latin: Modin - Origin: &#924;&#969;&#948;&#949;&#953;&#957; - Vietnamese: Mô-đin 1 Mcb 2,1.70",
+      "position": 168,
+      "order": 22,
+      "createdAt": "2025-04-22T05:04:32.332Z",
+      "updatedAt": "2025-04-22T05:04:32.332Z",
+      "verseId": "09ad0f6b-9d92-410b-b0bd-bd74a9b9268b",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "32fb07ca-2645-4f6c-8d22-a67182c894df",
+      "content": "English: Dok - French: Dôk - Latin: Doc - Origin: &#916;&#969;&#954; - Vietnamese: Đốc 1 Mcb 16,15",
+      "position": 87,
+      "order": 30,
+      "createdAt": "2025-04-22T05:04:32.645Z",
+      "updatedAt": "2025-04-22T05:04:32.645Z",
+      "verseId": "c6ee0ac9-f5d7-4d62-a3a8-9413c4afcb38",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "89913de2-279f-487c-9140-46871c3fd8f9",
+      "content": "English: Dok - French: Dôk - Latin: Doc - Origin: &#916;&#969;&#954; - Vietnamese: Đốc 1 Mcb 16,15",
+      "position": 46,
+      "order": 30,
+      "createdAt": "2025-04-22T05:04:32.498Z",
+      "updatedAt": "2025-04-22T05:04:32.498Z",
+      "headingId": "ab498014-5985-499b-a37d-372c1adb0672",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "8685746a-4854-40cb-a2a9-27568e53a914",
+      "content": "English: Abubos - French: Aboubas - Latin: Abubi - Origin: &#913;&#946;&#959;&#965;&#946;&#959;&#962; - Vietnamese: A-bu-bô 1 Mcb 16,11.15",
+      "position": 29,
+      "order": 34,
+      "createdAt": "2025-04-22T05:04:32.529Z",
+      "updatedAt": "2025-04-22T05:04:32.529Z",
+      "verseId": "d904a418-7178-4db8-8a8d-bb13f73ce022",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "f0c1c98a-4ccb-4de1-98a4-30f80dc1114d",
+      "content": "English: Abubos - French: Aboubas - Latin: Abubi - Origin: &#913;&#946;&#959;&#965;&#946;&#959;&#962; - Vietnamese: A-bu-bô 1 Mcb 16,11.15",
+      "position": 44,
+      "order": 34,
+      "createdAt": "2025-04-22T05:04:32.633Z",
+      "updatedAt": "2025-04-22T05:04:32.633Z",
+      "verseId": "c6ee0ac9-f5d7-4d62-a3a8-9413c4afcb38",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "d9993cd1-41d1-4c37-a5ab-ce7dda5875e3",
+      "content": "English: Jericho - French: Jéricho - Latin: Iericho - Origin: &#1497;&#1456;&#1512;&#1477;&#1495;&#1493;&#1476; - Vietnamese: Giê-ri-khô Đnl 34,3 ; 2 Sb 28,15 ; 2 V 25,5",
+      "position": 87,
+      "order": 36,
+      "createdAt": "2025-04-22T05:04:32.541Z",
+      "updatedAt": "2025-04-22T05:04:32.541Z",
+      "verseId": "d904a418-7178-4db8-8a8d-bb13f73ce022",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "32ea5c2e-da28-44aa-a535-275503bd9df2",
+      "content": "English: Jericho - French: Jéricho - Latin: Iericho - Origin: &#1497;&#1456;&#1512;&#1477;&#1495;&#1493;&#1476; - Vietnamese: Giê-ri-khô Đnl 34,3 ; 2 Sb 28,15 ; 2 V 25,5",
+      "position": 112,
+      "order": 36,
+      "createdAt": "2025-04-22T05:04:32.592Z",
+      "updatedAt": "2025-04-22T05:04:32.592Z",
+      "verseId": "a609e158-c8ba-4058-b2bd-ac9306d22171",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
+    },
+    {
+      "id": "bdace4dc-103b-4c17-9adf-c0524044f1c5",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 61,
+      "order": 42,
+      "createdAt": "2025-04-22T05:04:32.745Z",
+      "updatedAt": "2025-04-22T05:04:32.745Z",
+      "verseId": "4e0616e2-3a52-4dce-a6c4-de01b815c0b3",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     }
   ],
   "headings": [
     {
-      "id": "ee360ecc-6639-4231-af1c-7a92392fd4d9",
-      "content": "Các con ông [Si-môn]() đánh thắng tướng [Ken-đê-bai-ô]()",
+      "id": "a6feb0e6-92a5-4dfd-bd52-9aba3e1f28b5",
+      "content": "Các con ông Si-môn đánh thắng tướng Ken-đê-bai-ô",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:25:30.263Z",
-      "updatedAt": "2024-09-23T04:25:30.263Z",
-      "verseId": "0fef34da-1356-44da-8b3c-86df03bdb0f3",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.222Z",
+      "updatedAt": "2025-04-22T05:04:32.222Z",
+      "verseId": "471bc804-0bc3-46f5-b6c7-0edd35db8b97",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "c4807b4d-8b34-4d0f-92e8-26b8e5a50ea9",
-      "content": "Cái chết bi thảm của ông [Si-môn]() ở pháo đài [Đốc](). Ông [Gio-an](), con ông [Si-môn]() lên thay.",
+      "id": "ab498014-5985-499b-a37d-372c1adb0672",
+      "content": "Cái chết bi thảm của ông Si-môn ở pháo đài Đốc. Ông Gio-an, con ông Si-môn lên thay.",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:25:30.311Z",
-      "updatedAt": "2024-09-23T04:25:30.311Z",
-      "verseId": "4c9be9db-774c-4b79-b3be-ca26f9eb2cf8",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.485Z",
+      "updatedAt": "2025-04-22T05:04:32.485Z",
+      "verseId": "d904a418-7178-4db8-8a8d-bb13f73ce022",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     }
   ],
   "references": [
     {
-      "id": "715fbe12-e2d2-47d0-9c14-08c4c914b855",
+      "id": "b7fbb676-ad53-4c21-a72c-e40823897123",
       "content": "1 Mcb 3,18+",
       "position": 44,
       "order": 0,
-      "createdAt": "2024-09-23T04:25:30.270Z",
-      "updatedAt": "2024-09-23T04:25:30.270Z",
-      "verseId": "3002c520-7b79-480c-a399-db1427e8557f",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.292Z",
+      "updatedAt": "2025-04-22T05:04:32.292Z",
+      "verseId": "7edf21a9-dea5-4e7b-b265-0147a09e81a5",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     },
     {
-      "id": "2d8f5b0e-0031-46c4-948c-521abc5fbf4b",
+      "id": "0884fc56-2575-4e2f-8481-c02382e9addb",
       "content": "1 Mcb 13,52",
-      "position": 69,
+      "position": 65,
       "order": 1,
-      "createdAt": "2024-09-23T04:25:30.362Z",
-      "updatedAt": "2024-09-23T04:25:30.362Z",
-      "verseId": "52b45697-d7e8-413b-bac5-353742dabe9b",
-      "chapterId": "9354b8c9-b851-4cd3-a031-61af1c6e1cc1"
+      "createdAt": "2025-04-22T05:04:32.758Z",
+      "updatedAt": "2025-04-22T05:04:32.758Z",
+      "verseId": "4e0616e2-3a52-4dce-a6c4-de01b815c0b3",
+      "chapterId": "ba7d9ca8-ed89-4c95-bd81-0093191d8e48"
     }
   ],
   "psalmMetadata": []

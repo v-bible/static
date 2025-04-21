@@ -1,323 +1,664 @@
 {
   "chapter": {
-    "id": "3b45228e-511a-4e35-817d-960e9e0c20c1",
+    "id": "fbc81aa0-dede-4269-adce-1507efc9cb06",
     "number": 13,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.211Z",
-    "updatedAt": "2024-09-23T03:08:02.211Z",
-    "bookId": "4052a4bf-8fd5-4d2e-bebe-300d27c4e084"
+    "createdAt": "2025-04-22T00:48:30.808Z",
+    "updatedAt": "2025-04-22T00:48:30.808Z",
+    "bookId": "0b5eb7da-4ffb-46a5-8cd2-411463e6c226"
   },
   "verses": [
     {
-      "id": "ca170a37-1dfa-4891-bbd8-5ea227dfd700",
+      "id": "c80c8920-a63a-43b5-9139-c7d502768476",
       "number": 1,
-      "content": "Ông [Áp-ram]() từ [Ai-cập]() lên miền [Ne-ghép](), cùng với vợ và tất cả những gì ông có ; ông [Lót]() cũng đi với ông.",
+      "content": "Ông Áp-ram từ Ai-cập lên miền Ne-ghép, cùng với vợ và tất cả những gì ông có ; ông Lót cũng đi với ông.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.813Z",
-      "updatedAt": "2024-09-23T03:35:08.813Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.206Z",
+      "updatedAt": "2025-04-22T02:17:59.206Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "a7f55e4b-3d1a-4e10-9c96-8d1d94c8aa31",
+      "id": "2f242b48-2e4c-452a-90f1-caf060bc7b4d",
       "number": 2,
-      "content": "Ông [Áp-ram]() rất giàu, ông có nhiều súc vật và vàng bạc.",
+      "content": "Ông Áp-ram rất giàu, ông có nhiều súc vật và vàng bạc.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.824Z",
-      "updatedAt": "2024-09-23T03:35:08.824Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.291Z",
+      "updatedAt": "2025-04-22T02:17:59.291Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "3d8bfec1-0904-4181-a166-8138aa7a4efb",
+      "id": "deb02b59-e058-4f1c-acec-ea1b3f8b2fb5",
       "number": 3,
-      "content": "Ông đi từng chặng từ miền [Ne-ghép]() đến Bết Ên, đến nơi lần trước ông đã cắm lều giữa Bết Ên và Ai.",
+      "content": "Ông đi từng chặng từ miền Ne-ghép đến Bết Ên, đến nơi lần trước ông đã cắm lều giữa Bết Ên và Ai.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.826Z",
-      "updatedAt": "2024-09-23T03:35:08.826Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.311Z",
+      "updatedAt": "2025-04-22T02:17:59.311Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "a6146df8-033f-4c66-8484-ac184522a5ab",
+      "id": "0081e810-d3ea-4875-a3cb-a601cbe509e9",
       "number": 4,
-      "content": "Ở nơi có bàn thờ ông đã làm trước kia, ông [Áp-ram]() kêu cầu danh [ĐỨC CHÚA]().",
+      "content": "Ở nơi có bàn thờ ông đã làm trước kia, ông Áp-ram kêu cầu danh ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.830Z",
-      "updatedAt": "2024-09-23T03:35:08.830Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.331Z",
+      "updatedAt": "2025-04-22T02:17:59.331Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "e7bb6eed-3d61-4779-ab42-dbaec3ab1c37",
+      "id": "e913ef3b-1e23-4196-8bf8-300023f33614",
       "number": 5,
-      "content": "Ông [Lót](), người cùng đi với ông [Áp-ram](), cũng có chiên bò và những chiếc lều.",
+      "content": "Ông Lót, người cùng đi với ông Áp-ram, cũng có chiên bò và những chiếc lều.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.838Z",
-      "updatedAt": "2024-09-23T03:35:08.838Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.376Z",
+      "updatedAt": "2025-04-22T02:17:59.376Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "d50fc58d-76c3-44f6-a839-47cf820cab2f",
+      "id": "fe6692d5-4d7b-4017-adda-b47096bb6945",
       "number": 6,
       "content": "Đất ấy không đủ chỗ cho họ ở chung : họ có quá nhiều tài sản, nên không thể ở chung với nhau được.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.843Z",
-      "updatedAt": "2024-09-23T03:35:08.843Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.406Z",
+      "updatedAt": "2025-04-22T02:17:59.406Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "0943b58d-a58d-4845-9599-41ae8ad6904f",
+      "id": "b1fd7fb6-0d9f-40ce-86e9-588d65000600",
       "number": 7,
-      "content": "Một cuộc tranh chấp xảy ra giữa những người chăn súc vật của ông [Áp-ram]() và những người chăn súc vật của ông [Lót](). Thời bấy giờ, người [Ca-na-an]() và người [Pơ-rít-di]() đang ở trong miền ấy.",
+      "content": "Một cuộc tranh chấp xảy ra giữa những người chăn súc vật của ông Áp-ram và những người chăn súc vật của ông Lót. Thời bấy giờ, người Ca-na-an và người Pơ-rít-di đang ở trong miền ấy.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.852Z",
-      "updatedAt": "2024-09-23T03:35:08.852Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.429Z",
+      "updatedAt": "2025-04-22T02:17:59.429Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "95b64cef-5d4b-446f-a408-1d040da59e20",
+      "id": "cf73ee87-5484-4514-abe9-5bf0bcb6f187",
       "number": 8,
-      "content": "Ông [Áp-ram]() bảo ông [Lót]() : “Sao cho đừng có chuyện tranh chấp giữa bác và cháu, giữa người chăn súc vật của bác và người chăn súc vật của cháu. Vì chúng ta là anh em họ hàng với nhau !",
+      "content": "Ông Áp-ram bảo ông Lót : “Sao cho đừng có chuyện tranh chấp giữa bác và cháu, giữa người chăn súc vật của bác và người chăn súc vật của cháu. Vì chúng ta là anh em họ hàng với nhau !",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.860Z",
-      "updatedAt": "2024-09-23T03:35:08.860Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.474Z",
+      "updatedAt": "2025-04-22T02:17:59.474Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "48d6ad11-b075-4381-a31e-7ac125c96fb5",
+      "id": "8c238c97-07f6-4309-b378-5e89088c7815",
       "number": 9,
       "content": "Tất cả xứ chẳng ở trước mặt cháu đó sao ? Cháu hãy xa bác đi. Nếu cháu đi về bên trái thì bác sẽ đi về bên phải ; nếu cháu đi về bên phải thì bác sẽ đi về bên trái.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.869Z",
-      "updatedAt": "2024-09-23T03:35:08.869Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.525Z",
+      "updatedAt": "2025-04-22T02:17:59.525Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "22b1fc08-f081-44ad-9eb9-cf4e00ad2a12",
+      "id": "76ca4941-94b2-4867-b3be-de62db3eb83d",
       "number": 10,
-      "content": "Ông [Lót]() ngước mắt lên và nhìn cả Vùng sông [Gio-đan]() : chỗ nào cũng có nước. Trước khi [ĐỨC CHÚA]() tiêu diệt thành [Xơ-đôm]() và thành [Gô-mô-ra](), thì vùng đó, cho đến tận [Xô-a](), giống như vườn của [ĐỨC CHÚA](), giống như đất [Ai-cập]().",
+      "content": "Ông Lót ngước mắt lên và nhìn cả Vùng sông Gio-đan : chỗ nào cũng có nước. Trước khi ĐỨC CHÚA tiêu diệt thành Xơ-đôm và thành Gô-mô-ra, thì vùng đó, cho đến tận Xô-a, giống như vườn của ĐỨC CHÚA, giống như đất Ai-cập.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.874Z",
-      "updatedAt": "2024-09-23T03:35:08.874Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.536Z",
+      "updatedAt": "2025-04-22T02:17:59.536Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "6ded88a7-da6d-4541-97cb-ec945b610c00",
+      "id": "0848b020-5d3c-42ba-80d8-ae78fc6898b6",
       "number": 11,
-      "content": "Ông [Lót]() chọn cho mình cả Vùng sông [Gio-đan]() và đi về hướng đông. Thế là họ xa nhau.",
+      "content": "Ông Lót chọn cho mình cả Vùng sông Gio-đan và đi về hướng đông. Thế là họ xa nhau.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.887Z",
-      "updatedAt": "2024-09-23T03:35:08.887Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.652Z",
+      "updatedAt": "2025-04-22T02:17:59.652Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "a672b98c-55ba-4055-95d3-7ad7257b5c6a",
+      "id": "7b345232-2354-4fb4-bef2-288706d22c2d",
       "number": 12,
-      "content": "Ông [Áp-ram]() ở đất [Ca-na-an](), còn ông [Lót]() ở trong các thành Vùng sông [Gio-đan](), và di chuyển lều đến tận [Xơ-đôm]().",
+      "content": "Ông Áp-ram ở đất Ca-na-an, còn ông Lót ở trong các thành Vùng sông Gio-đan, và di chuyển lều đến tận Xơ-đôm.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.891Z",
-      "updatedAt": "2024-09-23T03:35:08.891Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.687Z",
+      "updatedAt": "2025-04-22T02:17:59.687Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "9a8f08a3-20f7-4100-97d9-c3e515df9d50",
+      "id": "4100e90c-1816-40df-a66a-632a2af140e0",
       "number": 13,
-      "content": "Người [Xơ-đôm]() xấu xa và mắc tội nặng đối với [ĐỨC CHÚA]().",
+      "content": "Người Xơ-đôm xấu xa và mắc tội nặng đối với ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.895Z",
-      "updatedAt": "2024-09-23T03:35:08.895Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.752Z",
+      "updatedAt": "2025-04-22T02:17:59.752Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "7c5f3373-ffad-4023-855e-da42365a29f2",
+      "id": "5e628dac-86af-45cb-a487-2ff991fca68a",
       "number": 14,
-      "content": "[ĐỨC CHÚA]() phán với ông [Áp-ram]() sau khi ông [Lót]() xa ông : “Ngước mắt lên, từ chỗ ngươi đang đứng, hãy nhìn về phía bắc, phía nam, phía đông, phía tây,",
+      "content": "ĐỨC CHÚA phán với ông Áp-ram sau khi ông Lót xa ông : “Ngước mắt lên, từ chỗ ngươi đang đứng, hãy nhìn về phía bắc, phía nam, phía đông, phía tây,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.903Z",
-      "updatedAt": "2024-09-23T03:35:08.903Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.804Z",
+      "updatedAt": "2025-04-22T02:17:59.804Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "45f50123-bcd0-450a-909e-621100239462",
+      "id": "553f6fda-ca21-4814-ab6d-f8cb7f56c554",
       "number": 15,
       "content": "vì tất cả miền đất ngươi đang thấy đó, Ta sẽ ban cho ngươi và cho dòng dõi ngươi mãi mãi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.907Z",
-      "updatedAt": "2024-09-23T03:35:08.907Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.844Z",
+      "updatedAt": "2025-04-22T02:17:59.844Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "a4245143-46a6-46e0-bea0-334b2cf59a54",
+      "id": "d0437c99-f605-42b9-a0c5-c2e7a6834144",
       "number": 16,
       "content": "Ta sẽ làm cho dòng dõi ngươi nhiều như bụi trên mặt đất ; nếu người ta đếm được bụi trên mặt đất, thì mới đếm được dòng dõi ngươi !",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.912Z",
-      "updatedAt": "2024-09-23T03:35:08.912Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.854Z",
+      "updatedAt": "2025-04-22T02:17:59.854Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "89c4003c-541e-48b6-a820-030f1eb67d24",
+      "id": "c3ddec48-d902-49a5-8545-66d80422ea4a",
       "number": 17,
       "content": "Đứng lên ! Hãy đi ngang dọc khắp miền đất này, vì Ta sẽ ban nó cho ngươi.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.916Z",
-      "updatedAt": "2024-09-23T03:35:08.916Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.864Z",
+      "updatedAt": "2025-04-22T02:17:59.864Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "eb09b9eb-6295-4f61-bb27-aa226a61197b",
+      "id": "201406e5-6e89-4d93-ac20-8bc92fb97d86",
       "number": 18,
-      "content": "Ông di chuyển lều và đến ở cụm sồi [Mam-rê](), tại [Khép-rôn](). Tại đây, ông dựng một bàn thờ để kính [ĐỨC CHÚA]().",
+      "content": "Ông di chuyển lều và đến ở cụm sồi Mam-rê, tại Khép-rôn. Tại đây, ông dựng một bàn thờ để kính ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:35:08.920Z",
-      "updatedAt": "2024-09-23T03:35:08.920Z",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.874Z",
+      "updatedAt": "2025-04-22T02:17:59.874Z",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     }
   ],
   "footnotes": [
     {
-      "id": "9d92e84e-4bff-4f16-b526-15084723571b",
+      "id": "de1e4a15-104d-4c99-a9c1-000f2f8330bf",
       "content": "Pơ-rít-di là một trong sáu hay bảy sắc dân cư ngụ trong xứ trước khi người Ít-ra-en tới, đôi khi cũng được kể cặp kè với “người Ca-na-an”, như ở đây. Lý do cặp đôi này có lẽ “người Pơ-rít-di” không thuộc về dân Sê-mít như đa số các cư dân trong xứ, mà nguồn J thường gọi chung là “người Ca-na-an”.",
-      "position": 176,
+      "position": 160,
       "order": 0,
-      "createdAt": "2024-09-23T03:35:08.856Z",
-      "updatedAt": "2024-09-23T03:35:08.856Z",
-      "verseId": "0943b58d-a58d-4845-9599-41ae8ad6904f",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.463Z",
+      "updatedAt": "2025-04-22T02:17:59.463Z",
+      "verseId": "b1fd7fb6-0d9f-40ce-86e9-588d65000600",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "1757fe5a-79f9-4987-bcee-450dcc538bde",
+      "id": "8787f027-c1e8-4779-96ce-bdff648cc03a",
       "content": "ds : “Anh em”. Trong ngôn ngữ Híp-ri, từ này mang nghĩa khái quát, chỉ chung bà con thân thích ở nhiều mức độ khác nhau.",
-      "position": 188,
+      "position": 180,
       "order": 1,
-      "createdAt": "2024-09-23T03:35:08.865Z",
-      "updatedAt": "2024-09-23T03:35:08.865Z",
-      "verseId": "95b64cef-5d4b-446f-a408-1d040da59e20",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.515Z",
+      "updatedAt": "2025-04-22T02:17:59.515Z",
+      "verseId": "cf73ee87-5484-4514-abe9-5bf0bcb6f187",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "91179005-59d7-48b2-9603-53db06954d3e",
+      "id": "66773932-8a07-4f8f-9994-d1adc7997b56",
       "content": "ds : “cái vòng”. “Vùng” được dùng như địa danh để gọi miền hạ lưu sông Gio-đan chạy tới phía nam Biển Chết.",
-      "position": 41,
+      "position": 37,
       "order": 2,
-      "createdAt": "2024-09-23T03:35:08.878Z",
-      "updatedAt": "2024-09-23T03:35:08.878Z",
-      "verseId": "22b1fc08-f081-44ad-9eb9-cf4e00ad2a12",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.563Z",
+      "updatedAt": "2025-04-22T02:17:59.563Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "c0427871-d828-4713-8727-dab992419b8e",
+      "id": "357717d6-819a-4919-98bc-f597e7e0dde2",
       "content": "Xô-a nằm ở phía đông nam Biển Chết (x. 19,22 ; Đnl 34,3 ; Is 15,5 ; Gr 48,34), lúc ấy còn khá tươi tốt. Ngược với ông Lót, người tự mình ngước mắt lên quan sát và tự chọn cho mình (cc. 10-11), tổ phụ Áp-ram nghe theo Thiên Chúa ngước mắt lên ngắm nhìn phần đất ông sẽ lãnh nhận (c.14).",
-      "position": 189,
+      "position": 165,
       "order": 3,
-      "createdAt": "2024-09-23T03:35:08.882Z",
-      "updatedAt": "2024-09-23T03:35:08.882Z",
-      "verseId": "22b1fc08-f081-44ad-9eb9-cf4e00ad2a12",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.632Z",
+      "updatedAt": "2025-04-22T02:17:59.632Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "6d656594-cf4f-4038-8e50-ecbb7b06b19b",
+      "id": "8397d878-83e6-4502-a927-502ec04eb9aa",
       "content": "Gợi ý trước về truyện sẽ kể ở 18,20-21. Các dân bán du mục, như gia đình ông Áp-ram, di chuyển theo điều kiện thời tiết và nhu cầu sinh nhai. Sự tích này muốn nhấn mạnh tinh thần hào hiệp của tổ phụ đối với người cháu. Nhưng, Lót chọn phần hơn cho mình trước thì lại gặp tai hoạ, còn ông Áp-ram chịu thiệt thòi thì được Thiên Chúa nhắc lại lời hứa để bù lại.",
-      "position": 60,
+      "position": 52,
       "order": 4,
-      "createdAt": "2024-09-23T03:35:08.899Z",
-      "updatedAt": "2024-09-23T03:35:08.899Z",
-      "verseId": "9a8f08a3-20f7-4100-97d9-c3e515df9d50",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.795Z",
+      "updatedAt": "2025-04-22T02:17:59.795Z",
+      "verseId": "4100e90c-1816-40df-a66a-632a2af140e0",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "1b8d1f0c-87b9-442a-9562-fa5093412a6e",
+      "id": "9b4daaa8-0a5c-4606-90bc-6b75febad22e",
       "content": "X. 12,6+. HL nói tới “Cây Sồi” số ít ; HR “Lùm Cây Sồi” số nhiều. Mam-rê, cách Khép-rôn chừng 3 km về phía bắc, là nơi thờ phượng rất được tôn kính đối với dòng họ ông Áp-ram và sau này đối với các truyền thống Do-thái giáo, Hồi Giáo và Ki-tô giáo. – Lộ trình của tổ phụ (x. 12,6-9), sẽ được người cháu nội Gia-cóp thực hiện lại (St 33,18 ; 35,1.6.27 ; 46,1) và một cách chung chung, cũng sẽ là lộ trình của cuộc đánh chiếm sau này (Gs 7,22 ; 8,9.30).",
-      "position": 45,
+      "position": 41,
       "order": 5,
-      "createdAt": "2024-09-23T03:35:08.924Z",
-      "updatedAt": "2024-09-23T03:35:08.924Z",
-      "verseId": "eb09b9eb-6295-4f61-bb27-aa226a61197b",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.900Z",
+      "updatedAt": "2025-04-22T02:17:59.900Z",
+      "verseId": "201406e5-6e89-4d93-ac20-8bc92fb97d86",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "3afbc944-667d-4078-91af-859555ed6f0b",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.252Z",
+      "updatedAt": "2025-04-22T02:17:59.252Z",
+      "verseId": "c80c8920-a63a-43b5-9139-c7d502768476",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "623e9893-ec8a-47d1-a452-f5fc7d61d92e",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.301Z",
+      "updatedAt": "2025-04-22T02:17:59.301Z",
+      "verseId": "2f242b48-2e4c-452a-90f1-caf060bc7b4d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "5ce36ac3-0c23-4d8e-972b-b71283910d7e",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 49,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.344Z",
+      "updatedAt": "2025-04-22T02:17:59.344Z",
+      "verseId": "0081e810-d3ea-4875-a3cb-a601cbe509e9",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "9e2af1d9-c368-4660-89a7-432e1b946977",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 37,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.396Z",
+      "updatedAt": "2025-04-22T02:17:59.396Z",
+      "verseId": "e913ef3b-1e23-4196-8bf8-300023f33614",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "72e82ea3-a3d0-4151-889f-870edd00289b",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 71,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.442Z",
+      "updatedAt": "2025-04-22T02:17:59.442Z",
+      "verseId": "b1fd7fb6-0d9f-40ce-86e9-588d65000600",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "3d2b5051-01de-4840-b133-ad2dc450ec70",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.488Z",
+      "updatedAt": "2025-04-22T02:17:59.488Z",
+      "verseId": "cf73ee87-5484-4514-abe9-5bf0bcb6f187",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "f33f02a3-9620-4f80-862e-1640db7d9470",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.698Z",
+      "updatedAt": "2025-04-22T02:17:59.698Z",
+      "verseId": "7b345232-2354-4fb4-bef2-288706d22c2d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "728e193b-6238-4fef-a906-17e0616ff5f9",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 28,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.824Z",
+      "updatedAt": "2025-04-22T02:17:59.824Z",
+      "verseId": "5e628dac-86af-45cb-a487-2ff991fca68a",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "04e71971-6f27-48ef-a514-f7cb590999d2",
+      "content": "English: Abram - French: Abram - Latin: Abram - Origin: &#1488;&#1463;&#1489;&#1456;&#1512;&#1464;&#1501; - Vietnamese: Áp-ram St 11,26",
+      "position": 10,
+      "order": 6,
+      "createdAt": "2025-04-22T02:17:59.232Z",
+      "updatedAt": "2025-04-22T02:17:59.232Z",
+      "headingId": "c6756c91-1483-455a-8681-610a1c7c952a",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "84a12685-c25d-4fa4-aea0-32adbb523252",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 86,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.281Z",
+      "updatedAt": "2025-04-22T02:17:59.281Z",
+      "verseId": "c80c8920-a63a-43b5-9139-c7d502768476",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "f36829d3-9401-4937-afcf-6eb545a42a92",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 7,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.386Z",
+      "updatedAt": "2025-04-22T02:17:59.386Z",
+      "verseId": "e913ef3b-1e23-4196-8bf8-300023f33614",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "0854ea14-07eb-4bed-ae9a-e6faff8d792e",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 111,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.452Z",
+      "updatedAt": "2025-04-22T02:17:59.452Z",
+      "verseId": "b1fd7fb6-0d9f-40ce-86e9-588d65000600",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "05eb1c01-47ff-44d0-af9b-ce615918921c",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 22,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.501Z",
+      "updatedAt": "2025-04-22T02:17:59.501Z",
+      "verseId": "cf73ee87-5484-4514-abe9-5bf0bcb6f187",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "3896bcd1-d633-4b45-8c69-ec12b081c77d",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 7,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.550Z",
+      "updatedAt": "2025-04-22T02:17:59.550Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "e93f5981-c782-4e3f-a7e8-6f77d488a051",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 7,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.662Z",
+      "updatedAt": "2025-04-22T02:17:59.662Z",
+      "verseId": "0848b020-5d3c-42ba-80d8-ae78fc6898b6",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "3f3bda5a-c54a-485e-b060-78f0c498e958",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 38,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.712Z",
+      "updatedAt": "2025-04-22T02:17:59.712Z",
+      "verseId": "7b345232-2354-4fb4-bef2-288706d22c2d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "eff68e3f-4aa0-4091-9b6a-f09252ff3395",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 44,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.834Z",
+      "updatedAt": "2025-04-22T02:17:59.834Z",
+      "verseId": "5e628dac-86af-45cb-a487-2ff991fca68a",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "03446d16-7760-437c-9794-738ca78b0354",
+      "content": "English: Lot - French: Loth - Latin: Lot - Origin: &#1500;&#64331;&#1496; - Vietnamese: Lót St 11,27.31",
+      "position": 21,
+      "order": 8,
+      "createdAt": "2025-04-22T02:17:59.243Z",
+      "updatedAt": "2025-04-22T02:17:59.243Z",
+      "headingId": "c6756c91-1483-455a-8681-610a1c7c952a",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "2c82f345-97c8-46cd-b0e6-164e0adbdb83",
+      "content": "English: Negeb - French: Néguev - Latin: Nageb - Origin: &#1504;&#1462;&#1490;&#1462;&#1489; - Vietnamese: Ne-ghép Đnl 1,7",
+      "position": 37,
+      "order": 12,
+      "createdAt": "2025-04-22T02:17:59.271Z",
+      "updatedAt": "2025-04-22T02:17:59.271Z",
+      "verseId": "c80c8920-a63a-43b5-9139-c7d502768476",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "f7a42fe3-3177-477c-83fa-7d5446a4dc4a",
+      "content": "English: Negeb - French: Néguev - Latin: Nageb - Origin: &#1504;&#1462;&#1490;&#1462;&#1489; - Vietnamese: Ne-ghép Đnl 1,7",
+      "position": 33,
+      "order": 12,
+      "createdAt": "2025-04-22T02:17:59.321Z",
+      "updatedAt": "2025-04-22T02:17:59.321Z",
+      "verseId": "deb02b59-e058-4f1c-acec-ea1b3f8b2fb5",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "bb68ead3-9e49-4c5b-9a3a-a122caba0665",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 71,
+      "order": 14,
+      "createdAt": "2025-04-22T02:17:59.354Z",
+      "updatedAt": "2025-04-22T02:17:59.354Z",
+      "verseId": "0081e810-d3ea-4875-a3cb-a601cbe509e9",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "25f88707-7f2b-431e-a9f9-787e30cc28db",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 194,
+      "order": 14,
+      "createdAt": "2025-04-22T02:17:59.586Z",
+      "updatedAt": "2025-04-22T02:17:59.586Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "afe13339-5f39-43e2-8e7d-b358b2f33a39",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 52,
+      "order": 14,
+      "createdAt": "2025-04-22T02:17:59.781Z",
+      "updatedAt": "2025-04-22T02:17:59.781Z",
+      "verseId": "4100e90c-1816-40df-a66a-632a2af140e0",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "bddaf0a2-3ee9-4c34-96f4-6e6826babed1",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 14,
+      "createdAt": "2025-04-22T02:17:59.814Z",
+      "updatedAt": "2025-04-22T02:17:59.814Z",
+      "verseId": "5e628dac-86af-45cb-a487-2ff991fca68a",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "b22cf223-dbee-4eb5-849d-300f9fc71f81",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 103,
+      "order": 14,
+      "createdAt": "2025-04-22T02:17:59.913Z",
+      "updatedAt": "2025-04-22T02:17:59.913Z",
+      "verseId": "201406e5-6e89-4d93-ac20-8bc92fb97d86",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "1d5c2c2a-8ce4-48b8-b432-87c318251776",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 50,
+      "order": 20,
+      "createdAt": "2025-04-22T02:17:59.576Z",
+      "updatedAt": "2025-04-22T02:17:59.576Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "a56cf88f-ee33-4b90-abb7-f015b2ff9027",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 42,
+      "order": 20,
+      "createdAt": "2025-04-22T02:17:59.676Z",
+      "updatedAt": "2025-04-22T02:17:59.676Z",
+      "verseId": "0848b020-5d3c-42ba-80d8-ae78fc6898b6",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "9bc68176-466a-4990-8d07-d4372f7f45cd",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 74,
+      "order": 20,
+      "createdAt": "2025-04-22T02:17:59.724Z",
+      "updatedAt": "2025-04-22T02:17:59.724Z",
+      "verseId": "7b345232-2354-4fb4-bef2-288706d22c2d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "46b5f9ee-a266-474a-902c-37b1892c3f59",
+      "content": "English: Sodom - French: Sodome - Latin: Sodoma - Origin: &#1505;&#1456;&#1491;&#1465;&#1501; - Vietnamese: Xơ-đôm St 13,12",
+      "position": 116,
+      "order": 22,
+      "createdAt": "2025-04-22T02:17:59.599Z",
+      "updatedAt": "2025-04-22T02:17:59.599Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "4fb6fae8-7d3b-4d80-8603-e3c1184773e5",
+      "content": "English: Sodom - French: Sodome - Latin: Sodoma - Origin: &#1505;&#1456;&#1491;&#1465;&#1501; - Vietnamese: Xơ-đôm St 13,12",
+      "position": 107,
+      "order": 22,
+      "createdAt": "2025-04-22T02:17:59.736Z",
+      "updatedAt": "2025-04-22T02:17:59.736Z",
+      "verseId": "7b345232-2354-4fb4-bef2-288706d22c2d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "df16373b-fb49-4b9e-ab48-165fd860be17",
+      "content": "English: Sodom - French: Sodome - Latin: Sodoma - Origin: &#1505;&#1456;&#1491;&#1465;&#1501; - Vietnamese: Xơ-đôm St 13,12",
+      "position": 12,
+      "order": 22,
+      "createdAt": "2025-04-22T02:17:59.769Z",
+      "updatedAt": "2025-04-22T02:17:59.769Z",
+      "verseId": "4100e90c-1816-40df-a66a-632a2af140e0",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "ce024bee-0c2f-419c-93b7-d7306b69e1a5",
+      "content": "English: Gomorrah - French: Gomorrhe - Latin: Gomorra - Origin: &#1506;&#1458;&#1502;&#1465;&#1512;&#1464;&#1492; - Vietnamese: Gô-mô-ra St 10,19 ; Mt 11,23-24",
+      "position": 134,
+      "order": 24,
+      "createdAt": "2025-04-22T02:17:59.609Z",
+      "updatedAt": "2025-04-22T02:17:59.609Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "72e83316-2b25-45ca-9f80-b692d1c3661d",
+      "content": "English: Zoar - French: &#199;oar - Latin: Segor - Origin: &#1510;&#64331;&#1506;&#1463;&#1512; - Vietnamese: Xô-a St 19,22",
+      "position": 165,
+      "order": 26,
+      "createdAt": "2025-04-22T02:17:59.622Z",
+      "updatedAt": "2025-04-22T02:17:59.622Z",
+      "verseId": "76ca4941-94b2-4867-b3be-de62db3eb83d",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
+    },
+    {
+      "id": "97e190a4-cb70-4391-b0ff-455a05723d0c",
+      "content": "English: Mamre - French: Mamré - Latin: Mambre - Origin: &#1502;&#1463;&#1502;&#1456;&#1512;&#1461;&#1488; - Vietnamese: Mam-rê St 14,13-24",
+      "position": 41,
+      "order": 28,
+      "createdAt": "2025-04-22T02:17:59.884Z",
+      "updatedAt": "2025-04-22T02:17:59.884Z",
+      "verseId": "201406e5-6e89-4d93-ac20-8bc92fb97d86",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     }
   ],
   "headings": [
     {
-      "id": "9657e6a9-e597-40f4-a94f-37e80b767ce0",
-      "content": "Ông [Áp-ram]() và ông [Lót]() chia tay",
+      "id": "c6756c91-1483-455a-8681-610a1c7c952a",
+      "content": "Ông Áp-ram và ông Lót chia tay",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:35:08.822Z",
-      "updatedAt": "2024-09-23T03:35:08.822Z",
-      "verseId": "ca170a37-1dfa-4891-bbd8-5ea227dfd700",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.223Z",
+      "updatedAt": "2025-04-22T02:17:59.223Z",
+      "verseId": "c80c8920-a63a-43b5-9139-c7d502768476",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     }
   ],
   "references": [
     {
-      "id": "f658dcca-8887-4a9c-b4fd-b69226c14e7d",
+      "id": "36585fbb-dd5b-4a80-a0f0-2e5f009b10f8",
       "content": "St 12,8",
-      "position": 54,
+      "position": 50,
       "order": 0,
-      "createdAt": "2024-09-23T03:35:08.834Z",
-      "updatedAt": "2024-09-23T03:35:08.834Z",
-      "verseId": "a6146df8-033f-4c66-8484-ac184522a5ab",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.364Z",
+      "updatedAt": "2025-04-22T02:17:59.364Z",
+      "verseId": "0081e810-d3ea-4875-a3cb-a601cbe509e9",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     },
     {
-      "id": "b6719e0d-8079-405e-a92f-2cff4c4c83c1",
+      "id": "b2457b57-06f3-40be-8531-01c646285102",
       "content": "St 36,7",
       "position": 53,
       "order": 1,
-      "createdAt": "2024-09-23T03:35:08.847Z",
-      "updatedAt": "2024-09-23T03:35:08.847Z",
-      "verseId": "d50fc58d-76c3-44f6-a839-47cf820cab2f",
-      "chapterId": "3b45228e-511a-4e35-817d-960e9e0c20c1"
+      "createdAt": "2025-04-22T02:17:59.416Z",
+      "updatedAt": "2025-04-22T02:17:59.416Z",
+      "verseId": "fe6692d5-4d7b-4017-adda-b47096bb6945",
+      "chapterId": "fbc81aa0-dede-4269-adce-1507efc9cb06"
     }
   ],
   "psalmMetadata": []

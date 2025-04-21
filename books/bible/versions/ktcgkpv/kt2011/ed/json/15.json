@@ -1,343 +1,394 @@
 {
   "chapter": {
-    "id": "49a929e9-1b30-416d-af30-703f2295af57",
+    "id": "a1083bdf-29ab-4a8d-8189-c7195b6bc481",
     "number": 15,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.396Z",
-    "updatedAt": "2024-09-23T03:08:02.396Z",
-    "bookId": "35ed58c5-58f4-4ce0-aa6e-73898ea6d9c3"
+    "createdAt": "2025-04-22T00:48:32.319Z",
+    "updatedAt": "2025-04-22T00:48:32.319Z",
+    "bookId": "1f204898-a688-46b4-a3a3-a6cdc56dfa4e"
   },
   "verses": [
     {
-      "id": "07aef3cd-79e9-4b05-8cc1-03430fae6183",
+      "id": "14eb0732-f4c1-4d79-9a72-4df3ca51c714",
       "number": 1,
-      "content": "Có lời [ĐỨC CHÚA]() phán với tôi :",
+      "content": "Có lời ĐỨC CHÚA phán với tôi :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.266Z",
-      "updatedAt": "2024-09-23T04:48:53.266Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.119Z",
+      "updatedAt": "2025-04-22T06:56:23.119Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "b54384ba-c4f3-4b2b-b53c-91180fc753df",
+      "id": "ba9455e0-2066-4a6a-b81a-c2f0e549965b",
       "number": 2,
       "content": "Hỡi con người, gỗ cây nho là gì mà lại tốt hơn mọi thứ gỗ ;",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.273Z",
-      "updatedAt": "2024-09-23T04:48:53.273Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.172Z",
+      "updatedAt": "2025-04-22T06:56:23.172Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "234221b7-08aa-4202-af1b-dda9e053b625",
+      "id": "53898f71-dc4c-4a96-ab47-652eb34f6dfd",
       "number": 2,
       "content": "cành của nó là chi",
       "order": 1,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.275Z",
-      "updatedAt": "2024-09-23T04:48:53.275Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.186Z",
+      "updatedAt": "2025-04-22T06:56:23.186Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "b1f04086-60ad-451f-a23c-a209f7009de6",
+      "id": "9866ac3f-7d3e-435a-8f67-54598df8c1f6",
       "number": 2,
       "content": "mà lại tốt hơn cành những cây khác trên rừng ?",
       "order": 2,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.277Z",
-      "updatedAt": "2024-09-23T04:48:53.277Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.200Z",
+      "updatedAt": "2025-04-22T06:56:23.200Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "ca72ce73-ed79-4c40-93ff-6ff488614be9",
+      "id": "0746778a-12c6-40f0-ae0e-42c8273d0df2",
       "number": 3,
       "content": "Người ta có dùng gỗ của nó vào công trình gì không,",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.279Z",
-      "updatedAt": "2024-09-23T04:48:53.279Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.214Z",
+      "updatedAt": "2025-04-22T06:56:23.214Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "947706f1-34e9-4d67-a3ec-e0022747b13d",
+      "id": "639e704a-eb7a-4de4-80f1-b3455e447df1",
       "number": 3,
       "content": "hay lấy nó làm cọc để treo bất cứ vật gì ?",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.281Z",
-      "updatedAt": "2024-09-23T04:48:53.281Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.229Z",
+      "updatedAt": "2025-04-22T06:56:23.229Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "a5cbef25-3252-4742-a15b-e3407af780ce",
+      "id": "2cbbf45d-e1f6-47c1-92c0-5ddbe901b7dc",
       "number": 4,
       "content": "Này nó bị quăng làm mồi cho lửa,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.282Z",
-      "updatedAt": "2024-09-23T04:48:53.282Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.239Z",
+      "updatedAt": "2025-04-22T06:56:23.239Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "3d378cbe-37d7-4f8d-a3a5-43f9cca04418",
+      "id": "29622849-0339-4d6f-bf6c-1dc878533e44",
       "number": 4,
       "content": "lửa đã liếm hai đầu của nó ;",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.286Z",
-      "updatedAt": "2024-09-23T04:48:53.286Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.261Z",
+      "updatedAt": "2025-04-22T06:56:23.261Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "aa6b4ede-3bb1-45ea-9d53-9dcb844c6ae4",
+      "id": "c5877df5-fddf-46c6-8a57-44e96aa81d41",
       "number": 4,
       "content": "khúc giữa đã cháy, liệu còn dùng được vào việc gì chăng ?",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.289Z",
-      "updatedAt": "2024-09-23T04:48:53.289Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.273Z",
+      "updatedAt": "2025-04-22T06:56:23.273Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "a4b513d5-1d27-40f6-aaa5-420a8fb7c459",
+      "id": "4f491116-7061-4719-b498-db8a22e04773",
       "number": 5,
       "content": "Khi còn nguyên vẹn, nó đã không dùng được vào công trình gì,",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.298Z",
-      "updatedAt": "2024-09-23T04:48:53.298Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.301Z",
+      "updatedAt": "2025-04-22T06:56:23.301Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "79fda9f5-8ac6-4d2f-9575-2e1bc332d9eb",
+      "id": "6e940d7e-c324-400e-9a75-0d5ff0ed859d",
       "number": 5,
       "content": "phương chi bây giờ nó đã bị lửa thiêu rụi,",
       "order": 1,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.302Z",
-      "updatedAt": "2024-09-23T04:48:53.302Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.314Z",
+      "updatedAt": "2025-04-22T06:56:23.314Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "74a2002d-4f2a-4f6a-aad1-0d6f91abef07",
+      "id": "11bb9ba8-2954-4021-bca6-9d1ce869fc17",
       "number": 5,
       "content": "hỏi nó còn dùng được vào công trình gì nữa ?",
       "order": 2,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.306Z",
-      "updatedAt": "2024-09-23T04:48:53.306Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.327Z",
+      "updatedAt": "2025-04-22T06:56:23.327Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "82d39cc5-8816-48c1-b4fd-73bf3c4e7493",
+      "id": "51ed0053-14e6-470c-b977-42fc492f2382",
       "number": 6,
-      "content": "Vì thế, [ĐỨC CHÚA]() là Chúa Thượng phán như sau :",
+      "content": "Vì thế, ĐỨC CHÚA là Chúa Thượng phán như sau :",
       "order": 0,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.310Z",
-      "updatedAt": "2024-09-23T04:48:53.310Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.341Z",
+      "updatedAt": "2025-04-22T06:56:23.341Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "943729b5-2a54-49ab-8ae0-a3c516ea9e2e",
+      "id": "d375a2a1-419f-4ab9-93b3-276f307a2890",
       "number": 6,
       "content": "Cũng như gỗ cây nho trong đám cây trên rừng",
       "order": 1,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.314Z",
-      "updatedAt": "2024-09-23T04:48:53.314Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.369Z",
+      "updatedAt": "2025-04-22T06:56:23.369Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "39f6986d-b11d-4183-b304-a7fd386fadcf",
+      "id": "9f017145-f116-47e9-b557-95041b36541f",
       "number": 6,
       "content": "đã bị Ta quăng làm mồi cho lửa,",
       "order": 2,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.318Z",
-      "updatedAt": "2024-09-23T04:48:53.318Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.383Z",
+      "updatedAt": "2025-04-22T06:56:23.383Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "e485d710-958f-4fd5-9d2d-aede0952df75",
+      "id": "3f2fdb28-01ab-4194-9ac9-eda7e8b1e164",
       "number": 6,
-      "content": "thì dân cư [Giê-ru-sa-lem]() cũng bị Ta thiêu như thế.",
+      "content": "thì dân cư Giê-ru-sa-lem cũng bị Ta thiêu như thế.",
       "order": 3,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.322Z",
-      "updatedAt": "2024-09-23T04:48:53.322Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.398Z",
+      "updatedAt": "2025-04-22T06:56:23.398Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "8e8043da-d69c-4da9-8f72-d642e49d7aef",
+      "id": "14072bfe-1f03-44b1-bdeb-a0de27da0808",
       "number": 7,
       "content": "Ta sẽ quay mặt lại phạt chúng,",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.326Z",
-      "updatedAt": "2024-09-23T04:48:53.326Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.427Z",
+      "updatedAt": "2025-04-22T06:56:23.427Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "d0523a44-c1ce-49e5-a64d-338253472a7e",
+      "id": "ce9eb285-f719-4120-b35e-9fb80a3d2d1b",
       "number": 7,
       "content": "chúng đã thoát khỏi lửa, nhưng sẽ bị lửa thiêu rụi.",
       "order": 1,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.330Z",
-      "updatedAt": "2024-09-23T04:48:53.330Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.441Z",
+      "updatedAt": "2025-04-22T06:56:23.441Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "19f2b985-7f23-43f8-bdb2-c42a6effcfac",
+      "id": "e492cc70-91c1-4d8d-a339-42aafd164319",
       "number": 7,
-      "content": "Bấy giờ các ngươi sẽ nhận biết chính Ta là [ĐỨC CHÚA]()",
+      "content": "Bấy giờ các ngươi sẽ nhận biết chính Ta là ĐỨC CHÚA",
       "order": 2,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.339Z",
-      "updatedAt": "2024-09-23T04:48:53.339Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.469Z",
+      "updatedAt": "2025-04-22T06:56:23.469Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "497733bf-d01e-4593-bf94-0507f4faf840",
+      "id": "9433d80a-bdc2-4717-8a1e-9a6334845d79",
       "number": 7,
       "content": "khi Ta quay mặt lại phạt chúng.",
       "order": 3,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.343Z",
-      "updatedAt": "2024-09-23T04:48:53.343Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.499Z",
+      "updatedAt": "2025-04-22T06:56:23.499Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "47723f25-ffca-4204-86d2-e4679772c9ca",
+      "id": "787c7b18-854b-492d-9976-c6d371d83268",
       "number": 8,
       "content": "Ta sẽ biến xứ này thành chốn hoang tàn đổ nát",
       "order": 0,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.347Z",
-      "updatedAt": "2024-09-23T04:48:53.347Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.513Z",
+      "updatedAt": "2025-04-22T06:56:23.513Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "6cea19c2-dcd3-4e02-8430-4d3aa3a5f47f",
+      "id": "a4708b5f-84f6-4865-918c-c5176df53c24",
       "number": 8,
       "content": "bởi vì chúng đã thất tín với Ta,",
       "order": 1,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.351Z",
-      "updatedAt": "2024-09-23T04:48:53.351Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.526Z",
+      "updatedAt": "2025-04-22T06:56:23.526Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "4e9dbe99-6948-46fe-a7bd-2f5b3708b6e3",
+      "id": "d925b212-0412-4bac-8784-a8bf8c0ee0f2",
       "number": 8,
-      "content": "sấm ngôn của [ĐỨC CHÚA]() là Chúa Thượng.",
+      "content": "sấm ngôn của ĐỨC CHÚA là Chúa Thượng.",
       "order": 2,
       "parNumber": 22,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:48:53.355Z",
-      "updatedAt": "2024-09-23T04:48:53.355Z",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.540Z",
+      "updatedAt": "2025-04-22T06:56:23.540Z",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     }
   ],
   "footnotes": [
     {
-      "id": "4f425362-75ce-45e3-8186-659b24a1d814",
+      "id": "80ce4779-c2d5-425b-b470-294f222f0b4b",
       "content": "Cây nho từ lâu đã là hình ảnh truyền thống để chỉ Ít-ra-en (Tv 80,9 tt). Ít-ra-en được ví như *cây nho tuyển* đã được Thiên Chúa chọn để sinh hoa quả, tức là tỏ bày cho các dân tộc biết mặc khải của Thiên Chúa hướng đến lúc Đấng Mê-si-a biểu lộ hoàn toàn. Nhưng Ít-ra-en đã không chu toàn sứ mạng lịch sử ấy, tức là không sinh hoa kết quả mà chỉ là cây nho dại. Dụ ngôn làm nổi bật nét ấy và loan báo số phận của Giê-ru-sa-lem : sẽ bị lửa thiêu, tức là bị huỷ diệt hoàn toàn.",
       "position": 15,
       "order": 0,
-      "createdAt": "2024-09-23T04:48:53.271Z",
-      "updatedAt": "2024-09-23T04:48:53.271Z",
-      "headingId": "67db65be-f71d-428b-bc5e-d48e19520bfa",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.147Z",
+      "updatedAt": "2025-04-22T06:56:23.147Z",
+      "headingId": "983861f8-a6be-4a8f-aa08-ced15c018650",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "6c5ff9fd-8288-4675-afca-833b8be48817",
+      "id": "02764ac2-b10e-4444-8bf5-8626d20bc8a9",
       "content": "Hình ảnh chỉ tình trạng hiện thời của Giê-ru-sa-lem. Ít-ra-en đã bị chặt mất Sa-ma-ri năm 720 và Giu-đa năm 597. Chính Giê-ru-sa-lem, *khúc giữa*, cũng chẳng còn nguyên vẹn bởi vì đã bị bao vây và một số dân cư đã bị bắt đi đày (x. Am 4,11 ; Dcr 3,2).",
       "position": 55,
       "order": 1,
-      "createdAt": "2024-09-23T04:48:53.294Z",
-      "updatedAt": "2024-09-23T04:48:53.294Z",
-      "verseId": "aa6b4ede-3bb1-45ea-9d53-9dcb844c6ae4",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.286Z",
+      "updatedAt": "2025-04-22T06:56:23.286Z",
+      "verseId": "c5877df5-fddf-46c6-8a57-44e96aa81d41",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     },
     {
-      "id": "c6ed3ab5-6598-4d23-a0b6-9e1e387fad13",
+      "id": "ac575284-fca7-47e8-9701-9d65fc1873b5",
       "content": "Những người thoát khỏi những trận càn quét (trước năm 587) cứ ngỡ rằng mình yên ổn (x. 11,3.15 ; 33,24), nhưng họ sẽ bị tiêu diệt chứ không thoát khỏi.",
       "position": 50,
       "order": 2,
-      "createdAt": "2024-09-23T04:48:53.335Z",
-      "updatedAt": "2024-09-23T04:48:53.335Z",
-      "verseId": "d0523a44-c1ce-49e5-a64d-338253472a7e",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.455Z",
+      "updatedAt": "2025-04-22T06:56:23.455Z",
+      "verseId": "ce9eb285-f719-4120-b35e-9fb80a3d2d1b",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
+    },
+    {
+      "id": "75f0e475-865c-407c-97d9-4a4c866214d9",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 15,
+      "order": 3,
+      "createdAt": "2025-04-22T06:56:23.159Z",
+      "updatedAt": "2025-04-22T06:56:23.159Z",
+      "verseId": "14eb0732-f4c1-4d79-9a72-4df3ca51c714",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
+    },
+    {
+      "id": "d06a08dc-2682-4d06-80a3-59098c697611",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 16,
+      "order": 3,
+      "createdAt": "2025-04-22T06:56:23.355Z",
+      "updatedAt": "2025-04-22T06:56:23.355Z",
+      "verseId": "51ed0053-14e6-470c-b977-42fc492f2382",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
+    },
+    {
+      "id": "192e9174-ba88-438b-94da-103808d8eb31",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 51,
+      "order": 3,
+      "createdAt": "2025-04-22T06:56:23.484Z",
+      "updatedAt": "2025-04-22T06:56:23.484Z",
+      "verseId": "e492cc70-91c1-4d8d-a339-42aafd164319",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
+    },
+    {
+      "id": "a1876ce1-4776-49a5-9120-62a0b6ffec43",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 21,
+      "order": 3,
+      "createdAt": "2025-04-22T06:56:23.555Z",
+      "updatedAt": "2025-04-22T06:56:23.555Z",
+      "verseId": "d925b212-0412-4bac-8784-a8bf8c0ee0f2",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
+    },
+    {
+      "id": "964a4b3d-5061-4f23-a66e-3df55dffa60c",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 24,
+      "order": 5,
+      "createdAt": "2025-04-22T06:56:23.412Z",
+      "updatedAt": "2025-04-22T06:56:23.412Z",
+      "verseId": "3f2fdb28-01ab-4194-9ac9-eda7e8b1e164",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     }
   ],
   "headings": [
     {
-      "id": "67db65be-f71d-428b-bc5e-d48e19520bfa",
+      "id": "983861f8-a6be-4a8f-aa08-ced15c018650",
       "content": "Dụ ngôn cây nho",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:48:53.269Z",
-      "updatedAt": "2024-09-23T04:48:53.269Z",
-      "verseId": "07aef3cd-79e9-4b05-8cc1-03430fae6183",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.136Z",
+      "updatedAt": "2025-04-22T06:56:23.136Z",
+      "verseId": "14eb0732-f4c1-4d79-9a72-4df3ca51c714",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     }
   ],
   "references": [
     {
-      "id": "7a25e857-99fd-4c46-86a3-94d0d5b8ad37",
+      "id": "40250751-0631-4942-be8f-1d57c8f86955",
       "content": "Ga 15,16",
       "position": 10,
       "order": 0,
-      "createdAt": "2024-09-23T04:48:53.284Z",
-      "updatedAt": "2024-09-23T04:48:53.284Z",
-      "verseId": "a5cbef25-3252-4742-a15b-e3407af780ce",
-      "chapterId": "49a929e9-1b30-416d-af30-703f2295af57"
+      "createdAt": "2025-04-22T06:56:23.250Z",
+      "updatedAt": "2025-04-22T06:56:23.250Z",
+      "verseId": "2cbbf45d-e1f6-47c1-92c0-5ddbe901b7dc",
+      "chapterId": "a1083bdf-29ab-4a8d-8189-c7195b6bc481"
     }
   ],
   "psalmMetadata": []

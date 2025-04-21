@@ -1,371 +1,502 @@
 {
   "chapter": {
-    "id": "29417ca8-ee82-4553-b6eb-3ac427a0ca43",
+    "id": "13941816-9bf9-4523-9991-2b4c517f391b",
     "number": 2,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.334Z",
-    "updatedAt": "2024-09-23T03:08:02.334Z",
-    "bookId": "1c769124-3ec2-4c6b-b242-418c636975a3"
+    "createdAt": "2025-04-22T00:48:30.968Z",
+    "updatedAt": "2025-04-22T00:48:30.968Z",
+    "bookId": "749025ac-4b89-4fc1-bfee-ffbaabcc2f07"
   },
   "verses": [
     {
-      "id": "c5751e45-bfbd-42bf-a8fb-383889481ab1",
+      "id": "ec52685a-12a4-4382-9101-3c42d600a6f1",
       "number": 1,
-      "content": "Vua [Sa-lô-môn]() đã lên danh sách bảy mươi ngàn phu khuân vác, tám mươi ngàn thợ đá trên núi và ba ngàn sáu trăm đốc công.",
+      "content": "Vua Sa-lô-môn đã lên danh sách bảy mươi ngàn phu khuân vác, tám mươi ngàn thợ đá trên núi và ba ngàn sáu trăm đốc công.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.959Z",
-      "updatedAt": "2024-09-23T04:06:36.959Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.027Z",
+      "updatedAt": "2025-04-22T04:27:43.027Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "ac73e45b-0a3c-4a94-bd9a-321d536f2132",
+      "id": "0e25a68d-33b6-4aa9-b0b1-75c3b023b0bb",
       "number": 2,
-      "content": "Vua [Sa-lô-môn]() sai sứ đến nói với [Khi-ram](), vua thành [Tia]() rằng : “[Xin]() ngài cũng giúp tôi, như đã giúp vua [Đa-vít]() thân phụ tôi là gửi gỗ bá hương cho thân phụ tôi xây nhà ở.",
+      "content": "Vua Sa-lô-môn sai sứ đến nói với Khi-ram, vua thành Tia rằng : “Xin ngài cũng giúp tôi, như đã giúp vua Đa-vít thân phụ tôi là gửi gỗ bá hương cho thân phụ tôi xây nhà ở.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.964Z",
-      "updatedAt": "2024-09-23T04:06:36.964Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.061Z",
+      "updatedAt": "2025-04-22T04:27:43.061Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "800ef345-cca8-4ef7-b87e-9c9ee6d918d1",
+      "id": "441104a5-fafd-4463-9c89-76731d073598",
       "number": 3,
-      "content": "Nay tôi cũng sắp xây nhà kính [ĐỨC CHÚA](), Thiên Chúa của tôi, ngôi nhà dành riêng cho Người, để đốt hương thơm trước nhan Người, để có bánh tiến luôn đặt trước mặt Người, để cứ sáng chiều dâng lễ toàn thiêu, và dâng trong các ngày sa-bát, các ngày sóc và các lễ kính [ĐỨC CHÚA](), Thiên Chúa của chúng tôi, như đã quy định cho [Ít-ra-en]() đến muôn đời.",
+      "content": "Nay tôi cũng sắp xây nhà kính ĐỨC CHÚA, Thiên Chúa của tôi, ngôi nhà dành riêng cho Người, để đốt hương thơm trước nhan Người, để có bánh tiến luôn đặt trước mặt Người, để cứ sáng chiều dâng lễ toàn thiêu, và dâng trong các ngày sa-bát, các ngày sóc và các lễ kính ĐỨC CHÚA, Thiên Chúa của chúng tôi, như đã quy định cho Ít-ra-en đến muôn đời.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.968Z",
-      "updatedAt": "2024-09-23T04:06:36.968Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.097Z",
+      "updatedAt": "2025-04-22T04:27:43.097Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "1056e575-7d34-4109-9547-65087446ee46",
+      "id": "e45d1c2a-6057-4493-92ab-3080d27c92c4",
       "number": 4,
       "content": "Và ngôi nhà tôi sắp xây phải thật nguy nga, vì Thiên Chúa của chúng tôi vĩ đại hơn chư thần hết thảy.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.981Z",
-      "updatedAt": "2024-09-23T04:06:36.981Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.174Z",
+      "updatedAt": "2025-04-22T04:27:43.174Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "12c67d6b-c99a-4306-a7ba-d95fbd3868f0",
+      "id": "1a6762a3-056b-45f5-8c39-69dc574085ff",
       "number": 5,
       "content": "Thế nhưng, ai nào xây nổi một ngôi nhà cho Chúa, vì cả chín tầng trời thăm thẳm cũng không chứa nổi Người ? Vậy tôi là ai mà dám xây nhà cho Chúa, dù chỉ là để đốt hương trước nhan Người ?",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.985Z",
-      "updatedAt": "2024-09-23T04:06:36.985Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.188Z",
+      "updatedAt": "2025-04-22T04:27:43.188Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "5a159759-b913-4295-824c-2cad51f13392",
+      "id": "666b9a5a-0ed7-442f-9d7e-cdc56d9b268a",
       "number": 6,
-      "content": "Bây giờ xin ngài gửi cho tôi tay thợ nào thạo nghề vàng, bạc, đồng, sắt, vải điều, vải đỏ son, vải đỏ thẫm, và còn biết chạm trổ những hình nổi. Người đó sẽ làm việc với các thợ lành nghề tôi có sẵn tại [Giê-ru-sa-lem]() và tại [Giu-đa]() do vua [Đa-vít]() thân phụ tôi để lại.",
+      "content": "Bây giờ xin ngài gửi cho tôi tay thợ nào thạo nghề vàng, bạc, đồng, sắt, vải điều, vải đỏ son, vải đỏ thẫm, và còn biết chạm trổ những hình nổi. Người đó sẽ làm việc với các thợ lành nghề tôi có sẵn tại Giê-ru-sa-lem và tại Giu-đa do vua Đa-vít thân phụ tôi để lại.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.993Z",
-      "updatedAt": "2024-09-23T04:06:36.993Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.214Z",
+      "updatedAt": "2025-04-22T04:27:43.214Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "ad74096e-739b-4638-ad0f-0099a42926bf",
+      "id": "3f390499-d9c3-470a-a83d-58472be8a08a",
       "number": 7,
-      "content": "[Xin]() gửi cho tôi gỗ bá hương, gỗ trắc và gỗ đàn hương vùng [Li-băng](), vì tôi biết bề tôi của ngài quen đốn gỗ [Li-băng](). Tôi tớ của tôi sẽ cộng tác với bề tôi của ngài,",
+      "content": "Xin gửi cho tôi gỗ bá hương, gỗ trắc và gỗ đàn hương vùng Li-băng, vì tôi biết bề tôi của ngài quen đốn gỗ Li-băng. Tôi tớ của tôi sẽ cộng tác với bề tôi của ngài,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:36.997Z",
-      "updatedAt": "2024-09-23T04:06:36.997Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.246Z",
+      "updatedAt": "2025-04-22T04:27:43.246Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "841caf2d-313f-4b82-bcf5-7f2251aa360c",
+      "id": "806309d2-df4c-49e7-abee-b52082feede4",
       "number": 8,
       "content": "để chuẩn bị cho tôi thật nhiều gỗ, vì ngôi nhà tôi sắp xây sẽ nguy nga kỳ diệu.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.006Z",
-      "updatedAt": "2024-09-23T04:06:37.006Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.289Z",
+      "updatedAt": "2025-04-22T04:27:43.289Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "d532b96f-c33d-428e-8d59-f59c0b544433",
+      "id": "1c644d96-1d13-427f-9dd0-fc1004ff53e5",
       "number": 9,
       "content": "Và đây, tôi sẽ cung cấp cho thợ đốn gỗ bốn trăm ngàn thùng lúa mì, bốn trăm ngàn thùng lúa mạch, bốn mươi ngàn thùng rượu nho, bốn mươi ngàn thùng dầu. Đó là lương thực cho bề tôi của ngài.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.010Z",
-      "updatedAt": "2024-09-23T04:06:37.010Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.299Z",
+      "updatedAt": "2025-04-22T04:27:43.299Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "8690e202-d390-4171-98a7-0dd6ab6c8c83",
+      "id": "65fec4c4-e871-4089-8a1f-0e533457b01e",
       "number": 10,
-      "content": "[Khi-ram](), vua thành [Tia](), viết và gửi đến vua [Sa-lô-môn]() lá thư phúc đáp như sau : “Vì [ĐỨC CHÚA]() thương dân Người, nên Người mới đặt ngài làm vua cai trị họ.”",
+      "content": "Khi-ram, vua thành Tia, viết và gửi đến vua Sa-lô-môn lá thư phúc đáp như sau : “Vì ĐỨC CHÚA thương dân Người, nên Người mới đặt ngài làm vua cai trị họ.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.018Z",
-      "updatedAt": "2024-09-23T04:06:37.018Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.319Z",
+      "updatedAt": "2025-04-22T04:27:43.319Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "e9822f96-c099-4f1f-8f11-88ed83a44de9",
+      "id": "1ec8e257-20e3-4114-a9f2-b96e0e104bf9",
       "number": 11,
-      "content": "Và vua [Khi-ram]() nói : “Chúc tụng [ĐỨC CHÚA](), Thiên Chúa [Ít-ra-en](), Đấng tạo thành trời đất, Đấng đã ban cho vua [Đa-vít]() một người con khôn ngoan, sáng suốt, thành thạo và hiểu rộng biết nhiều để xây nhà kính [ĐỨC CHÚA]() và xây cung điện cho mình.",
+      "content": "Và vua Khi-ram nói : “Chúc tụng ĐỨC CHÚA, Thiên Chúa Ít-ra-en, Đấng tạo thành trời đất, Đấng đã ban cho vua Đa-vít một người con khôn ngoan, sáng suốt, thành thạo và hiểu rộng biết nhiều để xây nhà kính ĐỨC CHÚA và xây cung điện cho mình.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.022Z",
-      "updatedAt": "2024-09-23T04:06:37.022Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.340Z",
+      "updatedAt": "2025-04-22T04:27:43.340Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "55bb2b58-714c-4b2c-b85c-3dc846579ca7",
+      "id": "80df3625-84b3-4d6b-a216-779478230b0a",
       "number": 12,
-      "content": "Vậy, bây giờ tôi sẽ gửi đến cho ngài một người khôn ngoan, hiểu rộng và sáng suốt là [Khi-ram A-vi]().",
+      "content": "Vậy, bây giờ tôi sẽ gửi đến cho ngài một người khôn ngoan, hiểu rộng và sáng suốt là Khi-ram A-vi.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.027Z",
-      "updatedAt": "2024-09-23T04:06:37.027Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.380Z",
+      "updatedAt": "2025-04-22T04:27:43.380Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "172c1481-aba9-4359-b2fe-88ffe83501d6",
+      "id": "afbefdc3-9516-4161-8374-e04c89768afb",
       "number": 13,
-      "content": "Mẹ của anh ta là một người phụ nữ họ [Đan](), còn cha là người thành [Tia](). Anh ta biết làm các đồ vàng, bạc, đồng, sắt, đá, gỗ, vải điều, vải đỏ thẫm, trúc bâu, vải đỏ son. Anh còn biết chạm trổ mọi thứ hình nổi và sáng tạo bất cứ tác phẩm mỹ nghệ nào người ta đặt. Anh sẽ làm việc cùng với các nghệ nhân của ngài và các nghệ nhân của chúa thượng tôi là [Đa-vít]() thân phụ ngài.",
+      "content": "Mẹ của anh ta là một người phụ nữ họ Đan, còn cha là người thành Tia. Anh ta biết làm các đồ vàng, bạc, đồng, sắt, đá, gỗ, vải điều, vải đỏ thẫm, trúc bâu, vải đỏ son. Anh còn biết chạm trổ mọi thứ hình nổi và sáng tạo bất cứ tác phẩm mỹ nghệ nào người ta đặt. Anh sẽ làm việc cùng với các nghệ nhân của ngài và các nghệ nhân của chúa thượng tôi là Đa-vít thân phụ ngài.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.036Z",
-      "updatedAt": "2024-09-23T04:06:37.036Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.414Z",
+      "updatedAt": "2025-04-22T04:27:43.414Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "3da2b00e-2141-498f-9802-bd1a44dd6369",
+      "id": "bf148de8-14b7-4114-9955-961559b1db84",
       "number": 14,
       "content": "Giờ đây, lúa mì, lúa mạch, dầu, rượu mà ngài đã hứa, thì xin cứ gửi cho các tôi tớ của ngài.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.050Z",
-      "updatedAt": "2024-09-23T04:06:37.050Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.458Z",
+      "updatedAt": "2025-04-22T04:27:43.458Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "e4af2a8b-4efe-4560-862c-d5cb2ed64ee2",
+      "id": "cbd2dfe7-d28d-465a-b958-43e74f855462",
       "number": 15,
-      "content": "Chúng tôi sẽ đốn gỗ [Li-băng]() theo nhu cầu của ngài, và sẽ đóng bè đem đến [Gia-phô]() cho ngài theo đường biển, rồi ngài sẽ liệu chuyên chở lên [Giê-ru-sa-lem]().”",
+      "content": "Chúng tôi sẽ đốn gỗ Li-băng theo nhu cầu của ngài, và sẽ đóng bè đem đến Gia-phô cho ngài theo đường biển, rồi ngài sẽ liệu chuyên chở lên Giê-ru-sa-lem.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.054Z",
-      "updatedAt": "2024-09-23T04:06:37.054Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.468Z",
+      "updatedAt": "2025-04-22T04:27:43.468Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "404ba72e-ef65-4593-b003-e9f7d1cfe4dd",
+      "id": "074151cc-93e6-41e4-b0a7-076faf70f383",
       "number": 16,
-      "content": "Vua [Sa-lô-môn]() làm sổ thống kê các ngoại kiều cư ngụ trên đất [Ít-ra-en](), theo thống kê phụ vương [Đa-vít]() đã làm, tất cả được một trăm năm mươi ba ngàn sáu trăm người.",
+      "content": "Vua Sa-lô-môn làm sổ thống kê các ngoại kiều cư ngụ trên đất Ít-ra-en, theo thống kê phụ vương Đa-vít đã làm, tất cả được một trăm năm mươi ba ngàn sáu trăm người.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.063Z",
-      "updatedAt": "2024-09-23T04:06:37.063Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.513Z",
+      "updatedAt": "2025-04-22T04:27:43.513Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "379e321a-9ea1-4596-8189-b38f02af3fdb",
+      "id": "3911ad0c-4c04-4ce8-bbca-817982d95aa9",
       "number": 17,
       "content": "Trong số này, vua đặt bảy mươi ngàn làm phu khuân vác, tám mươi ngàn làm thợ đá trên núi và ba ngàn sáu trăm làm đốc công để điều động dân chúng làm việc.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:37.079Z",
-      "updatedAt": "2024-09-23T04:06:37.079Z",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.579Z",
+      "updatedAt": "2025-04-22T04:27:43.579Z",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     }
   ],
   "footnotes": [
     {
-      "id": "c589c39c-0e61-4306-86f5-ab1265a8ab32",
+      "id": "e6e6292d-ad19-40c1-8638-f0cb8a2808f6",
       "content": "Các thuật ngữ diễn tả phụng vụ Nhà Tạm xưa rút từ các bản văn tư tế của Ngũ Thư. – Từ *bánh tiến* trong HR được áp dụng cho những của dâng cúng được xếp lại kỹ càng, nhất là bánh tẩm hương, như Lê-vi 24,5-8 quy định.",
-      "position": 268,
+      "position": 264,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:36.970Z",
-      "updatedAt": "2024-09-23T04:06:36.970Z",
-      "verseId": "800ef345-cca8-4ef7-b87e-9c9ee6d918d1",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.120Z",
+      "updatedAt": "2025-04-22T04:27:43.120Z",
+      "verseId": "441104a5-fafd-4463-9c89-76731d073598",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "d5875477-ed26-4d50-96e1-4ad42d7d842c",
+      "id": "a173fea7-f53b-4d65-a99a-fa402420fcbf",
       "content": "*Gỗ đàn hương* này theo 1 V 10,11 và 2 Sb 9,10 được đưa về, không phải từ Li-băng, mà từ Ô-phia.",
-      "position": 56,
+      "position": 52,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:37.002Z",
-      "updatedAt": "2024-09-23T04:06:37.002Z",
-      "verseId": "ad74096e-739b-4638-ad0f-0099a42926bf",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.259Z",
+      "updatedAt": "2025-04-22T04:27:43.259Z",
+      "verseId": "3f390499-d9c3-470a-a83d-58472be8a08a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "daa7dfd5-ec7f-4163-a853-0a2f5c2b2c38",
+      "id": "138f397e-ad02-46cc-820c-e59b774af479",
       "content": "*Lương thực* lấy ở 1 V 5,25 và theo các bản dịch cổ thời ; HR ở đây viết *những cú đánh*, không có nghĩa gì.",
       "position": 168,
       "order": 2,
-      "createdAt": "2024-09-23T04:06:37.014Z",
-      "updatedAt": "2024-09-23T04:06:37.014Z",
-      "verseId": "d532b96f-c33d-428e-8d59-f59c0b544433",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.309Z",
+      "updatedAt": "2025-04-22T04:27:43.309Z",
+      "verseId": "1c644d96-1d13-427f-9dd0-fc1004ff53e5",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "e91b8b35-cb4f-4356-b20b-a8b75e5c48d5",
+      "id": "e138ea24-2df0-47b7-ba3c-3b3658c1ef0d",
       "content": "Theo 1 V 7,14 thì bà này thuộc họ Náp-ta-li. Tài nghệ của anh thợ được mô tả theo tiêu chuẩn đặt ra ở Xh 31,2-5 ; 35,30 ; 36,1.",
-      "position": 44,
+      "position": 40,
       "order": 3,
-      "createdAt": "2024-09-23T04:06:37.041Z",
-      "updatedAt": "2024-09-23T04:06:37.041Z",
-      "verseId": "172c1481-aba9-4359-b2fe-88ffe83501d6",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.425Z",
+      "updatedAt": "2025-04-22T04:27:43.425Z",
+      "verseId": "afbefdc3-9516-4161-8374-e04c89768afb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "c586b41d-d942-481d-bb1e-e534587a083b",
+      "id": "8e62d13b-ff76-4747-a247-67378bd985a3",
       "content": "So với sách các Vua, tác giả Sb rút ngắn trình thuật và thay đổi một số chi tiết cũng như con số liên quan đến việc xây cất đền thờ. Ông quan tâm đến chính phụng tự hơn là đến cơ sở vật chất. Hơn nữa đền thờ mà ông biết, được xây sau thời lưu đày, đâu có huy hoàng bằng đền thờ vua Sa-lô-môn xưa.",
       "position": 19,
       "order": 4,
-      "createdAt": "2024-09-23T04:06:37.071Z",
-      "updatedAt": "2024-09-23T04:06:37.071Z",
-      "headingId": "edf4bb52-5745-472f-a77b-17ac6db9abd9",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.540Z",
+      "updatedAt": "2025-04-22T04:27:43.540Z",
+      "headingId": "d6994ab7-ed3b-402d-b2df-61e2d1e5f4bb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "4c0e9ce5-7a91-45ec-abb0-993ee22d01d3",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 110,
+      "order": 13,
+      "createdAt": "2025-04-22T04:27:43.074Z",
+      "updatedAt": "2025-04-22T04:27:43.074Z",
+      "verseId": "0e25a68d-33b6-4aa9-b0b1-75c3b023b0bb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "62c9fc61-4b18-4444-bf07-d72cfc93544f",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 244,
+      "order": 13,
+      "createdAt": "2025-04-22T04:27:43.236Z",
+      "updatedAt": "2025-04-22T04:27:43.236Z",
+      "verseId": "666b9a5a-0ed7-442f-9d7e-cdc56d9b268a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "f90faced-6a81-4346-8d9c-8a84d51f31fa",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 114,
+      "order": 13,
+      "createdAt": "2025-04-22T04:27:43.360Z",
+      "updatedAt": "2025-04-22T04:27:43.360Z",
+      "verseId": "1ec8e257-20e3-4114-a9f2-b96e0e104bf9",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "0637469e-0b71-47c6-9976-ef14a195a139",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 355,
+      "order": 13,
+      "createdAt": "2025-04-22T04:27:43.435Z",
+      "updatedAt": "2025-04-22T04:27:43.435Z",
+      "verseId": "afbefdc3-9516-4161-8374-e04c89768afb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "9b282639-934a-4926-ad95-b8a55b24c4c5",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 101,
+      "order": 13,
+      "createdAt": "2025-04-22T04:27:43.556Z",
+      "updatedAt": "2025-04-22T04:27:43.556Z",
+      "verseId": "074151cc-93e6-41e4-b0a7-076faf70f383",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "8b3ebabf-4722-4132-8ec8-6e227f4423a6",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 273,
+      "order": 15,
+      "createdAt": "2025-04-22T04:27:43.108Z",
+      "updatedAt": "2025-04-22T04:27:43.108Z",
+      "verseId": "441104a5-fafd-4463-9c89-76731d073598",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "16d430ef-88e5-42aa-9705-1573927b42ad",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 92,
+      "order": 15,
+      "createdAt": "2025-04-22T04:27:43.330Z",
+      "updatedAt": "2025-04-22T04:27:43.330Z",
+      "verseId": "65fec4c4-e871-4089-8a1f-0e533457b01e",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "848aa980-c6cd-4ac5-aca1-62b025c817ba",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 211,
+      "order": 15,
+      "createdAt": "2025-04-22T04:27:43.350Z",
+      "updatedAt": "2025-04-22T04:27:43.350Z",
+      "verseId": "1ec8e257-20e3-4114-a9f2-b96e0e104bf9",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "7e36d2aa-b710-4a83-ace0-1029ce8e4d30",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 216,
+      "order": 19,
+      "createdAt": "2025-04-22T04:27:43.226Z",
+      "updatedAt": "2025-04-22T04:27:43.226Z",
+      "verseId": "666b9a5a-0ed7-442f-9d7e-cdc56d9b268a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "f7528ac3-412e-4d2b-af7c-645981991cc0",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 152,
+      "order": 19,
+      "createdAt": "2025-04-22T04:27:43.490Z",
+      "updatedAt": "2025-04-22T04:27:43.490Z",
+      "verseId": "cbd2dfe7-d28d-465a-b958-43e74f855462",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "5d438b89-856f-467b-8117-7b5b1c15bb43",
+      "content": "English: Libanon - French: Liban - Latin: Libanus - Origin: &#1500;&#1468;&#1456;&#1489;&#1464;&#1504;&#64331;&#1503; - Vietnamese: Li-băng Gs 9,1 ; Tl 3,3",
+      "position": 114,
+      "order": 23,
+      "createdAt": "2025-04-22T04:27:43.269Z",
+      "updatedAt": "2025-04-22T04:27:43.269Z",
+      "verseId": "3f390499-d9c3-470a-a83d-58472be8a08a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "f83ee04e-e371-4463-affc-4ced2e00d31a",
+      "content": "English: Libanon - French: Liban - Latin: Libanus - Origin: &#1500;&#1468;&#1456;&#1489;&#1464;&#1504;&#64331;&#1503; - Vietnamese: Li-băng Gs 9,1 ; Tl 3,3",
+      "position": 27,
+      "order": 23,
+      "createdAt": "2025-04-22T04:27:43.479Z",
+      "updatedAt": "2025-04-22T04:27:43.479Z",
+      "verseId": "cbd2dfe7-d28d-465a-b958-43e74f855462",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
+    },
+    {
+      "id": "225ed710-b75c-421e-93ce-b35dee33ef15",
+      "content": "English: Huram-Abi - French: Hiram-Abi - Latin: Hiram - Origin: &#1495;&#64309;&#1512;&#1464;&#1501; &#1488;&#1464;&#1489;&#1460;&#1497; - Vietnamese: Khi-ram A-vi 2 Sb 2,12 ; 4,16",
+      "position": 97,
+      "order": 25,
+      "createdAt": "2025-04-22T04:27:43.390Z",
+      "updatedAt": "2025-04-22T04:27:43.390Z",
+      "verseId": "80df3625-84b3-4d6b-a216-779478230b0a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     }
   ],
   "headings": [
     {
-      "id": "edf4bb52-5745-472f-a77b-17ac6db9abd9",
+      "id": "d6994ab7-ed3b-402d-b2df-61e2d1e5f4bb",
       "content": "Tiến hành công việc",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:37.067Z",
-      "updatedAt": "2024-09-23T04:06:37.067Z",
-      "verseId": "404ba72e-ef65-4593-b003-e9f7d1cfe4dd",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.526Z",
+      "updatedAt": "2025-04-22T04:27:43.526Z",
+      "verseId": "074151cc-93e6-41e4-b0a7-076faf70f383",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     }
   ],
   "references": [
     {
-      "id": "91cb6685-e51a-4cc5-b9ee-e6c48e951dc5",
+      "id": "b9152f87-84f9-4653-b424-68e0a55b9579",
       "content": "2 Sb 2,17; 1 V 5,29-30",
-      "position": 35,
+      "position": 31,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:36.962Z",
-      "updatedAt": "2024-09-23T04:06:36.962Z",
-      "verseId": "c5751e45-bfbd-42bf-a8fb-383889481ab1",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.048Z",
+      "updatedAt": "2025-04-22T04:27:43.048Z",
+      "verseId": "ec52685a-12a4-4382-9101-3c42d600a6f1",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "957014bf-6292-4c4a-8841-9f50194722f6",
+      "id": "9b5dd1be-8b31-4994-bfac-549de159d5ff",
       "content": "1 V 5,15-20; 1 Sb 14,1",
-      "position": 37,
+      "position": 33,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:36.966Z",
-      "updatedAt": "2024-09-23T04:06:36.966Z",
-      "verseId": "ac73e45b-0a3c-4a94-bd9a-321d536f2132",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.086Z",
+      "updatedAt": "2025-04-22T04:27:43.086Z",
+      "verseId": "0e25a68d-33b6-4aa9-b0b1-75c3b023b0bb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "17f462a7-bcf6-4884-b0a0-633bec1d8f46",
+      "id": "88743b45-c617-4c1a-83b2-f964c8893f47",
       "content": "Lv 24,6; Ds 17,5",
-      "position": 98,
+      "position": 94,
       "order": 2,
-      "createdAt": "2024-09-23T04:06:36.973Z",
-      "updatedAt": "2024-09-23T04:06:36.973Z",
-      "verseId": "800ef345-cca8-4ef7-b87e-9c9ee6d918d1",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.146Z",
+      "updatedAt": "2025-04-22T04:27:43.146Z",
+      "verseId": "441104a5-fafd-4463-9c89-76731d073598",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "871c46c1-b6d9-4a2d-aade-4c66dacc088b",
+      "id": "c0ec2cf1-e541-4e38-8325-cf9ca3f9493a",
       "content": "Ds 28–29",
-      "position": 190,
+      "position": 186,
       "order": 3,
-      "createdAt": "2024-09-23T04:06:36.977Z",
-      "updatedAt": "2024-09-23T04:06:36.977Z",
-      "verseId": "800ef345-cca8-4ef7-b87e-9c9ee6d918d1",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.159Z",
+      "updatedAt": "2025-04-22T04:27:43.159Z",
+      "verseId": "441104a5-fafd-4463-9c89-76731d073598",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "682ed8ff-96ad-4e20-a613-d4a3af9f6cde",
+      "id": "fbe18bdc-9688-4d7d-9d23-b5d73550c2e6",
       "content": "2 Sb 6,18",
       "position": 55,
       "order": 4,
-      "createdAt": "2024-09-23T04:06:36.989Z",
-      "updatedAt": "2024-09-23T04:06:36.989Z",
-      "verseId": "12c67d6b-c99a-4306-a7ba-d95fbd3868f0",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.201Z",
+      "updatedAt": "2025-04-22T04:27:43.201Z",
+      "verseId": "1a6762a3-056b-45f5-8c39-69dc574085ff",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "f507b9e3-8bfc-4764-922a-1246b15ea160",
+      "id": "c62c10fd-27e6-4eb4-ad31-1d06a5fb8e49",
       "content": "1 V 7,14",
       "position": 47,
       "order": 5,
-      "createdAt": "2024-09-23T04:06:37.031Z",
-      "updatedAt": "2024-09-23T04:06:37.031Z",
-      "verseId": "55bb2b58-714c-4b2c-b85c-3dc846579ca7",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.404Z",
+      "updatedAt": "2025-04-22T04:27:43.404Z",
+      "verseId": "80df3625-84b3-4d6b-a216-779478230b0a",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "3061aa5c-ab32-4394-99d2-2987dd143d5a",
+      "id": "9af4ab73-056a-47d2-b9e3-5be1281bcf50",
       "content": "Xh 31,2tt",
-      "position": 85,
+      "position": 77,
       "order": 6,
-      "createdAt": "2024-09-23T04:06:37.045Z",
-      "updatedAt": "2024-09-23T04:06:37.045Z",
-      "verseId": "172c1481-aba9-4359-b2fe-88ffe83501d6",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.448Z",
+      "updatedAt": "2025-04-22T04:27:43.448Z",
+      "verseId": "afbefdc3-9516-4161-8374-e04c89768afb",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "77a1be59-aaeb-4dc3-a4df-4f78181ebdc5",
+      "id": "fa53cfcd-0529-4882-a45a-8f469fd10333",
       "content": "1 V 5,22-26",
       "position": 17,
       "order": 7,
-      "createdAt": "2024-09-23T04:06:37.059Z",
-      "updatedAt": "2024-09-23T04:06:37.059Z",
-      "verseId": "e4af2a8b-4efe-4560-862c-d5cb2ed64ee2",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.501Z",
+      "updatedAt": "2025-04-22T04:27:43.501Z",
+      "verseId": "cbd2dfe7-d28d-465a-b958-43e74f855462",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     },
     {
-      "id": "fb027a23-a2a2-4f57-90e0-ebf60b4dc973",
+      "id": "1fdc49ac-293e-4127-a39f-50957efc31b2",
       "content": "1 Sb 22,2",
-      "position": 38,
+      "position": 34,
       "order": 8,
-      "createdAt": "2024-09-23T04:06:37.075Z",
-      "updatedAt": "2024-09-23T04:06:37.075Z",
-      "verseId": "404ba72e-ef65-4593-b003-e9f7d1cfe4dd",
-      "chapterId": "29417ca8-ee82-4553-b6eb-3ac427a0ca43"
+      "createdAt": "2025-04-22T04:27:43.568Z",
+      "updatedAt": "2025-04-22T04:27:43.568Z",
+      "verseId": "074151cc-93e6-41e4-b0a7-076faf70f383",
+      "chapterId": "13941816-9bf9-4523-9991-2b4c517f391b"
     }
   ],
   "psalmMetadata": []

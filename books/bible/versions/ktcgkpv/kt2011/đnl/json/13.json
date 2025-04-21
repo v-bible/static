@@ -1,395 +1,476 @@
 {
   "chapter": {
-    "id": "8ee079d8-973c-4f96-8225-b496ac25c4d7",
+    "id": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d",
     "number": 13,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.193Z",
-    "updatedAt": "2024-09-23T03:08:02.193Z",
-    "bookId": "65497299-ffc2-4eb4-979b-5bef623bfc86"
+    "createdAt": "2025-04-22T00:48:30.856Z",
+    "updatedAt": "2025-04-22T00:48:30.856Z",
+    "bookId": "1f487fdb-4a40-462a-9ac0-68affb163621"
   },
   "verses": [
     {
-      "id": "47fc4fd8-06de-4503-8c29-6c796a9c2054",
+      "id": "0c9e45b9-2276-456d-b42d-d0dca05f8f04",
       "number": 1,
       "content": "Tất cả điều tôi truyền cho anh em, anh em hãy lo đem ra thực hành ; anh (em) đừng thêm gì vào đó cũng đừng bớt gì.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.822Z",
-      "updatedAt": "2024-09-23T03:47:43.822Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.812Z",
+      "updatedAt": "2025-04-22T03:16:39.812Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "298fb2d4-2425-43ad-ad17-45a940166ae8",
+      "id": "8cd1a4ad-b9c5-4c42-a917-1df693abc74f",
       "number": 2,
       "content": "Nếu ở giữa anh (em) xuất hiện một ngôn sứ hay một kẻ chuyên nghề chiêm bao và nó báo trước cho anh (em) một dấu lạ hay một điềm thiêng,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.834Z",
-      "updatedAt": "2024-09-23T03:47:43.834Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.847Z",
+      "updatedAt": "2025-04-22T03:16:39.847Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "2fdfbe37-e206-4324-b733-347bfa3d3de5",
+      "id": "54775bb3-efd2-4580-af31-d1d59e9423b2",
       "number": 3,
       "content": "nếu dấu lạ hay điềm thiêng nó đã nói xảy ra, và nó bảo : “Chúng ta hãy theo và phụng thờ các thần khác”, những thần mà anh (em) không biết,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.845Z",
-      "updatedAt": "2024-09-23T03:47:43.845Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.913Z",
+      "updatedAt": "2025-04-22T03:16:39.913Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "de460fc1-c9d2-4310-b692-5b37bc83c481",
+      "id": "e7411723-fe11-496d-81dd-18ef7e1eaa56",
       "number": 4,
-      "content": "thì anh (em) đừng nghe những lời của ngôn sứ hay kẻ chuyên nghề chiêm bao ấy, vì [ĐỨC CHÚA](), Thiên Chúa của anh (em), thử thách anh em cho biết anh em có yêu mến [ĐỨC CHÚA](), Thiên Chúa của anh em, hết lòng hết dạ không.",
+      "content": "thì anh (em) đừng nghe những lời của ngôn sứ hay kẻ chuyên nghề chiêm bao ấy, vì ĐỨC CHÚA, Thiên Chúa của anh (em), thử thách anh em cho biết anh em có yêu mến ĐỨC CHÚA, Thiên Chúa của anh em, hết lòng hết dạ không.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.849Z",
-      "updatedAt": "2024-09-23T03:47:43.849Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.927Z",
+      "updatedAt": "2025-04-22T03:16:39.927Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "561bda25-f683-4d23-a511-42659df861dd",
+      "id": "36169f84-dbf4-4c06-bf51-ac7d1815b5ad",
       "number": 5,
-      "content": "Chính [ĐỨC CHÚA](), Thiên Chúa của anh em, là Đấng anh em phải theo ; chính Người là Đấng anh em phải kính sợ ; anh em phải giữ các mệnh lệnh của Người, phải nghe tiếng Người ; chính Người là Đấng anh em phải phụng thờ ; anh em phải gắn bó với Người.",
+      "content": "Chính ĐỨC CHÚA, Thiên Chúa của anh em, là Đấng anh em phải theo ; chính Người là Đấng anh em phải kính sợ ; anh em phải giữ các mệnh lệnh của Người, phải nghe tiếng Người ; chính Người là Đấng anh em phải phụng thờ ; anh em phải gắn bó với Người.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.862Z",
-      "updatedAt": "2024-09-23T03:47:43.862Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.993Z",
+      "updatedAt": "2025-04-22T03:16:39.993Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "37fff039-af9e-42c5-b39d-72e814c33d85",
+      "id": "2fa3b1ef-0098-49ec-9c04-77ec1be7b902",
       "number": 6,
-      "content": "Ngôn sứ hay kẻ chuyên nghề chiêm bao ấy sẽ bị xử tử, vì nó đã hô hào nổi loạn chống [ĐỨC CHÚA](), Thiên Chúa của anh em, Đấng đã đưa anh em ra khỏi đất [Ai-cập]() và đã chuộc anh (em) khỏi cảnh nô lệ, và vì nó đã muốn lôi cuốn anh (em) ra khỏi con đường [ĐỨC CHÚA]() đã truyền cho anh (em) phải đi. Anh (em) phải khử trừ sự gian ác không cho tồn tại giữa anh (em).",
+      "content": "Ngôn sứ hay kẻ chuyên nghề chiêm bao ấy sẽ bị xử tử, vì nó đã hô hào nổi loạn chống ĐỨC CHÚA, Thiên Chúa của anh em, Đấng đã đưa anh em ra khỏi đất Ai-cập và đã chuộc anh (em) khỏi cảnh nô lệ, và vì nó đã muốn lôi cuốn anh (em) ra khỏi con đường ĐỨC CHÚA đã truyền cho anh (em) phải đi. Anh (em) phải khử trừ sự gian ác không cho tồn tại giữa anh (em).",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.871Z",
-      "updatedAt": "2024-09-23T03:47:43.871Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.035Z",
+      "updatedAt": "2025-04-22T03:16:40.035Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "d9b81363-9ef1-41c1-9051-dda6a95eccc9",
+      "id": "b9acc399-c9ca-49a4-8c3c-216ae681d736",
       "number": 7,
       "content": "Nếu người anh em của anh (em), con của mẹ anh (em), hoặc con trai con gái anh (em), hoặc người vợ anh (em) âu yếm, hoặc người bạn anh (em) coi như chính mình, lén lút rủ rê anh (em) : “Chúng ta hãy đi phụng thờ các thần khác”, những thần mà anh (em) và cha ông anh (em) không biết,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.880Z",
-      "updatedAt": "2024-09-23T03:47:43.880Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.090Z",
+      "updatedAt": "2025-04-22T03:16:40.090Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "22913198-ebec-49f8-a362-d21601a2a54a",
+      "id": "ac96099d-90aa-4220-a1d2-d0eed6f7932d",
       "number": 8,
       "content": "trong số các thần của những dân ở chung quanh, gần hay xa anh (em), từ đầu đến cuối xứ,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.888Z",
-      "updatedAt": "2024-09-23T03:47:43.888Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.117Z",
+      "updatedAt": "2025-04-22T03:16:40.117Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "153f5610-8177-4c8c-836d-20ff704ac22c",
+      "id": "401ea33b-9e77-43b7-a5c9-767e7a1afd8a",
       "number": 9,
       "content": "thì anh (em) đừng ưng thuận, đừng nghe nó, đừng nhìn nó mà thương hại, đừng xót thương, đừng bao che nó ;",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.893Z",
-      "updatedAt": "2024-09-23T03:47:43.893Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.127Z",
+      "updatedAt": "2025-04-22T03:16:40.127Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "4099e3d4-bfc7-499a-87b0-6d61031a2631",
+      "id": "5e4681f6-4ac1-4226-b8b4-1ce3b6404abe",
       "number": 10,
       "content": "trái lại, nhất định anh (em) phải giết nó. Anh (em) phải là người đầu tiên tra tay giết nó, rồi toàn dân tiếp tay sau.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.897Z",
-      "updatedAt": "2024-09-23T03:47:43.897Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.138Z",
+      "updatedAt": "2025-04-22T03:16:40.138Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "9fb7c222-80be-422f-bc4f-91eb082f71cd",
+      "id": "badff7ce-a4f7-4445-a154-45f0bba1b957",
       "number": 11,
-      "content": "Anh (em) phải ném đá cho nó chết, và nó phải chết vì đã tìm cách lôi cuốn anh (em) xa [ĐỨC CHÚA](), Thiên Chúa của anh (em), Đấng đã đưa anh (em) ra khỏi đất [Ai-cập](), khỏi cảnh nô lệ.",
+      "content": "Anh (em) phải ném đá cho nó chết, và nó phải chết vì đã tìm cách lôi cuốn anh (em) xa ĐỨC CHÚA, Thiên Chúa của anh (em), Đấng đã đưa anh (em) ra khỏi đất Ai-cập, khỏi cảnh nô lệ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.901Z",
-      "updatedAt": "2024-09-23T03:47:43.901Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.149Z",
+      "updatedAt": "2025-04-22T03:16:40.149Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "e7a70306-4fe8-4b49-bf5f-b66c11871c46",
+      "id": "52e8363c-2c2a-4e60-abf3-dfe7bd3e84e8",
       "number": 12,
-      "content": "Nghe nói thế, toàn thể [Ít-ra-en]() sẽ sợ và không còn làm điều xấu như vậy giữa anh (em).",
+      "content": "Nghe nói thế, toàn thể Ít-ra-en sẽ sợ và không còn làm điều xấu như vậy giữa anh (em).",
       "order": 0,
       "parNumber": 2,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.911Z",
-      "updatedAt": "2024-09-23T03:47:43.911Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.183Z",
+      "updatedAt": "2025-04-22T03:16:40.183Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "78ab14b7-889f-4127-8171-270c58adb31d",
+      "id": "b3e74659-a7a7-43f6-86da-417fe016f659",
       "number": 13,
-      "content": "Nếu tại một trong những thành mà [ĐỨC CHÚA](), Thiên Chúa của anh (em), ban cho anh (em) để ở, anh (em) nghe nói rằng",
+      "content": "Nếu tại một trong những thành mà ĐỨC CHÚA, Thiên Chúa của anh (em), ban cho anh (em) để ở, anh (em) nghe nói rằng",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.915Z",
-      "updatedAt": "2024-09-23T03:47:43.915Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.195Z",
+      "updatedAt": "2025-04-22T03:16:40.195Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "843aab9f-6f13-4a2e-af14-cb483b03a796",
+      "id": "6d72d996-30cb-42fb-8b0a-0b7d8967629c",
       "number": 14,
       "content": "có những tên vô lại phát xuất từ giữa anh (em) và lôi cuốn dân thành chúng mà rằng : “Chúng ta hãy đi phụng thờ các thần khác”, những thần mà anh (em) không biết,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.919Z",
-      "updatedAt": "2024-09-23T03:47:43.919Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.219Z",
+      "updatedAt": "2025-04-22T03:16:40.219Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "7cf7c00e-587c-4dbd-ad4d-2b65fe9b6b73",
+      "id": "53efba84-306d-4f5f-9742-7d9b5ccb6fd0",
       "number": 15,
       "content": "thì anh (em) sẽ điều tra, dò xét, sẽ hỏi han kỹ lưỡng, và nếu thật sự và chắc chắn là người ta đã làm điều ghê tởm đó giữa anh (em),",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.927Z",
-      "updatedAt": "2024-09-23T03:47:43.927Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.244Z",
+      "updatedAt": "2025-04-22T03:16:40.244Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "05baf8fb-de41-40c5-be74-f0e535d43ac8",
+      "id": "45c15f59-ddf1-4a7b-ab49-18e9e8ddd2ee",
       "number": 16,
       "content": "thì anh (em) phải dùng lưỡi gươm giết dân thành ấy, phải tru hiến thành ấy với tất cả những gì trong đó ; cả súc vật ở đó cũng phải dùng lưỡi gươm mà giết.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.932Z",
-      "updatedAt": "2024-09-23T03:47:43.932Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.256Z",
+      "updatedAt": "2025-04-22T03:16:40.256Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "938d1c08-cee5-4e0e-ab8a-0d02c2c73b16",
+      "id": "ff353fce-4f50-4b81-b90d-bd163d496bfe",
       "number": 17,
-      "content": "Tất cả những gì chiếm được trong thành, anh (em) phải gom vào giữa quảng trường, rồi phóng hoả thành ấy với mọi thứ chiếm được, tất cả để dâng kính [ĐỨC CHÚA](), Thiên Chúa của anh (em). Thành ấy sẽ mãi mãi là một phế tích và sẽ không được xây dựng lại nữa.",
+      "content": "Tất cả những gì chiếm được trong thành, anh (em) phải gom vào giữa quảng trường, rồi phóng hoả thành ấy với mọi thứ chiếm được, tất cả để dâng kính ĐỨC CHÚA, Thiên Chúa của anh (em). Thành ấy sẽ mãi mãi là một phế tích và sẽ không được xây dựng lại nữa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.943Z",
-      "updatedAt": "2024-09-23T03:47:43.943Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.299Z",
+      "updatedAt": "2025-04-22T03:16:40.299Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "65bf02ea-dc8a-44a3-a87c-adc87b7722a2",
+      "id": "9ce6be6e-a796-4518-bdd7-2695e296c324",
       "number": 18,
-      "content": "Đừng để bất cứ vật tru hiến nào còn dính lại trong tay anh (em). Như vậy [ĐỨC CHÚA]() sẽ nguôi cơn thịnh nộ, Người sẽ tỏ lòng từ bi và thương xót anh (em), sẽ làm cho anh (em) nên đông đúc, như đã thề với cha ông anh (em),",
+      "content": "Đừng để bất cứ vật tru hiến nào còn dính lại trong tay anh (em). Như vậy ĐỨC CHÚA sẽ nguôi cơn thịnh nộ, Người sẽ tỏ lòng từ bi và thương xót anh (em), sẽ làm cho anh (em) nên đông đúc, như đã thề với cha ông anh (em),",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.948Z",
-      "updatedAt": "2024-09-23T03:47:43.948Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.325Z",
+      "updatedAt": "2025-04-22T03:16:40.325Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "3982734e-dda5-4d3a-8487-48715b617220",
+      "id": "8c41b1e2-53c0-4304-9caf-37d41982aab6",
       "number": 19,
-      "content": "miễn là anh (em) nghe tiếng [ĐỨC CHÚA](), Thiên Chúa của anh (em), mà giữ mọi mệnh lệnh tôi truyền cho anh (em) hôm nay, và làm điều [ĐỨC CHÚA](), Thiên Chúa của anh (em) coi là ngay thẳng.",
+      "content": "miễn là anh (em) nghe tiếng ĐỨC CHÚA, Thiên Chúa của anh (em), mà giữ mọi mệnh lệnh tôi truyền cho anh (em) hôm nay, và làm điều ĐỨC CHÚA, Thiên Chúa của anh (em) coi là ngay thẳng.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:47:43.952Z",
-      "updatedAt": "2024-09-23T03:47:43.952Z",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.352Z",
+      "updatedAt": "2025-04-22T03:16:40.352Z",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     }
   ],
   "footnotes": [
     {
-      "id": "1f13afe6-5301-43a7-a8c6-94fbb8ff0847",
+      "id": "55a71a29-cdde-4a60-9f46-f5f122afe6e4",
       "content": "X. 4,1+, và 5,22+.",
       "position": 113,
       "order": 0,
-      "createdAt": "2024-09-23T03:47:43.832Z",
-      "updatedAt": "2024-09-23T03:47:43.832Z",
-      "verseId": "47fc4fd8-06de-4503-8c29-6c796a9c2054",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.833Z",
+      "updatedAt": "2025-04-22T03:16:39.833Z",
+      "verseId": "0c9e45b9-2276-456d-b42d-d0dca05f8f04",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "6128bc4f-a37c-47f6-844b-897493bfba26",
+      "id": "a4ad4a36-5ff6-4b76-9230-325907904832",
       "content": "ds : *chuyên nằm thấy chiêm bao*, thường hàm ý xấu ; nhưng chiêm bao nhiều khi cũng là phương tiện mặc khải (x. St 40 – 41 ; Mt 1,20-24 ; 2,13-14).",
       "position": 74,
       "order": 1,
-      "createdAt": "2024-09-23T03:47:43.840Z",
-      "updatedAt": "2024-09-23T03:47:43.840Z",
-      "verseId": "298fb2d4-2425-43ad-ad17-45a940166ae8",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.886Z",
+      "updatedAt": "2025-04-22T03:16:39.886Z",
+      "verseId": "8cd1a4ad-b9c5-4c42-a917-1df693abc74f",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "24226d0b-1362-4353-95f2-46f3b961058a",
+      "id": "93c649d1-06c1-4161-a572-ecec91d5409f",
       "content": "*Đừng nghe* : thông thường, điều gì được tiên báo mà xảy ra thật sự thì có giá trị xác nhận vai trò người đã tiên báo (ngôn sứ). Vd. trường hợp ông Mô-sê (Xh 4,30-31), ông Ê-li-a (1 V 18,36-39), ngôn sứ I-sai-a (7,14), vv... Chúa Giê-su cũng chấp nhận phải kinh qua “trắc nghiệm” này (Mt 9,6-7 ; Ga 10,37-38). Nhưng thật ra, các ngôn sứ giả cũng có khả năng làm những điềm thiêng dấu lạ (x. Xh 7,11 ; Mt 24,24 ...). Do đó, thêm vào các dấu lạ, còn phải xét đến nội dung lời giảng dạy của những “thầy” ấy, xem có trung thành với giao ước hay không (c.5). Cũng x. 18,21-22.",
       "position": 76,
       "order": 2,
-      "createdAt": "2024-09-23T03:47:43.854Z",
-      "updatedAt": "2024-09-23T03:47:43.854Z",
-      "verseId": "de460fc1-c9d2-4310-b692-5b37bc83c481",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.940Z",
+      "updatedAt": "2025-04-22T03:16:39.940Z",
+      "verseId": "e7411723-fe11-496d-81dd-18ef7e1eaa56",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "b645d1de-4a97-4a0a-9fd6-af1f13c76cd8",
+      "id": "011b8461-2de2-474b-9db4-78ec3d8d0d26",
       "content": "SM và HL thêm *con của cha anh (em) hay ...*. Bởi liên hệ với cha (trong phụ hệ và chế độ đa thê) là quan trọng nhất, nên có lẽ cụm từ này nằm trong bản Đnl nguyên thuỷ. – *Âu yếm*, ds : *ôm vào lòng*.",
       "position": 30,
       "order": 3,
-      "createdAt": "2024-09-23T03:47:43.884Z",
-      "updatedAt": "2024-09-23T03:47:43.884Z",
-      "verseId": "d9b81363-9ef1-41c1-9051-dda6a95eccc9",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.103Z",
+      "updatedAt": "2025-04-22T03:16:40.103Z",
+      "verseId": "b9acc399-c9ca-49a4-8c3c-216ae681d736",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "1bfabaf3-b88f-4ff2-b4a3-00ab324802a0",
+      "id": "83dc5c67-3cd4-45ff-a2ac-40d64d66d2bc",
       "content": "Hình phạt *ném đá cho đến chết* mang hai ý nghĩa : 1. Tử tội đã phạm đến những gì là thiêng liêng nhất, nên đã ra ô uế, vì vậy không ai được đụng tới, dù để giết chết nó, cũng không được tra tay trực tiếp, nên phải lấy đá ném từ xa ; 2. Cách thức hành quyết này đòi hỏi mọi người phải tham gia (*toàn dân tiếp tay* – c.10), để tỏ lập trường chống lại tội ác của thủ phạm, tuyệt giao với nó. Đoạn Tin Mừng Ga 8,2-11 sẽ cho thấy Chúa Giê-su đi ngược lại lối kết án này : Chúa muốn cho mọi người ý thức sự liên đới của họ, đồng thời kêu gọi tình cảm thông với người có tội.",
       "position": 32,
       "order": 4,
-      "createdAt": "2024-09-23T03:47:43.906Z",
-      "updatedAt": "2024-09-23T03:47:43.906Z",
-      "verseId": "9fb7c222-80be-422f-bc4f-91eb082f71cd",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.160Z",
+      "updatedAt": "2025-04-22T03:16:40.160Z",
+      "verseId": "badff7ce-a4f7-4445-a154-45f0bba1b957",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "26e6f5ad-1b56-4829-a61f-c88255d27153",
+      "id": "516652c6-5a93-40b8-93fa-fba7a3089d1e",
       "content": "ds : *con cái vô tích sự, ác ôn* ; về sau, từ Híp-ri này mới trở thành một từ chỉ hiện thân của sự dữ, như tử thần (2 Sm 22,5 // Tv 18,5) hay ma quỷ và thuộc hạ của nó (Nk 1,11 ; 2,1).",
       "position": 19,
       "order": 5,
-      "createdAt": "2024-09-23T03:47:43.923Z",
-      "updatedAt": "2024-09-23T03:47:43.923Z",
-      "verseId": "843aab9f-6f13-4a2e-af14-cb483b03a796",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.232Z",
+      "updatedAt": "2025-04-22T03:16:40.232Z",
+      "verseId": "6d72d996-30cb-42fb-8b0a-0b7d8967629c",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "5b6bae1c-00ce-4ae6-8cc2-31d60a26bfd9",
+      "id": "0e141db2-650d-4890-9d33-268264795f07",
       "content": "X. 2,34+.",
       "position": 65,
       "order": 6,
-      "createdAt": "2024-09-23T03:47:43.935Z",
-      "updatedAt": "2024-09-23T03:47:43.935Z",
-      "verseId": "05baf8fb-de41-40c5-be74-f0e535d43ac8",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.268Z",
+      "updatedAt": "2025-04-22T03:16:40.268Z",
+      "verseId": "45c15f59-ddf1-4a7b-ab49-18e9e8ddd2ee",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "d7f464c0-0616-4f40-9ecc-6ad748e14955",
+      "id": "8705313c-71e4-43d8-933b-20e14860c04d",
       "content": "X. 1,10+.",
-      "position": 119,
+      "position": 115,
       "order": 7,
-      "createdAt": "2024-09-23T03:47:43.956Z",
-      "updatedAt": "2024-09-23T03:47:43.956Z",
-      "verseId": "3982734e-dda5-4d3a-8487-48715b617220",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.382Z",
+      "updatedAt": "2025-04-22T03:16:40.382Z",
+      "verseId": "8c41b1e2-53c0-4304-9caf-37d41982aab6",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "df749898-9be4-438f-b4ea-0bbdc9e1bdb5",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 168,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:39.954Z",
+      "updatedAt": "2025-04-22T03:16:39.954Z",
+      "verseId": "e7411723-fe11-496d-81dd-18ef7e1eaa56",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "283de20a-7cf4-46a2-a6e1-f442e6c09795",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 14,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.007Z",
+      "updatedAt": "2025-04-22T03:16:40.007Z",
+      "verseId": "36169f84-dbf4-4c06-bf51-ac7d1815b5ad",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "6fcb6238-4980-4cae-85ff-0fa1cf25bf66",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 254,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.049Z",
+      "updatedAt": "2025-04-22T03:16:40.049Z",
+      "verseId": "2fa3b1ef-0098-49ec-9c04-77ec1be7b902",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "74b68b99-5001-4e87-b916-a9344dbf24b6",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 94,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.171Z",
+      "updatedAt": "2025-04-22T03:16:40.171Z",
+      "verseId": "badff7ce-a4f7-4445-a154-45f0bba1b957",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "1e4738ff-c6cd-45f8-89f9-fa93262bbff0",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 41,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.207Z",
+      "updatedAt": "2025-04-22T03:16:40.207Z",
+      "verseId": "b3e74659-a7a7-43f6-86da-417fe016f659",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "4e11348f-59b2-45f2-a43d-afbad9d2c642",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 156,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.311Z",
+      "updatedAt": "2025-04-22T03:16:40.311Z",
+      "verseId": "ff353fce-4f50-4b81-b90d-bd163d496bfe",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "8697ea3e-3ef9-4d37-ba6d-474b74cd6282",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 81,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.339Z",
+      "updatedAt": "2025-04-22T03:16:40.339Z",
+      "verseId": "9ce6be6e-a796-4518-bdd7-2695e296c324",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
+    },
+    {
+      "id": "7ba81d73-d97c-4329-8f34-3e6a3569038c",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 137,
+      "order": 8,
+      "createdAt": "2025-04-22T03:16:40.368Z",
+      "updatedAt": "2025-04-22T03:16:40.368Z",
+      "verseId": "8c41b1e2-53c0-4304-9caf-37d41982aab6",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     }
   ],
   "headings": [
     {
-      "id": "0e7d5a60-284c-4dd9-bf01-7e2def1ae3d3",
+      "id": "c0e17304-b239-4116-90a5-017327026839",
       "content": "Đề phòng kẻo bị lôi cuốn thờ thần ngoại",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:47:43.836Z",
-      "updatedAt": "2024-09-23T03:47:43.836Z",
-      "verseId": "298fb2d4-2425-43ad-ad17-45a940166ae8",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.860Z",
+      "updatedAt": "2025-04-22T03:16:39.860Z",
+      "verseId": "8cd1a4ad-b9c5-4c42-a917-1df693abc74f",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     }
   ],
   "references": [
     {
-      "id": "c086baaa-acc2-432a-a49b-abd9bebd74f5",
+      "id": "46e51305-439a-4404-92a5-ff09951fe61f",
       "content": "Đnl 17,2-7; Lv 18,21+",
       "position": 25,
       "order": 0,
-      "createdAt": "2024-09-23T03:47:43.838Z",
-      "updatedAt": "2024-09-23T03:47:43.838Z",
-      "headingId": "0e7d5a60-284c-4dd9-bf01-7e2def1ae3d3",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.873Z",
+      "updatedAt": "2025-04-22T03:16:39.873Z",
+      "headingId": "c0e17304-b239-4116-90a5-017327026839",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "a5ef2830-e02f-4d8f-baa8-d819bbec1176",
+      "id": "c9398a68-1c5a-4df2-8401-57c8fec1e6b7",
       "content": "Gr 23,11-14",
       "position": 34,
       "order": 1,
-      "createdAt": "2024-09-23T03:47:43.842Z",
-      "updatedAt": "2024-09-23T03:47:43.842Z",
-      "verseId": "298fb2d4-2425-43ad-ad17-45a940166ae8",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.899Z",
+      "updatedAt": "2025-04-22T03:16:39.899Z",
+      "verseId": "8cd1a4ad-b9c5-4c42-a917-1df693abc74f",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "a0fb86a0-c2fb-4a07-9107-2bd8254eec65",
+      "id": "f7d0d11e-d9ac-47d2-9d56-f2986cdf4e16",
       "content": "Đnl 6,5",
-      "position": 201,
+      "position": 193,
       "order": 2,
-      "createdAt": "2024-09-23T03:47:43.858Z",
-      "updatedAt": "2024-09-23T03:47:43.858Z",
-      "verseId": "de460fc1-c9d2-4310-b692-5b37bc83c481",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:39.980Z",
+      "updatedAt": "2025-04-22T03:16:39.980Z",
+      "verseId": "e7411723-fe11-496d-81dd-18ef7e1eaa56",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "8bb01f5c-6806-4820-a72f-c8e9f26dfe36",
+      "id": "67b8b556-501a-4707-87e5-0c0159f0d1d6",
       "content": "Đnl 6,13",
-      "position": 102,
+      "position": 98,
       "order": 3,
-      "createdAt": "2024-09-23T03:47:43.866Z",
-      "updatedAt": "2024-09-23T03:47:43.866Z",
-      "verseId": "561bda25-f683-4d23-a511-42659df861dd",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.021Z",
+      "updatedAt": "2025-04-22T03:16:40.021Z",
+      "verseId": "36169f84-dbf4-4c06-bf51-ac7d1815b5ad",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "0bb8b77b-56fc-4ea9-b8fa-fac88bd5b0af",
+      "id": "edd15160-4e93-4223-9255-4a1c91b7fb63",
       "content": "1 Cr 5,13",
-      "position": 313,
+      "position": 301,
       "order": 4,
-      "createdAt": "2024-09-23T03:47:43.875Z",
-      "updatedAt": "2024-09-23T03:47:43.875Z",
-      "verseId": "37fff039-af9e-42c5-b39d-72e814c33d85",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.077Z",
+      "updatedAt": "2025-04-22T03:16:40.077Z",
+      "verseId": "2fa3b1ef-0098-49ec-9c04-77ec1be7b902",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     },
     {
-      "id": "b9e9b377-ac42-4992-9cd0-05a8a12e0e66",
+      "id": "b9789427-e2a2-4180-be1d-fe25dfe57829",
       "content": "Gs 6,17",
       "position": 57,
       "order": 5,
-      "createdAt": "2024-09-23T03:47:43.939Z",
-      "updatedAt": "2024-09-23T03:47:43.939Z",
-      "verseId": "05baf8fb-de41-40c5-be74-f0e535d43ac8",
-      "chapterId": "8ee079d8-973c-4f96-8225-b496ac25c4d7"
+      "createdAt": "2025-04-22T03:16:40.284Z",
+      "updatedAt": "2025-04-22T03:16:40.284Z",
+      "verseId": "45c15f59-ddf1-4a7b-ab49-18e9e8ddd2ee",
+      "chapterId": "72e63d44-5d88-4f6d-ad90-ac86ad17e05d"
     }
   ],
   "psalmMetadata": []

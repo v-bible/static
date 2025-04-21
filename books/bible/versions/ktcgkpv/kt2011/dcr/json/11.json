@@ -1,615 +1,706 @@
 {
   "chapter": {
-    "id": "821a4426-ff29-46d8-abeb-9af1c35241af",
+    "id": "aa831ce3-8a17-49ce-84d2-6230c72fd835",
     "number": 11,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.404Z",
-    "updatedAt": "2024-09-23T03:08:02.404Z",
-    "bookId": "66285342-de19-4d4f-9b20-ae9ce3164b85"
+    "createdAt": "2025-04-22T00:48:32.504Z",
+    "updatedAt": "2025-04-22T00:48:32.504Z",
+    "bookId": "86204932-7a25-4b95-8c29-e44dc7b18c57"
   },
   "verses": [
     {
-      "id": "f4075d3f-af94-459b-b086-125a2fcc5404",
+      "id": "060670ca-c8c7-46dc-bc5d-e41641027dd6",
       "number": 1,
-      "content": "Hỡi [Li-băng](), hãy mở tung các cửa,",
+      "content": "Hỡi Li-băng, hãy mở tung các cửa,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.210Z",
-      "updatedAt": "2024-09-23T04:57:13.210Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.641Z",
+      "updatedAt": "2025-04-22T07:23:39.641Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "d771b3d7-95ab-480c-ac0a-0e7d897e94c4",
+      "id": "dec283e7-083d-40be-9950-71e7461990dc",
       "number": 1,
       "content": "lửa sẽ thiêu rụi những cây bá hương của ngươi !",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.221Z",
-      "updatedAt": "2024-09-23T04:57:13.221Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.688Z",
+      "updatedAt": "2025-04-22T07:23:39.688Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "68ffe817-9f6c-485c-9d6e-3549ffed76f3",
+      "id": "6687ee6d-9f4d-462b-91a9-f0db52313613",
       "number": 2,
       "content": "Rú lên đi, hỡi cây trắc bá, vì cây bá hương đã đổ nhào rồi,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.223Z",
-      "updatedAt": "2024-09-23T04:57:13.223Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.702Z",
+      "updatedAt": "2025-04-22T07:23:39.702Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "72d82965-dbdb-4c18-aaff-4d12730db619",
+      "id": "e199dbfb-58af-48d9-ac40-7b7400cf1999",
       "number": 2,
       "content": "vì những cây to lớn đã bị triệt hạ.",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.225Z",
-      "updatedAt": "2024-09-23T04:57:13.225Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.716Z",
+      "updatedAt": "2025-04-22T07:23:39.716Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b22b4629-9e5b-4c8e-98b7-c679a1aa7f36",
+      "id": "b1d0cf46-0a98-4816-b2de-7507e553e44f",
       "number": 2,
-      "content": "Rú lên đi, hỡi những cây sồi [Ba-san](),",
+      "content": "Rú lên đi, hỡi những cây sồi Ba-san,",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.228Z",
-      "updatedAt": "2024-09-23T04:57:13.228Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.730Z",
+      "updatedAt": "2025-04-22T07:23:39.730Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "daa20127-a95b-4ee5-a6e3-13eaa8a97cee",
+      "id": "c9087b65-07b3-471f-bbef-d4e01aa71d8e",
       "number": 2,
       "content": "vì khu rừng rậm đã bị tàn phá.",
       "order": 3,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.237Z",
-      "updatedAt": "2024-09-23T04:57:13.237Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.774Z",
+      "updatedAt": "2025-04-22T07:23:39.774Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "303ad3ad-9aad-4d67-a411-8f09586d1f47",
+      "id": "911218a6-4868-4691-86f7-2000f839cb7a",
       "number": 3,
       "content": "Hãy nghe tiếng rú của các mục tử,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.241Z",
-      "updatedAt": "2024-09-23T04:57:13.241Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.788Z",
+      "updatedAt": "2025-04-22T07:23:39.788Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "2d9cff85-4fa0-47dd-b0c3-9154b0c23323",
+      "id": "ccd70d5f-5729-4781-b221-a98fb7381d47",
       "number": 3,
       "content": "vì vẻ huy hoàng của chúng đã tiêu tan ;",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.250Z",
-      "updatedAt": "2024-09-23T04:57:13.250Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.817Z",
+      "updatedAt": "2025-04-22T07:23:39.817Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "95f9cfae-94e1-48c6-b99e-4a7924c96124",
+      "id": "4c952dc6-15a2-4f5e-a0e9-c3b7f9f2bdb9",
       "number": 3,
       "content": "hãy nghe tiếng gầm của lũ sư tử con,",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.254Z",
-      "updatedAt": "2024-09-23T04:57:13.254Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.832Z",
+      "updatedAt": "2025-04-22T07:23:39.832Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "4279d34d-66e7-4d1d-b510-f6216f263537",
+      "id": "1cda31e9-9d29-4f96-bcf5-6e37315b51d5",
       "number": 3,
-      "content": "vì niềm kiêu hãnh của [Gio-đan]() đã bị sụp đổ.",
+      "content": "vì niềm kiêu hãnh của Gio-đan đã bị sụp đổ.",
       "order": 3,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.259Z",
-      "updatedAt": "2024-09-23T04:57:13.259Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.846Z",
+      "updatedAt": "2025-04-22T07:23:39.846Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b86ba3b0-8c71-44e9-992b-3e5ab9934847",
+      "id": "e4ee80cf-6fdb-4686-92bd-b1b77b512a7d",
       "number": 4,
-      "content": "[ĐỨC CHÚA](), Thiên Chúa của tôi, phán thế này : “Ngươi hãy chăn dắt bầy chiên sắp đem làm thịt.",
+      "content": "ĐỨC CHÚA, Thiên Chúa của tôi, phán thế này : “Ngươi hãy chăn dắt bầy chiên sắp đem làm thịt.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.264Z",
-      "updatedAt": "2024-09-23T04:57:13.264Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.875Z",
+      "updatedAt": "2025-04-22T07:23:39.875Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "5afe67ff-1a54-4e60-8f7e-8a457ac133f8",
+      "id": "6095d61d-8920-47f2-b1c9-7d14db4432fb",
       "number": 5,
-      "content": "Bầy chiên đó, những kẻ tậu được đem đi giết mà không nghĩ rằng mình phạm tội ; còn những kẻ bán chúng nói : Chúc tụng [ĐỨC CHÚA](), tôi đã nên giàu có ! Thế mà các mục tử của chúng chẳng chút xót thương.",
+      "content": "Bầy chiên đó, những kẻ tậu được đem đi giết mà không nghĩ rằng mình phạm tội ; còn những kẻ bán chúng nói : Chúc tụng ĐỨC CHÚA, tôi đã nên giàu có ! Thế mà các mục tử của chúng chẳng chút xót thương.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.290Z",
-      "updatedAt": "2024-09-23T04:57:13.290Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.976Z",
+      "updatedAt": "2025-04-22T07:23:39.976Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "9c2f3bfa-f0d9-4501-ae73-db5bef348f4b",
+      "id": "dce0a03a-7d87-46e8-b2d7-3b499a93a872",
       "number": 6,
-      "content": "Quả thật, Ta chẳng còn thương xót dân cư xứ này nữa, sấm ngôn của [ĐỨC CHÚA](). Và đây, chính Ta sẽ trao mỗi người vào tay người lân cận và vào tay vua của nó ; những người này sẽ tàn phá xứ sở, nhưng Ta sẽ chẳng cứu một ai khỏi tay chúng.",
+      "content": "Quả thật, Ta chẳng còn thương xót dân cư xứ này nữa, sấm ngôn của ĐỨC CHÚA. Và đây, chính Ta sẽ trao mỗi người vào tay người lân cận và vào tay vua của nó ; những người này sẽ tàn phá xứ sở, nhưng Ta sẽ chẳng cứu một ai khỏi tay chúng.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.298Z",
-      "updatedAt": "2024-09-23T04:57:13.298Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.019Z",
+      "updatedAt": "2025-04-22T07:23:40.019Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "12ae1ae5-b211-4aac-a615-772b873fb3c9",
+      "id": "a95f8aeb-51cc-4581-9aa8-e0ecd03c5d52",
       "number": 7,
       "content": "Thế là tôi trở thành người chăn dắt bầy chiên mà bọn lái buôn chiên dê tính đem làm thịt. Tôi lấy hai cây gậy, một cây gọi là ‘Ân huệ’, cây kia là ‘Liên kết’, và tôi đã chăn dắt bầy chiên.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.307Z",
-      "updatedAt": "2024-09-23T04:57:13.307Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.063Z",
+      "updatedAt": "2025-04-22T07:23:40.063Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b1ce4533-10b8-4b00-904b-a7e880b0f150",
+      "id": "5c2af879-2c35-4983-b46f-35401f2d47db",
       "number": 8,
       "content": "Chỉ trong một tháng, tôi đã làm cho ba mục tử phải biệt tích. Nhưng chẳng mấy chốc tôi mất kiên nhẫn với bầy chiên, đồng thời chúng cũng chán tôi.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.315Z",
-      "updatedAt": "2024-09-23T04:57:13.315Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.090Z",
+      "updatedAt": "2025-04-22T07:23:40.090Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "e381ed40-78ac-4ab2-b6b7-80e13e4d8c22",
+      "id": "d7274e2f-8494-4250-9ef0-e95ae4375445",
       "number": 9,
       "content": "Bấy giờ, tôi nói : “Ta không chăn không dắt nữa đâu, con nào chết thì chết, con nào mất thì mất. Con nào còn lại thì cứ ăn thịt lẫn nhau.”",
       "order": 0,
       "parNumber": 10,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.328Z",
-      "updatedAt": "2024-09-23T04:57:13.328Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.132Z",
+      "updatedAt": "2025-04-22T07:23:40.132Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b6211443-14a9-402b-8ecc-1a561b5e351f",
+      "id": "4b7502a7-26dc-453e-9894-ff7c68924ec0",
       "number": 10,
       "content": "Thế rồi tôi lấy cây gậy ‘Ân huệ’ đem bẻ gãy, để huỷ bỏ giao ước tôi đã ký với muôn nước.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.336Z",
-      "updatedAt": "2024-09-23T04:57:13.336Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.160Z",
+      "updatedAt": "2025-04-22T07:23:40.160Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "7702ebd1-f9de-4e47-a802-fccfeda4d71c",
+      "id": "9a95d9ed-d58f-4062-a41c-66587306a092",
       "number": 11,
-      "content": "Vậy ngày hôm ấy, giao ước bị huỷ bỏ. Bọn lái buôn chiên dê quan sát tôi thì nhận ra đó chính là hành động của [ĐỨC CHÚA]().",
+      "content": "Vậy ngày hôm ấy, giao ước bị huỷ bỏ. Bọn lái buôn chiên dê quan sát tôi thì nhận ra đó chính là hành động của ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.344Z",
-      "updatedAt": "2024-09-23T04:57:13.344Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.189Z",
+      "updatedAt": "2025-04-22T07:23:40.189Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "c9c502e8-d501-4401-82da-6457e394370d",
+      "id": "436cf5d5-1a0d-4ac6-8c36-91674e78f4d4",
       "number": 12,
       "content": "Bấy giờ tôi bảo họ : “Nếu các ông cho là phải, thì trả công cho tôi ; không thì thôi vậy.” Họ tính công cho tôi là ba mươi đồng bạc.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.353Z",
-      "updatedAt": "2024-09-23T04:57:13.353Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.232Z",
+      "updatedAt": "2025-04-22T07:23:40.232Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "81560818-e682-4753-b1ef-525a9b1db20c",
+      "id": "be300b61-d740-44ff-a5fb-76f1eb21bb00",
       "number": 13,
-      "content": "[ĐỨC CHÚA]() liền phán bảo tôi : “Ném số tiền đó vào kho bạc đi ! Chúng đánh giá Ta chỉ có bấy nhiêu thôi !” Vậy tôi đã đem ba mươi đồng bạc mà quẳng vào kho bạc Nhà [ĐỨC CHÚA]().",
+      "content": "ĐỨC CHÚA liền phán bảo tôi : “Ném số tiền đó vào kho bạc đi ! Chúng đánh giá Ta chỉ có bấy nhiêu thôi !” Vậy tôi đã đem ba mươi đồng bạc mà quẳng vào kho bạc Nhà ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.365Z",
-      "updatedAt": "2024-09-23T04:57:13.365Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.275Z",
+      "updatedAt": "2025-04-22T07:23:40.275Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "be062905-68f4-40f3-bfcb-c065506126aa",
+      "id": "178dbbe1-d69c-4621-9a8c-d25b66353b87",
       "number": 14,
-      "content": "Sau đó tôi bẻ gãy cây gậy thứ hai, cây gậy ‘Liên kết’ để huỷ bỏ tình huynh đệ giữa [Giu-đa]() và [Ít-ra-en]().",
+      "content": "Sau đó tôi bẻ gãy cây gậy thứ hai, cây gậy ‘Liên kết’ để huỷ bỏ tình huynh đệ giữa Giu-đa và Ít-ra-en.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 10,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.382Z",
-      "updatedAt": "2024-09-23T04:57:13.382Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.361Z",
+      "updatedAt": "2025-04-22T07:23:40.361Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "803de163-cb85-4053-8308-23e3083db2fe",
+      "id": "cec8b47f-e2f0-4ce8-af7f-e3632731252d",
       "number": 15,
-      "content": "[ĐỨC CHÚA]() lại phán với tôi : “Hãy sắm sẵn hành trang mà đóng vai người mục tử điên khùng,",
+      "content": "ĐỨC CHÚA lại phán với tôi : “Hãy sắm sẵn hành trang mà đóng vai người mục tử điên khùng,",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.390Z",
-      "updatedAt": "2024-09-23T04:57:13.390Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.389Z",
+      "updatedAt": "2025-04-22T07:23:40.389Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "2d78af60-fe0c-484d-ac01-5cf8db78c5b3",
+      "id": "31f37f46-7021-4306-891e-947748a2da1c",
       "number": 16,
       "content": "vì này, chính Ta sẽ cho xuất hiện trong xứ một mục tử khác. Con chiên nào mất, nó chẳng quan tâm ; con thất lạc, nó chẳng đi tìm ; con bị thương, nó không chạy chữa ; con mạnh khoẻ, nó chẳng dưỡng nuôi. Nhưng con nào béo thì chúng ăn thịt, rồi lóc luôn cả móng.",
       "order": 0,
       "parNumber": 11,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:57:13.399Z",
-      "updatedAt": "2024-09-23T04:57:13.399Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.431Z",
+      "updatedAt": "2025-04-22T07:23:40.431Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "18027d27-e0a3-4b0a-ad86-3ec638dcf7af",
+      "id": "8f292f27-4ccc-4dd8-a3f7-ce6e158fa6bd",
       "number": 17,
       "content": "Khốn cho mục tử vô tích sự",
       "order": 0,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.407Z",
-      "updatedAt": "2024-09-23T04:57:13.407Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.463Z",
+      "updatedAt": "2025-04-22T07:23:40.463Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "98363e31-8b43-4aa2-a96f-3903b911f8af",
+      "id": "2d8de41a-99bd-406e-a2e0-8fbb2f2bfbbc",
       "number": 17,
       "content": "đã bỏ mặc đàn chiên.",
       "order": 1,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.411Z",
-      "updatedAt": "2024-09-23T04:57:13.411Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.477Z",
+      "updatedAt": "2025-04-22T07:23:40.477Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "4a04d8e2-729c-468a-9a15-963c83ea0d6f",
+      "id": "80e87ae1-e91b-497e-b96b-46cb55c0389e",
       "number": 17,
       "content": "Gươm sẽ chặt đứt tay,",
       "order": 2,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.420Z",
-      "updatedAt": "2024-09-23T04:57:13.420Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.505Z",
+      "updatedAt": "2025-04-22T07:23:40.505Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "f1248559-58df-4eee-8b26-e936ca0a2e62",
+      "id": "c4d23b65-e80a-4fd2-bf2f-8522c3963026",
       "number": 17,
       "content": "sẽ chọc mắt phải của nó.",
       "order": 3,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.424Z",
-      "updatedAt": "2024-09-23T04:57:13.424Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.519Z",
+      "updatedAt": "2025-04-22T07:23:40.519Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "2535c25c-44dd-46f4-8809-36193ea5dd69",
+      "id": "cb40c123-7a81-4e79-a5e2-22fc1bbe690d",
       "number": 17,
       "content": "Cánh tay của nó sẽ khô đét,",
       "order": 4,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.428Z",
-      "updatedAt": "2024-09-23T04:57:13.428Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.533Z",
+      "updatedAt": "2025-04-22T07:23:40.533Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b2bc4522-d2c3-4c74-9253-0fe5ce2160fa",
+      "id": "3b09598d-e37a-4141-a64f-34e0e6ba4dfa",
       "number": 17,
       "content": "và mắt phải của nó sẽ mù loà.”",
       "order": 5,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:57:13.432Z",
-      "updatedAt": "2024-09-23T04:57:13.432Z",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.547Z",
+      "updatedAt": "2025-04-22T07:23:40.547Z",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     }
   ],
   "footnotes": [
     {
-      "id": "ee8bdf9b-ba21-4ab9-9955-f17c9fd340fe",
+      "id": "b7b1aa5b-8493-455b-b8ca-f436b8b930b1",
       "content": "11,1-3 : Đây là một khúc ai ca châm biếm những kẻ kiêu ngạo, hay những thế lực áp bức dân Chúa. Đến ngày họ bị sụp đổ và tiêu diệt, họ chẳng khác nào cây *bá hương, trắc bá, sồi* bị đốt cháy !",
-      "position": 15,
+      "position": 11,
       "order": 0,
-      "createdAt": "2024-09-23T04:57:13.219Z",
-      "updatedAt": "2024-09-23T04:57:13.219Z",
-      "verseId": "f4075d3f-af94-459b-b086-125a2fcc5404",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.675Z",
+      "updatedAt": "2025-04-22T07:23:39.675Z",
+      "verseId": "060670ca-c8c7-46dc-bc5d-e41641027dd6",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "4b0a5dc8-826d-43aa-9458-c6f9c6bdbe98",
+      "id": "33448a69-1393-40d4-8087-95db11d5fb75",
       "content": "*Ba-san* ở bên kia sông Gio-đan.",
-      "position": 39,
+      "position": 35,
       "order": 1,
-      "createdAt": "2024-09-23T04:57:13.233Z",
-      "updatedAt": "2024-09-23T04:57:13.233Z",
-      "verseId": "b22b4629-9e5b-4c8e-98b7-c679a1aa7f36",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.760Z",
+      "updatedAt": "2025-04-22T07:23:39.760Z",
+      "verseId": "b1d0cf46-0a98-4816-b2de-7507e553e44f",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "63d03062-07fc-4489-8a3b-a3dd598b8b5a",
+      "id": "5c453fdd-1ef2-4546-a47e-d8b88362c736",
       "content": "Các thủ lãnh quân thù của Ít-ra-en.",
       "position": 32,
       "order": 2,
-      "createdAt": "2024-09-23T04:57:13.246Z",
-      "updatedAt": "2024-09-23T04:57:13.246Z",
-      "verseId": "303ad3ad-9aad-4d67-a411-8f09586d1f47",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.803Z",
+      "updatedAt": "2025-04-22T07:23:39.803Z",
+      "verseId": "911218a6-4868-4691-86f7-2000f839cb7a",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "890be78a-942f-4424-b924-fea1496508ed",
+      "id": "995ff762-7b56-4bd6-8623-edcc52057023",
       "content": "11,4-17 là một ngụ ngôn nói về các mục tử và đàn chiên, ám chỉ các thủ lãnh và dân Ít-ra-en. Sấm ngôn này rất hợp với Gr 23,1-4 ; Ed 34,1-34 ; 37,15-28. Qua sấm ngôn này, chúng ta thấy ngôn sứ muốn nói lên bối cảnh lịch sử Ít-ra-en. Chính ngôn sứ được Đức Chúa trao trách nhiệm chăn dắt đàn chiên nhân danh Người. Đàn chiên này bị các mục tử ngược đãi vì họ không còn tìm thấy nơi đàn chiên nguồn lợi cho mình. Với hai cây gậy *Ân huệ* và *Liên kết* trong tay, ngôn sứ thi hành nhiệm vụ Đức Chúa đã uỷ thác cho mình. Nhưng đứng trước đàn chiên bất trị, ông đã phải tháo lui. Ông đã bẻ gãy hai cây gậy để loan báo cho dân biết Đức Chúa không còn thương dân nữa và sự thống nhất giữa các chi tộc bị rạn nứt. Sau đó, Đức Chúa truyền lệnh cho ông chọn một mục tử điên khùng. Người mục tử này sẽ coi đàn chiên như chiên thịt. Qua sấm ngôn này, chúng ta thấy Đức Chúa truyền lệnh cho ngôn sứ làm những hành vi có tính biểu tượng (cc. 4.13a.15), chính ngôn sứ tự ý làm những hành vi đó (cc. 7-12.13b-14) và đưa ra lý do giải thích (cc. 5-6.16). Tất cả sấm ngôn này đều nhắm đến thời Đấng Mê-si-a. Dcr 13,7-9 sau này cho biết một phần sót lại của đàn chiên sẽ được thanh tẩy và được Đức Chúa yêu thương.",
       "position": 16,
       "order": 3,
-      "createdAt": "2024-09-23T04:57:13.273Z",
-      "updatedAt": "2024-09-23T04:57:13.273Z",
-      "headingId": "512f3320-245a-486f-a449-ee26dba3a780",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.904Z",
+      "updatedAt": "2025-04-22T07:23:39.904Z",
+      "headingId": "60ce2612-e43c-47ed-898c-0f4acb20c3b5",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "c6573641-e689-4dff-9ad9-a45a79274ebb",
+      "id": "f2b83016-2721-4000-a584-62e15e62d197",
       "content": "Thành ngữ này được dùng đặc biệt ở đây nhấn mạnh sấm ngôn có liên quan trực tiếp đến tác giả, người thuật truyện.",
-      "position": 32,
+      "position": 28,
       "order": 4,
-      "createdAt": "2024-09-23T04:57:13.282Z",
-      "updatedAt": "2024-09-23T04:57:13.282Z",
-      "verseId": "b86ba3b0-8c71-44e9-992b-3e5ab9934847",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.948Z",
+      "updatedAt": "2025-04-22T07:23:39.948Z",
+      "verseId": "e4ee80cf-6fdb-4686-92bd-b1b77b512a7d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "5a92ee2a-18ee-4d2b-b3b5-cefdac77858a",
+      "id": "d422ed70-c226-4635-8c0b-47651a622ac5",
       "content": "*Những kẻ tậu*, *những kẻ bán* là những giai cấp lãnh đạo, mục tử xấu, của dân Ít-ra-en.",
-      "position": 170,
+      "position": 166,
       "order": 5,
-      "createdAt": "2024-09-23T04:57:13.294Z",
-      "updatedAt": "2024-09-23T04:57:13.294Z",
-      "verseId": "5afe67ff-1a54-4e60-8f7e-8a457ac133f8",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.005Z",
+      "updatedAt": "2025-04-22T07:23:40.005Z",
+      "verseId": "6095d61d-8920-47f2-b1c9-7d14db4432fb",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "76d6e1f1-0119-4f7f-aa76-5d106d98e8c3",
+      "id": "da5247cb-ae50-4ce2-babb-447674512a13",
       "content": "*Mục tử*. Hình như câu này được đặt xen vào thời sau này.",
-      "position": 136,
+      "position": 132,
       "order": 6,
-      "createdAt": "2024-09-23T04:57:13.303Z",
-      "updatedAt": "2024-09-23T04:57:13.303Z",
-      "verseId": "9c2f3bfa-f0d9-4501-ae73-db5bef348f4b",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.049Z",
+      "updatedAt": "2025-04-22T07:23:40.049Z",
+      "verseId": "dce0a03a-7d87-46e8-b2d7-3b499a93a872",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "8dec1e67-671f-49e6-81b9-3ce67c97365f",
+      "id": "6f3b87b5-8f27-4798-9b14-7bafdc8eb1e2",
       "content": "Dịch theo LXX. HR : *những người nghèo*, khó hiểu !",
       "position": 61,
       "order": 7,
-      "createdAt": "2024-09-23T04:57:13.311Z",
-      "updatedAt": "2024-09-23T04:57:13.311Z",
-      "verseId": "12ae1ae5-b211-4aac-a615-772b873fb3c9",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.076Z",
+      "updatedAt": "2025-04-22T07:23:40.076Z",
+      "verseId": "a95f8aeb-51cc-4581-9aa8-e0ecd03c5d52",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "d78654c4-a616-4cd4-9fea-522617ebcd41",
+      "id": "5bf3c9cf-a62b-4f3b-b514-0660b444ee75",
       "content": "Thời gian vắn có tính biểu tượng.",
       "position": 19,
       "order": 8,
-      "createdAt": "2024-09-23T04:57:13.319Z",
-      "updatedAt": "2024-09-23T04:57:13.319Z",
-      "verseId": "b1ce4533-10b8-4b00-904b-a7e880b0f150",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.104Z",
+      "updatedAt": "2025-04-22T07:23:40.104Z",
+      "verseId": "5c2af879-2c35-4983-b46f-35401f2d47db",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "fe14a518-5c4b-4cf3-840f-08dd6e6f4187",
+      "id": "19cfa910-4d95-4c74-acab-a72a8c0e069e",
       "content": "Không rõ là ai. Lời sấm này chỉ là lối ám dụ thôi. Có người cho là các vua Sa-lô-môn, Rơ-khóp-am và Gia-róp-am, nhưng không chắc chắn ! Hay là các thượng tế nào ?",
       "position": 45,
       "order": 9,
-      "createdAt": "2024-09-23T04:57:13.323Z",
-      "updatedAt": "2024-09-23T04:57:13.323Z",
-      "verseId": "b1ce4533-10b8-4b00-904b-a7e880b0f150",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.117Z",
+      "updatedAt": "2025-04-22T07:23:40.117Z",
+      "verseId": "5c2af879-2c35-4983-b46f-35401f2d47db",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "9d5a648a-5108-4677-8c61-9bd76290fe76",
+      "id": "c9c6ab62-2b2b-4a1d-8311-6921507c334e",
       "content": "Tình trạng chia rẽ nội bộ đưa đến cảnh mất nước.",
       "position": 136,
       "order": 10,
-      "createdAt": "2024-09-23T04:57:13.332Z",
-      "updatedAt": "2024-09-23T04:57:13.332Z",
-      "verseId": "e381ed40-78ac-4ab2-b6b7-80e13e4d8c22",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.146Z",
+      "updatedAt": "2025-04-22T07:23:40.146Z",
+      "verseId": "d7274e2f-8494-4250-9ef0-e95ae4375445",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "7edee015-533b-4e8c-b83d-a9dd57b1cb3d",
+      "id": "cdf9b657-205f-40b8-a827-f31dd87ca043",
       "content": "*Tôi* ở đây có còn là ngôn sứ, hay là chính Đức Chúa ? Hành động *bẻ gãy* ám chỉ *huỷ bỏ giao ước*. Đức Chúa đã bảo vệ dân khỏi mọi nghịch cảnh. Nay dân không còn giữ giao ước với Người, Người cũng phó mặc dân cho ngoại bang xâu xé !",
       "position": 11,
       "order": 11,
-      "createdAt": "2024-09-23T04:57:13.340Z",
-      "updatedAt": "2024-09-23T04:57:13.340Z",
-      "verseId": "b6211443-14a9-402b-8ecc-1a561b5e351f",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.175Z",
+      "updatedAt": "2025-04-22T07:23:40.175Z",
+      "verseId": "4b7502a7-26dc-453e-9894-ff7c68924ec0",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "cbbd0c0b-4e9a-4aff-9922-f2850d4a5d6d",
+      "id": "116aca3d-2475-4a99-b0fa-b9678318e0d8",
       "content": "Từ Híp-ri Däbär có nghĩa rất rộng : *lời nói, hành động, việc, sự kiện*, v.v. Nhiều bản dịch là Lời.",
       "position": 105,
       "order": 12,
-      "createdAt": "2024-09-23T04:57:13.348Z",
-      "updatedAt": "2024-09-23T04:57:13.348Z",
-      "verseId": "7702ebd1-f9de-4e47-a802-fccfeda4d71c",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.204Z",
+      "updatedAt": "2025-04-22T07:23:40.204Z",
+      "verseId": "9a95d9ed-d58f-4062-a41c-66587306a092",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "84b47831-ad26-4cf7-97c1-fd2211d8caaf",
+      "id": "ca670dc0-755c-4d41-9149-7bd6cce878cc",
       "content": "Giá tiền chuộc một người nô lệ (x. Xh 21,32). Ở đây người ta có ý trách Đức Chúa đã đối xử hèn hạ với họ ?",
       "position": 131,
       "order": 13,
-      "createdAt": "2024-09-23T04:57:13.357Z",
-      "updatedAt": "2024-09-23T04:57:13.357Z",
-      "verseId": "c9c502e8-d501-4401-82da-6457e394370d",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.247Z",
+      "updatedAt": "2025-04-22T07:23:40.247Z",
+      "verseId": "436cf5d5-1a0d-4ac6-8c36-91674e78f4d4",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "68f20494-1405-47b8-90be-1c44600a8a65",
+      "id": "2bdc1aec-a74f-4f29-bac9-6ef4193842e5",
       "content": "ds : *thợ gốm*. *Kho bạc* theo XR. Kho bạc ở Đền Thờ là nơi cất giữ kim loại quý, vàng nén do các tín đồ dâng cúng.",
-      "position": 60,
+      "position": 56,
       "order": 14,
-      "createdAt": "2024-09-23T04:57:13.369Z",
-      "updatedAt": "2024-09-23T04:57:13.369Z",
-      "verseId": "81560818-e682-4753-b1ef-525a9b1db20c",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.303Z",
+      "updatedAt": "2025-04-22T07:23:40.303Z",
+      "verseId": "be300b61-d740-44ff-a5fb-76f1eb21bb00",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "7af62ebd-e237-4aeb-9f42-6e510dd4938e",
+      "id": "7dbc32b4-7b97-46d7-a1dc-a0bfd25b02ae",
       "content": "Trong Mt 27,3-10, tác giả đã áp dụng sự kiện này đối với vụ án Đức Giê-su.",
-      "position": 178,
+      "position": 170,
       "order": 15,
-      "createdAt": "2024-09-23T04:57:13.374Z",
-      "updatedAt": "2024-09-23T04:57:13.374Z",
-      "verseId": "81560818-e682-4753-b1ef-525a9b1db20c",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.332Z",
+      "updatedAt": "2025-04-22T07:23:40.332Z",
+      "verseId": "be300b61-d740-44ff-a5fb-76f1eb21bb00",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "1ade1eed-b409-4e6f-823f-bc046cf3013e",
+      "id": "6051da0d-d078-4d53-93ed-b60e7e7424e4",
       "content": "Hành động này ám chỉ cuộc ly giáo của Sa-ma-ri. Năm 328 tCN, người Sa-ma-ri đã xây một đền thờ trên núi Ga-ri-dim. Như vậy đoạn văn này phải có sau biến cố trên. Phải đợi Đức Giê-su đến hàn gắn chấm dứt tình trạng đoạn tuyệt này (x. Ga 4,21-22).",
-      "position": 109,
+      "position": 101,
       "order": 16,
-      "createdAt": "2024-09-23T04:57:13.386Z",
-      "updatedAt": "2024-09-23T04:57:13.386Z",
-      "verseId": "be062905-68f4-40f3-bfcb-c065506126aa",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.375Z",
+      "updatedAt": "2025-04-22T07:23:40.375Z",
+      "verseId": "178dbbe1-d69c-4621-9a8c-d25b66353b87",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "cf0bfed4-ac1e-4296-be2b-b56406619073",
+      "id": "4df776c6-91f0-4a98-a724-2d68af77ca03",
       "content": "Người mục tử điên khùng này chỉ biết hưởng thụ, mà không lo chăn dắt đàn chiên. Ông sẽ bị trừng phạt. Cánh tay chỉ uy quyền, con mắt tượng trưng sự thông hiểu. Như thế, người mục tử xấu sẽ bị truất quyền cai trị dân và không còn được hiểu Lề Luật nữa.",
-      "position": 91,
+      "position": 87,
       "order": 17,
-      "createdAt": "2024-09-23T04:57:13.395Z",
-      "updatedAt": "2024-09-23T04:57:13.395Z",
-      "verseId": "803de163-cb85-4053-8308-23e3083db2fe",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.417Z",
+      "updatedAt": "2025-04-22T07:23:40.417Z",
+      "verseId": "cec8b47f-e2f0-4ce8-af7f-e3632731252d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "0b45f4b0-afff-45a3-8282-6f3c6c1fc352",
+      "content": "English: Libanon - French: Liban - Latin: Libanus - Origin: &#1500;&#1468;&#1456;&#1489;&#1464;&#1504;&#64331;&#1503; - Vietnamese: Li-băng Gs 9,1 ; Tl 3,3",
+      "position": 11,
+      "order": 18,
+      "createdAt": "2025-04-22T07:23:39.660Z",
+      "updatedAt": "2025-04-22T07:23:39.660Z",
+      "verseId": "060670ca-c8c7-46dc-bc5d-e41641027dd6",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "2971d867-d1e2-4023-9852-9dc6aadf45a4",
+      "content": "English: Bashan - French: Bashân - Latin: Basan - Origin: &#64305;&#1464;&#64298;&#1464;&#1503; - Vietnamese: Ba-san Tv 68,16.23 ; Is 33,9",
+      "position": 35,
+      "order": 20,
+      "createdAt": "2025-04-22T07:23:39.745Z",
+      "updatedAt": "2025-04-22T07:23:39.745Z",
+      "verseId": "b1d0cf46-0a98-4816-b2de-7507e553e44f",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "cd810779-81fe-4114-8882-3015d31da5f4",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 29,
+      "order": 22,
+      "createdAt": "2025-04-22T07:23:39.861Z",
+      "updatedAt": "2025-04-22T07:23:39.861Z",
+      "verseId": "1cda31e9-9d29-4f96-bcf5-6e37315b51d5",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "4646743d-cfd6-4880-80be-4ed7a8f95f8d",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:39.934Z",
+      "updatedAt": "2025-04-22T07:23:39.934Z",
+      "verseId": "e4ee80cf-6fdb-4686-92bd-b1b77b512a7d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "c8a08ba4-e031-484c-9a2b-b7ce0cdf3952",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 126,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:39.991Z",
+      "updatedAt": "2025-04-22T07:23:39.991Z",
+      "verseId": "6095d61d-8920-47f2-b1c9-7d14db4432fb",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "fdc51e5d-0a52-4730-9f0d-385543ac8509",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 74,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:40.034Z",
+      "updatedAt": "2025-04-22T07:23:40.034Z",
+      "verseId": "dce0a03a-7d87-46e8-b2d7-3b499a93a872",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "bea74212-131d-4475-85de-f8fd867fe928",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 118,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:40.218Z",
+      "updatedAt": "2025-04-22T07:23:40.218Z",
+      "verseId": "9a95d9ed-d58f-4062-a41c-66587306a092",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "ae52e882-85c7-49bf-8168-f09b4e1a7abe",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 170,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:40.289Z",
+      "updatedAt": "2025-04-22T07:23:40.289Z",
+      "verseId": "be300b61-d740-44ff-a5fb-76f1eb21bb00",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
+    },
+    {
+      "id": "d8eb0d9b-db8f-4e13-8bc3-11c29c6b018f",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 24,
+      "createdAt": "2025-04-22T07:23:40.403Z",
+      "updatedAt": "2025-04-22T07:23:40.403Z",
+      "verseId": "cec8b47f-e2f0-4ce8-af7f-e3632731252d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     }
   ],
   "headings": [
     {
-      "id": "512f3320-245a-486f-a449-ee26dba3a780",
+      "id": "60ce2612-e43c-47ed-898c-0f4acb20c3b5",
       "content": "Hai người mục tử",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:57:13.268Z",
-      "updatedAt": "2024-09-23T04:57:13.268Z",
-      "verseId": "b86ba3b0-8c71-44e9-992b-3e5ab9934847",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.890Z",
+      "updatedAt": "2025-04-22T07:23:39.890Z",
+      "verseId": "e4ee80cf-6fdb-4686-92bd-b1b77b512a7d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     }
   ],
   "references": [
     {
-      "id": "7df5e4cf-5877-4432-87dd-762bf07740f7",
+      "id": "85ede44b-ebc5-40c7-9514-b218d78981f9",
       "content": "Ed 34,8-10",
       "position": 10,
       "order": 0,
-      "createdAt": "2024-09-23T04:57:13.278Z",
-      "updatedAt": "2024-09-23T04:57:13.278Z",
-      "headingId": "512f3320-245a-486f-a449-ee26dba3a780",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.920Z",
+      "updatedAt": "2025-04-22T07:23:39.920Z",
+      "headingId": "60ce2612-e43c-47ed-898c-0f4acb20c3b5",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "b99ea128-eb30-4eeb-99a4-57c60ec52a5b",
+      "id": "402deb97-d7c3-41c1-97dc-b3feb30004b8",
       "content": "Gr 12,3",
-      "position": 83,
+      "position": 79,
       "order": 1,
-      "createdAt": "2024-09-23T04:57:13.286Z",
-      "updatedAt": "2024-09-23T04:57:13.286Z",
-      "verseId": "b86ba3b0-8c71-44e9-992b-3e5ab9934847",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:39.962Z",
+      "updatedAt": "2025-04-22T07:23:39.962Z",
+      "verseId": "e4ee80cf-6fdb-4686-92bd-b1b77b512a7d",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "7468cdff-46f9-4e6c-9ac5-0e789961acec",
+      "id": "287e8ee6-54ce-44a1-8ba4-7ded78851da8",
       "content": "Mt 26,15",
       "position": 115,
       "order": 2,
-      "createdAt": "2024-09-23T04:57:13.361Z",
-      "updatedAt": "2024-09-23T04:57:13.361Z",
-      "verseId": "c9c502e8-d501-4401-82da-6457e394370d",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.261Z",
+      "updatedAt": "2025-04-22T07:23:40.261Z",
+      "verseId": "436cf5d5-1a0d-4ac6-8c36-91674e78f4d4",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "4a8ce0af-3e2e-477b-897e-f49ed746515a",
+      "id": "e478c45f-47fa-4c89-a39a-7adaac9f5973",
       "content": "2 V 12,11; 22,4; Mt 27,5",
-      "position": 144,
+      "position": 140,
       "order": 3,
-      "createdAt": "2024-09-23T04:57:13.378Z",
-      "updatedAt": "2024-09-23T04:57:13.378Z",
-      "verseId": "81560818-e682-4753-b1ef-525a9b1db20c",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.347Z",
+      "updatedAt": "2025-04-22T07:23:40.347Z",
+      "verseId": "be300b61-d740-44ff-a5fb-76f1eb21bb00",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "8f8ff080-10d0-4541-858a-96f768d7a525",
+      "id": "ad1a460d-5283-4740-9069-a52d8777d0bf",
       "content": "Is 42,3; Ed 34,2-4; Mt 12,20",
       "position": 60,
       "order": 4,
-      "createdAt": "2024-09-23T04:57:13.403Z",
-      "updatedAt": "2024-09-23T04:57:13.403Z",
-      "verseId": "2d78af60-fe0c-484d-ac01-5cf8db78c5b3",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.449Z",
+      "updatedAt": "2025-04-22T07:23:40.449Z",
+      "verseId": "31f37f46-7021-4306-891e-947748a2da1c",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     },
     {
-      "id": "cf0226b2-29b8-4858-9f01-d0b19e3e124c",
+      "id": "19e877e9-4561-4ea2-bebf-12fc3d973cdf",
       "content": "Ga 10,12-13",
       "position": 3,
       "order": 5,
-      "createdAt": "2024-09-23T04:57:13.416Z",
-      "updatedAt": "2024-09-23T04:57:13.416Z",
-      "verseId": "98363e31-8b43-4aa2-a96f-3903b911f8af",
-      "chapterId": "821a4426-ff29-46d8-abeb-9af1c35241af"
+      "createdAt": "2025-04-22T07:23:40.491Z",
+      "updatedAt": "2025-04-22T07:23:40.491Z",
+      "verseId": "2d8de41a-99bd-406e-a2e0-8fbb2f2bfbbc",
+      "chapterId": "aa831ce3-8a17-49ce-84d2-6230c72fd835"
     }
   ],
   "psalmMetadata": []

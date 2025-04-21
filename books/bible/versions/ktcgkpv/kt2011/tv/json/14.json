@@ -1,285 +1,306 @@
 {
   "chapter": {
-    "id": "4f05670a-58e1-472a-8693-b40dd92fdf40",
+    "id": "c41ec71b-95ff-429f-8cb2-1efe23bf150b",
     "number": 14,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.366Z",
-    "updatedAt": "2024-09-23T03:08:02.366Z",
-    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+    "createdAt": "2025-04-22T00:48:31.713Z",
+    "updatedAt": "2025-04-22T00:48:31.713Z",
+    "bookId": "9beff2a2-3de1-4b2d-b189-6eadb8dd6815"
   },
   "verses": [
     {
-      "id": "9f403d79-2614-401c-84ea-e8192bd564ce",
+      "id": "30c35757-6f3f-450b-ac85-05a36eac93c4",
       "number": 1,
-      "content": "*Phần ca trưởng. Của vua [Đa-vít]().*",
+      "content": "*Phần ca trưởng. Của vua Đa-vít.*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:14:01.484Z",
-      "updatedAt": "2024-09-23T04:14:01.484Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.190Z",
+      "updatedAt": "2025-04-22T05:23:44.190Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "0d772dd4-6c56-4d83-9ad4-1c8fcafccc57",
+      "id": "f62b0937-5cc9-4db7-a5ab-ffe1b1c43ed4",
       "number": 1,
       "content": "Kẻ ngu si tự nhủ : “Làm chi có Chúa Trời !”",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.491Z",
-      "updatedAt": "2024-09-23T04:14:01.491Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.236Z",
+      "updatedAt": "2025-04-22T05:23:44.236Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "31ff9869-4aa2-4eb3-af78-6658bdd70116",
+      "id": "cbf00411-4cf5-48de-bc2a-85ea01065736",
       "number": 1,
       "content": "Chúng đã ra hư đốn, làm những điều ghê tởm,",
       "order": 2,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.493Z",
-      "updatedAt": "2024-09-23T04:14:01.493Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.245Z",
+      "updatedAt": "2025-04-22T05:23:44.245Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "dec6e51d-8eb6-416e-93ae-15c45dbe0651",
+      "id": "1a54a8f2-aa9c-40b9-b2d5-8879da490f8b",
       "number": 1,
       "content": "chẳng có một ai làm điều thiện.",
       "order": 3,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.495Z",
-      "updatedAt": "2024-09-23T04:14:01.495Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.255Z",
+      "updatedAt": "2025-04-22T05:23:44.255Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "44fd9373-5248-45a1-a949-cfae8a64a67c",
+      "id": "d58f5609-9393-41a2-8d6b-0f803eb51518",
       "number": 2,
       "content": "Từ trời cao, CHÚA nhìn xuống loài người,",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.497Z",
-      "updatedAt": "2024-09-23T04:14:01.497Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.265Z",
+      "updatedAt": "2025-04-22T05:23:44.265Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "1bf33912-b65b-47c5-a9df-eb2bd7dc870a",
+      "id": "8000c66f-de02-4954-8cf0-75bea9c11fd2",
       "number": 2,
       "content": "xem ai là kẻ có lương tri, biết kiếm tìm Thiên Chúa.",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.499Z",
-      "updatedAt": "2024-09-23T04:14:01.499Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.274Z",
+      "updatedAt": "2025-04-22T05:23:44.274Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "8535f6c1-8574-4eb4-a900-2a88ef0efcde",
+      "id": "e4d7650e-2d7a-4a9b-a6da-9045da194868",
       "number": 3,
       "content": "Người người đã lìa xa chính lộ,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.501Z",
-      "updatedAt": "2024-09-23T04:14:01.501Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.284Z",
+      "updatedAt": "2025-04-22T05:23:44.284Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "469ece36-cc7f-4e89-8cd7-86ea3b71c16b",
+      "id": "a4af53cf-77ed-436a-b274-701e34e39af3",
       "number": 3,
       "content": "chỉ biết theo nhau làm chuyện suy đồi,",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.504Z",
-      "updatedAt": "2024-09-23T04:14:01.504Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.297Z",
+      "updatedAt": "2025-04-22T05:23:44.297Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "f0125c5c-882f-43d9-a6dc-b76b75c25304",
+      "id": "7b0b0709-3f29-4d2b-ae34-4697a5268989",
       "number": 3,
       "content": "chẳng có một ai làm điều thiện,",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.509Z",
-      "updatedAt": "2024-09-23T04:14:01.509Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.306Z",
+      "updatedAt": "2025-04-22T05:23:44.306Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "94a6a636-c901-48e0-9566-b0f946ae318a",
+      "id": "8d71a627-2b7f-481d-b5ab-8a203eeeba91",
       "number": 3,
       "content": "dẫu một người cũng không.",
       "order": 3,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.513Z",
-      "updatedAt": "2024-09-23T04:14:01.513Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.316Z",
+      "updatedAt": "2025-04-22T05:23:44.316Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "50634459-3904-4f73-a91a-bb6432716389",
+      "id": "60b683a7-28f4-4607-8617-d1f79f3198ec",
       "number": 4,
       "content": "Mọi kẻ làm điều ác, kẻ sống trên xương máu đồng bào ta,",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.517Z",
-      "updatedAt": "2024-09-23T04:14:01.517Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.326Z",
+      "updatedAt": "2025-04-22T05:23:44.326Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "adb5ee1e-9469-4b17-aead-e5106984bd53",
+      "id": "7ddf19ca-932d-4c53-ac0d-00016bdf918c",
       "number": 4,
       "content": "kẻ không cầu khẩn CHÚA, há chẳng hiểu biết gì ?",
       "order": 1,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.526Z",
-      "updatedAt": "2024-09-23T04:14:01.526Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.345Z",
+      "updatedAt": "2025-04-22T05:23:44.345Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "aaddf998-5973-4e96-9e6e-57f062705bdb",
+      "id": "f97e07cd-fc1e-430a-a718-413901c002ff",
       "number": 5,
       "content": "Này chúng phải kinh hoàng sợ hãi,",
       "order": 0,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.531Z",
-      "updatedAt": "2024-09-23T04:14:01.531Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.355Z",
+      "updatedAt": "2025-04-22T05:23:44.355Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "c2a995de-afd1-4578-a600-03cb4f9ec546",
+      "id": "c25baf74-1896-4934-bfbe-147ddc93f492",
       "number": 5,
       "content": "vì Thiên Chúa bênh dòng dõi chính nhân.",
       "order": 1,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.535Z",
-      "updatedAt": "2024-09-23T04:14:01.535Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.364Z",
+      "updatedAt": "2025-04-22T05:23:44.364Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "66fd020a-b460-41c2-baf2-4753fc0aa968",
+      "id": "c6e3df32-7c99-44f4-a465-1678aa993824",
       "number": 6,
       "content": "Các ngươi chế giễu dự tính của người nghèo,",
       "order": 0,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.539Z",
-      "updatedAt": "2024-09-23T04:14:01.539Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.374Z",
+      "updatedAt": "2025-04-22T05:23:44.374Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "e09df98c-97d1-4785-a682-6b5d81182730",
+      "id": "adc1e273-9b80-4745-98c6-84318a4cf57a",
       "number": 6,
       "content": "nhưng CHÚA là nơi họ ẩn náu.",
       "order": 1,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.544Z",
-      "updatedAt": "2024-09-23T04:14:01.544Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.383Z",
+      "updatedAt": "2025-04-22T05:23:44.383Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "df1168fd-94fc-4164-9519-e9adc2330d81",
+      "id": "d037d652-4ca4-48ea-af5b-b19b1e4f35b5",
       "number": 7,
-      "content": "Từ [Xi-on](), ai sẽ đem ơn cứu độ cho [Ít-ra-en]() ?",
+      "content": "Từ Xi-on, ai sẽ đem ơn cứu độ cho Ít-ra-en ?",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.549Z",
-      "updatedAt": "2024-09-23T04:14:01.549Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.393Z",
+      "updatedAt": "2025-04-22T05:23:44.393Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "213cbca7-8c1e-41d3-97f0-353383dbd256",
+      "id": "97afd091-2ce3-416d-aee5-51648c492e45",
       "number": 7,
       "content": "Khi CHÚA đổi vận mệnh dân Người,",
       "order": 1,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.553Z",
-      "updatedAt": "2024-09-23T04:14:01.553Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.418Z",
+      "updatedAt": "2025-04-22T05:23:44.418Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "c50941f3-eb41-4d14-9aeb-29175ccc8cec",
+      "id": "86b34ed5-e23d-4415-9dee-48e27a297576",
       "number": 7,
-      "content": "nhà [Gia-cóp]() vui mừng biết mấy,",
+      "content": "nhà Gia-cóp vui mừng biết mấy,",
       "order": 2,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.558Z",
-      "updatedAt": "2024-09-23T04:14:01.558Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.428Z",
+      "updatedAt": "2025-04-22T05:23:44.428Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "b5a4b4a6-0ac8-4899-8948-2fa3aa733b69",
+      "id": "8a642274-cf2d-4db1-aa63-f32776588204",
       "number": 7,
-      "content": "dân [Ít-ra-en]() hớn hở dường bao !",
+      "content": "dân Ít-ra-en hớn hở dường bao !",
       "order": 3,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:14:01.564Z",
-      "updatedAt": "2024-09-23T04:14:01.564Z",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.438Z",
+      "updatedAt": "2025-04-22T05:23:44.438Z",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     }
   ],
   "footnotes": [
     {
-      "id": "163ed516-8d28-405f-a3b2-5d3ec72d7e61",
+      "id": "8dbb0060-68bd-436e-922f-18a4c3fb77c4",
       "content": "Là *một Thánh vịnh giáo huấn*, Tv 14 rất giống Tv 53 ; chỉ có vài điểm dị biệt nhỏ sau đây : **1**) Tv 14 thường dùng “YHWH” (= Đức Chúa) trừ hai nơi (cc. 1.2b) ; còn Tv 53 lại dùng “´élöhîm” (= Thiên Chúa) ; **2**) Tv 14,4a : *mọi kẻ làm điều ác* ; Tv 53,5a : *những kẻ làm điều ác* ; **3**) Tv 14,5b-6 khác với Tv 53,6b-e.",
       "position": 41,
       "order": 0,
-      "createdAt": "2024-09-23T04:14:01.489Z",
-      "updatedAt": "2024-09-23T04:14:01.489Z",
-      "headingId": "901f2858-6fd8-470c-afb6-95b6e2f9b5e7",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.216Z",
+      "updatedAt": "2025-04-22T05:23:44.216Z",
+      "headingId": "85174ecb-87e2-4dd9-abff-5a790349db1a",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     },
     {
-      "id": "5394870f-7067-4896-b52c-0d33a590f055",
+      "id": "a235d91d-e2ac-4887-9db8-d9cb60d2e263",
       "content": "ds : *Mọi kẻ làm điều ác ăn dân Ta như ăn bánh*. Ý nghĩa ở đây giống ý nghĩa trong Mk 3,3 : áp bức, bóc lột dân.",
       "position": 54,
       "order": 1,
-      "createdAt": "2024-09-23T04:14:01.522Z",
-      "updatedAt": "2024-09-23T04:14:01.522Z",
-      "verseId": "50634459-3904-4f73-a91a-bb6432716389",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.335Z",
+      "updatedAt": "2025-04-22T05:23:44.335Z",
+      "verseId": "60b683a7-28f4-4607-8617-d1f79f3198ec",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
+    },
+    {
+      "id": "e63b3f71-a841-4fac-bb96-2bb659d3cdaf",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 31,
+      "order": 2,
+      "createdAt": "2025-04-22T05:23:44.226Z",
+      "updatedAt": "2025-04-22T05:23:44.226Z",
+      "verseId": "30c35757-6f3f-450b-ac85-05a36eac93c4",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
+    },
+    {
+      "id": "8c4b58cf-c151-4a45-bc42-38e51b3ac4ad",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 8,
+      "order": 4,
+      "createdAt": "2025-04-22T05:23:44.405Z",
+      "updatedAt": "2025-04-22T05:23:44.405Z",
+      "verseId": "d037d652-4ca4-48ea-af5b-b19b1e4f35b5",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     }
   ],
   "headings": [
     {
-      "id": "901f2858-6fd8-470c-afb6-95b6e2f9b5e7",
+      "id": "85174ecb-87e2-4dd9-abff-5a790349db1a",
       "content": "Tv 14 (13) Người không tin vào Thiên Chúa",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:14:01.487Z",
-      "updatedAt": "2024-09-23T04:14:01.487Z",
-      "verseId": "9f403d79-2614-401c-84ea-e8192bd564ce",
-      "chapterId": "4f05670a-58e1-472a-8693-b40dd92fdf40"
+      "createdAt": "2025-04-22T05:23:44.207Z",
+      "updatedAt": "2025-04-22T05:23:44.207Z",
+      "verseId": "30c35757-6f3f-450b-ac85-05a36eac93c4",
+      "chapterId": "c41ec71b-95ff-429f-8cb2-1efe23bf150b"
     }
   ],
   "references": [],

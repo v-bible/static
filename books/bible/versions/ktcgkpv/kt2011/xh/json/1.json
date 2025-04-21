@@ -1,487 +1,562 @@
 {
   "chapter": {
-    "id": "b0c603d1-906d-4d5d-80f8-598e0197c191",
+    "id": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce",
     "number": 1,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.186Z",
-    "updatedAt": "2024-09-23T03:08:02.186Z",
-    "bookId": "c3aab5a8-0e55-4ddb-8168-18d6f7c157a7"
+    "createdAt": "2025-04-22T00:48:30.823Z",
+    "updatedAt": "2025-04-22T00:48:30.823Z",
+    "bookId": "0c7f69af-0d48-43e6-bc26-1eb48200cd34"
   },
   "verses": [
     {
-      "id": "74b120f6-9797-4b8d-932a-76cabdc77e27",
+      "id": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
       "number": 1,
-      "content": "Sau đây là tên những con cái [Ít-ra-en]() đã đến [Ai-cập]() với ông [Gia-cóp](), mỗi người đem theo gia đình mình :",
+      "content": "Sau đây là tên những con cái Ít-ra-en đã đến Ai-cập với ông Gia-cóp, mỗi người đem theo gia đình mình :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.961Z",
-      "updatedAt": "2024-09-23T03:39:36.961Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.924Z",
+      "updatedAt": "2025-04-22T02:35:57.924Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "0f1faa3b-4b67-4d9b-acb3-1f82614c5d34",
+      "id": "cf706b72-a824-4548-8b32-2d7481d6b91b",
       "number": 2,
-      "content": "[Rưu-vên](), [Si-mê-ôn](), [Lê-vi]() và [Giu-đa](),",
+      "content": "Rưu-vên, Si-mê-ôn, Lê-vi và Giu-đa,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.984Z",
-      "updatedAt": "2024-09-23T03:39:36.984Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.021Z",
+      "updatedAt": "2025-04-22T02:35:58.021Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "01c29b04-47ad-4a2e-8958-9a914fb1ac46",
+      "id": "677d5d6f-ae53-44b5-9666-1a3146e6604f",
       "number": 3,
-      "content": "[Ít-xa-kha](), [Dơ-vu-lun]() và [Ben-gia-min](),",
+      "content": "Ít-xa-kha, Dơ-vu-lun và Ben-gia-min,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.986Z",
-      "updatedAt": "2024-09-23T03:39:36.986Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.032Z",
+      "updatedAt": "2025-04-22T02:35:58.032Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "cadfb09b-eba1-4d9f-9958-47acade68562",
+      "id": "ea62ba1c-82bb-452b-95fe-dd16a818f16d",
       "number": 4,
-      "content": "[Đan]() và [Náp-ta-li](), [Gát]() và [A-se]().",
+      "content": "Đan và Náp-ta-li, Gát và A-se.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.988Z",
-      "updatedAt": "2024-09-23T03:39:36.988Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.042Z",
+      "updatedAt": "2025-04-22T02:35:58.042Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "2476836b-ff7e-43d5-a121-17f028f06886",
+      "id": "8931e873-01f0-438d-acad-c15757df864d",
       "number": 5,
-      "content": "Dòng giống ông [Gia-cóp]() tính tất cả là bảy mươi người ; ông [Giu-se]() thì đang ở bên [Ai-cập]().",
+      "content": "Dòng giống ông Gia-cóp tính tất cả là bảy mươi người ; ông Giu-se thì đang ở bên Ai-cập.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.990Z",
-      "updatedAt": "2024-09-23T03:39:36.990Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.052Z",
+      "updatedAt": "2025-04-22T02:35:58.052Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "a2bd2d77-6e5d-47a8-9e02-227a6c2390ff",
+      "id": "7814a1c5-ae34-4a1c-b5be-6d245ca9e0ce",
       "number": 6,
-      "content": "Rồi ông [Giu-se]() qua đời, cũng như anh em ông và tất cả thế hệ đó.",
+      "content": "Rồi ông Giu-se qua đời, cũng như anh em ông và tất cả thế hệ đó.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.996Z",
-      "updatedAt": "2024-09-23T03:39:36.996Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.083Z",
+      "updatedAt": "2025-04-22T02:35:58.083Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "f9420c21-e995-4d90-878b-b3ed62898679",
+      "id": "d4e404ae-3e79-463f-a63f-e4dea7e91bf2",
       "number": 7,
-      "content": "Con cái [Ít-ra-en]() sinh sôi nảy nở, nên đông đúc và ngày càng hùng mạnh : họ lan tràn khắp xứ.",
+      "content": "Con cái Ít-ra-en sinh sôi nảy nở, nên đông đúc và ngày càng hùng mạnh : họ lan tràn khắp xứ.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:36.999Z",
-      "updatedAt": "2024-09-23T03:39:36.999Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.103Z",
+      "updatedAt": "2025-04-22T02:35:58.103Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "823efd6e-a6ed-4abd-a6f1-c8bc75dd6d14",
+      "id": "54412709-af59-4b3d-b3eb-749e366a1037",
       "number": 8,
-      "content": "Thời ấy có một vua mới lên trị vì nước [Ai-cập](), vua này không biết ông [Giu-se]().",
+      "content": "Thời ấy có một vua mới lên trị vì nước Ai-cập, vua này không biết ông Giu-se.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.003Z",
-      "updatedAt": "2024-09-23T03:39:37.003Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.123Z",
+      "updatedAt": "2025-04-22T02:35:58.123Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "9aa753f3-a6c3-482d-a0bc-071b95a904a8",
+      "id": "74bf259f-692b-4e4a-a4c7-1c3a403522a0",
       "number": 9,
-      "content": "Vua nói với dân mình : “Này đám dân con cái [Ít-ra-en]() đông đúc và hùng mạnh hơn chúng ta.",
+      "content": "Vua nói với dân mình : “Này đám dân con cái Ít-ra-en đông đúc và hùng mạnh hơn chúng ta.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.013Z",
-      "updatedAt": "2024-09-23T03:39:37.013Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.187Z",
+      "updatedAt": "2025-04-22T02:35:58.187Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "6b351c53-b532-40ae-ae44-eb9f654d2d7d",
+      "id": "bfb39d08-b7c2-424c-be25-95868a7a5410",
       "number": 10,
       "content": "Chúng ta hãy dùng những biện pháp khôn ngoan đối với dân đó, đừng để chúng nên đông đúc, kẻo khi có chiến tranh, chúng hùa với địch mà đánh lại chúng ta, rồi ra khỏi xứ.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.016Z",
-      "updatedAt": "2024-09-23T03:39:37.016Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.199Z",
+      "updatedAt": "2025-04-22T02:35:58.199Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "9f3a01e6-163c-443d-9a11-25a7b7852bf0",
+      "id": "ea61223a-a843-4ede-8ca0-e55204228643",
       "number": 11,
-      "content": "Người ta bèn đặt lên đầu lên cổ họ những viên đốc công, để hành hạ họ bằng những việc khổ sai ; họ phải xây cho [Pha-ra-ô]() các thành làm kho lương thực là [Pi-thôm]() và [Ram-xết]().",
+      "content": "Người ta bèn đặt lên đầu lên cổ họ những viên đốc công, để hành hạ họ bằng những việc khổ sai ; họ phải xây cho Pha-ra-ô các thành làm kho lương thực là Pi-thôm và Ram-xết.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.024Z",
-      "updatedAt": "2024-09-23T03:39:37.024Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.220Z",
+      "updatedAt": "2025-04-22T02:35:58.220Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "ea98dcd3-5903-4315-adfd-ab19af1a45e8",
+      "id": "976a04da-1ecc-4c94-aa24-d446fde55638",
       "number": 12,
-      "content": "Nhưng chúng càng hành hạ họ, thì họ càng nên đông đúc và lan tràn, khiến chúng đâm ra sợ con cái [Ít-ra-en]().",
+      "content": "Nhưng chúng càng hành hạ họ, thì họ càng nên đông đúc và lan tràn, khiến chúng đâm ra sợ con cái Ít-ra-en.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.035Z",
-      "updatedAt": "2024-09-23T03:39:37.035Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.283Z",
+      "updatedAt": "2025-04-22T02:35:58.283Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "22a9152b-453c-4ff7-ba14-929ce909f954",
+      "id": "01aadb73-2428-46fd-bfdd-a312d40f481b",
       "number": 13,
-      "content": "Người [Ai-cập]() cưỡng bách con cái [Ít-ra-en]() lao động cực nhọc.",
+      "content": "Người Ai-cập cưỡng bách con cái Ít-ra-en lao động cực nhọc.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.039Z",
-      "updatedAt": "2024-09-23T03:39:37.039Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.293Z",
+      "updatedAt": "2025-04-22T02:35:58.293Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "81bbf13b-80ab-47d3-97b2-1e104926ed0b",
+      "id": "bbdd1673-12f4-4170-9ef7-a8158ba3a1c0",
       "number": 14,
       "content": "Chúng làm cho đời sống họ ra cay đắng vì phải lao động cực nhọc : phải trộn hồ làm gạch, phải làm đủ thứ công việc đồng áng ; tóm lại, tất cả những việc lao động cực nhọc, chúng đều cưỡng bách họ làm.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.043Z",
-      "updatedAt": "2024-09-23T03:39:37.043Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.303Z",
+      "updatedAt": "2025-04-22T02:35:58.303Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "9ba251d1-293d-4509-a7c2-18af1ed9314a",
+      "id": "d8820950-d021-4f82-ae5a-9ea9cfc845ed",
       "number": 15,
-      "content": "Vua [Ai-cập]() nói với những bà đỡ đi giúp sản phụ [Híp-ri](), một bà tên là [Síp-ra](), một bà tên là [Pu-a]() :",
+      "content": "Vua Ai-cập nói với những bà đỡ đi giúp sản phụ Híp-ri, một bà tên là Síp-ra, một bà tên là Pu-a :",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.056Z",
-      "updatedAt": "2024-09-23T03:39:37.056Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.334Z",
+      "updatedAt": "2025-04-22T02:35:58.334Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "1b154719-3230-4208-a78a-39de26a3ecf3",
+      "id": "6c0bd39d-c4e4-4b7a-9084-ace822526060",
       "number": 16,
-      "content": "“Khi đỡ cho sản phụ [Híp-ri](), các người hãy xem đứa trẻ là trai hay gái. Nếu là trai thì giết đi, nếu là gái thì để cho sống.”",
+      "content": "“Khi đỡ cho sản phụ Híp-ri, các người hãy xem đứa trẻ là trai hay gái. Nếu là trai thì giết đi, nếu là gái thì để cho sống.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.060Z",
-      "updatedAt": "2024-09-23T03:39:37.060Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.354Z",
+      "updatedAt": "2025-04-22T02:35:58.354Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "0f477a37-6eed-4ddd-8ea3-f89b554e6af8",
+      "id": "54854987-f22f-40da-bdf1-a0c9e942dde7",
       "number": 17,
-      "content": "Nhưng các bà đỡ có lòng kính sợ Thiên Chúa, nên không làm như vua [Ai-cập]() đã truyền, và cứ để cho con trai sống.",
+      "content": "Nhưng các bà đỡ có lòng kính sợ Thiên Chúa, nên không làm như vua Ai-cập đã truyền, và cứ để cho con trai sống.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.068Z",
-      "updatedAt": "2024-09-23T03:39:37.068Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.377Z",
+      "updatedAt": "2025-04-22T02:35:58.377Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "0bec8e02-3710-4427-8e33-b8fbd3ab6113",
+      "id": "bd1a31cc-b3a1-4245-a979-77523e35d76a",
       "number": 18,
-      "content": "Vua [Ai-cập]() bèn gọi các bà đỡ đến và hỏi : “Tại sao các ngươi làm thế và cứ để cho con trai sống ?”",
+      "content": "Vua Ai-cập bèn gọi các bà đỡ đến và hỏi : “Tại sao các ngươi làm thế và cứ để cho con trai sống ?”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.071Z",
-      "updatedAt": "2024-09-23T03:39:37.071Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.387Z",
+      "updatedAt": "2025-04-22T02:35:58.387Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "4a40f182-6e58-42ac-a2e0-0cc177453305",
+      "id": "eebf32bf-53af-4c5a-abf7-9bf6c03a5a76",
       "number": 19,
-      "content": "Các bà đỡ thưa với [Pha-ra-ô]() : “Đàn bà [Híp-ri]() không như đàn bà [Ai-cập](), họ khoẻ lắm : bà đỡ chưa kịp đến thì họ đã sinh rồi.”",
+      "content": "Các bà đỡ thưa với Pha-ra-ô : “Đàn bà Híp-ri không như đàn bà Ai-cập, họ khoẻ lắm : bà đỡ chưa kịp đến thì họ đã sinh rồi.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.075Z",
-      "updatedAt": "2024-09-23T03:39:37.075Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.400Z",
+      "updatedAt": "2025-04-22T02:35:58.400Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "c7285bb5-73bd-451e-b9cd-1f78f72be3f5",
+      "id": "f5d76bf3-6375-45c9-9666-71ad1aa78934",
       "number": 20,
       "content": "Thiên Chúa ban ơn lành cho các bà đỡ ; còn dân thì trở nên đông đúc và rất hùng mạnh.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.079Z",
-      "updatedAt": "2024-09-23T03:39:37.079Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.423Z",
+      "updatedAt": "2025-04-22T02:35:58.423Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "5709a734-e370-4b0c-8566-db7561748fbf",
+      "id": "58b51e7b-17a3-4e3d-b180-ff8fe93858ec",
       "number": 21,
       "content": "Vậy, vì các bà đỡ có lòng kính sợ Thiên Chúa, nên Người đã cho họ có con để nối dòng.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.083Z",
-      "updatedAt": "2024-09-23T03:39:37.083Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.433Z",
+      "updatedAt": "2025-04-22T02:35:58.433Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "7c44267a-7da7-454c-86ea-0f99fc8aece8",
+      "id": "cd7d4a12-3d0d-464d-a7c0-7e68b09b5121",
       "number": 22,
-      "content": "[Pha-ra-ô]() ra lệnh cho toàn dân của mình : “Mọi con trai [Híp-ri]() sinh ra, hãy ném xuống sông [Nin]() ; mọi con gái thì để cho sống.”",
+      "content": "Pha-ra-ô ra lệnh cho toàn dân của mình : “Mọi con trai Híp-ri sinh ra, hãy ném xuống sông Nin ; mọi con gái thì để cho sống.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:39:37.087Z",
-      "updatedAt": "2024-09-23T03:39:37.087Z",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.445Z",
+      "updatedAt": "2025-04-22T02:35:58.445Z",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     }
   ],
   "footnotes": [
     {
-      "id": "9d7f9d76-487e-4614-9272-65d318ddffc6",
+      "id": "751d5a37-e268-4665-baf7-652d75159bd5",
       "content": "Ch. 1 có thể được coi là lời mở đầu sách Xh và là phần chuyển tiếp từ câu chuyện nói về các tổ phụ (sách St) sang câu chuyện nói về số phận của dân Ít-ra-en bên Ai-cập. Tác giả muốn cho thấy Thiên Chúa thực hiện lời Người hứa với ông Áp-ra-ham nhiều lần trước đây (St 12,2 ; 22,17) như thế nào, và lời tiên báo của ông Giu-se trước khi ông qua đời (St 46,11 ; x. Cv 7,14) được hoàn tất ra sao. Đàng khác, tác giả cũng cho thấy sự can thiệp đầy tình thương của Thiên Chúa đối với Ít-ra-en, giúp họ có một ý thức về tôn giáo và quốc gia để có thể đương đầu với vấn đề tôn giáo, chủng tộc của các dân đã sống ở Ca-na-an trước khi Ít-ra-en vào đất đó. – Về văn chương, người ta cho rằng : cc. 1-5.7 thuộc truyền thống tư tế ; cc. 6.8-12 thuộc truyền thống Gia-vít ; cc. 15-22 thuộc truyền thống Ê-lô-hít ; cc. 13-14 thuộc truyền thống tư tế. – Có thể chia ch.1 thành ba phần : **1**. Dòng dõi của ông Gia-cóp ở Ai-cập gia tăng (cc. 1-7) ; **2**. Dân Ít-ra-en bị cưỡng bức lao động nặng nhọc (cc. 8-14) ; **3**. Pha-ra-ô ra những biện pháp nhằm tiêu diệt Ít-ra-en (cc. 15-22).",
-      "position": 55,
+      "position": 47,
       "order": 0,
-      "createdAt": "2024-09-23T03:39:36.978Z",
-      "updatedAt": "2024-09-23T03:39:36.978Z",
-      "headingId": "094f2f0f-6604-4a1a-b8ef-7abb3a311c6a",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.990Z",
+      "updatedAt": "2025-04-22T02:35:57.990Z",
+      "headingId": "76262393-2fa0-4e3f-a1a2-47e9e8376b53",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "26ecc9aa-a05d-415d-8257-ed8c04595dfc",
+      "id": "60f7f2d4-1faa-4d5e-8732-70c0b3f3a13e",
       "content": "Bản danh sách con cái ông Gia-cóp không theo thứ tự sinh trước sinh sau (x. St 29,32 – 30,24), nhưng theo mẹ. Trước hết là con của các bà vợ chính thức : Rưu-vên, Si-mê-ôn, Lê-vi, Giu-đa, Ít-xa-kha, Dơ-vu-lun là các con của bà Lê-a ; Giu-se và Ben-gia-min là con của bà Ra-khen. Thứ đến là con của các bà thiếp : Đan và Náp-ta-li là các con của bà Bin-ha ; Gát và A-se là các con của bà Din-pa. – *Gia đình*, ds : *nhà*. Tức là vợ con, cháu chắt và các tôi tớ.",
-      "position": 113,
+      "position": 101,
       "order": 1,
-      "createdAt": "2024-09-23T03:39:36.980Z",
-      "updatedAt": "2024-09-23T03:39:36.980Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58Z",
+      "updatedAt": "2025-04-22T02:35:58Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "3dd5098d-d1d2-45c4-a6db-60bba75488a6",
+      "id": "93cda280-5ac1-4fd1-b3fb-eac8219d9dd4",
       "content": "LXX viết là *bảy mươi lăm người* và đưa câu *ông Giu-se thì đang ở bên Ai-cập* lên đầu câu. Theo St 15,13 thì dân Híp-ri đã phải ở bên Ai-cập suốt bốn trăm năm. Theo một truyền thống khác (x. Gl 3,17) thì giai đoạn này dài bốn trăm ba mươi năm. Vì thế, không nên hiểu sát chữ những kiểu nói và những con số ở đây.",
-      "position": 56,
+      "position": 52,
       "order": 2,
-      "createdAt": "2024-09-23T03:39:36.992Z",
-      "updatedAt": "2024-09-23T03:39:36.992Z",
-      "verseId": "2476836b-ff7e-43d5-a121-17f028f06886",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.062Z",
+      "updatedAt": "2025-04-22T02:35:58.062Z",
+      "verseId": "8931e873-01f0-438d-acad-c15757df864d",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "6c23ee3e-3565-4c08-b763-357a94c09eea",
+      "id": "171f3891-b824-4de4-8879-e928bad7bebf",
       "content": "Những nét tương phản trong chính bản văn : **1**. dân đông đúc và ngày càng hùng mạnh, lan tràn (c.7). Người Ai-cập càng hành hạ họ thì họ càng đông đúc và lan tràn (c.12). Pha-ra-ô ra lệnh tàn sát các em bé trai, dân vẫn đông đúc và hùng mạnh (c.20). **2**. và cuối cùng, khi không phải chỉ có một mình Pha-ra-ô, mà là toàn dân Ai-cập tham gia chiến dịch tiêu diệt, thì Thiên Chúa cho xuất hiện một em bé trai và chuẩn bị để thực hiện sứ mạng giải thoát đã được Người hứa trước.",
-      "position": 24,
+      "position": 20,
       "order": 3,
-      "createdAt": "2024-09-23T03:39:37.007Z",
-      "updatedAt": "2024-09-23T03:39:37.007Z",
-      "headingId": "026d4603-fab2-4163-8909-967b211dc3b8",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.143Z",
+      "updatedAt": "2025-04-22T02:35:58.143Z",
+      "headingId": "671b2fb9-fca2-4fd8-b14f-b86c9e5bfb38",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "fdca337a-246c-4b7b-a54d-59d29697793d",
+      "id": "e41c3cc0-57c3-42ab-8a67-90154f192fd3",
       "content": "Vua khác và chính sách khác đối với dân Híp-ri. Rất có thể đây là vua Ram-xết II (1290-1224). Con của ông là Méc-nép-ta sẽ là Pha-ra-ô thời xuất hành.",
-      "position": 84,
+      "position": 76,
       "order": 4,
-      "createdAt": "2024-09-23T03:39:37.009Z",
-      "updatedAt": "2024-09-23T03:39:37.009Z",
-      "verseId": "823efd6e-a6ed-4abd-a6f1-c8bc75dd6d14",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.162Z",
+      "updatedAt": "2025-04-22T02:35:58.162Z",
+      "verseId": "54412709-af59-4b3d-b3eb-749e366a1037",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "0822aa0d-87d3-4f1b-821b-a119d9fb38c6",
+      "id": "e4ce78ff-34b1-4926-9945-568084664a7c",
       "content": "*Pha-ra-ô* : chữ Ai-cập là P-Râ (PH-Râ) có nghĩa là *Thần Mặt Trời*. Ban đầu, P-Râ chỉ hoàng cung. Sau này, từ triều đại XVIII, từ này được dùng để chỉ chính nhà vua. – *Pi-thôm và Ram-xết*. *Pi-thôm* (Pr-Tm : nhà của thần Tem) là tên của một thành ở phía đông châu thổ sông Nin. Còn *Ram-xết* (được coi là Per-Ram-xết : Nhà do Ram-xết dựng) có thể là ở Ta-ni, có thể ở Can-tia (Qantir). Hai thành này cách nhau khoảng 20 km và cùng ở về phía đông châu thổ sông Nin.",
-      "position": 124,
+      "position": 120,
       "order": 5,
-      "createdAt": "2024-09-23T03:39:37.028Z",
-      "updatedAt": "2024-09-23T03:39:37.028Z",
-      "verseId": "9f3a01e6-163c-443d-9a11-25a7b7852bf0",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.244Z",
+      "updatedAt": "2025-04-22T02:35:58.244Z",
+      "verseId": "ea61223a-a843-4ede-8ca0-e55204228643",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "be80f0cf-3ff6-4b32-88e2-aa9f642f244e",
+      "id": "f56bc23f-dea5-4eae-9a00-bfadb30f71f3",
       "content": "Câu chuyện người Híp-ri bị cưỡng bức lao động nặng nhọc sẽ được tiếp nối ở 5,6-23. Phần tiếp theo ở đây (1,15tt), thuộc truyền thống Ê-lô-hít, nói đến những biện pháp nhằm tiêu diệt các em bé trai để chuẩn bị cho câu chuyện Mô-sê chào đời. Tuy nhiên, bản văn như hiện có cho thấy một đàng, để đối phó với sự gia tăng dân số và hùng mạnh của dân Híp-ri, Pha-ra-ô đã bắt ép dân này lao động cực nhọc để củng cố đất Ai-cập và có những biện pháp nhằm ngăn chặn đà gia tăng dân số, kể cả tàn sát. Đàng khác, Thiên Chúa của giao ước lại tỏ lòng nhân từ qua những con người bình thường (các bà đỡ). Bản văn đã hé cho thấy hành động của Thiên Chúa tuy nhẹ nhàng nhưng đã chiến thắng được các chính sách hà khắc và áp bức của Pha-ra-ô.",
       "position": 199,
       "order": 6,
-      "createdAt": "2024-09-23T03:39:37.047Z",
-      "updatedAt": "2024-09-23T03:39:37.047Z",
-      "verseId": "81bbf13b-80ab-47d3-97b2-1e104926ed0b",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.314Z",
+      "updatedAt": "2025-04-22T02:35:58.314Z",
+      "verseId": "bbdd1673-12f4-4170-9ef7-a8158ba3a1c0",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "26114f84-d182-4c65-ae6d-e99946812fa6",
+      "id": "8ba32ebd-b228-471b-a072-4fcc15a81766",
       "content": "*... xem đứa trẻ là trai hay gái*, ds : *xem hai phiến đá*. Có lẽ đây là chỗ người ta đặt người sản phụ.",
-      "position": 73,
+      "position": 69,
       "order": 7,
-      "createdAt": "2024-09-23T03:39:37.064Z",
-      "updatedAt": "2024-09-23T03:39:37.064Z",
-      "verseId": "1b154719-3230-4208-a78a-39de26a3ecf3",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.367Z",
+      "updatedAt": "2025-04-22T02:35:58.367Z",
+      "verseId": "6c0bd39d-c4e4-4b7a-9084-ace822526060",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "de7ad492-6316-465a-b1c6-0c175b2ea0aa",
+      "content": "English: Pharaoh - French: Pharaon - Latin: Pharaon - Origin: &#64324;&#1463;&#1512;&#1456;&#1506;&#1465;&#1492; - Vietnamese: Pha-ra-ô 1 Sb 4,18 ; Gr 25,19",
+      "position": 120,
+      "order": 40,
+      "createdAt": "2025-04-22T02:35:58.231Z",
+      "updatedAt": "2025-04-22T02:35:58.231Z",
+      "verseId": "ea61223a-a843-4ede-8ca0-e55204228643",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "cd5e4ed6-a9cb-4adc-aeff-a9d19898e85a",
+      "content": "English: Pharaoh - French: Pharaon - Latin: Pharaon - Origin: &#64324;&#1463;&#1512;&#1456;&#1506;&#1465;&#1492; - Vietnamese: Pha-ra-ô 1 Sb 4,18 ; Gr 25,19",
+      "position": 27,
+      "order": 40,
+      "createdAt": "2025-04-22T02:35:58.412Z",
+      "updatedAt": "2025-04-22T02:35:58.412Z",
+      "verseId": "eebf32bf-53af-4c5a-abf7-9bf6c03a5a76",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "934931bb-9ba8-47d9-8bbc-43ccf71ad3c6",
+      "content": "English: Pharaoh - French: Pharaon - Latin: Pharaon - Origin: &#64324;&#1463;&#1512;&#1456;&#1506;&#1465;&#1492; - Vietnamese: Pha-ra-ô 1 Sb 4,18 ; Gr 25,19",
+      "position": 8,
+      "order": 40,
+      "createdAt": "2025-04-22T02:35:58.455Z",
+      "updatedAt": "2025-04-22T02:35:58.455Z",
+      "verseId": "cd7d4a12-3d0d-464d-a7c0-7e68b09b5121",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "17318675-950b-4313-9458-8dc51e7a8353",
+      "content": "English: Pithom - French: Pitom - Latin: Phithom - Origin: &#64324;&#1460;&#1514;&#1465;&#1501; - Vietnamese: Pi-thôm Xh 1,11",
+      "position": 160,
+      "order": 42,
+      "createdAt": "2025-04-22T02:35:58.254Z",
+      "updatedAt": "2025-04-22T02:35:58.254Z",
+      "verseId": "ea61223a-a843-4ede-8ca0-e55204228643",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "80877942-96de-45ec-887d-f9895edc62cf",
+      "content": "English: Rameses - French: Ramsès - Latin: Ramesses - Origin: &#1512;&#1463;&#1506;&#1456;&#1502;&#1456;&#1505;&#1461;&#1505; - Vietnamese: Ram-xết St 47,11 ; Xh 1,11",
+      "position": 171,
+      "order": 44,
+      "createdAt": "2025-04-22T02:35:58.263Z",
+      "updatedAt": "2025-04-22T02:35:58.263Z",
+      "verseId": "ea61223a-a843-4ede-8ca0-e55204228643",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "a5c8408c-5862-4b91-aace-ebe54b969e26",
+      "content": "English: Shiphrah - French: Shifra - Latin: Sephra - Origin: &#64298;&#1460;&#1508;&#1456;&#1512;&#1464;&#1492; - Vietnamese: Síp-ra Xh 1,15-21",
+      "position": 75,
+      "order": 46,
+      "createdAt": "2025-04-22T02:35:58.344Z",
+      "updatedAt": "2025-04-22T02:35:58.344Z",
+      "verseId": "d8820950-d021-4f82-ae5a-9ea9cfc845ed",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "47b9396b-8c8a-4fb6-9391-2bd45cc327ff",
+      "content": "English: Nile - French: Nil - Latin: Nilus - Origin: &#1497;&#1456;&#1488;&#1465;&#1512; &#1497;&#1456;&#1488;&#64331;&#1512; - Vietnamese: Nin Is 19,5-8",
+      "position": 93,
+      "order": 50,
+      "createdAt": "2025-04-22T02:35:58.465Z",
+      "updatedAt": "2025-04-22T02:35:58.465Z",
+      "verseId": "cd7d4a12-3d0d-464d-a7c0-7e68b09b5121",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     }
   ],
   "headings": [
     {
-      "id": "8390e8a3-ff4c-4c7a-a8e2-2a662cb9ef85",
+      "id": "671b2fb9-fca2-4fd8-b14f-b86c9e5bfb38",
+      "content": "Dân Híp-ri bị áp bức",
+      "level": 3,
+      "order": 0,
+      "createdAt": "2025-04-22T02:35:58.133Z",
+      "updatedAt": "2025-04-22T02:35:58.133Z",
+      "verseId": "54412709-af59-4b3d-b3eb-749e366a1037",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
+    },
+    {
+      "id": "17e0ecf5-dcd3-42bd-a00d-b9462b52d15d",
       "content": "SÁCH XUẤT HÀNH",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:39:36.970Z",
-      "updatedAt": "2024-09-23T03:39:36.970Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.944Z",
+      "updatedAt": "2025-04-22T02:35:57.944Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "026d4603-fab2-4163-8909-967b211dc3b8",
-      "content": "Dân [Híp-ri]() bị áp bức",
-      "order": 0,
-      "createdAt": "2024-09-23T03:39:37.005Z",
-      "updatedAt": "2024-09-23T03:39:37.005Z",
-      "verseId": "823efd6e-a6ed-4abd-a6f1-c8bc75dd6d14",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
-    },
-    {
-      "id": "ae0b551a-00c8-469d-8eb5-abc1a5ea7091",
+      "id": "5d83d71e-d0b3-4bc8-97a5-436244e1bf23",
       "content": "I. CÔNG CUỘC GIẢI THOÁT KHỎI AI-CẬP",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T03:39:36.972Z",
-      "updatedAt": "2024-09-23T03:39:36.972Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.954Z",
+      "updatedAt": "2025-04-22T02:35:57.954Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "1adcf937-0e85-4313-aae8-64638020dd4f",
+      "id": "7db77532-633c-4830-89dd-ef0959f0731b",
       "content": "1. DÂN ÍT-RA-EN BÊN AI-CẬP",
+      "level": 2,
       "order": 2,
-      "createdAt": "2024-09-23T03:39:36.974Z",
-      "updatedAt": "2024-09-23T03:39:36.974Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.967Z",
+      "updatedAt": "2025-04-22T02:35:57.967Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "094f2f0f-6604-4a1a-b8ef-7abb3a311c6a",
-      "content": "Cảnh sống thịnh vượng của người [Híp-ri]() ở [Ai-cập]()",
+      "id": "76262393-2fa0-4e3f-a1a2-47e9e8376b53",
+      "content": "Cảnh sống thịnh vượng của người Híp-ri ở Ai-cập",
+      "level": 3,
       "order": 3,
-      "createdAt": "2024-09-23T03:39:36.976Z",
-      "updatedAt": "2024-09-23T03:39:36.976Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:57.979Z",
+      "updatedAt": "2025-04-22T02:35:57.979Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     }
   ],
   "references": [
     {
-      "id": "7c93e033-9e5e-463d-8cd1-15a82f6858c2",
+      "id": "e26b57d3-e257-4c71-be7d-78e86834db1c",
       "content": "St 46,1-27; Cv 7,14-17",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T03:39:36.982Z",
-      "updatedAt": "2024-09-23T03:39:36.982Z",
-      "verseId": "74b120f6-9797-4b8d-932a-76cabdc77e27",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.010Z",
+      "updatedAt": "2025-04-22T02:35:58.010Z",
+      "verseId": "ec7eddb5-a1ac-47aa-af31-b65169647da6",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "960ff375-9684-4ec2-b0d3-8e71d82c5d8b",
+      "id": "2f734e28-1af2-4f9c-865d-9586e72481f1",
       "content": "St 46,27; Đnl 10,22",
-      "position": 42,
+      "position": 38,
       "order": 1,
-      "createdAt": "2024-09-23T03:39:36.994Z",
-      "updatedAt": "2024-09-23T03:39:36.994Z",
-      "verseId": "2476836b-ff7e-43d5-a121-17f028f06886",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.073Z",
+      "updatedAt": "2025-04-22T02:35:58.073Z",
+      "verseId": "8931e873-01f0-438d-acad-c15757df864d",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "a30fb1c9-0921-4299-8ccc-e73fb279f4ce",
+      "id": "b2802648-7aac-4429-8f5f-866238187fbe",
       "content": "St 50,26",
-      "position": 19,
+      "position": 15,
       "order": 2,
-      "createdAt": "2024-09-23T03:39:36.998Z",
-      "updatedAt": "2024-09-23T03:39:36.998Z",
-      "verseId": "a2bd2d77-6e5d-47a8-9e02-227a6c2390ff",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.093Z",
+      "updatedAt": "2025-04-22T02:35:58.093Z",
+      "verseId": "7814a1c5-ae34-4a1c-b5be-6d245ca9e0ce",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "aa3bc5bb-239f-41e9-b267-734d35c73ca9",
+      "id": "7f24337d-20ae-4e3c-8b2a-878e8fa8f723",
       "content": "Tv 105,24; Cv 13,17",
-      "position": 21,
+      "position": 17,
       "order": 3,
-      "createdAt": "2024-09-23T03:39:37.001Z",
-      "updatedAt": "2024-09-23T03:39:37.001Z",
-      "verseId": "f9420c21-e995-4d90-878b-b3ed62898679",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.113Z",
+      "updatedAt": "2025-04-22T02:35:58.113Z",
+      "verseId": "d4e404ae-3e79-463f-a63f-e4dea7e91bf2",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "0f445ced-1b60-48cb-904d-3bfd3e345dd8",
+      "id": "b7fe4669-baa0-4263-932b-e0c24d4ea1ac",
       "content": "Cv 7,18-19",
       "position": 15,
       "order": 4,
-      "createdAt": "2024-09-23T03:39:37.011Z",
-      "updatedAt": "2024-09-23T03:39:37.011Z",
-      "verseId": "823efd6e-a6ed-4abd-a6f1-c8bc75dd6d14",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.174Z",
+      "updatedAt": "2025-04-22T02:35:58.174Z",
+      "verseId": "54412709-af59-4b3d-b3eb-749e366a1037",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "58e2c988-671f-4407-984e-f407c60f0a5f",
+      "id": "fa761182-e31c-4d57-9761-4f4c4d9b2191",
       "content": "Tv 105,25",
       "position": 24,
       "order": 5,
-      "createdAt": "2024-09-23T03:39:37.020Z",
-      "updatedAt": "2024-09-23T03:39:37.020Z",
-      "verseId": "6b351c53-b532-40ae-ae44-eb9f654d2d7d",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.209Z",
+      "updatedAt": "2025-04-22T02:35:58.209Z",
+      "verseId": "bfb39d08-b7c2-424c-be25-95868a7a5410",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "91e3c0ce-b75b-4003-8bc7-07a8d2bb3647",
+      "id": "e0680999-19bb-4e49-9c25-d86357573222",
       "content": "St 47,11",
-      "position": 172,
+      "position": 164,
       "order": 6,
-      "createdAt": "2024-09-23T03:39:37.032Z",
-      "updatedAt": "2024-09-23T03:39:37.032Z",
-      "verseId": "9f3a01e6-163c-443d-9a11-25a7b7852bf0",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.273Z",
+      "updatedAt": "2025-04-22T02:35:58.273Z",
+      "verseId": "ea61223a-a843-4ede-8ca0-e55204228643",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     },
     {
-      "id": "e345f75d-2002-4849-bdc9-69df3194626e",
+      "id": "c1842679-8a20-4c1d-88c7-3b00a01e395c",
       "content": "Đnl 11,10",
       "position": 115,
       "order": 7,
-      "createdAt": "2024-09-23T03:39:37.052Z",
-      "updatedAt": "2024-09-23T03:39:37.052Z",
-      "verseId": "81bbf13b-80ab-47d3-97b2-1e104926ed0b",
-      "chapterId": "b0c603d1-906d-4d5d-80f8-598e0197c191"
+      "createdAt": "2025-04-22T02:35:58.324Z",
+      "updatedAt": "2025-04-22T02:35:58.324Z",
+      "verseId": "bbdd1673-12f4-4170-9ef7-a8158ba3a1c0",
+      "chapterId": "a398366e-fa66-4ff1-8f4a-5c6fffaa61ce"
     }
   ],
   "psalmMetadata": []
