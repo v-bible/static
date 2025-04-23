@@ -1,372 +1,574 @@
 {
   "chapter": {
-    "id": "1df59060-036e-4cc1-af2a-515328b21256",
+    "id": "94fa64c2-1d5e-4007-a667-7c36e7cb708c",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.334Z",
-    "updatedAt": "2024-09-23T03:08:02.334Z",
-    "bookId": "1c769124-3ec2-4c6b-b242-418c636975a3"
+    "createdAt": "2025-04-22T00:48:30.968Z",
+    "updatedAt": "2025-04-22T00:48:30.968Z",
+    "bookId": "749025ac-4b89-4fc1-bfee-ffbaabcc2f07"
   },
   "verses": [
     {
-      "id": "7f81bb0f-ba2b-49ed-b4c6-ab364302c742",
+      "id": "a3920cc5-e4e2-452e-8824-c027eedf0e59",
       "number": 1,
-      "content": "Vua [Sa-lô-môn]() xây Đền Thờ [ĐỨC CHÚA]() và cung điện nhà vua trong hai mươi năm.",
+      "content": "Vua Sa-lô-môn xây Đền Thờ ĐỨC CHÚA và cung điện nhà vua trong hai mươi năm.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.171Z",
-      "updatedAt": "2024-09-23T04:06:19.171Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.868Z",
+      "updatedAt": "2025-04-22T04:28:22.868Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "80da0867-b57c-459d-b844-d193168d6fef",
+      "id": "b914d73d-5403-449b-84f9-8b0c140e2133",
       "number": 2,
-      "content": "Sau đó, vua xây lại các thành vua [Khi-ram]() đã tặng, rồi định cư con cái [Ít-ra-en]() tại các thành ấy.",
+      "content": "Sau đó, vua xây lại các thành vua Khi-ram đã tặng, rồi định cư con cái Ít-ra-en tại các thành ấy.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.185Z",
-      "updatedAt": "2024-09-23T04:06:19.185Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.934Z",
+      "updatedAt": "2025-04-22T04:28:22.934Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "b87f1aee-5158-42f5-bef6-ba794ca79a04",
+      "id": "451aea8f-c635-4c3b-abc6-8fed5c31f611",
       "number": 3,
-      "content": "Vua [Sa-lô-môn]() đến [Kha-mát Xô-va]() và chiếm lấy nơi ấy.",
+      "content": "Vua Sa-lô-môn đến Kha-mát Xô-va và chiếm lấy nơi ấy.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.189Z",
-      "updatedAt": "2024-09-23T04:06:19.189Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.967Z",
+      "updatedAt": "2025-04-22T04:28:22.967Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "2831e161-4d63-4268-8d0e-076af519a8f1",
+      "id": "30560f2d-0953-4411-86fa-8e561b26395b",
       "number": 4,
-      "content": "Vua tái thiết [Tát-mo]() trong sa mạc và tất cả các thành có kho dự trữ vua đã lập trong vùng [Kha-mát]().",
+      "content": "Vua tái thiết Tát-mo trong sa mạc và tất cả các thành có kho dự trữ vua đã lập trong vùng Kha-mát.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.193Z",
-      "updatedAt": "2024-09-23T04:06:19.193Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.997Z",
+      "updatedAt": "2025-04-22T04:28:22.997Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "f4014391-1142-4401-b248-5a0c4eb4a7fd",
+      "id": "c1867a1d-987e-420c-9ebd-0008cb777aa7",
       "number": 5,
-      "content": "Vua xây lại [Bết Khô-rôn Thượng]() và [Bết Khô-rôn Hạ](). Đó là những thành có tường luỹ kiên cố, cổng đóng then cài.",
+      "content": "Vua xây lại Bết Khô-rôn Thượng và Bết Khô-rôn Hạ. Đó là những thành có tường luỹ kiên cố, cổng đóng then cài.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.197Z",
-      "updatedAt": "2024-09-23T04:06:19.197Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.038Z",
+      "updatedAt": "2025-04-22T04:28:23.038Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "a7b20218-7c37-4f89-9bd7-025ecec19547",
+      "id": "aee19e9d-e104-4237-95a4-5005385f4368",
       "number": 6,
-      "content": "Vua cũng xây lại [Ba-a-lát]() và tất cả các thành có kho dự trữ của vua [Sa-lô-môn](), các thành chứa xe, các thành giữ ngựa, và tất cả những gì vua [Sa-lô-môn]() muốn xây cất tại [Giê-ru-sa-lem](), tại [Li-băng]() và trong toàn lãnh thổ thuộc quyền vua.",
+      "content": "Vua cũng xây lại Ba-a-lát và tất cả các thành có kho dự trữ của vua Sa-lô-môn, các thành chứa xe, các thành giữ ngựa, và tất cả những gì vua Sa-lô-môn muốn xây cất tại Giê-ru-sa-lem, tại Li-băng và trong toàn lãnh thổ thuộc quyền vua.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.199Z",
-      "updatedAt": "2024-09-23T04:06:19.199Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.069Z",
+      "updatedAt": "2025-04-22T04:28:23.069Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "1ca54426-9ad7-4b82-b589-6c2c7bfcb779",
+      "id": "e4a1d33c-a9eb-4591-abd0-f4ea0e4de6e7",
       "number": 7,
-      "content": "Tất cả những người còn sót lại thuộc các dân Khết, [E-mô-ri](), [Pơ-rít-di](), [Khi-vi]() và [Giơ-vút]().",
+      "content": "Tất cả những người còn sót lại thuộc các dân Khết, E-mô-ri, Pơ-rít-di, Khi-vi và Giơ-vút.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.201Z",
-      "updatedAt": "2024-09-23T04:06:19.201Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.099Z",
+      "updatedAt": "2025-04-22T04:28:23.099Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "1e8f4d04-9b52-48ea-9c39-3cbe9b0c9ea8",
+      "id": "79dcbba8-9043-4625-a272-f1f5cace8f25",
       "number": 8,
-      "content": "Những người này không thuộc dân [Ít-ra-en](), những người này đã để lại con cháu chúng trong xứ mà con cái [Ít-ra-en]() đã không tiêu diệt hết được. Vua [Sa-lô-môn]() bắt tất cả những người đó phải lao động khổ sai, đến ngày nay.",
+      "content": "Những người này không thuộc dân Ít-ra-en, những người này đã để lại con cháu chúng trong xứ mà con cái Ít-ra-en đã không tiêu diệt hết được. Vua Sa-lô-môn bắt tất cả những người đó phải lao động khổ sai, đến ngày nay.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.203Z",
-      "updatedAt": "2024-09-23T04:06:19.203Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.134Z",
+      "updatedAt": "2025-04-22T04:28:23.134Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "dc76b471-a0a9-4a34-ad61-00ef9829e082",
+      "id": "267cd9f4-e497-4651-b722-68eff8ab3e95",
       "number": 9,
-      "content": "Phần con cái [Ít-ra-en](), vua [Sa-lô-môn]() không bắt ai phải làm nô dịch cho vua. Họ là những chiến sĩ, những tướng lãnh, những người chỉ huy chiến xa và kỵ binh của vua.",
+      "content": "Phần con cái Ít-ra-en, vua Sa-lô-môn không bắt ai phải làm nô dịch cho vua. Họ là những chiến sĩ, những tướng lãnh, những người chỉ huy chiến xa và kỵ binh của vua.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.207Z",
-      "updatedAt": "2024-09-23T04:06:19.207Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.157Z",
+      "updatedAt": "2025-04-22T04:28:23.157Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "73948496-61f3-4f70-960f-a3940014a0b7",
+      "id": "b9752457-1e4b-4753-a53a-a94e0374796c",
       "number": 10,
-      "content": "Số viên chức chỉ huy các đốc công của vua [Sa-lô-môn]() là hai trăm năm mươi người, giám sát dân chúng.",
+      "content": "Số viên chức chỉ huy các đốc công của vua Sa-lô-môn là hai trăm năm mươi người, giám sát dân chúng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.209Z",
-      "updatedAt": "2024-09-23T04:06:19.209Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.168Z",
+      "updatedAt": "2025-04-22T04:28:23.168Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "87d233fc-65a8-497c-9366-b7e63ec3eca0",
+      "id": "18f9f0e6-1fe4-44f3-a921-8f6f499be87e",
       "number": 11,
-      "content": "Vua [Sa-lô-môn]() đưa công chúa của [Pha-ra-ô]() từ Thành [Đa-vít]() lên cung điện đã xây cho bà. Vua nói : “Vợ ta sẽ không ở trong cung điện của [Đa-vít](), vua [Ít-ra-en](), vì những nơi đặt Hòm Bia của [ĐỨC CHÚA]() đều là nơi thánh.”",
+      "content": "Vua Sa-lô-môn đưa công chúa của Pha-ra-ô từ Thành Đa-vít lên cung điện đã xây cho bà. Vua nói : “Vợ ta sẽ không ở trong cung điện của Đa-vít, vua Ít-ra-en, vì những nơi đặt Hòm Bia của ĐỨC CHÚA đều là nơi thánh.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.211Z",
-      "updatedAt": "2024-09-23T04:06:19.211Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.179Z",
+      "updatedAt": "2025-04-22T04:28:23.179Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "9dc3e4e9-2c2e-477d-8d7a-ef212d96e554",
+      "id": "d6fae8bc-6fa7-4b81-a3a6-45d2b4002fd9",
       "number": 12,
-      "content": "Từ đó, trên bàn thờ vua [Sa-lô-môn]() đã xây trước tiền đình, vua dâng lễ toàn thiêu kính [ĐỨC CHÚA]().",
+      "content": "Từ đó, trên bàn thờ vua Sa-lô-môn đã xây trước tiền đình, vua dâng lễ toàn thiêu kính ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.215Z",
-      "updatedAt": "2024-09-23T04:06:19.215Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.249Z",
+      "updatedAt": "2025-04-22T04:28:23.249Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "b232e8af-cf4d-48c9-82ce-2e6ae24f9ae7",
+      "id": "0aed721d-1f73-4f10-a32b-284a1c14ecbe",
       "number": 13,
-      "content": "Theo nghi thức riêng ông [Mô-sê]() đã quy định cho mỗi ngày, vua dâng lễ toàn thiêu các ngày sa-bát, ngày sóc và ba ngày đại lễ trong năm là : lễ Bánh Không Men, lễ Các Tuần và lễ Lều.",
+      "content": "Theo nghi thức riêng ông Mô-sê đã quy định cho mỗi ngày, vua dâng lễ toàn thiêu các ngày sa-bát, ngày sóc và ba ngày đại lễ trong năm là : lễ Bánh Không Men, lễ Các Tuần và lễ Lều.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.219Z",
-      "updatedAt": "2024-09-23T04:06:19.219Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.282Z",
+      "updatedAt": "2025-04-22T04:28:23.282Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "3fb60903-4ddc-46aa-9e65-6c60e59e5d9d",
+      "id": "034cac3e-60a4-4f75-ab04-aae05146012a",
       "number": 14,
-      "content": "Chiếu theo luật phụ vương [Đa-vít]() đã định, vua cũng cắt đặt các ban tư tế vào phận sự của họ, các thầy [Lê-vi]() vào công tác ca ngợi Chúa và phụ với các tư tế trong nghi thức phụng tự mỗi ngày. Vua còn cắt đặt người giữ cửa cho mỗi cửa theo từng ban, vì đó là lệnh truyền của vua [Đa-vít](), người của Thiên Chúa.",
+      "content": "Chiếu theo luật phụ vương Đa-vít đã định, vua cũng cắt đặt các ban tư tế vào phận sự của họ, các thầy Lê-vi vào công tác ca ngợi Chúa và phụ với các tư tế trong nghi thức phụng tự mỗi ngày. Vua còn cắt đặt người giữ cửa cho mỗi cửa theo từng ban, vì đó là lệnh truyền của vua Đa-vít, người của Thiên Chúa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.226Z",
-      "updatedAt": "2024-09-23T04:06:19.226Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.323Z",
+      "updatedAt": "2025-04-22T04:28:23.323Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "b506f168-31fc-4844-aecf-c6ff6620b3f9",
+      "id": "426a7c8b-bda2-4726-9b09-7ad94cf9f261",
       "number": 15,
-      "content": "Không ai vi phạm một quy định nào của vua [Đa-vít]() liên quan đến các tư tế, đến các thầy [Lê-vi]() và ngay cả đến các kho báu nữa.",
+      "content": "Không ai vi phạm một quy định nào của vua Đa-vít liên quan đến các tư tế, đến các thầy Lê-vi và ngay cả đến các kho báu nữa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.230Z",
-      "updatedAt": "2024-09-23T04:06:19.230Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.370Z",
+      "updatedAt": "2025-04-22T04:28:23.370Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "c9e28f07-3419-4261-8344-2197bc050344",
+      "id": "572a0ede-f80b-48f3-888c-4617f7d80d02",
       "number": 16,
-      "content": "Thế là hoàn tất mọi công trình của vua [Sa-lô-môn](), từ ngày khởi công xây cất Nhà [ĐỨC CHÚA]() cho tới khi kết thúc. Nhà của [ĐỨC CHÚA]() thật là hoàn chỉnh.",
+      "content": "Thế là hoàn tất mọi công trình của vua Sa-lô-môn, từ ngày khởi công xây cất Nhà ĐỨC CHÚA cho tới khi kết thúc. Nhà của ĐỨC CHÚA thật là hoàn chỉnh.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.232Z",
-      "updatedAt": "2024-09-23T04:06:19.232Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.397Z",
+      "updatedAt": "2025-04-22T04:28:23.397Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "e3be66af-6c8c-4c21-8dc9-41b741b147f9",
+      "id": "1e0a29c9-8fb2-4f77-89ab-16928d7eebaf",
       "number": 17,
-      "content": "Bấy giờ vua [Sa-lô-môn]() trẩy đi E-xi-ôn [Ghe-ve]() và [Ê-lát]() bên bờ Biển, trong đất [Ê-đôm]().",
+      "content": "Bấy giờ vua Sa-lô-môn trẩy đi E-xi-ôn Ghe-ve và Ê-lát bên bờ Biển, trong đất Ê-đôm.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.235Z",
-      "updatedAt": "2024-09-23T04:06:19.235Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.437Z",
+      "updatedAt": "2025-04-22T04:28:23.437Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "03162849-4c96-49b6-85d3-ae08afb6b5d5",
+      "id": "74c1f020-3ec7-400e-98bb-30b42dc419a5",
       "number": 18,
-      "content": "Vua [Khi-ram]() sai các tôi tớ đưa đến cho vua [Sa-lô-môn]() tàu bè và những thuỷ thủ thạo nghề biển. Những người này cùng đi với tôi tớ của vua [Sa-lô-môn]() đến [Ô-phia](), lấy mười ba tấn rưỡi vàng đưa về cho vua [Sa-lô-môn]().",
+      "content": "Vua Khi-ram sai các tôi tớ đưa đến cho vua Sa-lô-môn tàu bè và những thuỷ thủ thạo nghề biển. Những người này cùng đi với tôi tớ của vua Sa-lô-môn đến Ô-phia, lấy mười ba tấn rưỡi vàng đưa về cho vua Sa-lô-môn.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:19.245Z",
-      "updatedAt": "2024-09-23T04:06:19.245Z",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.513Z",
+      "updatedAt": "2025-04-22T04:28:23.513Z",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     }
   ],
   "footnotes": [
     {
-      "id": "95fad59b-eafa-491e-90f9-757e4dc2ae4e",
+      "id": "e203ab77-b6ac-4bbd-9ff7-b43a4ceda524",
       "content": "1 V 9,11-12, song song với Sb ở đây, không nói tới chuyện *các thành vua Khi-ram đã tặng* cho vua Sa-lô-môn, mà ngược lại, kể rằng : *Vua Sa-lô-môn thì trao cho vua Khi-ram hai mươi thành miền Ga-li-lê*. Nhưng vua Tia *không thích các thành ấy*, nghĩa là chê, không nhận. Và tác giả Sb nói tới các thành này thì bảo là vua Khi-ram tặng. Cũng đúng thôi !",
-      "position": 53,
+      "position": 49,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:19.187Z",
-      "updatedAt": "2024-09-23T04:06:19.187Z",
-      "verseId": "80da0867-b57c-459d-b844-d193168d6fef",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.953Z",
+      "updatedAt": "2025-04-22T04:28:22.953Z",
+      "verseId": "b914d73d-5403-449b-84f9-8b0c140e2133",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "1b528fcd-c88b-4e3d-8d43-743dcb6276b6",
+      "id": "d1789dea-d51b-4396-84d4-22e3730157e3",
       "content": "Ngoại trừ chỗ này, thì trong Sách Thánh Kha-mát và Xô-va luôn xuất hiện như hai thành khác nhau của Xy-ri nằm ở phía tây và phía bắc Đa-mát. Theo 2 Sm 8,3-11 (x. 1 Sb 18,3-11) vua Đa-vít mở một cuộc chiến thành công chống dân Xô-va và được vua của Kha-mát chúc mừng. Hẳn là tác giả Sb muốn nói tới việc vua Sa-lô-môn định cư dân chúng ở hai thành ấy, chứ không phải đánh chiếm.",
-      "position": 39,
+      "position": 31,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:19.191Z",
-      "updatedAt": "2024-09-23T04:06:19.191Z",
-      "verseId": "b87f1aee-5158-42f5-bef6-ba794ca79a04",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.988Z",
+      "updatedAt": "2025-04-22T04:28:22.988Z",
+      "verseId": "451aea8f-c635-4c3b-abc6-8fed5c31f611",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "a6c96c70-786c-487e-8477-c0f0df054097",
+      "id": "de33d813-36e1-4f88-b6f9-4a230990553a",
       "content": "1 V 9,18 nói về *Ta-ma ở sa mạc* miền nam Giu-đa. Tác giả Sb sửa ra *Tát-mo* trong sa mạc Xy-ri, mà người Hy-lạp và người Rô-ma gọi là Pan-mia. Thật ra, trong Híp-ri hai chữ không khác nhau lắm.",
-      "position": 37,
+      "position": 33,
       "order": 2,
-      "createdAt": "2024-09-23T04:06:19.195Z",
-      "updatedAt": "2024-09-23T04:06:19.195Z",
-      "verseId": "2831e161-4d63-4268-8d0e-076af519a8f1",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.018Z",
+      "updatedAt": "2025-04-22T04:28:23.018Z",
+      "verseId": "30560f2d-0953-4411-86fa-8e561b26395b",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "77442c00-7620-4c57-a3d1-d25a918cbd43",
+      "id": "3a7d6c0a-f8c1-475f-80da-0f5027fd1c7b",
       "content": "Nhận xét không đúng nữa vào thời tác giả Sb. Ông đã chép y nguyên sử liệu cũ.",
-      "position": 228,
+      "position": 216,
       "order": 3,
-      "createdAt": "2024-09-23T04:06:19.205Z",
-      "updatedAt": "2024-09-23T04:06:19.205Z",
-      "verseId": "1e8f4d04-9b52-48ea-9c39-3cbe9b0c9ea8",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.146Z",
+      "updatedAt": "2025-04-22T04:28:23.146Z",
+      "verseId": "79dcbba8-9043-4625-a272-f1f5cace8f25",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "d9bd71db-a162-4713-9702-b9e22fce91d6",
+      "id": "080ab8ad-fbf1-4ae3-86f4-44d9f969e25d",
       "content": "Lời giải thích này là của tác giả Sb thêm vào, qua đó ông tỏ ra không mấy hài lòng về những cuộc hôn nhân với các bà ngoại giáo. Luật lệ riêng cho nữ giới liên quan tới chuyện sạch/dơ tôn giáo không cho phép các bà lui tới một số nơi thánh. Từ sau lưu đày mối bận tâm này ngày càng gia tăng, dẫn tới việc phải có một sân phụ nữ tại đền thờ vua Hê-rô-đê xây.",
-      "position": 105,
+      "position": 93,
       "order": 4,
-      "createdAt": "2024-09-23T04:06:19.213Z",
-      "updatedAt": "2024-09-23T04:06:19.213Z",
-      "verseId": "87d233fc-65a8-497c-9366-b7e63ec3eca0",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.212Z",
+      "updatedAt": "2025-04-22T04:28:23.212Z",
+      "verseId": "18f9f0e6-1fe4-44f3-a921-8f6f499be87e",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "2c3715c4-201f-4b1c-8289-d99fa8e31f79",
+      "id": "977cb092-f711-482a-9814-44bfcc2c5def",
       "content": "Tác giả Sb thay đổi đáng kể 1 V 9,25. Rồi ông thêm vào cc. 13-16 để nhấn mạnh hơn nữa góc cạnh thờ phượng trong công trình của vua Sa-lô-môn : vua thực thi những gì phụ vương Đa-vít đã quy định theo đúng luật Mô-sê truyền, đã được trình bày trong Luật tư tế.",
-      "position": 102,
+      "position": 94,
       "order": 5,
-      "createdAt": "2024-09-23T04:06:19.217Z",
-      "updatedAt": "2024-09-23T04:06:19.217Z",
-      "verseId": "9dc3e4e9-2c2e-477d-8d7a-ef212d96e554",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.272Z",
+      "updatedAt": "2025-04-22T04:28:23.272Z",
+      "verseId": "d6fae8bc-6fa7-4b81-a3a6-45d2b4002fd9",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "655c336d-08ae-4a2a-bdf1-157db2ca5621",
+      "id": "6a43dc19-3d8f-4808-963c-d782275c6169",
       "content": "Phần này (8,17 – 9,28) được lấy từ 1 V 9,26 – 10,28. Tác giả còn để ý thêm vào đấy những gì làm vẻ vang cho vua Sa-lô-môn.",
-      "position": 32,
+      "position": 28,
       "order": 6,
-      "createdAt": "2024-09-23T04:06:19.240Z",
-      "updatedAt": "2024-09-23T04:06:19.240Z",
-      "headingId": "e1100df5-a015-410d-89e6-b3cf0ca740d7",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.464Z",
+      "updatedAt": "2025-04-22T04:28:23.464Z",
+      "headingId": "05670bcf-02b3-4ac0-8586-3a3234b6f448",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "6b19eb8a-965e-4ddb-bd66-2ad5f6036123",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 34,
+      "order": 9,
+      "createdAt": "2025-04-22T04:28:22.919Z",
+      "updatedAt": "2025-04-22T04:28:22.919Z",
+      "verseId": "a3920cc5-e4e2-452e-8824-c027eedf0e59",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "25ef3399-f979-46f1-a8f6-fd98bf1143e0",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 193,
+      "order": 9,
+      "createdAt": "2025-04-22T04:28:23.239Z",
+      "updatedAt": "2025-04-22T04:28:23.239Z",
+      "verseId": "18f9f0e6-1fe4-44f3-a921-8f6f499be87e",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "585f0ebb-c388-4377-81a0-18435f7880d8",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 94,
+      "order": 9,
+      "createdAt": "2025-04-22T04:28:23.263Z",
+      "updatedAt": "2025-04-22T04:28:23.263Z",
+      "verseId": "d6fae8bc-6fa7-4b81-a3a6-45d2b4002fd9",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "59a57cb7-a5c1-4747-a468-ea47ab583e5a",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 127,
+      "order": 9,
+      "createdAt": "2025-04-22T04:28:23.410Z",
+      "updatedAt": "2025-04-22T04:28:23.410Z",
+      "verseId": "572a0ede-f80b-48f3-888c-4617f7d80d02",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "3849a941-967c-4a55-8c3e-883bbb1ff570",
+      "content": "English: Hamath-Zobah - French: Hamath-Cova - Latin: Emath Soba - Origin: &#1495;&#1458;&#1502;&#1463;&#1514; &#1510;&#64331;&#1489;&#1464;&#1492; - Vietnamese: Kha-mát Xô-va 2 Sb 8,3",
+      "position": 31,
+      "order": 15,
+      "createdAt": "2025-04-22T04:28:22.978Z",
+      "updatedAt": "2025-04-22T04:28:22.978Z",
+      "verseId": "451aea8f-c635-4c3b-abc6-8fed5c31f611",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "0ea5d330-bee4-4064-acf9-fe8a870a7633",
+      "content": "English: Tadmor - French: Tadmor - Latin: Palmyra - Origin: &#64330;&#1463;&#1491;&#1456;&#1502;&#1465;&#1512; - Vietnamese: Tát-mo 2 Sb 8,4",
+      "position": 20,
+      "order": 17,
+      "createdAt": "2025-04-22T04:28:23.007Z",
+      "updatedAt": "2025-04-22T04:28:23.007Z",
+      "verseId": "30560f2d-0953-4411-86fa-8e561b26395b",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "ae20faba-f5ba-46c1-a605-8590af854d58",
+      "content": "English: Hamathites - French: Hamath, Hamatite - Latin: Emathaeus - Origin: &#1495;&#1458;&#1502;&#1463;&#1514; &#913;&#956;&#945;&#952;&#953;&#964;&#953;&#962; - Vietnamese: Kha-mát St 10,18 ; Am 6,2 ; 1 Mcb 12,25",
+      "position": 97,
+      "order": 19,
+      "createdAt": "2025-04-22T04:28:23.028Z",
+      "updatedAt": "2025-04-22T04:28:23.028Z",
+      "verseId": "30560f2d-0953-4411-86fa-8e561b26395b",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "b82278bb-6810-4322-9fff-2d4594dff0e8",
+      "content": "English: Upper Beth-Horon - French: Beth-Horôn-Le-Haut - Latin: Bethoron superior - Origin: &#64305;&#1461;&#1497;&#1514; &#1495;&#64331;&#1512;&#1465;&#1503; &#1506;&#1462;&#1500;&#1456;&#1497;&#1456;&#64331;&#1503; - Vietnamese: Bết Khô-rôn Thượng Gs 16,5",
+      "position": 30,
+      "order": 21,
+      "createdAt": "2025-04-22T04:28:23.048Z",
+      "updatedAt": "2025-04-22T04:28:23.048Z",
+      "verseId": "c1867a1d-987e-420c-9ebd-0008cb777aa7",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "be0494b3-2ef2-4ab1-bbb3-d6126dd9020c",
+      "content": "English: Lower Beth-Horon - French: Beth-Horôn-Le-bas - Latin: Bethoron inferior - Origin: &#64305;&#1461;&#1497;&#1514; &#1495;&#64331;&#1512;&#64331;&#1503; &#1492;&#1464;&#1506;&#1462;&#1500;&#1456;&#1497;&#64331;&#1503; - Vietnamese: Bết Khô-rôn Hạ 2 Sb 8,5",
+      "position": 48,
+      "order": 23,
+      "createdAt": "2025-04-22T04:28:23.059Z",
+      "updatedAt": "2025-04-22T04:28:23.059Z",
+      "verseId": "c1867a1d-987e-420c-9ebd-0008cb777aa7",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "cd87ca30-2bb3-4e91-811d-a943499fafed",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 181,
+      "order": 27,
+      "createdAt": "2025-04-22T04:28:23.078Z",
+      "updatedAt": "2025-04-22T04:28:23.078Z",
+      "verseId": "aee19e9d-e104-4237-95a4-5005385f4368",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "f2665954-8a72-4a51-b7b8-66833d4d71f2",
+      "content": "English: Libanon - French: Liban - Latin: Libanus - Origin: &#1500;&#1468;&#1456;&#1489;&#1464;&#1504;&#64331;&#1503; - Vietnamese: Li-băng Gs 9,1 ; Tl 3,3",
+      "position": 194,
+      "order": 29,
+      "createdAt": "2025-04-22T04:28:23.089Z",
+      "updatedAt": "2025-04-22T04:28:23.089Z",
+      "verseId": "aee19e9d-e104-4237-95a4-5005385f4368",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "8d404baa-5694-4435-9c1d-7619647c3374",
+      "content": "English: Amorites - French: Amorite - Latin: Amorraeus - Origin: &#1488;&#1457;&#1502;&#1465;&#1512;&#1460;&#1497; - Vietnamese: E-mô-ri St 10,15-16",
+      "position": 58,
+      "order": 31,
+      "createdAt": "2025-04-22T04:28:23.110Z",
+      "updatedAt": "2025-04-22T04:28:23.110Z",
+      "verseId": "e4a1d33c-a9eb-4591-abd0-f4ea0e4de6e7",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "92f60335-c35f-41ae-a0e0-4c5aaf893136",
+      "content": "English: Hivites - French: Hivvite - Latin: Hevaeus - Origin: &#1495;&#1460;&#64309;&#1460;&#1497; - Vietnamese: Khi-vi Gs 9,7 ; St 34,2",
+      "position": 77,
+      "order": 35,
+      "createdAt": "2025-04-22T04:28:23.121Z",
+      "updatedAt": "2025-04-22T04:28:23.121Z",
+      "verseId": "e4a1d33c-a9eb-4591-abd0-f4ea0e4de6e7",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "fb8c5cad-d710-4d59-b34a-e09d7291cc2c",
+      "content": "English: Pharaoh - French: Pharaon - Latin: Pharaon - Origin: &#64324;&#1463;&#1512;&#1456;&#1506;&#1465;&#1492; - Vietnamese: Pha-ra-ô 1 Sb 4,18 ; Gr 25,19",
+      "position": 40,
+      "order": 39,
+      "createdAt": "2025-04-22T04:28:23.189Z",
+      "updatedAt": "2025-04-22T04:28:23.189Z",
+      "verseId": "18f9f0e6-1fe4-44f3-a921-8f6f499be87e",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "b20ec39d-4537-41fb-b00a-68ecdfe75687",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 140,
+      "order": 41,
+      "createdAt": "2025-04-22T04:28:23.200Z",
+      "updatedAt": "2025-04-22T04:28:23.200Z",
+      "verseId": "18f9f0e6-1fe4-44f3-a921-8f6f499be87e",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "3503813e-017b-4772-8946-55928243f521",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 282,
+      "order": 41,
+      "createdAt": "2025-04-22T04:28:23.334Z",
+      "updatedAt": "2025-04-22T04:28:23.334Z",
+      "verseId": "034cac3e-60a4-4f75-ab04-aae05146012a",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "ee79b5f7-be83-4f03-b56c-a87fd0a5a1e0",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 48,
+      "order": 41,
+      "createdAt": "2025-04-22T04:28:23.384Z",
+      "updatedAt": "2025-04-22T04:28:23.384Z",
+      "verseId": "426a7c8b-bda2-4726-9b09-7ad94cf9f261",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "0092d81b-c211-46d6-9112-55cac99dbb45",
+      "content": "English: Moses - French: Moise - Latin: Moysen - Origin: &#1502;&#1465; &#64298;&#1462;&#1492; - Vietnamese: Mô-sê Xh 2,10",
+      "position": 30,
+      "order": 43,
+      "createdAt": "2025-04-22T04:28:23.292Z",
+      "updatedAt": "2025-04-22T04:28:23.292Z",
+      "verseId": "0aed721d-1f73-4f10-a32b-284a1c14ecbe",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "e92ab815-1373-4a9d-8535-8cea5a0304a8",
+      "content": "English: Geber - French: Guèvèr - Latin: Gaber - Origin: &#1490;&#1468;&#1462;&#1489;&#1462;&#1512; - Vietnamese: Ghe-ve 1 V 4,19",
+      "position": 44,
+      "order": 47,
+      "createdAt": "2025-04-22T04:28:23.479Z",
+      "updatedAt": "2025-04-22T04:28:23.479Z",
+      "verseId": "1e0a29c9-8fb2-4f77-89ab-16928d7eebaf",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
+    },
+    {
+      "id": "bded4a58-c162-448d-ab6d-e37962f68eba",
+      "content": "English: Elath - French: Eilath - Latin: Elath - Origin: &#1488;&#1461;&#1497;&#1500;&#1463;&#1514; - Vietnamese: Ê-lát Đnl 2,8",
+      "position": 53,
+      "order": 49,
+      "createdAt": "2025-04-22T04:28:23.491Z",
+      "updatedAt": "2025-04-22T04:28:23.491Z",
+      "verseId": "1e0a29c9-8fb2-4f77-89ab-16928d7eebaf",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     }
   ],
   "headings": [
     {
-      "id": "a4b11fc7-9e1f-4725-b317-0d809d9de360",
-      "content": "Hoàn tất các công trình xây cất",
+      "id": "05670bcf-02b3-4ac0-8586-3a3234b6f448",
+      "content": "Vinh quang của vua Sa-lô-môn",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:19.180Z",
-      "updatedAt": "2024-09-23T04:06:19.180Z",
-      "verseId": "7f81bb0f-ba2b-49ed-b4c6-ab364302c742",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.450Z",
+      "updatedAt": "2025-04-22T04:28:23.450Z",
+      "verseId": "1e0a29c9-8fb2-4f77-89ab-16928d7eebaf",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "e1100df5-a015-410d-89e6-b3cf0ca740d7",
-      "content": "Vinh quang của vua [Sa-lô-môn]()",
+      "id": "37dcef9d-d37f-4fcf-964f-51d546fb44ed",
+      "content": "Hoàn tất các công trình xây cất",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:19.238Z",
-      "updatedAt": "2024-09-23T04:06:19.238Z",
-      "verseId": "e3be66af-6c8c-4c21-8dc9-41b741b147f9",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.889Z",
+      "updatedAt": "2025-04-22T04:28:22.889Z",
+      "verseId": "a3920cc5-e4e2-452e-8824-c027eedf0e59",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     }
   ],
   "references": [
     {
-      "id": "cb9fb6fc-53d2-48a3-bfc6-80bbc3ae971c",
+      "id": "f586b212-b4e4-4acd-90b8-eb4901314b7d",
       "content": "1 V 9,10-25",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:19.182Z",
-      "updatedAt": "2024-09-23T04:06:19.182Z",
-      "headingId": "a4b11fc7-9e1f-4725-b317-0d809d9de360",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:22.903Z",
+      "updatedAt": "2025-04-22T04:28:22.903Z",
+      "headingId": "37dcef9d-d37f-4fcf-964f-51d546fb44ed",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "48332b29-2b8d-4100-9d0f-ff3ce63a5978",
+      "id": "8ec2ed2c-9035-45b8-9d36-d9048dc81bd1",
       "content": "Ds 28–29",
-      "position": 65,
+      "position": 61,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:19.222Z",
-      "updatedAt": "2024-09-23T04:06:19.222Z",
-      "verseId": "b232e8af-cf4d-48c9-82ce-2e6ae24f9ae7",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.302Z",
+      "updatedAt": "2025-04-22T04:28:23.302Z",
+      "verseId": "0aed721d-1f73-4f10-a32b-284a1c14ecbe",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "d2f9777c-4397-4ed7-9717-c53d74550239",
+      "id": "e961fd65-c5ff-41fa-bf32-ceb5d6c0dcbc",
       "content": "Xh 23,14",
-      "position": 113,
+      "position": 109,
       "order": 2,
-      "createdAt": "2024-09-23T04:06:19.224Z",
-      "updatedAt": "2024-09-23T04:06:19.224Z",
-      "verseId": "b232e8af-cf4d-48c9-82ce-2e6ae24f9ae7",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.312Z",
+      "updatedAt": "2025-04-22T04:28:23.312Z",
+      "verseId": "0aed721d-1f73-4f10-a32b-284a1c14ecbe",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "c07bfc73-3e7f-4a41-82e0-4bb3490ce7dc",
+      "id": "58f33758-4033-4c45-bd22-3ea5605ae1e5",
       "content": "1 Sb 23–26",
-      "position": 55,
+      "position": 51,
       "order": 3,
-      "createdAt": "2024-09-23T04:06:19.228Z",
-      "updatedAt": "2024-09-23T04:06:19.228Z",
-      "verseId": "3fb60903-4ddc-46aa-9e65-6c60e59e5d9d",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.357Z",
+      "updatedAt": "2025-04-22T04:28:23.357Z",
+      "verseId": "034cac3e-60a4-4f75-ab04-aae05146012a",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     },
     {
-      "id": "0aed830a-5255-4d43-9794-2350ec8a8acd",
+      "id": "677c4987-cefb-4f7f-8b1b-03f104c4b7b7",
       "content": "1 V 9,26-28",
-      "position": 34,
+      "position": 30,
       "order": 4,
-      "createdAt": "2024-09-23T04:06:19.242Z",
-      "updatedAt": "2024-09-23T04:06:19.242Z",
-      "verseId": "e3be66af-6c8c-4c21-8dc9-41b741b147f9",
-      "chapterId": "1df59060-036e-4cc1-af2a-515328b21256"
+      "createdAt": "2025-04-22T04:28:23.501Z",
+      "updatedAt": "2025-04-22T04:28:23.501Z",
+      "verseId": "1e0a29c9-8fb2-4f77-89ab-16928d7eebaf",
+      "chapterId": "94fa64c2-1d5e-4007-a667-7c36e7cb708c"
     }
   ],
   "psalmMetadata": []

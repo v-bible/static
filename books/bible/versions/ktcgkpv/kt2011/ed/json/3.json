@@ -1,497 +1,630 @@
 {
   "chapter": {
-    "id": "93dc30b4-f1d2-4d78-bd39-663e3732fc92",
+    "id": "4647ac04-c02a-48e5-b004-f7c02ad2ce25",
     "number": 3,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.397Z",
-    "updatedAt": "2024-09-23T03:08:02.397Z",
-    "bookId": "35ed58c5-58f4-4ce0-aa6e-73898ea6d9c3"
+    "createdAt": "2025-04-22T00:48:32.319Z",
+    "updatedAt": "2025-04-22T00:48:32.319Z",
+    "bookId": "1f204898-a688-46b4-a3a3-a6cdc56dfa4e"
   },
   "verses": [
     {
-      "id": "c1d3e306-2549-48de-8d9c-11cf42759b85",
+      "id": "941b8021-1b61-482c-a381-6cecbb5d3c8f",
       "number": 1,
-      "content": "[ĐỨC CHÚA]() phán với tôi : “Hỡi con người, thấy gì, cứ việc ăn ! Hãy ăn cuộn sách này rồi đi nói với nhà [Ít-ra-en]().”",
+      "content": "ĐỨC CHÚA phán với tôi : “Hỡi con người, thấy gì, cứ việc ăn ! Hãy ăn cuộn sách này rồi đi nói với nhà Ít-ra-en.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.401Z",
-      "updatedAt": "2024-09-23T04:47:38.401Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.817Z",
+      "updatedAt": "2025-04-22T06:54:11.817Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "d3f9a9e4-e77f-45e7-9bda-b4cb932bfc84",
+      "id": "a29493e5-de3e-4947-b4e5-16fe2b1434bb",
       "number": 2,
       "content": "Tôi mở miệng ra, và Người cho tôi ăn cuộn sách ấy.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.406Z",
-      "updatedAt": "2024-09-23T04:47:38.406Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.859Z",
+      "updatedAt": "2025-04-22T06:54:11.859Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "a83cd788-67bd-4995-a9b8-488bc68f29d2",
+      "id": "892ed2e0-4e5d-4e7c-8667-8467e6668bba",
       "number": 3,
       "content": "Người lại phán với tôi : “Hỡi con người, hãy ăn cho no bụng và nuốt cho đầy dạ cuộn sách Ta ban cho ngươi đây.” Tôi đã ăn cuộn sách, và nó ngọt như mật trong miệng tôi.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.411Z",
-      "updatedAt": "2024-09-23T04:47:38.411Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.872Z",
+      "updatedAt": "2025-04-22T06:54:11.872Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "fd83eae2-b498-496b-953c-2559c82722be",
+      "id": "20d561c4-c01c-41c6-bc3f-a8f88ca5e755",
       "number": 4,
-      "content": "Bấy giờ Người phán với tôi : “Hỡi con người, hãy đi đến với nhà [Ít-ra-en]() và nói với chúng những lời của Ta.",
+      "content": "Bấy giờ Người phán với tôi : “Hỡi con người, hãy đi đến với nhà Ít-ra-en và nói với chúng những lời của Ta.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.421Z",
-      "updatedAt": "2024-09-23T04:47:38.421Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.902Z",
+      "updatedAt": "2025-04-22T06:54:11.902Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "60948ea6-52d3-4f56-92a4-127095a8000f",
+      "id": "96462c1f-d0ed-40c7-b869-fcf57c7136d7",
       "number": 5,
-      "content": "Bởi vì ngươi không được sai đến với một dân có ngôn ngữ tối tăm và miệng lưỡi khó nói, mà là đến với nhà [Ít-ra-en]().",
+      "content": "Bởi vì ngươi không được sai đến với một dân có ngôn ngữ tối tăm và miệng lưỡi khó nói, mà là đến với nhà Ít-ra-en.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.429Z",
-      "updatedAt": "2024-09-23T04:47:38.429Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.930Z",
+      "updatedAt": "2025-04-22T06:54:11.930Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "65de4151-8d85-490b-9325-b553763ce942",
+      "id": "fad90248-952c-48ab-8c1d-c203a9ad1e8f",
       "number": 6,
       "content": "Không phải đến với nhiều dân có ngôn ngữ tối tăm, miệng lưỡi khó nói khiến ngươi không hiểu được lời chúng, – giả như Ta sai ngươi đến với chúng, thì chúng đã nghe lời ngươi !",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.437Z",
-      "updatedAt": "2024-09-23T04:47:38.437Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.959Z",
+      "updatedAt": "2025-04-22T06:54:11.959Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "81f5e75e-a179-4116-a87c-f01da9806d79",
+      "id": "73026164-681e-4cd8-a46a-31fd87fa93c0",
       "number": 7,
-      "content": "Nhưng nhà [Ít-ra-en]() không muốn nghe lời ngươi, bởi vì chúng không muốn nghe lời Ta : quả thật cả nhà [Ít-ra-en]() đều mặt dày mày dạn, lòng chai dạ đá.",
+      "content": "Nhưng nhà Ít-ra-en không muốn nghe lời ngươi, bởi vì chúng không muốn nghe lời Ta : quả thật cả nhà Ít-ra-en đều mặt dày mày dạn, lòng chai dạ đá.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.442Z",
-      "updatedAt": "2024-09-23T04:47:38.442Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.973Z",
+      "updatedAt": "2025-04-22T06:54:11.973Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "97aea4f9-63c2-4ff7-9c49-2c6f6e657aa6",
+      "id": "5dd11802-2741-45ff-a8c6-3d4b80ea3be6",
       "number": 8,
       "content": "Này Ta sẽ làm cho mặt ngươi chai cứng giống như mặt chúng, làm cho trán ngươi chai cứng như trán chúng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.446Z",
-      "updatedAt": "2024-09-23T04:47:38.446Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.994Z",
+      "updatedAt": "2025-04-22T06:54:11.994Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "22ba7de7-4c91-4bd5-9ba8-6f35f79a6688",
+      "id": "22bf53e9-6ca5-4c8d-b8af-664710bdefc9",
       "number": 9,
       "content": "Ta sẽ làm cho trán ngươi cứng như kim cương, cứng hơn đá. Ngươi đừng sợ chúng, có phải giáp mặt chúng cũng đừng khiếp, bởi vì chúng là nòi phản loạn.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.454Z",
-      "updatedAt": "2024-09-23T04:47:38.454Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.025Z",
+      "updatedAt": "2025-04-22T06:54:12.025Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "3fdd4337-7711-4899-8ad9-f1f8a494f76a",
+      "id": "b05864c7-beab-4371-8725-8adccd15d05e",
       "number": 10,
       "content": "Người lại phán với tôi : “Hỡi con người, tất cả những lời Ta phán với ngươi, hãy ghi lòng tạc dạ và nghe cho tỏ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.458Z",
-      "updatedAt": "2024-09-23T04:47:38.458Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.040Z",
+      "updatedAt": "2025-04-22T06:54:12.040Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "27b25b67-cac1-48f0-8b21-094a72d54083",
+      "id": "2402bb94-1dcc-4da1-9ce7-58dc68961664",
       "number": 11,
-      "content": "Rồi ngươi hãy đi đến với những kẻ lưu đày, đến với con cái dân ngươi và nói với chúng. Ngươi sẽ nói với chúng : “[ĐỨC CHÚA]() là Chúa Thượng phán thế này”, dù chúng nghe hay không.",
+      "content": "Rồi ngươi hãy đi đến với những kẻ lưu đày, đến với con cái dân ngươi và nói với chúng. Ngươi sẽ nói với chúng : “ĐỨC CHÚA là Chúa Thượng phán thế này”, dù chúng nghe hay không.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.463Z",
-      "updatedAt": "2024-09-23T04:47:38.463Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.053Z",
+      "updatedAt": "2025-04-22T06:54:12.053Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "4c38a10c-73d3-4114-99dd-f2f070324dac",
+      "id": "09262895-e294-4317-ada5-a25eb57b1e5e",
       "number": 12,
-      "content": "Một thần khí nâng tôi lên và tôi nghe thấy đằng sau có tiếng hò la vang dội : “Chúc tụng [ĐỨC CHÚA]() vinh hiển trong Nơi Thánh của Người !”",
+      "content": "Một thần khí nâng tôi lên và tôi nghe thấy đằng sau có tiếng hò la vang dội : “Chúc tụng ĐỨC CHÚA vinh hiển trong Nơi Thánh của Người !”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.467Z",
-      "updatedAt": "2024-09-23T04:47:38.467Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.082Z",
+      "updatedAt": "2025-04-22T06:54:12.082Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "56f74feb-e9ad-4613-aab8-e1f3387db5ea",
+      "id": "1acc877f-dff7-423b-8056-db33b19c9a64",
       "number": 13,
       "content": "Tôi lại nghe thấy tiếng cánh các sinh vật va chạm vào nhau, tiếng các bánh xe khua động cùng tiếng hò la vang dội.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.479Z",
-      "updatedAt": "2024-09-23T04:47:38.479Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.139Z",
+      "updatedAt": "2025-04-22T06:54:12.139Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "a387be2a-43f0-41e0-a440-a2a76653e50e",
+      "id": "1d747b8d-5b61-4635-b8a6-8ddfff4d9816",
       "number": 14,
-      "content": "Một thần khí nâng tôi lên và nắm lấy tôi ; tôi ra đi, lòng tràn ngập cay đắng và phẫn nộ. Bàn tay [ĐỨC CHÚA]() nắm chặt lấy tôi.",
+      "content": "Một thần khí nâng tôi lên và nắm lấy tôi ; tôi ra đi, lòng tràn ngập cay đắng và phẫn nộ. Bàn tay ĐỨC CHÚA nắm chặt lấy tôi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.483Z",
-      "updatedAt": "2024-09-23T04:47:38.483Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.160Z",
+      "updatedAt": "2025-04-22T06:54:12.160Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "7ceffc95-884b-430a-94da-bc0688a3c754",
+      "id": "9c0f820d-aab0-458b-8a13-4041819b72e5",
       "number": 15,
-      "content": "Tôi đã đến [Ten A-víp]() gặp những người lưu đày đang định cư bên bờ sông [Cơ-va](). Đây là nơi họ sinh sống. Tôi lưu lại đó bảy ngày, ở giữa họ, rất đỗi sững sờ.",
+      "content": "Tôi đã đến Ten A-víp gặp những người lưu đày đang định cư bên bờ sông Cơ-va. Đây là nơi họ sinh sống. Tôi lưu lại đó bảy ngày, ở giữa họ, rất đỗi sững sờ.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.488Z",
-      "updatedAt": "2024-09-23T04:47:38.488Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.190Z",
+      "updatedAt": "2025-04-22T06:54:12.190Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "e57fa107-f9a4-4bb2-8c63-5cabb9ecbb2a",
+      "id": "fe3c75c3-0888-4619-9b1c-358d1b47d2b3",
       "number": 16,
-      "content": "Vậy hết bảy ngày, có lời [ĐỨC CHÚA]() phán với tôi rằng :",
+      "content": "Vậy hết bảy ngày, có lời ĐỨC CHÚA phán với tôi rằng :",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.492Z",
-      "updatedAt": "2024-09-23T04:47:38.492Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.233Z",
+      "updatedAt": "2025-04-22T06:54:12.233Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "4fa0ccc0-a2bb-4038-baf4-dbe041d361c4",
+      "id": "d3df196b-1ad9-477f-880c-1318bb5f1b21",
       "number": 17,
-      "content": "“Hỡi con người, Ta đã đặt ngươi làm người canh gác cho nhà [Ít-ra-en](). Ngươi sẽ nghe lời từ miệng Ta phán ra, rồi thay Ta báo cho chúng biết.",
+      "content": "“Hỡi con người, Ta đã đặt ngươi làm người canh gác cho nhà Ít-ra-en. Ngươi sẽ nghe lời từ miệng Ta phán ra, rồi thay Ta báo cho chúng biết.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.505Z",
-      "updatedAt": "2024-09-23T04:47:38.505Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.291Z",
+      "updatedAt": "2025-04-22T06:54:12.291Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "171c8e76-e327-4fab-ba6a-496e0471debc",
+      "id": "023c6dec-334b-486f-8bdc-69ce756925bc",
       "number": 18,
       "content": "Nếu Ta phán với kẻ gian ác rằng : “Chắc chắn ngươi sẽ phải chết”, và nếu ngươi không báo cho kẻ gian ác đó biết, không nói để cảnh cáo nó từ bỏ lối sống xấu xa, cho nó được sống, thì chính kẻ gian ác ấy sẽ phải chết vì tội lỗi của nó, nhưng Ta sẽ đòi ngươi đền nợ máu nó.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.514Z",
-      "updatedAt": "2024-09-23T04:47:38.514Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.323Z",
+      "updatedAt": "2025-04-22T06:54:12.323Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "498b04e3-7f4e-4892-82cf-9257b6dfdea6",
+      "id": "9bfe1b86-2d1d-4fba-a617-eb38c54680f5",
       "number": 19,
       "content": "Ngược lại, nếu ngươi đã báo cho kẻ gian ác, mà nó không từ bỏ hành vi gian ác và lối sống xấu xa của nó, thì nó sẽ phải chết vì tội của nó ; còn ngươi, ngươi sẽ cứu được mạng sống mình.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.518Z",
-      "updatedAt": "2024-09-23T04:47:38.518Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.337Z",
+      "updatedAt": "2025-04-22T06:54:12.337Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "82edb3e2-d594-4c63-8eb6-3083b16b1f08",
+      "id": "d9dcecb6-ac04-48ff-9c43-3cab22401c7c",
       "number": 20,
       "content": "Nếu như kẻ công chính từ bỏ lẽ công chính của mình mà làm điều bất chính, thì Ta sẽ đặt chướng ngại trước mắt nó ; nó sẽ phải chết, bởi vì ngươi đã không báo cho nó. Nó sẽ phải chết vì tội lỗi của nó và người ta sẽ không còn nhớ đến việc công chính nó đã làm ; nhưng Ta sẽ đòi ngươi đền nợ máu nó.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.524Z",
-      "updatedAt": "2024-09-23T04:47:38.524Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.352Z",
+      "updatedAt": "2025-04-22T06:54:12.352Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "0ffe56fd-c035-4149-ba92-40b831f4aa1e",
+      "id": "4cb5165e-54dc-487d-a0b0-15139c1e0096",
       "number": 21,
       "content": "Ngược lại, nếu ngươi đã báo cho kẻ công chính để nó không phạm tội và chính nó không phạm tội, thì chắc chắn nó sẽ được sống, vì nó đã được báo cho biết ; còn ngươi, ngươi sẽ cứu được mạng sống mình.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.533Z",
-      "updatedAt": "2024-09-23T04:47:38.533Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.382Z",
+      "updatedAt": "2025-04-22T06:54:12.382Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "1670b8b5-f3ab-4b0a-8c94-52a54517dd0c",
+      "id": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
       "number": 22,
-      "content": "Tại [Ten A-víp](), tay [ĐỨC CHÚA]() đặt trên tôi. Người phán với tôi : “Ngươi hãy trỗi dậy, ra thung lũng và ở đó Ta sẽ phán với ngươi.”",
+      "content": "Tại Ten A-víp, tay ĐỨC CHÚA đặt trên tôi. Người phán với tôi : “Ngươi hãy trỗi dậy, ra thung lũng và ở đó Ta sẽ phán với ngươi.”",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.538Z",
-      "updatedAt": "2024-09-23T04:47:38.538Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.397Z",
+      "updatedAt": "2025-04-22T06:54:12.397Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "7ef55fd9-1e86-4b18-ad00-a9bee4cbbfa6",
+      "id": "48961080-1e58-4cb7-87a2-e1b69299d13b",
       "number": 23,
-      "content": "Thế là tôi trỗi dậy và đi ra thung lũng. Và kìa, vinh quang [ĐỨC CHÚA]() đang ở đó giống như vinh quang tôi đã nhìn thấy bên bờ sông [Cơ-va](). Tôi liền sấp mặt xuống đất.",
+      "content": "Thế là tôi trỗi dậy và đi ra thung lũng. Và kìa, vinh quang ĐỨC CHÚA đang ở đó giống như vinh quang tôi đã nhìn thấy bên bờ sông Cơ-va. Tôi liền sấp mặt xuống đất.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.556Z",
-      "updatedAt": "2024-09-23T04:47:38.556Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.497Z",
+      "updatedAt": "2025-04-22T06:54:12.497Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "c101b808-0403-4b15-ac58-d8cd8d8bac86",
+      "id": "b5edd511-a1b2-42a3-90bd-fb98703ef5c7",
       "number": 24,
       "content": "Lúc ấy, thần khí nhập vào tôi, cho chân tôi đứng vững và phán với tôi.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.565Z",
-      "updatedAt": "2024-09-23T04:47:38.565Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.554Z",
+      "updatedAt": "2025-04-22T06:54:12.554Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "6aff4b49-9ab2-48a3-bc49-f7e2f7cda62e",
+      "id": "76f27904-1899-4346-b9b3-8cc8f4382ad4",
       "number": 26,
       "content": "Ta sẽ làm cho lưỡi ngươi dính với hàm và ngươi sẽ bị câm, để ngươi không còn là người khiển trách chúng nữa, vì chúng là nòi phản loạn.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.570Z",
-      "updatedAt": "2024-09-23T04:47:38.570Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.569Z",
+      "updatedAt": "2025-04-22T06:54:12.569Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "a525e5a5-6138-4763-b989-b036979429c8",
+      "id": "ab10fc5e-e179-4029-9ba6-cb98c4928961",
       "number": 27,
-      "content": "Nhưng khi nào Ta phán với ngươi, Ta sẽ mở miệng cho ngươi và ngươi sẽ nói với chúng : [ĐỨC CHÚA]() là Chúa Thượng phán thế này : Kẻ nào muốn nghe thì cứ việc nghe ; kẻ nào không muốn nghe thì cứ việc không nghe, vì chúng là nòi phản loạn.”",
+      "content": "Nhưng khi nào Ta phán với ngươi, Ta sẽ mở miệng cho ngươi và ngươi sẽ nói với chúng : ĐỨC CHÚA là Chúa Thượng phán thế này : Kẻ nào muốn nghe thì cứ việc nghe ; kẻ nào không muốn nghe thì cứ việc không nghe, vì chúng là nòi phản loạn.”",
       "order": 0,
       "parNumber": 6,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:47:38.579Z",
-      "updatedAt": "2024-09-23T04:47:38.579Z",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.598Z",
+      "updatedAt": "2025-04-22T06:54:12.598Z",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     }
   ],
   "footnotes": [
     {
-      "id": "0ee09eb4-d370-4c06-aeb0-dc2faf015172",
+      "id": "7df0dc28-7459-4bda-9fdf-7ccda2b130a1",
       "content": "Trong Is 6,5-7, một thiên thần Xê-ra-phim đụng vào miệng ngôn sứ I-sai-a, trong Gr 1,9, chính Đức Chúa đụng vào miệng ngôn sứ Giê-rê-mi-a và *đặt lời của Người vào miệng ông*. Ý tưởng này được ngôn sứ Ê-dê-ki-en trình bày cụ thể bằng thị kiến và việc ăn cuộn sách. – Cảm giác đầu tiên ngôn sứ cảm thấy, đó là ngọt như mật : lời của Thiên Chúa đem theo một sự nâng đỡ sâu xa trong tâm hồn. Sứ mạng làm ngôn sứ cho dù cam go, nhưng đồng thời đem lại cho người lãnh sứ mạng ấy sự ngọt ngào, khi họ cảm thấy mình được liên đới cộng tác với công trình của Thiên Chúa. Ý thức như thế cũng giúp họ vui tươi phấn khởi khi gặp những chua cay buồn phiền lúc thi hành sứ mạng.",
       "position": 167,
       "order": 0,
-      "createdAt": "2024-09-23T04:47:38.416Z",
-      "updatedAt": "2024-09-23T04:47:38.416Z",
-      "verseId": "a83cd788-67bd-4995-a9b8-488bc68f29d2",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.887Z",
+      "updatedAt": "2025-04-22T06:54:11.887Z",
+      "verseId": "892ed2e0-4e5d-4e7c-8667-8467e6668bba",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "fa332e09-6c4c-4fe1-b2dd-25e1a4839e61",
+      "id": "f124e5a4-493f-4fab-b44b-8748e5b12662",
       "content": "Chủ đề này được khai triển mạch lạc hơn ở Ed 33,1-9. Ở đây chỉ phác hoạ sơ sài để nói lên trách nhiệm của vị ngôn sứ. Cũng như các ngôn sứ trước lưu đày đã từng là những người có nhiệm vụ báo cho dân Ít-ra-en biết những nguy hiểm sắp ập tới (x. Is 52,8 ; 56,10 ; Gr 6,17), ngôn sứ Ê-dê-ki-en cũng có trách nhiệm đó. Hơn thế nữa, số phận của ông còn liên đới với số phận của dân (cc. 18.19). Trong đoạn văn này, đề tài trách nhiệm cá nhân cũng đã được nhắc đến (x. 14,12 tt).",
       "position": 23,
       "order": 1,
-      "createdAt": "2024-09-23T04:47:38.501Z",
-      "updatedAt": "2024-09-23T04:47:38.501Z",
-      "headingId": "af890542-1d05-4bd2-abb2-788870a74527",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.262Z",
+      "updatedAt": "2025-04-22T06:54:12.262Z",
+      "headingId": "14164e2b-ff01-4452-b2e0-d134fc3ff6a5",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "fcaa37e4-f28d-4cec-a0f6-05a65b952d6c",
+      "id": "521954f7-6c6f-4fed-9e6d-4ab90feda777",
       "content": "*Tại Ten A-víp* : ds : *tại đó.*",
-      "position": 17,
+      "position": 13,
       "order": 2,
-      "createdAt": "2024-09-23T04:47:38.551Z",
-      "updatedAt": "2024-09-23T04:47:38.551Z",
-      "verseId": "1670b8b5-f3ab-4b0a-8c94-52a54517dd0c",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.468Z",
+      "updatedAt": "2025-04-22T06:54:12.468Z",
+      "verseId": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "27961f3a-0a83-4c5b-bce3-e091d7a48fe7",
+      "id": "106d4778-c718-472e-9567-b2ef318c7b5e",
       "content": "Không muốn nói với dân lưu đày đang khi Giê-ru-sa-lem bị vây, x. 24,27.",
       "position": 37,
       "order": 4,
-      "createdAt": "2024-09-23T04:47:38.574Z",
-      "updatedAt": "2024-09-23T04:47:38.574Z",
-      "verseId": "6aff4b49-9ab2-48a3-bc49-f7e2f7cda62e",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.584Z",
+      "updatedAt": "2025-04-22T06:54:12.584Z",
+      "verseId": "76f27904-1899-4346-b9b3-8cc8f4382ad4",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "bef0fe8c-b2cf-4f36-b715-4ba65de05f83",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:11.836Z",
+      "updatedAt": "2025-04-22T06:54:11.836Z",
+      "verseId": "941b8021-1b61-482c-a381-6cecbb5d3c8f",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "71c5934b-993b-478f-b574-8ca92f86bb27",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 121,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.067Z",
+      "updatedAt": "2025-04-22T06:54:12.067Z",
+      "verseId": "2402bb94-1dcc-4da1-9ce7-58dc68961664",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "de2a8aab-600b-42e0-82e2-f860024b2fa9",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 97,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.095Z",
+      "updatedAt": "2025-04-22T06:54:12.095Z",
+      "verseId": "09262895-e294-4317-ada5-a25eb57b1e5e",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "be7251eb-9d80-4861-a3e6-460bde26d0a5",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 106,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.176Z",
+      "updatedAt": "2025-04-22T06:54:12.176Z",
+      "verseId": "1d747b8d-5b61-4635-b8a6-8ddfff4d9816",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "462452a2-1cf8-469c-ae51-f32b3faaeb1f",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 33,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.276Z",
+      "updatedAt": "2025-04-22T06:54:12.276Z",
+      "verseId": "fe3c75c3-0888-4619-9b1c-358d1b47d2b3",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "a8380ec5-b523-4683-9556-194d166a6810",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 27,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.483Z",
+      "updatedAt": "2025-04-22T06:54:12.483Z",
+      "verseId": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "ea59d74d-78ec-46b9-9b7f-a0cfec154ed1",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 68,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.511Z",
+      "updatedAt": "2025-04-22T06:54:12.511Z",
+      "verseId": "48961080-1e58-4cb7-87a2-e1b69299d13b",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "1beeaecc-27e9-4e6d-8f91-f3947d7fbbe3",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 94,
+      "order": 5,
+      "createdAt": "2025-04-22T06:54:12.616Z",
+      "updatedAt": "2025-04-22T06:54:12.616Z",
+      "verseId": "ab10fc5e-e179-4029-9ba6-cb98c4928961",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "893fe480-1980-4260-83a7-c2f0b11aa699",
+      "content": "English: Tel Abib - French: Tel-Aviv - Latin: Telabib - Origin: &#64330;&#1461;&#1500; &#1488;&#1464;&#1489;&#1460;&#1497;&#1489; - Vietnamese: Ten A-víp Ed 3,15",
+      "position": 20,
+      "order": 9,
+      "createdAt": "2025-04-22T06:54:12.205Z",
+      "updatedAt": "2025-04-22T06:54:12.205Z",
+      "verseId": "9c0f820d-aab0-458b-8a13-4041819b72e5",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "77d13158-7ffc-42f2-8ae3-4e1def50c457",
+      "content": "English: Tel Abib - French: Tel-Aviv - Latin: Telabib - Origin: &#64330;&#1461;&#1500; &#1488;&#1464;&#1489;&#1460;&#1497;&#1489; - Vietnamese: Ten A-víp Ed 3,15",
+      "position": 13,
+      "order": 9,
+      "createdAt": "2025-04-22T06:54:12.453Z",
+      "updatedAt": "2025-04-22T06:54:12.453Z",
+      "verseId": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "b7a51f03-96f4-4465-b243-b31ceb2708ad",
+      "content": "English: Chebar - French: Kebar - Latin: Chobar - Origin: &#64315;&#1456;&#1489;&#1464;&#1512; - Vietnamese: Cơ-va Ed 1,1.3",
+      "position": 75,
+      "order": 11,
+      "createdAt": "2025-04-22T06:54:12.219Z",
+      "updatedAt": "2025-04-22T06:54:12.219Z",
+      "verseId": "9c0f820d-aab0-458b-8a13-4041819b72e5",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "f0c2dfc7-afd8-4b74-b260-794593aef8a9",
+      "content": "English: Chebar - French: Kebar - Latin: Chobar - Origin: &#64315;&#1456;&#1489;&#1464;&#1512; - Vietnamese: Cơ-va Ed 1,1.3",
+      "position": 134,
+      "order": 11,
+      "createdAt": "2025-04-22T06:54:12.526Z",
+      "updatedAt": "2025-04-22T06:54:12.526Z",
+      "verseId": "48961080-1e58-4cb7-87a2-e1b69299d13b",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "9488d6ed-7b38-4bb9-b6a3-6401041dcc88",
+      "content": "English: Ezekiel - French: Ezéchiel - Latin: Ezechiel - Origin: &#1497;&#1456;&#1495;&#1462;&#1494;&#1456;&#1511;&#1461;&#1488;&#1500; - Vietnamese: Ê-dê-ki-en con của tư tế Bu-di và là ngôn sứ, Ed 1,3",
+      "position": 18,
+      "order": 13,
+      "createdAt": "2025-04-22T06:54:12.439Z",
+      "updatedAt": "2025-04-22T06:54:12.439Z",
+      "headingId": "58028fac-fdf2-4f5c-9ad0-0624018203cd",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     }
   ],
   "headings": [
     {
-      "id": "af890542-1d05-4bd2-abb2-788870a74527",
-      "content": "Ngôn sứ, người canh gác",
-      "order": 0,
-      "createdAt": "2024-09-23T04:47:38.496Z",
-      "updatedAt": "2024-09-23T04:47:38.496Z",
-      "verseId": "e57fa107-f9a4-4bb2-8c63-5cabb9ecbb2a",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
-    },
-    {
-      "id": "61ecab57-66c6-4361-a8ba-358b339c79ba",
+      "id": "d96b5d07-98f4-4212-aa76-de68c5d4c227",
       "content": "I. TRƯỚC KHI GIÊ-RU-SA-LEM BỊ VÂY HÃM",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:47:38.543Z",
-      "updatedAt": "2024-09-23T04:47:38.543Z",
-      "verseId": "1670b8b5-f3ab-4b0a-8c94-52a54517dd0c",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.411Z",
+      "updatedAt": "2025-04-22T06:54:12.411Z",
+      "verseId": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "2ea31d12-6b1d-4e5c-9cc1-6bf0fb04ed83",
-      "content": "Ngôn sứ [Ê-dê-ki-en]() được dành riêng để phục vụ Lời Chúa",
+      "id": "14164e2b-ff01-4452-b2e0-d134fc3ff6a5",
+      "content": "Ngôn sứ, người canh gác",
+      "level": 2,
+      "order": 0,
+      "createdAt": "2025-04-22T06:54:12.248Z",
+      "updatedAt": "2025-04-22T06:54:12.248Z",
+      "verseId": "fe3c75c3-0888-4619-9b1c-358d1b47d2b3",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
+    },
+    {
+      "id": "58028fac-fdf2-4f5c-9ad0-0624018203cd",
+      "content": "Ngôn sứ Ê-dê-ki-en được dành riêng để phục vụ Lời Chúa",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T04:47:38.547Z",
-      "updatedAt": "2024-09-23T04:47:38.547Z",
-      "verseId": "1670b8b5-f3ab-4b0a-8c94-52a54517dd0c",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.425Z",
+      "updatedAt": "2025-04-22T06:54:12.425Z",
+      "verseId": "0d5b0713-adbe-4218-a59b-39b84f69f8a1",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     }
   ],
   "references": [
     {
-      "id": "5a778f2a-d796-4d90-a411-f8ab7b1ef696",
+      "id": "d8c9a2ac-809e-4743-a78d-fca9a61303ff",
       "content": "Kh 10,8-11",
-      "position": 70,
+      "position": 66,
       "order": 0,
-      "createdAt": "2024-09-23T04:47:38.403Z",
-      "updatedAt": "2024-09-23T04:47:38.403Z",
-      "verseId": "c1d3e306-2549-48de-8d9c-11cf42759b85",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.847Z",
+      "updatedAt": "2025-04-22T06:54:11.847Z",
+      "verseId": "941b8021-1b61-482c-a381-6cecbb5d3c8f",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "93d55e62-deaa-42b8-9637-abdf21afcdb2",
+      "id": "a4decab3-e5ed-4e3e-ae47-ebaf9d691f77",
       "content": "Gr 7,27",
-      "position": 80,
+      "position": 76,
       "order": 1,
-      "createdAt": "2024-09-23T04:47:38.425Z",
-      "updatedAt": "2024-09-23T04:47:38.425Z",
-      "verseId": "fd83eae2-b498-496b-953c-2559c82722be",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.916Z",
+      "updatedAt": "2025-04-22T06:54:11.916Z",
+      "verseId": "20d561c4-c01c-41c6-bc3f-a8f88ca5e755",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "4ba0ed34-763c-4924-8d92-6fc2204d7336",
+      "id": "bb0904f3-4ac1-4004-af89-65c6a5b51fb0",
       "content": "Is 28,9-13; 33,19",
       "position": 47,
       "order": 2,
-      "createdAt": "2024-09-23T04:47:38.433Z",
-      "updatedAt": "2024-09-23T04:47:38.433Z",
-      "verseId": "60948ea6-52d3-4f56-92a4-127095a8000f",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:11.944Z",
+      "updatedAt": "2025-04-22T06:54:11.944Z",
+      "verseId": "96462c1f-d0ed-40c7-b869-fcf57c7136d7",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "7ffdbdb0-bf7d-491d-ba84-8c2cf1577dec",
+      "id": "e31c159e-3134-4023-b855-3cd67bc74d45",
       "content": "Is 50,7",
       "position": 48,
       "order": 3,
-      "createdAt": "2024-09-23T04:47:38.450Z",
-      "updatedAt": "2024-09-23T04:47:38.450Z",
-      "verseId": "97aea4f9-63c2-4ff7-9c49-2c6f6e657aa6",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.011Z",
+      "updatedAt": "2025-04-22T06:54:12.011Z",
+      "verseId": "5dd11802-2741-45ff-a8c6-3d4b80ea3be6",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "e20a1e68-a724-42fe-8720-aace48e2becd",
+      "id": "5516a235-79fc-466c-a174-68100cb14d67",
       "content": "1 V 18,12",
       "position": 4,
       "order": 4,
-      "createdAt": "2024-09-23T04:47:38.471Z",
-      "updatedAt": "2024-09-23T04:47:38.471Z",
-      "verseId": "4c38a10c-73d3-4114-99dd-f2f070324dac",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.110Z",
+      "updatedAt": "2025-04-22T06:54:12.110Z",
+      "verseId": "09262895-e294-4317-ada5-a25eb57b1e5e",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "ea6f1b7f-a447-4f0a-be61-b46c17a290eb",
+      "id": "cdeb97f2-7317-4b19-b81f-f88e50326293",
       "content": "Lc 2,13-14",
       "position": 79,
       "order": 5,
-      "createdAt": "2024-09-23T04:47:38.475Z",
-      "updatedAt": "2024-09-23T04:47:38.475Z",
-      "verseId": "4c38a10c-73d3-4114-99dd-f2f070324dac",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.124Z",
+      "updatedAt": "2025-04-22T06:54:12.124Z",
+      "verseId": "09262895-e294-4317-ada5-a25eb57b1e5e",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "fbdbdd62-5530-476a-b0b6-bdcf889b0265",
+      "id": "5e462484-18f6-49f7-97b2-d173ae176678",
       "content": "Ed 33,1-9; Is 21,6.8-11",
       "position": 42,
       "order": 6,
-      "createdAt": "2024-09-23T04:47:38.509Z",
-      "updatedAt": "2024-09-23T04:47:38.509Z",
-      "verseId": "4fa0ccc0-a2bb-4038-baf4-dbe041d361c4",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.308Z",
+      "updatedAt": "2025-04-22T06:54:12.308Z",
+      "verseId": "d3df196b-1ad9-477f-880c-1318bb5f1b21",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "2d631ee2-4e59-4898-890d-50d7e44b10b9",
+      "id": "f2589692-abfb-4722-8527-8181fab2e3da",
       "content": "Ed 18,24; 33,12-13; 2 Pr 2,21",
       "position": 11,
       "order": 7,
-      "createdAt": "2024-09-23T04:47:38.529Z",
-      "updatedAt": "2024-09-23T04:47:38.529Z",
-      "verseId": "82edb3e2-d594-4c63-8eb6-3083b16b1f08",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.367Z",
+      "updatedAt": "2025-04-22T06:54:12.367Z",
+      "verseId": "d9dcecb6-ac04-48ff-9c43-3cab22401c7c",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "57dc5c12-5c48-4689-9106-d331897ff441",
+      "id": "83992fc8-94a0-4c4b-b517-009fea087e5b",
       "content": "Ed 1,28",
       "position": 49,
       "order": 8,
-      "createdAt": "2024-09-23T04:47:38.560Z",
-      "updatedAt": "2024-09-23T04:47:38.560Z",
-      "verseId": "7ef55fd9-1e86-4b18-ad00-a9bee4cbbfa6",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.540Z",
+      "updatedAt": "2025-04-22T06:54:12.540Z",
+      "verseId": "48961080-1e58-4cb7-87a2-e1b69299d13b",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     },
     {
-      "id": "cfc382f9-d890-42ae-9aec-2b073aabc9a6",
+      "id": "cdb2cc4b-04de-4c86-8726-a47bc0c4f849",
       "content": "Ed 24,27; 29,21; 33,22",
       "position": 39,
       "order": 9,
-      "createdAt": "2024-09-23T04:47:38.584Z",
-      "updatedAt": "2024-09-23T04:47:38.584Z",
-      "verseId": "a525e5a5-6138-4763-b989-b036979429c8",
-      "chapterId": "93dc30b4-f1d2-4d78-bd39-663e3732fc92"
+      "createdAt": "2025-04-22T06:54:12.629Z",
+      "updatedAt": "2025-04-22T06:54:12.629Z",
+      "verseId": "ab10fc5e-e179-4029-9ba6-cb98c4928961",
+      "chapterId": "4647ac04-c02a-48e5-b004-f7c02ad2ce25"
     }
   ],
   "psalmMetadata": []

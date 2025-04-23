@@ -1,461 +1,592 @@
 {
   "chapter": {
-    "id": "5ede8d0f-e617-4ffd-b28f-8135f075dc60",
+    "id": "8e1c5fcf-4193-40cf-a362-fb435d3316c2",
     "number": 2,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.337Z",
-    "updatedAt": "2024-09-23T03:08:02.337Z",
-    "bookId": "800e1a82-722e-4bf8-acdc-4677f4c610eb"
+    "createdAt": "2025-04-22T00:48:31.640Z",
+    "updatedAt": "2025-04-22T00:48:31.640Z",
+    "bookId": "a6e6c684-3903-4c1e-9dd6-cf7b369c90fb"
   },
   "verses": [
     {
-      "id": "18602583-9a15-428c-a185-22ac1a285d26",
+      "id": "5098d659-7dc2-47a2-ae49-9be1ee6d88f6",
       "number": 2,
       "content": "Ông triệu tập tất cả triều thần, tất cả thân hào và tỏ cho họ biết quyết định bí mật của ông. Chính miệng ông công bố đại hoạ cho toàn cõi đất.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.238Z",
-      "updatedAt": "2024-09-23T04:10:33.238Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.138Z",
+      "updatedAt": "2025-04-22T04:49:54.138Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "86e732f1-48d1-4b62-b96b-7c45c49b3af7",
+      "id": "ea0ae60a-7f0a-46f9-847e-45f64a084136",
       "number": 3,
       "content": "Họ quyết định tiêu diệt tất cả những ai không tuân hành lệnh vua ban truyền.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.249Z",
-      "updatedAt": "2024-09-23T04:10:33.249Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.159Z",
+      "updatedAt": "2025-04-22T04:49:54.159Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "dde2a7c2-f1e1-4750-a704-4264ca1cecc0",
+      "id": "23d34332-54db-4aa2-8d21-e379b9164c7e",
       "number": 4,
-      "content": "Vậy sau khi nghị quyết, [Na-bu-cô-đô-nô-xo](), vua nước [Át-sua]() cho vời [Hô-lô-phéc-nê](), đại tướng chỉ huy quân đội và cũng là nhân vật thứ hai sau vua. Vua nói với ông :",
+      "content": "Vậy sau khi nghị quyết, Na-bu-cô-đô-nô-xo, vua nước Át-sua cho vời Hô-lô-phéc-nê, đại tướng chỉ huy quân đội và cũng là nhân vật thứ hai sau vua. Vua nói với ông :",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.257Z",
-      "updatedAt": "2024-09-23T04:10:33.257Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.185Z",
+      "updatedAt": "2025-04-22T04:49:54.185Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "0e79b374-fe31-4243-9013-38bc7f57236a",
+      "id": "0a5769b3-1ed2-4fe0-b7ff-96a0b0ddf676",
       "number": 5,
       "content": "“Đại đế, chúa tể toàn cõi đất phán thế này : đây, ngươi hãy lui ra, đem theo binh sĩ tinh nhuệ, chừng một trăm hai mươi ngàn bộ binh, một số lớn chiến mã và mười hai ngàn kỵ binh.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.270Z",
-      "updatedAt": "2024-09-23T04:10:33.270Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.251Z",
+      "updatedAt": "2025-04-22T04:49:54.251Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "47320cf3-3925-43a6-852c-4d6ea0d558eb",
+      "id": "886a3183-7aae-4318-8d4e-a6d98b06cf5d",
       "number": 6,
       "content": "Ngươi hãy đi chinh phạt tất cả các xứ ở Phương Tây, bởi vì chúng không chịu tuân theo mệnh lệnh của ta.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.279Z",
-      "updatedAt": "2024-09-23T04:10:33.279Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.281Z",
+      "updatedAt": "2025-04-22T04:49:54.281Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "94935953-8d71-4488-87f7-58ff3e68f239",
+      "id": "a9641495-2a08-4ee0-a5e3-2138fcdf68b2",
       "number": 7,
       "content": "Hãy truyền cho chúng chuẩn bị đất và nước, vì ta đang phẫn nộ và sắp đi đánh chúng ; ta sẽ cho đạo quân của ta phủ lấp khắp mặt đất và tha hồ cướp phá.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.283Z",
-      "updatedAt": "2024-09-23T04:10:33.283Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.294Z",
+      "updatedAt": "2025-04-22T04:49:54.294Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "7017ee65-4a74-443f-b032-b797255e95eb",
+      "id": "3b0a9fe1-0b95-4cb7-9f9f-bea4659942a3",
       "number": 8,
       "content": "Người bị thương đầy trũng lấp khe ; xác người chết tràn sông ngập suối.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.291Z",
-      "updatedAt": "2024-09-23T04:10:33.291Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.321Z",
+      "updatedAt": "2025-04-22T04:49:54.321Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "fe4e9cdb-6b4e-46f0-830a-da4c01caae35",
+      "id": "30c8fb2c-2b43-414d-aa26-54b1be1bbbd3",
       "number": 9,
       "content": "Ta sẽ đưa tù binh của chúng đến tận cùng cõi đất.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.296Z",
-      "updatedAt": "2024-09-23T04:10:33.296Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.334Z",
+      "updatedAt": "2025-04-22T04:49:54.334Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "fe449dd8-7073-420d-a35a-dc1af10d88ca",
+      "id": "81e88eb6-25ee-42b0-9e68-a407579723d8",
       "number": 10,
       "content": "Vậy ngươi hãy đi chinh phục cho ta mọi lãnh thổ của chúng. Chúng sẽ đầu hàng, và ngươi sẽ giam chúng lại cho ta chờ ngày ta trừng trị.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.300Z",
-      "updatedAt": "2024-09-23T04:10:33.300Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.347Z",
+      "updatedAt": "2025-04-22T04:49:54.347Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "b07cf140-ee05-45d8-9a8b-dcbf6d545020",
+      "id": "7becbea4-7e0c-4d58-a741-a3a40237ca65",
       "number": 11,
       "content": "Còn những kẻ bất tuân, đừng nhìn chúng mà thương hại, nhưng hãy đẩy chúng vào cuộc thảm sát và cướp bóc trên toàn cõi đất ngươi chiếm được.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.304Z",
-      "updatedAt": "2024-09-23T04:10:33.304Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.363Z",
+      "updatedAt": "2025-04-22T04:49:54.363Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "86dd0dac-6abe-480d-9b9d-4f12caaaaf7e",
+      "id": "26d4a9fb-86e6-43cb-910f-945137fc7f8b",
       "number": 12,
       "content": "Vì ta lấy mạng sống và vương quốc hùng mạnh của ta mà thề : những gì ta đã nói, ta sẽ tự tay làm.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.308Z",
-      "updatedAt": "2024-09-23T04:10:33.308Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.380Z",
+      "updatedAt": "2025-04-22T04:49:54.380Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "dd0f055c-8d0f-48e0-837f-9ae2c68a887a",
+      "id": "71a906be-176c-41cb-87f9-01049caf6b1d",
       "number": 13,
       "content": "Phần ngươi, chớ vi phạm một điều nào trong các mệnh lệnh của chúa tể ngươi, trái lại, phải chu toàn cho thấu đáo như ta đã chỉ thị cho ngươi. Ngươi không được chậm trễ thi hành những điều ấy.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.312Z",
-      "updatedAt": "2024-09-23T04:10:33.312Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.393Z",
+      "updatedAt": "2025-04-22T04:49:54.393Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "7626efac-35bb-4752-8e38-2676134bc90c",
+      "id": "a293a05f-48c5-454a-ae6d-46c1fbf240d5",
       "number": 14,
-      "content": "[Hô-lô-phéc-nê]() từ biệt chúa tể của ông ; ông cho vời tất cả quan chức, tướng lãnh, sĩ quan quân đội [Át-sua]().",
+      "content": "Hô-lô-phéc-nê từ biệt chúa tể của ông ; ông cho vời tất cả quan chức, tướng lãnh, sĩ quan quân đội Át-sua.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.316Z",
-      "updatedAt": "2024-09-23T04:10:33.316Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.406Z",
+      "updatedAt": "2025-04-22T04:49:54.406Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "a4a93b4d-98a3-4c16-84e0-a9aeb6e05832",
+      "id": "b8a23e5f-e59e-417c-b45a-368c88cd8d9d",
       "number": 15,
       "content": "Ông điểm danh số người được chọn để chiến đấu, như chúa tể của ông đã truyền : chừng một trăm hai mươi ngàn người và mười hai ngàn kỵ binh xạ thủ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.321Z",
-      "updatedAt": "2024-09-23T04:10:33.321Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.439Z",
+      "updatedAt": "2025-04-22T04:49:54.439Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "d615111a-7a2e-4c3b-8629-31502c096fcf",
+      "id": "40c50b44-06c7-48b4-b286-26015f6fea0f",
       "number": 16,
       "content": "Ông sắp xếp họ thành đội ngũ tác chiến.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.325Z",
-      "updatedAt": "2024-09-23T04:10:33.325Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.453Z",
+      "updatedAt": "2025-04-22T04:49:54.453Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "3a7f39ea-295a-468e-8688-cc3c52338320",
+      "id": "a758310b-4ab5-411a-866a-4c3174879b6a",
       "number": 17,
       "content": "Sau đó, ông dùng rất nhiều lạc đà, lừa và la để tải quân nhu, và mang theo vô số chiên, bò, dê làm quân lương.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.329Z",
-      "updatedAt": "2024-09-23T04:10:33.329Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.466Z",
+      "updatedAt": "2025-04-22T04:49:54.466Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "fd5ca0d3-5ac7-4716-a2ca-c5c5a8be5b48",
+      "id": "871093b9-4065-4ec1-aa07-24a3a62eeadb",
       "number": 18,
       "content": "Người nào cũng được lãnh lương thực dồi dào với rất nhiều vàng bạc xuất từ đền vua.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.333Z",
-      "updatedAt": "2024-09-23T04:10:33.333Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.482Z",
+      "updatedAt": "2025-04-22T04:49:54.482Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "7c414c8a-76b2-46fd-beab-26a465366fac",
+      "id": "fbd203b0-bfac-4289-8b47-a1b7242920a6",
       "number": 19,
-      "content": "Ông cùng với tất cả đạo quân xuất trận làm tiền phong cho [Na-bu-cô-đô-nô-xo]() ; ông cho chiến xa, kỵ binh và bộ binh tinh nhuệ phủ lấp khắp mặt đất phía tây.",
+      "content": "Ông cùng với tất cả đạo quân xuất trận làm tiền phong cho Na-bu-cô-đô-nô-xo ; ông cho chiến xa, kỵ binh và bộ binh tinh nhuệ phủ lấp khắp mặt đất phía tây.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.337Z",
-      "updatedAt": "2024-09-23T04:10:33.337Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.495Z",
+      "updatedAt": "2025-04-22T04:49:54.495Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "8b651bc1-25f6-48f1-b757-487bc76a8d0f",
+      "id": "7eb87471-0f90-43bc-a52d-a9cde0adebe4",
       "number": 20,
       "content": "Một đám quân ô hợp cùng đi với chúng, nhiều như châu chấu, như cát trên mặt đất, vì chúng quá đông, không sao đếm nổi.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.341Z",
-      "updatedAt": "2024-09-23T04:10:33.341Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.521Z",
+      "updatedAt": "2025-04-22T04:49:54.521Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "60f9acf9-29c7-48be-9cea-f45e21070b30",
+      "id": "f2fa8345-a32d-4beb-a89b-e19015e6d51d",
       "number": 21,
-      "content": "Chúng đi khỏi [Ni-ni-vê]() ba ngày đường thì tới được phía trước đồng bằng [Béc-ti-lét]() ; từ [Béc-ti-lét]() chúng tới đóng quân ở gần ngọn núi nằm về phía trái miền [Ki-li-ki-a]() Thượng.",
+      "content": "Chúng đi khỏi Ni-ni-vê ba ngày đường thì tới được phía trước đồng bằng Béc-ti-lét ; từ Béc-ti-lét chúng tới đóng quân ở gần ngọn núi nằm về phía trái miền Ki-li-ki-a Thượng.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.349Z",
-      "updatedAt": "2024-09-23T04:10:33.349Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.541Z",
+      "updatedAt": "2025-04-22T04:49:54.541Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "e1a77751-bf4c-488b-8bd7-38936030f97a",
+      "id": "4087ea6c-b4a9-4f22-a692-8eb824122604",
       "number": 22,
       "content": "Rồi từ đó, ông đem tất cả đạo quân gồm bộ binh, kỵ binh và chiến xa, tiến lên miền núi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.362Z",
-      "updatedAt": "2024-09-23T04:10:33.362Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.626Z",
+      "updatedAt": "2025-04-22T04:49:54.626Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "fc89af1e-9f35-4015-8dfd-592b2b72725e",
+      "id": "e083ea6f-1137-4607-b0c8-2679ca536ad6",
       "number": 23,
-      "content": "Ông tàn phá [Pút]() và [Lút](), cướp bóc tất cả con cái [Rát-xít]() và con cái [Ít-ma-ên]() đang sống ở ven sa mạc phía nam từ xứ người [Khe-le-ôn]().",
+      "content": "Ông tàn phá Pút và Lút, cướp bóc tất cả con cái Rát-xít và con cái Ít-ma-ên đang sống ở ven sa mạc phía nam từ xứ người Khe-le-ôn.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.366Z",
-      "updatedAt": "2024-09-23T04:10:33.366Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.639Z",
+      "updatedAt": "2025-04-22T04:49:54.639Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "2caea0a3-7aac-4dfd-919f-8a83c47e4abd",
+      "id": "33547874-f340-4571-82c6-9ceb9e16e0db",
       "number": 24,
-      "content": "Ông tiến dọc theo sông [Êu-phơ-rát](), băng qua miền [Mê-xô-pô-ta-mi-a]() và phá bình địa tất cả các thành nằm ở trên cao, dọc bờ suối [Áp-rô-na]() cho tới biển.",
+      "content": "Ông tiến dọc theo sông Êu-phơ-rát, băng qua miền Mê-xô-pô-ta-mi-a và phá bình địa tất cả các thành nằm ở trên cao, dọc bờ suối Áp-rô-na cho tới biển.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.374Z",
-      "updatedAt": "2024-09-23T04:10:33.374Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.679Z",
+      "updatedAt": "2025-04-22T04:49:54.679Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "6d61e626-d1d2-4764-8a49-089c39939b25",
+      "id": "8a29e790-578c-4b70-9709-92549222e1a4",
       "number": 25,
-      "content": "Ông chiếm các lãnh thổ thuộc xứ [Ki-li-ki-a]() và đánh tan tất cả những ai kháng cự ; ông đi đến biên giới [Gia-phét](), ở mạn nam, đối diện với xứ [Ả-rập]().",
+      "content": "Ông chiếm các lãnh thổ thuộc xứ Ki-li-ki-a và đánh tan tất cả những ai kháng cự ; ông đi đến biên giới Gia-phét, ở mạn nam, đối diện với xứ Ả-rập.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.378Z",
-      "updatedAt": "2024-09-23T04:10:33.378Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.719Z",
+      "updatedAt": "2025-04-22T04:49:54.719Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "924f1693-a5e8-4d39-98d5-3cdf85a00353",
+      "id": "6783e17d-02ff-429d-b187-c7e6cc61f65c",
       "number": 26,
-      "content": "Ông bao vây toàn thể con cái [Ma-đi-an](), đốt lều trại và cướp phá chuồng súc vật của họ.",
+      "content": "Ông bao vây toàn thể con cái Ma-đi-an, đốt lều trại và cướp phá chuồng súc vật của họ.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.383Z",
-      "updatedAt": "2024-09-23T04:10:33.383Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.762Z",
+      "updatedAt": "2025-04-22T04:49:54.762Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "9d37ca6a-e5e4-4091-b807-ebbb2d04ce2f",
+      "id": "b0fdd09d-957c-409c-b960-3c0a18357979",
       "number": 27,
-      "content": "Rồi ông đi xuống phía đồng bằng [Đa-mát]() vào mùa gặt lúa mì ; ông đốt tất cả cánh đồng, tiêu diệt bò dê chiên cừu, cướp bóc các thành thị, tàn phá các đồng ruộng và dùng gươm tàn sát tất cả các thanh niên.",
+      "content": "Rồi ông đi xuống phía đồng bằng Đa-mát vào mùa gặt lúa mì ; ông đốt tất cả cánh đồng, tiêu diệt bò dê chiên cừu, cướp bóc các thành thị, tàn phá các đồng ruộng và dùng gươm tàn sát tất cả các thanh niên.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.387Z",
-      "updatedAt": "2024-09-23T04:10:33.387Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.776Z",
+      "updatedAt": "2025-04-22T04:49:54.776Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "bf5d1c16-72be-4d01-b722-4bac09ba481d",
+      "id": "97a3f5e6-94a8-4d7d-94db-0f222b463203",
       "number": 28,
-      "content": "Sợ hãi và kinh hoàng ập xuống trên toàn thể dân cư miền bờ biển là các dân ở [Xi-đôn](), [Tia](), trên các dân cư ở [Xua](), ở [Ô-ki-na]() và toàn thể dân cư ở [Giam-ni-a](). Các dân cư ở [Át-đốt]() và ở [Át-cơ-lôn]() đều rất sợ hãi ông.",
+      "content": "Sợ hãi và kinh hoàng ập xuống trên toàn thể dân cư miền bờ biển là các dân ở Xi-đôn, Tia, trên các dân cư ở Xua, ở Ô-ki-na và toàn thể dân cư ở Giam-ni-a. Các dân cư ở Át-đốt và ở Át-cơ-lôn đều rất sợ hãi ông.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:10:33.395Z",
-      "updatedAt": "2024-09-23T04:10:33.395Z",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.802Z",
+      "updatedAt": "2025-04-22T04:49:54.802Z",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     }
   ],
   "footnotes": [
     {
-      "id": "11c884a5-3b16-4728-8bfd-4d39e5b36180",
+      "id": "b22cf28d-1ebb-45f3-bd96-d727f4095558",
       "content": "ds : *Và chuyện xảy ra là sau khi đã ... xong*, là công thức đi kèm với mỗi diễn từ quan trọng (x. 1 V 8,54 ; Mt 7,28 ; 11,1 ; 13,53 ; 19,1 ; 26,1).",
       "position": 22,
       "order": 1,
-      "createdAt": "2024-09-23T04:10:33.262Z",
-      "updatedAt": "2024-09-23T04:10:33.262Z",
-      "verseId": "dde2a7c2-f1e1-4750-a704-4264ca1cecc0",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.199Z",
+      "updatedAt": "2025-04-22T04:49:54.199Z",
+      "verseId": "23d34332-54db-4aa2-8d21-e379b9164c7e",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "2af5195b-4ac1-48fe-bfa9-2d7534484f51",
+      "id": "d406ccfa-3b21-4d90-bb63-1ebb4911f787",
       "content": "Tên *Hô-lô-phéc-nê* cũng như *Ba-gô-át* (12,11) cũng là tên những sĩ quan mà lịch sử Ba-tư có ghi lại, phục vụ dưới triều vua Ác-tắc-sát-ta III (thế kỷ IV tCN).",
-      "position": 92,
+      "position": 80,
       "order": 2,
-      "createdAt": "2024-09-23T04:10:33.266Z",
-      "updatedAt": "2024-09-23T04:10:33.266Z",
-      "verseId": "dde2a7c2-f1e1-4750-a704-4264ca1cecc0",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.238Z",
+      "updatedAt": "2025-04-22T04:49:54.238Z",
+      "verseId": "23d34332-54db-4aa2-8d21-e379b9164c7e",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "4466599c-1324-4313-a2c8-c4ee04c69989",
+      "id": "6bb781ec-37dd-433c-93b2-991007ba1cfb",
       "content": "*Chúa tể toàn cõi đất* là danh hiệu chính thức của vua Ba-tư (x. 1,11+). Lưu ý, trong diễn từ của Na-bu-cô-đô-nô-xo, những cách nói thường dùng trong Kinh Thánh khi nói về Thiên Chúa hay khi Thiên Chúa nói về chính mình : *Chúa tể toàn cõi đất (c.5) ; ta lấy mạng sống ta mà thề* và *ta đã nói và ta sẽ làm (c.12)*. Sự vận dụng như thế cố ý làm nổi bật ngôn hành phạm thượng của ông vua thù địch với Thiên Chúa này.",
       "position": 29,
       "order": 3,
-      "createdAt": "2024-09-23T04:10:33.274Z",
-      "updatedAt": "2024-09-23T04:10:33.274Z",
-      "verseId": "0e79b374-fe31-4243-9013-38bc7f57236a",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.267Z",
+      "updatedAt": "2025-04-22T04:49:54.267Z",
+      "verseId": "0a5769b3-1ed2-4fe0-b7ff-96a0b0ddf676",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "b3397fbd-5585-42cf-b09e-82e17cd7ef99",
+      "id": "4d64c992-f4f4-4c93-96a6-c25cfd9b3edc",
       "content": "*Đất và nước* là những yếu tố cho thấy ảnh hưởng của văn hoá Ba-tư trong chuyện này, chỉ phần *đất* để vua đi qua và đóng quân trên đường chinh phạt, và *nước* để họ uống trong thời gian đó. So sánh với “đất nước” trong tiếng Việt.",
       "position": 41,
       "order": 4,
-      "createdAt": "2024-09-23T04:10:33.287Z",
-      "updatedAt": "2024-09-23T04:10:33.287Z",
-      "verseId": "94935953-8d71-4488-87f7-58ff3e68f239",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.308Z",
+      "updatedAt": "2025-04-22T04:49:54.308Z",
+      "verseId": "a9641495-2a08-4ee0-a5e3-2138fcdf68b2",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "ffcc3547-b2b9-4140-b17c-3c164e46b2ef",
+      "id": "b31d8bb4-df8d-4b6a-8fc2-3f37fa056522",
       "content": "Lộ trình ghi chép trong đoạn này thì vô phương phối kiểm, không ăn nhằm chi đến địa dư các vùng liên quan. Rõ ràng tác giả không quan tâm gì đến tính khoa học lịch sử, mà chỉ cần dựng lên một bản đồ cho các nhân vật của ông có đất dụng võ thôi. – *Pút và Lút* : Ed 27,10 ; 30,5 ; nhưng có lẽ ở đây được chêm vô vì âm điệu và để điểm thêm cho bản văn có âm hưởng một lời ngôn sứ.",
-      "position": 44,
+      "position": 40,
       "order": 5,
-      "createdAt": "2024-09-23T04:10:33.357Z",
-      "updatedAt": "2024-09-23T04:10:33.357Z",
-      "headingId": "802f7f1d-863a-4e2a-b0e2-bce2587f6e9f",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.574Z",
+      "updatedAt": "2025-04-22T04:49:54.574Z",
+      "headingId": "7e5d0d89-59c1-412a-8b18-a236166e2304",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "9a441a20-d1e5-4124-80d3-6b115586523f",
+      "id": "72ce0ec6-905d-456c-8088-33045c34db91",
       "content": "Dân Do-thái phân biệt hai vụ mùa : mùa gặt lúa mạch (x. 2 Sm 21,9) vào tháng Tư, và *mùa gặt lúa mì* (x. St 30,14) vào cuối tháng Năm.",
-      "position": 61,
+      "position": 57,
       "order": 6,
-      "createdAt": "2024-09-23T04:10:33.391Z",
-      "updatedAt": "2024-09-23T04:10:33.391Z",
-      "verseId": "9d37ca6a-e5e4-4091-b807-ebbb2d04ce2f",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.789Z",
+      "updatedAt": "2025-04-22T04:49:54.789Z",
+      "verseId": "b0fdd09d-957c-409c-b960-3c0a18357979",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "d7229541-22b5-45fd-b4f5-a022ee6baa17",
+      "id": "3a101130-e9aa-4b61-8cfc-6ac6a5aca029",
       "content": "*Sợ hãi và kinh hoàng ập xuống* là công thức thường dùng để nói về sự kính sợ Thiên Chúa (Xh 15,16) ; ở đây lại nói về sự kinh hãi đối với một con người (x. 2,5+). Ở 15,2 cũng vậy.",
       "position": 29,
       "order": 7,
-      "createdAt": "2024-09-23T04:10:33.400Z",
-      "updatedAt": "2024-09-23T04:10:33.400Z",
-      "verseId": "bf5d1c16-72be-4d01-b722-4bac09ba481d",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.815Z",
+      "updatedAt": "2025-04-22T04:49:54.815Z",
+      "verseId": "97a3f5e6-94a8-4d7d-94db-0f222b463203",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "b60204ba-bf96-4659-9095-8cf734cff236",
+      "content": "English: Nebuchadnzzar - French: Nabuchodonosor - Latin: Nabuchodonosor - Origin: &#1504;&#1456;&#1489;&#64309;&#1499;&#1463;&#1491;&#1456;&#1512;&#1462;&#1488;&#1510;&#1468;&#1463;&#1512; &#925;&#945;&#946;&#959;&#965;&#967;&#959;&#948;&#959;&#957;&#959;&#963;&#959;&#961; - Vietnamese: Na-bu-cô-đô-nô-xo Gr 46,2 ; Ed 29,19",
+      "position": 41,
+      "order": 8,
+      "createdAt": "2025-04-22T04:49:54.212Z",
+      "updatedAt": "2025-04-22T04:49:54.212Z",
+      "verseId": "23d34332-54db-4aa2-8d21-e379b9164c7e",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "1ca5c983-a95f-4e40-92be-83b77b862b62",
+      "content": "English: Nebuchadnzzar - French: Nabuchodonosor - Latin: Nabuchodonosor - Origin: &#1504;&#1456;&#1489;&#64309;&#1499;&#1463;&#1491;&#1456;&#1512;&#1462;&#1488;&#1510;&#1468;&#1463;&#1512; &#925;&#945;&#946;&#959;&#965;&#967;&#959;&#948;&#959;&#957;&#959;&#963;&#959;&#961; - Vietnamese: Na-bu-cô-đô-nô-xo Gr 46,2 ; Ed 29,19",
+      "position": 75,
+      "order": 8,
+      "createdAt": "2025-04-22T04:49:54.508Z",
+      "updatedAt": "2025-04-22T04:49:54.508Z",
+      "verseId": "fbd203b0-bfac-4289-8b47-a1b7242920a6",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "ade8dc6c-e6c4-47a0-8b22-2c8b973058bb",
+      "content": "English: Holofernes - French: Holopherne - Latin: Olofernes - Origin: &#1369;&#927;&#955;&#959;&#981;&#949;&#961;&#957;&#951;&#962; - Vietnamese: Hô-lô-phéc-nê Gđt 2,4 ; 4,1",
+      "position": 80,
+      "order": 12,
+      "createdAt": "2025-04-22T04:49:54.225Z",
+      "updatedAt": "2025-04-22T04:49:54.225Z",
+      "verseId": "23d34332-54db-4aa2-8d21-e379b9164c7e",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "dc0a071e-581e-4e9b-b082-ff776bc376af",
+      "content": "English: Holofernes - French: Holopherne - Latin: Olofernes - Origin: &#1369;&#927;&#955;&#959;&#981;&#949;&#961;&#957;&#951;&#962; - Vietnamese: Hô-lô-phéc-nê Gđt 2,4 ; 4,1",
+      "position": 13,
+      "order": 12,
+      "createdAt": "2025-04-22T04:49:54.419Z",
+      "updatedAt": "2025-04-22T04:49:54.419Z",
+      "verseId": "a293a05f-48c5-454a-ae6d-46c1fbf240d5",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "94d1e4bd-6dfd-4d3d-9c3b-817c0e873d5e",
+      "content": "English: Holofernes - French: Holopherne - Latin: Olofernes - Origin: &#1369;&#927;&#955;&#959;&#981;&#949;&#961;&#957;&#951;&#962; - Vietnamese: Hô-lô-phéc-nê Gđt 2,4 ; 4,1",
+      "position": 40,
+      "order": 12,
+      "createdAt": "2025-04-22T04:49:54.563Z",
+      "updatedAt": "2025-04-22T04:49:54.563Z",
+      "headingId": "7e5d0d89-59c1-412a-8b18-a236166e2304",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "ba0604d0-0382-44ad-bbe9-5791195f1e76",
+      "content": "English: Bectileth - French: Bektileth - Latin: Bectileth - Origin: &#914;&#949;&#954;&#964;&#953;&#955;&#949;&#952; - Vietnamese: Béc-ti-lét Gđt 2,21",
+      "position": 97,
+      "order": 16,
+      "createdAt": "2025-04-22T04:49:54.587Z",
+      "updatedAt": "2025-04-22T04:49:54.587Z",
+      "verseId": "f2fa8345-a32d-4beb-a89b-e19015e6d51d",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "153144c9-5d4c-493e-98a2-38534bab3dec",
+      "content": "English: Cilicia - French: Cilicie - Latin: Cilicia - Origin: &#922;&#953;&#955;&#953;&#954;&#953;&#945;&#957; - Vietnamese: Ki-li-ki-a Cv 27,5",
+      "position": 165,
+      "order": 18,
+      "createdAt": "2025-04-22T04:49:54.613Z",
+      "updatedAt": "2025-04-22T04:49:54.613Z",
+      "verseId": "f2fa8345-a32d-4beb-a89b-e19015e6d51d",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "3ef8a6d8-6f65-4dc2-8de0-f3797c9b1b6f",
+      "content": "English: Cilicia - French: Cilicie - Latin: Cilicia - Origin: &#922;&#953;&#955;&#953;&#954;&#953;&#945;&#957; - Vietnamese: Ki-li-ki-a Cv 27,5",
+      "position": 42,
+      "order": 18,
+      "createdAt": "2025-04-22T04:49:54.733Z",
+      "updatedAt": "2025-04-22T04:49:54.733Z",
+      "verseId": "8a29e790-578c-4b70-9709-92549222e1a4",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "b40d1d4b-e514-439d-b1ec-6971f5bf3ff2",
+      "content": "English: Cheleon - French: Khéléôn - Latin: Cheleorum - Origin: &#935;&#949;&#955;&#949;&#969;&#957; - Vietnamese: Khe-le-ôn Gđt 2,23",
+      "position": 129,
+      "order": 28,
+      "createdAt": "2025-04-22T04:49:54.653Z",
+      "updatedAt": "2025-04-22T04:49:54.653Z",
+      "verseId": "e083ea6f-1137-4607-b0c8-2679ca536ad6",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "eeeb5fc1-2136-40f8-8277-d00a40b383ae",
+      "content": "English: Euphrates - French: Euphrate, Perath - Latin: Euphrates - Origin: &#1492;&#64309;&#1488;&#1508;&#1456;&#1512;&#1464;&#1514; - Vietnamese: Êu-phơ-rát sông Cả, St 2,14 ; Gr 13,4-7",
+      "position": 33,
+      "order": 30,
+      "createdAt": "2025-04-22T04:49:54.692Z",
+      "updatedAt": "2025-04-22T04:49:54.692Z",
+      "verseId": "33547874-f340-4571-82c6-9ceb9e16e0db",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "99c29a52-de86-4882-8e88-f26ffa410ed3",
+      "content": "English: Mesopotamia - French: Mésopotamie - Latin: Mesopotamia - Origin: &#924;&#949;&#963;&#959;&#960;&#959;&#964;&#945;&#956;&#953;&#945; - Vietnamese: Mê-xô-pô-ta-mi-a Gđt 2,24 ; Cv 2,9 ; 7,2",
+      "position": 65,
+      "order": 32,
+      "createdAt": "2025-04-22T04:49:54.706Z",
+      "updatedAt": "2025-04-22T04:49:54.706Z",
+      "verseId": "33547874-f340-4571-82c6-9ceb9e16e0db",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "fca7745e-c47c-485a-b2fd-6bb6995b67b2",
+      "content": "English: Arab - French: Arabe - Latin: Arabia - Origin: &#1506;&#1458;&#1512;&#1463;&#1489; - Vietnamese: Ả-rập 2 Sb 9,14",
+      "position": 145,
+      "order": 38,
+      "createdAt": "2025-04-22T04:49:54.746Z",
+      "updatedAt": "2025-04-22T04:49:54.746Z",
+      "verseId": "8a29e790-578c-4b70-9709-92549222e1a4",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
+    },
+    {
+      "id": "60f8c5e2-90e0-4d5a-aacd-8452db1595ea",
+      "content": "English: Ocina - French: Okina - Latin: Ochina - Origin: &#927;&#954;&#953;&#957;&#945; - Vietnamese: Ô-ki-na Gđt 2,28",
+      "position": 122,
+      "order": 50,
+      "createdAt": "2025-04-22T04:49:54.829Z",
+      "updatedAt": "2025-04-22T04:49:54.829Z",
+      "verseId": "97a3f5e6-94a8-4d7d-94db-0f222b463203",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     }
   ],
   "headings": [
     {
-      "id": "802f7f1d-863a-4e2a-b0e2-bce2587f6e9f",
-      "content": "Các trạm nghỉ của đạo quân [Hô-lô-phéc-nê]()",
+      "id": "7e5d0d89-59c1-412a-8b18-a236166e2304",
+      "content": "Các trạm nghỉ của đạo quân Hô-lô-phéc-nê",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:10:33.353Z",
-      "updatedAt": "2024-09-23T04:10:33.353Z",
-      "verseId": "60f9acf9-29c7-48be-9cea-f45e21070b30",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.552Z",
+      "updatedAt": "2025-04-22T04:49:54.552Z",
+      "verseId": "f2fa8345-a32d-4beb-a89b-e19015e6d51d",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     }
   ],
   "references": [
     {
-      "id": "11be48d8-49eb-46ce-b2bb-bb43977314cf",
+      "id": "3b74332f-9ed1-48ec-932a-d453a8bcf7cd",
       "content": "St 6,17",
       "position": 14,
       "order": 0,
-      "createdAt": "2024-09-23T04:10:33.253Z",
-      "updatedAt": "2024-09-23T04:10:33.253Z",
-      "verseId": "86e732f1-48d1-4b62-b96b-7c45c49b3af7",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.172Z",
+      "updatedAt": "2025-04-22T04:49:54.172Z",
+      "verseId": "ea0ae60a-7f0a-46f9-847e-45f64a084136",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "ef67dc45-2ba0-4cd8-a71c-9457f0c13582",
+      "id": "0e3a5771-6e4a-45d5-8b6e-7bb9e2667dda",
       "content": "Tl 7,12; Ge 2,2-7.11",
       "position": 48,
       "order": 1,
-      "createdAt": "2024-09-23T04:10:33.345Z",
-      "updatedAt": "2024-09-23T04:10:33.345Z",
-      "verseId": "8b651bc1-25f6-48f1-b757-487bc76a8d0f",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.531Z",
+      "updatedAt": "2025-04-22T04:49:54.531Z",
+      "verseId": "7eb87471-0f90-43bc-a52d-a9cde0adebe4",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "2e0ea2fe-4821-40a5-8739-99066bf562fa",
+      "id": "48e794c2-870e-4ed5-a165-b14094ab1337",
       "content": "St 10,6.13.22; Is 66,19",
       "position": 12,
       "order": 2,
-      "createdAt": "2024-09-23T04:10:33.370Z",
-      "updatedAt": "2024-09-23T04:10:33.370Z",
-      "verseId": "fc89af1e-9f35-4015-8dfd-592b2b72725e",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.666Z",
+      "updatedAt": "2025-04-22T04:49:54.666Z",
+      "verseId": "e083ea6f-1137-4607-b0c8-2679ca536ad6",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     },
     {
-      "id": "165129af-c11b-4970-9864-a7270a26f7ce",
+      "id": "2d01eb42-3b90-49c3-82c7-e3da39964833",
       "content": "Xh 15,15-16",
       "position": 0,
       "order": 3,
-      "createdAt": "2024-09-23T04:10:33.404Z",
-      "updatedAt": "2024-09-23T04:10:33.404Z",
-      "verseId": "bf5d1c16-72be-4d01-b722-4bac09ba481d",
-      "chapterId": "5ede8d0f-e617-4ffd-b28f-8135f075dc60"
+      "createdAt": "2025-04-22T04:49:54.845Z",
+      "updatedAt": "2025-04-22T04:49:54.845Z",
+      "verseId": "97a3f5e6-94a8-4d7d-94db-0f222b463203",
+      "chapterId": "8e1c5fcf-4193-40cf-a362-fb435d3316c2"
     }
   ],
   "psalmMetadata": []

@@ -1,384 +1,596 @@
 {
   "chapter": {
-    "id": "d7d8a48c-9b5b-463b-a579-fcff3002d88f",
+    "id": "5cd12021-be56-4eb9-b532-09d7b3005297",
     "number": 21,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.334Z",
-    "updatedAt": "2024-09-23T03:08:02.334Z",
-    "bookId": "1c769124-3ec2-4c6b-b242-418c636975a3"
+    "createdAt": "2025-04-22T00:48:30.969Z",
+    "updatedAt": "2025-04-22T00:48:30.969Z",
+    "bookId": "749025ac-4b89-4fc1-bfee-ffbaabcc2f07"
   },
   "verses": [
     {
-      "id": "26e46a0a-ef55-4e31-b6aa-407b05ad0664",
+      "id": "9e64c36e-7d03-41f6-82a7-8222045db098",
       "number": 1,
-      "content": "Vua [Giơ-hô-sa-phát]() an nghỉ với tổ tiên và được chôn cất với các ngài trong Thành [Đa-vít](). Con vua là [Giơ-hô-ram]() lên ngôi kế vị.",
+      "content": "Vua Giơ-hô-sa-phát an nghỉ với tổ tiên và được chôn cất với các ngài trong Thành Đa-vít. Con vua là Giơ-hô-ram lên ngôi kế vị.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.326Z",
-      "updatedAt": "2024-09-23T04:07:45.326Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.088Z",
+      "updatedAt": "2025-04-22T04:32:44.088Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "f66b2e3b-12e5-498c-94cf-402399a59ed9",
+      "id": "f2e9514b-b31a-4b9e-9104-cbd7bd48d3dc",
       "number": 2,
-      "content": "Vua [Giơ-hô-ram]() có mấy người anh em con vua [Giơ-hô-sa-phát]() sau đây : [A-dác-gia](), [Giơ-khi-ên](), [Dơ-khác-gia-hu](), [A-dác-gia-hu](), [Mi-kha-ên](), [Sơ-phát-gia-hu](). Tất cả những người này đều là con của [Giơ-hô-sa-phát](), vua [Giu-đa]().",
+      "content": "Vua Giơ-hô-ram có mấy người anh em con vua Giơ-hô-sa-phát sau đây : A-dác-gia, Giơ-khi-ên, Dơ-khác-gia-hu, A-dác-gia-hu, Mi-kha-ên, Sơ-phát-gia-hu. Tất cả những người này đều là con của Giơ-hô-sa-phát, vua Giu-đa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.332Z",
-      "updatedAt": "2024-09-23T04:07:45.332Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.143Z",
+      "updatedAt": "2025-04-22T04:32:44.143Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "2de74a1f-7a5a-49da-b543-670464c788b6",
+      "id": "468e697e-e68d-45e4-bc74-f5500fb95163",
       "number": 3,
-      "content": "Thân phụ các ông đã tặng các ông những thành kiên cố tại [Giu-đa](), cùng với rất nhiều quà : bạc, vàng và báu vật ; còn vương quyền thì vua trao cho [Giơ-hô-ram](), vì ông này là con trưởng.",
+      "content": "Thân phụ các ông đã tặng các ông những thành kiên cố tại Giu-đa, cùng với rất nhiều quà : bạc, vàng và báu vật ; còn vương quyền thì vua trao cho Giơ-hô-ram, vì ông này là con trưởng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.341Z",
-      "updatedAt": "2024-09-23T04:07:45.341Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.208Z",
+      "updatedAt": "2025-04-22T04:32:44.208Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "00300de9-fc1c-4be7-8635-b318a286ff02",
+      "id": "05a2d7c8-f3e1-4150-9bbd-6e2ec3110860",
       "number": 4,
-      "content": "Nhưng nắm được vương quyền và củng cố được thế lực rồi, vua [Giơ-hô-ram]() dùng gươm giết tất cả các em và một số thủ lãnh [Ít-ra-en]() nữa.",
+      "content": "Nhưng nắm được vương quyền và củng cố được thế lực rồi, vua Giơ-hô-ram dùng gươm giết tất cả các em và một số thủ lãnh Ít-ra-en nữa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.344Z",
-      "updatedAt": "2024-09-23T04:07:45.344Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.234Z",
+      "updatedAt": "2025-04-22T04:32:44.234Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "955b810c-19f8-485f-9f7c-adb7f3d47ada",
+      "id": "49be3cc0-75f3-4c74-a6d7-4f3dc162a403",
       "number": 5,
-      "content": "[Giơ-hô-ram]() lên ngôi vua khi được ba mươi hai tuổi, và trị vì ở [Giê-ru-sa-lem]() tám năm.",
+      "content": "Giơ-hô-ram lên ngôi vua khi được ba mươi hai tuổi, và trị vì ở Giê-ru-sa-lem tám năm.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.346Z",
-      "updatedAt": "2024-09-23T04:07:45.346Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.258Z",
+      "updatedAt": "2025-04-22T04:32:44.258Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "1896c38c-5f86-4592-a8b9-c55232675555",
+      "id": "fd434c3d-f6ee-4901-963e-5a3d441a61aa",
       "number": 6,
-      "content": "Vua đi theo đường lối các vua [Ít-ra-en](), hành động như nhà [A-kháp](), vì vua đã lấy một người con gái của vua [A-kháp]() làm vợ. Vua đã làm điều dữ trái mắt [ĐỨC CHÚA]().",
+      "content": "Vua đi theo đường lối các vua Ít-ra-en, hành động như nhà A-kháp, vì vua đã lấy một người con gái của vua A-kháp làm vợ. Vua đã làm điều dữ trái mắt ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.350Z",
-      "updatedAt": "2024-09-23T04:07:45.350Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.299Z",
+      "updatedAt": "2025-04-22T04:32:44.299Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "60358ec2-6b88-469a-ae61-c79311df780f",
+      "id": "210857d1-b385-4e58-baaa-2165310e4501",
       "number": 7,
-      "content": "Nhưng [ĐỨC CHÚA]() không muốn huỷ diệt nhà [Đa-vít](), chỉ vì giao ước Người đã thiết lập với vua [Đa-vít]() và vì lời Người đã hứa là sẽ ban cho vua và con cháu một ngọn đèn luôn luôn cháy sáng.",
+      "content": "Nhưng ĐỨC CHÚA không muốn huỷ diệt nhà Đa-vít, chỉ vì giao ước Người đã thiết lập với vua Đa-vít và vì lời Người đã hứa là sẽ ban cho vua và con cháu một ngọn đèn luôn luôn cháy sáng.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.352Z",
-      "updatedAt": "2024-09-23T04:07:45.352Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.320Z",
+      "updatedAt": "2025-04-22T04:32:44.320Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "7554fa77-5616-4890-a76e-219370f4ba21",
+      "id": "b77315bf-fe69-4123-849f-b44ebf69bbd8",
       "number": 8,
-      "content": "Dưới thời của vua, [Ê-đôm]() thoát ách thống trị của [Giu-đa]() và đặt một vua lên cai trị mình.",
+      "content": "Dưới thời của vua, Ê-đôm thoát ách thống trị của Giu-đa và đặt một vua lên cai trị mình.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.361Z",
-      "updatedAt": "2024-09-23T04:07:45.361Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.396Z",
+      "updatedAt": "2025-04-22T04:32:44.396Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "6cf6bfd5-5cac-428b-aa0e-0ea899bf1a72",
+      "id": "34ed4429-9fbd-4cdb-b769-27e5abc414e4",
       "number": 9,
-      "content": "Vua [Giơ-hô-ram](), cùng với các chỉ huy và toàn bộ chiến xa vượt biên giới. Ban đêm vua trỗi dậy, đánh quân [Ê-đôm]() đang bao vây vua và những người chỉ huy chiến xa.",
+      "content": "Vua Giơ-hô-ram, cùng với các chỉ huy và toàn bộ chiến xa vượt biên giới. Ban đêm vua trỗi dậy, đánh quân Ê-đôm đang bao vây vua và những người chỉ huy chiến xa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.365Z",
-      "updatedAt": "2024-09-23T04:07:45.365Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.422Z",
+      "updatedAt": "2025-04-22T04:32:44.422Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "5f6db461-0e49-4c03-a44c-0ff25618345e",
+      "id": "a4544fbf-d647-4c1e-bb9e-109b6c69c1e6",
       "number": 10,
-      "content": "Thế là [Ê-đôm]() thoát ách thống trị của [Giu-đa]() cho tới ngày nay. Bấy giờ [Líp-na]() thoát ách của vua.",
+      "content": "Thế là Ê-đôm thoát ách thống trị của Giu-đa cho tới ngày nay. Bấy giờ Líp-na thoát ách của vua.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.369Z",
-      "updatedAt": "2024-09-23T04:07:45.369Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.459Z",
+      "updatedAt": "2025-04-22T04:32:44.459Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "dce87061-fbb0-45c1-9dc3-6d446d081481",
+      "id": "7a6ee434-d154-4119-a38d-5011066c0f38",
       "number": 12,
-      "content": "Bấy giờ, ngôn sứ [Ê-li-a]() gửi cho vua một bức thư nội dung như sau : “[ĐỨC CHÚA](), Thiên Chúa của vua [Đa-vít]() tổ phụ vua, phán thế này : ‘Ngươi không theo đường lối [Giơ-hô-sa-phát]() thân phụ ngươi và [A-xa]() vua [Giu-đa]() đã đi,",
+      "content": "Bấy giờ, ngôn sứ Ê-li-a gửi cho vua một bức thư nội dung như sau : “ĐỨC CHÚA, Thiên Chúa của vua Đa-vít tổ phụ vua, phán thế này : ‘Ngươi không theo đường lối Giơ-hô-sa-phát thân phụ ngươi và A-xa vua Giu-đa đã đi,",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.371Z",
-      "updatedAt": "2024-09-23T04:07:45.371Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.471Z",
+      "updatedAt": "2025-04-22T04:32:44.471Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "259f1e84-2754-425d-b000-66cc8a4780ef",
+      "id": "4ae1ba95-68dd-4c30-a0b4-98951435ed09",
       "number": 13,
-      "content": "lại theo các vua [Ít-ra-en]() mà làm cớ cho [Giu-đa]() và cư dân [Giê-ru-sa-lem]() đi vào con đường thờ quấy như nhà [A-kháp]() đã làm. Ngay cả các em con cùng cha với ngươi, những kẻ tốt hơn ngươi, ngươi cũng đã giết.",
+      "content": "lại theo các vua Ít-ra-en mà làm cớ cho Giu-đa và cư dân Giê-ru-sa-lem đi vào con đường thờ quấy như nhà A-kháp đã làm. Ngay cả các em con cùng cha với ngươi, những kẻ tốt hơn ngươi, ngươi cũng đã giết.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.376Z",
-      "updatedAt": "2024-09-23T04:07:45.376Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.529Z",
+      "updatedAt": "2025-04-22T04:32:44.529Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "c63f3cb1-b05b-4c11-a064-673e3059213a",
+      "id": "64a1ae7a-bcdc-42c1-823d-671d48aa6d09",
       "number": 14,
-      "content": "Bởi thế, này [ĐỨC CHÚA]() sẽ giáng đại hoạ xuống dân ngươi, xuống thê thiếp và con cái ngươi, xuống tất cả tài sản ngươi.",
+      "content": "Bởi thế, này ĐỨC CHÚA sẽ giáng đại hoạ xuống dân ngươi, xuống thê thiếp và con cái ngươi, xuống tất cả tài sản ngươi.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.378Z",
-      "updatedAt": "2024-09-23T04:07:45.378Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.557Z",
+      "updatedAt": "2025-04-22T04:32:44.557Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "eb94f67d-5d8a-4a4e-a903-41e70616087f",
+      "id": "b71bc062-d282-4a51-9470-dd0a21ab1ae3",
       "number": 15,
       "content": "Còn chính ngươi, ngươi sẽ mắc đủ thứ bệnh, sẽ đau ruột ngày này qua ngày khác, đau đến sổ ruột ra.’”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.380Z",
-      "updatedAt": "2024-09-23T04:07:45.380Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.585Z",
+      "updatedAt": "2025-04-22T04:32:44.585Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "42058ffb-bf28-4d9e-aa47-1afd8945becb",
+      "id": "c537bce2-e988-4918-b64c-805e6a594a14",
       "number": 16,
-      "content": "Bấy giờ [ĐỨC CHÚA]() thúc đẩy dân [Phi-li-tinh]() và dân [Ả-rập]() giáp ranh với người Cút đứng lên chống lại vua [Giơ-hô-ram]().",
+      "content": "Bấy giờ ĐỨC CHÚA thúc đẩy dân Phi-li-tinh và dân Ả-rập giáp ranh với người Cút đứng lên chống lại vua Giơ-hô-ram.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.383Z",
-      "updatedAt": "2024-09-23T04:07:45.383Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.598Z",
+      "updatedAt": "2025-04-22T04:32:44.598Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "ab4d68e7-d1d9-47e7-8ee1-aa283904457f",
+      "id": "8fa50202-6747-4d83-8c9e-8ad9fb9377aa",
       "number": 17,
-      "content": "Chúng tiến lên, xâm nhập [Giu-đa]() và vơ vét hết tài sản trong hoàng cung. Ngay cả con cái, thê thiếp của vua, chúng cũng không từ, chỉ sót lại đứa con út [Giơ-hô-a-khát]().",
+      "content": "Chúng tiến lên, xâm nhập Giu-đa và vơ vét hết tài sản trong hoàng cung. Ngay cả con cái, thê thiếp của vua, chúng cũng không từ, chỉ sót lại đứa con út Giơ-hô-a-khát.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.387Z",
-      "updatedAt": "2024-09-23T04:07:45.387Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.661Z",
+      "updatedAt": "2025-04-22T04:32:44.661Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "7fb16ae4-9187-4d41-b079-795cff30946b",
+      "id": "f3556a7d-e08e-44e9-a1ad-e52afcc662cf",
       "number": 18,
-      "content": "Sau hết, [ĐỨC CHÚA]() làm cho vua mắc một chứng bệnh nan y ở đường ruột.",
+      "content": "Sau hết, ĐỨC CHÚA làm cho vua mắc một chứng bệnh nan y ở đường ruột.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.389Z",
-      "updatedAt": "2024-09-23T04:07:45.389Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.673Z",
+      "updatedAt": "2025-04-22T04:32:44.673Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "64636fea-bf42-4bdd-90bb-5b0e8b6b4d67",
+      "id": "fdaeefdb-4fca-41d2-9d25-872dc7bb721f",
       "number": 19,
       "content": "Bệnh tình vua kéo dài ngày này qua ngày khác suốt hai năm. Cuối cùng, vua bị lòi ruột ra và đã tắt thở giữa những cơn đau dữ dội. Dân không đốt hương để tỏ lòng tôn kính vua như vẫn làm cho các vị tiền nhiệm.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.392Z",
-      "updatedAt": "2024-09-23T04:07:45.392Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.698Z",
+      "updatedAt": "2025-04-22T04:32:44.698Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "91bc1e04-9299-44c6-8658-17e418a454c2",
+      "id": "b70a012b-f336-4f58-90cd-1dc93b5fb89f",
       "number": 20,
-      "content": "Vua lên ngôi khi được ba mươi hai tuổi, và trị vì tám năm ở [Giê-ru-sa-lem](). Vua ra đi mà không ai thương khóc. Vua được chôn cất trong Thành [Đa-vít](), nhưng không được đặt trong phần mộ các vua.",
+      "content": "Vua lên ngôi khi được ba mươi hai tuổi, và trị vì tám năm ở Giê-ru-sa-lem. Vua ra đi mà không ai thương khóc. Vua được chôn cất trong Thành Đa-vít, nhưng không được đặt trong phần mộ các vua.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:07:45.396Z",
-      "updatedAt": "2024-09-23T04:07:45.396Z",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.724Z",
+      "updatedAt": "2025-04-22T04:32:44.724Z",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     }
   ],
   "footnotes": [
     {
-      "id": "fc68db48-9f08-4516-bb1f-fa72cde9a32f",
+      "id": "974495d8-9133-41a2-82d7-85ae7d665f76",
       "content": "Nên để ý cả hai vua nước Nam và nước Bắc đều đồng thời với nhau đều có tên là Giơ-hô-ram : Giơ-hô-ram của vương quốc Ít-ra-en trị vì từ 852 đến 841 ; Giơ-hô-ram kế vị vua Giơ-hô-sa-phát ở Giu-đa từ 848 đến 841.",
-      "position": 122,
+      "position": 110,
       "order": 0,
-      "createdAt": "2024-09-23T04:07:45.329Z",
-      "updatedAt": "2024-09-23T04:07:45.329Z",
-      "verseId": "26e46a0a-ef55-4e31-b6aa-407b05ad0664",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.130Z",
+      "updatedAt": "2025-04-22T04:32:44.130Z",
+      "verseId": "9e64c36e-7d03-41f6-82a7-8222045db098",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "36828b8f-c4c4-4f76-9f68-f132ce01cb70",
+      "id": "aff2650f-fb10-4839-9ad4-5eea8697ec19",
       "content": "HR : “vua Ít-ra-en”, nhưng hiểu theo ý của tác giả chỉ nhìn nhận vương quốc miền Nam, trung thành với Thiên Chúa, là Ít-ra-en đích thật (x. c.4) mà thôi.",
-      "position": 252,
+      "position": 212,
       "order": 1,
-      "createdAt": "2024-09-23T04:07:45.339Z",
-      "updatedAt": "2024-09-23T04:07:45.339Z",
-      "verseId": "f66b2e3b-12e5-498c-94cf-402399a59ed9",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.198Z",
+      "updatedAt": "2025-04-22T04:32:44.198Z",
+      "verseId": "f2e9514b-b31a-4b9e-9104-cbd7bd48d3dc",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "ddbce97c-003e-4457-b971-c64997d0d6e6",
+      "id": "8b3d3245-2d32-413e-9e05-c8bd78b98c41",
       "content": "Tác giả sửa 2 V 8,19 đôi chút bằng cách đưa “nhà Đa-vít” vào, là vì ông cũng nhắc đến ý tưởng “giao ước Thiên Chúa đã thiết lập với vua Đa-vít”. Đấy là điều ông tâm niệm hơn cả.",
-      "position": 53,
+      "position": 45,
       "order": 2,
-      "createdAt": "2024-09-23T04:07:45.354Z",
-      "updatedAt": "2024-09-23T04:07:45.354Z",
-      "verseId": "60358ec2-6b88-469a-ae61-c79311df780f",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.352Z",
+      "updatedAt": "2025-04-22T04:32:44.352Z",
+      "verseId": "210857d1-b385-4e58-baaa-2165310e4501",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "a1befa09-972c-4bbd-ad42-1334d335749d",
+      "id": "b9d20ca7-1eaf-4427-b248-31839148d3d8",
       "content": "Dù hiểu biểu tượng như là đèn cháy sáng hay là như than hồng âm ỉ dưới đống tro (x. 2 Sm 14,7), thì hình ảnh vẫn chỉ sự tồn tại của dòng họ Đa-vít đến muôn đời.",
-      "position": 195,
+      "position": 183,
       "order": 3,
-      "createdAt": "2024-09-23T04:07:45.357Z",
-      "updatedAt": "2024-09-23T04:07:45.357Z",
-      "verseId": "60358ec2-6b88-469a-ae61-c79311df780f",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.374Z",
+      "updatedAt": "2025-04-22T04:32:44.374Z",
+      "verseId": "210857d1-b385-4e58-baaa-2165310e4501",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "e252f30f-87b0-49e7-8776-078839bbecaa",
+      "id": "6949d604-6024-4872-87d9-1f011e3d6f46",
       "content": "*Những người chỉ huy chiến xa* này phải hiểu là của vua Giơ-hô-ram. Phía Giu-đa bị bao vây và họ đã phá được vòng vây và tháo “chạy trốn về lều của họ” (2 V 8,21). Tác giả xem ra không muốn nói rõ về cuộc thất trận này.",
-      "position": 167,
+      "position": 159,
       "order": 4,
-      "createdAt": "2024-09-23T04:07:45.367Z",
-      "updatedAt": "2024-09-23T04:07:45.367Z",
-      "verseId": "6cf6bfd5-5cac-428b-aa0e-0ea899bf1a72",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.445Z",
+      "updatedAt": "2025-04-22T04:32:44.445Z",
+      "verseId": "34ed4429-9fbd-4cdb-b769-27e5abc414e4",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "02d9a307-2d9a-4fff-a929-4be5fca7cab1",
+      "id": "ad37ca49-3ee7-47cb-9f9e-1fdfc3d7a4e5",
       "content": "Đây là lần duy nhất sách này nói đến ngôn sứ Ê-li-a. Thế nhưng sách các Vua không hề nhắc tới một cuộc can thiệp nào của vị ngôn sứ vào miền Nam. Vả lại theo 2 V 2 ; 3,1.11 thì ngôn sứ Ê-li-a đã biến mất trước khi vua Giơ-hô-ram của Ít-ra-en lên ngôi, nghĩa là trước khi vua Giơ-hô-ram của Giu-đa nối nghiệp cha (x. 2 V 8,16 ; nhưng 2 V 1,17 lại nói khác !). Có lẽ sứ điệp trong thư là của ông Ê-li-a, còn chính thư do người khác viết, hoặc, đơn giản hơn, có lẽ người chép sách đã thay Ê-li-a vào chỗ Ê-li-sa.",
-      "position": 27,
+      "position": 23,
       "order": 6,
-      "createdAt": "2024-09-23T04:07:45.374Z",
-      "updatedAt": "2024-09-23T04:07:45.374Z",
-      "verseId": "dce87061-fbb0-45c1-9dc3-6d446d081481",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.489Z",
+      "updatedAt": "2025-04-22T04:32:44.489Z",
+      "verseId": "7a6ee434-d154-4119-a38d-5011066c0f38",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "07a4e61d-e2de-4b75-a3ef-e98134c3c299",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 87,
+      "order": 9,
+      "createdAt": "2025-04-22T04:32:44.102Z",
+      "updatedAt": "2025-04-22T04:32:44.102Z",
+      "verseId": "9e64c36e-7d03-41f6-82a7-8222045db098",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "38e48c32-9c97-4b8a-9952-ccc9394b6191",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 96,
+      "order": 9,
+      "createdAt": "2025-04-22T04:32:44.342Z",
+      "updatedAt": "2025-04-22T04:32:44.342Z",
+      "verseId": "210857d1-b385-4e58-baaa-2165310e4501",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "becd7183-8c16-4f97-804a-5b2f705b183e",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 103,
+      "order": 9,
+      "createdAt": "2025-04-22T04:32:44.516Z",
+      "updatedAt": "2025-04-22T04:32:44.516Z",
+      "verseId": "7a6ee434-d154-4119-a38d-5011066c0f38",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "6617d66b-2187-4053-a039-4ba8002fe62c",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 146,
+      "order": 9,
+      "createdAt": "2025-04-22T04:32:44.749Z",
+      "updatedAt": "2025-04-22T04:32:44.749Z",
+      "verseId": "b70a012b-f336-4f58-90cd-1dc93b5fb89f",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "9193304c-be12-44bb-80f1-c26161ca0b85",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 110,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.116Z",
+      "updatedAt": "2025-04-22T04:32:44.116Z",
+      "verseId": "9e64c36e-7d03-41f6-82a7-8222045db098",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "b7022cf7-5dde-46ca-ba1f-0be3e46d273f",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 14,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.182Z",
+      "updatedAt": "2025-04-22T04:32:44.182Z",
+      "verseId": "f2e9514b-b31a-4b9e-9104-cbd7bd48d3dc",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "0a754aca-4cb9-46ea-b5e1-99628bacde97",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 156,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.224Z",
+      "updatedAt": "2025-04-22T04:32:44.224Z",
+      "verseId": "468e697e-e68d-45e4-bc74-f5500fb95163",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "acfcad6f-ac46-40cc-af24-daa3fdef3edf",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 70,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.248Z",
+      "updatedAt": "2025-04-22T04:32:44.248Z",
+      "verseId": "05a2d7c8-f3e1-4150-9bbd-6e2ec3110860",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "8855fa1a-7901-427d-9124-6a0d4031faee",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 10,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.268Z",
+      "updatedAt": "2025-04-22T04:32:44.268Z",
+      "verseId": "49be3cc0-75f3-4c74-a6d7-4f3dc162a403",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "c866b948-c7e4-49e0-8843-d7a91719e85f",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 14,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.433Z",
+      "updatedAt": "2025-04-22T04:32:44.433Z",
+      "verseId": "34ed4429-9fbd-4cdb-b769-27e5abc414e4",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "ff52e792-feeb-48c7-bb50-105a2cf3a92e",
+      "content": "English: Jehoram - French: Yehoram - Latin: Ioran - Origin: &#1497;&#1456;&#1492;&#64331;&#1512;&#1464;&#1501; - Vietnamese: Giơ-hô-ram vị tư tế được cử đến dạy Luật cho các thành Giu-đa, 2 Sb 17,7-9",
+      "position": 112,
+      "order": 11,
+      "createdAt": "2025-04-22T04:32:44.636Z",
+      "updatedAt": "2025-04-22T04:32:44.636Z",
+      "verseId": "c537bce2-e988-4918-b64c-805e6a594a14",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "e815ba66-b99e-44c8-abd9-4d484c131fd2",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 76,
+      "order": 35,
+      "createdAt": "2025-04-22T04:32:44.279Z",
+      "updatedAt": "2025-04-22T04:32:44.279Z",
+      "verseId": "49be3cc0-75f3-4c74-a6d7-4f3dc162a403",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "d45e0937-e9d9-401e-a055-eabbe8dbc657",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 70,
+      "order": 35,
+      "createdAt": "2025-04-22T04:32:44.543Z",
+      "updatedAt": "2025-04-22T04:32:44.543Z",
+      "verseId": "4ae1ba95-68dd-4c30-a0b4-98951435ed09",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "750ec19d-cba3-4d70-b070-13e2fd8cbeb8",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 73,
+      "order": 35,
+      "createdAt": "2025-04-22T04:32:44.736Z",
+      "updatedAt": "2025-04-22T04:32:44.736Z",
+      "verseId": "b70a012b-f336-4f58-90cd-1dc93b5fb89f",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "13160aa0-38ea-44cb-ac38-b32a3c16c2ed",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 157,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.310Z",
+      "updatedAt": "2025-04-22T04:32:44.310Z",
+      "verseId": "fd434c3d-f6ee-4901-963e-5a3d441a61aa",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "59cfdffb-754b-4383-9f8f-7a7f3cc8110a",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 14,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.331Z",
+      "updatedAt": "2025-04-22T04:32:44.331Z",
+      "verseId": "210857d1-b385-4e58-baaa-2165310e4501",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "a6bcd41f-9a81-4bd1-a271-5859c4d8b98d",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 76,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.504Z",
+      "updatedAt": "2025-04-22T04:32:44.504Z",
+      "verseId": "7a6ee434-d154-4119-a38d-5011066c0f38",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "c5e6adb9-f16a-40c1-b7f4-836e2cbc6bfd",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 21,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.573Z",
+      "updatedAt": "2025-04-22T04:32:44.573Z",
+      "verseId": "64a1ae7a-bcdc-42c1-823d-671d48aa6d09",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "725678af-1306-4395-9332-7e21202fe7f3",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 16,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.611Z",
+      "updatedAt": "2025-04-22T04:32:44.611Z",
+      "verseId": "c537bce2-e988-4918-b64c-805e6a594a14",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "f0524993-c076-44f4-8d2f-89531a13dafd",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 17,
+      "order": 39,
+      "createdAt": "2025-04-22T04:32:44.686Z",
+      "updatedAt": "2025-04-22T04:32:44.686Z",
+      "verseId": "f3556a7d-e08e-44e9-a1ad-e52afcc662cf",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
+    },
+    {
+      "id": "62f0c6e8-b7ca-4eea-b38a-5f14a493fd92",
+      "content": "English: Arab - French: Arabe - Latin: Arabia - Origin: &#1506;&#1458;&#1512;&#1463;&#1489; - Vietnamese: Ả-rập 2 Sb 9,14",
+      "position": 54,
+      "order": 51,
+      "createdAt": "2025-04-22T04:32:44.623Z",
+      "updatedAt": "2025-04-22T04:32:44.623Z",
+      "verseId": "c537bce2-e988-4918-b64c-805e6a594a14",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     }
   ],
   "headings": [
     {
-      "id": "f8eebc30-dda7-4938-89ac-5fc91fdec981",
+      "id": "6bddeba3-1c04-49e1-8a37-b81a832b52db",
       "content": "5. SỰ BẤT TRUNG VÀ NHỮNG TAI HOẠ CỦA VUA GIƠ-HÔ-RAM",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:07:45.334Z",
-      "updatedAt": "2024-09-23T04:07:45.334Z",
-      "verseId": "f66b2e3b-12e5-498c-94cf-402399a59ed9",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.155Z",
+      "updatedAt": "2025-04-22T04:32:44.155Z",
+      "verseId": "f2e9514b-b31a-4b9e-9104-cbd7bd48d3dc",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "7a01dd3a-7a91-4c81-8f9a-d1db0bdec551",
-      "content": "Vua [A-khát-gia](), hoàng hậu [A-than-gia]()-hu và vua [Giô-át]()",
+      "id": "ff686464-b99f-41ab-9e10-f06bc12650e0",
+      "content": "Vua A-khát-gia, hoàng hậu A-than-gia-hu và vua Giô-át",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T04:07:45.337Z",
-      "updatedAt": "2024-09-23T04:07:45.337Z",
-      "verseId": "f66b2e3b-12e5-498c-94cf-402399a59ed9",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.169Z",
+      "updatedAt": "2025-04-22T04:32:44.169Z",
+      "verseId": "f2e9514b-b31a-4b9e-9104-cbd7bd48d3dc",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     }
   ],
   "references": [
     {
-      "id": "ca70dcab-b277-4630-b0c7-fd993f75daf4",
+      "id": "32b24190-b97f-4cde-865d-f960b3edeb1a",
       "content": "2 V 8,17-19",
-      "position": 15,
+      "position": 11,
       "order": 0,
-      "createdAt": "2024-09-23T04:07:45.348Z",
-      "updatedAt": "2024-09-23T04:07:45.348Z",
-      "verseId": "955b810c-19f8-485f-9f7c-adb7f3d47ada",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.289Z",
+      "updatedAt": "2025-04-22T04:32:44.289Z",
+      "verseId": "49be3cc0-75f3-4c74-a6d7-4f3dc162a403",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "44a12ce7-5e52-4d3f-965a-1d6bbaae1ea5",
+      "id": "94ac6553-a33e-446e-97fb-15e8200e7f97",
       "content": "1 V 11,36",
-      "position": 166,
+      "position": 154,
       "order": 1,
-      "createdAt": "2024-09-23T04:07:45.359Z",
-      "updatedAt": "2024-09-23T04:07:45.359Z",
-      "verseId": "60358ec2-6b88-469a-ae61-c79311df780f",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.385Z",
+      "updatedAt": "2025-04-22T04:32:44.385Z",
+      "verseId": "210857d1-b385-4e58-baaa-2165310e4501",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "25a0af82-8614-441a-980c-fceedb0710ee",
+      "id": "a143a7a2-7825-4b17-8470-3de67fee12d2",
       "content": "2 V 8,20-22",
       "position": 19,
       "order": 2,
-      "createdAt": "2024-09-23T04:07:45.363Z",
-      "updatedAt": "2024-09-23T04:07:45.363Z",
-      "verseId": "7554fa77-5616-4890-a76e-219370f4ba21",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.408Z",
+      "updatedAt": "2025-04-22T04:32:44.408Z",
+      "verseId": "b77315bf-fe69-4123-849f-b44ebf69bbd8",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "ca12026d-e6c0-47de-b6e3-09c1b440f4ad",
+      "id": "0c215b9f-b9e6-40d9-865a-d96d811d72b5",
       "content": "2 Sb 14,8",
-      "position": 87,
+      "position": 75,
       "order": 3,
-      "createdAt": "2024-09-23T04:07:45.385Z",
-      "updatedAt": "2024-09-23T04:07:45.385Z",
-      "verseId": "42058ffb-bf28-4d9e-aa47-1afd8945becb",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.648Z",
+      "updatedAt": "2025-04-22T04:32:44.648Z",
+      "verseId": "c537bce2-e988-4918-b64c-805e6a594a14",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "385588c0-25d9-4d65-a7f7-9c7eb02df4c8",
+      "id": "34b66661-3944-4ef1-984f-54077cd9ebf4",
       "content": "2 Sb 16,14",
       "position": 144,
       "order": 4,
-      "createdAt": "2024-09-23T04:07:45.394Z",
-      "updatedAt": "2024-09-23T04:07:45.394Z",
-      "verseId": "64636fea-bf42-4bdd-90bb-5b0e8b6b4d67",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.711Z",
+      "updatedAt": "2025-04-22T04:32:44.711Z",
+      "verseId": "fdaeefdb-4fca-41d2-9d25-872dc7bb721f",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     },
     {
-      "id": "20d9c212-330a-4e34-a4f9-70a8be43bb3c",
+      "id": "5bbac7b1-0a14-4e80-8cbb-dba52fe04ea2",
       "content": "2 V 8,24",
-      "position": 173,
+      "position": 165,
       "order": 5,
-      "createdAt": "2024-09-23T04:07:45.399Z",
-      "updatedAt": "2024-09-23T04:07:45.399Z",
-      "verseId": "91bc1e04-9299-44c6-8658-17e418a454c2",
-      "chapterId": "d7d8a48c-9b5b-463b-a579-fcff3002d88f"
+      "createdAt": "2025-04-22T04:32:44.762Z",
+      "updatedAt": "2025-04-22T04:32:44.762Z",
+      "verseId": "b70a012b-f336-4f58-90cd-1dc93b5fb89f",
+      "chapterId": "5cd12021-be56-4eb9-b532-09d7b3005297"
     }
   ],
   "psalmMetadata": []

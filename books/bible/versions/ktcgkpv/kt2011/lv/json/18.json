@@ -1,507 +1,588 @@
 {
   "chapter": {
-    "id": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32",
+    "id": "94d90f3a-fbca-4a3a-a890-a589e2121aa7",
     "number": 18,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.188Z",
-    "updatedAt": "2024-09-23T03:08:02.188Z",
-    "bookId": "9590527f-f01b-475f-91ef-af1b0b73c8df"
+    "createdAt": "2025-04-22T00:48:30.841Z",
+    "updatedAt": "2025-04-22T00:48:30.841Z",
+    "bookId": "8b00bcc7-d07c-4b49-8ed5-881efcbbb9b8"
   },
   "verses": [
     {
-      "id": "88e4c8b5-f296-4651-bd17-b1f69488ee46",
+      "id": "f7bc280b-fba6-4c4d-bcb7-0b082cf7e69b",
       "number": 1,
-      "content": "[ĐỨC CHÚA]() phán với ông [Mô-sê]() rằng :",
+      "content": "ĐỨC CHÚA phán với ông Mô-sê rằng :",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.522Z",
-      "updatedAt": "2024-09-23T03:42:15.522Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.278Z",
+      "updatedAt": "2025-04-22T03:09:18.278Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "cc22a963-aef7-4cd1-b87e-301a7840b50b",
+      "id": "4d25af9c-bf3d-4244-a821-3d9df5f9a273",
       "number": 2,
-      "content": "“Hãy nói với con cái [Ít-ra-en]() và bảo chúng : Ta là [ĐỨC CHÚA](), Thiên Chúa của các ngươi.",
+      "content": "“Hãy nói với con cái Ít-ra-en và bảo chúng : Ta là ĐỨC CHÚA, Thiên Chúa của các ngươi.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.543Z",
-      "updatedAt": "2024-09-23T03:42:15.543Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.367Z",
+      "updatedAt": "2025-04-22T03:09:18.367Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "34a59be2-d861-4589-aade-75d0a22c8b2c",
+      "id": "7efba269-ca15-44cf-9516-17b8a25521b3",
       "number": 3,
-      "content": "Các ngươi không được làm như người ta làm trên đất [Ai-cập](), nơi các ngươi đã ở ; các ngươi không được làm như người ta làm trên đất [Ca-na-an](), nơi Ta sắp đưa các ngươi vào. Các ngươi không được theo các quy tắc của chúng.",
+      "content": "Các ngươi không được làm như người ta làm trên đất Ai-cập, nơi các ngươi đã ở ; các ngươi không được làm như người ta làm trên đất Ca-na-an, nơi Ta sắp đưa các ngươi vào. Các ngươi không được theo các quy tắc của chúng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.555Z",
-      "updatedAt": "2024-09-23T03:42:15.555Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.424Z",
+      "updatedAt": "2025-04-22T03:09:18.424Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "c826fdbb-f54f-4096-a516-fbcfd2939dd5",
+      "id": "cbd8118f-dbb1-4219-b566-edaed59282eb",
       "number": 4,
       "content": "Các ngươi hãy thi hành các quyết định của Ta, giữ và theo các quy tắc của Ta.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.559Z",
-      "updatedAt": "2024-09-23T03:42:15.559Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.437Z",
+      "updatedAt": "2025-04-22T03:09:18.437Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "af7de0d6-c6cf-44d3-85c4-9c4fd4768a88",
+      "id": "e8fed2f4-0292-4f00-a00d-de3bb1473bb0",
       "number": 6,
-      "content": "Ta là [ĐỨC CHÚA]().",
+      "content": "Ta là ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.563Z",
-      "updatedAt": "2024-09-23T03:42:15.563Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.450Z",
+      "updatedAt": "2025-04-22T03:09:18.450Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "acc866d1-5995-402b-ae02-9528cb690b08",
+      "id": "4f630c98-81a0-4c93-ba65-be7fed002798",
       "number": 6,
-      "content": "Không người nào trong các ngươi được đến gần một người bà con ruột thịt để lột trần chỗ kín của nó. Ta là [ĐỨC CHÚA]().",
+      "content": "Không người nào trong các ngươi được đến gần một người bà con ruột thịt để lột trần chỗ kín của nó. Ta là ĐỨC CHÚA.",
       "order": 1,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.568Z",
-      "updatedAt": "2024-09-23T03:42:15.568Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.477Z",
+      "updatedAt": "2025-04-22T03:09:18.477Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "bd4f821b-9a23-47a9-8a39-e301c8550f32",
+      "id": "03bff99a-a16c-4edf-b907-136ba6450b57",
       "number": 7,
       "content": "Ngươi không được lột trần chỗ kín của cha ngươi và chỗ kín của mẹ ngươi : đó là mẹ ngươi, ngươi không được lột trần chỗ kín của nó.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.576Z",
-      "updatedAt": "2024-09-23T03:42:15.576Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.517Z",
+      "updatedAt": "2025-04-22T03:09:18.517Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "1f8a5a2f-b753-4d90-b65e-053ecfe9d409",
+      "id": "7948f2c5-d009-4c8f-8a19-3ecd894d2957",
       "number": 8,
       "content": "Ngươi không được lột trần chỗ kín của vợ của cha ngươi : đó là chỗ kín của cha ngươi.",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.580Z",
-      "updatedAt": "2024-09-23T03:42:15.580Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.530Z",
+      "updatedAt": "2025-04-22T03:09:18.530Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "0eecf9a0-e074-436d-bd4c-242b9be9dcab",
+      "id": "73219712-0450-44d4-885a-c1a2d5fc1263",
       "number": 9,
       "content": "Ngươi không được lột trần chỗ kín của chị em ngươi, dù là con gái của cha ngươi hay con gái của mẹ ngươi, sinh tại nhà hay sinh ở ngoài ; ngươi không được lột trần chỗ kín của chúng.",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.588Z",
-      "updatedAt": "2024-09-23T03:42:15.588Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.557Z",
+      "updatedAt": "2025-04-22T03:09:18.557Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "2425435f-7d58-4fd2-92a8-23d64051aa01",
+      "id": "973a1861-9c90-445e-9a8f-2541acd97f38",
       "number": 10,
       "content": "Ngươi không được lột trần chỗ kín của cháu nội gái hay cháu ngoại gái ngươi, vì đó là chỗ kín của ngươi.",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.595Z",
-      "updatedAt": "2024-09-23T03:42:15.595Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.587Z",
+      "updatedAt": "2025-04-22T03:09:18.587Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "7403f820-b754-4ca2-9fda-c1fb30d7c47b",
+      "id": "b7837811-0164-42a2-b8a6-648717f6b4ce",
       "number": 11,
       "content": "Ngươi không được lột trần chỗ kín của chị em cùng cha khác mẹ với ngươi : đó là chị em ngươi, ngươi không được lột trần chỗ kín của chúng.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.600Z",
-      "updatedAt": "2024-09-23T03:42:15.600Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.600Z",
+      "updatedAt": "2025-04-22T03:09:18.600Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "23f73275-f5c5-4aae-840f-12d4347570dd",
+      "id": "0edc982f-f843-44d3-bf8c-4cc5eef0d7fa",
       "number": 12,
       "content": "Ngươi không được lột trần chỗ kín của chị em gái của cha ngươi : đó là ruột thịt của cha ngươi.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.604Z",
-      "updatedAt": "2024-09-23T03:42:15.604Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.614Z",
+      "updatedAt": "2025-04-22T03:09:18.614Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "88cc7d10-06e8-45df-a8dc-4cc8ae6482fa",
+      "id": "8e2b1ab9-be67-43cc-b43e-706c44f25ffb",
       "number": 13,
       "content": "Ngươi không được lột trần chỗ kín của chị em gái của mẹ ngươi : đó là ruột thịt của mẹ ngươi.",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.608Z",
-      "updatedAt": "2024-09-23T03:42:15.608Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.631Z",
+      "updatedAt": "2025-04-22T03:09:18.631Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "e61e2459-6aa6-40d7-8a89-e466e41c2d4a",
+      "id": "e3571085-1277-4412-a57b-bf9dcb53f618",
       "number": 14,
       "content": "Ngươi không được lột trần chỗ kín của chú bác ngươi ; ngươi không được đến gần vợ của chúng : đó là bác gái, là thím ngươi.",
       "order": 0,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.612Z",
-      "updatedAt": "2024-09-23T03:42:15.612Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.644Z",
+      "updatedAt": "2025-04-22T03:09:18.644Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "1a96bbfb-e6e1-4a87-a9e2-20ca7f7743a8",
+      "id": "92f8b04a-e58c-4330-a93e-d6dfc00caa8a",
       "number": 15,
       "content": "Ngươi không được lột trần chỗ kín của con dâu ngươi : đó là vợ của con trai ngươi, ngươi không được lột trần chỗ kín của nó.",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.616Z",
-      "updatedAt": "2024-09-23T03:42:15.616Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.658Z",
+      "updatedAt": "2025-04-22T03:09:18.658Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "a609993d-d02a-4953-9fc0-21569e9e2c2a",
+      "id": "791e74fe-398b-433c-abfa-9f7875d51da8",
       "number": 16,
       "content": "Ngươi không được lột trần chỗ kín của chị em dâu ngươi : đó là chỗ kín của anh em ngươi.",
       "order": 0,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.620Z",
-      "updatedAt": "2024-09-23T03:42:15.620Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.674Z",
+      "updatedAt": "2025-04-22T03:09:18.674Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "515adc23-41ea-4a8c-9fed-3bb42e214d00",
+      "id": "b8f57be9-c763-4e42-adc6-e75a2f1b453a",
       "number": 17,
       "content": "Ngươi không được lột trần chỗ kín của một người đàn bà và của con gái nó ; ngươi không được lấy cháu nội gái hay cháu ngoại gái của nó để lột trần chỗ kín của chúng : đó là ruột thịt của nó ; đó là tội ác tày trời.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.624Z",
-      "updatedAt": "2024-09-23T03:42:15.624Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.687Z",
+      "updatedAt": "2025-04-22T03:09:18.687Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "6b93401a-97d4-408e-9679-834b01b31a90",
+      "id": "2291a978-4301-47b9-8ef9-05b0adfc9283",
       "number": 18,
       "content": "Ngươi không được lấy chị em của vợ ngươi mà gây ra cảnh ghen tuông, khi lột trần chỗ kín của chúng, lúc vợ ngươi còn sống.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.632Z",
-      "updatedAt": "2024-09-23T03:42:15.632Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.714Z",
+      "updatedAt": "2025-04-22T03:09:18.714Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "eeae8d48-1ff2-4c57-84b6-8de0a7a1f847",
+      "id": "9c14b459-579f-4da4-973d-12856a4551ae",
       "number": 19,
       "content": "Ngươi không được đến gần một người đàn bà đang bị ô uế vì kinh nguyệt, để lột trần chỗ kín của nó.",
       "order": 0,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.635Z",
-      "updatedAt": "2024-09-23T03:42:15.635Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.727Z",
+      "updatedAt": "2025-04-22T03:09:18.727Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "a496c264-0a95-42a5-a9f1-7f8d45ec2ea6",
+      "id": "20ca3000-aad5-4bcb-86c6-22f3f5534eab",
       "number": 20,
       "content": "Ngươi không được giao hợp với vợ của một người đồng bào, để khỏi ra ô uế vì người đàn bà ấy.",
       "order": 0,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.639Z",
-      "updatedAt": "2024-09-23T03:42:15.639Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.741Z",
+      "updatedAt": "2025-04-22T03:09:18.741Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "f64d9992-69e3-4d02-9cb1-cf6a2e101004",
+      "id": "631ab285-7cce-4e22-968c-a4c871ceee1f",
       "number": 21,
-      "content": "Ngươi không được lấy đứa nào trong con cái ngươi mà nhượng lại cho thần [Mô-léc]() và không được xúc phạm đến danh của Thiên Chúa ngươi. Ta là [ĐỨC CHÚA]().",
+      "content": "Ngươi không được lấy đứa nào trong con cái ngươi mà nhượng lại cho thần Mô-léc và không được xúc phạm đến danh của Thiên Chúa ngươi. Ta là ĐỨC CHÚA.",
       "order": 0,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.647Z",
-      "updatedAt": "2024-09-23T03:42:15.647Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.768Z",
+      "updatedAt": "2025-04-22T03:09:18.768Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "cdfe83e9-065b-498d-bd41-6e5831173678",
+      "id": "584ad617-7436-43e2-b625-2b7792107e6d",
       "number": 22,
       "content": "Ngươi không được nằm với đàn ông như nằm với đàn bà : đó là điều ghê tởm.",
       "order": 0,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.659Z",
-      "updatedAt": "2024-09-23T03:42:15.659Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.837Z",
+      "updatedAt": "2025-04-22T03:09:18.837Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "1696104a-d6bd-42be-9fc2-321ed17b6a5b",
+      "id": "f23ef141-1040-4656-9ae9-dba133fdf22a",
       "number": 23,
       "content": "Ngươi không được giao hợp với bất cứ con vật nào, để khỏi ra ô uế vì nó ; đàn bà không được đứng trước thú vật để giao cấu với nó : đó là điều quái đản.",
       "order": 0,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.667Z",
-      "updatedAt": "2024-09-23T03:42:15.667Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.863Z",
+      "updatedAt": "2025-04-22T03:09:18.863Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "4a977dac-228c-43a2-9ed8-1eca7bdb4f8e",
+      "id": "a7634d50-b027-43e7-a4a1-98ce3f3a3a6b",
       "number": 24,
       "content": "Các ngươi đừng làm cho mình ra ô uế vì tất cả những điều đó, bởi lẽ tại tất cả những điều đó, mà các dân tộc Ta sắp tống đi cho khuất mắt các ngươi, đã ra ô uế.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.670Z",
-      "updatedAt": "2024-09-23T03:42:15.670Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.875Z",
+      "updatedAt": "2025-04-22T03:09:18.875Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "a6c50f82-bcee-4bd6-b2df-ca4e7a15ca2e",
+      "id": "6662cbdf-fadc-4a36-8952-ab611885b498",
       "number": 25,
       "content": "Đất đã ra ô uế : Ta đã phạt nó vì tội lỗi nó, và nó đã mửa dân cư nó ra.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.674Z",
-      "updatedAt": "2024-09-23T03:42:15.674Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.886Z",
+      "updatedAt": "2025-04-22T03:09:18.886Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "a7237790-0c45-4bb4-9cf4-fd4298d61fd6",
+      "id": "6a78c764-7573-4988-8e92-1319368dc76b",
       "number": 26,
       "content": "Phần các ngươi, hãy giữ các quy tắc và quyết định của Ta, và không được làm một điều nào trong những điều ghê tởm ấy, dù là người bản xứ hay ngoại kiều sống giữa các ngươi.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.678Z",
-      "updatedAt": "2024-09-23T03:42:15.678Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.897Z",
+      "updatedAt": "2025-04-22T03:09:18.897Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "466c059b-162b-4cee-b847-f41469bbcdd0",
+      "id": "37b48fe9-c686-413b-9829-9d59783a0577",
       "number": 27,
       "content": "Thật vậy, những người ở trong đất trước các ngươi đã làm tất cả những điều ghê tởm ấy, và đất đã ra ô uế.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.682Z",
-      "updatedAt": "2024-09-23T03:42:15.682Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.911Z",
+      "updatedAt": "2025-04-22T03:09:18.911Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "09e44308-75e7-49f1-ba6b-fc879acc7b71",
+      "id": "f8f36294-501e-4eca-afe7-c9d0c6344c05",
       "number": 28,
       "content": "Nhưng đất sẽ không mửa các ngươi ra, khi các ngươi làm cho nó ra ô uế, như nó đã mửa dân tộc ở đó trước các ngươi.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.685Z",
-      "updatedAt": "2024-09-23T03:42:15.685Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.921Z",
+      "updatedAt": "2025-04-22T03:09:18.921Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "981e87ce-97da-480c-9f8c-09779d90f2e5",
+      "id": "4aec3077-4c0d-4ccc-8e1e-bfcbf4e878ac",
       "number": 29,
       "content": "Vì bất cứ ai làm một trong những điều ghê tởm ấy, thì chính người làm sẽ bị khai trừ ra khỏi dân nó.",
       "order": 0,
       "parNumber": 22,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.689Z",
-      "updatedAt": "2024-09-23T03:42:15.689Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.931Z",
+      "updatedAt": "2025-04-22T03:09:18.931Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "43f755eb-f4d8-402c-8d7a-28876ac88a59",
+      "id": "cdbe212d-f45d-42cc-9609-309956ba3307",
       "number": 30,
-      "content": "Các ngươi phải giữ điều Ta truyền giữ, là không được thực hành các quy tắc ghê tởm mà người ta đã thực hành trước các ngươi, và các ngươi không được làm cho mình ra ô uế vì những điều ấy. Ta là [ĐỨC CHÚA](), Thiên Chúa của các ngươi.”",
+      "content": "Các ngươi phải giữ điều Ta truyền giữ, là không được thực hành các quy tắc ghê tởm mà người ta đã thực hành trước các ngươi, và các ngươi không được làm cho mình ra ô uế vì những điều ấy. Ta là ĐỨC CHÚA, Thiên Chúa của các ngươi.”",
       "order": 0,
       "parNumber": 22,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:42:15.693Z",
-      "updatedAt": "2024-09-23T03:42:15.693Z",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.942Z",
+      "updatedAt": "2025-04-22T03:09:18.942Z",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     }
   ],
   "footnotes": [
     {
-      "id": "9a3695a4-e879-4911-9f59-544dafd263b1",
+      "id": "84dc279b-d2d0-4203-82f6-fa4623447489",
       "content": "Ch. 20 sẽ đưa ra những hình phạt cho kẻ mắc lỗi. Còn ở đây chủ yếu cấm những liên hệ tính dục giữa những người họ hàng với nhau (cc. 6-18) kiểu người Ai-cập và người Ca-na-an thường làm (cc. 3.24-25).",
       "position": 31,
       "order": 0,
-      "createdAt": "2024-09-23T03:42:15.534Z",
-      "updatedAt": "2024-09-23T03:42:15.534Z",
-      "headingId": "e3ec127a-ff56-4b79-ad1e-efcb1223081a",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.313Z",
+      "updatedAt": "2025-04-22T03:09:18.313Z",
+      "headingId": "0731bb79-0e64-4686-8966-26cd8f048b5f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "8451a69f-0a50-4377-8311-d30848190708",
+      "id": "6fcc7bc4-5ad4-4ad8-babe-feb5b0ead5e6",
       "content": "Lời khẳng định này, được lặp đi lặp lại như một điệp khúc trong các chương này, đưa ra lý do chính của tất cả luật về sự thánh thiện : Đức Chúa là Thiên Chúa của Ít-ra-en Đấng đã đưa dân này ra khỏi Ai-cập (19,36 ; 22,33), Người là Thiên Chúa thánh thiện (19,1 ; 20,26 ; 21,8), Đấng thánh hoá dân Người (20,8 ; 21,8.15 ; 22,9.32 ; x. 20,7).",
-      "position": 93,
+      "position": 85,
       "order": 1,
-      "createdAt": "2024-09-23T03:42:15.547Z",
-      "updatedAt": "2024-09-23T03:42:15.547Z",
-      "verseId": "cc22a963-aef7-4cd1-b87e-301a7840b50b",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.395Z",
+      "updatedAt": "2025-04-22T03:09:18.395Z",
+      "verseId": "4d25af9c-bf3d-4244-a821-3d9df5f9a273",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "5ae4d15a-f0ab-483c-898e-c4783674fab7",
+      "id": "44ee5c22-f4a4-47e2-a2d3-344ad19eca81",
       "content": "Kiểu nói chỉ những liên hệ tính dục. Họ hàng là đồng ruột thịt máu mủ xương cốt với nhau ; điều này thể hiện rõ nhất trong việc nam nữ phối hợp. Do đó tất cả những điều cấm kỵ ở đây đều đưa về tội loạn luân : một xác thịt không thể làm cho chính mình thụ tinh.",
       "position": 98,
       "order": 2,
-      "createdAt": "2024-09-23T03:42:15.572Z",
-      "updatedAt": "2024-09-23T03:42:15.572Z",
-      "verseId": "acc866d1-5995-402b-ae02-9528cb690b08",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.491Z",
+      "updatedAt": "2025-04-22T03:09:18.491Z",
+      "verseId": "4f630c98-81a0-4c93-ba65-be7fed002798",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "6019d7f0-34fa-4710-8a88-e361549128c8",
+      "id": "ea578274-51e5-4eed-8c27-f0182f85b9c8",
       "content": "*Nhượng lại* tức là thiêu đốt để tế thần, theo thói người Ca-na-an, một điều bị luật Mô-sê lên án (Lv 20,2-5 ; Đnl 12,31 ; 18,10). Thế mà Ít-ra-en có thời đã du nhập thói ghê tởm ấy vào Giê-ru-sa-lem dưới thung lũng Hin-nôm (x. 2 V 16,3 ; 21,6 ; 23,10 ; Is 30,33 ; Gr 7,31 ; 19,5tt ; 32,35 ; Ed 16,21). Mô-léc là từ có gốc Phê-ni-xi, chỉ một thứ hy lễ ; tại U-ga-rít Mô-léc xuất hiện trong danh sách các thần. Tại Ít-ra-en, Mô-léc được coi như danh xưng của thần.",
-      "position": 82,
+      "position": 78,
       "order": 3,
-      "createdAt": "2024-09-23T03:42:15.651Z",
-      "updatedAt": "2024-09-23T03:42:15.651Z",
-      "verseId": "f64d9992-69e3-4d02-9cb1-cf6a2e101004",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.794Z",
+      "updatedAt": "2025-04-22T03:09:18.794Z",
+      "verseId": "631ab285-7cce-4e22-968c-a4c871ceee1f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "7770c269-141f-4b70-963d-e8dc724b9f36",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.340Z",
+      "updatedAt": "2025-04-22T03:09:18.340Z",
+      "verseId": "f7bc280b-fba6-4c4d-bcb7-0b082cf7e69b",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "c5d58988-52f2-49f7-baae-d2be01e4facb",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 59,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.381Z",
+      "updatedAt": "2025-04-22T03:09:18.381Z",
+      "verseId": "4d25af9c-bf3d-4244-a821-3d9df5f9a273",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "cfac1169-66ab-474f-96cc-77c870297766",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 14,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.464Z",
+      "updatedAt": "2025-04-22T03:09:18.464Z",
+      "verseId": "e8fed2f4-0292-4f00-a00d-de3bb1473bb0",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "409f981d-d037-4405-ae66-55a4ddad5a18",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 114,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.504Z",
+      "updatedAt": "2025-04-22T03:09:18.504Z",
+      "verseId": "4f630c98-81a0-4c93-ba65-be7fed002798",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "a939e006-8d22-4b82-8af8-41c15d07560f",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 147,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.808Z",
+      "updatedAt": "2025-04-22T03:09:18.808Z",
+      "verseId": "631ab285-7cce-4e22-968c-a4c871ceee1f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "b4bdad6a-153e-49de-b5d3-d56d10654937",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 202,
+      "order": 4,
+      "createdAt": "2025-04-22T03:09:18.953Z",
+      "updatedAt": "2025-04-22T03:09:18.953Z",
+      "verseId": "cdbe212d-f45d-42cc-9609-309956ba3307",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "c7f28950-4f1a-4f81-9d8b-404cd0b1054f",
+      "content": "English: Moses - French: Moise - Latin: Moysen - Origin: &#1502;&#1465; &#64298;&#1462;&#1492; - Vietnamese: Mô-sê Xh 2,10",
+      "position": 27,
+      "order": 6,
+      "createdAt": "2025-04-22T03:09:18.354Z",
+      "updatedAt": "2025-04-22T03:09:18.354Z",
+      "verseId": "f7bc280b-fba6-4c4d-bcb7-0b082cf7e69b",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
+    },
+    {
+      "id": "d60f2bfc-0051-4d95-bf34-bad376b29382",
+      "content": "English: Molech - French: Molek - Latin: Moloch - Origin: &#1502;&#1465;&#1500;&#1462;&#1498;&#1456; - Vietnamese: Mô-léc một thần ngoại giáo, Lv 18,21",
+      "position": 78,
+      "order": 14,
+      "createdAt": "2025-04-22T03:09:18.781Z",
+      "updatedAt": "2025-04-22T03:09:18.781Z",
+      "verseId": "631ab285-7cce-4e22-968c-a4c871ceee1f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     }
   ],
   "headings": [
     {
-      "id": "e3ec127a-ff56-4b79-ad1e-efcb1223081a",
+      "id": "0731bb79-0e64-4686-8966-26cd8f048b5f",
       "content": "Những điều cấm đoán về sinh dục",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:42:15.531Z",
-      "updatedAt": "2024-09-23T03:42:15.531Z",
-      "verseId": "88e4c8b5-f296-4651-bd17-b1f69488ee46",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.299Z",
+      "updatedAt": "2025-04-22T03:09:18.299Z",
+      "verseId": "f7bc280b-fba6-4c4d-bcb7-0b082cf7e69b",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     }
   ],
   "references": [
     {
-      "id": "67222768-e7f7-4cc7-95e8-7df696d5b430",
+      "id": "645b1fa5-eab2-4399-b42d-1a5042c02069",
       "content": "Lv 20,8-21",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T03:42:15.539Z",
-      "updatedAt": "2024-09-23T03:42:15.539Z",
-      "headingId": "e3ec127a-ff56-4b79-ad1e-efcb1223081a",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.327Z",
+      "updatedAt": "2025-04-22T03:09:18.327Z",
+      "headingId": "0731bb79-0e64-4686-8966-26cd8f048b5f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "e9bc8ce6-15a4-4ff1-a647-3681bae215ed",
+      "id": "8203d900-7a02-45a1-b71f-52c83e87d9b7",
       "content": "Xh 23,25; Ed 20,7-8",
-      "position": 49,
+      "position": 45,
       "order": 1,
-      "createdAt": "2024-09-23T03:42:15.551Z",
-      "updatedAt": "2024-09-23T03:42:15.551Z",
-      "verseId": "cc22a963-aef7-4cd1-b87e-301a7840b50b",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.408Z",
+      "updatedAt": "2025-04-22T03:09:18.408Z",
+      "verseId": "4d25af9c-bf3d-4244-a821-3d9df5f9a273",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "c589015b-8b40-4546-a15d-a61d67cbf8c9",
+      "id": "a34b8cb7-3c36-42e6-a9e9-6e2dd6b24800",
       "content": "Đnl 23,1; 27,20",
       "position": 38,
       "order": 3,
-      "createdAt": "2024-09-23T03:42:15.584Z",
-      "updatedAt": "2024-09-23T03:42:15.584Z",
-      "verseId": "1f8a5a2f-b753-4d90-b65e-053ecfe9d409",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.544Z",
+      "updatedAt": "2025-04-22T03:09:18.544Z",
+      "verseId": "7948f2c5-d009-4c8f-8a19-3ecd894d2957",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "2f64cdf0-b9fc-4b9f-a807-3a34d5e68e0f",
+      "id": "1836f7c8-1760-4cb8-a94e-804e3bfdfeb2",
       "content": "Đnl 27,22",
       "position": 38,
       "order": 4,
-      "createdAt": "2024-09-23T03:42:15.592Z",
-      "updatedAt": "2024-09-23T03:42:15.592Z",
-      "verseId": "0eecf9a0-e074-436d-bd4c-242b9be9dcab",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.574Z",
+      "updatedAt": "2025-04-22T03:09:18.574Z",
+      "verseId": "73219712-0450-44d4-885a-c1a2d5fc1263",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "ea93bb10-c5b7-4549-9625-53229d8e1fcf",
+      "id": "886b6fba-499c-4f21-95b1-8f79920307a9",
       "content": "Lv 20,14",
       "position": 42,
       "order": 5,
-      "createdAt": "2024-09-23T03:42:15.628Z",
-      "updatedAt": "2024-09-23T03:42:15.628Z",
-      "verseId": "515adc23-41ea-4a8c-9fed-3bb42e214d00",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.700Z",
+      "updatedAt": "2025-04-22T03:09:18.700Z",
+      "verseId": "b8f57be9-c763-4e42-adc6-e75a2f1b453a",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "43307d82-1046-4bf5-acfd-5d0caa22e7c5",
+      "id": "a5bea594-2451-4182-bbd8-900097828e34",
       "content": "Xh 20,14",
       "position": 30,
       "order": 6,
-      "createdAt": "2024-09-23T03:42:15.643Z",
-      "updatedAt": "2024-09-23T03:42:15.643Z",
-      "verseId": "a496c264-0a95-42a5-a9f1-7f8d45ec2ea6",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.755Z",
+      "updatedAt": "2025-04-22T03:09:18.755Z",
+      "verseId": "20ca3000-aad5-4bcb-86c6-22f3f5534eab",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "1e4a6b16-18fc-4c35-a2a1-dc7024bb1417",
+      "id": "fc718925-d205-496b-b3fe-684cd28bb6c4",
       "content": "Lv 19,12; 20,2-5; 22,32; St 22,1+",
-      "position": 110,
+      "position": 106,
       "order": 7,
-      "createdAt": "2024-09-23T03:42:15.655Z",
-      "updatedAt": "2024-09-23T03:42:15.655Z",
-      "verseId": "f64d9992-69e3-4d02-9cb1-cf6a2e101004",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.824Z",
+      "updatedAt": "2025-04-22T03:09:18.824Z",
+      "verseId": "631ab285-7cce-4e22-968c-a4c871ceee1f",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     },
     {
-      "id": "80108471-acda-408b-9370-87470bbc0a86",
+      "id": "980b7a30-8384-4d26-9161-ad0176abd719",
       "content": "St 19,5",
       "position": 25,
       "order": 8,
-      "createdAt": "2024-09-23T03:42:15.663Z",
-      "updatedAt": "2024-09-23T03:42:15.663Z",
-      "verseId": "cdfe83e9-065b-498d-bd41-6e5831173678",
-      "chapterId": "f7d9bce1-354a-4d4d-aa2a-6100d610ae32"
+      "createdAt": "2025-04-22T03:09:18.850Z",
+      "updatedAt": "2025-04-22T03:09:18.850Z",
+      "verseId": "584ad617-7436-43e2-b625-2b7792107e6d",
+      "chapterId": "94d90f3a-fbca-4a3a-a890-a589e2121aa7"
     }
   ],
   "psalmMetadata": []

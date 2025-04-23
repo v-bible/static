@@ -1,329 +1,399 @@
 {
   "chapter": {
-    "id": "f5311f63-699e-4006-9dc3-f87fe64153bd",
+    "id": "faa5af42-916d-4686-854b-5d34ab5933f8",
     "number": 4,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.385Z",
-    "updatedAt": "2024-09-23T03:08:02.385Z",
-    "bookId": "750410aa-8792-4334-89a7-2ec8af425ebe"
+    "createdAt": "2025-04-22T00:48:32.209Z",
+    "updatedAt": "2025-04-22T00:48:32.209Z",
+    "bookId": "60b7a09b-afb6-41c3-8441-2d0936fa1d5e"
   },
   "verses": [
     {
-      "id": "a8a83afc-2f97-489e-be14-f9133d63b82c",
+      "id": "098f697e-c4b6-490e-9ff8-5c41bee5b293",
       "number": 1,
       "content": "Ngày đó, bảy bà sẽ níu lấy một ông mà nói : “Bánh ăn áo mặc, chúng em sẽ liệu lấy ; chỉ xin được mang tên chàng, xin chàng cất đi cho nỗi khổ nhục của chúng em.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:43:47.213Z",
-      "updatedAt": "2024-09-23T04:43:47.213Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.332Z",
+      "updatedAt": "2025-04-22T06:19:07.332Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "b7bbc679-6e9b-448e-9806-399df0e66f0b",
+      "id": "2f5130da-08c1-42c5-8c30-3df5ddc2d2cf",
       "number": 2,
       "content": "sẽ là vinh quang và danh dự,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.226Z",
-      "updatedAt": "2024-09-23T04:43:47.226Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.349Z",
+      "updatedAt": "2025-04-22T06:19:07.349Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "22791adf-49f5-479f-a7ad-0dff53ba36be",
+      "id": "58630ee3-25de-4c96-99e5-0acc01c84977",
       "number": 2,
       "content": "và hoa màu từ ruộng đất trổ sinh",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.230Z",
-      "updatedAt": "2024-09-23T04:43:47.230Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.360Z",
+      "updatedAt": "2025-04-22T06:19:07.360Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "42545999-f78f-4c1d-b57b-9deeb453a87e",
+      "id": "e90742d9-2441-49d4-9e70-ace6be4343a1",
       "number": 2,
       "content": "sẽ là niềm hãnh diện và tự hào",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.236Z",
-      "updatedAt": "2024-09-23T04:43:47.236Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.372Z",
+      "updatedAt": "2025-04-22T06:19:07.372Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "69273e0a-a6c3-4e5a-ae48-a31aff4ffde9",
+      "id": "3f2d53f0-e677-491e-b4a5-69b05624fc0d",
       "number": 2,
-      "content": "cho những người [Ít-ra-en]() thoát nạn.",
+      "content": "cho những người Ít-ra-en thoát nạn.",
       "order": 3,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.245Z",
-      "updatedAt": "2024-09-23T04:43:47.245Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.400Z",
+      "updatedAt": "2025-04-22T06:19:07.400Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "18e2bbed-8ddb-4dfc-b40a-2e423e05e882",
+      "id": "259b98a3-0208-4717-b18c-377d6875da3b",
       "number": 3,
-      "content": "Những người sống sót ở [Xi-on]()",
+      "content": "Những người sống sót ở Xi-on",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.251Z",
-      "updatedAt": "2024-09-23T04:43:47.251Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.413Z",
+      "updatedAt": "2025-04-22T06:19:07.413Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "fa802fac-bd06-4707-93cc-bdc6eed41a1a",
+      "id": "19bb845c-2089-4096-a637-4123a6e1b7fb",
       "number": 3,
-      "content": "và những kẻ còn sót lại ở [Giê-ru-sa-lem]() sẽ được gọi là thánh.",
+      "content": "và những kẻ còn sót lại ở Giê-ru-sa-lem sẽ được gọi là thánh.",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.262Z",
-      "updatedAt": "2024-09-23T04:43:47.262Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.458Z",
+      "updatedAt": "2025-04-22T06:19:07.458Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "f5968f19-d1b9-4de2-9574-0101b8970973",
+      "id": "2a59a80b-2c9a-4230-ae10-ae64d07d25cf",
       "number": 3,
-      "content": "Tất cả được ghi tên vào sổ để sống tại [Giê-ru-sa-lem]().",
+      "content": "Tất cả được ghi tên vào sổ để sống tại Giê-ru-sa-lem.",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.271Z",
-      "updatedAt": "2024-09-23T04:43:47.271Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.504Z",
+      "updatedAt": "2025-04-22T06:19:07.504Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "42e4b7aa-7659-4aeb-8914-49f28dac8f56",
+      "id": "ec28f296-4ab6-497b-ad3b-6826755a4ba9",
       "number": 4,
       "content": "Khi Chúa Thượng đã dùng thần khí thông minh",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.281Z",
-      "updatedAt": "2024-09-23T04:43:47.281Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.547Z",
+      "updatedAt": "2025-04-22T06:19:07.547Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "88eade5a-7623-43d9-b1e1-88ef17d1d6e2",
+      "id": "3b965c9c-85e4-490c-87e9-ee1a3882893f",
       "number": 4,
       "content": "và thần khí có sức thiêu huỷ",
       "order": 1,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.286Z",
-      "updatedAt": "2024-09-23T04:43:47.286Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.560Z",
+      "updatedAt": "2025-04-22T06:19:07.560Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "091704e6-818b-47f5-b8fb-edebde49b32a",
+      "id": "246331a8-cb00-4409-aaaa-0a6fdbefabf9",
       "number": 4,
-      "content": "mà tẩy sạch các thiếu nữ [Xi-on]() khỏi những gì ô uế,",
+      "content": "mà tẩy sạch các thiếu nữ Xi-on khỏi những gì ô uế,",
       "order": 2,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.290Z",
-      "updatedAt": "2024-09-23T04:43:47.290Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.573Z",
+      "updatedAt": "2025-04-22T06:19:07.573Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "ee4bcc6b-3f26-44a0-a040-399298955315",
+      "id": "1997b9fe-0455-43cc-aed0-0216e4685aad",
       "number": 4,
-      "content": "và gột rửa [Giê-ru-sa-lem]() khỏi máu đã đổ ra trong thành,",
+      "content": "và gột rửa Giê-ru-sa-lem khỏi máu đã đổ ra trong thành,",
       "order": 3,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.296Z",
-      "updatedAt": "2024-09-23T04:43:47.296Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.600Z",
+      "updatedAt": "2025-04-22T06:19:07.600Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "a6e15c5a-01bb-4382-8d72-e9642c031fe8",
+      "id": "89fd353f-bea2-48c7-9f9c-385963a948df",
       "number": 5,
-      "content": "thì trên khắp núi [Xi-on](), và trên những người hội họp ở đó,",
+      "content": "thì trên khắp núi Xi-on, và trên những người hội họp ở đó,",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.300Z",
-      "updatedAt": "2024-09-23T04:43:47.300Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.629Z",
+      "updatedAt": "2025-04-22T06:19:07.629Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "b09fada2-1b23-417e-8537-ecabf76b44af",
+      "id": "58fac0ff-78d3-4ac4-8ad1-a6807412a58b",
       "number": 5,
-      "content": "[ĐỨC CHÚA]() sẽ tạo ra một đám mây ban ngày,",
+      "content": "ĐỨC CHÚA sẽ tạo ra một đám mây ban ngày,",
       "order": 1,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.305Z",
-      "updatedAt": "2024-09-23T04:43:47.305Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.657Z",
+      "updatedAt": "2025-04-22T06:19:07.657Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "0f369624-0323-4ce9-88ec-b8d1192aa468",
+      "id": "5f9f8bc1-5ee9-4ac5-ac08-7e6948cf14a8",
       "number": 5,
       "content": "một đám khói và một ngọn lửa rực sáng ban đêm.",
       "order": 2,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.311Z",
-      "updatedAt": "2024-09-23T04:43:47.311Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.686Z",
+      "updatedAt": "2025-04-22T06:19:07.686Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "8354464e-c4cc-4744-bfaf-3cfa79736f6b",
+      "id": "d17c2e05-1e31-4a9e-811e-9604d8d91f2c",
       "number": 5,
       "content": "Thật vậy, trên tất cả,",
       "order": 3,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.316Z",
-      "updatedAt": "2024-09-23T04:43:47.316Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.703Z",
+      "updatedAt": "2025-04-22T06:19:07.703Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "1da25595-d4cf-4b9c-b9a2-f64830849fc1",
+      "id": "b23edbd9-910f-4f84-bf36-5475cfd3cd86",
       "number": 5,
       "content": "vinh quang của Chúa",
       "order": 4,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.321Z",
-      "updatedAt": "2024-09-23T04:43:47.321Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.721Z",
+      "updatedAt": "2025-04-22T06:19:07.721Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "c90c69f5-7111-413f-ba7e-8211f57411db",
+      "id": "cf611bba-def7-4394-915c-0a92f86ab289",
       "number": 5,
       "content": "sẽ là tán che,",
       "order": 5,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.325Z",
-      "updatedAt": "2024-09-23T04:43:47.325Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.735Z",
+      "updatedAt": "2025-04-22T06:19:07.735Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "cc1e082b-de96-48c7-855d-c04c8161d300",
+      "id": "d1869fcb-d2bc-48aa-aab5-d8a3cffad61c",
       "number": 6,
       "content": "là mái lều",
       "order": 0,
       "parNumber": 18,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:43:47.335Z",
-      "updatedAt": "2024-09-23T04:43:47.335Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.763Z",
+      "updatedAt": "2025-04-22T06:19:07.763Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "135aa724-1aa3-4866-9c8a-19bbe563d18c",
+      "id": "8311c37e-81f6-4f2d-8cbb-03dde2a2f5c5",
       "number": 6,
       "content": "làm bóng râm ban ngày cho khỏi nóng,",
       "order": 1,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.340Z",
-      "updatedAt": "2024-09-23T04:43:47.340Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.777Z",
+      "updatedAt": "2025-04-22T06:19:07.777Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "c28ce349-8b01-4dbf-ad0f-96a23eda1775",
+      "id": "9271b425-2a92-45af-8231-b07dc9302167",
       "number": 6,
       "content": "làm nơi nương ẩn khi bão táp mưa sa.",
       "order": 2,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:43:47.344Z",
-      "updatedAt": "2024-09-23T04:43:47.344Z",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.791Z",
+      "updatedAt": "2025-04-22T06:19:07.791Z",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     }
   ],
   "footnotes": [
     {
-      "id": "3b14edd9-5f9c-48f9-8f5f-6f13f25034b1",
+      "id": "0bea1c01-f86d-448d-b358-f0ae614c56f8",
       "content": "*Những người sống sót* : Ít-ra-en bị phạt, nhưng vì Thiên Chúa đã nhận họ làm con, nên không tiêu diệt họ mà vẫn cho sót lại một số để làm cho họ thành dân mới (x. Am 3,12 ; 5,15 ; 9,8-10). Chủ đề này được khai triển suốt ba phần của Is. Trước lưu đày, số sót lại là số còn ở Giê-ru-sa-lem : 6,13 ; 7,3 và 10,19-21 ; 28,5-6 ; 37,4.31-32. Sau cuộc phát lưu năm 587, số sót lại là những người quay về với Thiên Chúa tại nơi lưu đày ; họ sẽ được đưa về Đất Hứa : 11,11.16 ; x. Gr 23,3 ; 50,20 ; Ed 20,37. Sau khi hồi hương, số sót này lại bất trung, được thanh lọc nữa (Dcr 1,3 ; 8,11 ; Kg 1,12). Trái với Ít-ra-en, các dân ngoại bị tận diệt (Is 14,22.30 ; 15,9 ; 16,14).",
       "position": 20,
       "order": 2,
-      "createdAt": "2024-09-23T04:43:47.256Z",
-      "updatedAt": "2024-09-23T04:43:47.256Z",
-      "verseId": "18e2bbed-8ddb-4dfc-b40a-2e423e05e882",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.427Z",
+      "updatedAt": "2025-04-22T06:19:07.427Z",
+      "verseId": "259b98a3-0208-4717-b18c-377d6875da3b",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "8fa4a15a-1268-442b-92f8-a5a3298c943e",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 3,
+      "createdAt": "2025-04-22T06:19:07.671Z",
+      "updatedAt": "2025-04-22T06:19:07.671Z",
+      "verseId": "58fac0ff-78d3-4ac4-8ad1-a6807412a58b",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "6e9b2e50-71b2-4c8e-ba9c-d73db8e14e38",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 28,
+      "order": 7,
+      "createdAt": "2025-04-22T06:19:07.441Z",
+      "updatedAt": "2025-04-22T06:19:07.441Z",
+      "verseId": "259b98a3-0208-4717-b18c-377d6875da3b",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "3ff877bc-6923-4653-9b34-72f32b48217a",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 30,
+      "order": 7,
+      "createdAt": "2025-04-22T06:19:07.587Z",
+      "updatedAt": "2025-04-22T06:19:07.587Z",
+      "verseId": "246331a8-cb00-4409-aaaa-0a6fdbefabf9",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "3351e2e2-2267-4e6f-adc1-eca7ccf313d5",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 23,
+      "order": 7,
+      "createdAt": "2025-04-22T06:19:07.643Z",
+      "updatedAt": "2025-04-22T06:19:07.643Z",
+      "verseId": "89fd353f-bea2-48c7-9f9c-385963a948df",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "d9c61600-26d6-42e4-bc5a-d65b3b09dd91",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 39,
+      "order": 9,
+      "createdAt": "2025-04-22T06:19:07.475Z",
+      "updatedAt": "2025-04-22T06:19:07.475Z",
+      "verseId": "19bb845c-2089-4096-a637-4123a6e1b7fb",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "48231e01-05ba-4c1f-abc6-5a669f6978fb",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 52,
+      "order": 9,
+      "createdAt": "2025-04-22T06:19:07.519Z",
+      "updatedAt": "2025-04-22T06:19:07.519Z",
+      "verseId": "2a59a80b-2c9a-4230-ae10-ae64d07d25cf",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
+    },
+    {
+      "id": "5a46c79a-5419-4f3e-80ae-03da856ed32f",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 24,
+      "order": 9,
+      "createdAt": "2025-04-22T06:19:07.615Z",
+      "updatedAt": "2025-04-22T06:19:07.615Z",
+      "verseId": "1997b9fe-0455-43cc-aed0-0216e4685aad",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     }
   ],
   "headings": [],
   "references": [
     {
-      "id": "dbd83f86-e674-4f73-b1b3-85b25a5bce88",
+      "id": "30a2275a-3f0c-404a-9fcb-f29e12eb1bc8",
       "content": "Is 52,1; 60,21",
       "position": 11,
       "order": 1,
-      "createdAt": "2024-09-23T04:43:47.240Z",
-      "updatedAt": "2024-09-23T04:43:47.240Z",
-      "verseId": "42545999-f78f-4c1d-b57b-9deeb453a87e",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.385Z",
+      "updatedAt": "2025-04-22T06:19:07.385Z",
+      "verseId": "e90742d9-2441-49d4-9e70-ace6be4343a1",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "514e24ee-b25e-40f8-a99e-cc0f39450063",
+      "id": "bd3e1766-4d3c-4479-8fad-d286245cac85",
       "content": "Xp 3,13",
       "position": 16,
       "order": 2,
-      "createdAt": "2024-09-23T04:43:47.266Z",
-      "updatedAt": "2024-09-23T04:43:47.266Z",
-      "verseId": "fa802fac-bd06-4707-93cc-bdc6eed41a1a",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.490Z",
+      "updatedAt": "2025-04-22T06:19:07.490Z",
+      "verseId": "19bb845c-2089-4096-a637-4123a6e1b7fb",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "cd6af84e-c1c3-495f-9d4f-d8e81a2843e8",
+      "id": "141a7fc8-c683-4bef-a753-398fd276f32c",
       "content": "Đn 12,1",
       "position": 12,
       "order": 3,
-      "createdAt": "2024-09-23T04:43:47.276Z",
-      "updatedAt": "2024-09-23T04:43:47.276Z",
-      "verseId": "f5968f19-d1b9-4de2-9574-0101b8970973",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.533Z",
+      "updatedAt": "2025-04-22T06:19:07.533Z",
+      "verseId": "2a59a80b-2c9a-4230-ae10-ae64d07d25cf",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "a574a60a-8874-4f51-b973-a6be8f95b307",
+      "id": "112291a4-1e39-477f-b982-254eef48145f",
       "content": "Kh 7,15-16",
       "position": 6,
       "order": 4,
-      "createdAt": "2024-09-23T04:43:47.330Z",
-      "updatedAt": "2024-09-23T04:43:47.330Z",
-      "verseId": "c90c69f5-7111-413f-ba7e-8211f57411db",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.749Z",
+      "updatedAt": "2025-04-22T06:19:07.749Z",
+      "verseId": "cf611bba-def7-4394-915c-0a92f86ab289",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     },
     {
-      "id": "2aaa75bc-8e68-44be-8535-ba9cb01945b9",
+      "id": "8e788819-c129-4250-b675-0d97942689ac",
       "content": "Is 25,4-5",
       "position": 8,
       "order": 5,
-      "createdAt": "2024-09-23T04:43:47.349Z",
-      "updatedAt": "2024-09-23T04:43:47.349Z",
-      "verseId": "c28ce349-8b01-4dbf-ad0f-96a23eda1775",
-      "chapterId": "f5311f63-699e-4006-9dc3-f87fe64153bd"
+      "createdAt": "2025-04-22T06:19:07.806Z",
+      "updatedAt": "2025-04-22T06:19:07.806Z",
+      "verseId": "9271b425-2a92-45af-8231-b07dc9302167",
+      "chapterId": "faa5af42-916d-4686-854b-5d34ab5933f8"
     }
   ],
   "psalmMetadata": []

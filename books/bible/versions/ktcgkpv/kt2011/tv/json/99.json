@@ -1,351 +1,432 @@
 {
   "chapter": {
-    "id": "e141d5b6-2783-4331-9f81-6634e92db2c2",
+    "id": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd",
     "number": 99,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.367Z",
-    "updatedAt": "2024-09-23T03:08:02.367Z",
-    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+    "createdAt": "2025-04-22T00:48:31.716Z",
+    "updatedAt": "2025-04-22T00:48:31.716Z",
+    "bookId": "9beff2a2-3de1-4b2d-b189-6eadb8dd6815"
   },
   "verses": [
     {
-      "id": "b98935e5-aeea-4b3f-85c7-f6fb22fee6eb",
+      "id": "83a97af4-c202-4698-b176-f034bb1f7dd7",
       "number": 1,
       "content": "CHÚA là Vua hiển trị : chư dân phải rụng rời ;",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.390Z",
-      "updatedAt": "2024-09-23T04:16:14.390Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.641Z",
+      "updatedAt": "2025-04-22T05:37:23.641Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "8fd77a0b-cd08-46ee-9763-28845df26aec",
+      "id": "7c98fb4f-5cb3-45e1-8a2c-eeed3224a62b",
       "number": 1,
       "content": "Người ngự trên các Kê-ru-bim : địa cầu phải chuyển rung.",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.404Z",
-      "updatedAt": "2024-09-23T04:16:14.404Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.697Z",
+      "updatedAt": "2025-04-22T05:37:23.697Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "3b104622-03a5-47e7-b234-6df1608c5453",
+      "id": "021a572b-59a6-494e-99cc-73e6fea61528",
       "number": 2,
-      "content": "Ở [Xi-on](), CHÚA quả là vĩ đại, Người trổi vượt trên tất cả mọi dân.",
+      "content": "Ở Xi-on, CHÚA quả là vĩ đại, Người trổi vượt trên tất cả mọi dân.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.406Z",
-      "updatedAt": "2024-09-23T04:16:14.406Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.712Z",
+      "updatedAt": "2025-04-22T05:37:23.712Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "ce20887a-ad8c-4145-8221-55e533fe2fee",
+      "id": "73536eac-4111-4f24-ad53-d115fd158225",
       "number": 3,
       "content": "Chư dân hãy xưng tụng danh Ngài,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.409Z",
-      "updatedAt": "2024-09-23T04:16:14.409Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.755Z",
+      "updatedAt": "2025-04-22T05:37:23.755Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "2dc8c55c-94cc-421d-86a8-a9ec3d35834a",
+      "id": "6db18e28-0381-46d2-a118-ee02ca23adc2",
       "number": 3,
       "content": "danh vĩ đại khả tôn khả uý,",
       "order": 1,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.411Z",
-      "updatedAt": "2024-09-23T04:16:14.411Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.769Z",
+      "updatedAt": "2025-04-22T05:37:23.769Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "2a91f125-335c-4d65-8b78-90692cd06c86",
+      "id": "f6b87f6b-83cf-4a88-b700-2dcfff60aeeb",
       "number": 3,
       "content": "danh thánh thiện dường bao !",
       "order": 2,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.413Z",
-      "updatedAt": "2024-09-23T04:16:14.413Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.783Z",
+      "updatedAt": "2025-04-22T05:37:23.783Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "d9f9e6aa-7b6a-435a-af8e-5707cfacf380",
+      "id": "c8583859-a4df-40e3-b589-75f0449a0825",
       "number": 4,
       "content": "Ngài là vua uy dũng yêu chuộng công bằng,",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.418Z",
-      "updatedAt": "2024-09-23T04:16:14.418Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.813Z",
+      "updatedAt": "2025-04-22T05:37:23.813Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "8ff1bcf1-6045-4ffc-94b7-070b2f6e8ac6",
+      "id": "ee74dc50-24bf-4a0c-99a3-532c6169c570",
       "number": 4,
       "content": "chính Ngài ấn định đường ngay lẽ phải ;",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.422Z",
-      "updatedAt": "2024-09-23T04:16:14.422Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.826Z",
+      "updatedAt": "2025-04-22T05:37:23.826Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "d514e020-c687-405b-a936-3c706af0e642",
+      "id": "c34fe376-b73f-429a-ac28-5d180737e64b",
       "number": 4,
-      "content": "trong nhà [Gia-cóp](), Ngài thực hiện điều chính trực công minh.",
+      "content": "trong nhà Gia-cóp, Ngài thực hiện điều chính trực công minh.",
       "order": 2,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.427Z",
-      "updatedAt": "2024-09-23T04:16:14.427Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.840Z",
+      "updatedAt": "2025-04-22T05:37:23.840Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "ae35a612-37d6-4857-a19f-020896dbed71",
+      "id": "2625ac1a-38f8-4e6f-90c5-61696755a398",
       "number": 5,
-      "content": "Hãy suy tôn [ĐỨC CHÚA]() là Thiên Chúa chúng ta,",
+      "content": "Hãy suy tôn ĐỨC CHÚA là Thiên Chúa chúng ta,",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.431Z",
-      "updatedAt": "2024-09-23T04:16:14.431Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.854Z",
+      "updatedAt": "2025-04-22T05:37:23.854Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "d393cd53-9d12-4e50-8643-209baedba668",
+      "id": "2597c33d-e95a-49be-8258-b3ac11c14bc3",
       "number": 9,
-      "content": "Hãy suy tôn [ĐỨC CHÚA]() là Thiên Chúa chúng ta,",
+      "content": "Hãy suy tôn ĐỨC CHÚA là Thiên Chúa chúng ta,",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.490Z",
-      "updatedAt": "2024-09-23T04:16:14.490Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.094Z",
+      "updatedAt": "2025-04-22T05:37:24.094Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "eb10a0a5-a4a0-4bf3-bc5e-7414d6cab0f0",
+      "id": "b4b18171-687e-48b5-87b7-27567bfb133d",
       "number": 5,
       "content": "phủ phục trước bệ rồng, bởi Người là Đấng Thánh.",
       "order": 1,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.436Z",
-      "updatedAt": "2024-09-23T04:16:14.436Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.881Z",
+      "updatedAt": "2025-04-22T05:37:23.881Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "86dd62fd-1cfa-4472-810f-2fea21b89205",
+      "id": "bb2f732a-489e-4ea0-bf77-80a96ea4e6d0",
       "number": 6,
-      "content": "[Mô-sê]() cùng [A-ha-ron]() trong hàng tư tế Chúa,",
+      "content": "Mô-sê cùng A-ha-ron trong hàng tư tế Chúa,",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.445Z",
-      "updatedAt": "2024-09-23T04:16:14.445Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.910Z",
+      "updatedAt": "2025-04-22T05:37:23.910Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "dd433f69-6e45-4d44-b141-3d5cf98970ca",
+      "id": "06158abb-c363-4c41-80e4-be17c69ebefc",
       "number": 6,
-      "content": "cũng như [Sa-mu-en]() trong số người cầu khẩn Thánh Danh !",
+      "content": "cũng như Sa-mu-en trong số người cầu khẩn Thánh Danh !",
       "order": 1,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.455Z",
-      "updatedAt": "2024-09-23T04:16:14.455Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.966Z",
+      "updatedAt": "2025-04-22T05:37:23.966Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "7eadd1f4-cc32-423f-8f21-958fe371dd40",
+      "id": "2b06aa7f-543a-4273-ac6c-e40d3c85af32",
       "number": 6,
       "content": "Các ngài cầu khẩn CHÚA, Chúa thương đáp lại.",
       "order": 2,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.463Z",
-      "updatedAt": "2024-09-23T04:16:14.463Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.008Z",
+      "updatedAt": "2025-04-22T05:37:24.008Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "78798618-bcc8-4fd2-8754-a6f33569288f",
+      "id": "62ff99d5-dcb0-438d-9f92-17cf5264bc68",
       "number": 7,
       "content": "Từ cột mây, Chúa phán dạy các ngài,",
       "order": 0,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.468Z",
-      "updatedAt": "2024-09-23T04:16:14.468Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.022Z",
+      "updatedAt": "2025-04-22T05:37:24.022Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "4527760c-c4bc-4193-99b2-8e611872ccc5",
+      "id": "7acbe911-1352-4670-8379-6de80d0499ef",
       "number": 7,
       "content": "các ngài đã tuân hành thánh ý, và chiếu chỉ Người ban.",
       "order": 1,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.472Z",
-      "updatedAt": "2024-09-23T04:16:14.472Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.037Z",
+      "updatedAt": "2025-04-22T05:37:24.037Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "c96e1a13-2d36-46ec-8825-7c05fa4e8d4d",
+      "id": "7f05d779-826e-48fa-a67d-49b1f29c3917",
       "number": 8,
       "content": "Lạy CHÚA là Thiên Chúa chúng con, Chúa đã thương đáp lại,",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.477Z",
-      "updatedAt": "2024-09-23T04:16:14.477Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.051Z",
+      "updatedAt": "2025-04-22T05:37:24.051Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "db692fd4-4d6b-4c7c-a99b-fe5c70e40a22",
+      "id": "cf4b49a8-47d4-42cc-9c6c-e3618b419659",
       "number": 8,
       "content": "Chúa là Thiên Chúa khoan dung khi xử với các ngài,",
       "order": 1,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.481Z",
-      "updatedAt": "2024-09-23T04:16:14.481Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.065Z",
+      "updatedAt": "2025-04-22T05:37:24.065Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "ec106f23-b0d7-4963-833e-a3b5815c00c2",
+      "id": "bce99db5-d9f4-4929-b00a-cc5fe016335c",
       "number": 8,
       "content": "nhưng trừng phạt khi các ngài lầm lỗi.",
       "order": 2,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.485Z",
-      "updatedAt": "2024-09-23T04:16:14.485Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.079Z",
+      "updatedAt": "2025-04-22T05:37:24.079Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "abb51641-ceed-4d6f-98b6-0080045db421",
+      "id": "9900cb26-8914-4b83-89f1-8ee404f70fcb",
       "number": 9,
       "content": "hướng về núi thánh mà phủ phục,",
       "order": 1,
       "parNumber": 20,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.495Z",
-      "updatedAt": "2024-09-23T04:16:14.495Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.123Z",
+      "updatedAt": "2025-04-22T05:37:24.123Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "8983d121-ae39-4b89-ae77-cdfbbae18518",
+      "id": "b3440f18-44df-44c0-8d16-0ff1ff264e96",
       "number": 9,
-      "content": "vì [ĐỨC CHÚA](), Thiên Chúa ta thờ, quả thật là Đấng Thánh.",
+      "content": "vì ĐỨC CHÚA, Thiên Chúa ta thờ, quả thật là Đấng Thánh.",
       "order": 2,
       "parNumber": 21,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:16:14.499Z",
-      "updatedAt": "2024-09-23T04:16:14.499Z",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:24.138Z",
+      "updatedAt": "2025-04-22T05:37:24.138Z",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     }
   ],
   "footnotes": [
     {
-      "id": "16841c79-d766-420e-9a3d-9f604ae68889",
+      "id": "61bdbd63-b755-4aff-ae09-9fc0f2b96f22",
       "content": "Tv 99 là Tv sau cùng trong các Tv *về vương quyền của Thiên Chúa* (Tv 47 ; 93 ; 96 ; 97 ; 98). Chỉ có c.1a (*Chúa là Vua hiển trị*) là giống c.1a trong Tv 93 và Tv 97. Tv 99 có vài điểm riêng biệt : **1**) C.5 và c.9 là điệp khúc được cộng đoàn lặp lại ; **2**) Có 3 câu nói về chủ đề *Đức Chúa là Đấng Thánh* : c.3 (*danh thánh thiện*) ; c.5 và c.9 (*Đức Chúa* là *Đấng Thánh*). Do đó, có thể chia Tv làm ba phần : **1**) Đức Chúa là Đấng cao cả (cc. 1-3) ; **2**) Đức Chúa *yêu chuộng công bình, ấn định đường ngay lẽ phải, thực hiện điều chính trực công minh* (c.4) ; **3**) Đức Chúa là Đấng đầy tình thương và công minh đối với ba nhân vật có tên tuổi trong dân Chúa : các ông Mô-sê, A-ha-ron, và Sa-mu-ên (cc. 6-9).",
-      "position": 54,
+      "position": 50,
       "order": 0,
-      "createdAt": "2024-09-23T04:16:14.402Z",
-      "updatedAt": "2024-09-23T04:16:14.402Z",
-      "headingId": "64d32370-015f-407c-babc-383a6a294bd1",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.683Z",
+      "updatedAt": "2025-04-22T05:37:23.683Z",
+      "headingId": "39609206-ea3b-4ef5-a470-f454801a8ed7",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "91837a21-1226-43c6-82e2-e890aefa1045",
+      "id": "651f478a-2a82-44de-b83d-3648c6c41efd",
       "content": "*Thánh, thánh thiện* là siêu việt, ở ngoài và ở trên mọi giới hạn (x. Lv 22,2 ; Tv 33,21 ; 103,1 ; 106,47 ; 145,21 ; Lc 1,49 ...).",
       "position": 26,
       "order": 1,
-      "createdAt": "2024-09-23T04:16:14.415Z",
-      "updatedAt": "2024-09-23T04:16:14.415Z",
-      "verseId": "2a91f125-335c-4d65-8b78-90692cd06c86",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.798Z",
+      "updatedAt": "2025-04-22T05:37:23.798Z",
+      "verseId": "f6b87f6b-83cf-4a88-b700-2dcfff60aeeb",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "0cddb1aa-1cee-4202-90c1-5160f3fc8595",
+      "id": "105cb982-bc84-4068-8295-1a50fd5f3202",
       "content": "Hai ông Mô-sê và A-ha-ron thuộc chi tộc Lê-vi. Có lẽ ở đây, tác giả Tv không có ý nói về việc dâng hy lễ cho bằng về vai trò trung gian giữa Thiên Chúa và dân Người.",
-      "position": 49,
+      "position": 41,
       "order": 2,
-      "createdAt": "2024-09-23T04:16:14.450Z",
-      "updatedAt": "2024-09-23T04:16:14.450Z",
-      "verseId": "86dd62fd-1cfa-4472-810f-2fea21b89205",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.952Z",
+      "updatedAt": "2025-04-22T05:37:23.952Z",
+      "verseId": "bb2f732a-489e-4ea0-bf77-80a96ea4e6d0",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "dcfa3b3a-26d4-4556-8379-a2863b4f3221",
+      "id": "5ae37997-5595-4f8c-aea8-c4c9aed54340",
       "content": "Ông Mô-sê chuyển cầu : Xh 17,11-13 ; 32,11-14.31-34 ; Ds 12,13 ; Tv 106,23. Ông A-ha-ron chuyển cầu : Xh 17,11-13. Ông Sa-mu-ên chuyển cầu : 1 Sm 7,8-12 ; 12,19tt ; Hc 46,16-18.",
-      "position": 21,
+      "position": 17,
       "order": 3,
-      "createdAt": "2024-09-23T04:16:14.459Z",
-      "updatedAt": "2024-09-23T04:16:14.459Z",
-      "verseId": "dd433f69-6e45-4d44-b141-3d5cf98970ca",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.994Z",
+      "updatedAt": "2025-04-22T05:37:23.994Z",
+      "verseId": "06158abb-c363-4c41-80e4-be17c69ebefc",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "cc8b21e2-e52d-4f60-a1c5-c0fba9488f7c",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 20,
+      "order": 4,
+      "createdAt": "2025-04-22T05:37:23.867Z",
+      "updatedAt": "2025-04-22T05:37:23.867Z",
+      "verseId": "2625ac1a-38f8-4e6f-90c5-61696755a398",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "7576aa52-5113-4340-87c6-b3737d2357cb",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 20,
+      "order": 4,
+      "createdAt": "2025-04-22T05:37:24.108Z",
+      "updatedAt": "2025-04-22T05:37:24.108Z",
+      "verseId": "2597c33d-e95a-49be-8258-b3ac11c14bc3",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "25eccc06-35c7-462a-a94a-b63ffed90c62",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 11,
+      "order": 4,
+      "createdAt": "2025-04-22T05:37:24.151Z",
+      "updatedAt": "2025-04-22T05:37:24.151Z",
+      "verseId": "b3440f18-44df-44c0-8d16-0ff1ff264e96",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "ccf7303e-979a-4a34-a5ab-1afff3721201",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 19,
+      "order": 4,
+      "createdAt": "2025-04-22T05:37:23.671Z",
+      "updatedAt": "2025-04-22T05:37:23.671Z",
+      "headingId": "39609206-ea3b-4ef5-a470-f454801a8ed7",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "6ed0073c-87f0-4a06-ad09-68e115d4b73d",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 7,
+      "order": 6,
+      "createdAt": "2025-04-22T05:37:23.727Z",
+      "updatedAt": "2025-04-22T05:37:23.727Z",
+      "verseId": "021a572b-59a6-494e-99cc-73e6fea61528",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "e41f0929-47a4-4724-ba1d-8e51443df37e",
+      "content": "English: Moses - French: Moise - Latin: Moysen - Origin: &#1502;&#1465; &#64298;&#1462;&#1492; - Vietnamese: Mô-sê Xh 2,10",
+      "position": 5,
+      "order": 10,
+      "createdAt": "2025-04-22T05:37:23.924Z",
+      "updatedAt": "2025-04-22T05:37:23.924Z",
+      "verseId": "bb2f732a-489e-4ea0-bf77-80a96ea4e6d0",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "b8b0709d-ba81-4a50-a9f0-7cf50f3ded52",
+      "content": "English: Aaron - French: Aaron - Latin: Aaron - Origin: &#1488;&#1463;&#1492;&#1458;&#1512;&#1465;&#1503; - Vietnamese: A-ha-ron Gs 21,4",
+      "position": 19,
+      "order": 12,
+      "createdAt": "2025-04-22T05:37:23.938Z",
+      "updatedAt": "2025-04-22T05:37:23.938Z",
+      "verseId": "bb2f732a-489e-4ea0-bf77-80a96ea4e6d0",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
+    },
+    {
+      "id": "b74d22c8-3230-469f-bc63-2a1bb1e012ec",
+      "content": "English: Samuel - French: Samuel - Latin: Samuel - Origin: &#64298;&#1456;&#1502;&#64309;&#1488;&#1461;&#1500; - Vietnamese: Sa-mu-en con ông En-ca-ra và bà An-na, 1 Sm 1,20-28 ; 2,11-26",
+      "position": 17,
+      "order": 14,
+      "createdAt": "2025-04-22T05:37:23.980Z",
+      "updatedAt": "2025-04-22T05:37:23.980Z",
+      "verseId": "06158abb-c363-4c41-80e4-be17c69ebefc",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     }
   ],
   "headings": [
     {
-      "id": "64d32370-015f-407c-babc-383a6a294bd1",
-      "content": "Tv 99 (98) [ĐỨC CHÚA]() là Vua cao cả và là Đấng Thánh",
+      "id": "39609206-ea3b-4ef5-a470-f454801a8ed7",
+      "content": "Tv 99 (98) ĐỨC CHÚA là Vua cao cả và là Đấng Thánh",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:16:14.400Z",
-      "updatedAt": "2024-09-23T04:16:14.400Z",
-      "verseId": "b98935e5-aeea-4b3f-85c7-f6fb22fee6eb",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.660Z",
+      "updatedAt": "2025-04-22T05:37:23.660Z",
+      "verseId": "83a97af4-c202-4698-b176-f034bb1f7dd7",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     }
   ],
   "references": [
     {
-      "id": "7861a4ad-826d-4ead-aeb5-297a1ffa005a",
+      "id": "4dfc93c7-0ddf-44dd-a5e5-a38b4d85b9f2",
       "content": "Is 12,6",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:16:14.407Z",
-      "updatedAt": "2024-09-23T04:16:14.407Z",
-      "verseId": "3b104622-03a5-47e7-b234-6df1608c5453",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.741Z",
+      "updatedAt": "2025-04-22T05:37:23.741Z",
+      "verseId": "021a572b-59a6-494e-99cc-73e6fea61528",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     },
     {
-      "id": "0660f87c-24b2-4dc6-9d6d-15a07bd139fe",
+      "id": "495f3694-85e8-4f03-a637-f982413bba46",
       "content": "Tv 132,7",
       "position": 0,
       "order": 1,
-      "createdAt": "2024-09-23T04:16:14.441Z",
-      "updatedAt": "2024-09-23T04:16:14.441Z",
-      "verseId": "eb10a0a5-a4a0-4bf3-bc5e-7414d6cab0f0",
-      "chapterId": "e141d5b6-2783-4331-9f81-6634e92db2c2"
+      "createdAt": "2025-04-22T05:37:23.895Z",
+      "updatedAt": "2025-04-22T05:37:23.895Z",
+      "verseId": "b4b18171-687e-48b5-87b7-27567bfb133d",
+      "chapterId": "d7cc4c4a-3338-4c83-bdd0-cf4122d52ddd"
     }
   ],
   "psalmMetadata": []

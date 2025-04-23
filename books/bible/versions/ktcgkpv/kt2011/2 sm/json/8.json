@@ -1,315 +1,616 @@
 {
   "chapter": {
-    "id": "d8b23b49-0ec5-4014-b0f1-b44f68684275",
+    "id": "5f96e504-a6d5-47b4-9228-ed7ed0056448",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.200Z",
-    "updatedAt": "2024-09-23T03:08:02.200Z",
-    "bookId": "040ea815-73b5-442f-b06f-60db98b423f2"
+    "createdAt": "2025-04-22T00:48:30.910Z",
+    "updatedAt": "2025-04-22T00:48:30.910Z",
+    "bookId": "fa743a45-2f40-443d-b37a-24ab0c9ca87b"
   },
   "verses": [
     {
-      "id": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
+      "id": "458abe40-1edb-4763-9642-1e05b334192f",
       "number": 2,
-      "content": "Vua đánh bại người [Mô-áp](), bắt chúng nằm rạp xuống đất và lấy dây đo : vua đo hai dây để giết và đủ một dây để cho sống. Người [Mô-áp]() phải làm nô lệ cho vua [Đa-vít]() và triều cống vua.",
+      "content": "Vua đánh bại người Mô-áp, bắt chúng nằm rạp xuống đất và lấy dây đo : vua đo hai dây để giết và đủ một dây để cho sống. Người Mô-áp phải làm nô lệ cho vua Đa-vít và triều cống vua.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.916Z",
-      "updatedAt": "2024-09-23T03:55:48.916Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.287Z",
+      "updatedAt": "2025-04-22T03:50:37.287Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "e22ed7fa-ddcd-4cd1-a98d-959c493e083c",
+      "id": "750dd5bb-2a34-4cae-b8b4-479387c94d4e",
       "number": 3,
-      "content": "Vua [Đa-vít]() đánh bại vua nước [Xô-va]() là [Ha-đát-e-de](), con ông [Rơ-khốp](), khi vua này đi tái lập chủ quyền trên vùng Sông Cả.",
+      "content": "Vua Đa-vít đánh bại vua nước Xô-va là Ha-đát-e-de, con ông Rơ-khốp, khi vua này đi tái lập chủ quyền trên vùng Sông Cả.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.937Z",
-      "updatedAt": "2024-09-23T03:55:48.937Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.339Z",
+      "updatedAt": "2025-04-22T03:50:37.339Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "09036366-7c3a-4a7f-a837-a04114a81e5f",
+      "id": "fabf9132-dac2-4eeb-858e-86886d1967b5",
       "number": 4,
-      "content": "Vua [Đa-vít]() bắt được của vua ấy một ngàn bảy trăm kỵ binh và hai mươi ngàn bộ binh ; và vua [Đa-vít]() đã cắt gân chân tất cả những con ngựa kéo xe, chỉ chừa lại một trăm.",
+      "content": "Vua Đa-vít bắt được của vua ấy một ngàn bảy trăm kỵ binh và hai mươi ngàn bộ binh ; và vua Đa-vít đã cắt gân chân tất cả những con ngựa kéo xe, chỉ chừa lại một trăm.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.946Z",
-      "updatedAt": "2024-09-23T03:55:48.946Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.408Z",
+      "updatedAt": "2025-04-22T03:50:37.408Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "6b31acb6-2d1b-4ce3-af7c-8951a3b26f95",
+      "id": "614c01db-0179-426d-94f6-bdc5a9ef5cfd",
       "number": 5,
-      "content": "Người [A-ram]() ở [Đa-mát]() đến cứu viện [Ha-đát-e-de](), vua [Xô-va](), nhưng vua [Đa-vít]() đã hạ của [A-ram]() hai mươi ngàn người.",
+      "content": "Người A-ram ở Đa-mát đến cứu viện Ha-đát-e-de, vua Xô-va, nhưng vua Đa-vít đã hạ của A-ram hai mươi ngàn người.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.961Z",
-      "updatedAt": "2024-09-23T03:55:48.961Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.475Z",
+      "updatedAt": "2025-04-22T03:50:37.475Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
+      "id": "3fc49ef6-b908-4217-9531-279ee7f76260",
       "number": 6,
-      "content": "Vua [Đa-vít]() đặt những trấn thủ cai trị người [A-ram]() ở [Đa-mát]() ; người [A-ram]() phải làm nô lệ cho vua [Đa-vít]() và triều cống vua. [ĐỨC CHÚA]() đã cho vua [Đa-vít]() đi đâu thắng đó.",
+      "content": "Vua Đa-vít đặt những trấn thủ cai trị người A-ram ở Đa-mát ; người A-ram phải làm nô lệ cho vua Đa-vít và triều cống vua. ĐỨC CHÚA đã cho vua Đa-vít đi đâu thắng đó.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.965Z",
-      "updatedAt": "2024-09-23T03:55:48.965Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.530Z",
+      "updatedAt": "2025-04-22T03:50:37.530Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "b3ff6643-8419-46fc-97b2-50482bdff7af",
+      "id": "0af14c55-6fc0-48ca-b7c0-5995d6b3bec4",
       "number": 8,
-      "content": "Tại [Be-tác]() và [Bê-rô-thai](), các thành của vua [Ha-đát-e-de](), vua [Đa-vít]() đã lấy được rất nhiều đồng.",
+      "content": "Tại Be-tác và Bê-rô-thai, các thành của vua Ha-đát-e-de, vua Đa-vít đã lấy được rất nhiều đồng.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.979Z",
-      "updatedAt": "2024-09-23T03:55:48.979Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.622Z",
+      "updatedAt": "2025-04-22T03:50:37.622Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "484a065c-3312-4fd8-9dd1-626e214c3eae",
+      "id": "ec8af48a-dbf9-4289-89cc-ecb057470e57",
       "number": 9,
-      "content": "[Tô-i](), vua [Kha-mát](), nghe tin vua [Đa-vít]() đã đánh bại toàn thể quân đội vua [Ha-đát-e-de]().",
+      "content": "Tô-i, vua Kha-mát, nghe tin vua Đa-vít đã đánh bại toàn thể quân đội vua Ha-đát-e-de.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.984Z",
-      "updatedAt": "2024-09-23T03:55:48.984Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.695Z",
+      "updatedAt": "2025-04-22T03:50:37.695Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "b9513761-b608-441b-9476-12b4a9fa2566",
+      "id": "32840b02-6671-49bb-b426-66418bb263bf",
       "number": 11,
-      "content": "Các đồ ấy, vua [Đa-vít]() cũng đã thánh hiến cho [ĐỨC CHÚA](), cùng với bạc và vàng vua đã thánh hiến, bạc vàng của mọi dân tộc vua đã khuất phục,",
+      "content": "Các đồ ấy, vua Đa-vít cũng đã thánh hiến cho ĐỨC CHÚA, cùng với bạc và vàng vua đã thánh hiến, bạc vàng của mọi dân tộc vua đã khuất phục,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.989Z",
-      "updatedAt": "2024-09-23T03:55:48.989Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.761Z",
+      "updatedAt": "2025-04-22T03:50:37.761Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "ca48924b-36c7-440f-b6c9-14330e29eec2",
+      "id": "8a772f4a-3e4b-4101-9ca7-bb705143d13a",
       "number": 12,
-      "content": "là : [A-ram](), [Mô-áp](), con cái [Am-mon](), người [Phi-li-tinh]() và [A-ma-lếch](), cũng như từ chiến lợi phẩm thu được của vua [Xô-va]() là [Ha-đát-e-de](), con ông [Rơ-khốp]().",
+      "content": "là : A-ram, Mô-áp, con cái Am-mon, người Phi-li-tinh và A-ma-lếch, cũng như từ chiến lợi phẩm thu được của vua Xô-va là Ha-đát-e-de, con ông Rơ-khốp.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:48.999Z",
-      "updatedAt": "2024-09-23T03:55:48.999Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.821Z",
+      "updatedAt": "2025-04-22T03:50:37.821Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "c55555c7-2150-4b09-b6cb-e8caaa44bb4f",
+      "id": "daa71f59-dfa1-4f2d-a9f9-db5acd2b08a8",
       "number": 13,
-      "content": "Vua [Đa-vít]() làm cho danh mình lẫy lừng, lúc trở về sau khi đánh bại mười tám ngàn người [Ê-đôm]() trong thung lũng Muối.",
+      "content": "Vua Đa-vít làm cho danh mình lẫy lừng, lúc trở về sau khi đánh bại mười tám ngàn người Ê-đôm trong thung lũng Muối.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:49.004Z",
-      "updatedAt": "2024-09-23T03:55:49.004Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.879Z",
+      "updatedAt": "2025-04-22T03:50:37.879Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "005a55b5-8183-4d99-a9f8-b61b5a090307",
+      "id": "abbef298-a14b-4434-a12c-b6d26f8ccbb1",
       "number": 14,
-      "content": "Vua [Đa-vít]() đặt các trấn thủ tại [Ê-đôm]() ; vua đặt các trấn thủ trong toàn xứ [Ê-đôm](), và toàn dân [Ê-đôm]() phải làm nô lệ cho vua [Đa-vít](). [ĐỨC CHÚA]() đã cho vua [Đa-vít]() đi đâu thắng đó.",
+      "content": "Vua Đa-vít đặt các trấn thủ tại Ê-đôm ; vua đặt các trấn thủ trong toàn xứ Ê-đôm, và toàn dân Ê-đôm phải làm nô lệ cho vua Đa-vít. ĐỨC CHÚA đã cho vua Đa-vít đi đâu thắng đó.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:49.014Z",
-      "updatedAt": "2024-09-23T03:55:49.014Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.915Z",
+      "updatedAt": "2025-04-22T03:50:37.915Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "dd966d20-2be8-42d9-8dce-dfeba567f595",
+      "id": "39047b0b-1cbc-49a2-a3ad-feec62cbe623",
       "number": 15,
-      "content": "Vua [Đa-vít]() trị vì toàn thể [Ít-ra-en](). Vua [Đa-vít]() thực hiện điều chính trực công minh cho toàn dân.",
+      "content": "Vua Đa-vít trị vì toàn thể Ít-ra-en. Vua Đa-vít thực hiện điều chính trực công minh cho toàn dân.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:49.019Z",
-      "updatedAt": "2024-09-23T03:55:49.019Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.965Z",
+      "updatedAt": "2025-04-22T03:50:37.965Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "00e9a3a7-04db-4e9e-b846-434a2aa84768",
+      "id": "87a49ccc-3e92-4b45-bcf4-11e8f53c3559",
       "number": 16,
-      "content": "Ông [Giô-áp](), con bà [Xơ-ru-gia](), chỉ huy quân đội. Ông [Giơ-hô-sa-phát](), con ông [A-khi-lút](), làm quốc vụ khanh.",
+      "content": "Ông Giô-áp, con bà Xơ-ru-gia, chỉ huy quân đội. Ông Giơ-hô-sa-phát, con ông A-khi-lút, làm quốc vụ khanh.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:49.032Z",
-      "updatedAt": "2024-09-23T03:55:49.032Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:38.025Z",
+      "updatedAt": "2025-04-22T03:50:38.025Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "aba279c3-0a8f-46fe-b2b2-0801b210f249",
+      "id": "b42cc607-2ffd-4bab-831f-91cd4dbec2af",
       "number": 18,
-      "content": "Ông [Bơ-na-gia-hu](), con ông [Giơ-hô-gia-đa](), chỉ huy quân [Cơ-rê-thi]() và quân [Pơ-lê-thi](). Các con trai vua [Đa-vít]() làm tư tế.",
+      "content": "Ông Bơ-na-gia-hu, con ông Giơ-hô-gia-đa, chỉ huy quân Cơ-rê-thi và quân Pơ-lê-thi. Các con trai vua Đa-vít làm tư tế.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:55:49.041Z",
-      "updatedAt": "2024-09-23T03:55:49.041Z",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:38.066Z",
+      "updatedAt": "2025-04-22T03:50:38.066Z",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     }
   ],
   "footnotes": [
     {
-      "id": "9dc2dc75-8012-41f0-a982-70dbec9d8baf",
+      "id": "bf11955a-0032-4c8e-95fb-816cf74a7e3c",
       "content": "*Nước Xô-va* là vương quốc A-ram trên vùng núi Đối Li-băng, đối diện dãy núi Li-băng, đầu đàn các bộ tộc A-ram vùng đông bắc đất Pa-lét-tin thời vua Đa-vít. Cũng được nêu tên ở 10,6.8 ; 1 Sm 14,47 ; 1 V 11,23 ; Tv 60,2.",
-      "position": 134,
+      "position": 118,
       "order": 2,
-      "createdAt": "2024-09-23T03:55:48.941Z",
-      "updatedAt": "2024-09-23T03:55:48.941Z",
-      "verseId": "e22ed7fa-ddcd-4cd1-a98d-959c493e083c",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.395Z",
+      "updatedAt": "2025-04-22T03:50:37.395Z",
+      "verseId": "750dd5bb-2a34-4cae-b8b4-479387c94d4e",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "24a44215-e033-4676-accd-fbafab3a64e0",
+      "id": "84df2240-331b-45a9-853b-f9df8bc04578",
       "content": "Một trong những đặc điểm của truyền thống Ít-ra-en là chê ghét những chiến mã và kỵ binh, thường là sức mạnh quân lực các nước láng giềng (x. Xh 15,1 ; Đnl 17,16 ; Is 31,1 ; Hs 1,7 ; Mk 5,9 ; Tv 20,8 ; v.v.). Nhưng ở đây, vua Đa-vít có vẻ để dành lại cho mình một trăm con ngựa kéo xe còn nguyên vẹn trong số chiến lợi phẩm : phải chăng ông đã bắt đầu dùng xa mã ? X. 15,1. Thật ra, việc sử dụng xa mã, chiến xa, chỉ thịnh hành dưới thời vua Sa-lô-môn (1 V 10,26-29).",
-      "position": 87,
+      "position": 83,
       "order": 3,
-      "createdAt": "2024-09-23T03:55:48.951Z",
-      "updatedAt": "2024-09-23T03:55:48.951Z",
-      "verseId": "09036366-7c3a-4a7f-a837-a04114a81e5f",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.435Z",
+      "updatedAt": "2025-04-22T03:50:37.435Z",
+      "verseId": "fabf9132-dac2-4eeb-858e-86886d1967b5",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "632f2495-6086-4063-b187-1e51cd2902db",
+      "id": "e3dd7098-c46c-4c9c-84df-f6bbadb215ef",
       "content": "*Người Ê-đôm* (c.13) : theo một số bản HR, HL và XR ; cũng x. 1 Sb 18,12 ; Tv 60,2. M chép *người A-ram*. Vả lại c.14 nói đến *Ê-đôm* và *thung lũng Muối*, tức thung lũng A-ra-va, tiếp nối Biển Chết ở phía Nam. – *Sau khi đánh bại mười tám ngàn* : M bị hư hoại, được LT và 1 Sb 18,12 bổ sung. – C.14 : văn cường điệu cho thấy vua Đa-vít đã chinh phạt *toàn xứ Ê-đôm*. Sau này khi vua Đa-vít đã băng hà, Ê-đôm sẽ giành lại độc lập một thời gian (1 V 11,14-22.25b) trước khi bị các vua A-ma-xi-a và A-da-ri-a tái chiếm (2 V 14,7.22 ; cũng x. Am 9,12).",
       "position": 0,
       "order": 6,
-      "createdAt": "2024-09-23T03:55:49.009Z",
-      "updatedAt": "2024-09-23T03:55:49.009Z",
-      "verseId": "c55555c7-2150-4b09-b6cb-e8caaa44bb4f",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.890Z",
+      "updatedAt": "2025-04-22T03:50:37.890Z",
+      "verseId": "daa71f59-dfa1-4f2d-a9f9-db5acd2b08a8",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "f80fec7e-cc34-4aeb-8963-cef5e98f1a4b",
+      "id": "de465ae0-49cb-4f25-a94d-52b965afd97c",
       "content": "*Ông Giô-áp* : x. 2,13+.",
-      "position": 14,
+      "position": 10,
       "order": 7,
-      "createdAt": "2024-09-23T03:55:49.037Z",
-      "updatedAt": "2024-09-23T03:55:49.037Z",
-      "verseId": "00e9a3a7-04db-4e9e-b846-434a2aa84768",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:38.039Z",
+      "updatedAt": "2025-04-22T03:50:38.039Z",
+      "verseId": "87a49ccc-3e92-4b45-bcf4-11e8f53c3559",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "1d50ce9b-b34c-4475-900b-e1bdc70ed044",
+      "id": "4ca12028-1c40-414a-ba80-81a863807571",
       "content": "*Chỉ huy* : động từ được thêm vô M, theo các bản LT, AR và XR. – *Quân Cơ-rê-thi* : x. 1 Sm 30,14+. – *Pơ-lê-thi* có thể chỉ là một dạng khác của *Phi-li-tinh*. Cả hai loại người này là lính đánh thuê gốc Phi-li-tinh, làm cận vệ cho vua Đa-vít (x. 15,18 ; 20,7 ; 1 V 1,38.44). – *Các con trai vua Đa-vít làm tư tế* : hơi kỳ lạ, nhưng có thể là “giúp lễ”, “phó tế” bên cạnh vua, hoặc thay vua, vì vua cũng có những phần vụ trong phụng tự (x. 6,13-20). Nhưng 1 Sb 18,17 và vài bản dịch (HL, AR và XR) thì chỉ ghi những chức vụ “ngoài đời” của họ.",
-      "position": 137,
+      "position": 117,
       "order": 10,
-      "createdAt": "2024-09-23T03:55:49.046Z",
-      "updatedAt": "2024-09-23T03:55:49.046Z",
-      "verseId": "aba279c3-0a8f-46fe-b2b2-0801b210f249",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:38.106Z",
+      "updatedAt": "2025-04-22T03:50:38.106Z",
+      "verseId": "b42cc607-2ffd-4bab-831f-91cd4dbec2af",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "0fe3ffb6-81b0-49f6-8b34-b8183a898439",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 161,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.307Z",
+      "updatedAt": "2025-04-22T03:50:37.307Z",
+      "verseId": "458abe40-1edb-4763-9642-1e05b334192f",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "ce0a988e-2b6b-4941-bf6a-56ad02215931",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 10,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.350Z",
+      "updatedAt": "2025-04-22T03:50:37.350Z",
+      "verseId": "750dd5bb-2a34-4cae-b8b4-479387c94d4e",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "7fdc095a-6b9d-40cf-8ad7-6d2516d076ac",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 97,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.422Z",
+      "updatedAt": "2025-04-22T03:50:37.422Z",
+      "verseId": "fabf9132-dac2-4eeb-858e-86886d1967b5",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "14697b17-81ae-432d-86e7-0f2b0a721961",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 74,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.516Z",
+      "updatedAt": "2025-04-22T03:50:37.516Z",
+      "verseId": "614c01db-0179-426d-94f6-bdc5a9ef5cfd",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "bb29bf13-2379-423d-8b68-54225d070c38",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 148,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.543Z",
+      "updatedAt": "2025-04-22T03:50:37.543Z",
+      "verseId": "3fc49ef6-b908-4217-9531-279ee7f76260",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "c8e49baf-e640-4095-a4f0-3add720d6e51",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 67,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.682Z",
+      "updatedAt": "2025-04-22T03:50:37.682Z",
+      "verseId": "0af14c55-6fc0-48ca-b7c0-5995d6b3bec4",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "ed054cd2-b90b-4e72-9dfa-2f4f898c2e76",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 38,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.734Z",
+      "updatedAt": "2025-04-22T03:50:37.734Z",
+      "verseId": "ec8af48a-dbf9-4289-89cc-ecb057470e57",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "2e89a17a-9fd3-4b82-943f-680d80915d32",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 21,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.778Z",
+      "updatedAt": "2025-04-22T03:50:37.778Z",
+      "verseId": "32840b02-6671-49bb-b426-66418bb263bf",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "e3b159d8-5124-44ca-aef6-dac3c631b6f3",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 10,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.902Z",
+      "updatedAt": "2025-04-22T03:50:37.902Z",
+      "verseId": "daa71f59-dfa1-4f2d-a9f9-db5acd2b08a8",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "ee7fc72e-fa5d-462c-ab72-b2c9d637a84c",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 157,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.925Z",
+      "updatedAt": "2025-04-22T03:50:37.925Z",
+      "verseId": "abbef298-a14b-4434-a12c-b6d26f8ccbb1",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "541e610f-9c46-4a59-b4eb-a6ca3f144491",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 47,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:37.986Z",
+      "updatedAt": "2025-04-22T03:50:37.986Z",
+      "verseId": "39047b0b-1cbc-49a2-a3ad-feec62cbe623",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "3203cf9e-6d7f-415a-810a-3af77e3d8e2f",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 106,
+      "order": 11,
+      "createdAt": "2025-04-22T03:50:38.092Z",
+      "updatedAt": "2025-04-22T03:50:38.092Z",
+      "verseId": "b42cc607-2ffd-4bab-831f-91cd4dbec2af",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "b4771275-e466-4445-98e4-b1104d404daf",
+      "content": "English: Zobah - French: &#199;ova - Latin: Soba - Origin: &#1510;&#64331;&#1489;&#1464;&#1492; - Vietnamese: Xô-va 1 Sm 14,47",
+      "position": 34,
+      "order": 17,
+      "createdAt": "2025-04-22T03:50:37.362Z",
+      "updatedAt": "2025-04-22T03:50:37.362Z",
+      "verseId": "750dd5bb-2a34-4cae-b8b4-479387c94d4e",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "a0c10d6e-9054-409c-8957-94230cf0583a",
+      "content": "English: Zobah - French: &#199;ova - Latin: Soba - Origin: &#1510;&#64331;&#1489;&#1464;&#1492; - Vietnamese: Xô-va 1 Sm 14,47",
+      "position": 56,
+      "order": 17,
+      "createdAt": "2025-04-22T03:50:37.502Z",
+      "updatedAt": "2025-04-22T03:50:37.502Z",
+      "verseId": "614c01db-0179-426d-94f6-bdc5a9ef5cfd",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "680d412d-3481-493c-8bdc-b3ced6ae9644",
+      "content": "English: Zobah - French: &#199;ova - Latin: Soba - Origin: &#1510;&#64331;&#1489;&#1464;&#1492; - Vietnamese: Xô-va 1 Sm 14,47",
+      "position": 116,
+      "order": 17,
+      "createdAt": "2025-04-22T03:50:37.852Z",
+      "updatedAt": "2025-04-22T03:50:37.852Z",
+      "verseId": "8a772f4a-3e4b-4101-9ca7-bb705143d13a",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "e7930a6d-8931-4539-83df-82d9c096a70b",
+      "content": "English: Hadadezer - French: Hadadèzèr - Latin: Adadezer - Origin: &#1492;&#1458;&#1491;&#1463;&#1491;&#1456;&#1506;&#1462;&#1494;&#1462;&#1512; - Vietnamese: Ha-đát-e-de 2 Sm 8,3-6 ; 1 Sb 18,3-7",
+      "position": 49,
+      "order": 19,
+      "createdAt": "2025-04-22T03:50:37.375Z",
+      "updatedAt": "2025-04-22T03:50:37.375Z",
+      "verseId": "750dd5bb-2a34-4cae-b8b4-479387c94d4e",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "ce5e7036-799a-4648-87f4-eb824c5b1d68",
+      "content": "English: Hadadezer - French: Hadadèzèr - Latin: Adadezer - Origin: &#1492;&#1458;&#1491;&#1463;&#1491;&#1456;&#1506;&#1462;&#1494;&#1462;&#1512; - Vietnamese: Ha-đát-e-de 2 Sm 8,3-6 ; 1 Sb 18,3-7",
+      "position": 45,
+      "order": 19,
+      "createdAt": "2025-04-22T03:50:37.489Z",
+      "updatedAt": "2025-04-22T03:50:37.489Z",
+      "verseId": "614c01db-0179-426d-94f6-bdc5a9ef5cfd",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "658e2ad3-f218-4b9b-9d8a-a312afbbd34a",
+      "content": "English: Hadadezer - French: Hadadèzèr - Latin: Adadezer - Origin: &#1492;&#1458;&#1491;&#1463;&#1491;&#1456;&#1506;&#1462;&#1494;&#1462;&#1512; - Vietnamese: Ha-đát-e-de 2 Sm 8,3-6 ; 1 Sb 18,3-7",
+      "position": 55,
+      "order": 19,
+      "createdAt": "2025-04-22T03:50:37.668Z",
+      "updatedAt": "2025-04-22T03:50:37.668Z",
+      "verseId": "0af14c55-6fc0-48ca-b7c0-5995d6b3bec4",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "c73161b4-a108-407b-9ea7-fb0399f8657a",
+      "content": "English: Hadadezer - French: Hadadèzèr - Latin: Adadezer - Origin: &#1492;&#1458;&#1491;&#1463;&#1491;&#1456;&#1506;&#1462;&#1494;&#1462;&#1512; - Vietnamese: Ha-đát-e-de 2 Sm 8,3-6 ; 1 Sb 18,3-7",
+      "position": 84,
+      "order": 19,
+      "createdAt": "2025-04-22T03:50:37.748Z",
+      "updatedAt": "2025-04-22T03:50:37.748Z",
+      "verseId": "ec8af48a-dbf9-4289-89cc-ecb057470e57",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "f18ed8ee-0ec8-4abd-8e9f-8d2bd7e4899d",
+      "content": "English: Hadadezer - French: Hadadèzèr - Latin: Adadezer - Origin: &#1492;&#1458;&#1491;&#1463;&#1491;&#1456;&#1506;&#1462;&#1494;&#1462;&#1512; - Vietnamese: Ha-đát-e-de 2 Sm 8,3-6 ; 1 Sb 18,3-7",
+      "position": 131,
+      "order": 19,
+      "createdAt": "2025-04-22T03:50:37.867Z",
+      "updatedAt": "2025-04-22T03:50:37.867Z",
+      "verseId": "8a772f4a-3e4b-4101-9ca7-bb705143d13a",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "8aec1ba9-9f98-45bf-af1c-e4bbed87f605",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 130,
+      "order": 27,
+      "createdAt": "2025-04-22T03:50:37.570Z",
+      "updatedAt": "2025-04-22T03:50:37.570Z",
+      "verseId": "3fc49ef6-b908-4217-9531-279ee7f76260",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "6807f07c-e255-46f2-b8f0-82b747cc858c",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 53,
+      "order": 27,
+      "createdAt": "2025-04-22T03:50:37.792Z",
+      "updatedAt": "2025-04-22T03:50:37.792Z",
+      "verseId": "32840b02-6671-49bb-b426-66418bb263bf",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "aa2a276b-c34e-44d0-a6b2-6d0af9e7f29f",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 139,
+      "order": 27,
+      "createdAt": "2025-04-22T03:50:37.945Z",
+      "updatedAt": "2025-04-22T03:50:37.945Z",
+      "verseId": "abbef298-a14b-4434-a12c-b6d26f8ccbb1",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "3ec939d2-acc7-419a-b73e-c963a3bf0882",
+      "content": "English: Betah - French: Bètah - Latin: Tebah - Origin: &#64305;&#1462;&#1496;&#1463;&#1495; - Vietnamese: Be-tác 2 Sm 8,8",
+      "position": 10,
+      "order": 31,
+      "createdAt": "2025-04-22T03:50:37.638Z",
+      "updatedAt": "2025-04-22T03:50:37.638Z",
+      "verseId": "0af14c55-6fc0-48ca-b7c0-5995d6b3bec4",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "609debba-5fc9-4007-a483-62c0099d505b",
+      "content": "English: Berothai - French: Bérotai - Latin: Berotai - Origin: &#64305;&#1461;&#1512;&#1465;&#1514;&#1463;&#1497; - Vietnamese: Bê-rô-thai 2 Sm 8,8",
+      "position": 24,
+      "order": 33,
+      "createdAt": "2025-04-22T03:50:37.655Z",
+      "updatedAt": "2025-04-22T03:50:37.655Z",
+      "verseId": "0af14c55-6fc0-48ca-b7c0-5995d6b3bec4",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "25f2c7f9-85e1-4278-abba-4b9436417d76",
+      "content": "English: Tou - French: Toi - Latin: Thou - Origin: &#64330;&#1465;&#1506;&#1460;&#1497; - Vietnamese: Tô-i 2 Sm 8,9",
+      "position": 4,
+      "order": 35,
+      "createdAt": "2025-04-22T03:50:37.708Z",
+      "updatedAt": "2025-04-22T03:50:37.708Z",
+      "verseId": "ec8af48a-dbf9-4289-89cc-ecb057470e57",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "9f402c07-4113-4b8b-ab36-e90ccd750126",
+      "content": "English: Hamathites - French: Hamath, Hamatite - Latin: Emathaeus - Origin: &#1495;&#1458;&#1502;&#1463;&#1514; &#913;&#956;&#945;&#952;&#953;&#964;&#953;&#962; - Vietnamese: Kha-mát St 10,18 ; Am 6,2 ; 1 Mcb 12,25",
+      "position": 17,
+      "order": 37,
+      "createdAt": "2025-04-22T03:50:37.721Z",
+      "updatedAt": "2025-04-22T03:50:37.721Z",
+      "verseId": "ec8af48a-dbf9-4289-89cc-ecb057470e57",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "4dfbec9d-f0e0-4225-a1cf-cd825ae5cf7b",
+      "content": "English: Amalek - French: Amalécite, Amaleq - Latin: Amalec - Origin: &#1506;&#1458;&#1502;&#1464;&#1500;&#1461;&#1511; - Vietnamese: A-ma-lếch St 36,12.16",
+      "position": 65,
+      "order": 43,
+      "createdAt": "2025-04-22T03:50:37.835Z",
+      "updatedAt": "2025-04-22T03:50:37.835Z",
+      "verseId": "8a772f4a-3e4b-4101-9ca7-bb705143d13a",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "60bd169e-efd7-4575-9771-a58accbc61c2",
+      "content": "English: Zeruiah - French: Cerouya - Latin: Sarvia - Origin: &#1510;&#1456;&#1512;&#64309;&#1497;&#1464;&#1492; - Vietnamese: Xơ-ru-gia chị em với vua Đa-vít, 1 Sb 2,16",
+      "position": 28,
+      "order": 51,
+      "createdAt": "2025-04-22T03:50:38.053Z",
+      "updatedAt": "2025-04-22T03:50:38.053Z",
+      "verseId": "87a49ccc-3e92-4b45-bcf4-11e8f53c3559",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
+    },
+    {
+      "id": "2916e577-2711-4d26-be7c-162b9b0897a3",
+      "content": "English: Pelethites - French: Pelétiens - Latin: Phelethi - Origin: &#64324;&#1456;&#1500;&#1461;&#1514;&#1460;&#1497; - Vietnamese: Pơ-lê-thi 2 Sm 15,18 ; 1 V 1,38.44",
+      "position": 81,
+      "order": 73,
+      "createdAt": "2025-04-22T03:50:38.079Z",
+      "updatedAt": "2025-04-22T03:50:38.079Z",
+      "verseId": "b42cc607-2ffd-4bab-831f-91cd4dbec2af",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     }
   ],
   "headings": [
     {
-      "id": "6341c420-7b72-4f48-93f4-67cbe7df0305",
+      "id": "c0e2cf67-888e-4e8d-9aa1-81ce6a9e4492",
       "content": "Việc cai trị vương quốc",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:55:49.023Z",
-      "updatedAt": "2024-09-23T03:55:49.023Z",
-      "verseId": "dd966d20-2be8-42d9-8dce-dfeba567f595",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.975Z",
+      "updatedAt": "2025-04-22T03:50:37.975Z",
+      "verseId": "39047b0b-1cbc-49a2-a3ad-feec62cbe623",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     }
   ],
   "references": [
     {
-      "id": "698227ea-11c6-488a-92c3-59c77c02f9a2",
+      "id": "a0d53b80-768d-4712-bc43-589f35b65b27",
       "content": "2 Sm 23,20",
       "position": 19,
       "order": 1,
-      "createdAt": "2024-09-23T03:55:48.927Z",
-      "updatedAt": "2024-09-23T03:55:48.927Z",
-      "verseId": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.318Z",
+      "updatedAt": "2025-04-22T03:50:37.318Z",
+      "verseId": "458abe40-1edb-4763-9642-1e05b334192f",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "5b0ad25d-7d45-43c9-8581-0690a5ee2405",
+      "id": "9985f31a-5832-4a3f-9a08-de3a43eab597",
       "content": "1 V 5,1",
-      "position": 177,
+      "position": 165,
       "order": 2,
-      "createdAt": "2024-09-23T03:55:48.932Z",
-      "updatedAt": "2024-09-23T03:55:48.932Z",
-      "verseId": "c40d4aac-6c48-4a57-a9b9-d6c642cc186d",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.328Z",
+      "updatedAt": "2025-04-22T03:50:37.328Z",
+      "verseId": "458abe40-1edb-4763-9642-1e05b334192f",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "76159dc8-856a-4fb9-98ad-084b20f5bc89",
+      "id": "7c63a248-38e5-4191-bcf1-769243e5e94a",
       "content": "Gs 11,6.9; 10,18",
-      "position": 109,
+      "position": 101,
       "order": 3,
-      "createdAt": "2024-09-23T03:55:48.956Z",
-      "updatedAt": "2024-09-23T03:55:48.956Z",
-      "verseId": "09036366-7c3a-4a7f-a837-a04114a81e5f",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.462Z",
+      "updatedAt": "2025-04-22T03:50:37.462Z",
+      "verseId": "fabf9132-dac2-4eeb-858e-86886d1967b5",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "02790a90-03db-419b-b764-09236495f24c",
+      "id": "4e98462f-d43e-4256-98a6-66bb33019253",
       "content": "1 Sm 10,5",
-      "position": 25,
+      "position": 21,
       "order": 4,
-      "createdAt": "2024-09-23T03:55:48.970Z",
-      "updatedAt": "2024-09-23T03:55:48.970Z",
-      "verseId": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.596Z",
+      "updatedAt": "2025-04-22T03:50:37.596Z",
+      "verseId": "3fc49ef6-b908-4217-9531-279ee7f76260",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "b8d29107-cd76-4500-b202-0bf23605f561",
+      "id": "fd5ee6bc-df81-4d76-90b0-abfb00877068",
       "content": "2 Sm 7,1; 8,14",
-      "position": 184,
+      "position": 156,
       "order": 5,
-      "createdAt": "2024-09-23T03:55:48.975Z",
-      "updatedAt": "2024-09-23T03:55:48.975Z",
-      "verseId": "ee378411-eb2c-4ab1-8216-51cd67902dc6",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.609Z",
+      "updatedAt": "2025-04-22T03:50:37.609Z",
+      "verseId": "3fc49ef6-b908-4217-9531-279ee7f76260",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "a7bbcf52-31fd-461e-bd38-08bffc15c690",
+      "id": "9e10559d-8d8c-4c2d-bf9a-0737f70dd07a",
       "content": "2 V 12,19",
-      "position": 34,
+      "position": 30,
       "order": 6,
-      "createdAt": "2024-09-23T03:55:48.994Z",
-      "updatedAt": "2024-09-23T03:55:48.994Z",
-      "verseId": "b9513761-b608-441b-9476-12b4a9fa2566",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:37.808Z",
+      "updatedAt": "2025-04-22T03:50:37.808Z",
+      "verseId": "32840b02-6671-49bb-b426-66418bb263bf",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     },
     {
-      "id": "bf329e92-6bd6-4a50-b950-01d562ff14c1",
+      "id": "845c9f8d-fcae-45f7-bfe8-b9ad93e6c177",
       "content": "1 V 3,28; 10,9",
-      "position": 75,
+      "position": 63,
       "order": 7,
-      "createdAt": "2024-09-23T03:55:49.028Z",
-      "updatedAt": "2024-09-23T03:55:49.028Z",
-      "verseId": "dd966d20-2be8-42d9-8dce-dfeba567f595",
-      "chapterId": "d8b23b49-0ec5-4014-b0f1-b44f68684275"
+      "createdAt": "2025-04-22T03:50:38.011Z",
+      "updatedAt": "2025-04-22T03:50:38.011Z",
+      "verseId": "39047b0b-1cbc-49a2-a3ad-feec62cbe623",
+      "chapterId": "5f96e504-a6d5-47b4-9228-ed7ed0056448"
     }
   ],
   "psalmMetadata": []

@@ -1,373 +1,474 @@
 {
   "chapter": {
-    "id": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7",
+    "id": "698b88ce-0529-4d38-ae28-b803ab896fdb",
     "number": 1,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.329Z",
-    "updatedAt": "2024-09-23T03:08:02.329Z",
-    "bookId": "63f76389-534a-44a9-81bb-f4622ffe32a2"
+    "createdAt": "2025-04-22T00:48:30.941Z",
+    "updatedAt": "2025-04-22T00:48:30.941Z",
+    "bookId": "1fde71b7-11f7-4879-87f5-cf907a4ed6f2"
   },
   "verses": [
     {
-      "id": "2a79e45c-ffca-48f1-8b59-ca38121e16a8",
+      "id": "f3b036fc-33c4-4e81-ac11-475e5e9220aa",
       "number": 1,
-      "content": "Sau khi vua [A-kháp]() qua đời, [Mô-áp]() nổi loạn chống [Ít-ra-en]().",
+      "content": "Sau khi vua A-kháp qua đời, Mô-áp nổi loạn chống Ít-ra-en.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.934Z",
-      "updatedAt": "2024-09-23T04:00:01.934Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.813Z",
+      "updatedAt": "2025-04-22T04:05:23.813Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "218cd2e3-93cf-4d70-9772-b7c729eab657",
+      "id": "68d506b1-d07b-4339-b050-fab96edb2e4c",
       "number": 2,
-      "content": "Vua [A-khát-gia]() ngã xuống từ lan can phòng trên của lầu vua ở [Sa-ma-ri](), nên bị đau ốm. Vua sai sứ giả đi và bảo họ : “Các ngươi hãy đi thỉnh ý [Ba-an Dơ-vúp](), thần của [Éc-rôn](), để xem ta có thể qua khỏi cơn bệnh này không ?”",
+      "content": "Vua A-khát-gia ngã xuống từ lan can phòng trên của lầu vua ở Sa-ma-ri, nên bị đau ốm. Vua sai sứ giả đi và bảo họ : “Các ngươi hãy đi thỉnh ý Ba-an Dơ-vúp, thần của Éc-rôn, để xem ta có thể qua khỏi cơn bệnh này không ?”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.945Z",
-      "updatedAt": "2024-09-23T04:00:01.945Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.870Z",
+      "updatedAt": "2025-04-22T04:05:23.870Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "fc8f6ee7-efe4-4c03-807d-3d9266ac9530",
+      "id": "a5aa5843-27e9-43d9-a96d-82dc23804f75",
       "number": 3,
-      "content": "Nhưng sứ giả của [ĐỨC CHÚA]() nói với ông [Ê-li-a]() người [Tít-be]() : “Hãy trỗi dậy, lên gặp các sứ giả của vua [Sa-ma-ri](), và bảo họ : Ở [Ít-ra-en]() không có Thiên Chúa hay sao, mà các anh lại đi thỉnh ý [Ba-an Dơ-vúp](), thần của [Éc-rôn]() ?",
+      "content": "Nhưng sứ giả của ĐỨC CHÚA nói với ông Ê-li-a người Tít-be : “Hãy trỗi dậy, lên gặp các sứ giả của vua Sa-ma-ri, và bảo họ : Ở Ít-ra-en không có Thiên Chúa hay sao, mà các anh lại đi thỉnh ý Ba-an Dơ-vúp, thần của Éc-rôn ?",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.952Z",
-      "updatedAt": "2024-09-23T04:00:01.952Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.913Z",
+      "updatedAt": "2025-04-22T04:05:23.913Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "93be0f1a-0981-4013-a729-16f25bce5114",
+      "id": "f10f7189-d825-4546-a807-77dc08d2d80b",
       "number": 4,
-      "content": "Vì thế [ĐỨC CHÚA]() phán thế này : Ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết.” Rồi ông [Ê-li-a]() đi khỏi đó.",
+      "content": "Vì thế ĐỨC CHÚA phán thế này : Ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết.” Rồi ông Ê-li-a đi khỏi đó.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.957Z",
-      "updatedAt": "2024-09-23T04:00:01.957Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.948Z",
+      "updatedAt": "2025-04-22T04:05:23.948Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "0eb7b496-a066-43af-8dd4-9cbfbad07f23",
+      "id": "308b8826-f327-41c9-8745-d469bb3a9242",
       "number": 5,
       "content": "Các sứ giả trở về với vua. Vua bảo họ : “Sao các ngươi lại trở về ?”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.961Z",
-      "updatedAt": "2024-09-23T04:00:01.961Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.975Z",
+      "updatedAt": "2025-04-22T04:05:23.975Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "3f06a45d-5e74-474b-b4d8-fa3d93787052",
+      "id": "462e8e35-662d-46d1-8b03-31e17cecebca",
       "number": 6,
-      "content": "Họ đáp : “Một người đã lên gặp chúng tôi và nói với chúng tôi : Hãy đi về với ông vua đã sai các anh đi và thưa với vua : [ĐỨC CHÚA]() phán thế này : Ở [Ít-ra-en]() không có Thiên Chúa hay sao, mà ngươi lại sai sứ giả đi thỉnh ý [Ba-an Dơ-vúp](), thần của [Éc-rôn]() ? Vì thế, ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết.”",
+      "content": "Họ đáp : “Một người đã lên gặp chúng tôi và nói với chúng tôi : Hãy đi về với ông vua đã sai các anh đi và thưa với vua : ĐỨC CHÚA phán thế này : Ở Ít-ra-en không có Thiên Chúa hay sao, mà ngươi lại sai sứ giả đi thỉnh ý Ba-an Dơ-vúp, thần của Éc-rôn ? Vì thế, ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.965Z",
-      "updatedAt": "2024-09-23T04:00:01.965Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.988Z",
+      "updatedAt": "2025-04-22T04:05:23.988Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "8ab44332-f169-463a-96c8-30a2e6aba6cf",
+      "id": "59c04f1e-9213-4479-a4dd-93999a20d959",
       "number": 7,
       "content": "Vua hỏi họ : “Người đã lên gặp các ngươi và nói với các ngươi những lời đó, ăn mặc thế nào ?”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.970Z",
-      "updatedAt": "2024-09-23T04:00:01.970Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.034Z",
+      "updatedAt": "2025-04-22T04:05:24.034Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "fd6aafea-2541-48ef-a2f1-57f30c979e58",
+      "id": "267b1edc-6378-4e64-8008-34df73dea3ae",
       "number": 8,
-      "content": "Họ trả lời : “Đó là một người mặc áo da lông, đóng khố da.” Vua nói : “Đó là ông [Ê-li-a]() người [Tít-be]() !”",
+      "content": "Họ trả lời : “Đó là một người mặc áo da lông, đóng khố da.” Vua nói : “Đó là ông Ê-li-a người Tít-be !”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.978Z",
-      "updatedAt": "2024-09-23T04:00:01.978Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.061Z",
+      "updatedAt": "2025-04-22T04:05:24.061Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "99b0f923-e48c-480b-bd8c-67f7fe76ab59",
+      "id": "0ab6fba0-e304-485b-a476-d7b5bbdee8c8",
       "number": 9,
-      "content": "Vua sai một sĩ quan chỉ huy năm mươi quân đem theo năm mươi quân của mình đến với ông [Ê-li-a](). Viên sĩ quan này đi lên với ông [Ê-li-a]() đang ngồi trên đỉnh núi. Viên sĩ quan thưa ông [Ê-li-a]() : “Hỡi người của Thiên Chúa, vua bảo : [Xin]() mời ông xuống !”",
+      "content": "Vua sai một sĩ quan chỉ huy năm mươi quân đem theo năm mươi quân của mình đến với ông Ê-li-a. Viên sĩ quan này đi lên với ông Ê-li-a đang ngồi trên đỉnh núi. Viên sĩ quan thưa ông Ê-li-a : “Hỡi người của Thiên Chúa, vua bảo : Xin mời ông xuống !”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.986Z",
-      "updatedAt": "2024-09-23T04:00:01.986Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.087Z",
+      "updatedAt": "2025-04-22T04:05:24.087Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "c0bbaeb7-977e-464e-b2df-1825447b1f05",
+      "id": "f2d8b7ad-a8e4-4a2b-8260-5f8ac6614674",
       "number": 10,
-      "content": "Ông [Ê-li-a]() trả lời sĩ quan chỉ huy năm mươi quân : “Nếu ta là người của Thiên Chúa, thì chớ gì một ngọn lửa từ trời xuống thiêu đốt ngươi và năm mươi quân của ngươi !” Một ngọn lửa từ trời liền xuống thiêu đốt viên sĩ quan và năm mươi quân của ông.",
+      "content": "Ông Ê-li-a trả lời sĩ quan chỉ huy năm mươi quân : “Nếu ta là người của Thiên Chúa, thì chớ gì một ngọn lửa từ trời xuống thiêu đốt ngươi và năm mươi quân của ngươi !” Một ngọn lửa từ trời liền xuống thiêu đốt viên sĩ quan và năm mươi quân của ông.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:01.999Z",
-      "updatedAt": "2024-09-23T04:00:01.999Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.128Z",
+      "updatedAt": "2025-04-22T04:05:24.128Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "fa057eee-9b8f-42c0-864f-08c279887d9d",
+      "id": "540a564d-35b0-459d-bbe7-b281733950f0",
       "number": 11,
-      "content": "Vua lại sai một sĩ quan khác chỉ huy năm mươi quân đem năm mươi quân của mình đến với ông [Ê-li-a](). Viên sĩ quan đó lên tiếng nói : “Hỡi người của Thiên Chúa, vua nói thế này : [Xin]() ông xuống mau !”",
+      "content": "Vua lại sai một sĩ quan khác chỉ huy năm mươi quân đem năm mươi quân của mình đến với ông Ê-li-a. Viên sĩ quan đó lên tiếng nói : “Hỡi người của Thiên Chúa, vua nói thế này : Xin ông xuống mau !”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.008Z",
-      "updatedAt": "2024-09-23T04:00:02.008Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.155Z",
+      "updatedAt": "2025-04-22T04:05:24.155Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "48a80602-d95d-4f3b-930c-758f7aa4dd16",
+      "id": "2b3fad4d-3573-4694-a23d-a6992934ec32",
       "number": 12,
-      "content": "Ông [Ê-li-a]() trả lời họ : “Nếu ta là người của Thiên Chúa, thì chớ gì một ngọn lửa từ trời xuống thiêu đốt ngươi và năm mươi quân của ngươi !” Một ngọn lửa từ trời liền xuống thiêu đốt viên sĩ quan và năm mươi người của ông.",
+      "content": "Ông Ê-li-a trả lời họ : “Nếu ta là người của Thiên Chúa, thì chớ gì một ngọn lửa từ trời xuống thiêu đốt ngươi và năm mươi quân của ngươi !” Một ngọn lửa từ trời liền xuống thiêu đốt viên sĩ quan và năm mươi người của ông.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.013Z",
-      "updatedAt": "2024-09-23T04:00:02.013Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.169Z",
+      "updatedAt": "2025-04-22T04:05:24.169Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "d439386f-c1b2-4840-89c6-1b060117f421",
+      "id": "372817c1-78a7-4878-81f8-44ee5f27c054",
       "number": 13,
-      "content": "Vua lại sai viên sĩ quan thứ ba chỉ huy năm mươi quân đem theo năm mươi quân của mình. Viên sĩ quan thứ ba đi lên, và khi đến nơi, thì quỳ gối trước mặt ông [Ê-li-a]() và khẩn nài : “Hỡi người của Thiên Chúa, ước gì mạng tôi và mạng của năm mươi tôi tớ ngài đây được coi là quý trước mắt ngài !",
+      "content": "Vua lại sai viên sĩ quan thứ ba chỉ huy năm mươi quân đem theo năm mươi quân của mình. Viên sĩ quan thứ ba đi lên, và khi đến nơi, thì quỳ gối trước mặt ông Ê-li-a và khẩn nài : “Hỡi người của Thiên Chúa, ước gì mạng tôi và mạng của năm mươi tôi tớ ngài đây được coi là quý trước mắt ngài !",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.022Z",
-      "updatedAt": "2024-09-23T04:00:02.022Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.196Z",
+      "updatedAt": "2025-04-22T04:05:24.196Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "14ec68f1-88e5-4adf-82e7-b694b7611ae8",
+      "id": "f2d4cffc-e58a-4e86-ab17-cf4cfc61ca4f",
       "number": 14,
       "content": "Một ngọn lửa đã từ trời xuống thiêu đốt hai sĩ quan trước, mỗi người cùng với năm mươi quân của họ. Nhưng bây giờ, ước gì mạng tôi được coi là quý trước mắt ngài !”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.026Z",
-      "updatedAt": "2024-09-23T04:00:02.026Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.209Z",
+      "updatedAt": "2025-04-22T04:05:24.209Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "93eef5be-512c-4dc6-987d-95d905f777c7",
+      "id": "8621057b-36f1-4b22-a88c-8756a4869322",
       "number": 15,
-      "content": "Sứ giả của [ĐỨC CHÚA]() nói với ông [Ê-li-a]() : “Hãy xuống với người này, đừng sợ gì nó !” Ông trỗi dậy, cùng với viên sĩ quan xuống gặp vua.",
+      "content": "Sứ giả của ĐỨC CHÚA nói với ông Ê-li-a : “Hãy xuống với người này, đừng sợ gì nó !” Ông trỗi dậy, cùng với viên sĩ quan xuống gặp vua.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.033Z",
-      "updatedAt": "2024-09-23T04:00:02.033Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.224Z",
+      "updatedAt": "2025-04-22T04:05:24.224Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "0d11a1b1-dde1-471b-84a7-e958cd853aa1",
+      "id": "82944f67-e46b-4a40-b30a-35c313a3a299",
       "number": 16,
-      "content": "Ông [Ê-li-a]() nói với vua : “[ĐỨC CHÚA]() phán thế này : Vì ngươi đã sai sứ giả đi thỉnh ý [Ba-an Dơ-vúp](), thần của [Éc-rôn](), –ở [Ít-ra-en]() không có Thiên Chúa hay sao, mà lại đi thỉnh lời sấm của nó ?–, nên ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết !”",
+      "content": "Ông Ê-li-a nói với vua : “ĐỨC CHÚA phán thế này : Vì ngươi đã sai sứ giả đi thỉnh ý Ba-an Dơ-vúp, thần của Éc-rôn, –ở Ít-ra-en không có Thiên Chúa hay sao, mà lại đi thỉnh lời sấm của nó ?–, nên ngươi sẽ không xuống khỏi giường mà ngươi đã lên nằm, vì thế nào ngươi cũng chết !”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.042Z",
-      "updatedAt": "2024-09-23T04:00:02.042Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.267Z",
+      "updatedAt": "2025-04-22T04:05:24.267Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "6b610f04-1257-4e96-bee1-d77b5b4c7906",
+      "id": "3174fc92-3b66-4625-8405-5135abbe0041",
       "number": 17,
-      "content": "Vua đã chết, như lời của [ĐỨC CHÚA]() mà ông [Ê-li-a]() đã truyền lại. Vì vua [A-khát-gia]() không có con, nên ông [Giô-ram]() lên ngôi kế vị, vào năm thứ hai triều vua [Giô-ram](), con ông [Giơ-hô-sa-phát](), vua [Giu-đa]().",
+      "content": "Vua đã chết, như lời của ĐỨC CHÚA mà ông Ê-li-a đã truyền lại. Vì vua A-khát-gia không có con, nên ông Giô-ram lên ngôi kế vị, vào năm thứ hai triều vua Giô-ram, con ông Giơ-hô-sa-phát, vua Giu-đa.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.051Z",
-      "updatedAt": "2024-09-23T04:00:02.051Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.323Z",
+      "updatedAt": "2025-04-22T04:05:24.323Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "050c4063-5f2f-4857-b25c-ce61ae53c5b4",
+      "id": "6904108f-3642-49c0-91c3-fb8ad3e03825",
       "number": 18,
-      "content": "Các truyện còn lại của vua [A-khát-gia](), những gì vua làm, đã chẳng được ghi trong sách Sử biên niên các vua [Ít-ra-en]() đó sao ?",
+      "content": "Các truyện còn lại của vua A-khát-gia, những gì vua làm, đã chẳng được ghi trong sách Sử biên niên các vua Ít-ra-en đó sao ?",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:00:02.059Z",
-      "updatedAt": "2024-09-23T04:00:02.059Z",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.358Z",
+      "updatedAt": "2025-04-22T04:05:24.358Z",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     }
   ],
   "footnotes": [
     {
-      "id": "c59261e3-edb4-44b1-aed6-01703554e057",
+      "id": "18f2afdf-944d-422b-8d17-b44509a62db6",
       "content": "X. 2 V 3,4-27.",
-      "position": 69,
+      "position": 57,
       "order": 0,
-      "createdAt": "2024-09-23T04:00:01.939Z",
-      "updatedAt": "2024-09-23T04:00:01.939Z",
-      "verseId": "2a79e45c-ffca-48f1-8b59-ca38121e16a8",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.847Z",
+      "updatedAt": "2025-04-22T04:05:23.847Z",
+      "verseId": "f3b036fc-33c4-4e81-ac11-475e5e9220aa",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "86f2d89f-4ed1-47f0-99cc-12b8961a69d7",
+      "id": "e90034c0-8ce7-4811-9416-eb0031e1fa86",
       "content": "*Ba-an Dơ-vúp* : cách nói trại có ý khinh miệt thần Ba-an Dơ-vun của người Ca-na-an (x. Mt 12,24 ; Mc 2,22).",
-      "position": 166,
+      "position": 154,
       "order": 1,
-      "createdAt": "2024-09-23T04:00:01.947Z",
-      "updatedAt": "2024-09-23T04:00:01.947Z",
-      "verseId": "218cd2e3-93cf-4d70-9772-b7c729eab657",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.891Z",
+      "updatedAt": "2025-04-22T04:05:23.891Z",
+      "verseId": "68d506b1-d07b-4339-b050-fab96edb2e4c",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "d9fbddfb-f781-4cb6-abd5-d882b09fb724",
+      "id": "91c5f9c8-4f11-43d7-8cae-43722d799756",
       "content": "*Éc-rôn* : một thành của người Phi-li-tinh cách Gióp-pê khoảng 24 km về phía nam (x. Gs 13,3). Dân Éc-rôn rất sùng kính thần Ba-an Dơ-vun ; nơi đây có lẽ có một đền thờ kính thần Ba-an Dơ-vun.",
-      "position": 187,
+      "position": 171,
       "order": 2,
-      "createdAt": "2024-09-23T04:00:01.949Z",
-      "updatedAt": "2024-09-23T04:00:01.949Z",
-      "verseId": "218cd2e3-93cf-4d70-9772-b7c729eab657",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.902Z",
+      "updatedAt": "2025-04-22T04:05:23.902Z",
+      "verseId": "68d506b1-d07b-4339-b050-fab96edb2e4c",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "d9a347ee-c05f-4b78-a14d-5c9938a7078d",
+      "id": "2b0d1ba7-5417-422f-beb9-fbfa4d8c3f7f",
       "content": "ds : *Có dáng dấp thế nào* ?",
       "position": 90,
       "order": 3,
-      "createdAt": "2024-09-23T04:00:01.974Z",
-      "updatedAt": "2024-09-23T04:00:01.974Z",
-      "verseId": "8ab44332-f169-463a-96c8-30a2e6aba6cf",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.048Z",
+      "updatedAt": "2025-04-22T04:05:24.048Z",
+      "verseId": "59c04f1e-9213-4479-a4dd-93999a20d959",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "54ae7c15-0372-4320-a4c3-ea364dd45da2",
+      "id": "f0f924d2-456d-4845-b0f1-24fe2624ecee",
       "content": "Đây là cách ăn mặc đặc biệt của các ngôn sứ. Qua cách ăn mặc và lời sấm báo điều tai hoạ, vua A-khát-gia nhận ra đó chính là ngôn sứ Ê-li-a (x. Dcr 13,4 ; Mt 3,4).",
       "position": 57,
       "order": 4,
-      "createdAt": "2024-09-23T04:00:01.982Z",
-      "updatedAt": "2024-09-23T04:00:01.982Z",
-      "verseId": "fd6aafea-2541-48ef-a2f1-57f30c979e58",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.074Z",
+      "updatedAt": "2025-04-22T04:05:24.074Z",
+      "verseId": "267b1edc-6378-4e64-8008-34df73dea3ae",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "6d273cf8-003f-45e0-a4f2-ecb2ce20d99d",
+      "id": "186d2db9-862e-4cd5-b6b5-7548206ef67a",
       "content": "ds : *Một sĩ quan của năm mươi và năm mươi người của ông*. Cách nói tương đương : một thiếu uý (hoặc trung uý) dẫn theo một trung đội đến với ông Ê-li-a.",
       "position": 73,
       "order": 5,
-      "createdAt": "2024-09-23T04:00:01.991Z",
-      "updatedAt": "2024-09-23T04:00:01.991Z",
-      "verseId": "99b0f923-e48c-480b-bd8c-67f7fe76ab59",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.101Z",
+      "updatedAt": "2025-04-22T04:05:24.101Z",
+      "verseId": "0ab6fba0-e304-485b-a476-d7b5bbdee8c8",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "20284c96-419d-47a4-91ae-f856221ab994",
+      "id": "3fb9642a-57b2-42a5-bee7-859401fe9b6c",
       "content": "*Người của Thiên Chúa* là vị được Thiên Chúa sai phái và nhận được quyền năng của Thiên Chúa để hành động theo ý Người (x. Đnl 33,1 ; 1 Sm 2,27 ; 9,6-8 ; 1 V 12,22).",
-      "position": 226,
+      "position": 214,
       "order": 6,
-      "createdAt": "2024-09-23T04:00:01.995Z",
-      "updatedAt": "2024-09-23T04:00:01.995Z",
-      "verseId": "99b0f923-e48c-480b-bd8c-67f7fe76ab59",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.114Z",
+      "updatedAt": "2025-04-22T04:05:24.114Z",
+      "verseId": "0ab6fba0-e304-485b-a476-d7b5bbdee8c8",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "e48748d7-231c-41fd-8ac2-a14aec308848",
+      "id": "cb5722bd-e6e1-4fc5-9e5a-77496d183970",
       "content": "Việc huỷ diệt hai viên sĩ quan và hai toán quân một trăm người do người của Thiên Chúa, đã làm cho nhiều nhà chú giải lúng túng. Tuy nhiên điều này cho thấy Ê-li-a đúng là vị ngôn sứ thật của Thiên Chúa ; và trong cái nhìn của các tác giả thuộc truyền thống đệ nhị luật, thì sự huỷ diệt tập thể này cũng như cái chết của vua A-khát-gia là hình phạt cho việc phản bội Thiên Chúa, để chạy theo các thần ngoại của con dân và vua quan Ít-ra-en.",
-      "position": 225,
+      "position": 221,
       "order": 7,
-      "createdAt": "2024-09-23T04:00:02.017Z",
-      "updatedAt": "2024-09-23T04:00:02.017Z",
-      "verseId": "48a80602-d95d-4f3b-930c-758f7aa4dd16",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.183Z",
+      "updatedAt": "2025-04-22T04:05:24.183Z",
+      "verseId": "2b3fad4d-3573-4694-a23d-a6992934ec32",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "4315d6ef-dea3-4ca3-85bc-ab6269f06d2a",
+      "id": "282b72bb-8e0c-4dba-ab22-b31e6c9f3b91",
       "content": "LXX : *Đừng sợ gì chúng*. Tướng tá quân đội được sai đến có lẽ là để hãm hại ông Ê-li-a, nhưng sau hai tai hoạ, thái độ của họ có lẽ đã khác, không còn gì đáng sợ !",
-      "position": 88,
+      "position": 80,
       "order": 8,
-      "createdAt": "2024-09-23T04:00:02.038Z",
-      "updatedAt": "2024-09-23T04:00:02.038Z",
-      "verseId": "93eef5be-512c-4dc6-987d-95d905f777c7",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.251Z",
+      "updatedAt": "2025-04-22T04:05:24.251Z",
+      "verseId": "8621057b-36f1-4b22-a88c-8756a4869322",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "c1fb491a-631b-43c5-8bfc-5f8b3ad7faba",
+      "id": "59ed5b53-8bc2-43e1-952a-8bf09f2dc02f",
       "content": "*Vì người ... Éc-rôn* : \\[LXX]. Câu hỏi này cho thấy rõ sứ mạng của ngôn sứ Ê-li-a : chống lại việc Ít-ra-en tôn thờ các vị thần của các nước khác.",
-      "position": 209,
+      "position": 189,
       "order": 9,
-      "createdAt": "2024-09-23T04:00:02.047Z",
-      "updatedAt": "2024-09-23T04:00:02.047Z",
-      "verseId": "0d11a1b1-dde1-471b-84a7-e958cd853aa1",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.310Z",
+      "updatedAt": "2025-04-22T04:05:24.310Z",
+      "verseId": "82944f67-e46b-4a40-b30a-35c313a3a299",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "f4c55b72-9ea4-4f79-8c48-fc32174b24e4",
+      "id": "0576852d-84de-477d-9ded-7b952764bb2c",
       "content": "Có Db thêm : *Người anh em của ông* (x. 3,1).",
-      "position": 126,
+      "position": 110,
       "order": 10,
-      "createdAt": "2024-09-23T04:00:02.055Z",
-      "updatedAt": "2024-09-23T04:00:02.055Z",
-      "verseId": "6b610f04-1257-4e96-bee1-d77b5b4c7906",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.345Z",
+      "updatedAt": "2025-04-22T04:05:24.345Z",
+      "verseId": "3174fc92-3b66-4625-8405-5135abbe0041",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "da425413-0803-4ceb-8d2a-106651b8f1ff",
+      "content": "English: Baal-Zebub - French: Baal-zeboub - Latin: Beelzebub - Origin: &#64305;&#1463;&#1506;&#1463;&#1500; &#1494;&#1456;&#1489;&#64309;&#1489; - Vietnamese: Ba-an Dơ-vúp 2 V 1,2-6.16",
+      "position": 154,
+      "order": 21,
+      "createdAt": "2025-04-22T04:05:23.881Z",
+      "updatedAt": "2025-04-22T04:05:23.881Z",
+      "verseId": "68d506b1-d07b-4339-b050-fab96edb2e4c",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "2236793f-b51a-4013-9b20-495cca460758",
+      "content": "English: Baal-Zebub - French: Baal-zeboub - Latin: Beelzebub - Origin: &#64305;&#1463;&#1506;&#1463;&#1500; &#1494;&#1456;&#1489;&#64309;&#1489; - Vietnamese: Ba-an Dơ-vúp 2 V 1,2-6.16",
+      "position": 202,
+      "order": 21,
+      "createdAt": "2025-04-22T04:05:23.935Z",
+      "updatedAt": "2025-04-22T04:05:23.935Z",
+      "verseId": "a5aa5843-27e9-43d9-a96d-82dc23804f75",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "ed70f37a-3f07-4ab0-9f41-1d8727680ea1",
+      "content": "English: Baal-Zebub - French: Baal-zeboub - Latin: Beelzebub - Origin: &#64305;&#1463;&#1506;&#1463;&#1500; &#1494;&#1456;&#1489;&#64309;&#1489; - Vietnamese: Ba-an Dơ-vúp 2 V 1,2-6.16",
+      "position": 233,
+      "order": 21,
+      "createdAt": "2025-04-22T04:05:24.018Z",
+      "updatedAt": "2025-04-22T04:05:24.018Z",
+      "verseId": "462e8e35-662d-46d1-8b03-31e17cecebca",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "66f59e23-beee-4b6b-ab14-8bdbaa7e69ae",
+      "content": "English: Baal-Zebub - French: Baal-zeboub - Latin: Beelzebub - Origin: &#64305;&#1463;&#1506;&#1463;&#1500; &#1494;&#1456;&#1489;&#64309;&#1489; - Vietnamese: Ba-an Dơ-vúp 2 V 1,2-6.16",
+      "position": 96,
+      "order": 21,
+      "createdAt": "2025-04-22T04:05:24.293Z",
+      "updatedAt": "2025-04-22T04:05:24.293Z",
+      "verseId": "82944f67-e46b-4a40-b30a-35c313a3a299",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "2e753977-5ced-42c1-b876-1bfd586fd86d",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 25,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:23.924Z",
+      "updatedAt": "2025-04-22T04:05:23.924Z",
+      "verseId": "a5aa5843-27e9-43d9-a96d-82dc23804f75",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "0994597e-b81e-476f-a558-7b5da43bee17",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 15,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:23.962Z",
+      "updatedAt": "2025-04-22T04:05:23.962Z",
+      "verseId": "f10f7189-d825-4546-a807-77dc08d2d80b",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "a8857e53-74ec-4597-88b5-875e5ab64335",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 130,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:24.002Z",
+      "updatedAt": "2025-04-22T04:05:24.002Z",
+      "verseId": "462e8e35-662d-46d1-8b03-31e17cecebca",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "7a3feff0-8874-4bbb-840f-2fb54297f23f",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 19,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:24.238Z",
+      "updatedAt": "2025-04-22T04:05:24.238Z",
+      "verseId": "8621057b-36f1-4b22-a88c-8756a4869322",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "8c03f611-f5d6-4742-b1fe-08e9010b8f49",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 34,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:24.280Z",
+      "updatedAt": "2025-04-22T04:05:24.280Z",
+      "verseId": "82944f67-e46b-4a40-b30a-35c313a3a299",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
+    },
+    {
+      "id": "2eeb5e7f-cdf5-4df9-bbe3-28199cb0ce47",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 33,
+      "order": 25,
+      "createdAt": "2025-04-22T04:05:24.334Z",
+      "updatedAt": "2025-04-22T04:05:24.334Z",
+      "verseId": "3174fc92-3b66-4625-8405-5135abbe0041",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     }
   ],
   "headings": [
     {
-      "id": "f58cd22a-931c-4279-8427-06a3b442bb18",
+      "id": "bb091355-5f4d-4fbd-87ba-0c804052b12c",
       "content": "SÁCH CÁC VUA Quyển 2",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:00:01.937Z",
-      "updatedAt": "2024-09-23T04:00:01.937Z",
-      "verseId": "2a79e45c-ffca-48f1-8b59-ca38121e16a8",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.834Z",
+      "updatedAt": "2025-04-22T04:05:23.834Z",
+      "verseId": "f3b036fc-33c4-4e81-ac11-475e5e9220aa",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     }
   ],
   "references": [
     {
-      "id": "06a8854e-dbb1-4b1f-b8a6-20052c021194",
+      "id": "6dc482a7-39fe-4467-b0de-a3fbbb86a915",
       "content": "2 V 3,4-27",
       "position": 0,
       "order": 0,
-      "createdAt": "2024-09-23T04:00:01.943Z",
-      "updatedAt": "2024-09-23T04:00:01.943Z",
-      "verseId": "2a79e45c-ffca-48f1-8b59-ca38121e16a8",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:23.859Z",
+      "updatedAt": "2025-04-22T04:05:23.859Z",
+      "verseId": "f3b036fc-33c4-4e81-ac11-475e5e9220aa",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     },
     {
-      "id": "60692218-5a7d-49e9-a59b-2c9514427150",
+      "id": "2015c648-4cef-48cd-8c69-4038ed385d40",
       "content": "Lc 9,54",
-      "position": 103,
+      "position": 99,
       "order": 1,
-      "createdAt": "2024-09-23T04:00:02.003Z",
-      "updatedAt": "2024-09-23T04:00:02.003Z",
-      "verseId": "c0bbaeb7-977e-464e-b2df-1825447b1f05",
-      "chapterId": "408830e9-58cc-42d0-b1fc-1649ff7d3cb7"
+      "createdAt": "2025-04-22T04:05:24.142Z",
+      "updatedAt": "2025-04-22T04:05:24.142Z",
+      "verseId": "f2d8b7ad-a8e4-4a2b-8260-5f8ac6614674",
+      "chapterId": "698b88ce-0529-4d38-ae28-b803ab896fdb"
     }
   ],
   "psalmMetadata": []

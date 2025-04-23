@@ -3,7 +3,7 @@ import { generateBible } from '../scripts/generate-bible.js';
 import { presets } from './constant.js';
 
 (async () => {
-  const preset = presets.ktcgkpv;
+  const preset = presets.bibledotcom;
 
   await generateBible(
     preset.baseUrl,

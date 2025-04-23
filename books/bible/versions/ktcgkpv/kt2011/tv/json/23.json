@@ -1,259 +1,270 @@
 {
   "chapter": {
-    "id": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404",
+    "id": "9cdd3daf-6880-4413-a03d-41696f026c15",
     "number": 23,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.366Z",
-    "updatedAt": "2024-09-23T03:08:02.366Z",
-    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+    "createdAt": "2025-04-22T00:48:31.713Z",
+    "updatedAt": "2025-04-22T00:48:31.713Z",
+    "bookId": "9beff2a2-3de1-4b2d-b189-6eadb8dd6815"
   },
   "verses": [
     {
-      "id": "a6cbe504-c37b-400a-bf10-915179a84134",
+      "id": "4df00d42-1bcc-4069-839f-35a3fca3dee9",
       "number": 1,
-      "content": "*Thánh vịnh. Của vua [Đa-vít]().*",
+      "content": "*Thánh vịnh. Của vua Đa-vít.*",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:13:28.406Z",
-      "updatedAt": "2024-09-23T04:13:28.406Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.519Z",
+      "updatedAt": "2025-04-22T05:25:17.519Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "38ad8ac1-68f1-4ab6-8fc8-ed81112ba381",
+      "id": "a2133282-8c3f-492a-95c1-3a776739910b",
       "number": 2,
       "content": "CHÚA là mục tử chăn dắt tôi, tôi chẳng thiếu thốn gì.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.420Z",
-      "updatedAt": "2024-09-23T04:13:28.420Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.582Z",
+      "updatedAt": "2025-04-22T05:25:17.582Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "1a7705cd-90be-4f8e-9b99-7f22fb405b38",
+      "id": "b6c46453-9b62-4ced-9f3b-7b50727f646a",
       "number": 2,
       "content": "Trong đồng cỏ xanh tươi, Người cho tôi nằm nghỉ.",
       "order": 1,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.424Z",
-      "updatedAt": "2024-09-23T04:13:28.424Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.610Z",
+      "updatedAt": "2025-04-22T05:25:17.610Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "99f4240b-ff4a-4108-9f10-9e44199fa2ef",
+      "id": "8428c821-7044-4ea0-849a-c3e4ab0748ce",
       "number": 2,
       "content": "Người đưa tôi tới dòng nước trong lành",
       "order": 2,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.427Z",
-      "updatedAt": "2024-09-23T04:13:28.427Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.625Z",
+      "updatedAt": "2025-04-22T05:25:17.625Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "f52fd15e-ae0a-41b0-bebf-05b1e3d86835",
+      "id": "568255ac-218e-41df-b039-99314635b823",
       "number": 3,
       "content": "và bổ sức cho tôi.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.432Z",
-      "updatedAt": "2024-09-23T04:13:28.432Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.640Z",
+      "updatedAt": "2025-04-22T05:25:17.640Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "a60cdddf-9930-4c8b-96fb-57ac9122ed31",
+      "id": "c2c1ef8d-3db9-4a11-9bc4-ba81d92bc9ad",
       "number": 3,
       "content": "Người dẫn tôi trên đường ngay nẻo chính",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.436Z",
-      "updatedAt": "2024-09-23T04:13:28.436Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.655Z",
+      "updatedAt": "2025-04-22T05:25:17.655Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "419b470c-91e3-4dbe-8a09-29362029f55d",
+      "id": "b737daac-e083-4ea4-bd60-239f19325a0b",
       "number": 3,
       "content": "vì danh dự của Người.",
       "order": 2,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.440Z",
-      "updatedAt": "2024-09-23T04:13:28.440Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.668Z",
+      "updatedAt": "2025-04-22T05:25:17.668Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "bd0dcfa7-68f3-4e53-acb1-81fa88202eaf",
+      "id": "4c6066bd-74db-4459-b02f-4bd0d3952687",
       "number": 4,
       "content": "Lạy Chúa, dầu qua lũng âm u",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.445Z",
-      "updatedAt": "2024-09-23T04:13:28.445Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.682Z",
+      "updatedAt": "2025-04-22T05:25:17.682Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "c184eab9-d307-4b88-8075-ff010d23c9f1",
+      "id": "9a3069d9-75ce-4dfd-ba47-84f636ed4b44",
       "number": 4,
       "content": "con sợ gì nguy khốn, vì có Chúa ở cùng.",
       "order": 1,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.449Z",
-      "updatedAt": "2024-09-23T04:13:28.449Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.696Z",
+      "updatedAt": "2025-04-22T05:25:17.696Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "376e4020-b24b-4b73-b630-8252813ad5a0",
+      "id": "c0f2e71d-7989-4768-97a8-cefdc9b1751b",
       "number": 4,
       "content": "Côn trượng Ngài bảo vệ, con vững dạ an tâm.",
       "order": 2,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.453Z",
-      "updatedAt": "2024-09-23T04:13:28.453Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.710Z",
+      "updatedAt": "2025-04-22T05:25:17.710Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "7516e09f-eeaf-4f87-8581-199ea570404b",
+      "id": "1342ca4f-8e5e-4e03-a78e-299f2cf30819",
       "number": 5,
       "content": "Chúa dọn sẵn cho con bữa tiệc ngay trước mặt quân thù.",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.458Z",
-      "updatedAt": "2024-09-23T04:13:28.458Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.724Z",
+      "updatedAt": "2025-04-22T05:25:17.724Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "02f1fcd2-e5af-4e33-b60d-591c2ecc517a",
+      "id": "0003c196-a5d8-4328-855c-a304638947b9",
       "number": 5,
       "content": "Đầu con, Chúa xức đượm dầu thơm,",
       "order": 1,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.462Z",
-      "updatedAt": "2024-09-23T04:13:28.462Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.738Z",
+      "updatedAt": "2025-04-22T05:25:17.738Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "0f09fced-3789-4000-8b93-5313c8618b9e",
+      "id": "86387bbe-75da-4087-907b-974ee02021d9",
       "number": 5,
       "content": "ly rượu con đầy tràn chan chứa.",
       "order": 2,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.467Z",
-      "updatedAt": "2024-09-23T04:13:28.467Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.755Z",
+      "updatedAt": "2025-04-22T05:25:17.755Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "61e3e818-5fa6-4573-bae5-22c6af9cb800",
+      "id": "1a0cb7c4-4d95-46b0-9bc6-0614d9360f4e",
       "number": 6,
       "content": "Lòng nhân hậu và tình thương CHÚA",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.476Z",
-      "updatedAt": "2024-09-23T04:13:28.476Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.784Z",
+      "updatedAt": "2025-04-22T05:25:17.784Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "cc45ecbd-e962-4d5d-9859-31436d6894c2",
+      "id": "276cca34-deda-4fda-87bb-9d08cb0e1100",
       "number": 6,
       "content": "ấp ủ tôi suốt cả cuộc đời,",
       "order": 1,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.480Z",
-      "updatedAt": "2024-09-23T04:13:28.480Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.798Z",
+      "updatedAt": "2025-04-22T05:25:17.798Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "06e3d8a0-bb9d-4f96-9c0c-239e312cc896",
+      "id": "e205f4ae-b206-42aa-a2db-e0cd4ff88621",
       "number": 6,
       "content": "và tôi được ở đền Người",
       "order": 2,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.485Z",
-      "updatedAt": "2024-09-23T04:13:28.485Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.812Z",
+      "updatedAt": "2025-04-22T05:25:17.812Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "4894e968-aac2-4b8b-8768-1344bc7c4642",
+      "id": "3465a361-c358-4012-ad97-b6e4c4e9d2b0",
       "number": 6,
       "content": "những ngày tháng, những năm dài triền miên.",
       "order": 3,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:13:28.489Z",
-      "updatedAt": "2024-09-23T04:13:28.489Z",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.827Z",
+      "updatedAt": "2025-04-22T05:25:17.827Z",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     }
   ],
   "footnotes": [
     {
-      "id": "c8caa213-3a0f-4397-ad49-74a8bd4d5243",
+      "id": "77e74a12-460e-46fc-ac69-145b5c6cae03",
       "content": "Trong *Thánh vịnh tín nhiệm* này, tác giả dùng hình ảnh người mục tử nhân hậu (cc. 1-4) và người chủ nhà hiếu khách (c.5) để ca ngợi lòng ưu ái Thiên Chúa dành cho tín hữu của Người. Chủ đề Thiên Chúa là Mục Tử đã được nói đến từ thời xa xưa (St 48,15 ; 49,24 ; Hs 4,16), vẫn tiếp tục có mặt trong văn chương Cựu Ước (Tv 28,9 ; 79,13 ; 80,2 ; Is 40,11) và còn được sử dụng trong Ed 34,11-16 nói về thời sau này : lúc đó, vì các nhà lãnh đạo dân Ít-ra-en chỉ là những mục tử xấu, nên Thiên Chúa đảm nhận nhiệm vụ làm Mục Tử cho Ít-ra-en. Trong Tân Ước, Đức Ki-tô mang các tước hiệu : *Mục Tử* (1 Pr 2,25), *Mục Tử nhân lành* (Ga 10,11.14-16 ; x. 10,27-29), *vị Mục Tử cao cả của đoàn chiên* (Hr 13,20), *vị Mục Tử tối cao* (1 Pr 5,4), và thi hành sứ mạng đó. Hai hình ảnh nói trên giúp chúng ta khám phá ra cấu trúc của Tv 23 như sau : **1**) Thiên Chúa là Mục Tử nhân hậu (cc. 1-4) ; **2**) Thiên Chúa là chủ nhà hiếu khách (cc. 5-6).",
       "position": 26,
       "order": 0,
-      "createdAt": "2024-09-23T04:13:28.417Z",
-      "updatedAt": "2024-09-23T04:13:28.417Z",
-      "headingId": "047e8399-dd71-4582-8e4b-1b0f7862d8dc",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.555Z",
+      "updatedAt": "2025-04-22T05:25:17.555Z",
+      "headingId": "af6a0835-a718-48a1-b056-196ff0128bf1",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "3bf7db97-8b20-4e00-b287-31a9a9c93066",
+      "id": "63f49859-7f2d-4a4d-b6b3-bdb266e0ad6a",
       "content": "Thiên Chúa là Mục Tử nhân hậu, vì : **1**) Người đưa tới đồng cỏ xanh tươi, tới dòng nước trong lành (c.2), nghĩa là cho ăn uống đầy đủ để *bổ sức* cho tín hữu ; **2**) Người *dẫn dắt* tín hữu *trên đường ngay nẻo chính* (c.3b), như mục tử dẫn đoàn chiên trên những nẻo đường đưa thẳng tới đồng cỏ, tránh cho đoàn chiên khỏi qua những đoạn đường chông gai, nguy hiểm ; **3**) Người bênh vực, bảo vệ đoàn chiên : tại Ít-ra-en, có những nơi chật hẹp và sâu thẳm, ít ánh sáng (*lũng âm u* : c.4a) ; Thiên Chúa dùng *côn trượng* (“šëbe†” = *côn* = gậy để chống và chăn dắt chiên ; “miš•\\`enet” = *trượng* là gậy bằng gỗ để đánh người bị xử phạt = ở đây gậy dùng để bênh vực chiên chống lại thú dữ và kẻ cướp) để bảo vệ các tín hữu trong mọi hoàn cảnh, cách riêng trong những hoàn cảnh cam go, nguy hiểm.",
       "position": 27,
       "order": 1,
-      "createdAt": "2024-09-23T04:13:28.422Z",
-      "updatedAt": "2024-09-23T04:13:28.422Z",
-      "verseId": "38ad8ac1-68f1-4ab6-8fc8-ed81112ba381",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.596Z",
+      "updatedAt": "2025-04-22T05:25:17.596Z",
+      "verseId": "a2133282-8c3f-492a-95c1-3a776739910b",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     },
     {
-      "id": "fe41e720-493c-43a2-8c07-ca0f0e491f3c",
+      "id": "853388e5-33cd-4b81-9546-3d3710cd5800",
       "content": "Thiên Chúa cũng giống như chủ nhà hiếu khách (c.5) : **1**) Người *xức dầu thơm* : thường dầu được xức trong các dịp vui : những ngày lễ, những lúc tiếp khách ... (x. 2 Sm 12,20 ; Gđt 10,3 ; Gv 9,8 ; Tv 104,15 ; Am 6,6 ; Is 61,3) ; **2**) Người thết tiệc, mời dự tiệc ; **3**) Người mời khách dùng rượu.",
       "position": 30,
       "order": 2,
-      "createdAt": "2024-09-23T04:13:28.471Z",
-      "updatedAt": "2024-09-23T04:13:28.471Z",
-      "verseId": "0f09fced-3789-4000-8b93-5313c8618b9e",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.770Z",
+      "updatedAt": "2025-04-22T05:25:17.770Z",
+      "verseId": "86387bbe-75da-4087-907b-974ee02021d9",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
+    },
+    {
+      "id": "6bf832c7-b834-4e7c-9d89-af9ac0c18086",
+      "content": "English: David - French: David - Latin: David - Origin: &#1491;&#1464;&#1493;&#1460;&#1491; - Vietnamese: Đa-vít 1 Sm 16,21-22",
+      "position": 27,
+      "order": 3,
+      "createdAt": "2025-04-22T05:25:17.569Z",
+      "updatedAt": "2025-04-22T05:25:17.569Z",
+      "verseId": "4df00d42-1bcc-4069-839f-35a3fca3dee9",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     }
   ],
   "headings": [
     {
-      "id": "047e8399-dd71-4582-8e4b-1b0f7862d8dc",
+      "id": "af6a0835-a718-48a1-b056-196ff0128bf1",
       "content": "Tv 23 (22) Mục tử nhân hậu",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:13:28.415Z",
-      "updatedAt": "2024-09-23T04:13:28.415Z",
-      "verseId": "a6cbe504-c37b-400a-bf10-915179a84134",
-      "chapterId": "8aac071a-a2d9-45fb-8a3a-b96ac55a2404"
+      "createdAt": "2025-04-22T05:25:17.541Z",
+      "updatedAt": "2025-04-22T05:25:17.541Z",
+      "verseId": "4df00d42-1bcc-4069-839f-35a3fca3dee9",
+      "chapterId": "9cdd3daf-6880-4413-a03d-41696f026c15"
     }
   ],
   "references": [],

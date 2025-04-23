@@ -1,300 +1,301 @@
 {
   "chapter": {
-    "id": "6bb56aae-970d-4d4c-9a81-8e90ff15227f",
+    "id": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1",
     "number": 5,
     "ref": "https://www.bible.com/bible/19/EXO.5.BD2011",
-    "createdAt": "2024-09-23T05:08:38.518Z",
-    "updatedAt": "2024-09-23T05:08:38.518Z",
-    "bookId": "bc38d8c5-600c-4261-bd07-208483d44b30"
+    "createdAt": "2025-04-22T10:10:20.034Z",
+    "updatedAt": "2025-04-22T10:10:20.034Z",
+    "bookId": "956802ae-a563-45f3-b496-3d3dd3ad6e03"
   },
   "verses": [
     {
-      "id": "12dbc95e-b1b1-4872-a883-e38afbe65b0c",
+      "id": "ac6a52da-2330-4140-ae23-bdf7cc0b63ad",
       "number": 1,
       "content": "Sau đó Môi-se và A-rôn đến ra mắt Pha-ra-ôn và nói, “**CHÚA**, Đức Chúa Trời, của dân I-sơ-ra-ên phán thế này, ‘Hãy để dân Ta đi, để chúng cử hành một thánh lễ thờ phượng Ta trong đồng hoang.’”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.809Z",
-      "updatedAt": "2024-09-23T05:13:14.809Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.683Z",
+      "updatedAt": "2025-04-22T10:13:20.683Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "3df3807e-a8d7-4659-b829-49582c971375",
+      "id": "e0894f00-d730-4786-b167-75c665c7f54a",
       "number": 2,
       "content": "Nhưng Pha-ra-ôn đáp, “**CHÚA** là ai mà ta phải vâng lời và để dân I-sơ-ra-ên ra đi? Ta chẳng biết **CHÚA** nào cả, và ta sẽ không cho dân I-sơ-ra-ên đi đâu cả.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.823Z",
-      "updatedAt": "2024-09-23T05:13:14.823Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.713Z",
+      "updatedAt": "2025-04-22T10:13:20.713Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "55222399-d144-4abf-9881-387bdf8a740b",
+      "id": "45318512-db73-40c0-a361-69438caded2a",
       "number": 3,
       "content": "Họ thưa, “Đức Chúa Trời của I-sơ-ra-ên đã hiện ra với chúng tôi. Xin bệ hạ cho chúng tôi đi ba ngày vào đồng hoang để dâng tế lễ lên **CHÚA**, Đức Chúa Trời của chúng tôi; nếu không, Ngài sẽ giáng ôn dịch hoặc gươm đao trên chúng tôi.”",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.828Z",
-      "updatedAt": "2024-09-23T05:13:14.828Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.729Z",
+      "updatedAt": "2025-04-22T10:13:20.729Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "78adfa0b-72bf-4375-b99a-4da427ffb712",
+      "id": "5e164a6d-30e8-4f31-8730-7bbb41b8c31d",
       "number": 4,
       "content": "Nhưng vua Ai-cập trả lời họ, “Môi-se và A-rôn, tại sao các ngươi xúi dân bỏ việc lao động? Hãy làm việc đi!”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.833Z",
-      "updatedAt": "2024-09-23T05:13:14.833Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.739Z",
+      "updatedAt": "2025-04-22T10:13:20.739Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "df498895-614d-4638-8875-485004b05e5c",
+      "id": "51573e67-2bcd-470a-8734-c03d185d6c56",
       "number": 5,
       "content": "Pha-ra-ôn nói tiếp, “Dân trong xứ bây giờ quá đông đúc, thế mà các ngươi lại muốn họ ngưng lao động!”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.838Z",
-      "updatedAt": "2024-09-23T05:13:14.838Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.750Z",
+      "updatedAt": "2025-04-22T10:13:20.750Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "7f3544fe-f4dd-49ac-b12b-05ad862e43fd",
+      "id": "74214307-23c5-4bf4-b073-8c48cc97551a",
       "number": 6,
       "content": "Ngày hôm đó Pha-ra-ôn ra lịnh cho các cai nô của dân và các giám thị của họ,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.844Z",
-      "updatedAt": "2024-09-23T05:13:14.844Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.761Z",
+      "updatedAt": "2025-04-22T10:13:20.761Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "ef117532-d4dd-48fd-ad96-1453dd6d5674",
+      "id": "c514b30e-d2ba-4ede-b81f-c19187338924",
       "number": 7,
       "content": "“Các ngươi chớ phát rơm cho dân để làm gạch như lâu nay nữa. Hãy để chúng tự đi kiếm rơm lấy.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.848Z",
-      "updatedAt": "2024-09-23T05:13:14.848Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.773Z",
+      "updatedAt": "2025-04-22T10:13:20.773Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "801a831c-668a-4e9e-92d0-fd92742d3d17",
+      "id": "1d5dd5bc-4a72-4109-8dfc-e2ead94562aa",
       "number": 8,
       "content": "Nhưng các ngươi phải bắt chúng nộp đủ số gạch y như đã nộp bấy lâu nay. Đừng giảm bớt chi cả, vì chúng biếng nhác nên đã lấy cớ và kêu nài, ‘Chúng tôi phải đi dâng tế lễ lên Đức Chúa Trời của chúng tôi.’",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.853Z",
-      "updatedAt": "2024-09-23T05:13:14.853Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.786Z",
+      "updatedAt": "2025-04-22T10:13:20.786Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "56f8c9ac-235e-449d-a7a4-0dd6791144a8",
+      "id": "80dadf92-6360-4b0d-823d-57b0fdb54dc1",
       "number": 9,
       "content": "Hãy gán những lao dịch nặng nhọc trên chúng, để chúng phải lo làm việc mà không chú tâm vào những lời dối trá.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.859Z",
-      "updatedAt": "2024-09-23T05:13:14.859Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.800Z",
+      "updatedAt": "2025-04-22T10:13:20.800Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "b2f03652-27c0-46cb-90a3-6f76b1e22116",
+      "id": "3ea2dc4e-a4a1-406c-9158-667343e07034",
       "number": 10,
       "content": "Vậy các cai nô của dân và các giám thị của họ đi ra và nói với dân, “Pha-ra-ôn phán thế này, ‘Ta sẽ không cung cấp rơm cho các ngươi nữa.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.863Z",
-      "updatedAt": "2024-09-23T05:13:14.863Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.813Z",
+      "updatedAt": "2025-04-22T10:13:20.813Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "5092539a-c522-4236-9645-3fa244401238",
+      "id": "26facee5-78c2-4679-91ad-2078462496e8",
       "number": 11,
       "content": "Các ngươi hãy tự kiếm rơm lấy cho mình; kiếm ở đâu được thì kiếm, nhưng số gạch các ngươi phải sản xuất để nộp không giảm bớt.’”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.868Z",
-      "updatedAt": "2024-09-23T05:13:14.868Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.827Z",
+      "updatedAt": "2025-04-22T10:13:20.827Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "a87fae7e-d6cb-4451-82f8-31c66c851b94",
+      "id": "14ccdc39-bc83-4e5e-9b7b-02c7c80c7a16",
       "number": 12,
       "content": "Vậy dân đi tản mác khắp nước Ai-cập để kiếm rạ thay rơm.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.875Z",
-      "updatedAt": "2024-09-23T05:13:14.875Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.846Z",
+      "updatedAt": "2025-04-22T10:13:20.846Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "b2ebabbd-9312-48a5-8493-a999a959ce6c",
+      "id": "fe1d54e2-e6b1-4e0b-a067-395527237ed4",
       "number": 13,
       "content": "Các cai nô thúc giục họ, “Hãy hoàn tất công việc và nộp cho đủ số gạch mỗi ngày như khi các ngươi còn được cung cấp rơm.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.880Z",
-      "updatedAt": "2024-09-23T05:13:14.880Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.859Z",
+      "updatedAt": "2025-04-22T10:13:20.859Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "55c43fdb-6404-4806-afa6-112f57498d24",
+      "id": "8b59d17a-e29f-448b-aaa5-9f5969635ed6",
       "number": 14,
       "content": "Các giám thị của dân I-sơ-ra-ên, tức những người được các cai nô của Pha-ra-ôn lập lên, bị đánh đập và hạch sách, “Tại sao các ngươi không hoàn tất số gạch đã được giao phó cho ngày hôm qua và hôm nay giống như trước?”",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.885Z",
-      "updatedAt": "2024-09-23T05:13:14.885Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.872Z",
+      "updatedAt": "2025-04-22T10:13:20.872Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "6745643a-7032-4d2d-a842-2083b3e59a5e",
+      "id": "4b283f04-16f7-4707-b985-fb9933007ca9",
       "number": 15,
       "content": "Các giám thị của dân I-sơ-ra-ên đến gặp Pha-ra-ôn và kêu nài, “Tại sao bệ hạ đối với bầy tôi của bệ hạ như vậy?",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.890Z",
-      "updatedAt": "2024-09-23T05:13:14.890Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.885Z",
+      "updatedAt": "2025-04-22T10:13:20.885Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "15567cb9-ca59-4fc3-ab27-373cb4757770",
+      "id": "145fa0fe-3188-4f56-ab1d-ecaa976e75cb",
       "number": 16,
       "content": "Người ta không cung cấp rơm cho bầy tôi của bệ hạ, mà lại bảo, ‘Hãy đúc gạch đi!’ Xin bệ hạ xem, bầy tôi của bệ hạ bị đánh đập như thể dân của bệ hạ có lỗi vậy.”",
       "order": 0,
       "parNumber": 6,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.895Z",
-      "updatedAt": "2024-09-23T05:13:14.895Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.899Z",
+      "updatedAt": "2025-04-22T10:13:20.899Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "caf60f2b-54c3-4def-8405-bb31f0910eee",
+      "id": "4f5fb156-85b7-478f-bd76-2fc2c8934793",
       "number": 17,
       "content": "Nhưng ông quát tháo, “Các ngươi là quân lười biếng, quân biếng nhác; thế nên các ngươi đã nói, ‘Chúng tôi phải đi dâng tế lễ lên **CHÚA** chúng tôi.’",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.900Z",
-      "updatedAt": "2024-09-23T05:13:14.900Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.912Z",
+      "updatedAt": "2025-04-22T10:13:20.912Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "7bf04ad0-ecb5-4430-837a-ae275695692c",
+      "id": "d76d6210-6a02-4827-8e06-ecfc876c383b",
       "number": 18,
       "content": "Bây giờ hãy đi ra và làm việc. Các ngươi sẽ không được phát rơm, nhưng các ngươi phải nộp đủ số gạch như trước.”",
       "order": 0,
       "parNumber": 7,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.905Z",
-      "updatedAt": "2024-09-23T05:13:14.905Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.929Z",
+      "updatedAt": "2025-04-22T10:13:20.929Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "c378432f-7b41-4794-b2b4-7fdcdf77d9b9",
+      "id": "19397f76-3231-4251-8a0e-d3fa341b8a85",
       "number": 19,
       "content": "Các giám thị của dân I-sơ-ra-ên nhận biết họ đã gặp phải oan khiên khi bị bảo, “Các ngươi phải nộp đủ số gạch mỗi ngày.”",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.910Z",
-      "updatedAt": "2024-09-23T05:13:14.910Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.942Z",
+      "updatedAt": "2025-04-22T10:13:20.942Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "0dc7f00f-a4f6-4f9c-881d-5bd496b20ddd",
+      "id": "65ad3a5c-ae0b-48e3-8047-1a772bffc2af",
       "number": 20,
       "content": "Vừa khi họ rời khỏi Pha-ra-ôn, họ gặp Môi-se và A-rôn đang chờ họ.",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.915Z",
-      "updatedAt": "2024-09-23T05:13:14.915Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.956Z",
+      "updatedAt": "2025-04-22T10:13:20.956Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "a70f90df-bede-42b5-9682-31f10253c324",
+      "id": "ed9d2fe3-de13-46de-b77f-8d6c5d600020",
       "number": 21,
       "content": "Họ nói với hai ông, “Cầu xin **CHÚA** chứng giám và đoán phạt các ông. Các ông đã làm cho chúng tôi trở nên hôi hám trước mặt Pha-ra-ôn và triều thần của ông ấy. Các ông đã trao thanh gươm vào tay họ, để họ giết chúng tôi.”",
       "order": 0,
       "parNumber": 9,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.921Z",
-      "updatedAt": "2024-09-23T05:13:14.921Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.969Z",
+      "updatedAt": "2025-04-22T10:13:20.969Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "dba5c9a6-74ab-498e-a0ee-adf81c85ad84",
+      "id": "302b993c-23f1-4b30-829f-87733784f5e2",
       "number": 22,
       "content": "Môi-se trở về với **CHÚA** và thưa, “Lạy **CHÚA**, tại sao Ngài lại bạc đãi dân này? Tại sao Ngài sai phái con làm chi?",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.926Z",
-      "updatedAt": "2024-09-23T05:13:14.926Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.982Z",
+      "updatedAt": "2025-04-22T10:13:20.982Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     },
     {
-      "id": "8e2fe3ee-f288-462a-9ca5-6541300d762e",
+      "id": "b42a6e4b-f34b-418d-a38e-cb1346bfca12",
       "number": 23,
       "content": "Vì từ khi con đến gặp Pha-ra-ôn để nhân danh Ngài mà nói thì ông ấy đã bạc đãi dân này, còn Ngài thì không làm gì cả để giải cứu dân Ngài.”",
       "order": 0,
       "parNumber": 10,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T05:13:14.931Z",
-      "updatedAt": "2024-09-23T05:13:14.931Z",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.995Z",
+      "updatedAt": "2025-04-22T10:13:20.995Z",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "33437e93-406c-41ee-bf17-d30ccef05c82",
+      "id": "16b9d71e-34b2-408a-954a-4fb3687454a9",
       "content": "Môi-se Hội Kiến với Pha-ra-ôn",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T05:13:14.820Z",
-      "updatedAt": "2024-09-23T05:13:14.820Z",
-      "verseId": "12dbc95e-b1b1-4872-a883-e38afbe65b0c",
-      "chapterId": "6bb56aae-970d-4d4c-9a81-8e90ff15227f"
+      "createdAt": "2025-04-22T10:13:20.700Z",
+      "updatedAt": "2025-04-22T10:13:20.700Z",
+      "verseId": "ac6a52da-2330-4140-ae23-bdf7cc0b63ad",
+      "chapterId": "c7fee4b4-ab9f-4e1f-a099-cb0a61e51ad1"
     }
   ],
   "references": [],

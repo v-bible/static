@@ -1,403 +1,424 @@
 {
   "chapter": {
-    "id": "4ec52ca1-c339-4637-9318-76356d299135",
+    "id": "0601adb9-794e-4767-9cb7-d6a7079107d6",
     "number": 5,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:01.762Z",
-    "updatedAt": "2024-09-23T03:08:01.762Z",
-    "bookId": "4b1e311f-d590-4f21-aa22-ae5ce4b89c43"
+    "createdAt": "2025-04-22T00:48:26.596Z",
+    "updatedAt": "2025-04-22T00:48:26.596Z",
+    "bookId": "36ff80a5-68cc-45d1-8db2-2a9fe3cef7d9"
   },
   "verses": [
     {
-      "id": "5b90cdea-bc48-49d6-9576-7401572af5da",
+      "id": "05553e4b-3eab-4121-864f-69c5a745bf16",
       "number": 1,
       "content": "Đi đâu cũng chỉ nghe nói đến chuyện dâm ô xảy ra giữa anh em, mà là thứ dâm ô không thấy xảy ra ngay cả nơi dân ngoại : có kẻ ăn ở với vợ kế của cha mình !",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.856Z",
-      "updatedAt": "2024-09-23T03:22:33.856Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.840Z",
+      "updatedAt": "2025-04-22T01:43:14.840Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "c39b21b0-54ca-4eb0-a08e-0d057c482bea",
+      "id": "e526ac3f-95a5-41cf-9812-ba892b1d0ebf",
       "number": 2,
       "content": "Thế mà anh em lại còn kiêu ngạo ! Lẽ ra anh em đã phải than khóc và loại trừ kẻ làm điều ấy ra khỏi cộng đoàn của anh em !",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.878Z",
-      "updatedAt": "2024-09-23T03:22:33.878Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.900Z",
+      "updatedAt": "2025-04-22T01:43:14.900Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "0e48836c-4d5e-48ab-9051-73b6c4f19354",
+      "id": "6a4dfe5b-aade-459b-9940-e2f2ee6eb710",
       "number": 3,
       "content": "Phần tôi, tuy vắng mặt về thân xác, nhưng về tinh thần vẫn có mặt, tôi đã lên án kẻ có hành vi đó như thể tôi có mặt tại chỗ.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.891Z",
-      "updatedAt": "2024-09-23T03:22:33.891Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.942Z",
+      "updatedAt": "2025-04-22T01:43:14.942Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "e98457d2-28db-4f2a-956b-607270d183f8",
+      "id": "63df4773-172b-4a99-9995-5d5558988d90",
       "number": 4,
-      "content": "Trong một buổi họp của anh em, ở đó có tôi hiện diện bằng tinh thần, nhân danh Đức [Giê-su]() Ki-tô, Chúa chúng ta, và với quyền năng của Người,",
+      "content": "Trong một buổi họp của anh em, ở đó có tôi hiện diện bằng tinh thần, nhân danh Đức Giê-su Ki-tô, Chúa chúng ta, và với quyền năng của Người,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.900Z",
-      "updatedAt": "2024-09-23T03:22:33.900Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.967Z",
+      "updatedAt": "2025-04-22T01:43:14.967Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "d6e5765c-c71e-4c30-8d06-d2de5fd4f97f",
+      "id": "b08c5eac-120d-4ca1-95e1-9c50128396dd",
       "number": 5,
-      "content": "chúng ta phải nộp con người đó cho [Xa-tan](), để phần xác nó bị huỷ diệt, còn phần hồn được cứu thoát trong Ngày của Chúa.",
+      "content": "chúng ta phải nộp con người đó cho Xa-tan, để phần xác nó bị huỷ diệt, còn phần hồn được cứu thoát trong Ngày của Chúa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.918Z",
-      "updatedAt": "2024-09-23T03:22:33.918Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.010Z",
+      "updatedAt": "2025-04-22T01:43:15.010Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "ce5b5f94-8d2a-4f65-a90c-e792f90f8a69",
+      "id": "efcf10e1-6e19-49cd-8aa4-a078edf1f2a7",
       "number": 6,
       "content": "Lý do khiến anh em vênh vang chẳng đẹp đẽ gì ! Anh em không biết rằng chỉ một chút men cũng đủ làm cho cả khối bột dậy lên sao ?",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.932Z",
-      "updatedAt": "2024-09-23T03:22:33.932Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.053Z",
+      "updatedAt": "2025-04-22T01:43:15.053Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "f4512507-7f3e-470c-bf94-e73db8f51380",
+      "id": "b11a43c4-7d0e-401b-82b2-b02fbb2cef21",
       "number": 7,
-      "content": "Anh em hãy loại bỏ men cũ để trở thành bột mới, vì anh em là bánh không men. Quả vậy, Đức [Ki-tô]() đã chịu hiến tế làm chiên lễ Vượt Qua của chúng ta.",
+      "content": "Anh em hãy loại bỏ men cũ để trở thành bột mới, vì anh em là bánh không men. Quả vậy, Đức Ki-tô đã chịu hiến tế làm chiên lễ Vượt Qua của chúng ta.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.941Z",
-      "updatedAt": "2024-09-23T03:22:33.941Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.073Z",
+      "updatedAt": "2025-04-22T01:43:15.073Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "b536a315-2de7-4c20-a5f2-df70856d4dcf",
+      "id": "bbcb1a00-c5f5-47c8-a330-ff9bc82e131f",
       "number": 8,
       "content": "Vì thế, chúng ta đừng lấy men cũ, là lòng gian tà và độc ác, nhưng hãy lấy bánh không men, là lòng tinh tuyền và chân thật, mà ăn mừng đại lễ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.954Z",
-      "updatedAt": "2024-09-23T03:22:33.954Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.114Z",
+      "updatedAt": "2025-04-22T01:43:15.114Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "4498e32a-b4da-46b1-898b-c961272988a4",
+      "id": "091639e0-aa0c-49a9-ab6a-5f55ceaa1d0e",
       "number": 9,
       "content": "Trong thư đã gửi cho anh em, tôi có viết là đừng đi lại với những kẻ dâm đãng.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.965Z",
-      "updatedAt": "2024-09-23T03:22:33.965Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.134Z",
+      "updatedAt": "2025-04-22T01:43:15.134Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "a90f21e3-31ad-49bf-984e-8ffe9d8ee2ca",
+      "id": "939d73c9-7a87-4e5b-9bbc-4c5ce9038150",
       "number": 10,
       "content": "Tôi không có ý nói chung về mọi người dâm đãng ở thế gian này, hay về mọi kẻ tham lam trộm cắp, hoặc mọi kẻ thờ ngẫu tượng, vì nếu vậy, anh em phải ra khỏi thế gian !",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.982Z",
-      "updatedAt": "2024-09-23T03:22:33.982Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.173Z",
+      "updatedAt": "2025-04-22T01:43:15.173Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "9df3add9-cfa4-4950-8289-5c4c1951180b",
+      "id": "64a7ff30-f28d-4c1c-a102-c1ff39eb4d37",
       "number": 11,
       "content": "Không, khi viết thế, tôi muốn nói với anh em là đừng đi lại với kẻ nào mang danh là người anh em mà cứ dâm đãng, tham lam, thờ ngẫu tượng, quen chửi bới, say sưa rượu chè hoặc trộm cắp ; anh em cũng phải tránh đừng ăn uống với con người như thế.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:33.991Z",
-      "updatedAt": "2024-09-23T03:22:33.991Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.193Z",
+      "updatedAt": "2025-04-22T01:43:15.193Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "2166bb53-eed9-4b3b-baca-8246e60c349f",
+      "id": "0d75468a-42c4-4614-8c2c-0004517f6687",
       "number": 12,
       "content": "Thật vậy, xét xử người ngoài đâu phải là chuyện của tôi. Còn người trong đạo, anh em không được xét xử hay sao ?",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:34.004Z",
-      "updatedAt": "2024-09-23T03:22:34.004Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.227Z",
+      "updatedAt": "2025-04-22T01:43:15.227Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "7704a3bf-63fa-44d1-9976-42b507eac7f0",
+      "id": "37bf2ccd-7289-40d5-a061-a53f8b6a5910",
       "number": 13,
       "content": "Người ngoài, chính Thiên Chúa sẽ xét xử. *Hãy khử trừ sự gian ác, không cho tồn tại giữa anh em*.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:22:34.013Z",
-      "updatedAt": "2024-09-23T03:22:34.013Z",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.248Z",
+      "updatedAt": "2025-04-22T01:43:15.248Z",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     }
   ],
   "footnotes": [
     {
-      "id": "148f7ea8-ba6a-400d-a5ce-12aa51d256b4",
+      "id": "b8e68d30-a527-4ae8-b04f-e7ab732f354f",
       "content": "ds : *vợ*, thêm *kế* cho đúng ý. Luật Do-thái và luật Rô-ma cấm lối sống loạn luân này, nhưng một số ráp-bi lại nhượng bộ, cho phép người theo đạo Do-thái gốc ngoại sống trong tình trạng đó. Điều này cắt nghĩa tại sao cộng đoàn Cô-rin-tô dung túng nố này ; còn cộng đoàn Giê-ru-sa-lem thì đã có lập trường cấm người Ki-tô hữu gốc ngoại sống như vậy (x. Cv 15,20).",
       "position": 140,
       "order": 0,
-      "createdAt": "2024-09-23T03:22:33.869Z",
-      "updatedAt": "2024-09-23T03:22:33.869Z",
-      "verseId": "5b90cdea-bc48-49d6-9576-7401572af5da",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.874Z",
+      "updatedAt": "2025-04-22T01:43:14.874Z",
+      "verseId": "05553e4b-3eab-4121-864f-69c5a745bf16",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "e94fc448-98fd-49b4-b197-e76aebe12373",
+      "id": "785196c0-7e47-493d-8be4-54956980bcb7",
       "content": "Giáo dân Cô-rin-tô lẽ ra phải loại trừ người ấy từ lâu, coi như y đã chết rồi và để tang than khóc như than khóc một người đã chết.",
       "position": 64,
       "order": 1,
-      "createdAt": "2024-09-23T03:22:33.882Z",
-      "updatedAt": "2024-09-23T03:22:33.882Z",
-      "verseId": "c39b21b0-54ca-4eb0-a08e-0d057c482bea",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.916Z",
+      "updatedAt": "2025-04-22T01:43:14.916Z",
+      "verseId": "e526ac3f-95a5-41cf-9812-ba892b1d0ebf",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "df9176d0-50b1-4030-9a60-ffc64f148ff1",
+      "id": "090ccdac-4a3c-417b-bca1-45c3219e6199",
       "content": "ds : *nhân danh Chúa Giê-su, anh em và tinh thần tôi tương kết tương hợp, cùng với quyền năng của Chúa chúng ta, Đức Giê-su*. Cộng đoàn tín hữu được mời gọi (c. 4) thừa nhận lời lên án mà thánh Phao-lô đã tuyên bố (c.3). Nhưng cộng đoàn lên tiếng nhân danh chính Đức Giê-su (x. Mt 18,18), và tiếng nói của cộng đoàn nặng giá nhờ mang uy lực của quyền năng Đức Giê-su.",
       "position": 67,
       "order": 2,
-      "createdAt": "2024-09-23T03:22:33.905Z",
-      "updatedAt": "2024-09-23T03:22:33.905Z",
-      "verseId": "e98457d2-28db-4f2a-956b-607270d183f8",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.979Z",
+      "updatedAt": "2025-04-22T01:43:14.979Z",
+      "verseId": "63df4773-172b-4a99-9995-5d5558988d90",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "3c700d9b-79d7-4f95-b19b-f1dc20848465",
+      "id": "d4b7b2eb-16dc-44fd-bb86-84aba61262df",
       "content": "Db : *Chúa Giê-su*.",
-      "position": 114,
+      "position": 110,
       "order": 3,
-      "createdAt": "2024-09-23T03:22:33.909Z",
-      "updatedAt": "2024-09-23T03:22:33.909Z",
-      "verseId": "e98457d2-28db-4f2a-956b-607270d183f8",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.990Z",
+      "updatedAt": "2025-04-22T01:43:14.990Z",
+      "verseId": "63df4773-172b-4a99-9995-5d5558988d90",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "258ef561-33ea-494e-a7aa-cef0eeebbca6",
+      "id": "7cb2783c-67b9-4372-97d6-6e44640c14ba",
       "content": "Ở đây, có người hiểu là *dứt phép thông công*, nhưng cụm từ này không có trong Kinh Thánh. Đã có những nố khai trừ trong Cựu Ước, trong Do-thái giáo, tại Cum-ran. Tân Ước cũng nói đến nhiều nố, với những lý do và thể thức khác nhau. Ở đây, ý thánh Phao-lô nộp thủ phạm cho Xa-tan là nộp một cách gián tiếp. Nghĩa là trong thời gian bị loại ra khỏi cộng đoàn, đương sự sẽ thiếu mất những phương tiện để kháng cự sức mạnh của Xa-tan. Biện pháp này có tính cách chữa trị : những gian khổ phải chịu vì tay Xa-tan sẽ đưa đương sự đến việc hối cải, và từ đó đến ơn cứu thoát. Có những hoàn cảnh cùng cực mà vẫn còn hy vọng. Một kỷ luật như thế chỉ có được trong trường hợp cộng đoàn có một uy thế nào đó đối với thành viên (x. Mt 18,15-18 tt).",
-      "position": 122,
+      "position": 118,
       "order": 4,
-      "createdAt": "2024-09-23T03:22:33.923Z",
-      "updatedAt": "2024-09-23T03:22:33.923Z",
-      "verseId": "d6e5765c-c71e-4c30-8d06-d2de5fd4f97f",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.033Z",
+      "updatedAt": "2025-04-22T01:43:15.033Z",
+      "verseId": "b08c5eac-120d-4ca1-95e1-9c50128396dd",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "5c92d125-f082-4c16-a96a-ad9eb36dd15b",
+      "id": "610546d3-03c4-44ab-9289-fe11ceb70ed0",
       "content": "Ở đây, ngược với Mt 13,33, men tượng trưng cho sự rữa nát, và bánh không men tượng trưng cho sự tinh tuyền, liêm chính (c. 8). Đây là một điểm điển hình trong đạo đức theo thánh Phao-lô : anh em hãy trở nên con người thật của anh em, nghĩa là : con người mới mà anh em đã trở thành ngày chịu phép rửa, anh em hãy cho nó sống ; con người được Đức Ki-tô cho hoá nên đồng hình đồng dạng với Người, anh em hãy cho nó hình thành trong đời sống anh em.",
       "position": 75,
       "order": 5,
-      "createdAt": "2024-09-23T03:22:33.946Z",
-      "updatedAt": "2024-09-23T03:22:33.946Z",
-      "verseId": "f4512507-7f3e-470c-bf94-e73db8f51380",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.083Z",
+      "updatedAt": "2025-04-22T01:43:15.083Z",
+      "verseId": "b11a43c4-7d0e-401b-82b2-b02fbb2cef21",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "d6967ee4-a3c9-41c1-98b4-89f145db2d30",
+      "id": "d2743b64-0c52-467f-9428-84f267b82d32",
       "content": "*Đại lễ* Vượt Qua đang đến. Lễ nghi Vượt Qua Do-thái gồm có việc thải trừ mọi thứ bánh có men còn lại trong nhà (c. 7), hiến tế Chiên Vượt Qua (c. 7) và dùng bánh không men (c. 8). Đó là những hình ảnh biểu trưng thực tại tuyệt đỉnh là Đức Ki-tô. Chính Người mới là Chiên Vượt Qua đích thực đã tự hiến tế và nhờ đó đã tiêu diệt tội lỗi (tượng trưng là *men cũ*), làm phát sinh đời sống mới, đời sống trong mầu nhiệm Vượt Qua. Bản chất đời sống mới này là sự thánh thiện và tinh tuyền (tượng trưng là *bánh không men*). Thánh Phao-lô so sánh như vậy có thể là vì ngài viết thơ này vào mùa Vượt Qua Do-thái.",
       "position": 141,
       "order": 6,
-      "createdAt": "2024-09-23T03:22:33.960Z",
-      "updatedAt": "2024-09-23T03:22:33.960Z",
-      "verseId": "b536a315-2de7-4c20-a5f2-df70856d4dcf",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.124Z",
+      "updatedAt": "2025-04-22T01:43:15.124Z",
+      "verseId": "bbcb1a00-c5f5-47c8-a330-ff9bc82e131f",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "65baf74b-73f7-467e-be9a-971cb9be22b2",
+      "id": "d39906d7-7504-486a-bd4a-dd291863d00c",
       "content": "Thư *tiền quy điển* đã nói tới trong phần Dẫn nhập.",
       "position": 27,
       "order": 7,
-      "createdAt": "2024-09-23T03:22:33.969Z",
-      "updatedAt": "2024-09-23T03:22:33.969Z",
-      "verseId": "4498e32a-b4da-46b1-898b-c961272988a4",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.144Z",
+      "updatedAt": "2025-04-22T01:43:15.144Z",
+      "verseId": "091639e0-aa0c-49a9-ab6a-5f55ceaa1d0e",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "a4844333-b71d-455a-b28b-785590a0249d",
+      "id": "1e15f015-058e-471d-af5f-5e335939dfa9",
       "content": "*Dâm đãng* (*pornos*) ở đây có cùng gốc với *dâm ô* (*porneia*) ở c. 1, chỉ tất cả các loại gian dâm một cách khái quát.",
       "position": 77,
       "order": 8,
-      "createdAt": "2024-09-23T03:22:33.973Z",
-      "updatedAt": "2024-09-23T03:22:33.973Z",
-      "verseId": "4498e32a-b4da-46b1-898b-c961272988a4",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.153Z",
+      "updatedAt": "2025-04-22T01:43:15.153Z",
+      "verseId": "091639e0-aa0c-49a9-ab6a-5f55ceaa1d0e",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "86519130-a29b-4197-b5cb-c45530ef4653",
+      "id": "66c145e7-d1b3-47d5-8c25-fe532dc77231",
       "content": "Nghĩa là một thành viên của cộng đoàn Ki-tô hữu. Trong Do-thái giáo đã có cách xưng hô này để chỉ những thành viên của Dân Chúa. Hơn nữa, ơn làm nghĩa tử trong Đức Ki-tô làm cho liên hệ anh em này càng có một thực thể và chiều sâu lớn hơn bội phần.",
       "position": 96,
       "order": 9,
-      "createdAt": "2024-09-23T03:22:33.995Z",
-      "updatedAt": "2024-09-23T03:22:33.995Z",
-      "verseId": "9df3add9-cfa4-4950-8289-5c4c1951180b",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.204Z",
+      "updatedAt": "2025-04-22T01:43:15.204Z",
+      "verseId": "64a7ff30-f28d-4c1c-a102-c1ff39eb4d37",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "b59e4feb-6bff-4e10-b3c3-fdd3ac400a6d",
+      "id": "36153006-70de-47d9-b660-7fbc5a490f3d",
       "content": "Nghĩa là những người không thuộc cộng đoàn. Kiểu nói này cũng là mượn của Do-thái giáo.",
       "position": 28,
       "order": 10,
-      "createdAt": "2024-09-23T03:22:34.009Z",
-      "updatedAt": "2024-09-23T03:22:34.009Z",
-      "verseId": "2166bb53-eed9-4b3b-baca-8246e60c349f",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.238Z",
+      "updatedAt": "2025-04-22T01:43:15.238Z",
+      "verseId": "0d75468a-42c4-4614-8c2c-0004517f6687",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "71c72bfa-fb3d-4899-8003-86f2906825e2",
+      "id": "b7a57200-4e38-4be5-bb90-5f4c245ec453",
       "content": "Đnl 13,6 ; 17,7.",
       "position": 96,
       "order": 11,
-      "createdAt": "2024-09-23T03:22:34.018Z",
-      "updatedAt": "2024-09-23T03:22:34.018Z",
-      "verseId": "7704a3bf-63fa-44d1-9976-42b507eac7f0",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.259Z",
+      "updatedAt": "2025-04-22T01:43:15.259Z",
+      "verseId": "37bf2ccd-7289-40d5-a061-a53f8b6a5910",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
+    },
+    {
+      "id": "a3a1cfcb-0983-4a52-ad19-9bde53e9e8f4",
+      "content": "English: Satan - French: Satan - Latin: Satan - Origin: &#64299;&#1464;&#1496;&#1464;&#1503; &#931;&#945;&#964;&#945;&#957;&#945;&#962; - Vietnamese: Xa-tan ma quỷ, G 1,6 ; 1 Sb 21,1 ; Mt 4,10",
+      "position": 41,
+      "order": 14,
+      "createdAt": "2025-04-22T01:43:15.020Z",
+      "updatedAt": "2025-04-22T01:43:15.020Z",
+      "verseId": "b08c5eac-120d-4ca1-95e1-9c50128396dd",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
+    },
+    {
+      "id": "843c4cef-50b5-468e-9000-a472087e3b8d",
+      "content": "English: Christ - French: Chist - Latin: Christus - Origin: &#935;&#961;&#953;&#964;&#959;&#962; - Vietnamese: Ki-tô Mt 1,18",
+      "position": 95,
+      "order": 16,
+      "createdAt": "2025-04-22T01:43:15.093Z",
+      "updatedAt": "2025-04-22T01:43:15.093Z",
+      "verseId": "b11a43c4-7d0e-401b-82b2-b02fbb2cef21",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     }
   ],
   "headings": [
     {
-      "id": "8562bbb0-41b9-4d7f-b970-77b3e4c16c04",
+      "id": "02e84830-ecd9-4078-abc4-f5d05a206938",
       "content": "2. TRƯỜNG HỢP LOẠN LUÂN",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:22:33.865Z",
-      "updatedAt": "2024-09-23T03:22:33.865Z",
-      "verseId": "5b90cdea-bc48-49d6-9576-7401572af5da",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.861Z",
+      "updatedAt": "2025-04-22T01:43:14.861Z",
+      "verseId": "05553e4b-3eab-4121-864f-69c5a745bf16",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     }
   ],
   "references": [
     {
-      "id": "9413d59e-3fa2-469e-bf1b-e46ede80683d",
+      "id": "712f40ab-6ef2-4272-a4ef-a671495563e3",
       "content": "Lv 18,8; 20,11; Đnl 27,20",
       "position": 126,
       "order": 0,
-      "createdAt": "2024-09-23T03:22:33.873Z",
-      "updatedAt": "2024-09-23T03:22:33.873Z",
-      "verseId": "5b90cdea-bc48-49d6-9576-7401572af5da",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.887Z",
+      "updatedAt": "2025-04-22T01:43:14.887Z",
+      "verseId": "05553e4b-3eab-4121-864f-69c5a745bf16",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "7ee441d4-455b-45db-aa27-bec2c453c411",
+      "id": "43659d6e-78da-4a9c-b405-9d5cdd124a30",
       "content": "Lv 18,29",
       "position": 68,
       "order": 1,
-      "createdAt": "2024-09-23T03:22:33.886Z",
-      "updatedAt": "2024-09-23T03:22:33.886Z",
-      "verseId": "c39b21b0-54ca-4eb0-a08e-0d057c482bea",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.929Z",
+      "updatedAt": "2025-04-22T01:43:14.929Z",
+      "verseId": "e526ac3f-95a5-41cf-9812-ba892b1d0ebf",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "8e6f0ea3-6823-4351-8125-3dff31f6f91f",
+      "id": "4cfdbf5c-c5b3-4463-b3f4-602dc9c7c987",
       "content": "Cl 2,5",
       "position": 14,
       "order": 2,
-      "createdAt": "2024-09-23T03:22:33.895Z",
-      "updatedAt": "2024-09-23T03:22:33.895Z",
-      "verseId": "0e48836c-4d5e-48ab-9051-73b6c4f19354",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:14.955Z",
+      "updatedAt": "2025-04-22T01:43:14.955Z",
+      "verseId": "6a4dfe5b-aade-459b-9940-e2f2ee6eb710",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "eeee08c4-3153-42dc-ad7b-1adb5b995ea8",
+      "id": "f7a45ecb-153b-467e-a286-22f7e0c3cd10",
       "content": "Mt 18,20",
       "position": 69,
       "order": 3,
-      "createdAt": "2024-09-23T03:22:33.914Z",
-      "updatedAt": "2024-09-23T03:22:33.914Z",
-      "verseId": "e98457d2-28db-4f2a-956b-607270d183f8",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15Z",
+      "updatedAt": "2025-04-22T01:43:15Z",
+      "verseId": "63df4773-172b-4a99-9995-5d5558988d90",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "c8b1ec78-a441-42e4-9e30-7a5315cbb842",
+      "id": "f4654fa0-3ae1-4cae-8898-bec7e926bd4a",
       "content": "1 Tm 1,20",
       "position": 14,
       "order": 4,
-      "createdAt": "2024-09-23T03:22:33.928Z",
-      "updatedAt": "2024-09-23T03:22:33.928Z",
-      "verseId": "d6e5765c-c71e-4c30-8d06-d2de5fd4f97f",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.043Z",
+      "updatedAt": "2025-04-22T01:43:15.043Z",
+      "verseId": "b08c5eac-120d-4ca1-95e1-9c50128396dd",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "ab0274ec-4818-49ad-8459-006627a7d942",
+      "id": "46aa540f-0e9a-435a-8c41-e0b3254207c7",
       "content": "Gl 5,9",
       "position": 74,
       "order": 5,
-      "createdAt": "2024-09-23T03:22:33.937Z",
-      "updatedAt": "2024-09-23T03:22:33.937Z",
-      "verseId": "ce5b5f94-8d2a-4f65-a90c-e792f90f8a69",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.064Z",
+      "updatedAt": "2025-04-22T01:43:15.064Z",
+      "verseId": "efcf10e1-6e19-49cd-8aa4-a078edf1f2a7",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "aa27ab21-5bd9-4968-b427-5fc6b8a9eeea",
+      "id": "fbd61931-3389-4c30-8fd4-58a94da07cd4",
       "content": "Kh 5,6",
-      "position": 120,
+      "position": 116,
       "order": 6,
-      "createdAt": "2024-09-23T03:22:33.950Z",
-      "updatedAt": "2024-09-23T03:22:33.950Z",
-      "verseId": "f4512507-7f3e-470c-bf94-e73db8f51380",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.104Z",
+      "updatedAt": "2025-04-22T01:43:15.104Z",
+      "verseId": "b11a43c4-7d0e-401b-82b2-b02fbb2cef21",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "6f07e0e9-73a7-46e2-a82b-066fdfb12b1a",
+      "id": "93bab42a-5062-4a05-82a4-2e60145ec931",
       "content": "2 Cr 6,17",
       "position": 49,
       "order": 7,
-      "createdAt": "2024-09-23T03:22:33.978Z",
-      "updatedAt": "2024-09-23T03:22:33.978Z",
-      "verseId": "4498e32a-b4da-46b1-898b-c961272988a4",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.163Z",
+      "updatedAt": "2025-04-22T01:43:15.163Z",
+      "verseId": "091639e0-aa0c-49a9-ab6a-5f55ceaa1d0e",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "e5b29406-a1eb-42bc-874b-1e634a0fb98b",
+      "id": "93715e85-04e5-4650-9d12-98cd1a1f694f",
       "content": "Ga 17,15",
       "position": 148,
       "order": 8,
-      "createdAt": "2024-09-23T03:22:33.986Z",
-      "updatedAt": "2024-09-23T03:22:33.986Z",
-      "verseId": "a90f21e3-31ad-49bf-984e-8ffe9d8ee2ca",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.183Z",
+      "updatedAt": "2025-04-22T01:43:15.183Z",
+      "verseId": "939d73c9-7a87-4e5b-9bbc-4c5ce9038150",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     },
     {
-      "id": "1f7e9e47-e3d1-4648-9139-c2ed811a7150",
+      "id": "654148ed-949c-4a5c-9d55-b1ffa23a5a2f",
       "content": "Rm 1,29-31",
       "position": 113,
       "order": 9,
-      "createdAt": "2024-09-23T03:22:34Z",
-      "updatedAt": "2024-09-23T03:22:34Z",
-      "verseId": "9df3add9-cfa4-4950-8289-5c4c1951180b",
-      "chapterId": "4ec52ca1-c339-4637-9318-76356d299135"
+      "createdAt": "2025-04-22T01:43:15.217Z",
+      "updatedAt": "2025-04-22T01:43:15.217Z",
+      "verseId": "64a7ff30-f28d-4c1c-a102-c1ff39eb4d37",
+      "chapterId": "0601adb9-794e-4767-9cb7-d6a7079107d6"
     }
   ],
   "psalmMetadata": []

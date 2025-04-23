@@ -1,344 +1,446 @@
 {
   "chapter": {
-    "id": "fd0132e9-b69a-4587-b767-6cf8528a22ab",
+    "id": "7feca59a-9b04-4f14-a01e-af4eaa03ff72",
     "number": 8,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.211Z",
-    "updatedAt": "2024-09-23T03:08:02.211Z",
-    "bookId": "4052a4bf-8fd5-4d2e-bebe-300d27c4e084"
+    "createdAt": "2025-04-22T00:48:30.808Z",
+    "updatedAt": "2025-04-22T00:48:30.808Z",
+    "bookId": "0b5eb7da-4ffb-46a5-8cd2-411463e6c226"
   },
   "verses": [
     {
-      "id": "ff5ab6bc-5d66-4976-a6b4-ad74eaa809ed",
+      "id": "dd2165f9-6d3f-4d56-9bfa-d7c92e1fe836",
       "number": 1,
-      "content": "Thiên Chúa nhớ đến ông [Nô-ê](), mọi thú vật và mọi gia súc ở trong tàu với ông. Thiên Chúa cho gió thổi ngang qua đất, và nước hạ xuống.",
+      "content": "Thiên Chúa nhớ đến ông Nô-ê, mọi thú vật và mọi gia súc ở trong tàu với ông. Thiên Chúa cho gió thổi ngang qua đất, và nước hạ xuống.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.422Z",
-      "updatedAt": "2024-09-23T03:36:45.422Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.613Z",
+      "updatedAt": "2025-04-22T02:17:09.613Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "e6b79b22-f50a-4527-be20-b5b1a35f1266",
+      "id": "6af9c73b-3001-4169-b0ca-8c4f6a8df803",
       "number": 2,
       "content": "Các mạch nước của vực thẳm và các cống trời đóng lại ; trời tạnh mưa.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.438Z",
-      "updatedAt": "2024-09-23T03:36:45.438Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.651Z",
+      "updatedAt": "2025-04-22T02:17:09.651Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "d15e8f3c-48ea-4bf4-9842-b782807ed8a4",
+      "id": "5b6855c6-fbca-4db4-955c-a8d535c1a266",
       "number": 3,
-      "content": "[Nước]() từ từ rút khỏi mặt đất ; hết một trăm năm mươi ngày thì nước xuống.",
+      "content": "Nước từ từ rút khỏi mặt đất ; hết một trăm năm mươi ngày thì nước xuống.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.440Z",
-      "updatedAt": "2024-09-23T03:36:45.440Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.662Z",
+      "updatedAt": "2025-04-22T02:17:09.662Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "6b0f4dfa-e12a-4857-98b4-3009fc8c0630",
+      "id": "9592b553-eb9d-467a-a83f-77d8de1cd9b7",
       "number": 4,
-      "content": "Vào tháng bảy, ngày mười bảy tháng ấy, tàu đậu lại trên vùng núi [A-ra-rát]().",
+      "content": "Vào tháng bảy, ngày mười bảy tháng ấy, tàu đậu lại trên vùng núi A-ra-rát.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.442Z",
-      "updatedAt": "2024-09-23T03:36:45.442Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.672Z",
+      "updatedAt": "2025-04-22T02:17:09.672Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "4b95bd88-ae40-4ee1-bf36-d1dfb2aeff32",
+      "id": "cd10a08a-cdc9-49c4-8863-c4a95dd5bbef",
       "number": 5,
-      "content": "[Nước]() tiếp tục xuống cho đến tháng mười ; và ngày mồng một tháng mười, các đỉnh núi xuất hiện.",
+      "content": "Nước tiếp tục xuống cho đến tháng mười ; và ngày mồng một tháng mười, các đỉnh núi xuất hiện.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.444Z",
-      "updatedAt": "2024-09-23T03:36:45.444Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.693Z",
+      "updatedAt": "2025-04-22T02:17:09.693Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "273e8dab-0b7a-4439-9f51-69072081bee8",
+      "id": "65e5e97c-b426-4ab4-b7bc-6ac6f60e9952",
       "number": 6,
-      "content": "Hết bốn mươi ngày, ông [Nô-ê]() mở cửa sổ ông đã làm trên tàu,",
+      "content": "Hết bốn mươi ngày, ông Nô-ê mở cửa sổ ông đã làm trên tàu,",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.446Z",
-      "updatedAt": "2024-09-23T03:36:45.446Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.707Z",
+      "updatedAt": "2025-04-22T02:17:09.707Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "abcbc95c-e719-4b2a-9dfc-bd889c389f9e",
+      "id": "563ad9c2-ba3b-464e-a78d-171302b3224e",
       "number": 7,
       "content": "và ông thả con quạ ra. Nó bay ra, lượn đi lượn lại cho đến khi nước khô trên mặt đất.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.448Z",
-      "updatedAt": "2024-09-23T03:36:45.448Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.727Z",
+      "updatedAt": "2025-04-22T02:17:09.727Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "ddb08e23-f74a-4b1e-8833-424a90868a5c",
+      "id": "ef1373f0-169a-439e-9eeb-a15284a69577",
       "number": 8,
       "content": "Rồi từ trong tàu ông lại thả con bồ câu, để xem nước đã giảm trên mặt đất chưa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.450Z",
-      "updatedAt": "2024-09-23T03:36:45.450Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.737Z",
+      "updatedAt": "2025-04-22T02:17:09.737Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "b8403a29-2e21-4e90-b349-1b6f50302a7c",
+      "id": "4a9cde7f-3804-49e8-8e1e-4469bd97b5f8",
       "number": 9,
       "content": "Nhưng con bồ câu không tìm được chỗ đậu chân, nên trở về tàu với ông, vì còn nước trên khắp mặt đất. Ông bèn giơ tay bắt lấy nó mà đưa vào trong tàu với ông.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.452Z",
-      "updatedAt": "2024-09-23T03:36:45.452Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.748Z",
+      "updatedAt": "2025-04-22T02:17:09.748Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "7968ee78-d662-4b14-8155-70067ccaa897",
+      "id": "e7254adc-84a6-4fec-9584-5861d476b071",
       "number": 10,
       "content": "Ông đợi thêm bảy ngày, rồi thả con bồ câu ra khỏi tàu một lần nữa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.454Z",
-      "updatedAt": "2024-09-23T03:36:45.454Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.759Z",
+      "updatedAt": "2025-04-22T02:17:09.759Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "8aab050f-ecdc-4855-99f7-2628c5e8aa58",
+      "id": "8a848a73-01cb-43bb-910f-9c2b2d2e40e3",
       "number": 11,
-      "content": "Vào buổi chiều, con bồ câu trở về với ông, và kìa trong mỏ nó có một nhành lá ô-liu tươi ! Ông [Nô-ê]() biết là nước đã giảm trên mặt đất.",
+      "content": "Vào buổi chiều, con bồ câu trở về với ông, và kìa trong mỏ nó có một nhành lá ô-liu tươi ! Ông Nô-ê biết là nước đã giảm trên mặt đất.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.456Z",
-      "updatedAt": "2024-09-23T03:36:45.456Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.769Z",
+      "updatedAt": "2025-04-22T02:17:09.769Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "dce37b72-bc62-4e07-800b-9b6e82728f76",
+      "id": "f042b884-b8d3-4b83-a228-0c0fe58b8072",
       "number": 12,
       "content": "Ông lại đợi thêm bảy ngày, rồi thả con bồ câu ra, nhưng nó không trở về với ông nữa.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.458Z",
-      "updatedAt": "2024-09-23T03:36:45.458Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.789Z",
+      "updatedAt": "2025-04-22T02:17:09.789Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "4c09a10c-4404-40a2-b691-c8bf152fa409",
+      "id": "a94fe0cc-3460-4a59-bdee-4656d8c1c62a",
       "number": 13,
-      "content": "Năm sáu trăm lẻ một đời ông [Nô-ê](), tháng giêng, ngày mồng một tháng ấy, nước đã khô ráo trên mặt đất. Ông [Nô-ê]() dỡ mái tàu ra và thấy mặt đất đã khô ráo.",
+      "content": "Năm sáu trăm lẻ một đời ông Nô-ê, tháng giêng, ngày mồng một tháng ấy, nước đã khô ráo trên mặt đất. Ông Nô-ê dỡ mái tàu ra và thấy mặt đất đã khô ráo.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.460Z",
-      "updatedAt": "2024-09-23T03:36:45.460Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.800Z",
+      "updatedAt": "2025-04-22T02:17:09.800Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "bc86d082-477c-416d-8af9-9e0a37baf75b",
+      "id": "6bfc8ad6-1d38-48cb-97ef-abbf5606507c",
       "number": 14,
       "content": "Tháng hai, ngày hai mươi bảy tháng ấy, đất đã khô.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.462Z",
-      "updatedAt": "2024-09-23T03:36:45.462Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.831Z",
+      "updatedAt": "2025-04-22T02:17:09.831Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "8572d1ef-fbbd-4a51-917d-f4633c87d379",
+      "id": "6ec390b8-3ad9-4b33-b1a8-5f0eac9672d0",
       "number": 15,
-      "content": "Thiên Chúa phán với ông [Nô-ê]() rằng :",
+      "content": "Thiên Chúa phán với ông Nô-ê rằng :",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.464Z",
-      "updatedAt": "2024-09-23T03:36:45.464Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.841Z",
+      "updatedAt": "2025-04-22T02:17:09.841Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "dba0c085-fde1-4da5-a17f-f863a9c8077b",
+      "id": "aa49a815-9e3a-4a91-8bbc-58d3594bf2f3",
       "number": 16,
       "content": "“Ngươi hãy ra khỏi tàu cùng với vợ ngươi, các con trai ngươi và vợ của các con trai ngươi.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.467Z",
-      "updatedAt": "2024-09-23T03:36:45.467Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.878Z",
+      "updatedAt": "2025-04-22T02:17:09.878Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "798895a1-2cbf-47de-bbdc-ff6a064f585a",
+      "id": "36b80676-afd4-4d56-8e8c-8b0edb81cbda",
       "number": 17,
       "content": "Mọi loài vật ở với ngươi, tất cả những gì là xác phàm : chim chóc, gia súc, mọi giống vật bò dưới đất, ngươi hãy đưa chúng ra với ngươi ; chúng phải lúc nhúc trên mặt đất, phải sinh sôi nảy nở thật nhiều trên mặt đất.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.469Z",
-      "updatedAt": "2024-09-23T03:36:45.469Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.889Z",
+      "updatedAt": "2025-04-22T02:17:09.889Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "2ac9f961-9cb3-44c7-b58f-e3bb60d9931b",
+      "id": "cef3d89b-7f64-4728-a946-bd2337fddec8",
       "number": 18,
-      "content": "Ông [Nô-ê]() ra khỏi tàu cùng với các con trai ông, vợ ông và vợ của các con trai ông.",
+      "content": "Ông Nô-ê ra khỏi tàu cùng với các con trai ông, vợ ông và vợ của các con trai ông.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.473Z",
-      "updatedAt": "2024-09-23T03:36:45.473Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.910Z",
+      "updatedAt": "2025-04-22T02:17:09.910Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "09ef5554-bf1e-426a-8352-17d516215e7f",
+      "id": "44abd4a9-bf15-47e5-ae77-7771041b986a",
       "number": 19,
       "content": "Mọi loài vật, mọi gia súc, mọi chim chóc, mọi vật bò dưới đất ra khỏi tàu, theo từng giống.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.476Z",
-      "updatedAt": "2024-09-23T03:36:45.476Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.931Z",
+      "updatedAt": "2025-04-22T02:17:09.931Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "1cb2f85d-7c2c-46df-b96a-875ef52d248a",
+      "id": "d64d43e6-e827-4b42-aa93-45948d16f490",
       "number": 20,
-      "content": "Ông [Nô-ê]() dựng một bàn thờ để kính [ĐỨC CHÚA](). Ông đã lấy một số trong các gia súc thanh sạch và các loài chim thanh sạch mà dâng làm lễ toàn thiêu trên bàn thờ.",
+      "content": "Ông Nô-ê dựng một bàn thờ để kính ĐỨC CHÚA. Ông đã lấy một số trong các gia súc thanh sạch và các loài chim thanh sạch mà dâng làm lễ toàn thiêu trên bàn thờ.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.478Z",
-      "updatedAt": "2024-09-23T03:36:45.478Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.942Z",
+      "updatedAt": "2025-04-22T02:17:09.942Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "901ac8b8-e84c-4e49-9eb7-5c1434e91380",
+      "id": "406df3d9-0673-4f7c-b593-ed0d186faafc",
       "number": 21,
-      "content": "[ĐỨC CHÚA]() ngửi mùi thơm ngon, và [ĐỨC CHÚA]() tự nhủ : “Ta sẽ không bao giờ nguyền rủa đất đai vì con người nữa. Lòng con người toan tính điều xấu từ khi còn trẻ, nhưng Ta sẽ không bao giờ còn sát hại mọi sinh vật như Ta đã làm !",
+      "content": "ĐỨC CHÚA ngửi mùi thơm ngon, và ĐỨC CHÚA tự nhủ : “Ta sẽ không bao giờ nguyền rủa đất đai vì con người nữa. Lòng con người toan tính điều xấu từ khi còn trẻ, nhưng Ta sẽ không bao giờ còn sát hại mọi sinh vật như Ta đã làm !",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:36:45.480Z",
-      "updatedAt": "2024-09-23T03:36:45.480Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.973Z",
+      "updatedAt": "2025-04-22T02:17:09.973Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "f0718a2a-3ca9-4a62-a813-864ee49eb3af",
+      "id": "66a43c64-3b69-4798-adef-45af1ede7934",
       "number": 22,
       "content": "Bao lâu đất này còn, thì mùa gieo mùa gặt,",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:36:45.482Z",
-      "updatedAt": "2024-09-23T03:36:45.482Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:10.006Z",
+      "updatedAt": "2025-04-22T02:17:10.006Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "30cff287-313b-4b96-8abe-3424dc45fdac",
+      "id": "89f4504f-1aff-4bd4-9645-00d830fda59b",
       "number": 22,
       "content": "trời lạnh và trời nóng, tiết hạ và tiết đông,",
       "order": 1,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:36:45.484Z",
-      "updatedAt": "2024-09-23T03:36:45.484Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:10.016Z",
+      "updatedAt": "2025-04-22T02:17:10.016Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "8a47e7df-1e4a-4cbc-be57-28684314955f",
+      "id": "8737e898-560f-46a0-89f1-b7e602b8c1e7",
       "number": 22,
       "content": "ban ngày và ban đêm, sẽ không ngừng đắp đổi.”",
       "order": 2,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T03:36:45.486Z",
-      "updatedAt": "2024-09-23T03:36:45.486Z",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:10.027Z",
+      "updatedAt": "2025-04-22T02:17:10.027Z",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     }
   ],
   "footnotes": [
     {
-      "id": "ad96b665-e69c-4672-a47d-7de613524e00",
+      "id": "621d936d-1d23-4dab-8fa6-649f1ff1319c",
       "content": "Cc. 20-22 là phần kết của truyền thống J về Hồng Thuỷ. Vì đất đai sẽ không bao giờ bị nguyền rủa nữa (c.21b), sự sống vẫn tiếp tục (c.21c), không còn bị Hồng Thuỷ đe doạ nữa (9,11.15), những quy luật của thiên nhiên, của vũ trụ về bốn mùa (xuân, hạ, thu, đông), thời tiết (mưa gió, nóng lạnh), đêm ngày tối sáng, mùa màng ... được tái lập và sẽ tồn tại mãi (8,22).",
       "position": 43,
       "order": 0,
-      "createdAt": "2024-09-23T03:36:45.488Z",
-      "updatedAt": "2024-09-23T03:36:45.488Z",
-      "verseId": "8a47e7df-1e4a-4cbc-be57-28684314955f",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:10.041Z",
+      "updatedAt": "2025-04-22T02:17:10.041Z",
+      "verseId": "8737e898-560f-46a0-89f1-b7e602b8c1e7",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "21141608-8e7e-4a35-af6b-4974f216f4c3",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 27,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.641Z",
+      "updatedAt": "2025-04-22T02:17:09.641Z",
+      "verseId": "dd2165f9-6d3f-4d56-9bfa-d7c92e1fe836",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "af479e8a-d5ac-4ffd-befe-4e8e9ed5d625",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 27,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.717Z",
+      "updatedAt": "2025-04-22T02:17:09.717Z",
+      "verseId": "65e5e97c-b426-4ab4-b7bc-6ac6f60e9952",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "ed3ae4ff-628c-44c7-ab98-ffb97315920f",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 99,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.779Z",
+      "updatedAt": "2025-04-22T02:17:09.779Z",
+      "verseId": "8a848a73-01cb-43bb-910f-9c2b2d2e40e3",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "8b841b5f-f6bc-4c8c-b77f-e752b78a0283",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 109,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.810Z",
+      "updatedAt": "2025-04-22T02:17:09.810Z",
+      "verseId": "a94fe0cc-3460-4a59-bdee-4656d8c1c62a",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "b8965574-7a30-4836-ba25-a2d2bf20e336",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 28,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.868Z",
+      "updatedAt": "2025-04-22T02:17:09.868Z",
+      "verseId": "6ec390b8-3ad9-4b33-b1a8-5f0eac9672d0",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "cf00dce9-4c93-4427-beb8-22f546b04db7",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 8,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.920Z",
+      "updatedAt": "2025-04-22T02:17:09.920Z",
+      "verseId": "cef3d89b-7f64-4728-a946-bd2337fddec8",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "30a2eac0-63a5-4a0d-8b93-546929fdf481",
+      "content": "English: Noah - French: Noé - Latin: Noe - Origin: &#1504;&#1476;&#1495;&#1463; - Vietnamese: Nô-ê St 5,29.32",
+      "position": 8,
+      "order": 3,
+      "createdAt": "2025-04-22T02:17:09.952Z",
+      "updatedAt": "2025-04-22T02:17:09.952Z",
+      "verseId": "d64d43e6-e827-4b42-aa93-45948d16f490",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "38623fe6-117d-431a-aff4-d55476d42dae",
+      "content": "English: Ararat - French: Ararat - Latin: Ararat - Origin: &#1488;&#1458;&#1512;&#1464;&#1512;&#1463;&#1496; - Vietnamese: A-ra-rát Gr 51,27",
+      "position": 73,
+      "order": 5,
+      "createdAt": "2025-04-22T02:17:09.683Z",
+      "updatedAt": "2025-04-22T02:17:09.683Z",
+      "verseId": "9592b553-eb9d-467a-a83f-77d8de1cd9b7",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "a4a101c2-5a39-48f5-8a71-3ef836dac089",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 42,
+      "order": 7,
+      "createdAt": "2025-04-22T02:17:09.963Z",
+      "updatedAt": "2025-04-22T02:17:09.963Z",
+      "verseId": "d64d43e6-e827-4b42-aa93-45948d16f490",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
+    },
+    {
+      "id": "e7779fac-89f2-44d5-bd07-05ce679b20fc",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 40,
+      "order": 7,
+      "createdAt": "2025-04-22T02:17:09.986Z",
+      "updatedAt": "2025-04-22T02:17:09.986Z",
+      "verseId": "406df3d9-0673-4f7c-b593-ed0d186faafc",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     }
   ],
   "headings": [
     {
-      "id": "0ef740d4-1530-45de-9693-6a8cbae12813",
-      "content": "[Nước]() rút",
+      "id": "e5cd3e2f-d6b5-4509-93ab-5a086a2c401a",
+      "content": "Ra khỏi tàu",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:36:45.436Z",
-      "updatedAt": "2024-09-23T03:36:45.436Z",
-      "verseId": "ff5ab6bc-5d66-4976-a6b4-ad74eaa809ed",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.854Z",
+      "updatedAt": "2025-04-22T02:17:09.854Z",
+      "verseId": "6ec390b8-3ad9-4b33-b1a8-5f0eac9672d0",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     },
     {
-      "id": "442e9b07-99f4-4493-81da-1dcd8c02f3b7",
-      "content": "Ra khỏi tàu",
+      "id": "ea323c74-8c8d-4c4f-868b-16cd7f18fa8b",
+      "content": "Nước rút",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:36:45.466Z",
-      "updatedAt": "2024-09-23T03:36:45.466Z",
-      "verseId": "8572d1ef-fbbd-4a51-917d-f4633c87d379",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.630Z",
+      "updatedAt": "2025-04-22T02:17:09.630Z",
+      "verseId": "dd2165f9-6d3f-4d56-9bfa-d7c92e1fe836",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     }
   ],
   "references": [
     {
-      "id": "afa4330f-8b31-486d-8c16-423e9e14577a",
+      "id": "883b9749-3f7a-4618-8211-93d1951a4aed",
       "content": "St 1,22",
       "position": 177,
       "order": 0,
-      "createdAt": "2024-09-23T03:36:45.471Z",
-      "updatedAt": "2024-09-23T03:36:45.471Z",
-      "verseId": "798895a1-2cbf-47de-bbdc-ff6a064f585a",
-      "chapterId": "fd0132e9-b69a-4587-b767-6cf8528a22ab"
+      "createdAt": "2025-04-22T02:17:09.899Z",
+      "updatedAt": "2025-04-22T02:17:09.899Z",
+      "verseId": "36b80676-afd4-4d56-8e8c-8b0edb81cbda",
+      "chapterId": "7feca59a-9b04-4f14-a01e-af4eaa03ff72"
     }
   ],
   "psalmMetadata": []

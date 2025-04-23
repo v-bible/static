@@ -1,374 +1,478 @@
 {
   "chapter": {
-    "id": "d7e5ac99-3468-4946-b521-53b18f19ba8e",
+    "id": "881af37f-607f-40af-a419-2c5c53f54535",
     "number": 12,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.196Z",
-    "updatedAt": "2024-09-23T03:08:02.196Z",
-    "bookId": "5bef186c-6b9b-44c9-8640-c3205aefb2c5"
+    "createdAt": "2025-04-22T00:48:30.881Z",
+    "updatedAt": "2025-04-22T00:48:30.881Z",
+    "bookId": "542b189a-9dde-4d28-a371-559c722fc165"
   },
   "verses": [
     {
-      "id": "f5d6e07c-c8e2-4b51-b9e6-1c489c140eca",
+      "id": "b7b63c08-eacc-41a7-8408-af45a207e58c",
       "number": 1,
-      "content": "Người [Ép-ra-im]() tập hợp lại, vượt sông tới [Xa-phôn]() và nói với ông [Gíp-tác]() : “Tại sao ông vượt sông đánh con cái [Am-mon](), mà lại không gọi chúng tôi cùng đi ? Chúng tôi sẽ nổi lửa đốt nhà ông cho ông chết luôn !”",
+      "content": "Người Ép-ra-im tập hợp lại, vượt sông tới Xa-phôn và nói với ông Gíp-tác : “Tại sao ông vượt sông đánh con cái Am-mon, mà lại không gọi chúng tôi cùng đi ? Chúng tôi sẽ nổi lửa đốt nhà ông cho ông chết luôn !”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.001Z",
-      "updatedAt": "2024-09-23T03:51:44.001Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.594Z",
+      "updatedAt": "2025-04-22T03:35:27.594Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "5ca1c0f1-d88b-4872-9c82-31ebba882c98",
+      "id": "bdc41441-3f28-4f6e-a5c3-be8ecf577a87",
       "number": 2,
-      "content": "Ông [Gíp-tác]() nói với họ : “Tôi và dân tôi phải tranh chấp ác liệt với con cái [Am-mon](). Tôi đã cầu cứu các người, mà các người đã chẳng cứu tôi khỏi tay chúng.",
+      "content": "Ông Gíp-tác nói với họ : “Tôi và dân tôi phải tranh chấp ác liệt với con cái Am-mon. Tôi đã cầu cứu các người, mà các người đã chẳng cứu tôi khỏi tay chúng.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.018Z",
-      "updatedAt": "2024-09-23T03:51:44.018Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.668Z",
+      "updatedAt": "2025-04-22T03:35:27.668Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "915585d1-e3ff-403b-873f-d910db774c15",
+      "id": "da97925e-439f-4e81-a649-2894b475cfae",
       "number": 3,
-      "content": "Tôi thấy không ai cứu, nên đã liều mạng vượt sông đánh con cái [Am-mon](), và [ĐỨC CHÚA]() đã trao tay chúng vào tay tôi. Vậy tại sao hôm nay các người lại lên gây chiến với tôi ?”",
+      "content": "Tôi thấy không ai cứu, nên đã liều mạng vượt sông đánh con cái Am-mon, và ĐỨC CHÚA đã trao tay chúng vào tay tôi. Vậy tại sao hôm nay các người lại lên gây chiến với tôi ?”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.020Z",
-      "updatedAt": "2024-09-23T03:51:44.020Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.678Z",
+      "updatedAt": "2025-04-22T03:35:27.678Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "b2555170-32e7-4cd6-a1a0-93fddfb27915",
+      "id": "b367d7fa-53ee-4281-8cc6-427f738e7f2e",
       "number": 4,
-      "content": "Ông [Gíp-tác]() tập hợp tất cả các người [Ga-la-át]() và giao chiến với [Ép-ra-im](). Người [Ga-la-át]() đánh [Ép-ra-im]() tơi bời, vì [Ép-ra-im]() đã nói : “Này quân [Ga-la-át]() ! Tụi bay chỉ là người [Ép-ra-im]() đào thoát, ăn bám cả [Ép-ra-im]() lẫn [Mơ-na-se]().”",
+      "content": "Ông Gíp-tác tập hợp tất cả các người Ga-la-át và giao chiến với Ép-ra-im. Người Ga-la-át đánh Ép-ra-im tơi bời, vì Ép-ra-im đã nói : “Này quân Ga-la-át ! Tụi bay chỉ là người Ép-ra-im đào thoát, ăn bám cả Ép-ra-im lẫn Mơ-na-se.”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.022Z",
-      "updatedAt": "2024-09-23T03:51:44.022Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.701Z",
+      "updatedAt": "2025-04-22T03:35:27.701Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "8d9ded63-0046-474e-99e6-c05d64ddf1d7",
+      "id": "bf262f29-8195-439b-bf0e-ff9d8d925575",
       "number": 5,
-      "content": "[Ga-la-át]() chiếm giữ các khúc cạn trên sông [Gio-đan](), nơi [Ép-ra-im]() có thể qua. Khi có người [Ép-ra-im]() đào thoát nói : “Cho tôi qua”, thì những người [Ga-la-át]() hỏi : “Anh có phải là người [Ép-ra-im]() không ?” Nếu hắn đáp : “Không”,",
+      "content": "Ga-la-át chiếm giữ các khúc cạn trên sông Gio-đan, nơi Ép-ra-im có thể qua. Khi có người Ép-ra-im đào thoát nói : “Cho tôi qua”, thì những người Ga-la-át hỏi : “Anh có phải là người Ép-ra-im không ?” Nếu hắn đáp : “Không”,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.028Z",
-      "updatedAt": "2024-09-23T03:51:44.028Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.733Z",
+      "updatedAt": "2025-04-22T03:35:27.733Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "54230e77-29d0-4e4f-913d-7032a9ff045b",
+      "id": "9575d531-2652-4bdf-ae58-1439e2070c0c",
       "number": 6,
-      "content": "thì họ bảo : “Hãy nói : Síp-bô-lét.” Nếu hắn nói : “Xíp-bô-lét”, vì hắn không nói đúng được, thì bấy giờ họ bắt lấy hắn mà giết, gần khúc cạn trên sông [Gio-đan](). Thời gian đó, bốn mươi hai ngàn người [Ép-ra-im]() đã ngã gục.",
+      "content": "thì họ bảo : “Hãy nói : Síp-bô-lét.” Nếu hắn nói : “Xíp-bô-lét”, vì hắn không nói đúng được, thì bấy giờ họ bắt lấy hắn mà giết, gần khúc cạn trên sông Gio-đan. Thời gian đó, bốn mươi hai ngàn người Ép-ra-im đã ngã gục.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.030Z",
-      "updatedAt": "2024-09-23T03:51:44.030Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.754Z",
+      "updatedAt": "2025-04-22T03:35:27.754Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "54e098e6-6b7e-429c-9d2f-0d18b7d5f548",
+      "id": "242aad69-c1e7-4506-aae4-551ea87356ca",
       "number": 7,
-      "content": "Ông [Gíp-tác]() làm thủ lãnh [Ít-ra-en]() sáu năm, rồi ông [Gíp-tác](), người [Ga-la-át](), qua đời và được chôn cất trong thành của mình, ở [Ga-la-át]().",
+      "content": "Ông Gíp-tác làm thủ lãnh Ít-ra-en sáu năm, rồi ông Gíp-tác, người Ga-la-át, qua đời và được chôn cất trong thành của mình, ở Ga-la-át.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.039Z",
-      "updatedAt": "2024-09-23T03:51:44.039Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.802Z",
+      "updatedAt": "2025-04-22T03:35:27.802Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "a11a11ef-a71a-40ec-9d5b-bbc3e60287be",
+      "id": "07f256ae-ed16-4e49-b276-6b8ef7f6fc6f",
       "number": 8,
-      "content": "Sau ông [Gíp-tác](), thì có ông [Íp-xan](), người [Bê-lem](), làm thủ lãnh [Ít-ra-en]().",
+      "content": "Sau ông Gíp-tác, thì có ông Íp-xan, người Bê-lem, làm thủ lãnh Ít-ra-en.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.043Z",
-      "updatedAt": "2024-09-23T03:51:44.043Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.816Z",
+      "updatedAt": "2025-04-22T03:35:27.816Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "fea16e13-04d8-4385-be51-398f63c963f1",
+      "id": "57fa50e9-713d-4c7c-b467-e85df8f2f1c2",
       "number": 9,
-      "content": "Ông có ba mươi người con trai và ba mươi người con gái. Ông gả các cô cho người ngoại bang, và hỏi ba mươi người vợ cho các con trai ông, cũng người ngoại bang. Ông làm thủ lãnh [Ít-ra-en]() bảy năm.",
+      "content": "Ông có ba mươi người con trai và ba mươi người con gái. Ông gả các cô cho người ngoại bang, và hỏi ba mươi người vợ cho các con trai ông, cũng người ngoại bang. Ông làm thủ lãnh Ít-ra-en bảy năm.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.056Z",
-      "updatedAt": "2024-09-23T03:51:44.056Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.873Z",
+      "updatedAt": "2025-04-22T03:35:27.873Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "305e3f64-cff3-4a76-97f2-b5ffef0f469f",
+      "id": "41e217af-5e31-42ff-992b-95ecc37d18f6",
       "number": 10,
-      "content": "Rồi ông [Íp-xan]() qua đời và được chôn cất tại [Bê-lem]().",
+      "content": "Rồi ông Íp-xan qua đời và được chôn cất tại Bê-lem.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.065Z",
-      "updatedAt": "2024-09-23T03:51:44.065Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.900Z",
+      "updatedAt": "2025-04-22T03:35:27.900Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "c4d8393f-6ec7-48db-8bf4-7385601976f4",
+      "id": "aada9e38-f7b1-404b-a44d-63f7f78491a9",
       "number": 11,
-      "content": "Sau ông [Íp-xan](), thì có ông [Ê-lôn](), người [Dơ-vu-lun](), làm thủ lãnh [Ít-ra-en](). Ông làm thủ lãnh mười năm.",
+      "content": "Sau ông Íp-xan, thì có ông Ê-lôn, người Dơ-vu-lun, làm thủ lãnh Ít-ra-en. Ông làm thủ lãnh mười năm.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.069Z",
-      "updatedAt": "2024-09-23T03:51:44.069Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.933Z",
+      "updatedAt": "2025-04-22T03:35:27.933Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "b5092494-e95a-42c2-8a90-4491645dc312",
+      "id": "5bd43e1a-9814-41e1-911b-829c85e26cc8",
       "number": 12,
-      "content": "Rồi ông [Ê-lôn](), người [Dơ-vu-lun](), qua đời và được chôn cất tại [Ai-gia-lôn](), trong đất [Dơ-vu-lun]().",
+      "content": "Rồi ông Ê-lôn, người Dơ-vu-lun, qua đời và được chôn cất tại Ai-gia-lôn, trong đất Dơ-vu-lun.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.087Z",
-      "updatedAt": "2024-09-23T03:51:44.087Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28Z",
+      "updatedAt": "2025-04-22T03:35:28Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "e18e77f4-ea40-4a8a-8ab9-e970749ea8f7",
+      "id": "91691097-9797-4263-a8ef-b5892cd04f6c",
       "number": 13,
-      "content": "Sau ông [Ê-lôn](), thì có ông [Áp-đôn](), con ông [Hi-lên](), người [Pia-a-thôn](), làm thủ lãnh [Ít-ra-en]().",
+      "content": "Sau ông Ê-lôn, thì có ông Áp-đôn, con ông Hi-lên, người Pia-a-thôn, làm thủ lãnh Ít-ra-en.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.091Z",
-      "updatedAt": "2024-09-23T03:51:44.091Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.013Z",
+      "updatedAt": "2025-04-22T03:35:28.013Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "2ed5f52d-5e75-40cc-ba42-362edd45b3f3",
+      "id": "527e8bab-c30e-41ff-8005-f62ca5b3944e",
       "number": 14,
-      "content": "Ông có bốn mươi con trai và ba mươi cháu trai, cỡi bảy mươi con lừa. Ông làm thủ lãnh [Ít-ra-en]() tám năm.",
+      "content": "Ông có bốn mươi con trai và ba mươi cháu trai, cỡi bảy mươi con lừa. Ông làm thủ lãnh Ít-ra-en tám năm.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.105Z",
-      "updatedAt": "2024-09-23T03:51:44.105Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.060Z",
+      "updatedAt": "2025-04-22T03:35:28.060Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "745cc60c-9350-4cfc-b761-4f0ac14df6c0",
+      "id": "5bf73ea1-b817-4c26-bf80-ad2604d51e99",
       "number": 15,
-      "content": "Rồi ông [Áp-đôn](), con ông [Hi-lên](), người [Pia-a-thôn](), qua đời và được chôn cất tại [Pia-a-thôn](), trong đất [Ép-ra-im](), trên núi của người [A-ma-lếch]().",
+      "content": "Rồi ông Áp-đôn, con ông Hi-lên, người Pia-a-thôn, qua đời và được chôn cất tại Pia-a-thôn, trong đất Ép-ra-im, trên núi của người A-ma-lếch.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T03:51:44.113Z",
-      "updatedAt": "2024-09-23T03:51:44.113Z",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.088Z",
+      "updatedAt": "2025-04-22T03:35:28.088Z",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     }
   ],
   "footnotes": [
     {
-      "id": "61416da2-e401-48f1-bef4-0211a63da8ae",
+      "id": "f38bea15-df23-4786-98d9-d0f8c55ee771",
       "content": "Đó là thành của chi tộc Gát (x. Gs 13,27 ; Ds 26,15), nằm ở phía bắc Xúc-cốt.",
-      "position": 57,
+      "position": 49,
       "order": 0,
-      "createdAt": "2024-09-23T03:51:44.012Z",
-      "updatedAt": "2024-09-23T03:51:44.012Z",
-      "verseId": "f5d6e07c-c8e2-4b51-b9e6-1c489c140eca",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.634Z",
+      "updatedAt": "2025-04-22T03:35:27.634Z",
+      "verseId": "b7b63c08-eacc-41a7-8408-af45a207e58c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "ecf5274e-a9f1-46e5-b0a9-c541f4240286",
+      "id": "38e65429-baf9-4cd2-b119-e18fcea98a58",
       "content": "Ép-ra-im là một chi tộc lớn, muốn lên mặt, bảo vệ quyền ưu đẳng của mình, nên hạch hỏi ông Gíp-tác (x. 8,1-3). Giống chuyện ông Ghít-ôn (x. 8,1-3), nhưng ở đây Ép-ra-im bị tiêu diệt.",
-      "position": 222,
+      "position": 206,
       "order": 1,
-      "createdAt": "2024-09-23T03:51:44.014Z",
-      "updatedAt": "2024-09-23T03:51:44.014Z",
-      "verseId": "f5d6e07c-c8e2-4b51-b9e6-1c489c140eca",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.645Z",
+      "updatedAt": "2025-04-22T03:35:27.645Z",
+      "verseId": "b7b63c08-eacc-41a7-8408-af45a207e58c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "62a7d87e-97a3-40d8-b553-4b5ad86287ec",
+      "id": "f536859d-c099-4d8b-b5e6-8861f331d2cd",
       "content": "Nhiều bản sao chép không có câu này. Người ta có thể hiểu chi tộc của ông Gíp-tác thuộc về nhà Giu-se chăng ? Không chắc chắn.",
-      "position": 266,
+      "position": 226,
       "order": 2,
-      "createdAt": "2024-09-23T03:51:44.024Z",
-      "updatedAt": "2024-09-23T03:51:44.024Z",
-      "verseId": "b2555170-32e7-4cd6-a1a0-93fddfb27915",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.712Z",
+      "updatedAt": "2025-04-22T03:35:27.712Z",
+      "verseId": "b367d7fa-53ee-4281-8cc6-427f738e7f2e",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "47ba1e9b-63f8-4b8c-99c6-9740e77afe58",
+      "id": "1e535af0-3dc6-4bcb-8b08-239bc2c5e6e5",
       "content": "Cách phát âm khác nhau cùng một từ giữa các chi tộc khiến người ta phân biệt được người phát âm ở địa phương nào. Ở đây là âm “xờ” và “sờ”.",
       "position": 63,
       "order": 3,
-      "createdAt": "2024-09-23T03:51:44.032Z",
-      "updatedAt": "2024-09-23T03:51:44.032Z",
-      "verseId": "54230e77-29d0-4e4f-913d-7032a9ff045b",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.765Z",
+      "updatedAt": "2025-04-22T03:35:27.765Z",
+      "verseId": "9575d531-2652-4bdf-ae58-1439e2070c0c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "c5972d48-dc81-461f-a4f2-e189075e539c",
+      "id": "34fb658d-efbb-4ad6-9edd-d78bbfe24d56",
       "content": "Con số này phóng đại.",
-      "position": 196,
+      "position": 192,
       "order": 4,
-      "createdAt": "2024-09-23T03:51:44.035Z",
-      "updatedAt": "2024-09-23T03:51:44.035Z",
-      "verseId": "54230e77-29d0-4e4f-913d-7032a9ff045b",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.789Z",
+      "updatedAt": "2025-04-22T03:35:27.789Z",
+      "verseId": "9575d531-2652-4bdf-ae58-1439e2070c0c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "2348b4a5-7625-4aa5-9e4a-154d1679f07c",
+      "id": "f63609b8-114f-4298-9be1-15fdcb5371de",
       "content": "Không phải Bê-lem thuộc Giu-đa, mà Bê-lem thuộc Dơ-vu-lun (x. Gs 19,15), cách Na-da-rét 10 km về phía tây bắc.",
-      "position": 60,
+      "position": 48,
       "order": 5,
-      "createdAt": "2024-09-23T03:51:44.051Z",
-      "updatedAt": "2024-09-23T03:51:44.051Z",
-      "verseId": "a11a11ef-a71a-40ec-9d5b-bbc3e60287be",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.860Z",
+      "updatedAt": "2025-04-22T03:35:27.860Z",
+      "verseId": "07f256ae-ed16-4e49-b276-6b8ef7f6fc6f",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "b05c8b18-0a11-4bf3-87ec-5756a7d31332",
+      "id": "58ec2227-42bd-46c8-8326-11ff43069fcb",
       "content": "Gả con cho người ngoại bang mang tính chất chính trị hơn là tôn giáo. Uy thế của vị thủ lãnh tăng thêm, nhờ những cuộc hôn nhân “hoà bình” ấy.",
       "position": 159,
       "order": 6,
-      "createdAt": "2024-09-23T03:51:44.061Z",
-      "updatedAt": "2024-09-23T03:51:44.061Z",
-      "verseId": "fea16e13-04d8-4385-be51-398f63c963f1",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.887Z",
+      "updatedAt": "2025-04-22T03:35:27.887Z",
+      "verseId": "57fa50e9-713d-4c7c-b467-e85df8f2f1c2",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "a471a4ad-056d-4ed1-bb6f-a90165f056fd",
+      "id": "9a3df390-f6a8-42c7-86fb-5ae4b6b06d37",
       "content": "Ê-lôn vừa là tên một thành, vừa là tên một thị tộc của Dơ-vu-lun (x. St 46,14 ; Ds 26,26).",
-      "position": 40,
+      "position": 32,
       "order": 7,
-      "createdAt": "2024-09-23T03:51:44.078Z",
-      "updatedAt": "2024-09-23T03:51:44.078Z",
-      "verseId": "c4d8393f-6ec7-48db-8bf4-7385601976f4",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.973Z",
+      "updatedAt": "2025-04-22T03:35:27.973Z",
+      "verseId": "aada9e38-f7b1-404b-a44d-63f7f78491a9",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "30b98106-d043-4952-a7ce-729b9fe4aad2",
+      "id": "16732262-4add-4a4a-bfd0-0379a1c356dc",
       "content": "Ngày nay là Pha-ra-ta, cách Si-khem chừng 10 km về phía tây nam. X. 2 Sm 23,30 ; 1 Sb 11,31.",
-      "position": 82,
+      "position": 66,
       "order": 8,
-      "createdAt": "2024-09-23T03:51:44.100Z",
-      "updatedAt": "2024-09-23T03:51:44.100Z",
-      "verseId": "e18e77f4-ea40-4a8a-8ab9-e970749ea8f7",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.048Z",
+      "updatedAt": "2025-04-22T03:35:28.048Z",
+      "verseId": "91691097-9797-4263-a8ef-b5892cd04f6c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "7b69dce6-ab8b-4053-b875-72b00b5098e4",
+      "id": "eb0e450f-1a51-403e-9a6f-a32972d3ae7e",
       "content": "X. 3,13. Dân A-ma-lếch vẫn còn chiếm cứ một vùng núi của Ép-ra-im.",
-      "position": 163,
+      "position": 139,
       "order": 9,
-      "createdAt": "2024-09-23T03:51:44.119Z",
-      "updatedAt": "2024-09-23T03:51:44.119Z",
-      "verseId": "745cc60c-9350-4cfc-b761-4f0ac14df6c0",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.120Z",
+      "updatedAt": "2025-04-22T03:35:28.120Z",
+      "verseId": "5bf73ea1-b817-4c26-bf80-ad2604d51e99",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "1b3fd0cf-169b-4052-8e23-f9b6595eeeaa",
+      "content": "English: Zaphon - French: &#199;afôn - Latin: Saphon - Origin: &#1510;&#1464;&#1508;&#64331;&#1503; - Vietnamese: Xa-phôn Tl 12,1",
+      "position": 49,
+      "order": 16,
+      "createdAt": "2025-04-22T03:35:27.623Z",
+      "updatedAt": "2025-04-22T03:35:27.623Z",
+      "verseId": "b7b63c08-eacc-41a7-8408-af45a207e58c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "073fcba9-566f-40a5-9672-cadac4455a41",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 82,
+      "order": 20,
+      "createdAt": "2025-04-22T03:35:27.691Z",
+      "updatedAt": "2025-04-22T03:35:27.691Z",
+      "verseId": "da97925e-439f-4e81-a649-2894b475cfae",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "51a235c4-c179-452b-b58a-b9cc9f17476d",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 49,
+      "order": 24,
+      "createdAt": "2025-04-22T03:35:27.744Z",
+      "updatedAt": "2025-04-22T03:35:27.744Z",
+      "verseId": "bf262f29-8195-439b-bf0e-ff9d8d925575",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "65101c36-d527-4c66-ba2f-3dd6e1942ccf",
+      "content": "English: Jordan - French: Jourdain - Latin: Iordan - Origin: &#1497;&#1463;&#1512;&#1456;&#1491;&#1468;&#1461;&#1503; &#921;&#959;&#961;&#948;&#945;&#957;&#951;&#962; - Vietnamese: Gio-đan sông lớn nhất ở Pa-lét-tin, G 40,23 ; Mt 3,5-6 ; Lc 3,3",
+      "position": 159,
+      "order": 24,
+      "createdAt": "2025-04-22T03:35:27.776Z",
+      "updatedAt": "2025-04-22T03:35:27.776Z",
+      "verseId": "9575d531-2652-4bdf-ae58-1439e2070c0c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "cb7c670c-10da-40c6-9153-d7a532f55ae2",
+      "content": "English: Ibzan - French: Ibcân - Latin: Abesan - Origin: &#1488;&#1460;&#1489;&#1456;&#1510;&#1464;&#1503; - Vietnamese: Íp-xan Tl 12,8-10",
+      "position": 34,
+      "order": 28,
+      "createdAt": "2025-04-22T03:35:27.846Z",
+      "updatedAt": "2025-04-22T03:35:27.846Z",
+      "verseId": "07f256ae-ed16-4e49-b276-6b8ef7f6fc6f",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "286e6e31-dc13-432f-acb0-b5e17bad4a2d",
+      "content": "English: Ibzan - French: Ibcân - Latin: Abesan - Origin: &#1488;&#1460;&#1489;&#1456;&#1510;&#1464;&#1503; - Vietnamese: Íp-xan Tl 12,8-10",
+      "position": 14,
+      "order": 28,
+      "createdAt": "2025-04-22T03:35:27.920Z",
+      "updatedAt": "2025-04-22T03:35:27.920Z",
+      "verseId": "41e217af-5e31-42ff-992b-95ecc37d18f6",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "d413a12b-a146-4e56-9772-dad4a21e8eb8",
+      "content": "English: Ibzan - French: Ibcân - Latin: Abesan - Origin: &#1488;&#1460;&#1489;&#1456;&#1510;&#1464;&#1503; - Vietnamese: Íp-xan Tl 12,8-10",
+      "position": 14,
+      "order": 28,
+      "createdAt": "2025-04-22T03:35:27.959Z",
+      "updatedAt": "2025-04-22T03:35:27.959Z",
+      "verseId": "aada9e38-f7b1-404b-a44d-63f7f78491a9",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "338dd316-e7c7-40db-8f64-9ae239a61cda",
+      "content": "English: Hillel - French: Hillel - Latin: Illel - Origin: &#1492;&#1460;&#1500;&#1468;&#1461;&#1500; - Vietnamese: Hi-lên Tl 12,13-15",
+      "position": 48,
+      "order": 40,
+      "createdAt": "2025-04-22T03:35:28.038Z",
+      "updatedAt": "2025-04-22T03:35:28.038Z",
+      "verseId": "91691097-9797-4263-a8ef-b5892cd04f6c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "abafe323-ed66-47c0-b140-1b578237252d",
+      "content": "English: Hillel - French: Hillel - Latin: Illel - Origin: &#1492;&#1460;&#1500;&#1468;&#1461;&#1500; - Vietnamese: Hi-lên Tl 12,13-15",
+      "position": 30,
+      "order": 40,
+      "createdAt": "2025-04-22T03:35:28.098Z",
+      "updatedAt": "2025-04-22T03:35:28.098Z",
+      "verseId": "5bf73ea1-b817-4c26-bf80-ad2604d51e99",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "0287de79-6166-4011-bb9c-1c9ebc70acfb",
+      "content": "English: Amalek - French: Amalécite, Amaleq - Latin: Amalec - Origin: &#1506;&#1458;&#1502;&#1464;&#1500;&#1461;&#1511; - Vietnamese: A-ma-lếch St 36,12.16",
+      "position": 139,
+      "order": 44,
+      "createdAt": "2025-04-22T03:35:28.109Z",
+      "updatedAt": "2025-04-22T03:35:28.109Z",
+      "verseId": "5bf73ea1-b817-4c26-bf80-ad2604d51e99",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     }
   ],
   "headings": [
     {
-      "id": "b4a7c729-0926-4159-9437-e95f84e2a317",
-      "content": "Chiến tranh giữa [Ép-ra-im]() và [Ga-la-át](). Ông [Gíp-tác]() qua đời.",
-      "order": 0,
-      "createdAt": "2024-09-23T03:51:44.010Z",
-      "updatedAt": "2024-09-23T03:51:44.010Z",
-      "verseId": "f5d6e07c-c8e2-4b51-b9e6-1c489c140eca",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
-    },
-    {
-      "id": "ac8b9389-fa22-48fa-ba1e-c7f637a30c7d",
+      "id": "9f9edce8-4cab-4712-8b6a-9666b8d0f494",
       "content": "9. ÔNG ÍP-XAN",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:51:44.047Z",
-      "updatedAt": "2024-09-23T03:51:44.047Z",
-      "verseId": "a11a11ef-a71a-40ec-9d5b-bbc3e60287be",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.833Z",
+      "updatedAt": "2025-04-22T03:35:27.833Z",
+      "verseId": "07f256ae-ed16-4e49-b276-6b8ef7f6fc6f",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "0e91c13a-353e-48c4-a764-012517b78dcd",
-      "content": "10. ÔNG Ê-LÔN",
-      "order": 0,
-      "createdAt": "2024-09-23T03:51:44.074Z",
-      "updatedAt": "2024-09-23T03:51:44.074Z",
-      "verseId": "c4d8393f-6ec7-48db-8bf4-7385601976f4",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
-    },
-    {
-      "id": "960ea131-4f56-462a-b4b5-1ba39b54c0b0",
+      "id": "7967ab53-a32a-4721-8cfe-1c2efb624bca",
       "content": "11. ÔNG ÁP-ĐÔN",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T03:51:44.096Z",
-      "updatedAt": "2024-09-23T03:51:44.096Z",
-      "verseId": "e18e77f4-ea40-4a8a-8ab9-e970749ea8f7",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.024Z",
+      "updatedAt": "2025-04-22T03:35:28.024Z",
+      "verseId": "91691097-9797-4263-a8ef-b5892cd04f6c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "b39fccf5-5809-400e-9ad8-f48cc8736b8c",
+      "content": "10. ÔNG Ê-LÔN",
+      "level": 1,
+      "order": 0,
+      "createdAt": "2025-04-22T03:35:27.946Z",
+      "updatedAt": "2025-04-22T03:35:27.946Z",
+      "verseId": "aada9e38-f7b1-404b-a44d-63f7f78491a9",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
+    },
+    {
+      "id": "2fb6c2d8-27f2-47f7-a811-d29ea1ca583f",
+      "content": "Chiến tranh giữa Ép-ra-im và Ga-la-át. Ông Gíp-tác qua đời.",
+      "level": 2,
+      "order": 0,
+      "createdAt": "2025-04-22T03:35:27.612Z",
+      "updatedAt": "2025-04-22T03:35:27.612Z",
+      "verseId": "b7b63c08-eacc-41a7-8408-af45a207e58c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     }
   ],
   "references": [
     {
-      "id": "1336877e-3f3a-447c-bbac-dc957970201a",
+      "id": "b5ed272e-c73e-4740-8a27-9f43f48b7866",
       "content": "Tl 8,1-3",
-      "position": 142,
+      "position": 126,
       "order": 0,
-      "createdAt": "2024-09-23T03:51:44.016Z",
-      "updatedAt": "2024-09-23T03:51:44.016Z",
-      "verseId": "f5d6e07c-c8e2-4b51-b9e6-1c489c140eca",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.657Z",
+      "updatedAt": "2025-04-22T03:35:27.657Z",
+      "verseId": "b7b63c08-eacc-41a7-8408-af45a207e58c",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "1b6291b1-63ae-4286-ab50-573ce2d5c15e",
+      "id": "e547c958-26d2-4cef-a105-405e2689453a",
       "content": "Tl 3,28; 7,24",
-      "position": 92,
+      "position": 80,
       "order": 1,
-      "createdAt": "2024-09-23T03:51:44.026Z",
-      "updatedAt": "2024-09-23T03:51:44.026Z",
-      "verseId": "b2555170-32e7-4cd6-a1a0-93fddfb27915",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.723Z",
+      "updatedAt": "2025-04-22T03:35:27.723Z",
+      "verseId": "b367d7fa-53ee-4281-8cc6-427f738e7f2e",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "b2f7ec0e-8d2c-484e-965f-ec6d0047e917",
+      "id": "4b4ec378-0321-484e-9d8e-06009b0b6755",
       "content": "St 46,14; Ds 26,26",
-      "position": 31,
+      "position": 27,
       "order": 2,
-      "createdAt": "2024-09-23T03:51:44.082Z",
-      "updatedAt": "2024-09-23T03:51:44.082Z",
-      "verseId": "c4d8393f-6ec7-48db-8bf4-7385601976f4",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:27.986Z",
+      "updatedAt": "2025-04-22T03:35:27.986Z",
+      "verseId": "aada9e38-f7b1-404b-a44d-63f7f78491a9",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     },
     {
-      "id": "a7ff2e8f-c6b9-4c25-be21-fb7919aeef14",
+      "id": "10ad45c3-e56b-456a-9ac8-526c54e999ef",
       "content": "Tl 10,4",
       "position": 7,
       "order": 3,
-      "createdAt": "2024-09-23T03:51:44.109Z",
-      "updatedAt": "2024-09-23T03:51:44.109Z",
-      "verseId": "2ed5f52d-5e75-40cc-ba42-362edd45b3f3",
-      "chapterId": "d7e5ac99-3468-4946-b521-53b18f19ba8e"
+      "createdAt": "2025-04-22T03:35:28.077Z",
+      "updatedAt": "2025-04-22T03:35:28.077Z",
+      "verseId": "527e8bab-c30e-41ff-8005-f62ca5b3944e",
+      "chapterId": "881af37f-607f-40af-a419-2c5c53f54535"
     }
   ],
   "psalmMetadata": []

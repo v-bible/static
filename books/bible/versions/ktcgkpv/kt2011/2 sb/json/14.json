@@ -1,243 +1,364 @@
 {
   "chapter": {
-    "id": "aec960f2-2df1-4693-8d51-6112e9180119",
+    "id": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e",
     "number": 14,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.334Z",
-    "updatedAt": "2024-09-23T03:08:02.334Z",
-    "bookId": "1c769124-3ec2-4c6b-b242-418c636975a3"
+    "createdAt": "2025-04-22T00:48:30.969Z",
+    "updatedAt": "2025-04-22T00:48:30.969Z",
+    "bookId": "749025ac-4b89-4fc1-bfee-ffbaabcc2f07"
   },
   "verses": [
     {
-      "id": "0e6b85a8-a375-4dd5-8c6c-00adc601aba0",
+      "id": "5c0f5843-c962-4154-9116-133fbd0e0a62",
       "number": 1,
-      "content": "Vua [A-xa]() làm điều tốt lành và ngay chính trước mắt [ĐỨC CHÚA]() Thiên Chúa của vua.",
+      "content": "Vua A-xa làm điều tốt lành và ngay chính trước mắt ĐỨC CHÚA Thiên Chúa của vua.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.069Z",
-      "updatedAt": "2024-09-23T04:06:40.069Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.432Z",
+      "updatedAt": "2025-04-22T04:30:58.432Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "b2e17b25-f215-4400-a303-5379e3803220",
+      "id": "e394d647-9854-4082-b941-47df6b4a1db0",
       "number": 2,
       "content": "Vua dẹp bỏ các bàn thờ của ngoại kiều và các nơi cao, phá huỷ các trụ thờ và các cột thờ.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.081Z",
-      "updatedAt": "2024-09-23T04:06:40.081Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.474Z",
+      "updatedAt": "2025-04-22T04:30:58.474Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "45ff777a-2817-4e49-896e-c38578346d36",
+      "id": "6f58caed-e19c-48f4-a726-5fe9b299601a",
       "number": 3,
-      "content": "Vua khuyên người [Giu-đa]() tìm kiếm [ĐỨC CHÚA](), Thiên Chúa tổ tiên họ, thi hành Lề Luật và huấn lệnh của Người.",
+      "content": "Vua khuyên người Giu-đa tìm kiếm ĐỨC CHÚA, Thiên Chúa tổ tiên họ, thi hành Lề Luật và huấn lệnh của Người.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.085Z",
-      "updatedAt": "2024-09-23T04:06:40.085Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.505Z",
+      "updatedAt": "2025-04-22T04:30:58.505Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "e77a797e-45dd-4822-910f-fba22b4c5d0e",
+      "id": "501f5965-9c0a-4f8d-8b20-77c7d7588abf",
       "number": 4,
-      "content": "Vua dẹp bỏ các nơi cao và các bàn thiên khỏi các thành [Giu-đa](). Dưới triều vua, vương quốc được yên hàn.",
+      "content": "Vua dẹp bỏ các nơi cao và các bàn thiên khỏi các thành Giu-đa. Dưới triều vua, vương quốc được yên hàn.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.088Z",
-      "updatedAt": "2024-09-23T04:06:40.088Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.537Z",
+      "updatedAt": "2025-04-22T04:30:58.537Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "9595a199-8e2f-4a7e-a90f-566b5143fcaa",
+      "id": "17ed979e-a5c4-4a30-8dbf-d54e69a0d369",
       "number": 5,
-      "content": "Vua xây các thành kiên cố tại [Giu-đa](), vì xứ sở được yên hàn. Sở dĩ trong các năm đó, vua không phải đương đầu với một cuộc chiến tranh nào cả, là vì [ĐỨC CHÚA]() đã ban cho đất nước được an bình.",
+      "content": "Vua xây các thành kiên cố tại Giu-đa, vì xứ sở được yên hàn. Sở dĩ trong các năm đó, vua không phải đương đầu với một cuộc chiến tranh nào cả, là vì ĐỨC CHÚA đã ban cho đất nước được an bình.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.097Z",
-      "updatedAt": "2024-09-23T04:06:40.097Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.565Z",
+      "updatedAt": "2025-04-22T04:30:58.565Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "6cd563a4-cff6-404b-9fb5-9d77c1b7a6b2",
+      "id": "b2aaa69f-84e2-4ad0-9d43-7841de2aff09",
       "number": 6,
-      "content": "Vua nói với người [Giu-đa]() : “Ta hãy tái thiết các thành ấy, xây tường luỹ chung quanh, dựng tháp, làm cửa với then cài ; đất nước còn thuộc về chúng ta, vì chúng ta vẫn tìm kiếm [ĐỨC CHÚA]() là Thiên Chúa chúng ta ; chúng ta tìm kiếm Người, nên Người ban cho chúng ta được tư bề yên ổn.”",
+      "content": "Vua nói với người Giu-đa : “Ta hãy tái thiết các thành ấy, xây tường luỹ chung quanh, dựng tháp, làm cửa với then cài ; đất nước còn thuộc về chúng ta, vì chúng ta vẫn tìm kiếm ĐỨC CHÚA là Thiên Chúa chúng ta ; chúng ta tìm kiếm Người, nên Người ban cho chúng ta được tư bề yên ổn.”",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.101Z",
-      "updatedAt": "2024-09-23T04:06:40.101Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.589Z",
+      "updatedAt": "2025-04-22T04:30:58.589Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "87aa8a83-11bc-4d70-bff6-d9151c399841",
+      "id": "c46924ee-7ef9-41af-a4bd-ff787fb10f60",
       "number": 8,
-      "content": "Bấy giờ [De-rác]() người Cút xuất hiện chống phá họ với một đạo quân gồm một triệu người và ba trăm chiến xa ; y đã đến tận [Ma-rê-sa]().",
+      "content": "Bấy giờ De-rác người Cút xuất hiện chống phá họ với một đạo quân gồm một triệu người và ba trăm chiến xa ; y đã đến tận Ma-rê-sa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.110Z",
-      "updatedAt": "2024-09-23T04:06:40.110Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.637Z",
+      "updatedAt": "2025-04-22T04:30:58.637Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "d7fa21a9-f8df-49b0-aec6-6a59bc66ea90",
+      "id": "27d3655d-14fb-442f-98f9-47c98ab69aa5",
       "number": 9,
-      "content": "Vua [A-xa]() ra ngênh chiến và dàn trận tại thung lũng [Xơ-pha-tha](), gần [Ma-rê-sa]().",
+      "content": "Vua A-xa ra ngênh chiến và dàn trận tại thung lũng Xơ-pha-tha, gần Ma-rê-sa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.127Z",
-      "updatedAt": "2024-09-23T04:06:40.127Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.708Z",
+      "updatedAt": "2025-04-22T04:30:58.708Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "bf83e1ff-ac71-4453-835d-a2d6afa8fd4b",
+      "id": "c14228f2-4bca-47a3-94d5-3881da86903e",
       "number": 10,
-      "content": "Vua [A-xa]() lên tiếng kêu cầu [ĐỨC CHÚA]() Thiên Chúa của mình : “Lạy [ĐỨC CHÚA](), khi Ngài muốn cứu giúp, thì đối với Ngài chẳng có chi khác biệt giữa người mạnh và người yếu. Lạy [ĐỨC CHÚA]() là Thiên Chúa chúng con, xin cứu giúp chúng con ! Vì chúng con nương tựa vào Ngài và nhân danh Ngài mà chúng con giáp chiến với lũ đông này. Lạy [ĐỨC CHÚA](), chính Ngài là Thiên Chúa của chúng con, xin đừng để cho phàm nhân nào chống lại được với Ngài.”",
+      "content": "Vua A-xa lên tiếng kêu cầu ĐỨC CHÚA Thiên Chúa của mình : “Lạy ĐỨC CHÚA, khi Ngài muốn cứu giúp, thì đối với Ngài chẳng có chi khác biệt giữa người mạnh và người yếu. Lạy ĐỨC CHÚA là Thiên Chúa chúng con, xin cứu giúp chúng con ! Vì chúng con nương tựa vào Ngài và nhân danh Ngài mà chúng con giáp chiến với lũ đông này. Lạy ĐỨC CHÚA, chính Ngài là Thiên Chúa của chúng con, xin đừng để cho phàm nhân nào chống lại được với Ngài.”",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.131Z",
-      "updatedAt": "2024-09-23T04:06:40.131Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.751Z",
+      "updatedAt": "2025-04-22T04:30:58.751Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "16a5b688-5110-4ee9-a4e3-7c8441fb031a",
+      "id": "3e02537b-307b-4bd9-82ff-39e15b189ea7",
       "number": 11,
-      "content": "[ĐỨC CHÚA]() đã đánh bại người Cút trước mặt vua [A-xa]() và trước mặt [Giu-đa]() : những người Cút đã trốn chạy,",
+      "content": "ĐỨC CHÚA đã đánh bại người Cút trước mặt vua A-xa và trước mặt Giu-đa : những người Cút đã trốn chạy,",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.135Z",
-      "updatedAt": "2024-09-23T04:06:40.135Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.819Z",
+      "updatedAt": "2025-04-22T04:30:58.819Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "c3d2cbb5-1ba1-413c-a88f-0b2255854219",
+      "id": "19618846-5c8f-4efc-941f-48cf164f6694",
       "number": 12,
-      "content": "và vua [A-xa]() cùng với quân đội của vua đuổi đánh chúng cho tới [Ghê-ra](). Quân Cút ngã quỵ, không còn ai sống sót : chúng bị đánh tan trước nhan [ĐỨC CHÚA]() và trước doanh trại của Người. Người ta đã thu được thật nhiều chiến lợi phẩm.",
+      "content": "và vua A-xa cùng với quân đội của vua đuổi đánh chúng cho tới Ghê-ra. Quân Cút ngã quỵ, không còn ai sống sót : chúng bị đánh tan trước nhan ĐỨC CHÚA và trước doanh trại của Người. Người ta đã thu được thật nhiều chiến lợi phẩm.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.139Z",
-      "updatedAt": "2024-09-23T04:06:40.139Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.855Z",
+      "updatedAt": "2025-04-22T04:30:58.855Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "7c575846-97ed-45e3-892d-4b433e77605b",
+      "id": "fe92111f-7de7-48b1-9b6e-828b4b23e801",
       "number": 13,
-      "content": "Họ cũng đánh chiếm tất cả các thành chung quanh [Ghê-ra](), vì [ĐỨC CHÚA]() đã giáng kinh hoàng xuống các thành ấy ; họ cướp phá tất cả các thành ấy, vì chiến lợi phẩm ở đó rất nhiều.",
+      "content": "Họ cũng đánh chiếm tất cả các thành chung quanh Ghê-ra, vì ĐỨC CHÚA đã giáng kinh hoàng xuống các thành ấy ; họ cướp phá tất cả các thành ấy, vì chiến lợi phẩm ở đó rất nhiều.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.144Z",
-      "updatedAt": "2024-09-23T04:06:40.144Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.877Z",
+      "updatedAt": "2025-04-22T04:30:58.877Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "74676ce4-3b8f-4e90-a82e-1a85baa879e8",
+      "id": "b994f68b-411c-4690-8e32-e5e262b3f000",
       "number": 14,
-      "content": "Họ còn đánh chiếm cả các trại súc vật, cướp lấy vô số chiên cừu và lạc đà, rồi rút về [Giê-ru-sa-lem]().",
+      "content": "Họ còn đánh chiếm cả các trại súc vật, cướp lấy vô số chiên cừu và lạc đà, rồi rút về Giê-ru-sa-lem.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:06:40.148Z",
-      "updatedAt": "2024-09-23T04:06:40.148Z",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.902Z",
+      "updatedAt": "2025-04-22T04:30:58.902Z",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     }
   ],
   "footnotes": [
     {
-      "id": "1c8a5997-1d07-49fa-bba5-94bd44b0c1d8",
+      "id": "24865919-c40b-4121-a037-35df4415f67b",
       "content": "Tác giả bồi thêm lời 1 V 15 ca tụng vua A-xa và ghi công vua về một cuộc cải tổ tôn giáo (x. ch. 15).",
-      "position": 65,
+      "position": 61,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:40.092Z",
-      "updatedAt": "2024-09-23T04:06:40.092Z",
-      "verseId": "e77a797e-45dd-4822-910f-fba22b4c5d0e",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.551Z",
+      "updatedAt": "2025-04-22T04:30:58.551Z",
+      "verseId": "501f5965-9c0a-4f8d-8b20-77c7d7588abf",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "ed85b901-2a23-4539-a9a2-92895abf02ce",
+      "id": "d3ff5e10-898a-424e-9836-c6ef1cdc2c4e",
       "content": "ds : *Còn ở trước (mặt) chúng ta* một kiểu nói Híp-ri có nghĩa là *tuỳ thuộc vào chúng ta*. Đại ý nói như là “vận mệnh đất nước nằm trong tay chúng ta”, những kẻ vẫn tìm kiếm Đức Chúa.",
-      "position": 154,
+      "position": 150,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:40.106Z",
-      "updatedAt": "2024-09-23T04:06:40.106Z",
-      "verseId": "6cd563a4-cff6-404b-9fb5-9d77c1b7a6b2",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.604Z",
+      "updatedAt": "2025-04-22T04:30:58.604Z",
+      "verseId": "b2aaa69f-84e2-4ad0-9d43-7841de2aff09",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "461ce643-17c1-4aba-b97e-57c46d1a4541",
+      "id": "3c7fd667-48a0-4cc3-b68e-63ca8e2ee68d",
       "content": "Câu truyện không có trong 1 V, nhưng hẳn là có thật, vì liên quan tới những nơi cụ thể, và khi kể lại, tác giả không sợ mâu thuẫn với tình hình an ninh mà ông đã đề cao (cc. 5-6 ; 15,19). Thế nhưng nhân vật De-rác là ai thì không rõ lắm. Có hai giả thiết. Có thể ông ta và đa số các người dưới quyền ông (cc. 11-12) là người Cút đánh thuê trong quân đội Ai-cập, ông chỉ huy đơn vị của Si-sắc đồn trú tại Ghê-ra (x. 12,3 ; 16,8). Cũng có thể ông ta đứng đầu những du mục vùng Ne-ghép (cũng được gọi là Cút, như trường hợp bà vợ của ông Mô-sê, Ds 12,1) đến cướp phá đất Giu-đa (x. c.14). Có điều là những con số quá lớn về đám quân, chắc chắn đã được phóng đại thêm.",
-      "position": 28,
+      "position": 24,
       "order": 2,
-      "createdAt": "2024-09-23T04:06:40.118Z",
-      "updatedAt": "2024-09-23T04:06:40.118Z",
-      "headingId": "20756653-41aa-46e0-8215-75d5b4832ca1",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.662Z",
+      "updatedAt": "2025-04-22T04:30:58.662Z",
+      "headingId": "1a650ee3-7fdc-4299-8569-0659f6d14ce9",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "16b3a625-87cb-4891-a7c0-6def9d3232a7",
+      "id": "9189c6f9-e39f-4d61-975b-effef0d7e75e",
       "content": "Quãng trên 40 cây số tây nam Giê-ru-sa-lem.",
-      "position": 136,
+      "position": 128,
       "order": 3,
-      "createdAt": "2024-09-23T04:06:40.122Z",
-      "updatedAt": "2024-09-23T04:06:40.122Z",
-      "verseId": "87aa8a83-11bc-4d70-bff6-d9151c399841",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.689Z",
+      "updatedAt": "2025-04-22T04:30:58.689Z",
+      "verseId": "c46924ee-7ef9-41af-a4bd-ff787fb10f60",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "a60028b0-e5b7-4b01-995f-f7b025d60f70",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 59,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.446Z",
+      "updatedAt": "2025-04-22T04:30:58.446Z",
+      "verseId": "5c0f5843-c962-4154-9116-133fbd0e0a62",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "3dd21028-5940-402e-b6a1-84e86119118b",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 41,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.522Z",
+      "updatedAt": "2025-04-22T04:30:58.522Z",
+      "verseId": "6f58caed-e19c-48f4-a726-5fe9b299601a",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "805deb35-f9b7-48b3-9e16-4293f84a54c1",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 157,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.575Z",
+      "updatedAt": "2025-04-22T04:30:58.575Z",
+      "verseId": "17ed979e-a5c4-4a30-8dbf-d54e69a0d369",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "8d373b33-48f1-45dc-bfad-8cf59f35fe49",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 185,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.622Z",
+      "updatedAt": "2025-04-22T04:30:58.622Z",
+      "verseId": "b2aaa69f-84e2-4ad0-9d43-7841de2aff09",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "0c7d074e-9e3b-4a38-bc9e-1487512594ba",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 333,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.765Z",
+      "updatedAt": "2025-04-22T04:30:58.765Z",
+      "verseId": "c14228f2-4bca-47a3-94d5-3881da86903e",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "b0146041-79ac-4066-a723-ba7ce21c0fa9",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 8,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.840Z",
+      "updatedAt": "2025-04-22T04:30:58.840Z",
+      "verseId": "3e02537b-307b-4bd9-82ff-39e15b189ea7",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "fcdf1059-5558-4b33-9f7a-2bd3c2a7e207",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 149,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.866Z",
+      "updatedAt": "2025-04-22T04:30:58.866Z",
+      "verseId": "19618846-5c8f-4efc-941f-48cf164f6694",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "d9e62387-2db6-49f3-8708-9a078e0a56ea",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 67,
+      "order": 6,
+      "createdAt": "2025-04-22T04:30:58.891Z",
+      "updatedAt": "2025-04-22T04:30:58.891Z",
+      "verseId": "fe92111f-7de7-48b1-9b6e-828b4b23e801",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "e2660ac5-171b-4cff-8905-0b4269e99403",
+      "content": "English: Mareshah - French: Marésha - Latin: Maresa - Origin: &#1502;&#1464;&#1512;&#1461;&#64298;&#1464;&#1492; - Vietnamese: Ma-rê-sa Gs 15,44 ; 1 Sb 2,42 ; 1 Mcb 5,66",
+      "position": 128,
+      "order": 14,
+      "createdAt": "2025-04-22T04:30:58.675Z",
+      "updatedAt": "2025-04-22T04:30:58.675Z",
+      "verseId": "c46924ee-7ef9-41af-a4bd-ff787fb10f60",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "bf0c88c5-aaab-4d39-880d-055ec7df0220",
+      "content": "English: Mareshah - French: Marésha - Latin: Maresa - Origin: &#1502;&#1464;&#1512;&#1461;&#64298;&#1464;&#1492; - Vietnamese: Ma-rê-sa Gs 15,44 ; 1 Sb 2,42 ; 1 Mcb 5,66",
+      "position": 75,
+      "order": 14,
+      "createdAt": "2025-04-22T04:30:58.737Z",
+      "updatedAt": "2025-04-22T04:30:58.737Z",
+      "verseId": "27d3655d-14fb-442f-98f9-47c98ab69aa5",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "5d1861bc-34b9-499b-ab78-8703f5b505e9",
+      "content": "English: Zephathah - French: Cefata - Latin: vallis - Origin: &#1510;&#1456;&#1508;&#1463;&#1514;&#1464;&#1492; - Vietnamese: Xơ-pha-tha 2 Sb 14,9",
+      "position": 61,
+      "order": 16,
+      "createdAt": "2025-04-22T04:30:58.723Z",
+      "updatedAt": "2025-04-22T04:30:58.723Z",
+      "verseId": "27d3655d-14fb-442f-98f9-47c98ab69aa5",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
+    },
+    {
+      "id": "af79450d-a449-4cc9-9558-3476b74948d6",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 99,
+      "order": 20,
+      "createdAt": "2025-04-22T04:30:58.912Z",
+      "updatedAt": "2025-04-22T04:30:58.912Z",
+      "verseId": "b994f68b-411c-4690-8e32-e5e262b3f000",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     }
   ],
   "headings": [
     {
-      "id": "20756653-41aa-46e0-8215-75d5b4832ca1",
-      "content": "Cuộc xâm lăng của [De-rác]()",
+      "id": "1a650ee3-7fdc-4299-8569-0659f6d14ce9",
+      "content": "Cuộc xâm lăng của De-rác",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:40.114Z",
-      "updatedAt": "2024-09-23T04:06:40.114Z",
-      "verseId": "87aa8a83-11bc-4d70-bff6-d9151c399841",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.651Z",
+      "updatedAt": "2025-04-22T04:30:58.651Z",
+      "verseId": "c46924ee-7ef9-41af-a4bd-ff787fb10f60",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     }
   ],
   "references": [
     {
-      "id": "12021fd2-d3b8-40d2-a5ef-277c85b4cb69",
+      "id": "4c8e6068-5316-4d0b-b336-eb4efac538d3",
       "content": "1 V 15,11-12",
       "position": 4,
       "order": 0,
-      "createdAt": "2024-09-23T04:06:40.078Z",
-      "updatedAt": "2024-09-23T04:06:40.078Z",
-      "verseId": "0e6b85a8-a375-4dd5-8c6c-00adc601aba0",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.460Z",
+      "updatedAt": "2025-04-22T04:30:58.460Z",
+      "verseId": "5c0f5843-c962-4154-9116-133fbd0e0a62",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     },
     {
-      "id": "4d9a624d-1916-4c72-8caa-de79c2b0de0a",
+      "id": "cde03681-44ae-4abc-9e0e-d9dbe4eca4f3",
       "content": "1 Sm 9,12",
       "position": 45,
       "order": 1,
-      "createdAt": "2024-09-23T04:06:40.083Z",
-      "updatedAt": "2024-09-23T04:06:40.083Z",
-      "verseId": "b2e17b25-f215-4400-a303-5379e3803220",
-      "chapterId": "aec960f2-2df1-4693-8d51-6112e9180119"
+      "createdAt": "2025-04-22T04:30:58.489Z",
+      "updatedAt": "2025-04-22T04:30:58.489Z",
+      "verseId": "e394d647-9854-4082-b941-47df6b4a1db0",
+      "chapterId": "a230cb7c-dc2d-451a-ac3d-8fed386f9b5e"
     }
   ],
   "psalmMetadata": []

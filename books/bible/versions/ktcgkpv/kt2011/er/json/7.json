@@ -1,475 +1,698 @@
 {
   "chapter": {
-    "id": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e",
+    "id": "7f3ec3e0-b6b0-4a90-9291-74177289251c",
     "number": 7,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.335Z",
-    "updatedAt": "2024-09-23T03:08:02.335Z",
-    "bookId": "32d25d33-46cd-462a-8cf8-aab5d8f21184"
+    "createdAt": "2025-04-22T00:48:31.600Z",
+    "updatedAt": "2025-04-22T00:48:31.600Z",
+    "bookId": "6a32cd19-72e3-41fb-b8e9-c42da0a05cec"
   },
   "verses": [
     {
-      "id": "454ef198-a452-40fd-8368-57a77d7c8c23",
+      "id": "ad91a814-284e-4871-80ca-877e98e23c37",
       "number": 1,
-      "content": "Sau những biến cố đó, dưới triều [Ác-tắc-sát-ta](), vua [Ba-tư](), có ông [Ét-ra](), con cháu của [Xơ-ra-gia](), con của [A-dác-gia](), con của [Khin-ki-gia](),",
+      "content": "Sau những biến cố đó, dưới triều Ác-tắc-sát-ta, vua Ba-tư, có ông Ét-ra, con cháu của Xơ-ra-gia, con của A-dác-gia, con của Khin-ki-gia,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.960Z",
-      "updatedAt": "2024-09-23T04:05:26.960Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.101Z",
+      "updatedAt": "2025-04-22T04:39:39.101Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "c3982b78-d37f-4be8-a620-535fa3e6260b",
+      "id": "ef721370-3254-4f0a-879e-dee048715339",
       "number": 2,
-      "content": "con của [Sa-lum](), con của [Xa-đốc](), con của [A-khi-túp](),",
+      "content": "con của Sa-lum, con của Xa-đốc, con của A-khi-túp,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.978Z",
-      "updatedAt": "2024-09-23T04:05:26.978Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.202Z",
+      "updatedAt": "2025-04-22T04:39:39.202Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "11f643e5-3e8d-41fc-93b9-c215261375fc",
+      "id": "b7736057-65af-4cb6-a8a1-cdcd3055e6f5",
       "number": 3,
-      "content": "con của [A-mác-gia](), con của [A-dác-gia](), con của [Mơ-ra-giốt](),",
+      "content": "con của A-mác-gia, con của A-dác-gia, con của Mơ-ra-giốt,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.980Z",
-      "updatedAt": "2024-09-23T04:05:26.980Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.216Z",
+      "updatedAt": "2025-04-22T04:39:39.216Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "fb2e5162-3cb7-404a-8e8c-7a3c2ffc3ffe",
+      "id": "efbed596-e784-4a72-82d1-0464b0a43142",
       "number": 4,
-      "content": "con của [Dơ-rác-gia](), con của [Út-di](), con của [Búc-ki](),",
+      "content": "con của Dơ-rác-gia, con của Út-di, con của Búc-ki,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.982Z",
-      "updatedAt": "2024-09-23T04:05:26.982Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.229Z",
+      "updatedAt": "2025-04-22T04:39:39.229Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "1e0d977f-d11c-46c8-b8ec-8a78b5239f42",
+      "id": "7db5f4cd-beb4-4752-9efa-16e72530330f",
       "number": 5,
-      "content": "con của [A-vi-su-a](), con của [Pin-khát](), con của [E-la-da](), con của thượng tế [A-ha-ron]() ;",
+      "content": "con của A-vi-su-a, con của Pin-khát, con của E-la-da, con của thượng tế A-ha-ron ;",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.984Z",
-      "updatedAt": "2024-09-23T04:05:26.984Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.243Z",
+      "updatedAt": "2025-04-22T04:39:39.243Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "0c7ba757-bf4f-4d58-852b-9d10ecbdb659",
+      "id": "7f91f178-12da-4a03-8a12-56568963719d",
       "number": 6,
-      "content": "chính ông [Ét-ra]() này đã từ [Ba-by-lon]() lên. Ông là một kinh sư thông Luật [Mô-sê](), mà [ĐỨC CHÚA](), Thiên Chúa của [Ít-ra-en]() đã ban. Vì bàn tay [ĐỨC CHÚA](), Thiên Chúa của ông, che chở ông, nên tất cả những gì ông xin vua đều ban cho.",
+      "content": "chính ông Ét-ra này đã từ Ba-by-lon lên. Ông là một kinh sư thông Luật Mô-sê, mà ĐỨC CHÚA, Thiên Chúa của Ít-ra-en đã ban. Vì bàn tay ĐỨC CHÚA, Thiên Chúa của ông, che chở ông, nên tất cả những gì ông xin vua đều ban cho.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.986Z",
-      "updatedAt": "2024-09-23T04:05:26.986Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.275Z",
+      "updatedAt": "2025-04-22T04:39:39.275Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "a8c563eb-019e-4950-94b5-073017d5ece4",
+      "id": "feb33263-5955-4238-812f-83aa2f37bea5",
       "number": 7,
-      "content": "Con cái [Ít-ra-en](), các tư tế, các thầy [Lê-vi](), các ca viên, những người giữ cửa, những người phục vụ Đền Thờ, lên [Giê-ru-sa-lem]() vào năm thứ bảy đời vua [Ác-tắc-sát-ta]().",
+      "content": "Con cái Ít-ra-en, các tư tế, các thầy Lê-vi, các ca viên, những người giữ cửa, những người phục vụ Đền Thờ, lên Giê-ru-sa-lem vào năm thứ bảy đời vua Ác-tắc-sát-ta.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.989Z",
-      "updatedAt": "2024-09-23T04:05:26.989Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.344Z",
+      "updatedAt": "2025-04-22T04:39:39.344Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "571ead31-2e1e-4e7d-a24f-27907da0af67",
+      "id": "959f5332-a907-485b-8f9a-1e71798e0ee8",
       "number": 8,
-      "content": "Ông tới [Giê-ru-sa-lem]() vào tháng thứ năm, năm thứ bảy của triều vua.",
+      "content": "Ông tới Giê-ru-sa-lem vào tháng thứ năm, năm thứ bảy của triều vua.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.992Z",
-      "updatedAt": "2024-09-23T04:05:26.992Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.384Z",
+      "updatedAt": "2025-04-22T04:39:39.384Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "7f477426-c99a-4a48-80fe-03119bef122e",
+      "id": "059f2907-06ff-4164-8291-6a3bc9776033",
       "number": 9,
-      "content": "Quả thế, ông đã ấn định ngày rời [Ba-by-lon]() để đi lên đó vào mồng một tháng thứ nhất, và tới [Giê-ru-sa-lem]() vào ngày mồng một tháng thứ năm : có bàn tay nhân lành Thiên Chúa của ông che chở ông.",
+      "content": "Quả thế, ông đã ấn định ngày rời Ba-by-lon để đi lên đó vào mồng một tháng thứ nhất, và tới Giê-ru-sa-lem vào ngày mồng một tháng thứ năm : có bàn tay nhân lành Thiên Chúa của ông che chở ông.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:26.994Z",
-      "updatedAt": "2024-09-23T04:05:26.994Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.414Z",
+      "updatedAt": "2025-04-22T04:39:39.414Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "9488537e-e786-4ce7-97ca-0b63ef54f4e7",
+      "id": "46c9e4ba-bbb3-4140-9799-0d64eba81e8f",
       "number": 10,
-      "content": "Quả thật, ông [Ét-ra]() đã chú tâm tìm hiểu kỹ càng Lề Luật của [ĐỨC CHÚA](), thực hành Luật đó và dạy cho dân [Ít-ra-en]() biết những thánh chỉ và quyết định.",
+      "content": "Quả thật, ông Ét-ra đã chú tâm tìm hiểu kỹ càng Lề Luật của ĐỨC CHÚA, thực hành Luật đó và dạy cho dân Ít-ra-en biết những thánh chỉ và quyết định.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.007Z",
-      "updatedAt": "2024-09-23T04:05:27.007Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.483Z",
+      "updatedAt": "2025-04-22T04:39:39.483Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "eb9b8af5-a53e-4384-866a-43d1a8f5c641",
+      "id": "54f4a857-eef3-407b-b08e-4c732938df99",
       "number": 11,
-      "content": "Đây là bản sao sắc chỉ của vua [Ác-tắc-sát-ta]() đã trao cho ông [Ét-ra](), tư tế kinh sư, kinh sư chuyên về các lời diễn tả mệnh lệnh và các thánh chỉ của [ĐỨC CHÚA]() liên quan đến [Ít-ra-en]().",
+      "content": "Đây là bản sao sắc chỉ của vua Ác-tắc-sát-ta đã trao cho ông Ét-ra, tư tế kinh sư, kinh sư chuyên về các lời diễn tả mệnh lệnh và các thánh chỉ của ĐỨC CHÚA liên quan đến Ít-ra-en.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.012Z",
-      "updatedAt": "2024-09-23T04:05:27.012Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.510Z",
+      "updatedAt": "2025-04-22T04:39:39.510Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "7f1156bd-0954-4f77-8e3a-54f53b7999cc",
+      "id": "fe0ab83a-3837-4e56-bf3c-001b54215783",
       "number": 14,
-      "content": "bởi vì ông được vua và bảy vị cố vấn của vua cử đi để thị sát [Giu-đa]() và [Giê-ru-sa-lem](), chiếu theo Lề Luật của Thiên Chúa của ông, Lề Luật mà ông có trong tay ;",
+      "content": "bởi vì ông được vua và bảy vị cố vấn của vua cử đi để thị sát Giu-đa và Giê-ru-sa-lem, chiếu theo Lề Luật của Thiên Chúa của ông, Lề Luật mà ông có trong tay ;",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.020Z",
-      "updatedAt": "2024-09-23T04:05:27.020Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.578Z",
+      "updatedAt": "2025-04-22T04:39:39.578Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "acf9e7bf-c39d-4a75-9aa8-9203eb5faabb",
+      "id": "a3b54ac0-d1c8-4c8c-9059-655246ad3c55",
       "number": 15,
-      "content": "ông cũng được cử đi để mang vàng bạc, mà vua và các vị cố vấn của vua đã tự nguyện dâng cúng Thiên Chúa của [Ít-ra-en]() ngự tại cung điện Người ở [Giê-ru-sa-lem](),",
+      "content": "ông cũng được cử đi để mang vàng bạc, mà vua và các vị cố vấn của vua đã tự nguyện dâng cúng Thiên Chúa của Ít-ra-en ngự tại cung điện Người ở Giê-ru-sa-lem,",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.030Z",
-      "updatedAt": "2024-09-23T04:05:27.030Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.623Z",
+      "updatedAt": "2025-04-22T04:39:39.623Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "7aebdb33-ddc9-4927-9879-bed289e432ac",
+      "id": "41fba193-13fc-40a1-82f9-18ae759c63d7",
       "number": 16,
-      "content": "cũng như mang tất cả vàng bạc ông sẽ tìm ra trong khắp tỉnh [Ba-by-lon](), cùng với những lễ vật mà dân và các tư tế sẽ tự nguyện dâng cúng cho Nhà Thiên Chúa của họ tại [Giê-ru-sa-lem]().",
+      "content": "cũng như mang tất cả vàng bạc ông sẽ tìm ra trong khắp tỉnh Ba-by-lon, cùng với những lễ vật mà dân và các tư tế sẽ tự nguyện dâng cúng cho Nhà Thiên Chúa của họ tại Giê-ru-sa-lem.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.035Z",
-      "updatedAt": "2024-09-23T04:05:27.035Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.656Z",
+      "updatedAt": "2025-04-22T04:39:39.656Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "114c3893-b4be-43b7-8b28-97df212685a1",
+      "id": "299ff0b8-428e-46e2-b363-7d20ae939817",
       "number": 17,
-      "content": "Vì thế, ông hãy cẩn thận dùng tiền bạc đó mà mua bò, chiên, cừu, cũng như các lễ phẩm và rượu tế ; ông sẽ tiến dâng các lễ vật đó trên bàn thờ của Nhà Thiên Chúa của các ông ở [Giê-ru-sa-lem]().",
+      "content": "Vì thế, ông hãy cẩn thận dùng tiền bạc đó mà mua bò, chiên, cừu, cũng như các lễ phẩm và rượu tế ; ông sẽ tiến dâng các lễ vật đó trên bàn thờ của Nhà Thiên Chúa của các ông ở Giê-ru-sa-lem.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.039Z",
-      "updatedAt": "2024-09-23T04:05:27.039Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.683Z",
+      "updatedAt": "2025-04-22T04:39:39.683Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "2181e8eb-29c5-48bf-8195-0a7d68ea39b9",
+      "id": "d586bc5a-fcc0-40ba-950c-20cd9ab65703",
       "number": 18,
       "content": "Với số vàng bạc còn dư, các ông sẽ làm những gì ông và anh em ông cho là tốt, và làm theo ý muốn của Thiên Chúa các ông thờ.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.044Z",
-      "updatedAt": "2024-09-23T04:05:27.044Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.714Z",
+      "updatedAt": "2025-04-22T04:39:39.714Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "6a283ec2-2b2a-4b01-8ebd-f9ec61510834",
+      "id": "5f6f96e5-2f5b-48b7-bf61-008e0782a7f0",
       "number": 19,
-      "content": "Còn những đồ vật đã được trao cho ông để dùng vào việc thờ phượng trong Nhà Thiên Chúa của ông, thì ông hãy đặt trước nhan Thiên Chúa ngự tại [Giê-ru-sa-lem]().",
+      "content": "Còn những đồ vật đã được trao cho ông để dùng vào việc thờ phượng trong Nhà Thiên Chúa của ông, thì ông hãy đặt trước nhan Thiên Chúa ngự tại Giê-ru-sa-lem.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 7,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.053Z",
-      "updatedAt": "2024-09-23T04:05:27.053Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.744Z",
+      "updatedAt": "2025-04-22T04:39:39.744Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "e3daed39-b21b-4dc1-a815-09ef9b42de26",
+      "id": "bf794f28-b516-44d9-b645-5705cbc642c5",
       "number": 20,
       "content": "Còn những đồ vật cần thiết khác cho Nhà Thiên Chúa của ông, đồ vật ông có nhiệm vụ phải cung cấp, thì ông sẽ lĩnh ở kho tàng của vua mà cung cấp.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 8,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.058Z",
-      "updatedAt": "2024-09-23T04:05:27.058Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.773Z",
+      "updatedAt": "2025-04-22T04:39:39.773Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "da3156fd-46b8-4f98-aec9-114ad50c0567",
+      "id": "ea024516-5ba2-4779-aeeb-8c744198b2f4",
       "number": 21,
-      "content": "Chính ta, vua [Ác-tắc-sát-ta](), ra lệnh cho mọi thủ quỹ Vùng bên kia sông [Êu-phơ-rát]() : tất cả những gì tư tế [Ét-ra](), kinh sư chuyên về Lề Luật của Thiên Chúa, Chúa các tầng trời, sẽ xin các ngươi, thì các ngươi phải thực hiện cho chu đáo.",
+      "content": "Chính ta, vua Ác-tắc-sát-ta, ra lệnh cho mọi thủ quỹ Vùng bên kia sông Êu-phơ-rát : tất cả những gì tư tế Ét-ra, kinh sư chuyên về Lề Luật của Thiên Chúa, Chúa các tầng trời, sẽ xin các ngươi, thì các ngươi phải thực hiện cho chu đáo.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 9,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.062Z",
-      "updatedAt": "2024-09-23T04:05:27.062Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.786Z",
+      "updatedAt": "2025-04-22T04:39:39.786Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "fbdcb67d-ce6c-4ec5-b5d8-2dbbaafe31d8",
+      "id": "b1a98214-0ad5-4761-9696-b6888ea0e535",
       "number": 22,
       "content": "Các ngươi có thể cấp cho tới ba ngàn ký bạc, một ngàn giạ lúa miến, hai trăm thùng rượu, hai trăm thùng dầu, còn muối thì không có hạn.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 10,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.066Z",
-      "updatedAt": "2024-09-23T04:05:27.066Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.826Z",
+      "updatedAt": "2025-04-22T04:39:39.826Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "4ab0bdac-dcab-4ad9-a95e-8bad6d172c39",
+      "id": "62a73e1f-3b9a-4a58-9a83-d2e2dd801947",
       "number": 23,
       "content": "Tất cả những gì là lệnh của Thiên Chúa, Chúa các tầng trời, phải được nghiêm chỉnh thi hành cho Nhà Thiên Chúa, Chúa các tầng trời, để cơn thịnh nộ của Người khỏi giáng xuống vương quốc của vua và của các hoàng tử.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 11,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.075Z",
-      "updatedAt": "2024-09-23T04:05:27.075Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.857Z",
+      "updatedAt": "2025-04-22T04:39:39.857Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "45c9cbd7-db35-43b3-a69b-3ae6889ab65f",
+      "id": "54dd7234-69b4-41b2-9201-d38d9b2df8ad",
       "number": 24,
-      "content": "Ta cũng còn cho các ngươi biết là không được phép thu cống vật, thuế má, thuế thông quá của bất cứ tư tế hay thầy [Lê-vi](), ca viên hay người giữ cửa và những người phục vụ Đền Thờ, nói tóm lại, của bất cứ người nào phục vụ Nhà Thiên Chúa.",
+      "content": "Ta cũng còn cho các ngươi biết là không được phép thu cống vật, thuế má, thuế thông quá của bất cứ tư tế hay thầy Lê-vi, ca viên hay người giữ cửa và những người phục vụ Đền Thờ, nói tóm lại, của bất cứ người nào phục vụ Nhà Thiên Chúa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 12,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.079Z",
-      "updatedAt": "2024-09-23T04:05:27.079Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.870Z",
+      "updatedAt": "2025-04-22T04:39:39.870Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "9dadaaf1-dcd0-4d2c-a030-c8cbdeb787f5",
+      "id": "3c167574-0bf2-453f-a722-d5d086f67a59",
       "number": 25,
-      "content": "“Phần ông, ông [Ét-ra](), với sự khôn ngoan của Thiên Chúa của ông, sự khôn ngoan mà ông nắm trong tay, ông hãy đặt các thẩm phán, các quan toà để xử kiện cho toàn dân Vùng bên kia sông [Êu-phơ-rát](), cho tất cả những người biết Lề Luật của Thiên Chúa của ông. Còn kẻ không biết Lề Luật đó, các ông sẽ giúp cho họ biết.",
+      "content": "“Phần ông, ông Ét-ra, với sự khôn ngoan của Thiên Chúa của ông, sự khôn ngoan mà ông nắm trong tay, ông hãy đặt các thẩm phán, các quan toà để xử kiện cho toàn dân Vùng bên kia sông Êu-phơ-rát, cho tất cả những người biết Lề Luật của Thiên Chúa của ông. Còn kẻ không biết Lề Luật đó, các ông sẽ giúp cho họ biết.",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.087Z",
-      "updatedAt": "2024-09-23T04:05:27.087Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.901Z",
+      "updatedAt": "2025-04-22T04:39:39.901Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "8ec4ca0f-fe93-42cb-9721-c4aabb7c47a9",
+      "id": "00effca8-09df-4bbe-9ff6-a72307db40ab",
       "number": 26,
       "content": "Ai không giữ Lề Luật của Thiên Chúa của ông và luật của vua, thì phải trừng trị thích đáng : như xử tử, hoặc trục xuất, hoặc phạt tiền, hay bỏ tù.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.096Z",
-      "updatedAt": "2024-09-23T04:05:27.096Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.941Z",
+      "updatedAt": "2025-04-22T04:39:39.941Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "c51e27d3-2e57-4ee8-be42-236368ab9b19",
+      "id": "2a2e7a68-afa7-4ab0-a3e7-254e4aa60ae8",
       "number": 28,
-      "content": "và đã làm cho đức vua, các cố vấn và mọi quan chức quyền thế nhất của đức vua tỏ lòng thương yêu tôi. Còn tôi thì lên tinh thần, vì bàn tay [ĐỨC CHÚA](), Thiên Chúa của tôi, che chở tôi. Tôi tập họp một số thủ lãnh [Ít-ra-en]() lại, để họ cùng đi lên với tôi.",
+      "content": "và đã làm cho đức vua, các cố vấn và mọi quan chức quyền thế nhất của đức vua tỏ lòng thương yêu tôi. Còn tôi thì lên tinh thần, vì bàn tay ĐỨC CHÚA, Thiên Chúa của tôi, che chở tôi. Tôi tập họp một số thủ lãnh Ít-ra-en lại, để họ cùng đi lên với tôi.",
       "order": 0,
       "parNumber": 5,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:27.105Z",
-      "updatedAt": "2024-09-23T04:05:27.105Z",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.967Z",
+      "updatedAt": "2025-04-22T04:39:39.967Z",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     }
   ],
   "footnotes": [
     {
-      "id": "74bbde73-8cd2-4a6b-918e-295e08f663c7",
+      "id": "cad9faca-8ca7-4516-840c-1529ebf09fbb",
       "content": "*Vua Ác-tắc-sát-ta* : trong lịch sử Ba-tư có hai vua mang tên này : Ác-tắc-sát-ta I biệt danh “Tay Dài” (465-424) ; Ác-tắc-sát-ta II (404-358). Bản văn không nói rõ nên người ta thường nghĩ là Ác-tắc-sát-ta I ; năm thứ bảy tức là khoảng 458. Đây là vấn đề mấu chốt trong việc xác định niên biểu của hai sách Er và Nkm.",
-      "position": 50,
+      "position": 46,
       "order": 0,
-      "createdAt": "2024-09-23T04:05:26.974Z",
-      "updatedAt": "2024-09-23T04:05:26.974Z",
-      "verseId": "454ef198-a452-40fd-8368-57a77d7c8c23",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.162Z",
+      "updatedAt": "2025-04-22T04:39:39.162Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "c4360f96-28ee-48df-b385-a31f859c482f",
+      "id": "685461bb-3b63-4f5c-bdb7-285fecaee3b0",
       "content": "*Xơ-ra-gia* : nếu là Xơ-ra-gia bị giết khi Giê-ru-sa-lem thất thủ (x. 2 V 25,18-21) thì là ông tổ mấy đời chứ không thể là cha của Ét-ra. Mục đích đoạn văn là cho thấy Ét-ra thuộc dòng dõi tư tế A-ha-ron.",
-      "position": 111,
+      "position": 95,
       "order": 1,
-      "createdAt": "2024-09-23T04:05:26.976Z",
-      "updatedAt": "2024-09-23T04:05:26.976Z",
-      "verseId": "454ef198-a452-40fd-8368-57a77d7c8c23",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.189Z",
+      "updatedAt": "2025-04-22T04:39:39.189Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "6106a6ce-6f54-407f-af66-c4d5546b191d",
+      "id": "04fb5982-79ac-4808-9d51-6a08a89e2083",
       "content": "*Ông đã ấn định*, dịch theo bản Hy-lạp.",
       "position": 23,
       "order": 2,
-      "createdAt": "2024-09-23T04:05:26.996Z",
-      "updatedAt": "2024-09-23T04:05:26.996Z",
-      "verseId": "7f477426-c99a-4a48-80fe-03119bef122e",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.427Z",
+      "updatedAt": "2025-04-22T04:39:39.427Z",
+      "verseId": "059f2907-06ff-4164-8291-6a3bc9776033",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "e8e522d8-e07d-414b-81e4-e2633d505822",
+      "id": "1839d807-c87f-411c-afd2-626c2d6f6aea",
       "content": "*Tháng thứ nhất* : tức là ngày 1 tháng Ni-xan (nhằm tháng 3-4 dương lịch).",
-      "position": 87,
+      "position": 83,
       "order": 3,
-      "createdAt": "2024-09-23T04:05:26.999Z",
-      "updatedAt": "2024-09-23T04:05:26.999Z",
-      "verseId": "7f477426-c99a-4a48-80fe-03119bef122e",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.440Z",
+      "updatedAt": "2025-04-22T04:39:39.440Z",
+      "verseId": "059f2907-06ff-4164-8291-6a3bc9776033",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "3d675b61-338d-47ba-bd79-8403a6300c0a",
+      "id": "eb2f28e4-62b4-4fc8-888b-8ad1ed64e8e3",
       "content": "*Chiếu theo Lề Luật* : Ông Ét-ra vừa là một viên chức quan trọng và có uy tín của triều đình Ba-tư, vừa là người thông thạo Luật Chúa. Ông được vua và hội đồng cố vấn cử đi thị sát nhằm chấn chỉnh cuộc sống của dân cư Giu-đa và Giê-ru-sa-lem cho đúng Luật Chúa, đồng thời đem của lễ về dâng tại Đền Thờ Giê-ru-sa-lem cùng với những đóng góp khác. Điều này hoàn toàn phù hợp với chính sách của triều đình Ba-tư chủ trương xây dựng các cộng đồng dân cư theo luật tôn giáo, lấy đền thờ làm trung tâm. Sứ mệnh này làm cho Ét-ra trở thành “Mô-sê mới”, người thiết lập Do-thái giáo và làm cho nó trở thành quốc giáo. Ét-ra cũng trở thành “kiểu mẫu” của các kinh sư Do-thái từ sau lưu đày cho đến thời Đức Giê-su : đọc, dịch và giải thích Luật Mô-sê.",
-      "position": 113,
+      "position": 105,
       "order": 5,
-      "createdAt": "2024-09-23T04:05:27.025Z",
-      "updatedAt": "2024-09-23T04:05:27.025Z",
-      "verseId": "7f1156bd-0954-4f77-8e3a-54f53b7999cc",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.606Z",
+      "updatedAt": "2025-04-22T04:39:39.606Z",
+      "verseId": "fe0ab83a-3837-4e56-bf3c-001b54215783",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "9152e8c7-478f-4340-b1f9-e15346411040",
+      "id": "b6b56e49-be16-443d-a57a-185ee5e7f4f5",
       "content": "*Ba ngàn ký* : các đơn vị đo lường trong câu này đều đã được chuyển sang đơn vị đo lường quen thuộc của chúng ta.",
       "position": 43,
       "order": 6,
-      "createdAt": "2024-09-23T04:05:27.070Z",
-      "updatedAt": "2024-09-23T04:05:27.070Z",
-      "verseId": "fbdcb67d-ce6c-4ec5-b5d8-2dbbaafe31d8",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.843Z",
+      "updatedAt": "2025-04-22T04:39:39.843Z",
+      "verseId": "b1a98214-0ad5-4761-9696-b6888ea0e535",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "ecd1d7cb-4e95-4541-8cbb-354f894a03f1",
+      "id": "ccdab1da-4381-42fd-a2a7-8693a8dea76f",
       "content": "Việc miễn thuế hoàn toàn cho các người phục vụ đền thờ nằm trong chính sách tôn giáo chung của đế quốc Ba-tư, chứ không phải đặc ân đối với Đền Thờ Giê-ru-sa-lem.",
       "position": 87,
       "order": 7,
-      "createdAt": "2024-09-23T04:05:27.083Z",
-      "updatedAt": "2024-09-23T04:05:27.083Z",
-      "verseId": "45c9cbd7-db35-43b3-a69b-3ae6889ab65f",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.887Z",
+      "updatedAt": "2025-04-22T04:39:39.887Z",
+      "verseId": "54dd7234-69b4-41b2-9201-d38d9b2df8ad",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "5ccefeae-7446-413c-9d15-3b0155a1aa8e",
+      "id": "13e53048-1ac5-4e3c-a4df-396e24e73f21",
       "content": "Ông Ét-ra được trao quyền thiết lập cả hệ thống tư pháp và giáo dục để bảo đảm việc thực thi Luật Chúa. Việc này cũng cho thấy Ét-ra làm lại công việc của Mô-sê (x. Xh 18,24-26 ; Đnl 1,9-18 ; 31,9-13).",
-      "position": 143,
+      "position": 139,
       "order": 8,
-      "createdAt": "2024-09-23T04:05:27.092Z",
-      "updatedAt": "2024-09-23T04:05:27.092Z",
-      "verseId": "9dadaaf1-dcd0-4d2c-a030-c8cbdeb787f5",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.915Z",
+      "updatedAt": "2025-04-22T04:39:39.915Z",
+      "verseId": "3c167574-0bf2-453f-a722-d5d086f67a59",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "49815a1e-a431-486f-9fdf-6f31c5d1267b",
+      "id": "1fd8cc67-3599-40a4-b088-801e86caa8ae",
       "content": "*Trục xuất* : nghĩa của từ này không rõ ; có thể hiểu là đánh đòn.",
       "position": 118,
       "order": 9,
-      "createdAt": "2024-09-23T04:05:27.100Z",
-      "updatedAt": "2024-09-23T04:05:27.100Z",
-      "verseId": "8ec4ca0f-fe93-42cb-9721-c4aabb7c47a9",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.954Z",
+      "updatedAt": "2025-04-22T04:39:39.954Z",
+      "verseId": "00effca8-09df-4bbe-9ff6-a72307db40ab",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "5ad6b6dd-120d-43e9-82d7-45ba733e63e2",
+      "content": "English: Artaxerxes - French: Artaxerxès - Latin: Artaxerxes - Origin: &#1488;&#1463;&#1512;&#1456;&#64330;&#1463;&#1495;&#1456;&#64298;&#1463;&#64299;&#1456;&#1514;&#1464;&#1488; - Vietnamese: Ác-tắc-sát-ta vua Ba-tư, Er 4,7-23",
+      "position": 46,
+      "order": 13,
+      "createdAt": "2025-04-22T04:39:39.149Z",
+      "updatedAt": "2025-04-22T04:39:39.149Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "0ac8f0b6-8f43-4d30-8c5e-8cbe2a1e3f61",
+      "content": "English: Artaxerxes - French: Artaxerxès - Latin: Artaxerxes - Origin: &#1488;&#1463;&#1512;&#1456;&#64330;&#1463;&#1495;&#1456;&#64298;&#1463;&#64299;&#1456;&#1514;&#1464;&#1488; - Vietnamese: Ác-tắc-sát-ta vua Ba-tư, Er 4,7-23",
+      "position": 163,
+      "order": 13,
+      "createdAt": "2025-04-22T04:39:39.371Z",
+      "updatedAt": "2025-04-22T04:39:39.371Z",
+      "verseId": "feb33263-5955-4238-812f-83aa2f37bea5",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "c02481ff-6a9e-4347-aa63-d6c7c6e46cb0",
+      "content": "English: Artaxerxes - French: Artaxerxès - Latin: Artaxerxes - Origin: &#1488;&#1463;&#1512;&#1456;&#64330;&#1463;&#1495;&#1456;&#64298;&#1463;&#64299;&#1456;&#1514;&#1464;&#1488; - Vietnamese: Ác-tắc-sát-ta vua Ba-tư, Er 4,7-23",
+      "position": 44,
+      "order": 13,
+      "createdAt": "2025-04-22T04:39:39.551Z",
+      "updatedAt": "2025-04-22T04:39:39.551Z",
+      "verseId": "54f4a857-eef3-407b-b08e-4c732938df99",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "65c11745-6767-47d7-9b6b-400e4fa7704d",
+      "content": "English: Artaxerxes - French: Artaxerxès - Latin: Artaxerxes - Origin: &#1488;&#1463;&#1512;&#1456;&#64330;&#1463;&#1495;&#1456;&#64298;&#1463;&#64299;&#1456;&#1514;&#1464;&#1488; - Vietnamese: Ác-tắc-sát-ta vua Ba-tư, Er 4,7-23",
+      "position": 27,
+      "order": 13,
+      "createdAt": "2025-04-22T04:39:39.800Z",
+      "updatedAt": "2025-04-22T04:39:39.800Z",
+      "verseId": "ea024516-5ba2-4779-aeeb-8c744198b2f4",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "dade669f-8825-452b-8bc1-67479288773e",
+      "content": "English: Artaxerxes - French: Artaxerxès - Latin: Artaxerxes - Origin: &#1488;&#1463;&#1512;&#1456;&#64330;&#1463;&#1495;&#1456;&#64298;&#1463;&#64299;&#1456;&#1514;&#1464;&#1488; - Vietnamese: Ác-tắc-sát-ta vua Ba-tư, Er 4,7-23",
+      "position": 29,
+      "order": 13,
+      "createdAt": "2025-04-22T04:39:39.537Z",
+      "updatedAt": "2025-04-22T04:39:39.537Z",
+      "headingId": "817b64ef-6a08-4d2e-bd11-154a0e205b99",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "15758641-dd90-4bb3-bacb-6a243d673ecc",
+      "content": "English: Persia - French: Perse - Latin: Persa - Origin: &#64324;&#1464;&#1512;&#1463;&#1505; - Vietnamese: Ba-tư Ed 27,10 ; 2 Sb 36,20",
+      "position": 57,
+      "order": 15,
+      "createdAt": "2025-04-22T04:39:39.175Z",
+      "updatedAt": "2025-04-22T04:39:39.175Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "f530e5df-a3a2-451d-aec1-0de21ef36881",
+      "content": "English: Aaron - French: Aaron - Latin: Aaron - Origin: &#1488;&#1463;&#1492;&#1458;&#1512;&#1465;&#1503; - Vietnamese: A-ha-ron Gs 21,4",
+      "position": 80,
+      "order": 45,
+      "createdAt": "2025-04-22T04:39:39.262Z",
+      "updatedAt": "2025-04-22T04:39:39.262Z",
+      "verseId": "7db5f4cd-beb4-4752-9efa-16e72530330f",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "4e15c63b-2195-4931-9238-f418e6cacdb3",
+      "content": "English: Moses - French: Moise - Latin: Moysen - Origin: &#1502;&#1465; &#64298;&#1462;&#1492; - Vietnamese: Mô-sê Xh 2,10",
+      "position": 76,
+      "order": 49,
+      "createdAt": "2025-04-22T04:39:39.288Z",
+      "updatedAt": "2025-04-22T04:39:39.288Z",
+      "verseId": "7f91f178-12da-4a03-8a12-56568963719d",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "9ca16f45-fade-4bb1-9b8a-3f1945f362b2",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 142,
+      "order": 51,
+      "createdAt": "2025-04-22T04:39:39.302Z",
+      "updatedAt": "2025-04-22T04:39:39.302Z",
+      "verseId": "7f91f178-12da-4a03-8a12-56568963719d",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "29562c80-5043-4748-b45a-25cd3d37172b",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 68,
+      "order": 51,
+      "createdAt": "2025-04-22T04:39:39.496Z",
+      "updatedAt": "2025-04-22T04:39:39.496Z",
+      "verseId": "46c9e4ba-bbb3-4140-9799-0d64eba81e8f",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "0a523472-c75b-4adb-8f74-f9df211d3c08",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 156,
+      "order": 51,
+      "createdAt": "2025-04-22T04:39:39.565Z",
+      "updatedAt": "2025-04-22T04:39:39.565Z",
+      "verseId": "54f4a857-eef3-407b-b08e-4c732938df99",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "79641ed1-d22d-4fad-b1a0-b13c1095ad61",
+      "content": "English: Yahweh - French: SEIGNEUR - Latin: Dominus - Origin: &#1497;&#1456;&#1492;&#64331;&#1464;&#1492; - Vietnamese: ĐỨC CHÚA Danh của Thiên Chúa Ít-ra-en, St 2,4...",
+      "position": 148,
+      "order": 51,
+      "createdAt": "2025-04-22T04:39:39.980Z",
+      "updatedAt": "2025-04-22T04:39:39.980Z",
+      "verseId": "2a2e7a68-afa7-4ab0-a3e7-254e4aa60ae8",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "139527e0-36b5-40db-a32e-72ebaa47143d",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 125,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.358Z",
+      "updatedAt": "2025-04-22T04:39:39.358Z",
+      "verseId": "feb33263-5955-4238-812f-83aa2f37bea5",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "884eaab1-4325-48b7-a65e-9b44eb630398",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 21,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.397Z",
+      "updatedAt": "2025-04-22T04:39:39.397Z",
+      "verseId": "959f5332-a907-485b-8f9a-1e71798e0ee8",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "6abc18b3-2a58-4a35-8604-c51eaf6d118e",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 105,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.453Z",
+      "updatedAt": "2025-04-22T04:39:39.453Z",
+      "verseId": "059f2907-06ff-4164-8291-6a3bc9776033",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "2a40f8d2-8f21-409f-b238-d4a444dc2c0a",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 85,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.592Z",
+      "updatedAt": "2025-04-22T04:39:39.592Z",
+      "verseId": "fe0ab83a-3837-4e56-bf3c-001b54215783",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "3e446735-6837-4356-b48a-7b12e7009abf",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 156,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.640Z",
+      "updatedAt": "2025-04-22T04:39:39.640Z",
+      "verseId": "a3b54ac0-d1c8-4c8c-9059-655246ad3c55",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "50872f34-fd1c-4c29-9518-b485b284a743",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 179,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.670Z",
+      "updatedAt": "2025-04-22T04:39:39.670Z",
+      "verseId": "41fba193-13fc-40a1-82f9-18ae759c63d7",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "01159b1f-8662-46d3-bc82-ba5abd8e362a",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 189,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.701Z",
+      "updatedAt": "2025-04-22T04:39:39.701Z",
+      "verseId": "299ff0b8-428e-46e2-b363-7d20ae939817",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "12439717-5fa4-4804-8e86-b5ce97e724a5",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 155,
+      "order": 57,
+      "createdAt": "2025-04-22T04:39:39.757Z",
+      "updatedAt": "2025-04-22T04:39:39.757Z",
+      "verseId": "5f6f96e5-2f5b-48b7-bf61-008e0782a7f0",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "d6c8b145-d2ee-487c-965d-6f23089a9028",
+      "content": "English: Euphrates - French: Euphrate, Perath - Latin: Euphrates - Origin: &#1492;&#64309;&#1488;&#1508;&#1456;&#1512;&#1464;&#1514; - Vietnamese: Êu-phơ-rát sông Cả, St 2,14 ; Gr 13,4-7",
+      "position": 81,
+      "order": 61,
+      "createdAt": "2025-04-22T04:39:39.813Z",
+      "updatedAt": "2025-04-22T04:39:39.813Z",
+      "verseId": "ea024516-5ba2-4779-aeeb-8c744198b2f4",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "3c60e873-08b2-49b3-ab06-9fbaaee0cd1b",
+      "content": "English: Euphrates - French: Euphrate, Perath - Latin: Euphrates - Origin: &#1492;&#64309;&#1488;&#1508;&#1456;&#1512;&#1464;&#1514; - Vietnamese: Êu-phơ-rát sông Cả, St 2,14 ; Gr 13,4-7",
+      "position": 192,
+      "order": 61,
+      "createdAt": "2025-04-22T04:39:39.928Z",
+      "updatedAt": "2025-04-22T04:39:39.928Z",
+      "verseId": "3c167574-0bf2-453f-a722-d5d086f67a59",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     }
   ],
   "headings": [
     {
-      "id": "a2b21c52-e6d0-44e7-ade3-f15198621318",
+      "id": "817b64ef-6a08-4d2e-bd11-154a0e205b99",
+      "content": "Sắc chỉ của vua Ác-tắc-sát-ta",
+      "level": 2,
+      "order": 0,
+      "createdAt": "2025-04-22T04:39:39.524Z",
+      "updatedAt": "2025-04-22T04:39:39.524Z",
+      "verseId": "54f4a857-eef3-407b-b08e-4c732938df99",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
+    },
+    {
+      "id": "cb1a5292-429a-4ebc-bc7b-bb7d48a51ad6",
       "content": "II. CÁC ÔNG ÉT-RA VÀ NƠ-KHE-MI-A TỔ CHỨC CỘNG ĐOÀN",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:05:26.970Z",
-      "updatedAt": "2024-09-23T04:05:26.970Z",
-      "verseId": "454ef198-a452-40fd-8368-57a77d7c8c23",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.122Z",
+      "updatedAt": "2025-04-22T04:39:39.122Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "eff347f5-7c73-4fac-b0e7-161c559d60d0",
-      "content": "Sắc chỉ của vua [Ác-tắc-sát-ta]()",
-      "order": 0,
-      "createdAt": "2024-09-23T04:05:27.016Z",
-      "updatedAt": "2024-09-23T04:05:27.016Z",
-      "verseId": "eb9b8af5-a53e-4384-866a-43d1a8f5c641",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
-    },
-    {
-      "id": "a7f731e7-3dd0-4b0c-ac90-d7501ec00720",
-      "content": "Thân thế và sứ mạng ông [Ét-ra]()",
+      "id": "91620f90-7af8-48fb-bf1b-7a59ccb399db",
+      "content": "Thân thế và sứ mạng ông Ét-ra",
+      "level": 2,
       "order": 1,
-      "createdAt": "2024-09-23T04:05:26.972Z",
-      "updatedAt": "2024-09-23T04:05:26.972Z",
-      "verseId": "454ef198-a452-40fd-8368-57a77d7c8c23",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.135Z",
+      "updatedAt": "2025-04-22T04:39:39.135Z",
+      "verseId": "ad91a814-284e-4871-80ca-877e98e23c37",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     }
   ],
   "references": [
     {
-      "id": "d38b0790-0ed7-49e8-ac1d-5ce3566592a8",
+      "id": "834bfa12-bd30-452d-aefd-8d9a725cd8a5",
       "content": "Er 7,9.28; 8,18.22.31; Nkm 2,8.18",
-      "position": 146,
+      "position": 126,
       "order": 0,
-      "createdAt": "2024-09-23T04:05:26.987Z",
-      "updatedAt": "2024-09-23T04:05:26.987Z",
-      "verseId": "0c7ba757-bf4f-4d58-852b-9d10ecbdb659",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.328Z",
+      "updatedAt": "2025-04-22T04:39:39.328Z",
+      "verseId": "7f91f178-12da-4a03-8a12-56568963719d",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "31bf0de2-ee16-4ecd-938f-801360a51b54",
+      "id": "4c3e2842-3b5a-4dff-9f0d-ccc17a29adfe",
       "content": "Er 7,6.28",
       "position": 29,
       "order": 1,
-      "createdAt": "2024-09-23T04:05:27.003Z",
-      "updatedAt": "2024-09-23T04:05:27.003Z",
-      "verseId": "7f477426-c99a-4a48-80fe-03119bef122e",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.466Z",
+      "updatedAt": "2025-04-22T04:39:39.466Z",
+      "verseId": "059f2907-06ff-4164-8291-6a3bc9776033",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "50b5e84b-c013-4284-bad1-da85029457ca",
+      "id": "4cb22213-3e4e-42a5-8909-5e8d3f7dc180",
       "content": "Er 8,25-27",
       "position": 7,
       "order": 2,
-      "createdAt": "2024-09-23T04:05:27.048Z",
-      "updatedAt": "2024-09-23T04:05:27.048Z",
-      "verseId": "2181e8eb-29c5-48bf-8195-0a7d68ea39b9",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.727Z",
+      "updatedAt": "2025-04-22T04:39:39.727Z",
+      "verseId": "d586bc5a-fcc0-40ba-950c-20cd9ab65703",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     },
     {
-      "id": "a6a593ba-14ed-4a61-b44a-9341f1bb23d5",
+      "id": "381d0428-3903-433f-b58a-b116668e02a7",
       "content": "Er 7,6.9",
       "position": 132,
       "order": 3,
-      "createdAt": "2024-09-23T04:05:27.109Z",
-      "updatedAt": "2024-09-23T04:05:27.109Z",
-      "verseId": "c51e27d3-2e57-4ee8-be42-236368ab9b19",
-      "chapterId": "268bfbd4-c4b7-4e7f-900c-f2efb2f71a5e"
+      "createdAt": "2025-04-22T04:39:39.992Z",
+      "updatedAt": "2025-04-22T04:39:39.992Z",
+      "verseId": "2a2e7a68-afa7-4ab0-a3e7-254e4aa60ae8",
+      "chapterId": "7f3ec3e0-b6b0-4a90-9291-74177289251c"
     }
   ],
   "psalmMetadata": []

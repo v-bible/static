@@ -1,279 +1,509 @@
 {
   "chapter": {
-    "id": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded",
+    "id": "ae047469-4acd-4915-9739-6b5068356d3c",
     "number": 5,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.335Z",
-    "updatedAt": "2024-09-23T03:08:02.335Z",
-    "bookId": "32d25d33-46cd-462a-8cf8-aab5d8f21184"
+    "createdAt": "2025-04-22T00:48:31.600Z",
+    "updatedAt": "2025-04-22T00:48:31.600Z",
+    "bookId": "6a32cd19-72e3-41fb-b8e9-c42da0a05cec"
   },
   "verses": [
     {
-      "id": "1d2c8527-91ec-4d41-9d79-fa7b73791831",
+      "id": "783a7d18-901d-4903-a726-d8759b978eb4",
       "number": 1,
-      "content": "Ngôn sứ [Khác-gai]() và ngôn sứ [Da-ca-ri-a](), con ông [Ít-đô](), phát ngôn về người Do-thái ở [Giu-đa]() và ở [Giê-ru-sa-lem](), nhân danh Thiên Chúa của [Ít-ra-en](), là Đấng ngự trên họ.",
+      "content": "Ngôn sứ Khác-gai và ngôn sứ Da-ca-ri-a, con ông Ít-đô, phát ngôn về người Do-thái ở Giu-đa và ở Giê-ru-sa-lem, nhân danh Thiên Chúa của Ít-ra-en, là Đấng ngự trên họ.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.171Z",
-      "updatedAt": "2024-09-23T04:05:45.171Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.682Z",
+      "updatedAt": "2025-04-22T04:38:11.682Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "9020d30c-1829-40fa-93ba-e699ed899acd",
+      "id": "0baed913-e08e-4152-b5ad-b7b951d8bda8",
       "number": 2,
-      "content": "Bấy giờ, ông [Dơ-rúp-ba-ven](), con ông [San-ti-ên](), và ông [Giê-su-a](), con ông [Giô-xa-đắc](), đứng ra khởi sự xây Nhà Thiên Chúa ở [Giê-ru-sa-lem](), và có các ngôn sứ của Thiên Chúa trợ giúp các ông.",
+      "content": "Bấy giờ, ông Dơ-rúp-ba-ven, con ông San-ti-ên, và ông Giê-su-a, con ông Giô-xa-đắc, đứng ra khởi sự xây Nhà Thiên Chúa ở Giê-ru-sa-lem, và có các ngôn sứ của Thiên Chúa trợ giúp các ông.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.179Z",
-      "updatedAt": "2024-09-23T04:05:45.179Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.757Z",
+      "updatedAt": "2025-04-22T04:38:11.757Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "63c489b9-aca4-4380-b3eb-57ebb4cbe5a3",
+      "id": "e01729f4-67cf-49f5-a918-636ddd33929c",
       "number": 3,
-      "content": "Vào chính thời ấy, ông [Tát-nai](), trưởng Vùng bên kia sông [Êu-phơ-rát](), ông [Sơ-tha Bốt-nai]() và các đồng liêu đến gặp họ và nói với họ như sau : “Ai cho phép các ông tái thiết Nhà này, tu bổ ngôi nhà gỗ này ?”",
+      "content": "Vào chính thời ấy, ông Tát-nai, trưởng Vùng bên kia sông Êu-phơ-rát, ông Sơ-tha Bốt-nai và các đồng liêu đến gặp họ và nói với họ như sau : “Ai cho phép các ông tái thiết Nhà này, tu bổ ngôi nhà gỗ này ?”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.184Z",
-      "updatedAt": "2024-09-23T04:05:45.184Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.822Z",
+      "updatedAt": "2025-04-22T04:38:11.822Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "6a4dd52e-e5e7-4401-94cd-9e5ef8ef00ed",
+      "id": "c677f40a-396a-4533-9870-4a0eaccf7186",
       "number": 4,
       "content": "Bấy giờ những người ấy còn hỏi họ : “Tên của những người xây ngôi nhà này là gì ?”",
       "order": 0,
       "parNumber": 0,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.188Z",
-      "updatedAt": "2024-09-23T04:05:45.188Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.877Z",
+      "updatedAt": "2025-04-22T04:38:11.877Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "ba87db63-3d1a-4048-bc84-5703c64f8ea0",
+      "id": "e02752f5-3023-4e33-83a3-994786966bce",
       "number": 5,
-      "content": "Nhưng Thiên Chúa của người Do-thái để mắt nhìn đến các kỳ mục của họ, nên người ta đã không đình chỉ công việc của họ, cho đến khi một bản báo cáo được đệ lên vua [Đa-ri-ô](), và sau đó có sắc chỉ phúc đáp về vụ này.",
+      "content": "Nhưng Thiên Chúa của người Do-thái để mắt nhìn đến các kỳ mục của họ, nên người ta đã không đình chỉ công việc của họ, cho đến khi một bản báo cáo được đệ lên vua Đa-ri-ô, và sau đó có sắc chỉ phúc đáp về vụ này.",
       "order": 0,
       "parNumber": 0,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.190Z",
-      "updatedAt": "2024-09-23T04:05:45.190Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.889Z",
+      "updatedAt": "2025-04-22T04:38:11.889Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "b79a7376-455a-49b8-9a52-4a959cdcf512",
+      "id": "b75fe8c0-17f3-4683-a3eb-c30c29fd4731",
       "number": 6,
-      "content": "Đây là bản sao bức thư của ông [Tát-nai](), trưởng Vùng bên kia sông [Êu-phơ-rát](), ông [Sơ-tha Bốt-nai]() và các bạn đồng liêu, các khâm sai Vùng bên kia sông [Êu-phơ-rát](), đã đệ lên vua [Đa-ri-ô]().",
+      "content": "Đây là bản sao bức thư của ông Tát-nai, trưởng Vùng bên kia sông Êu-phơ-rát, ông Sơ-tha Bốt-nai và các bạn đồng liêu, các khâm sai Vùng bên kia sông Êu-phơ-rát, đã đệ lên vua Đa-ri-ô.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.192Z",
-      "updatedAt": "2024-09-23T04:05:45.192Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.901Z",
+      "updatedAt": "2025-04-22T04:38:11.901Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "4bd3cc3a-5fd0-425c-ad33-85719dfe222b",
+      "id": "42b1e3f4-bd90-4f1e-8a18-c07d954f8955",
       "number": 7,
       "content": "Họ đã đệ lên vua một bản tường trình viết như sau :",
       "order": 0,
       "parNumber": 1,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.194Z",
-      "updatedAt": "2024-09-23T04:05:45.194Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.973Z",
+      "updatedAt": "2025-04-22T04:38:11.973Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "578a9987-b5b9-4125-bde0-af86148c873d",
+      "id": "6d835ac2-c5f0-4bd5-a62d-16e3994ce637",
       "number": 9,
       "content": "Bấy giờ chúng tôi đã hỏi các kỳ mục đó, chúng tôi đã nói với họ thế này : ‘Ai cho phép các ông tái thiết Nhà này, tu bổ nhà gỗ này ?’",
       "order": 0,
       "parNumber": 2,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.199Z",
-      "updatedAt": "2024-09-23T04:05:45.199Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.001Z",
+      "updatedAt": "2025-04-22T04:38:12.001Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "53a45b91-d23c-4122-96bc-27f0c097927f",
+      "id": "a73aa38a-7054-46ca-932a-b1a8f8131b0f",
       "number": 10,
       "content": "Chúng tôi cũng hỏi tên của họ để đức vua tường, và đã ghi tên những người làm đầu họ.",
       "order": 0,
       "parNumber": 2,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.201Z",
-      "updatedAt": "2024-09-23T04:05:45.201Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.013Z",
+      "updatedAt": "2025-04-22T04:38:12.013Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "70cc39c7-5305-4635-a474-a509719b7e65",
+      "id": "f9ea058b-8acd-421c-95a5-a9c5e4ec5c74",
       "number": 11,
-      "content": "Đây là câu họ trả lời chúng tôi : ‘Chúng tôi là những tôi trung của Thiên Chúa, Chúa trời đất. Chúng tôi tái thiết ngôi Nhà đã được xây dựng xưa kia, cách đây lâu lắm rồi, một đại vương của [Ít-ra-en]() đã xây lên và đã hoàn thành.",
+      "content": "Đây là câu họ trả lời chúng tôi : ‘Chúng tôi là những tôi trung của Thiên Chúa, Chúa trời đất. Chúng tôi tái thiết ngôi Nhà đã được xây dựng xưa kia, cách đây lâu lắm rồi, một đại vương của Ít-ra-en đã xây lên và đã hoàn thành.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.203Z",
-      "updatedAt": "2024-09-23T04:05:45.203Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.027Z",
+      "updatedAt": "2025-04-22T04:38:12.027Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "62e73b82-a283-4db2-8c9d-4f1cd68e0bae",
+      "id": "0671c2b1-1c8c-4a6f-9dbb-1c45cf7b53d0",
       "number": 12,
-      "content": "Nhưng vì cha ông chúng tôi làm cho Thiên Chúa, Chúa các tầng trời, phải nổi cơn thịnh nộ, nên Người đã trao họ vào tay vua [Na-bu-cô-đô-nô-xo](), người [Can-đê](), vua [Ba-by-lon](). Vua đã phá huỷ Nhà này và đày dân sang [Ba-by-lon]().",
+      "content": "Nhưng vì cha ông chúng tôi làm cho Thiên Chúa, Chúa các tầng trời, phải nổi cơn thịnh nộ, nên Người đã trao họ vào tay vua Na-bu-cô-đô-nô-xo, người Can-đê, vua Ba-by-lon. Vua đã phá huỷ Nhà này và đày dân sang Ba-by-lon.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.205Z",
-      "updatedAt": "2024-09-23T04:05:45.205Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.040Z",
+      "updatedAt": "2025-04-22T04:38:12.040Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "ea9c0f7d-ec23-4975-960b-4e0361bd14e4",
+      "id": "0f1d58ed-222b-4533-b220-de4b14c9b2c5",
       "number": 13,
-      "content": "Tuy thế, năm thứ nhất đời vua [Ky-rô](), vua [Ba-by-lon](), vua [Ky-rô]() ra lệnh tái thiết Nhà này của Thiên Chúa.",
+      "content": "Tuy thế, năm thứ nhất đời vua Ky-rô, vua Ba-by-lon, vua Ky-rô ra lệnh tái thiết Nhà này của Thiên Chúa.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.208Z",
-      "updatedAt": "2024-09-23T04:05:45.208Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.080Z",
+      "updatedAt": "2025-04-22T04:38:12.080Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "cbd9e388-e3df-4ed9-9cf7-9a3965e55066",
+      "id": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
       "number": 14,
-      "content": "Và hơn nữa, vua [Ky-rô]() lấy ra khỏi đền thờ [Ba-by-lon]() những đồ vàng đồ bạc thuộc Nhà Thiên Chúa, mà vua [Na-bu-cô-đô-nô-xo]() đã lấy ra khỏi đền thờ [Giê-ru-sa-lem]() và đưa về đền thờ [Ba-by-lon](). Rồi vua [Ky-rô]() trao những đồ vật ấy cho một người tên là [Sết-bát-xa]() mà vua đã đặt làm tổng trấn.’",
+      "content": "Và hơn nữa, vua Ky-rô lấy ra khỏi đền thờ Ba-by-lon những đồ vàng đồ bạc thuộc Nhà Thiên Chúa, mà vua Na-bu-cô-đô-nô-xo đã lấy ra khỏi đền thờ Giê-ru-sa-lem và đưa về đền thờ Ba-by-lon. Rồi vua Ky-rô trao những đồ vật ấy cho một người tên là Sết-bát-xa mà vua đã đặt làm tổng trấn.’",
       "order": 0,
       "parNumber": 3,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.210Z",
-      "updatedAt": "2024-09-23T04:05:45.210Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.116Z",
+      "updatedAt": "2025-04-22T04:38:12.116Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "b2d05b98-9c81-4c7b-89ed-eafb811cbfce",
+      "id": "3b7c4eeb-83c6-4307-9ff5-149a280313ef",
       "number": 15,
-      "content": "Vua nói với ông : ‘Ông hãy lấy những đồ vật ấy, mang đi và đặt lại ở đền thờ [Giê-ru-sa-lem](). Nhà Thiên Chúa phải được tái thiết ở chỗ cũ.’",
+      "content": "Vua nói với ông : ‘Ông hãy lấy những đồ vật ấy, mang đi và đặt lại ở đền thờ Giê-ru-sa-lem. Nhà Thiên Chúa phải được tái thiết ở chỗ cũ.’",
       "order": 0,
       "parNumber": 3,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.218Z",
-      "updatedAt": "2024-09-23T04:05:45.218Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.196Z",
+      "updatedAt": "2025-04-22T04:38:12.196Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "099e8ada-eb47-45a5-a36f-91c57d2cc726",
+      "id": "44b11ed5-9040-410b-acd3-d2e65c92bb7a",
       "number": 16,
-      "content": "Bấy giờ, ông [Sết-bát-xa]() đến đặt nền Nhà Thiên Chúa ở [Giê-ru-sa-lem](). Từ đó đến nay, Nhà ấy vẫn được tái thiết, nhưng chưa hoàn thành.",
+      "content": "Bấy giờ, ông Sết-bát-xa đến đặt nền Nhà Thiên Chúa ở Giê-ru-sa-lem. Từ đó đến nay, Nhà ấy vẫn được tái thiết, nhưng chưa hoàn thành.",
       "order": 0,
       "parNumber": 3,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.220Z",
-      "updatedAt": "2024-09-23T04:05:45.220Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.217Z",
+      "updatedAt": "2025-04-22T04:38:12.217Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "c45df795-7e7a-433c-a076-14459f76720b",
+      "id": "893791f0-9fee-48b6-9af0-358e61c3383f",
       "number": 17,
-      "content": "Vậy bây giờ, nếu đức vua đồng ý, xin đức vua cho người tìm kiếm trong kho tàng của đức vua, ở bên đó, tại [Ba-by-lon](), để xem vua [Ky-rô]() có thật sự ban lệnh tái thiết Nhà Thiên Chúa ở [Giê-ru-sa-lem]() hay không ? [Xin]() đức vua gửi cho chúng tôi quyết định của ngài về vấn đề này.”",
+      "content": "Vậy bây giờ, nếu đức vua đồng ý, xin đức vua cho người tìm kiếm trong kho tàng của đức vua, ở bên đó, tại Ba-by-lon, để xem vua Ky-rô có thật sự ban lệnh tái thiết Nhà Thiên Chúa ở Giê-ru-sa-lem hay không ? Xin đức vua gửi cho chúng tôi quyết định của ngài về vấn đề này.”",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2024-09-23T04:05:45.269Z",
-      "updatedAt": "2024-09-23T04:05:45.269Z",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.255Z",
+      "updatedAt": "2025-04-22T04:38:12.255Z",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     }
   ],
   "footnotes": [
     {
-      "id": "02699d79-6e86-4a64-8cfb-96ded097d05e",
+      "id": "54482a05-f511-4287-be4d-34a7ccf9f02c",
       "content": "Sau khi kể việc khởi công xây lại Đền Thờ (ch. 3), tác giả đã dành ch. 4 để lý giải tại sao công việc bị ngưng trệ cho đến năm thứ hai triều vua Đa-ri-ô. Bây giờ tác giả tiếp tục kể việc xây dựng và khánh thành Đền Thờ nhờ sự cổ võ của hai vị ngôn sứ.",
-      "position": 46,
+      "position": 38,
       "order": 0,
-      "createdAt": "2024-09-23T04:05:45.175Z",
-      "updatedAt": "2024-09-23T04:05:45.175Z",
-      "verseId": "1d2c8527-91ec-4d41-9d79-fa7b73791831",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.718Z",
+      "updatedAt": "2025-04-22T04:38:11.718Z",
+      "verseId": "783a7d18-901d-4903-a726-d8759b978eb4",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "099ce74e-c3b3-4b81-bcb9-4902f10cfcfe",
+      "id": "30876a3c-d89e-462d-8030-a630f5775412",
       "content": "San-ti-ên là con cả của vua Giơ-khon-gia, vị vua áp chót của Giu-đa, bị lưu đày từ 597 tCN, sau được vua Ba-by-lon ân xá. Gia phả nhà Đa-vít được tính theo ngành này chứ không theo ngành Xít-ki-gia-hu (x. 1 Sb 3,17) là ông vua cuối cùng do Ba-by-lon đặt lên. Dơ-rúp-ba-ven là dòng dõi Đa-vít, Giê-su-a là dòng dõi tư tế, hai trụ cột của Ít-ra-en.",
-      "position": 53,
+      "position": 45,
       "order": 1,
-      "createdAt": "2024-09-23T04:05:45.181Z",
-      "updatedAt": "2024-09-23T04:05:45.181Z",
-      "verseId": "9020d30c-1829-40fa-93ba-e699ed899acd",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.784Z",
+      "updatedAt": "2025-04-22T04:38:11.784Z",
+      "verseId": "0baed913-e08e-4152-b5ad-b7b951d8bda8",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "2cb3d333-b9ec-45b4-853f-d444f5ff8afb",
+      "id": "a4aa1607-3bea-4f28-891c-a939d252231a",
       "content": "Chính quyền vùng “bên kia sông Êu-phơ-rát” chỉ đặt vấn đề về ngôi Đền Thờ chứ không đặt vấn đề nào khác, so với 4,6-23 ; thái độ của họ cũng không gay gắt bằng. Có lẽ nhờ dịp này mà ta có bản danh sách ở ch. 2. Tác Giả giải thích rằng chính Thiên Chúa đã gây nên thái độ hoà hoãn thuận lợi này để công việc không bị ngưng trệ nữa. Sở dĩ có cuộc thanh tra này là vì trước đó có cuộc nổi loạn ở Ba-by-lon. Cuối năm 521 tCN, Đa-ri-ô đã ổn định được tình hình bổ nhiệm quan mới trông coi Ba-by-lon và vùng “Bên Kia Sông” là Út-sơ-ta-ni với một phụ tá đặc trách vùng “Bên Kia Sông” là Tát-nai. Vị quan mới này đi thanh tra miền Giu-đa nhằm bảo đảm sự trung thành với hoàng đế Ba-tư. Đoàn thanh tra không thấy dấu hiệu nào về một âm mưu nổi dậy, chỉ thấy một việc đáng lưu ý là công trình xây dựng Đền Thờ.",
-      "position": 75,
+      "position": 67,
       "order": 2,
-      "createdAt": "2024-09-23T04:05:45.186Z",
-      "updatedAt": "2024-09-23T04:05:45.186Z",
-      "verseId": "63c489b9-aca4-4380-b3eb-57ebb4cbe5a3",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.856Z",
+      "updatedAt": "2025-04-22T04:38:11.856Z",
+      "verseId": "e01729f4-67cf-49f5-a918-636ddd33929c",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "b5c3853a-1403-4206-b759-6d771e5637d5",
+      "id": "ad9a728d-0b9c-4135-9658-af916897e281",
       "content": "Bản tường trình nêu lên bốn điểm : 1. đã đến tận Giê-ru-sa-lem để thị sát ; 2. đã thấy công trình xây dựng đang được ráo riết tiến hành và sắp hoàn thành ; 3. đã thẩm vấn về phép xây dựng và những người xây dựng ; 4. câu trả lời. Câu trả lời này rất đáng nghiền ngẫm, vì đưa ra cả một suy tư thần học về biến cố lưu đày và Đền Thờ bị phá huỷ, đồng thời trình bày rằng công cuộc tái thiết được khởi sự do lệnh của vua Ky-rô và được tiến hành liên tục từ đó đến nay. Để ý danh xưng “Chúa trời đất”, một cách hội nhập văn hoá với Ba-tư : họ gọi thần của họ là “Chúa trời”.",
       "position": 49,
       "order": 3,
-      "createdAt": "2024-09-23T04:05:45.197Z",
-      "updatedAt": "2024-09-23T04:05:45.197Z",
-      "verseId": "4bd3cc3a-5fd0-425c-ad33-85719dfe222b",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.987Z",
+      "updatedAt": "2025-04-22T04:38:11.987Z",
+      "verseId": "42b1e3f4-bd90-4f1e-8a18-c07d954f8955",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "8edaba38-834b-4b73-8119-4f299a5afaf2",
+      "id": "839370f2-b13f-4039-8b85-4306de5ededc",
       "content": "*Tìm kiếm trong kho tàng* : chứng tỏ triều đình Ba-tư đã biết lưu trữ văn thư.",
       "position": 78,
       "order": 4,
-      "createdAt": "2024-09-23T04:05:45.272Z",
-      "updatedAt": "2024-09-23T04:05:45.272Z",
-      "verseId": "c45df795-7e7a-433c-a076-14459f76720b",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.266Z",
+      "updatedAt": "2025-04-22T04:38:12.266Z",
+      "verseId": "893791f0-9fee-48b6-9af0-358e61c3383f",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "52657ed6-0b26-4946-a67d-9899163bdec5",
+      "content": "English: Haggai - French: Aggée - Latin: Aggaeus - Origin: &#1495;&#1463;&#1490;&#1468;&#1463;&#1497; - Vietnamese: Khác-gai Er 5,1 ; Kg 1,1-15",
+      "position": 16,
+      "order": 5,
+      "createdAt": "2025-04-22T04:38:11.704Z",
+      "updatedAt": "2025-04-22T04:38:11.704Z",
+      "verseId": "783a7d18-901d-4903-a726-d8759b978eb4",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "a7b44316-dc02-4c8d-a0d1-6ec884cd5cb6",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 109,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:11.731Z",
+      "updatedAt": "2025-04-22T04:38:11.731Z",
+      "verseId": "783a7d18-901d-4903-a726-d8759b978eb4",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "432207ae-2f57-4b0f-96e1-f3199b5b5026",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 134,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:11.811Z",
+      "updatedAt": "2025-04-22T04:38:11.811Z",
+      "verseId": "0baed913-e08e-4152-b5ad-b7b951d8bda8",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "61926d4a-389c-45bf-8115-51b82b220106",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 156,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:12.149Z",
+      "updatedAt": "2025-04-22T04:38:12.149Z",
+      "verseId": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "668e932c-c23c-407d-bdef-284f9fbd2316",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 90,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:12.207Z",
+      "updatedAt": "2025-04-22T04:38:12.207Z",
+      "verseId": "3b7c4eeb-83c6-4307-9ff5-149a280313ef",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "606616fc-75e5-4a10-8db4-30ed10eaafc2",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 66,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:12.245Z",
+      "updatedAt": "2025-04-22T04:38:12.245Z",
+      "verseId": "44b11ed5-9040-410b-acd3-d2e65c92bb7a",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "d189c9cd-875c-49e1-9e5e-094d1bc3267b",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 194,
+      "order": 13,
+      "createdAt": "2025-04-22T04:38:12.290Z",
+      "updatedAt": "2025-04-22T04:38:12.290Z",
+      "verseId": "893791f0-9fee-48b6-9af0-358e61c3383f",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "57dec525-76bd-49ff-85bc-7ab2863f7708",
+      "content": "English: Zerubbabel - French: Zorobabel - Latin: Zorobabel - Origin: &#1494;&#1456;&#1512;&#1467;&#64305;&#1464;&#1489;&#1462;&#1500; - Vietnamese: Dơ-rúp-ba-ven Er 3,2.8",
+      "position": 26,
+      "order": 17,
+      "createdAt": "2025-04-22T04:38:11.771Z",
+      "updatedAt": "2025-04-22T04:38:11.771Z",
+      "verseId": "0baed913-e08e-4152-b5ad-b7b951d8bda8",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "4b6c7f19-64e2-4542-9a00-3ae51ba36b14",
+      "content": "English: Jozadak - French: Josédek, Yosadaq - Latin: Iosedec - Origin: &#1497;&#64331;&#1510;&#1464;&#1491;&#1464;&#1511; - Vietnamese: Giô-xa-đắc Er 3,2-8 ; 5,2",
+      "position": 82,
+      "order": 23,
+      "createdAt": "2025-04-22T04:38:11.798Z",
+      "updatedAt": "2025-04-22T04:38:11.798Z",
+      "verseId": "0baed913-e08e-4152-b5ad-b7b951d8bda8",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "267644bd-b691-4a7c-bab6-3b38b6aebbd9",
+      "content": "English: Tattenai - French: Tatnai - Latin: Thathanai - Origin: &#64330;&#1463;&#64330;&#1456;&#1504;&#1463;&#1497; - Vietnamese: Tát-nai Er 5,3-17 ; 6,6-13",
+      "position": 30,
+      "order": 25,
+      "createdAt": "2025-04-22T04:38:11.834Z",
+      "updatedAt": "2025-04-22T04:38:11.834Z",
+      "verseId": "e01729f4-67cf-49f5-a918-636ddd33929c",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "a9e28e60-54cc-48aa-b0ab-17b8d2d12a5a",
+      "content": "English: Tattenai - French: Tatnai - Latin: Thathanai - Origin: &#64330;&#1463;&#64330;&#1456;&#1504;&#1463;&#1497; - Vietnamese: Tát-nai Er 5,3-17 ; 6,6-13",
+      "position": 38,
+      "order": 25,
+      "createdAt": "2025-04-22T04:38:11.914Z",
+      "updatedAt": "2025-04-22T04:38:11.914Z",
+      "verseId": "b75fe8c0-17f3-4683-a3eb-c30c29fd4731",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "1e33a210-286f-4200-9cf6-8aaf9235a683",
+      "content": "English: Euphrates - French: Euphrate, Perath - Latin: Euphrates - Origin: &#1492;&#64309;&#1488;&#1508;&#1456;&#1512;&#1464;&#1514; - Vietnamese: Êu-phơ-rát sông Cả, St 2,14 ; Gr 13,4-7",
+      "position": 67,
+      "order": 27,
+      "createdAt": "2025-04-22T04:38:11.845Z",
+      "updatedAt": "2025-04-22T04:38:11.845Z",
+      "verseId": "e01729f4-67cf-49f5-a918-636ddd33929c",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "f62b237b-800f-4cd7-818b-6298ba7699b5",
+      "content": "English: Euphrates - French: Euphrate, Perath - Latin: Euphrates - Origin: &#1492;&#64309;&#1488;&#1508;&#1456;&#1512;&#1464;&#1514; - Vietnamese: Êu-phơ-rát sông Cả, St 2,14 ; Gr 13,4-7",
+      "position": 159,
+      "order": 27,
+      "createdAt": "2025-04-22T04:38:11.927Z",
+      "updatedAt": "2025-04-22T04:38:11.927Z",
+      "verseId": "b75fe8c0-17f3-4683-a3eb-c30c29fd4731",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "b8bcdf19-a17d-460b-a7d4-c68e0f6ede78",
+      "content": "English: Shethar-Bozenai - French: Shetar-Boznai - Latin: Stharbuzanai - Origin: &#64298;&#1456;&#1514;&#1463;&#1512; &#1489;&#64331;&#1494;&#1456;&#1504;&#1463;&#1497; - Vietnamese: Sơ-tha Bốt-nai Er 5,3-17",
+      "position": 87,
+      "order": 29,
+      "createdAt": "2025-04-22T04:38:11.867Z",
+      "updatedAt": "2025-04-22T04:38:11.867Z",
+      "verseId": "e01729f4-67cf-49f5-a918-636ddd33929c",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "4f9cbf3d-70f6-46cf-8f8a-c4e3705fbced",
+      "content": "English: Shethar-Bozenai - French: Shetar-Boznai - Latin: Stharbuzanai - Origin: &#64298;&#1456;&#1514;&#1463;&#1512; &#1489;&#64331;&#1494;&#1456;&#1504;&#1463;&#1497; - Vietnamese: Sơ-tha Bốt-nai Er 5,3-17",
+      "position": 95,
+      "order": 29,
+      "createdAt": "2025-04-22T04:38:11.947Z",
+      "updatedAt": "2025-04-22T04:38:11.947Z",
+      "verseId": "b75fe8c0-17f3-4683-a3eb-c30c29fd4731",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "dcb2ea58-661b-4737-9157-36ebcfad5aa1",
+      "content": "English: Nebuchadnzzar - French: Nabuchodonosor - Latin: Nabuchodonosor - Origin: &#1504;&#1456;&#1489;&#64309;&#1499;&#1463;&#1491;&#1456;&#1512;&#1462;&#1488;&#1510;&#1468;&#1463;&#1512; &#925;&#945;&#946;&#959;&#965;&#967;&#959;&#948;&#959;&#957;&#959;&#963;&#959;&#961; - Vietnamese: Na-bu-cô-đô-nô-xo Gr 46,2 ; Ed 29,19",
+      "position": 140,
+      "order": 35,
+      "createdAt": "2025-04-22T04:38:12.053Z",
+      "updatedAt": "2025-04-22T04:38:12.053Z",
+      "verseId": "0671c2b1-1c8c-4a6f-9dbb-1c45cf7b53d0",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "ac2d91e2-62ac-4fbb-98c3-d51cc8276c29",
+      "content": "English: Nebuchadnzzar - French: Nabuchodonosor - Latin: Nabuchodonosor - Origin: &#1504;&#1456;&#1489;&#64309;&#1499;&#1463;&#1491;&#1456;&#1512;&#1462;&#1488;&#1510;&#1468;&#1463;&#1512; &#925;&#945;&#946;&#959;&#965;&#967;&#959;&#948;&#959;&#957;&#959;&#963;&#959;&#961; - Vietnamese: Na-bu-cô-đô-nô-xo Gr 46,2 ; Ed 29,19",
+      "position": 119,
+      "order": 35,
+      "createdAt": "2025-04-22T04:38:12.138Z",
+      "updatedAt": "2025-04-22T04:38:12.138Z",
+      "verseId": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "47647fad-5af4-4c86-a034-606a6915fb83",
+      "content": "English: Chaldaeans - French: Chaldée, Chaldéen - Latin: Chaldaeus - Origin: &#1499;&#1463;&#64299;&#1456;&#1491;&#1468;&#1460;&#1497;&#1501; - Vietnamese: Can-đê 2 V 24,2",
+      "position": 154,
+      "order": 37,
+      "createdAt": "2025-04-22T04:38:12.066Z",
+      "updatedAt": "2025-04-22T04:38:12.066Z",
+      "verseId": "0671c2b1-1c8c-4a6f-9dbb-1c45cf7b53d0",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "6eeda892-eaf2-4686-ad7f-f5f0b49ff070",
+      "content": "English: Cyrus - French: Cyrus - Latin: Cyrus - Origin: &#1499;&#64331;&#1512;&#1462;&#64298; - Vietnamese: Ky-rô Is 44,28",
+      "position": 61,
+      "order": 41,
+      "createdAt": "2025-04-22T04:38:12.094Z",
+      "updatedAt": "2025-04-22T04:38:12.094Z",
+      "verseId": "0f1d58ed-222b-4533-b220-de4b14c9b2c5",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "f490efbb-2799-4dcd-988b-5f247a287fb6",
+      "content": "English: Cyrus - French: Cyrus - Latin: Cyrus - Origin: &#1499;&#64331;&#1512;&#1462;&#64298; - Vietnamese: Ky-rô Is 44,28",
+      "position": 199,
+      "order": 41,
+      "createdAt": "2025-04-22T04:38:12.127Z",
+      "updatedAt": "2025-04-22T04:38:12.127Z",
+      "verseId": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "97639c58-a69b-4d0e-aed0-ab65034fc5d9",
+      "content": "English: Cyrus - French: Cyrus - Latin: Cyrus - Origin: &#1499;&#64331;&#1512;&#1462;&#64298; - Vietnamese: Ky-rô Is 44,28",
+      "position": 133,
+      "order": 41,
+      "createdAt": "2025-04-22T04:38:12.279Z",
+      "updatedAt": "2025-04-22T04:38:12.279Z",
+      "verseId": "893791f0-9fee-48b6-9af0-358e61c3383f",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "f6ceb74f-1d7b-4290-8b6a-3e908a0b5d2d",
+      "content": "English: Sheshbazzar - French: Sheshba&#231;ar - Latin: Sasabassar - Origin: &#64298;&#1461;&#64298;&#1456;&#64305;&#1463;&#1510;&#1468;&#1463;&#1512; - Vietnamese: Sết-bát-xa Er 1,8.11",
+      "position": 252,
+      "order": 43,
+      "createdAt": "2025-04-22T04:38:12.175Z",
+      "updatedAt": "2025-04-22T04:38:12.175Z",
+      "verseId": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
+    },
+    {
+      "id": "a993ac05-0dca-40c9-a4f7-95cd4e19daf6",
+      "content": "English: Sheshbazzar - French: Sheshba&#231;ar - Latin: Sasabassar - Origin: &#64298;&#1461;&#64298;&#1456;&#64305;&#1463;&#1510;&#1468;&#1463;&#1512; - Vietnamese: Sết-bát-xa Er 1,8.11",
+      "position": 23,
+      "order": 43,
+      "createdAt": "2025-04-22T04:38:12.234Z",
+      "updatedAt": "2025-04-22T04:38:12.234Z",
+      "verseId": "44b11ed5-9040-410b-acd3-d2e65c92bb7a",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     }
   ],
   "headings": [],
   "references": [
     {
-      "id": "94a07971-a5f1-4e9b-b2c5-8fe907c4211a",
+      "id": "8c57f14d-8043-43fb-a48a-f7ac0cc8923f",
       "content": "Kg 1,14–2,9; Dcr 4,9",
       "position": 8,
       "order": 0,
-      "createdAt": "2024-09-23T04:05:45.177Z",
-      "updatedAt": "2024-09-23T04:05:45.177Z",
-      "verseId": "1d2c8527-91ec-4d41-9d79-fa7b73791831",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:11.744Z",
+      "updatedAt": "2025-04-22T04:38:11.744Z",
+      "verseId": "783a7d18-901d-4903-a726-d8759b978eb4",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     },
     {
-      "id": "0dfded55-e2b9-43e4-be88-eb1034092a9b",
+      "id": "17c96b2c-465b-4f59-a5f9-27c7c79e2fe7",
       "content": "Đn 5,2.23",
-      "position": 66,
+      "position": 58,
       "order": 2,
-      "createdAt": "2024-09-23T04:05:45.212Z",
-      "updatedAt": "2024-09-23T04:05:45.212Z",
-      "verseId": "cbd9e388-e3df-4ed9-9cf7-9a3965e55066",
-      "chapterId": "f41f4fd7-87d3-47e4-a06b-7befed7d4ded"
+      "createdAt": "2025-04-22T04:38:12.185Z",
+      "updatedAt": "2025-04-22T04:38:12.185Z",
+      "verseId": "698d37cc-7532-4ca5-a11d-6a51dd3bdf07",
+      "chapterId": "ae047469-4acd-4915-9739-6b5068356d3c"
     }
   ],
   "psalmMetadata": []

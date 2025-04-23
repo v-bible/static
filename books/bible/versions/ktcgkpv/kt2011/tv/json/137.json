@@ -1,297 +1,348 @@
 {
   "chapter": {
-    "id": "cd291307-4067-4238-928d-9ad1c8b3049a",
+    "id": "d1ac7456-399a-43f3-a9aa-652c1f9ac074",
     "number": 137,
     "ref": "",
-    "createdAt": "2024-09-23T03:08:02.367Z",
-    "updatedAt": "2024-09-23T03:08:02.367Z",
-    "bookId": "0fb0b0bf-be48-4502-bb85-e165626fcd15"
+    "createdAt": "2025-04-22T00:48:31.718Z",
+    "updatedAt": "2025-04-22T00:48:31.718Z",
+    "bookId": "9beff2a2-3de1-4b2d-b189-6eadb8dd6815"
   },
   "verses": [
     {
-      "id": "04a8e63f-8580-4666-9579-545a99862bad",
+      "id": "7f2193d6-13c3-43a9-84e7-13f8f67c8197",
       "number": 1,
-      "content": "Bờ sông [Ba-by-lon](), ta ra ngồi nức nở mà tưởng nhớ [Xi-on]() ;",
+      "content": "Bờ sông Ba-by-lon, ta ra ngồi nức nở mà tưởng nhớ Xi-on ;",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.341Z",
-      "updatedAt": "2024-09-23T04:20:23.341Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.912Z",
+      "updatedAt": "2025-04-22T05:43:50.912Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "59d4f414-c783-4768-9886-c97ac4873e83",
+      "id": "edcda012-e8e7-400f-918d-34671b9732c5",
       "number": 2,
       "content": "trên những cành dương liễu, ta tạm gác cây đàn.",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.361Z",
-      "updatedAt": "2024-09-23T04:20:23.361Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.968Z",
+      "updatedAt": "2025-04-22T05:43:50.968Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "ead64eed-131e-4931-9a25-674eb287425d",
+      "id": "233428c5-afc1-43ef-a968-9e01f4314bec",
       "number": 3,
       "content": "Bọn lính canh đòi ta hát xướng,",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.365Z",
-      "updatedAt": "2024-09-23T04:20:23.365Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.982Z",
+      "updatedAt": "2025-04-22T05:43:50.982Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "212fca31-3d63-4c11-9183-010a496ed7d9",
+      "id": "c9d13544-9c31-44d3-8b3a-01b97323c01f",
       "number": 3,
       "content": "lũ cướp này mời gượng vui lên :",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.370Z",
-      "updatedAt": "2024-09-23T04:20:23.370Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.996Z",
+      "updatedAt": "2025-04-22T05:43:50.996Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "e8e672ed-1b6f-4f33-9393-d009cf9f5444",
+      "id": "2f511a75-59db-4e41-a640-463ac4a23805",
       "number": 3,
       "content": "“Hát đi, hát thử đi xem",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.374Z",
-      "updatedAt": "2024-09-23T04:20:23.374Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.011Z",
+      "updatedAt": "2025-04-22T05:43:51.011Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "9960f043-543a-4410-b5ff-76e495e2310c",
+      "id": "1cabb8bc-ca66-45e3-b452-f54605706008",
       "number": 3,
-      "content": "[Xi-on]() nhạc thánh điệu quen một bài !”",
+      "content": "Xi-on nhạc thánh điệu quen một bài !”",
       "order": 3,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.379Z",
-      "updatedAt": "2024-09-23T04:20:23.379Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.025Z",
+      "updatedAt": "2025-04-22T05:43:51.025Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "bcdeabb7-28f5-4432-b35c-60a5ec118839",
+      "id": "41f77280-bb6e-47b0-9b7e-12ca52745c5a",
       "number": 4,
       "content": "Bài ca kính CHÚA TRỜI, làm sao ta hát nổi",
       "order": 0,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.383Z",
-      "updatedAt": "2024-09-23T04:20:23.383Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.060Z",
+      "updatedAt": "2025-04-22T05:43:51.060Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "a8c7b4c5-96be-4461-a67e-20da4431c0f2",
+      "id": "91dc5c73-1326-46a7-ae63-2aa5d494e123",
       "number": 4,
       "content": "nơi đất khách quê người ?",
       "order": 1,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.388Z",
-      "updatedAt": "2024-09-23T04:20:23.388Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.074Z",
+      "updatedAt": "2025-04-22T05:43:51.074Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "d7aa010b-b7dc-4962-b903-14319d08d609",
+      "id": "9d341243-4250-4fad-b3ae-ce12034cf442",
       "number": 5,
-      "content": "[Giê-ru-sa-lem]() hỡi, lòng này nếu quên ngươi,",
+      "content": "Giê-ru-sa-lem hỡi, lòng này nếu quên ngươi,",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.392Z",
-      "updatedAt": "2024-09-23T04:20:23.392Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.092Z",
+      "updatedAt": "2025-04-22T05:43:51.092Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "7f64f454-3157-4f4a-b58a-e32a8f44b051",
+      "id": "d713d6c3-1c0e-487c-8958-a35813cd0fe0",
       "number": 5,
       "content": "thì tay gảy đàn thành tê bại !",
       "order": 1,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.397Z",
-      "updatedAt": "2024-09-23T04:20:23.397Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.120Z",
+      "updatedAt": "2025-04-22T05:43:51.120Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "c8130d00-1a01-46d0-93e7-ea0fdc9d2a9b",
+      "id": "52ffc346-2f8f-429b-b476-8d6db9c759ce",
       "number": 6,
       "content": "Lưỡi xướng ca sẽ dính với hàm,",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.402Z",
-      "updatedAt": "2024-09-23T04:20:23.402Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.133Z",
+      "updatedAt": "2025-04-22T05:43:51.133Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "17b46dac-7732-4c6f-8b28-e7a733e8e79a",
+      "id": "7f7ebbfb-3c10-48a2-a165-d86aa0043f0d",
       "number": 6,
-      "content": "nếu ta không hoài niệm, không còn lấy [Giê-ru-sa-lem]()",
+      "content": "nếu ta không hoài niệm, không còn lấy Giê-ru-sa-lem",
       "order": 1,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.406Z",
-      "updatedAt": "2024-09-23T04:20:23.406Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.148Z",
+      "updatedAt": "2025-04-22T05:43:51.148Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "51e7f30b-f503-48d9-b484-9e0c1e728947",
+      "id": "4f9a0bfd-6eb4-4436-b77f-4d49644cc943",
       "number": 6,
       "content": "làm niềm vui tuyệt đỉnh của tâm hồn.",
       "order": 2,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.411Z",
-      "updatedAt": "2024-09-23T04:20:23.411Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.176Z",
+      "updatedAt": "2025-04-22T05:43:51.176Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "63457b5f-cc43-42d8-8684-5bd1d4509793",
+      "id": "d0ae7f9f-8b50-4769-8db6-9262336ce622",
       "number": 7,
-      "content": "Lạy CHÚA, xin nhớ lại ngày [Giê-ru-sa-lem]() thất thủ,",
+      "content": "Lạy CHÚA, xin nhớ lại ngày Giê-ru-sa-lem thất thủ,",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.415Z",
-      "updatedAt": "2024-09-23T04:20:23.415Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.188Z",
+      "updatedAt": "2025-04-22T05:43:51.188Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "629d22eb-e4c5-4eb0-a42c-2840024970dc",
+      "id": "ccb6895f-156b-45f1-88a6-6b53c5e8ef7a",
       "number": 7,
-      "content": "để trừng phạt con cái [Ê-đôm]().",
+      "content": "để trừng phạt con cái Ê-đôm.",
       "order": 1,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.428Z",
-      "updatedAt": "2024-09-23T04:20:23.428Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.245Z",
+      "updatedAt": "2025-04-22T05:43:51.245Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "765d6a0e-8f9e-4f8a-a250-e32ac3c4613b",
+      "id": "1a82ce31-1ab9-4f94-88cd-e89ca3575ba9",
       "number": 7,
       "content": "Ngày ấy chúng reo hò : “Phá nó đi, phá cho bình địa.”",
       "order": 2,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.434Z",
-      "updatedAt": "2024-09-23T04:20:23.434Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.259Z",
+      "updatedAt": "2025-04-22T05:43:51.259Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "bc4e6b75-a312-4745-b607-7139bbfbc839",
+      "id": "0deb737b-e91b-4b4b-9cee-84cc2b0d3aa4",
       "number": 8,
-      "content": "Gái [Ba-by-lon]() hỡi, đồ trời tru đất diệt !",
+      "content": "Gái Ba-by-lon hỡi, đồ trời tru đất diệt !",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.438Z",
-      "updatedAt": "2024-09-23T04:20:23.438Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.273Z",
+      "updatedAt": "2025-04-22T05:43:51.273Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "d84a1352-0c39-474a-a8b2-09a4d831b573",
+      "id": "24365c75-be35-4b9a-a2c2-5c9a823dbd6e",
       "number": 8,
       "content": "Phúc thay người xử lại với mi, như mi đã xử với ta !",
       "order": 1,
       "parNumber": 17,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.444Z",
-      "updatedAt": "2024-09-23T04:20:23.444Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.288Z",
+      "updatedAt": "2025-04-22T05:43:51.288Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "8250d6e5-108d-4e9d-81f3-0afa68daaed7",
+      "id": "034640f3-6c36-484c-bb94-74bc02ff14ac",
       "number": 9,
       "content": "Phúc thay người bắt những con thơ của mi",
       "order": 0,
       "parNumber": 18,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.449Z",
-      "updatedAt": "2024-09-23T04:20:23.449Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.302Z",
+      "updatedAt": "2025-04-22T05:43:51.302Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "a4cce140-aa18-463b-9a82-daff19d5bafb",
+      "id": "3c10eacf-a8f7-46ea-b522-e3b2f8ff5060",
       "number": 9,
       "content": "mà đem đập vào đá.",
       "order": 1,
       "parNumber": 19,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2024-09-23T04:20:23.453Z",
-      "updatedAt": "2024-09-23T04:20:23.453Z",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.316Z",
+      "updatedAt": "2025-04-22T05:43:51.316Z",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     }
   ],
   "footnotes": [
     {
-      "id": "dc5a5fc9-cb17-46aa-ad0e-b673951de740",
+      "id": "24d89e86-7529-40ad-bcdd-d5d698d2583f",
       "content": "Tv 137 là *một Tv về Xi-on* gợi nhớ kỷ niệm về Giê-ru-sa-lem bị thất thủ vào năm 587 tCN và cuộc lưu đày ở Ba-by-lon. Có ba phần trong Tv 137 : **1**) Tâm trạng của người Do-thái sống trong cảnh lưu đày tại Ba-by-lon (cc. 1-4) ; **2**) Nhớ Giê-ru-sa-lem (cc. 5-7) ; **3**) Nguyền rủa Ê-đôm và Ba-by-lon (cc. 8-9).",
-      "position": 39,
+      "position": 35,
       "order": 0,
-      "createdAt": "2024-09-23T04:20:23.356Z",
-      "updatedAt": "2024-09-23T04:20:23.356Z",
-      "headingId": "5286ab98-9401-4adc-97a9-8d52ea74bb47",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.942Z",
+      "updatedAt": "2025-04-22T05:43:50.942Z",
+      "headingId": "c3672747-07c5-4edb-a2ec-971af8119538",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     },
     {
-      "id": "4da096d9-df8a-40cf-86b5-977c030e5a90",
+      "id": "75dc1ec5-a31f-4940-9972-6e65809f4ea8",
       "content": "*Ngày Giê-ru-sa-lem thất thủ* (ds : *ngày của Giê-ru-sa-lem*) = mồng 9 tháng thứ 4 (tháng 6 / tháng 7) năm 587 tCN, khi quân của vua Na-bu-cô-đô-nô-xo chọc thủng tường thành (x. Gr 39,2 ; 52,7), hoặc mồng 10 tháng 5 khi Đền Thờ bị đốt cháy (x. Gr 52,13). Quân Ê-đôm hợp lực với những kẻ vây hãm thành.",
-      "position": 53,
+      "position": 49,
       "order": 1,
-      "createdAt": "2024-09-23T04:20:23.420Z",
-      "updatedAt": "2024-09-23T04:20:23.420Z",
-      "verseId": "63457b5f-cc43-42d8-8684-5bd1d4509793",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.217Z",
+      "updatedAt": "2025-04-22T05:43:51.217Z",
+      "verseId": "d0ae7f9f-8b50-4769-8db6-9262336ce622",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
+    },
+    {
+      "id": "cc718981-cb40-401e-a746-f300afe22135",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 55,
+      "order": 4,
+      "createdAt": "2025-04-22T05:43:50.954Z",
+      "updatedAt": "2025-04-22T05:43:50.954Z",
+      "verseId": "7f2193d6-13c3-43a9-84e7-13f8f67c8197",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
+    },
+    {
+      "id": "c1041022-c2d0-42d3-98cf-bcfe7311bce9",
+      "content": "English: Zion - French: Sion - Latin: Sion - Origin: &#1510;&#1460;&#1497;&#1468;&#64331;&#1503; - Vietnamese: Xi-on núi, 2 V 19,31 ; Is 37,32",
+      "position": 5,
+      "order": 4,
+      "createdAt": "2025-04-22T05:43:51.042Z",
+      "updatedAt": "2025-04-22T05:43:51.042Z",
+      "verseId": "1cabb8bc-ca66-45e3-b452-f54605706008",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
+    },
+    {
+      "id": "f1faeec2-214d-48b8-a98b-84e4c0f39bf3",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 13,
+      "order": 6,
+      "createdAt": "2025-04-22T05:43:51.106Z",
+      "updatedAt": "2025-04-22T05:43:51.106Z",
+      "verseId": "9d341243-4250-4fad-b3ae-ce12034cf442",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
+    },
+    {
+      "id": "a4fec062-28c6-4603-b708-45148bfb23b0",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 51,
+      "order": 6,
+      "createdAt": "2025-04-22T05:43:51.162Z",
+      "updatedAt": "2025-04-22T05:43:51.162Z",
+      "verseId": "7f7ebbfb-3c10-48a2-a165-d86aa0043f0d",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
+    },
+    {
+      "id": "743483bd-6550-4a2b-9f36-48eac185432d",
+      "content": "English: Jerusalem - French: Jérusalem - Latin: Ierusalem - Origin: &#1497;&#1456;&#1512;&#64309;&#64298;&#1464;&#1500;&#1461;&#1501; - Vietnamese: Giê-ru-sa-lem kinh thành Thiên Chúa, thành vua Đa-vít... 1 V 8,44.48",
+      "position": 40,
+      "order": 6,
+      "createdAt": "2025-04-22T05:43:51.203Z",
+      "updatedAt": "2025-04-22T05:43:51.203Z",
+      "verseId": "d0ae7f9f-8b50-4769-8db6-9262336ce622",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     }
   ],
   "headings": [
     {
-      "id": "5286ab98-9401-4adc-97a9-8d52ea74bb47",
-      "content": "Tv 137 (136) Trên bờ sông [Ba-by-lon]()",
+      "id": "c3672747-07c5-4edb-a2ec-971af8119538",
+      "content": "Tv 137 (136) Trên bờ sông Ba-by-lon",
+      "level": 1,
       "order": 0,
-      "createdAt": "2024-09-23T04:20:23.352Z",
-      "updatedAt": "2024-09-23T04:20:23.352Z",
-      "verseId": "04a8e63f-8580-4666-9579-545a99862bad",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:50.931Z",
+      "updatedAt": "2025-04-22T05:43:50.931Z",
+      "verseId": "7f2193d6-13c3-43a9-84e7-13f8f67c8197",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     }
   ],
   "references": [
     {
-      "id": "3bc35e58-a86a-442c-ba2a-3135384ea020",
+      "id": "78d09266-e8d8-40b0-a97a-cdebd4e921d3",
       "content": "Gr 15,15; Ac 3,19",
       "position": 14,
       "order": 0,
-      "createdAt": "2024-09-23T04:20:23.424Z",
-      "updatedAt": "2024-09-23T04:20:23.424Z",
-      "verseId": "63457b5f-cc43-42d8-8684-5bd1d4509793",
-      "chapterId": "cd291307-4067-4238-928d-9ad1c8b3049a"
+      "createdAt": "2025-04-22T05:43:51.231Z",
+      "updatedAt": "2025-04-22T05:43:51.231Z",
+      "verseId": "d0ae7f9f-8b50-4769-8db6-9262336ce622",
+      "chapterId": "d1ac7456-399a-43f3-a9aa-652c1f9ac074"
     }
   ],
   "psalmMetadata": []
