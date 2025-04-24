@@ -1,424 +1,424 @@
 {
   "chapter": {
-    "id": "f1a6d88a-e74b-4341-88bf-53de56c50e63",
+    "id": "13ff9d76-58dc-452d-acd9-da7ac88ae809",
     "number": 3,
     "ref": "https://www.bible.com/bible/19/ECC.3.BD2011",
-    "createdAt": "2025-04-22T10:10:27.767Z",
-    "updatedAt": "2025-04-22T10:10:27.767Z",
-    "bookId": "99084681-5242-49b3-a101-0801ff2759c7"
+    "createdAt": "2025-04-24T01:29:08.172Z",
+    "updatedAt": "2025-04-24T01:29:08.172Z",
+    "bookId": "02a75207-c5bc-4649-b1aa-921370812062"
   },
   "verses": [
     {
-      "id": "a66601de-ce78-408d-9472-aa989ede4d6d",
+      "id": "f2d85d54-0db9-4d13-95a6-f00fa8448fdf",
       "number": 1,
       "content": "Mọi sự đều có thời của nó, và mọi việc ở dưới trời đều có kỳ của nó:",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:33.952Z",
-      "updatedAt": "2025-04-22T10:47:33.952Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.143Z",
+      "updatedAt": "2025-04-24T02:02:38.143Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "09eea671-c811-4543-8f2f-5c8b82386b5c",
+      "id": "fca1120b-c0cb-4c70-bb57-b083664263c1",
       "number": 2,
       "content": "Có thời sinh ra, và có kỳ qua đời;",
       "order": 0,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:33.979Z",
-      "updatedAt": "2025-04-22T10:47:33.979Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.169Z",
+      "updatedAt": "2025-04-24T02:02:38.169Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "a33b8ef6-a392-4ee0-ba1d-b96956671020",
+      "id": "d85c5558-5b3a-4735-8ee8-ccaf5037e27b",
       "number": 2,
       "content": "Có thời trồng, và có kỳ nhổ những gì đã trồng;",
       "order": 1,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:33.993Z",
-      "updatedAt": "2025-04-22T10:47:33.993Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.179Z",
+      "updatedAt": "2025-04-24T02:02:38.179Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "0e5ff8fe-6656-42a6-a244-4baa570f96a6",
+      "id": "f608208e-ca70-421e-aeaa-70ddaddddcd8",
       "number": 3,
       "content": "Có thời giết chết, và có kỳ chữa lành;",
       "order": 0,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.003Z",
-      "updatedAt": "2025-04-22T10:47:34.003Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.189Z",
+      "updatedAt": "2025-04-24T02:02:38.189Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "b1f7b4ba-e1e5-49bb-8f31-d92b4fffafb8",
+      "id": "6186d44e-545a-4950-aa09-1c6ecf5558e4",
       "number": 3,
       "content": "Có thời đạp đổ, và có kỳ dựng lên;",
       "order": 1,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.014Z",
-      "updatedAt": "2025-04-22T10:47:34.014Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.199Z",
+      "updatedAt": "2025-04-24T02:02:38.199Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "cc8d8481-223a-4c01-9017-43abc10b1b4e",
+      "id": "dfdab358-27c3-4d33-99b5-928a9363dca2",
       "number": 4,
       "content": "Có thời khóc, và có kỳ cười;",
       "order": 0,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.024Z",
-      "updatedAt": "2025-04-22T10:47:34.024Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.209Z",
+      "updatedAt": "2025-04-24T02:02:38.209Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "ba49c42a-7419-41d0-b4bf-d244b5f0caba",
+      "id": "f92330f2-105e-42db-8da2-f60a234a829b",
       "number": 4,
       "content": "Có thời than khóc, và có kỳ nhảy nhót reo mừng;",
       "order": 1,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.036Z",
-      "updatedAt": "2025-04-22T10:47:34.036Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.222Z",
+      "updatedAt": "2025-04-24T02:02:38.222Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "61901034-5043-4bce-9d6c-d2f6e6170155",
+      "id": "5e09a130-2c67-41d7-88ee-d708afb42e3d",
       "number": 5,
       "content": "Có thời quăng đá đi, và có kỳ lượm đá lại;",
       "order": 0,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.050Z",
-      "updatedAt": "2025-04-22T10:47:34.050Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.232Z",
+      "updatedAt": "2025-04-24T02:02:38.232Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "4a44fab6-d830-4f10-9970-2a939f293263",
+      "id": "4bcab4b4-ee87-45d0-a7b0-6a6fc81e84d5",
       "number": 5,
       "content": "Có thời bám giữ, và có kỳ buông ra;",
       "order": 1,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.069Z",
-      "updatedAt": "2025-04-22T10:47:34.069Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.242Z",
+      "updatedAt": "2025-04-24T02:02:38.242Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "6b4edef0-b755-4a4e-9dc1-d566c8ee189f",
+      "id": "6f61f15f-fca8-4f16-9aaf-e56be60e5042",
       "number": 6,
       "content": "Có thời được, và có kỳ mất;",
       "order": 0,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.082Z",
-      "updatedAt": "2025-04-22T10:47:34.082Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.252Z",
+      "updatedAt": "2025-04-24T02:02:38.252Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "5f85f596-67bb-44c0-8e0d-746f6af3de01",
+      "id": "ee95a3ed-5c46-4714-b3bb-e47e1104310f",
       "number": 6,
       "content": "Có thời giữ lại, và có kỳ vất đi;",
       "order": 1,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.104Z",
-      "updatedAt": "2025-04-22T10:47:34.104Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.262Z",
+      "updatedAt": "2025-04-24T02:02:38.262Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "e4188052-0c6d-4ab5-beab-71749d002602",
+      "id": "18b7d3df-599a-4834-a97b-544dbb1581d2",
       "number": 7,
       "content": "Có thời xé rách, và có kỳ vá may;",
       "order": 0,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.118Z",
-      "updatedAt": "2025-04-22T10:47:34.118Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.272Z",
+      "updatedAt": "2025-04-24T02:02:38.272Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "e49d5ab1-374c-4c6a-9fad-14183346eada",
+      "id": "a86e5c21-b70f-4a44-afdd-a108efa92eaf",
       "number": 7,
       "content": "Có thời im lặng, và có kỳ nói lên;",
       "order": 1,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.131Z",
-      "updatedAt": "2025-04-22T10:47:34.131Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.281Z",
+      "updatedAt": "2025-04-24T02:02:38.281Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "b3e8ef41-98a0-4098-955d-37fd3421ac97",
+      "id": "8284ff81-d5fb-4f66-9c1d-78b40ba62d2c",
       "number": 8,
       "content": "Có thời thương yêu, và có kỳ ghét bỏ;",
       "order": 0,
       "parNumber": 13,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.145Z",
-      "updatedAt": "2025-04-22T10:47:34.145Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.291Z",
+      "updatedAt": "2025-04-24T02:02:38.291Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "051dc140-b003-40e1-b870-7a17c8593fd1",
+      "id": "311dbdb6-3102-4a1d-9080-9490c9678b4d",
       "number": 8,
       "content": "Có thời chiến tranh, và có kỳ hòa bình.",
       "order": 1,
       "parNumber": 14,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:47:34.159Z",
-      "updatedAt": "2025-04-22T10:47:34.159Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.301Z",
+      "updatedAt": "2025-04-24T02:02:38.301Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "6873a5d8-a867-426d-8ba7-4e955e1aee6f",
+      "id": "73e39f0a-e19e-418b-aeb0-924adb2a6f72",
       "number": 9,
       "content": "Một người lao động vất vả để rồi sẽ được gì?",
       "order": 0,
       "parNumber": 15,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.172Z",
-      "updatedAt": "2025-04-22T10:47:34.172Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.310Z",
+      "updatedAt": "2025-04-24T02:02:38.310Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "0a4e3ee2-fd85-40b6-af5b-ea90d5662a3c",
+      "id": "5f391223-2dba-4a02-aeeb-cecab8dca8ac",
       "number": 10,
       "content": "Tôi đã thấy công việc Đức Chúa Trời giao cho người ta làm rồi.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.199Z",
-      "updatedAt": "2025-04-22T10:47:34.199Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.330Z",
+      "updatedAt": "2025-04-24T02:02:38.330Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "2a34f49c-0998-4031-8409-525518549c05",
+      "id": "26b12491-8409-4f9a-8592-ba7e0a0bc81a",
       "number": 11,
       "content": "Ngài đã làm mọi sự tốt đẹp đúng vào thời điểm của chúng. Ngoài ra Ngài còn đặt vào tâm trí con người khái niệm về vĩnh hằng; dù vậy con người vẫn không thể thấu triệt những gì Đức Chúa Trời đã làm từ đầu đến cuối.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.212Z",
-      "updatedAt": "2025-04-22T10:47:34.212Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.340Z",
+      "updatedAt": "2025-04-24T02:02:38.340Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "cf217ad0-ce5b-4fd7-86d2-8f06e3830401",
+      "id": "047d8b34-6d60-4c98-95db-bed7376533eb",
       "number": 12,
       "content": "Tôi tin rằng không gì tốt hơn cho con người là vui hưởng hạnh phúc của cuộc sống và làm những điều tốt đẹp suốt những ngày còn lại của đời mình.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.225Z",
-      "updatedAt": "2025-04-22T10:47:34.225Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.349Z",
+      "updatedAt": "2025-04-24T02:02:38.349Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "980cc8cb-3c3c-4b90-aa90-3fd21cc1e75d",
+      "id": "ccff8997-d8ec-4fed-b6f4-c5ca5e256381",
       "number": 13,
       "content": "Ngoài ra mỗi người nên ăn, uống, và hưởng kết quả do mọi công lao khó nhọc của mình làm ra, vì đó là món quà của Đức Chúa Trời ban cho con người.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.239Z",
-      "updatedAt": "2025-04-22T10:47:34.239Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.359Z",
+      "updatedAt": "2025-04-24T02:02:38.359Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "bedef3bb-96a9-4c29-b73b-410040de7832",
+      "id": "1d3767fb-0c55-4cf6-97ae-432fbc613ffd",
       "number": 14,
       "content": "Tôi biết rằng những gì Đức Chúa Trời làm sẽ còn lại đời đời, không cần thêm gì vào và cũng không cần bớt gì đi. Đức Chúa Trời đã làm như vậy để người ta kính sợ Ngài.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.253Z",
-      "updatedAt": "2025-04-22T10:47:34.253Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.369Z",
+      "updatedAt": "2025-04-24T02:02:38.369Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "db78ca3d-70cb-41b3-bee1-6b81b8a50a7f",
+      "id": "01afab4c-9fa8-44cd-a835-081021c1ae89",
       "number": 15,
       "content": "Điều gì có, đã có rồi; điều gì sẽ có, đã có tự ngàn xưa. Đức Chúa Trời có thể cho sự việc đã xảy ra xưa kia được tái diễn.",
       "order": 0,
       "parNumber": 15,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.266Z",
-      "updatedAt": "2025-04-22T10:47:34.266Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.379Z",
+      "updatedAt": "2025-04-24T02:02:38.379Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "040f9949-0243-48b1-a844-7a75f9aa5bdd",
+      "id": "eb4e76ef-e4cd-4bee-8e0b-2d7190c3c969",
       "number": 16,
       "content": "Ngoài ra tôi còn thấy điều này dưới ánh mặt trời: có sự gian tà ở nơi tòa án, có sự gian ác ở chốn pháp đình.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 0,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.283Z",
-      "updatedAt": "2025-04-22T10:47:34.283Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.388Z",
+      "updatedAt": "2025-04-24T02:02:38.388Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "7d9886cb-3ce2-4f4f-b1f5-2daaebc4df89",
+      "id": "8ac630a2-6279-491a-af09-475b8d387ff2",
       "number": 17,
       "content": "Tôi tự nhủ trong lòng: Đức Chúa Trời sẽ phán xét cả người công chính lẫn kẻ gian ác, vì Ngài đã định thời điểm cho mọi điều và mọi sự.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 1,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.310Z",
-      "updatedAt": "2025-04-22T10:47:34.310Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.407Z",
+      "updatedAt": "2025-04-24T02:02:38.407Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "c25c44aa-53d1-4e15-92b2-2d173a647842",
+      "id": "2cff88d7-7bef-4111-9665-1be4013988eb",
       "number": 18,
       "content": "Tôi tự nhủ trong lòng: về loài người, Đức Chúa Trời thử nghiệm họ, để họ thấy rằng họ chẳng hơn gì loài thú.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 2,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.324Z",
-      "updatedAt": "2025-04-22T10:47:34.324Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.421Z",
+      "updatedAt": "2025-04-24T02:02:38.421Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "a246e28a-5660-4c5e-81ed-45a42f98ac14",
+      "id": "7e86aeb5-b402-486a-b4ec-3dd7f315d966",
       "number": 19,
       "content": "Vì số phận của loài người và số phận của loài thú đều như nhau: loài này chết và loài kia cũng chết. Cả hai đều thở chung một bầu khí quyển, và loài người chẳng hơn gì loài thú, vì tất cả đều vô nghĩa.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 3,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.337Z",
-      "updatedAt": "2025-04-22T10:47:34.337Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.431Z",
+      "updatedAt": "2025-04-24T02:02:38.431Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "738af10d-d31d-45f9-ac27-fcef76ed82c6",
+      "id": "0e3d653c-d6cb-467d-8fda-4f3ef20c995a",
       "number": 20,
       "content": "Tất cả đều về chung một chỗ; tất cả đều ra từ bụi đất, và tất cả sẽ trở về bụi đất.",
       "order": 0,
       "parNumber": 16,
       "parIndex": 4,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.365Z",
-      "updatedAt": "2025-04-22T10:47:34.365Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.450Z",
+      "updatedAt": "2025-04-24T02:02:38.450Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "e41e68b7-8b96-4f1c-a614-46b9a956079d",
+      "id": "1072d161-998a-4cbf-aa84-e73e836f1efa",
       "number": 21,
       "content": "Ai có thể biết chắc rằng rồi đây linh hồn của con người sẽ đi lên còn giác hồn của loài thú sẽ đi xuống dưới đất chăng?",
       "order": 0,
       "parNumber": 16,
       "parIndex": 5,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.378Z",
-      "updatedAt": "2025-04-22T10:47:34.378Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.460Z",
+      "updatedAt": "2025-04-24T02:02:38.460Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "6726883d-df5a-42ae-8fd3-a15b445866c4",
+      "id": "6e691f42-ba14-4565-9f33-e6bfd731c601",
       "number": 22,
       "content": "Do đó tôi nhận thấy: không có gì tốt hơn cho con người là hưởng niềm vui trong công việc mình, vì đó là phần số của mình, vì ai sẽ đem cho người ấy thấy những gì sẽ xảy đến sau khi người ấy qua đời chăng?",
       "order": 0,
       "parNumber": 16,
       "parIndex": 6,
       "isPoetry": false,
-      "createdAt": "2025-04-22T10:47:34.410Z",
-      "updatedAt": "2025-04-22T10:47:34.410Z",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.489Z",
+      "updatedAt": "2025-04-24T02:02:38.489Z",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     }
   ],
   "footnotes": [
     {
-      "id": "9568390f-013b-449d-970a-6bdb02cfcc76",
+      "id": "13e822b7-4d71-4b77-b924-4824e27c8957",
       "content": "nt: Hebrew: “ruakh”; ctd: khí, gió, linh, hơi thở, tinh thần, linh hồn, linh giác, v.v.",
       "position": 140,
       "order": 0,
-      "createdAt": "2025-04-22T10:47:34.351Z",
-      "updatedAt": "2025-04-22T10:47:34.351Z",
-      "verseId": "a246e28a-5660-4c5e-81ed-45a42f98ac14",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.440Z",
+      "updatedAt": "2025-04-24T02:02:38.440Z",
+      "verseId": "7e86aeb5-b402-486a-b4ec-3dd7f315d966",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "4b183dc9-1c05-4863-a135-c8adcf787c27",
+      "id": "66248fa0-849f-44ed-942b-dbe874432fac",
       "content": "nt: Hebrew: “ruakh”",
       "position": 41,
       "order": 1,
-      "createdAt": "2025-04-22T10:47:34.390Z",
-      "updatedAt": "2025-04-22T10:47:34.390Z",
-      "verseId": "e41e68b7-8b96-4f1c-a614-46b9a956079d",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.470Z",
+      "updatedAt": "2025-04-24T02:02:38.470Z",
+      "verseId": "1072d161-998a-4cbf-aa84-e73e836f1efa",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "8e808477-38b0-4951-a5f8-9149ab6a5b51",
+      "id": "741d6baa-b23d-40aa-9456-fdcd51ce2efd",
       "content": "nt: Hebrew: “ruakh”",
       "position": 78,
       "order": 2,
-      "createdAt": "2025-04-22T10:47:34.400Z",
-      "updatedAt": "2025-04-22T10:47:34.400Z",
-      "verseId": "e41e68b7-8b96-4f1c-a614-46b9a956079d",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.479Z",
+      "updatedAt": "2025-04-24T02:02:38.479Z",
+      "verseId": "1072d161-998a-4cbf-aa84-e73e836f1efa",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     }
   ],
   "headings": [
     {
-      "id": "cba8041e-19f4-4100-9fa7-3b1a1d0587b6",
-      "content": "Sự Phán Xét trong Tương Lai thuộc về Đức Chúa Trời",
-      "level": 1,
-      "order": 0,
-      "createdAt": "2025-04-22T10:47:34.296Z",
-      "updatedAt": "2025-04-22T10:47:34.296Z",
-      "verseId": "040f9949-0243-48b1-a844-7a75f9aa5bdd",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
-    },
-    {
-      "id": "b5cd1f08-c878-4fbd-b625-618ebc73eed0",
+      "id": "a7223807-e0d9-44f2-b093-7cd994a66302",
       "content": "Việc Đức Chúa Trời Giao Phó",
       "level": 1,
       "order": 0,
-      "createdAt": "2025-04-22T10:47:34.186Z",
-      "updatedAt": "2025-04-22T10:47:34.186Z",
-      "verseId": "6873a5d8-a867-426d-8ba7-4e955e1aee6f",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.320Z",
+      "updatedAt": "2025-04-24T02:02:38.320Z",
+      "verseId": "73e39f0a-e19e-418b-aeb0-924adb2a6f72",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     },
     {
-      "id": "cd35d2a7-1f03-46bd-8429-a1b7d2b0582c",
+      "id": "2e7edebb-d135-40ef-87eb-efd03a6ad386",
+      "content": "Sự Phán Xét trong Tương Lai thuộc về Đức Chúa Trời",
+      "level": 1,
+      "order": 0,
+      "createdAt": "2025-04-24T02:02:38.398Z",
+      "updatedAt": "2025-04-24T02:02:38.398Z",
+      "verseId": "eb4e76ef-e4cd-4bee-8e0b-2d7190c3c969",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
+    },
+    {
+      "id": "7137a63b-929b-47e8-bf64-362b72e71d4e",
       "content": "Mọi Sự Đều Có Thời Kỳ",
       "level": 1,
       "order": 0,
-      "createdAt": "2025-04-22T10:47:33.969Z",
-      "updatedAt": "2025-04-22T10:47:33.969Z",
-      "verseId": "a66601de-ce78-408d-9472-aa989ede4d6d",
-      "chapterId": "f1a6d88a-e74b-4341-88bf-53de56c50e63"
+      "createdAt": "2025-04-24T02:02:38.160Z",
+      "updatedAt": "2025-04-24T02:02:38.160Z",
+      "verseId": "f2d85d54-0db9-4d13-95a6-f00fa8448fdf",
+      "chapterId": "13ff9d76-58dc-452d-acd9-da7ac88ae809"
     }
   ],
   "references": [],

@@ -1,127 +1,107 @@
 {
   "chapter": {
-    "id": "a85616f0-0814-4ce5-af8c-541f32e48ebf",
+    "id": "52c50518-1ee4-4541-848e-4c0cc4048f26",
     "number": 134,
     "ref": "https://www.bible.com/bible/19/PSA.134.BD2011",
-    "createdAt": "2025-04-22T10:10:27.151Z",
-    "updatedAt": "2025-04-22T10:10:27.151Z",
-    "bookId": "287f96f5-4a40-46df-b6a0-89edcd2581a9"
+    "createdAt": "2025-04-24T01:29:07.489Z",
+    "updatedAt": "2025-04-24T01:29:07.489Z",
+    "bookId": "1be24f59-6084-4aae-9ca9-e1e79d1deaa1"
   },
   "verses": [
     {
-      "id": "e628ca51-ef7a-4f48-ae91-f8c8f8143770",
+      "id": "d65c9916-96d8-4ab0-8a37-532c10447992",
       "number": 1,
       "content": "Hỡi tất cả tôi tớ **CHÚA**,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.028Z",
-      "updatedAt": "2025-04-22T10:44:33.028Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:25.996Z",
+      "updatedAt": "2025-04-24T01:59:25.996Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     },
     {
-      "id": "cdef8e0a-8c1e-402e-bc8f-40e44a22460d",
+      "id": "43f49ab5-3e0e-4909-b33f-ed7ff0186d45",
       "number": 1,
       "content": "Những người phục vụ trong nhà **CHÚA** ban đêm, xin hãy chúc tụng **CHÚA**.",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.076Z",
-      "updatedAt": "2025-04-22T10:44:33.076Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.023Z",
+      "updatedAt": "2025-04-24T01:59:26.023Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     },
     {
-      "id": "0849e027-78fd-46f0-bcae-86afdeccb344",
+      "id": "370dfe3a-7480-41ef-a725-79fa8e407014",
       "number": 2,
       "content": "Xin đưa cao đôi tay quý vị lên trong nơi thánh",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.086Z",
-      "updatedAt": "2025-04-22T10:44:33.086Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.032Z",
+      "updatedAt": "2025-04-24T01:59:26.032Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     },
     {
-      "id": "f3d942f1-00db-4eff-8746-11cc80f3bbf5",
+      "id": "a493210b-f28d-44d8-b2d5-ac340d8191f9",
       "number": 2,
       "content": "Và chúc tụng **CHÚA**.",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.098Z",
-      "updatedAt": "2025-04-22T10:44:33.098Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.043Z",
+      "updatedAt": "2025-04-24T01:59:26.043Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     },
     {
-      "id": "7576faa1-1bdb-46ef-acb2-c93ff75be4f1",
+      "id": "9281dc6d-72b8-4870-a9c0-156eefb9453e",
       "number": 3,
       "content": "Nguyện **CHÚA**, Đấng dựng nên trời và đất,",
       "order": 0,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.111Z",
-      "updatedAt": "2025-04-22T10:44:33.111Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.054Z",
+      "updatedAt": "2025-04-24T01:59:26.054Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     },
     {
-      "id": "8d1ca9aa-62d6-4a9d-b74f-a0de97db9dd1",
+      "id": "1fa4acf6-e4a0-4962-b68a-9354f410cb60",
       "number": 3,
       "content": "Ban phước cho quý vị từ Si-ôn.",
       "order": 1,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:44:33.124Z",
-      "updatedAt": "2025-04-22T10:44:33.124Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.065Z",
+      "updatedAt": "2025-04-24T01:59:26.065Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "0f095285-0e70-4f79-9a35-fffd42b58d00",
-      "content": "Kêu Gọi Những Người Phục Vụ Đền Thờ Ban Đêm Ca Ngợi",
+      "id": "88c4e84e-a78c-495c-8c0e-380b29834cb1",
+      "content": "Kêu Gọi Những Người Phục Vụ Đền Thờ Ban Đêm Ca Ngợi **CHÚA**",
       "level": 1,
       "order": 0,
-      "createdAt": "2025-04-22T10:44:33.045Z",
-      "updatedAt": "2025-04-22T10:44:33.045Z",
-      "verseId": "e628ca51-ef7a-4f48-ae91-f8c8f8143770",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
-    },
-    {
-      "id": "1695e656-4036-4b01-ae2f-3289d50f233a",
-      "content": "****",
-      "level": 1,
-      "order": 1,
-      "createdAt": "2025-04-22T10:44:33.055Z",
-      "updatedAt": "2025-04-22T10:44:33.055Z",
-      "verseId": "e628ca51-ef7a-4f48-ae91-f8c8f8143770",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
-    },
-    {
-      "id": "d94ba735-178e-477a-b055-0dcf6adad0d5",
-      "content": "CHÚA",
-      "level": 1,
-      "order": 2,
-      "createdAt": "2025-04-22T10:44:33.065Z",
-      "updatedAt": "2025-04-22T10:44:33.065Z",
-      "verseId": "e628ca51-ef7a-4f48-ae91-f8c8f8143770",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:26.013Z",
+      "updatedAt": "2025-04-24T01:59:26.013Z",
+      "verseId": "d65c9916-96d8-4ab0-8a37-532c10447992",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     }
   ],
   "references": [],
   "psalmMetadata": [
     {
-      "id": "ab9eaa71-4e0c-407c-8b2f-b46685753bf8",
+      "id": "8b002430-0299-403d-a1cc-909c52ee6ee6",
       "title": "Bài ca đi lên đền thánh",
-      "createdAt": "2025-04-22T10:44:33.896Z",
-      "updatedAt": "2025-04-22T10:44:33.896Z",
-      "chapterId": "a85616f0-0814-4ce5-af8c-541f32e48ebf"
+      "createdAt": "2025-04-24T01:59:27.115Z",
+      "updatedAt": "2025-04-24T01:59:27.115Z",
+      "chapterId": "52c50518-1ee4-4541-848e-4c0cc4048f26"
     }
   ]
 }

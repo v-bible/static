@@ -1,221 +1,191 @@
 {
   "chapter": {
-    "id": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3",
+    "id": "391a8208-ee97-464f-85cf-b684ec8a2e3d",
     "number": 123,
     "ref": "https://www.bible.com/bible/19/PSA.123.BD2011",
-    "createdAt": "2025-04-22T10:10:27.033Z",
-    "updatedAt": "2025-04-22T10:10:27.033Z",
-    "bookId": "287f96f5-4a40-46df-b6a0-89edcd2581a9"
+    "createdAt": "2025-04-24T01:29:07.361Z",
+    "updatedAt": "2025-04-24T01:29:07.361Z",
+    "bookId": "1be24f59-6084-4aae-9ca9-e1e79d1deaa1"
   },
   "verses": [
     {
-      "id": "9e4d8ad1-d870-40c2-99de-bd8c912906c3",
+      "id": "169f5dab-0734-40c5-be8b-76f1a511da29",
       "number": 1,
       "content": "Lạy Đấng ngự trên các tầng trời,",
       "order": 0,
       "parNumber": 0,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.651Z",
-      "updatedAt": "2025-04-22T10:43:51.651Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.267Z",
+      "updatedAt": "2025-04-24T01:58:49.267Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "5f07cdbe-10f5-43aa-aa3e-a300023da007",
+      "id": "100cc4cb-421c-48bb-a7b6-9f9805194efb",
       "number": 1,
       "content": "Con ngước mắt lên hướng về Ngài.",
       "order": 1,
       "parNumber": 1,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.709Z",
-      "updatedAt": "2025-04-22T10:43:51.709Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.295Z",
+      "updatedAt": "2025-04-24T01:58:49.295Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "3fba2a51-6a34-48ac-a4e2-ed619b4cbfcd",
+      "id": "32b94c30-c8d3-4d33-967d-434ef2e030e9",
       "number": 2,
       "content": "Kìa, như mắt các đầy tớ",
       "order": 0,
       "parNumber": 2,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.720Z",
-      "updatedAt": "2025-04-22T10:43:51.720Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.306Z",
+      "updatedAt": "2025-04-24T01:58:49.306Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "db75e27b-08c3-4a38-93f4-1a288864f415",
+      "id": "2052182d-c21a-4eb7-ba1c-c518a37f3093",
       "number": 2,
       "content": "Trông nơi tay ông chủ họ thể nào,",
       "order": 1,
       "parNumber": 3,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.732Z",
-      "updatedAt": "2025-04-22T10:43:51.732Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.317Z",
+      "updatedAt": "2025-04-24T01:58:49.317Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "0943647d-38f4-43eb-a673-667c31323eac",
+      "id": "80fcfc87-b97f-4e4f-a3e3-18751af76b56",
       "number": 2,
       "content": "Như mắt người tớ gái",
       "order": 2,
       "parNumber": 4,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.745Z",
-      "updatedAt": "2025-04-22T10:43:51.745Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.327Z",
+      "updatedAt": "2025-04-24T01:58:49.327Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "355ba209-b211-449a-9286-d1b38e386bba",
+      "id": "fd48a848-c91d-4c7c-9e52-47123a824d8e",
       "number": 2,
       "content": "Trông nơi tay bà chủ nàng thể nào,",
       "order": 3,
       "parNumber": 5,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.758Z",
-      "updatedAt": "2025-04-22T10:43:51.758Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.340Z",
+      "updatedAt": "2025-04-24T01:58:49.340Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "0584fdaa-d55c-4bb1-8eb3-b3b533d6dd67",
+      "id": "ceb54e01-1259-483f-acea-59de575963f3",
       "number": 2,
       "content": "Mắt chúng con cũng vọng trông nơi **CHÚA**, Đức Chúa Trời chúng con, thể ấy,",
       "order": 4,
       "parNumber": 6,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.771Z",
-      "updatedAt": "2025-04-22T10:43:51.771Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.353Z",
+      "updatedAt": "2025-04-24T01:58:49.353Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "fc3e7ff5-79a2-4d66-803c-5256c0d20afb",
+      "id": "907942aa-b6a7-414c-a28f-3d1dc94abc93",
       "number": 2,
       "content": "Cho đến khi Ngài bày tỏ ơn thương xót đối với chúng con.",
       "order": 5,
       "parNumber": 7,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.784Z",
-      "updatedAt": "2025-04-22T10:43:51.784Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.366Z",
+      "updatedAt": "2025-04-24T01:58:49.366Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "ecc567c7-a32a-42e7-a387-1b959f85fe32",
+      "id": "57202dcc-a26d-47a9-afb4-3fb480772c84",
       "number": 3,
       "content": "Xin thương xót chúng con, **CHÚA** ôi, xin thương xót chúng con,",
       "order": 0,
       "parNumber": 8,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.797Z",
-      "updatedAt": "2025-04-22T10:43:51.797Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.380Z",
+      "updatedAt": "2025-04-24T01:58:49.380Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "6e99e5ea-35d3-46cc-8b02-aed7ab8152e1",
+      "id": "7ee1bb15-f038-4432-a7be-10295b39c85e",
       "number": 3,
       "content": "Vì chúng con bị khinh khi quá đỗi.",
       "order": 1,
       "parNumber": 9,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.810Z",
-      "updatedAt": "2025-04-22T10:43:51.810Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.393Z",
+      "updatedAt": "2025-04-24T01:58:49.393Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "31b67d17-d411-43d2-a6a4-66cf9ec6d2d6",
+      "id": "88869105-a9d5-4a1c-9333-a08a498da843",
       "number": 4,
       "content": "Linh hồn chúng con quá ngao ngán",
       "order": 0,
       "parNumber": 10,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.824Z",
-      "updatedAt": "2025-04-22T10:43:51.824Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.407Z",
+      "updatedAt": "2025-04-24T01:58:49.407Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "a6ded04e-1642-4bad-bf4f-299579d2fdf1",
+      "id": "44ba0d61-6533-47cb-a652-0b2a8951653e",
       "number": 4,
       "content": "Những lời nhạo báng của đám người kiêu ngạo,",
       "order": 1,
       "parNumber": 11,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.840Z",
-      "updatedAt": "2025-04-22T10:43:51.840Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.423Z",
+      "updatedAt": "2025-04-24T01:58:49.423Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     },
     {
-      "id": "840f4f28-505c-491f-a232-4a884b65a1bd",
+      "id": "d0ea1675-bb0a-4caf-8852-a77544717d8c",
       "number": 4,
       "content": "Cùng với giọng khinh người của những kẻ kiêu căng.",
       "order": 2,
       "parNumber": 12,
       "parIndex": 0,
       "isPoetry": true,
-      "createdAt": "2025-04-22T10:43:51.854Z",
-      "updatedAt": "2025-04-22T10:43:51.854Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.437Z",
+      "updatedAt": "2025-04-24T01:58:49.437Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     }
   ],
   "footnotes": [],
   "headings": [
     {
-      "id": "27cb3e98-a7b5-4517-aec3-0a80dcaa75da",
-      "content": "Cầu Xin",
+      "id": "7b5691c3-d9b1-412d-baaf-e20c2d1b5063",
+      "content": "Cầu Xin **CHÚA** Giúp Đỡ",
       "level": 1,
       "order": 0,
-      "createdAt": "2025-04-22T10:43:51.668Z",
-      "updatedAt": "2025-04-22T10:43:51.668Z",
-      "verseId": "9e4d8ad1-d870-40c2-99de-bd8c912906c3",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
-    },
-    {
-      "id": "9da45592-8ea8-4eec-bd61-26ac83797b0c",
-      "content": "****",
-      "level": 1,
-      "order": 1,
-      "createdAt": "2025-04-22T10:43:51.678Z",
-      "updatedAt": "2025-04-22T10:43:51.678Z",
-      "verseId": "9e4d8ad1-d870-40c2-99de-bd8c912906c3",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
-    },
-    {
-      "id": "c07a915e-8066-4498-9c59-8075b74681aa",
-      "content": "CHÚA",
-      "level": 1,
-      "order": 2,
-      "createdAt": "2025-04-22T10:43:51.688Z",
-      "updatedAt": "2025-04-22T10:43:51.688Z",
-      "verseId": "9e4d8ad1-d870-40c2-99de-bd8c912906c3",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
-    },
-    {
-      "id": "6b0d3da8-34df-48d9-a19a-da62fd1b276f",
-      "content": "Giúp Đỡ",
-      "level": 1,
-      "order": 3,
-      "createdAt": "2025-04-22T10:43:51.698Z",
-      "updatedAt": "2025-04-22T10:43:51.698Z",
-      "verseId": "9e4d8ad1-d870-40c2-99de-bd8c912906c3",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:49.285Z",
+      "updatedAt": "2025-04-24T01:58:49.285Z",
+      "verseId": "169f5dab-0734-40c5-be8b-76f1a511da29",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     }
   ],
   "references": [],
   "psalmMetadata": [
     {
-      "id": "5d44e59a-9213-4caf-99a5-6ed833a8d378",
+      "id": "8a771f9a-0576-4fe1-a3eb-43a34869a246",
       "title": "Bài ca đi lên đền thánh",
-      "createdAt": "2025-04-22T10:43:53.441Z",
-      "updatedAt": "2025-04-22T10:43:53.441Z",
-      "chapterId": "2e0c19d6-ab37-4d2f-adc2-fad4e82bd2f3"
+      "createdAt": "2025-04-24T01:58:50.221Z",
+      "updatedAt": "2025-04-24T01:58:50.221Z",
+      "chapterId": "391a8208-ee97-464f-85cf-b684ec8a2e3d"
     }
   ]
 }
