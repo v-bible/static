@@ -1,3 +1,9 @@
+<!-- prettier-ignore -->
+> [!WARNING]
+> **Archived**: The repo has moved to
+> https://huggingface.co/datasets/v-bible/bible
+> repository.
+
 <div align="center">
 
   <h1>Static</h1>
