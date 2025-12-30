@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 > [!WARNING]
 > **Archived**: The repo has moved to
-> https://huggingface.co/datasets/v-bible/bible
+> https://huggingface.co/datasets/v-bible/catholic-resources
 > repository.
 
 <div align="center">
